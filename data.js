@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.19  16:38",
+  "fetchedAt": "2026.06.19  20:57",
   "sourceColors": {
-    "日経クロステック": {
+    "WBS和歌山放送ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "PR TIMES": {
+    "日経クロステック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "MONOist": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "信濃毎日新聞デジタル": {
+    "MONOist": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "AdverTimes.（アドタイ） by 宣伝会議": {
+    "信濃毎日新聞デジタル": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "47NEWS": {
+    "AdverTimes.（アドタイ） by 宣伝会議": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "webdice.jp": {
+    "47NEWS": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "日本経済新聞": {
+    "webdice.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ナタリー": {
+    "日本経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "VIETJO": {
+    "ナタリー": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -83,6 +83,16 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "WBS和歌山放送ニュース",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "タカショーデジテックがミラノで日本の原風景と調和した照明デザイン発表",
+      "url": "https://news.wbs.co.jp/205976",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.wbs.co.jp/wp-content/themes/wp001/images/no_image_news.png",
+      "today": true
+    },
     {
       "source": "日経クロステック",
       "cat": "賞・コンペ",
@@ -221,16 +231,6 @@ window.LUMINO_DATA = {
       "url": "https://natalie.mu/stage/news/490312",
       "excerpt": "",
       "thumbnailUrl": "https://ogre.natalie.mu/media/news/stage/2022/0819/DSC_2542.jpg?impolicy=twitter_card_face_crop",
-      "today": true
-    },
-    {
-      "source": "VIETJO",
-      "cat": "賞・コンペ",
-      "date": "2026.06.19",
-      "title": "ダナン：ロン橋が国際的な照明デザイン賞受賞［観光］",
-      "url": "https://www.viet-jo.com/news/tourism/140123081604.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.viet-jo.com/image/news/140123081500.jpg",
       "today": true
     },
     {
