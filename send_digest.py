@@ -21,10 +21,14 @@ def load_config():
     # GitHub Actions等のCI環境では環境変数（Secrets）を優先的に使う
     env_password = os.environ.get("MAIL_APP_PASSWORD")
     if env_password:
+        sender = os.environ.get("MAIL_SENDER")
+        recipient = os.environ.get("MAIL_RECIPIENT")
+        if not sender or not recipient:
+            raise RuntimeError("MAIL_SENDER / MAIL_RECIPIENT 環境変数(Secrets)が未設定です。")
         return {
-            "sender_email": os.environ.get("MAIL_SENDER", "[redacted-email]"),
+            "sender_email": sender,
             "app_password": env_password,
-            "recipient_email": os.environ.get("MAIL_RECIPIENT", "[redacted-email]"),
+            "recipient_email": recipient,
         }
 
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
