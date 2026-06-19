@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  01:25",
+  "fetchedAt": "2026.06.20  01:35",
   "sourceColors": {
     "WBS和歌山放送ニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,25 +41,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "佐藤総合計画": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "三菱地所設計": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "照明学会": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "大光電機": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "照明学会": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -214,6 +230,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2026.06.16",
+      "title": "佐藤総合計画では、2026年度のインターンシップの参加者を募集いたします。",
+      "url": "https://www.axscom.jp/internship/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
+      "source": "三菱地所設計",
+      "cat": "国内情報",
+      "date": "2026.06.15",
+      "title": "茶室「カタラ庵」 UIA世界建築家大会2026バルセロナ・JIA展示ブースにて出展！",
+      "url": "https://www.mjd.co.jp/news/80727/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2026/06/catal-an3-2048x1152-1-768x432.jpg",
+      "today": false
+    },
+    {
       "source": "LPA",
       "cat": "デザイン",
       "date": "2026.06.11",
@@ -244,6 +300,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
       "source": "シリウスライティングオフィス",
       "cat": "デザイン",
       "date": "2026.06.04",
@@ -261,6 +327,56 @@ window.LUMINO_DATA = {
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
       "excerpt": "",
       "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
+      "today": false
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.06.03",
+      "title": "ç´å¥äºä¾ã«ç¾è¡é¤¨ã»åç©é¤¨ã»ã¹ãã¼ãç©ä»¶ãè¿½å ãã¾ããã",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
+      "today": false
+    },
+    {
+      "source": "三菱地所設計",
+      "cat": "国内情報",
+      "date": "2026.05.28",
+      "title": "高校生が参画する新しいまちづくりプロセスの実践『富士山の恵み×高校生アイデアワークショップ』を開催しました",
+      "url": "https://www.mjd.co.jp/news/80634/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2026/05/photo_01-768x380.jpg",
+      "today": false
+    },
+    {
+      "source": "三菱地所設計",
+      "cat": "国内情報",
+      "date": "2026.05.25",
+      "title": "6月1日 設立記念日に伴う休業のお知らせ",
+      "url": "https://www.mjd.co.jp/news/80637/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2022/04/mjd_news_logo-768x433.jpg",
       "today": false
     },
     {
@@ -284,6 +400,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.05.20",
@@ -294,6 +420,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "三菱地所設計",
+      "cat": "賞・コンペ",
+      "date": "2026.05.20",
+      "title": "当社設計者が「2025年度日本造園学会賞奨励賞（設計作品部門）」受賞",
+      "url": "https://www.mjd.co.jp/news/80597/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2025/10/take_7077_low-768x512.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "新製品",
       "date": "2026.05.18",
@@ -301,6 +437,26 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260518-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/05/pro7_2560px_20260518.png",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2026.05.15",
+      "title": "2050年カーボンニュートラルに向けた弊社の取り組みを更新いたしました。",
+      "url": "https://www.axscom.jp/feature/zeb/zebpromotion/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.04.28",
+      "title": "YAMAGIWA at 3daysofdesign, Copenhagen",
+      "url": "https://www.yamagiwa.co.jp/news/76518/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/04/260416_1920-1080pr-1-1024x576.jpg",
       "today": false
     },
     {
@@ -324,6 +480,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.04.27",
+      "title": "Pro's Way ä½å®ç§æã®ããããæ´æ°ãã¾ããã",
+      "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol51.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
+      "today": false
+    },
+    {
       "source": "パナソニック",
       "cat": "国内情報",
       "date": "2026.04.23",
@@ -334,6 +500,26 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.04.21",
+      "title": "GW期間中のオンラインストア対応について",
+      "url": "https://www.yamagiwa.co.jp/news/76514/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.04.20",
+      "title": "ã«ã¿ã­ã°ãD.LIGHTING STYLE 2026ããå¬éãã¾ããã",
+      "url": "https://src.lighting-daiko.co.jp/iportal/CatalogSearch.do?method=catalogSearchByDefaultSettingCategories&volumeID=DIK00003&designID=DKDDPC01",
+      "excerpt": "",
+      "thumbnailUrl": "https://src.lighting-daiko.co.jp/iportal/designCustomize/type_DKDDPC01/images/text_skip_top.gif",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.04.16",
@@ -341,6 +527,26 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260416-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/04/web_news.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.04.15",
+      "title": "ショップ・ショールーム GW休業のお知らせ（4/29～5/6）",
+      "url": "https://www.yamagiwa.co.jp/news/76390/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.04.13",
+      "title": "TikTok上における当社なりすましアカウントに関する注意喚起",
+      "url": "https://www.yamagiwa.co.jp/news/76384/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -371,6 +577,25 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.04.03",
+      "title": "ã·ã¹ãã ã¡ã³ããã³ã¹å®æ½ 4/16ï¼æ¨ï¼20:00ï½23:00ã®ãç¥ãã",
+      "url": "https://www2.lighting-daiko.co.jp/topics/detail.cgi?id=595",
+      "excerpt": "",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2026.04.01",
+      "title": "新年度を迎えるにあたり、組織のあり方を見直しました。",
+      "url": "https://www.axscom.jp/company/organization/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "today": false
+    },
+    {
       "source": "照明学会",
       "cat": "国内情報",
       "date": "2026.03.31",
@@ -397,6 +622,16 @@ window.LUMINO_DATA = {
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1439/",
       "excerpt": "",
       "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/03/NXBudokan_01_IALD-659x439.jpg",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2026.03.16",
+      "title": "共環域について発表いたします。",
+      "url": "https://www.axscom.jp/topics/news/7519/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
       "today": false
     },
     {
@@ -440,6 +675,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2026.02.20",
+      "title": "2027年度新卒採用の選考のうち、電気設備設計および機械設備設計の分野について追加募集を行います。応募に当たっては直接応募書類をお送りください。",
+      "url": "https://www.axscom.jp/recruit/type/?recruit_new",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.02.11",
@@ -456,6 +701,16 @@ window.LUMINO_DATA = {
       "title": "製品価格改定のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20260210-01/",
       "excerpt": "",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2026.01.23",
+      "title": "【お知らせ】なりすましメールに関する注意喚起",
+      "url": "https://www.axscom.jp/topics/news/7354/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
       "today": false
     },
     {
@@ -527,6 +782,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2025.12.08",
+      "title": "年末年始休業日のお知らせ",
+      "url": "https://www.axscom.jp/topics/news/7221/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "today": false
+    },
+    {
       "source": "シリウスライティングオフィス",
       "cat": "デザイン",
       "date": "2025.12.02",
@@ -554,6 +819,16 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2025/10/22/cnccii/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2025/10/CNCC2_02-300x131.jpg",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2025.10.22",
+      "title": "式典開催による休業日のお知らせ",
+      "url": "https://www.axscom.jp/topics/news/6761/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
       "today": false
     },
     {
@@ -614,6 +889,16 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2025/08/04/talkevent/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2025/08/250801_Lecture_TOP.jpg",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "国内情報",
+      "date": "2025.07.18",
+      "title": "2025年度のオープンオフィスについて、応募期間を延長いたしました。",
+      "url": "https://www.axscom.jp/openoffice2025/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
       "today": false
     },
     {
