@@ -19,6 +19,15 @@ import requests
 from bs4 import BeautifulSoup
 from googlenewsdecoder import gnewsdecoder
 
+
+def safe_get(url, **kwargs):
+    """一部サイトはサーバー側の証明書チェーン不備でSSL検証に失敗するため、
+    その場合のみ検証なしで再試行する（公開ニュースの読み取り専用アクセスのため許容）。"""
+    try:
+        return requests.get(url, **kwargs)
+    except requests.exceptions.SSLError:
+        return requests.get(url, verify=False, **kwargs)
+
 OUTPUT_PATH = Path(__file__).parent / "data.js"
 UA = {"User-Agent": "Mozilla/5.0"}
 HTTP_TIMEOUT = 15
@@ -90,7 +99,7 @@ SOURCE_PALETTE = [
     {"bg": "rgba(255,170,120,0.15)", "fg": "#ffaa78"},
 ]
 
-MAX_ARTICLES = 60
+MAX_ARTICLES = 110
 THUMBNAIL_WORKERS = 8
 THUMBNAIL_TIMEOUT = 8
 
@@ -102,6 +111,11 @@ PER_SOURCE_CAP = {
     "collect_ieij": 10,
     "collect_lpa": 10,
     "collect_sirius": 10,
+    "collect_yamagiwa": 10,
+    "collect_daiko": 10,
+    "collect_mjd": 10,
+    "collect_azusa_sekkei": 10,
+    "collect_ishimoto": 10,
 }
 
 
@@ -207,7 +221,7 @@ def collect_panasonic():
 def collect_endo_lighting():
     base = "https://www.endo-lighting.co.jp/news/"
     try:
-        res = requests.get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
         res.raise_for_status()
     except Exception as exc:
         print(f"[warn] endo-lighting fetch failed: {exc}")
@@ -237,7 +251,7 @@ def collect_endo_lighting():
 def collect_ieij():
     base = "https://www.ieij.or.jp/news/"
     try:
-        res = requests.get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
         res.raise_for_status()
     except Exception as exc:
         print(f"[warn] ieij fetch failed: {exc}")
@@ -294,6 +308,128 @@ def collect_sirius():
     return collect_wordpress_feed("シリウスライティングオフィス", "https://www.sirius-ltg.com/news/feed/")
 
 
+def collect_yamagiwa():
+    return collect_wordpress_feed("YAMAGIWA", "https://www.yamagiwa.co.jp/news/feed/", default_cat="新製品")
+
+
+# ---- 大光電機（スクレイピング） ----
+
+def collect_daiko():
+    base = "https://www2.lighting-daiko.co.jp/topics/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] daiko fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for dt in soup.find_all("dt"):
+        date_m = re.search(r"(\d{4})\.(\d{2})\.(\d{2})", dt.get_text())
+        dd = dt.find_next_sibling("dd")
+        a = dd.find("a", href=True) if dd else None
+        if not date_m or not a:
+            continue
+        title = a.get_text(strip=True)
+        if not title:
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("大光電機", categorize(title, default="新製品"), pub_date, title, href))
+    return articles
+
+
+# ---- 三菱地所設計（スクレイピング） ----
+
+def collect_mjd():
+    base = "https://www.mjd.co.jp/news/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] mjd fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for a in soup.find_all("a", href=re.compile(r"/news/\d+/$")):
+        date_span = a.find("span", class_="date")
+        title_p = a.find("p", class_="layout_list01_txt02")
+        if not date_span or not title_p:
+            continue
+        date_m = re.search(r"(\d{4})\.(\d{2})\.(\d{2})", date_span.get_text())
+        title = title_p.get_text(strip=True)
+        if not date_m or not title:
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        img = a.find("img")
+        thumbnail = img.get("data-imgsrc") or img.get("src") if img else None
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("三菱地所設計", categorize(title), pub_date, title, href, thumbnail_url=thumbnail))
+    return articles
+
+
+# ---- 佐藤総合計画／AZUSA SEKKEI（スクレイピング） ----
+
+def collect_azusa_sekkei():
+    base = "https://www.axscom.jp/topics/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] azusa sekkei fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for block in soup.find_all("div", class_="topics_block"):
+        a = block.find("a", href=True)
+        day_span = block.find("span", class_="topics_day")
+        title_p = block.find("p")
+        if not a or not day_span or not title_p:
+            continue
+        date_m = re.search(r"(\d{4})年(\d{1,2})月(\d{1,2})日", day_span.get_text())
+        title = title_p.get_text(strip=True)
+        if not date_m or not title:
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("佐藤総合計画", categorize(title), pub_date, title, href))
+    return articles
+
+
+# ---- 石本建築事務所（スクレイピング） ----
+
+def collect_ishimoto():
+    base = "https://www.ishimoto.co.jp/topics/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] ishimoto fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for a in soup.find_all("a", class_="articleList-article", href=True):
+        time_tag = a.find("time")
+        title_p = a.find("div", class_="articleList-article-text")
+        title_p = title_p.find("p") if title_p else None
+        if not time_tag or not title_p or not time_tag.get("datetime"):
+            continue
+        date_m = re.match(r"(\d{4})-(\d{2})-(\d{2})", time_tag["datetime"])
+        title = title_p.get_text(strip=True)
+        if not date_m or not title:
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        img = a.find("img")
+        thumbnail = img.get("src") if img else None
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("石本建築事務所", categorize(title), pub_date, title, href, thumbnail_url=thumbnail))
+    return articles
+
+
 # ---- 集約・サムネイル補完 ----
 
 def collect_articles():
@@ -304,6 +440,11 @@ def collect_articles():
         collect_ieij,
         collect_lpa,
         collect_sirius,
+        collect_yamagiwa,
+        collect_daiko,
+        collect_mjd,
+        collect_azusa_sekkei,
+        collect_ishimoto,
     ]
     seen_links = set()
     seen_titles = set()
@@ -358,7 +499,7 @@ def pick_fallback_content_image(soup: BeautifulSoup, base_url: str):
 
 def fetch_og_image(real_url: str):
     try:
-        res = requests.get(real_url, headers=UA, timeout=THUMBNAIL_TIMEOUT)
+        res = safe_get(real_url, headers=UA, timeout=THUMBNAIL_TIMEOUT)
         soup = BeautifulSoup(res.text, "html.parser")
         for prop in ("og:image", "twitter:image"):
             tag = soup.find("meta", property=prop) or soup.find("meta", attrs={"name": prop})
