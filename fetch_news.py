@@ -59,6 +59,7 @@ EXCLUDE_KEYWORDS = [
     "テールランプ",
     "車載照明",
     "LucidShape",
+    "LightTools",
 ]
 
 
