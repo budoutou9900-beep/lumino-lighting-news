@@ -1,56 +1,98 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.19  16:04",
+  "fetchedAt": "2026.06.20  01:25",
   "sourceColors": {
-    "PR TIMES": {
+    "WBS和歌山放送ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "MONOist": {
+    "日経クロステック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "信濃毎日新聞デジタル": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "AdverTimes.（アドタイ） by 宣伝会議": {
+    "MONOist": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "47NEWS": {
+    "信濃毎日新聞デジタル": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "webdice.jp": {
+    "AdverTimes.（アドタイ） by 宣伝会議": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "日本経済新聞": {
+    "47NEWS": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "webdice.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "日本経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "ナタリー": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "照明学会": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "照明学会": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
+    {
+      "source": "WBS和歌山放送ニュース",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "タカショーデジテックがミラノで日本の原風景と調和した照明デザイン発表",
+      "url": "https://news.wbs.co.jp/205976",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.wbs.co.jp/wp-content/themes/wp001/images/no_image_news.png",
+      "today": false
+    },
+    {
+      "source": "日経クロステック",
+      "cat": "賞・コンペ",
+      "date": "2026.06.19",
+      "title": "最優秀はリアスホールなど、省エネ照明デザイン賞",
+      "url": "https://xtech.nikkei.com/kn/article/knp/news/20140109/647171/",
+      "excerpt": "",
+      "thumbnailUrl": "https://xtech.nikkei.com/kn/article/knp/news/20140109/647171/thumb_720_01.jpg?20220512",
+      "today": false
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "照明デザインの最先端を創るデザイナー マイケル・アナスタシアデスによるFLOS新作「COORDINATES」日本初展示",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000016901.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://prtimes.jp/i/16901/42/resize/d16901-42-450465-1.jpg",
+      "today": false
+    },
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
@@ -59,7 +101,7 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000000155.000005180.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/5180/155/resize/d5180-155-764499-0.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "MONOist",
@@ -69,7 +111,7 @@ window.LUMINO_DATA = {
       "url": "https://monoist.itmedia.co.jp/mn/articles/2102/04/news029.html",
       "excerpt": "",
       "thumbnailUrl": "https://image.itmedia.co.jp/mn/articles/2102/04/mn_fanews_21012701a_w290.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "PR TIMES",
@@ -79,7 +121,7 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000000039.000030338.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/30338/39/resize/d30338-39-447253-2.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "PR TIMES",
@@ -89,27 +131,7 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000002506.000003442.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/3442/2506/resize/d3442-2506-621306-0.jpg",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "新製品",
-      "date": "2026.06.19",
-      "title": "照明設計解析ソフトウェア｢LightTools｣最新バージョン 8.2 リリースのお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000144.000004714.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://prtimes.jp/i/4714/144/resize/d4714-144-768750-0.jpg",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "国内情報",
-      "date": "2026.06.19",
-      "title": "照明設計解析ソフトウェア「LightTools」最新バージョン8.5 販売開始のお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000273.000004714.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://prtimes.jp/i/4714/273/resize/d4714-273-788187-0.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "信濃毎日新聞デジタル",
@@ -119,7 +141,7 @@ window.LUMINO_DATA = {
       "url": "https://www.shinmai.co.jp/news/article/CNTS2025020600830",
       "excerpt": "",
       "thumbnailUrl": "https://image.shinmai.co.jp/web-image/20250206/CNTS2025020600831_M.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "PR TIMES",
@@ -129,17 +151,7 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000000004.000131308.html",
       "excerpt": "",
       "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/131308/4/131308-4-f746103d204270d504ae50d71138b7bf-640x427.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "新製品",
-      "date": "2026.06.19",
-      "title": "照明設計解析ソフトウェア「LightTools」最新バージョン8.4リリースのお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000217.000004714.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://prtimes.jp/i/4714/217/resize/d4714-217-699767-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "AdverTimes.（アドタイ） by 宣伝会議",
@@ -149,7 +161,7 @@ window.LUMINO_DATA = {
       "url": "https://www.advertimes.com/20120208/article53437/",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.advertimes.com/wp-content/uploads/00d5405762eedfe4b63449a8279ba512.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "47NEWS",
@@ -159,7 +171,7 @@ window.LUMINO_DATA = {
       "url": "https://www.47news.jp/7987392.html",
       "excerpt": "",
       "thumbnailUrl": "https://img.cf.47news.jp/public/photo/9a848a8ce2735a9a8f258e57449fe5f7/photo.jpeg",
-      "today": true
+      "today": false
     },
     {
       "source": "webdice.jp",
@@ -169,7 +181,7 @@ window.LUMINO_DATA = {
       "url": "http://www.webdice.jp/dice/detail/5690/index.html",
       "excerpt": "",
       "thumbnailUrl": "http://www.webdice.jp/article_images/20181012/5690_1539309273_l.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "PR TIMES",
@@ -179,7 +191,7 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000000023.000061855.html",
       "excerpt": "",
       "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/61855/23/61855-23-cad0ebca0998a3ad7f20e322a0c1fccb-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "today": true
+      "today": false
     },
     {
       "source": "日本経済新聞",
@@ -189,17 +201,17 @@ window.LUMINO_DATA = {
       "url": "https://www.nikkei.com/article/DGKDZO39550790T10C12A3NNSP00/",
       "excerpt": "",
       "thumbnailUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKDZO3955080013032012NNSP00-4.jpg?auto=format&bg=FFFF&fill=blur&fit=fill&h=630&upscale=false&w=1200&s=1c570da65db746151d31427fba1097bd",
-      "today": true
+      "today": false
     },
     {
-      "source": "PR TIMES",
+      "source": "ナタリー",
       "cat": "国内情報",
       "date": "2026.06.19",
-      "title": "照明設計解析ソフトウェア「LightTools」最新バージョン8.6 販売開始のお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000318.000004714.html",
+      "title": "3つの照明プランで“ヘンシン”し続ける、イデビアン・クルー新作「ヘンシン」",
+      "url": "https://natalie.mu/stage/news/490312",
       "excerpt": "",
-      "thumbnailUrl": "https://prtimes.jp/i/4714/318/resize/d4714-318-583946-8.jpg",
-      "today": true
+      "thumbnailUrl": "https://ogre.natalie.mu/media/news/stage/2022/0819/DSC_2542.jpg?impolicy=twitter_card_face_crop",
+      "today": false
     },
     {
       "source": "LPA",
