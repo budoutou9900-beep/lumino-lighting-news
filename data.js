@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  01:35",
+  "fetchedAt": "2026.06.20  01:37",
   "sourceColors": {
     "WBS和歌山放送ニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,25 +57,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "石本建築事務所": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "照明学会": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "照明学会": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -280,6 +284,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "石本建築事務所",
+      "cat": "国内情報",
+      "date": "2026.06.10",
+      "title": "須賀川市民交流センターtetteが「ELLE DECOR」2026年6月号に掲載されました",
+      "url": "https://www.ishimoto.co.jp/topics/13840/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/topics/7219/news_sukagawa.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.06.09",
@@ -360,6 +374,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "石本建築事務所",
+      "cat": "デザイン",
+      "date": "2026.06.01",
+      "title": "デザインストーリー「STATION Ai」を公開いたしました",
+      "url": "https://www.ishimoto.co.jp/topics/13824/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_STATIONAi.jpg",
+      "today": false
+    },
+    {
       "source": "三菱地所設計",
       "cat": "国内情報",
       "date": "2026.05.28",
@@ -377,6 +401,16 @@ window.LUMINO_DATA = {
       "url": "https://www.mjd.co.jp/news/80637/",
       "excerpt": "",
       "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2022/04/mjd_news_logo-768x433.jpg",
+      "today": false
+    },
+    {
+      "source": "石本建築事務所",
+      "cat": "国内情報",
+      "date": "2026.05.25",
+      "title": "株式会社石本建築事務所　会社説明会2026を開催します",
+      "url": "https://www.ishimoto.co.jp/topics/13806/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/20250918.jpg",
       "today": false
     },
     {
@@ -490,6 +524,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "石本建築事務所",
+      "cat": "国内情報",
+      "date": "2026.04.24",
+      "title": "メールにおけるパスワード付きZIPファイル受信廃止のお知らせ",
+      "url": "https://www.ishimoto.co.jp/topics/13783/",
+      "excerpt": "",
+      "thumbnailUrl": "/wp-content/themes/ishimoto_2023/img/news/no-image.jpg",
+      "today": false
+    },
+    {
       "source": "パナソニック",
       "cat": "国内情報",
       "date": "2026.04.23",
@@ -507,6 +551,16 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/76514/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "石本建築事務所",
+      "cat": "国内情報",
+      "date": "2026.04.21",
+      "title": "池之上小学校が「月刊体育施設」2026年4月号に掲載されました",
+      "url": "https://www.ishimoto.co.jp/topics/13780/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_ikenoue.jpg",
       "today": false
     },
     {
@@ -550,6 +604,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "石本建築事務所",
+      "cat": "国内情報",
+      "date": "2026.04.10",
+      "title": "大型連休に伴う休業日のお知らせ",
+      "url": "https://www.ishimoto.co.jp/topics/13753/",
+      "excerpt": "",
+      "thumbnailUrl": "/wp-content/themes/ishimoto_2023/img/news/no-image.jpg",
+      "today": false
+    },
+    {
       "source": "照明学会",
       "cat": "国内情報",
       "date": "2026.04.03",
@@ -583,6 +647,16 @@ window.LUMINO_DATA = {
       "title": "ã·ã¹ãã ã¡ã³ããã³ã¹å®æ½ 4/16ï¼æ¨ï¼20:00ï½23:00ã®ãç¥ãã",
       "url": "https://www2.lighting-daiko.co.jp/topics/detail.cgi?id=595",
       "excerpt": "",
+      "today": false
+    },
+    {
+      "source": "石本建築事務所",
+      "cat": "賞・コンペ",
+      "date": "2026.04.02",
+      "title": "上田市本庁舎が第40回空気調和・衛生工学会振興賞技術振興賞を受賞いたしました",
+      "url": "https://www.ishimoto.co.jp/topics/13733/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/topics/11067/news_ueda.jpg",
       "today": false
     },
     {
@@ -685,6 +759,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "石本建築事務所",
+      "cat": "国内情報",
+      "date": "2026.02.19",
+      "title": "AEC Tech 2025に参加しました。学びと事例について参加者より報告会を開催します。",
+      "url": "https://www.ishimoto.co.jp/topics/13636/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_AEC.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.02.11",
@@ -701,6 +785,26 @@ window.LUMINO_DATA = {
       "title": "製品価格改定のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20260210-01/",
       "excerpt": "",
+      "today": false
+    },
+    {
+      "source": "石本建築事務所",
+      "cat": "賞・コンペ",
+      "date": "2026.02.06",
+      "title": "中津川市立福岡小学校が令和7年度優良学校施設表彰 文教施設協会会長賞(最優秀賞)／中央区立晴海西小学校・晴海西中学校が文教施設協会賞(優秀賞)を受賞いたしました",
+      "url": "https://www.ishimoto.co.jp/topics/13621/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_fukuoka2-1.jpg",
+      "today": false
+    },
+    {
+      "source": "石本建築事務所",
+      "cat": "賞・コンペ",
+      "date": "2026.01.30",
+      "title": "対馬博物館がAACA賞2025 奨励賞を受賞いたしました",
+      "url": "https://www.ishimoto.co.jp/topics/13611/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_tsushima.jpg",
       "today": false
     },
     {
