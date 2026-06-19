@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LUMINO — 照明業界ニュースダッシュボード</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="lumino-bg">
+    <div class="lumino-glow"></div>
+    <div class="lumino-wrap">
+
+      <!-- HEADER -->
+      <header class="lumino-header">
+        <div class="lumino-brand">
+          <div class="lumino-logo"><div class="lumino-logo-dot"></div></div>
+          <div>
+            <div class="lumino-wordmark">LUMINO</div>
+            <div class="lumino-subtitle">照明業界ニュースダッシュボード</div>
+          </div>
+        </div>
+        <div class="lumino-header-right">
+          <div class="lumino-updated">
+            <div class="lumino-updated-label">Last updated</div>
+            <div class="lumino-updated-time" id="lastUpdated">2026.06.19  08:42</div>
+          </div>
+          <button class="lumino-refresh" id="refreshBtn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" id="refreshIcon"><path d="M21 12a9 9 0 1 1-2.64-6.36"></path><path d="M21 3v5h-5"></path></svg>
+            更新
+          </button>
+        </div>
+      </header>
+
+      <!-- FEATURED HERO -->
+      <section class="lumino-hero-section">
+        <div class="lumino-hero-heading">
+          <span class="lumino-dot"></span>
+          <span class="lumino-featured-label">FEATURED</span>
+          <span class="lumino-featured-sub">おすすめ記事</span>
+        </div>
+        <div class="lumino-hero-frame">
+          <div class="lumino-hero-track" id="heroTrack"></div>
+          <div class="lumino-dots" id="heroDots"></div>
+        </div>
+      </section>
+
+      <!-- CATEGORY TABS -->
+      <nav class="lumino-tabs" id="categoryTabs"></nav>
+
+      <!-- SUMMARY BAR -->
+      <section class="lumino-summary">
+        <div class="lumino-summary-card">
+          <div class="lumino-summary-label">取得記事数</div>
+          <div class="lumino-summary-value-row"><span class="lumino-summary-value" id="nArticles">0</span><span class="lumino-summary-unit">件</span></div>
+        </div>
+        <div class="lumino-summary-card">
+          <div class="lumino-summary-label">ソース数</div>
+          <div class="lumino-summary-value-row"><span class="lumino-summary-value" id="nSources">0</span><span class="lumino-summary-unit">媒体</span></div>
+        </div>
+        <div class="lumino-summary-card lumino-summary-card--accent">
+          <div class="lumino-summary-label lumino-summary-label--accent"><span class="lumino-dot"></span>今日の新着</div>
+          <div class="lumino-summary-value-row"><span class="lumino-summary-value lumino-summary-value--accent" id="nToday">0</span><span class="lumino-summary-unit lumino-summary-unit--accent">件</span></div>
+        </div>
+      </section>
+
+      <!-- NEWS GRID -->
+      <main class="lumino-main">
+        <div class="lumino-grid" id="skeletonGrid" hidden></div>
+        <div class="lumino-grid" id="newsGrid"></div>
+      </main>
+
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

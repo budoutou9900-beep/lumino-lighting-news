@@ -1,0 +1,6 @@
+mail_config.json
+design_extracted/
+__pycache__/
+*.pyc
+.claude/
+照明ニュースダッシュボード設計.zip
