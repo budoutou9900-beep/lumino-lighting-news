@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  00:40",
+  "fetchedAt": "2026.06.20  00:57",
   "sourceColors": {
     "WBS和歌山放送ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "PR TIMES": {
+    "日経クロステック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "日経クロステック": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -66,16 +66,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "PR TIMES",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "照明デザインの最先端を創るデザイナー マイケル・アナスタシアデスによるFLOS新作「COORDINATES」日本初展示",
-      "url": "https://prtimes.jp/main/html/rd/p/000000042.000016901.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://prtimes.jp/i/16901/42/resize/d16901-42-450465-1.jpg",
-      "today": false
-    },
-    {
       "source": "日経クロステック",
       "cat": "賞・コンペ",
       "date": "2026.06.19",
@@ -86,13 +76,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "MONOist",
-      "cat": "国内情報",
+      "source": "PR TIMES",
+      "cat": "デザイン",
       "date": "2026.06.19",
-      "title": "SOLIDWORKSとの連携機能を強化した照明設計解析ソフトウェア：CAEニュース",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2102/04/news029.html",
+      "title": "照明デザインの最先端を創るデザイナー マイケル・アナスタシアデスによるFLOS新作「COORDINATES」日本初展示",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000016901.html",
       "excerpt": "",
-      "thumbnailUrl": "https://image.itmedia.co.jp/mn/articles/2102/04/mn_fanews_21012701a_w290.jpg",
+      "thumbnailUrl": "https://prtimes.jp/i/16901/42/resize/d16901-42-450465-1.jpg",
       "today": false
     },
     {
@@ -103,6 +93,16 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000000155.000005180.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/5180/155/resize/d5180-155-764499-0.jpg",
+      "today": false
+    },
+    {
+      "source": "MONOist",
+      "cat": "国内情報",
+      "date": "2026.06.19",
+      "title": "SOLIDWORKSとの連携機能を強化した照明設計解析ソフトウェア：CAEニュース",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2102/04/news029.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://image.itmedia.co.jp/mn/articles/2102/04/mn_fanews_21012701a_w290.jpg",
       "today": false
     },
     {
@@ -133,6 +133,16 @@ window.LUMINO_DATA = {
       "url": "https://prtimes.jp/main/html/rd/p/000000144.000004714.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/4714/144/resize/d4714-144-768750-0.jpg",
+      "today": false
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "国内情報",
+      "date": "2026.06.19",
+      "title": "照明設計解析ソフトウェア「LightTools」最新バージョン8.5 販売開始のお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000273.000004714.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://prtimes.jp/i/4714/273/resize/d4714-273-788187-0.jpg",
       "today": false
     },
     {
@@ -183,16 +193,6 @@ window.LUMINO_DATA = {
       "url": "https://www.47news.jp/7987392.html",
       "excerpt": "",
       "thumbnailUrl": "https://img.cf.47news.jp/public/photo/9a848a8ce2735a9a8f258e57449fe5f7/photo.jpeg",
-      "today": false
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "新製品",
-      "date": "2026.06.19",
-      "title": "人気の照明デザイン「 パンテラ 160 ポータブル」 がモデルチェンジ | ルイスポールセンジャパン株式会社のプレスリリース",
-      "url": "https://prtimes.jp/main/html/rd/p/000000023.000061855.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/61855/23/61855-23-cad0ebca0998a3ad7f20e322a0c1fccb-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "today": false
     },
     {
