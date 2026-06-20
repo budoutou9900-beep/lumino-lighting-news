@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  01:37",
+  "fetchedAt": "2026.06.20  10:13",
   "sourceColors": {
-    "WBS和歌山放送ニュース": {
+    "日経クロステック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "日経クロステック": {
+    "PR TIMES": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "PR TIMES": {
+    "MONOist": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "MONOist": {
+    "信濃毎日新聞デジタル": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "信濃毎日新聞デジタル": {
+    "AdverTimes.（アドタイ） by 宣伝会議": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "AdverTimes.（アドタイ） by 宣伝会議": {
+    "47NEWS": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "47NEWS": {
+    "webdice.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "webdice.jp": {
+    "日本経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "日本経済新聞": {
+    "ナタリー": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ナタリー": {
+    "VIETJO": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,193 +45,197 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "佐藤総合計画": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "三菱地所設計": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "石本建築事務所": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "照明学会": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "照明学会": {
+    "丹青社": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "佐藤総合計画": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
     {
-      "source": "WBS和歌山放送ニュース",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "タカショーデジテックがミラノで日本の原風景と調和した照明デザイン発表",
-      "url": "https://news.wbs.co.jp/205976",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.wbs.co.jp/wp-content/themes/wp001/images/no_image_news.png",
-      "today": false
-    },
-    {
       "source": "日経クロステック",
       "cat": "賞・コンペ",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "最優秀はリアスホールなど、省エネ照明デザイン賞",
       "url": "https://xtech.nikkei.com/kn/article/knp/news/20140109/647171/",
       "excerpt": "",
       "thumbnailUrl": "https://xtech.nikkei.com/kn/article/knp/news/20140109/647171/thumb_720_01.jpg?20220512",
-      "today": false
+      "today": true
     },
     {
       "source": "PR TIMES",
       "cat": "デザイン",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "照明デザインの最先端を創るデザイナー マイケル・アナスタシアデスによるFLOS新作「COORDINATES」日本初展示",
       "url": "https://prtimes.jp/main/html/rd/p/000000042.000016901.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/16901/42/resize/d16901-42-450465-1.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "三宮駅が「第4回 省エネ・照明デザインアワード」の優秀事例に選出 ～兵庫県内の駅では初受賞となります～",
       "url": "https://prtimes.jp/main/html/rd/p/000000155.000005180.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/5180/155/resize/d5180-155-764499-0.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "MONOist",
       "cat": "国内情報",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "SOLIDWORKSとの連携機能を強化した照明設計解析ソフトウェア：CAEニュース",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2102/04/news029.html",
       "excerpt": "",
       "thumbnailUrl": "https://image.itmedia.co.jp/mn/articles/2102/04/mn_fanews_21012701a_w290.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "PR TIMES",
       "cat": "新製品",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "照明デザイナーが考える心地良い明かりとは。暮らしに合わせた住まいの照明計画を特集。雑誌「I’m home. no.103 2020 JANUARY」本日発売",
       "url": "https://prtimes.jp/main/html/rd/p/000000039.000030338.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/30338/39/resize/d30338-39-447253-2.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "パナソニックが北米照明学会賞「成田国際空港 第二旅客ターミナルビル」の特別賞をはじめ、照明設計で4件受賞",
       "url": "https://prtimes.jp/main/html/rd/p/000002506.000003442.html",
       "excerpt": "",
       "thumbnailUrl": "https://prtimes.jp/i/3442/2506/resize/d3442-2506-621306-0.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "信濃毎日新聞デジタル",
       "cat": "デザイン",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "長野灯明まつりで「平和へ願いを」 照明デザインの石井幹子さん",
       "url": "https://www.shinmai.co.jp/news/article/CNTS2025020600830",
       "excerpt": "",
       "thumbnailUrl": "https://image.shinmai.co.jp/web-image/20250206/CNTS2025020600831_M.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "PR TIMES",
       "cat": "国内情報",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "CHUBIC 、照明の自動配置の提供開始で大幅なアップデートを発表、照明設計の民主化を目指す",
       "url": "https://prtimes.jp/main/html/rd/p/000000004.000131308.html",
       "excerpt": "",
       "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/131308/4/131308-4-f746103d204270d504ae50d71138b7bf-640x427.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "today": false
+      "today": true
     },
     {
       "source": "AdverTimes.（アドタイ） by 宣伝会議",
       "cat": "賞・コンペ",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "省エネ・照明デザインアワード発表。節電対応で進むオフィスビルのLED照明化",
       "url": "https://www.advertimes.com/20120208/article53437/",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.advertimes.com/wp-content/uploads/00d5405762eedfe4b63449a8279ba512.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "47NEWS",
       "cat": "デザイン",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "福山城天守ライトアップ、改修の白壁映える 東京タワー照明デザインの石井さん監修",
       "url": "https://www.47news.jp/7987392.html",
       "excerpt": "",
       "thumbnailUrl": "https://img.cf.47news.jp/public/photo/9a848a8ce2735a9a8f258e57449fe5f7/photo.jpeg",
-      "today": false
+      "today": true
     },
     {
       "source": "webdice.jp",
       "cat": "デザイン",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "NYの照明デザイン集団LOOP Lighting中村亮子さんが語る“アートで社会に何が貢献できるか”",
       "url": "http://www.webdice.jp/dice/detail/5690/index.html",
       "excerpt": "",
       "thumbnailUrl": "http://www.webdice.jp/article_images/20181012/5690_1539309273_l.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "PR TIMES",
       "cat": "新製品",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "人気の照明デザイン「 パンテラ 160 ポータブル」 がモデルチェンジ | ルイスポールセンジャパン株式会社のプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000000023.000061855.html",
       "excerpt": "",
       "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/61855/23/61855-23-cad0ebca0998a3ad7f20e322a0c1fccb-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "today": false
+      "today": true
     },
     {
       "source": "日本経済新聞",
       "cat": "デザイン",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "東京スカイツリーの照明デザイン担当 戸恒浩人氏 江戸の「粋」 世界へ発信",
       "url": "https://www.nikkei.com/article/DGKDZO39550790T10C12A3NNSP00/",
       "excerpt": "",
       "thumbnailUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKDZO3955080013032012NNSP00-4.jpg?auto=format&bg=FFFF&fill=blur&fit=fill&h=630&upscale=false&w=1200&s=1c570da65db746151d31427fba1097bd",
-      "today": false
+      "today": true
     },
     {
       "source": "ナタリー",
       "cat": "国内情報",
-      "date": "2026.06.19",
+      "date": "2026.06.20",
       "title": "3つの照明プランで“ヘンシン”し続ける、イデビアン・クルー新作「ヘンシン」",
       "url": "https://natalie.mu/stage/news/490312",
       "excerpt": "",
       "thumbnailUrl": "https://ogre.natalie.mu/media/news/stage/2022/0819/DSC_2542.jpg?impolicy=twitter_card_face_crop",
-      "today": false
+      "today": true
+    },
+    {
+      "source": "VIETJO",
+      "cat": "賞・コンペ",
+      "date": "2026.06.20",
+      "title": "ダナン：ロン橋が国際的な照明デザイン賞受賞［観光］",
+      "url": "https://www.viet-jo.com/news/tourism/140123081604.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.viet-jo.com/image/news/140123081500.jpg",
+      "today": true
     },
     {
       "source": "YAMAGIWA",
@@ -241,16 +245,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79548/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2026.06.16",
-      "title": "佐藤総合計画では、2026年度のインターンシップの参加者を募集いたします。",
-      "url": "https://www.axscom.jp/internship/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
       "today": false
     },
     {
@@ -264,13 +258,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "三菱地所設計",
-      "cat": "国内情報",
-      "date": "2026.06.15",
-      "title": "茶室「カタラ庵」 UIA世界建築家大会2026バルセロナ・JIA展示ブースにて出展！",
-      "url": "https://www.mjd.co.jp/news/80727/",
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.06.12",
+      "title": "納入事例 - 宇和島市 宮下ふれあい広場 ほか",
+      "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
-      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2026/06/catal-an3-2048x1152-1-768x432.jpg",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
@@ -281,16 +275,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
-      "today": false
-    },
-    {
-      "source": "石本建築事務所",
-      "cat": "国内情報",
-      "date": "2026.06.10",
-      "title": "須賀川市民交流センターtetteが「ELLE DECOR」2026年6月号に掲載されました",
-      "url": "https://www.ishimoto.co.jp/topics/13840/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/topics/7219/news_sukagawa.jpg",
       "today": false
     },
     {
@@ -340,7 +324,6 @@ window.LUMINO_DATA = {
       "title": "学生オープンデスク受付中",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -351,6 +334,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": false
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.06.02",
+      "title": "【重要】6月3日（水）DNLプライベート展示会 LIGHT with DNL 2026 中止のお知らせ",
+      "url": "https://www.dnlighting.co.jp/media/news/20260602",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
@@ -374,43 +367,53 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "石本建築事務所",
+      "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.06.01",
-      "title": "デザインストーリー「STATION Ai」を公開いたしました",
-      "url": "https://www.ishimoto.co.jp/topics/13824/",
+      "title": "事例インタビュー「地下空間へ光を導く都市住宅「The Sunken Retreat」｜建築と一体でつくる光の設計」を公開しました。",
+      "url": "https://www.dnlighting.co.jp/media/news/20260601",
       "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_STATIONAi.jpg",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
-      "source": "三菱地所設計",
-      "cat": "国内情報",
-      "date": "2026.05.28",
-      "title": "高校生が参画する新しいまちづくりプロセスの実践『富士山の恵み×高校生アイデアワークショップ』を開催しました",
-      "url": "https://www.mjd.co.jp/news/80634/",
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.05.29",
+      "title": "納入事例に「Casa d’ Angela AOYAMA(カサ・デ・アンジェラ青山)」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/172",
       "excerpt": "",
-      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2026/05/photo_01-768x380.jpg",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/172/IMG_4553_2.jpg",
       "today": false
     },
     {
-      "source": "三菱地所設計",
-      "cat": "国内情報",
-      "date": "2026.05.25",
-      "title": "6月1日 設立記念日に伴う休業のお知らせ",
-      "url": "https://www.mjd.co.jp/news/80637/",
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.05.26",
+      "title": "イベント情報 - EE東北'26",
+      "url": "https://www.iwasaki.co.jp/NEWS/event/2026/ee.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2022/04/mjd_news_logo-768x433.jpg",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
-      "source": "石本建築事務所",
-      "cat": "国内情報",
-      "date": "2026.05.25",
-      "title": "株式会社石本建築事務所　会社説明会2026を開催します",
-      "url": "https://www.ishimoto.co.jp/topics/13806/",
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.05.26",
+      "title": "DNライトナビ 一部機能不具合のお知らせ",
+      "url": "https://www.dnlighting.co.jp/media/news/20260526_1",
       "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/20250918.jpg",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.05.26",
+      "title": "納入事例に「西日本シティビル コネクティッドコア（地下広場）」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/169",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/169/296A3066_.jpg",
       "today": false
     },
     {
@@ -454,16 +457,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "三菱地所設計",
-      "cat": "賞・コンペ",
-      "date": "2026.05.20",
-      "title": "当社設計者が「2025年度日本造園学会賞奨励賞（設計作品部門）」受賞",
-      "url": "https://www.mjd.co.jp/news/80597/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.mjd.co.jp/wp-content/uploads/2025/10/take_7077_low-768x512.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "新製品",
       "date": "2026.05.18",
@@ -474,13 +467,23 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2026.05.15",
-      "title": "2050年カーボンニュートラルに向けた弊社の取り組みを更新いたしました。",
-      "url": "https://www.axscom.jp/feature/zeb/zebpromotion/",
+      "source": "岩崎電気",
+      "cat": "技術・LED",
+      "date": "2026.05.14",
+      "title": "LED照明器具 突入電流一覧表の更新",
+      "url": "https://www.iwasaki.co.jp/lighting/led/inrush/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.05.11",
+      "title": "イベント情報 - 第6回 自治体DX展 - 自治体・公共Week 2026",
+      "url": "https://www.iwasaki.co.jp/NEWS/event/2026/publicweek.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
@@ -500,7 +503,6 @@ window.LUMINO_DATA = {
       "title": "【受賞報告】照明デザイン賞2026にて以下の作品が受賞しました！",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1444/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -524,16 +526,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "石本建築事務所",
-      "cat": "国内情報",
-      "date": "2026.04.24",
-      "title": "メールにおけるパスワード付きZIPファイル受信廃止のお知らせ",
-      "url": "https://www.ishimoto.co.jp/topics/13783/",
-      "excerpt": "",
-      "thumbnailUrl": "/wp-content/themes/ishimoto_2023/img/news/no-image.jpg",
-      "today": false
-    },
-    {
       "source": "パナソニック",
       "cat": "国内情報",
       "date": "2026.04.23",
@@ -551,16 +543,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/76514/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "石本建築事務所",
-      "cat": "国内情報",
-      "date": "2026.04.21",
-      "title": "池之上小学校が「月刊体育施設」2026年4月号に掲載されました",
-      "url": "https://www.ishimoto.co.jp/topics/13780/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_ikenoue.jpg",
       "today": false
     },
     {
@@ -594,6 +576,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.04.14",
+      "title": "イベント情報 - FIBA 3×3 SHIBUYA CHALLENGER 2026",
+      "url": "https://www.iwasaki.co.jp/NEWS/event/2026/3x3SHIBUYA.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
       "source": "YAMAGIWA",
       "cat": "新製品",
       "date": "2026.04.13",
@@ -601,16 +593,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/76384/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "石本建築事務所",
-      "cat": "国内情報",
-      "date": "2026.04.10",
-      "title": "大型連休に伴う休業日のお知らせ",
-      "url": "https://www.ishimoto.co.jp/topics/13753/",
-      "excerpt": "",
-      "thumbnailUrl": "/wp-content/themes/ishimoto_2023/img/news/no-image.jpg",
       "today": false
     },
     {
@@ -650,23 +632,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "石本建築事務所",
-      "cat": "賞・コンペ",
+      "source": "岩崎電気",
+      "cat": "新製品",
       "date": "2026.04.02",
-      "title": "上田市本庁舎が第40回空気調和・衛生工学会振興賞技術振興賞を受賞いたしました",
-      "url": "https://www.ishimoto.co.jp/topics/13733/",
+      "title": "イベント情報 - 第52回 ジャンボびっくり見本市",
+      "url": "https://www.iwasaki.co.jp/NEWS/event/2026/jumbo.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/topics/11067/news_ueda.jpg",
-      "today": false
-    },
-    {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2026.04.01",
-      "title": "新年度を迎えるにあたり、組織のあり方を見直しました。",
-      "url": "https://www.axscom.jp/company/organization/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
@@ -699,16 +671,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2026.03.16",
-      "title": "共環域について発表いたします。",
-      "url": "https://www.axscom.jp/topics/news/7519/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.03.12",
@@ -729,6 +691,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.03.06",
+      "title": "簡易照明計算ソフト - バージョンアップ",
+      "url": "https://www.iwasaki.co.jp/lighting/support/illuminance/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
       "source": "パナソニック",
       "cat": "新製品",
       "date": "2026.03.06",
@@ -739,6 +711,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "丹青社",
+      "cat": "国内情報",
+      "date": "2026.02.27",
+      "title": "インテリア資材・建材・照明器具等の廃番品セレクトショップ4earth（フォーアース）のＥＣサイト販売を終了します",
+      "url": "https://www.tanseisha.co.jp/news/info/2026/post-70299",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.tanseisha.co.jp/assets/images/common/1000x667.png",
+      "today": false
+    },
+    {
       "source": "LPA",
       "cat": "デザイン",
       "date": "2026.02.24",
@@ -746,26 +728,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/02/24/annual-report-2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/02/annual-report26.jpg",
-      "today": false
-    },
-    {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2026.02.20",
-      "title": "2027年度新卒採用の選考のうち、電気設備設計および機械設備設計の分野について追加募集を行います。応募に当たっては直接応募書類をお送りください。",
-      "url": "https://www.axscom.jp/recruit/type/?recruit_new",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "石本建築事務所",
-      "cat": "国内情報",
-      "date": "2026.02.19",
-      "title": "AEC Tech 2025に参加しました。学びと事例について参加者より報告会を開催します。",
-      "url": "https://www.ishimoto.co.jp/topics/13636/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_AEC.jpg",
       "today": false
     },
     {
@@ -788,43 +750,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "石本建築事務所",
-      "cat": "賞・コンペ",
-      "date": "2026.02.06",
-      "title": "中津川市立福岡小学校が令和7年度優良学校施設表彰 文教施設協会会長賞(最優秀賞)／中央区立晴海西小学校・晴海西中学校が文教施設協会賞(優秀賞)を受賞いたしました",
-      "url": "https://www.ishimoto.co.jp/topics/13621/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_fukuoka2-1.jpg",
-      "today": false
-    },
-    {
-      "source": "石本建築事務所",
-      "cat": "賞・コンペ",
-      "date": "2026.01.30",
-      "title": "対馬博物館がAACA賞2025 奨励賞を受賞いたしました",
-      "url": "https://www.ishimoto.co.jp/topics/13611/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.ishimoto.co.jp/wp-content/uploads/news_tsushima.jpg",
-      "today": false
-    },
-    {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2026.01.23",
-      "title": "【お知らせ】なりすましメールに関する注意喚起",
-      "url": "https://www.axscom.jp/topics/news/7354/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
-      "today": false
-    },
-    {
       "source": "シリウスライティングオフィス",
       "cat": "デザイン",
       "date": "2026.01.13",
       "title": "【掲載情報】「Audi 疾走する哲学 響き合う美意識と革新の鼓動 」に戸恒のインタビューが掲載されました。",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1435/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -834,7 +765,6 @@ window.LUMINO_DATA = {
       "title": "創立21周年を迎えました",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1432/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -844,7 +774,6 @@ window.LUMINO_DATA = {
       "title": "【講演情報】東京都立戸山高等学校卒業生記念講演にて講演会を行いました。",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1430/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -854,7 +783,6 @@ window.LUMINO_DATA = {
       "title": "新年あけましておめでとうございます。",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1428/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -873,7 +801,6 @@ window.LUMINO_DATA = {
       "title": "年末年始営業のご案内",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1425/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -886,23 +813,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2025.12.08",
-      "title": "年末年始休業日のお知らせ",
-      "url": "https://www.axscom.jp/topics/news/7221/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
-      "today": false
-    },
-    {
       "source": "シリウスライティングオフィス",
       "cat": "デザイン",
       "date": "2025.12.02",
       "title": "インターンシップ及びオープンデスク受付開始(冬季・春季)",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1422/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/themes/sirius/shared/img/bt_menu_sp.png",
       "today": false
     },
     {
@@ -923,16 +839,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2025/10/22/cnccii/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2025/10/CNCC2_02-300x131.jpg",
-      "today": false
-    },
-    {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2025.10.22",
-      "title": "式典開催による休業日のお知らせ",
-      "url": "https://www.axscom.jp/topics/news/6761/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
       "today": false
     },
     {
@@ -996,16 +902,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "佐藤総合計画",
-      "cat": "国内情報",
-      "date": "2025.07.18",
-      "title": "2025年度のオープンオフィスについて、応募期間を延長いたしました。",
-      "url": "https://www.axscom.jp/openoffice2025/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/04/satou_ogp.jpg",
-      "today": false
-    },
-    {
       "source": "LPA",
       "cat": "デザイン",
       "date": "2025.07.03",
@@ -1033,6 +929,26 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2025/06/10/awardwinning/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2025/06/pdg19037003-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "賞・コンペ",
+      "date": "2020.06.01",
+      "title": "2020年照明デザイン賞に「ミライon」が入賞しました。",
+      "url": "https://www.axscom.jp/project/no04080/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/03/project_no04080_mv.jpg",
+      "today": false
+    },
+    {
+      "source": "佐藤総合計画",
+      "cat": "賞・コンペ",
+      "date": "2020.06.01",
+      "title": "2019年照明普及賞を「高崎芸術劇場」「東京ビッグサイト南展示棟」「東大阪市文化創造館」「ミライon」の4作品が受賞しました。",
+      "url": "https://www.axscom.jp/project/no03931/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axscom.jp/wp-content/uploads/2020/03/project_no03931_mv.jpg",
       "today": false
     }
   ]
