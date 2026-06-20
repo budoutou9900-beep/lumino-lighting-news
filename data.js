@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  15:25",
+  "fetchedAt": "2026.06.20  20:52",
   "sourceColors": {
-    "MONOist": {
+    "VIETJO": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "47NEWS": {
+    "WBS和歌山放送ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "webdice.jp": {
+    "MONOist": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ナタリー": {
+    "47NEWS": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "VIETJO": {
+    "webdice.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -56,6 +56,26 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "VIETJO",
+      "cat": "賞・コンペ",
+      "date": "2026.06.20",
+      "title": "ダナン：ロン橋が国際照明デザインアワードで特別賞［観光］",
+      "url": "https://www.viet-jo.com/news/tourism/140705071532.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.viet-jo.com/image/news/140705071358.jpg",
+      "today": true
+    },
+    {
+      "source": "WBS和歌山放送ニュース",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "タカショーデジテックがミラノで日本の原風景と調和した照明デザイン発表",
+      "url": "https://news.wbs.co.jp/205976",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.wbs.co.jp/wp-content/themes/wp001/images/no_image_news.png",
+      "today": true
+    },
+    {
       "source": "MONOist",
       "cat": "国内情報",
       "date": "2026.06.20",
@@ -83,26 +103,6 @@ window.LUMINO_DATA = {
       "url": "http://www.webdice.jp/dice/detail/5690/index.html",
       "excerpt": "",
       "thumbnailUrl": "http://www.webdice.jp/article_images/20181012/5690_1539309273_l.jpg",
-      "today": true
-    },
-    {
-      "source": "ナタリー",
-      "cat": "国内情報",
-      "date": "2026.06.20",
-      "title": "3つの照明プランで“ヘンシン”し続ける、イデビアン・クルー新作「ヘンシン」",
-      "url": "https://natalie.mu/stage/news/490312",
-      "excerpt": "",
-      "thumbnailUrl": "https://ogre.natalie.mu/media/news/stage/2022/0819/DSC_2542.jpg?impolicy=twitter_card_face_crop",
-      "today": true
-    },
-    {
-      "source": "VIETJO",
-      "cat": "賞・コンペ",
-      "date": "2026.06.20",
-      "title": "ダナン：ロン橋が国際的な照明デザイン賞受賞［観光］",
-      "url": "https://www.viet-jo.com/news/tourism/140123081604.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.viet-jo.com/image/news/140123081500.jpg",
       "today": true
     },
     {
