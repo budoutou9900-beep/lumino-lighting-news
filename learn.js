@@ -44,25 +44,24 @@
     return html;
   }
 
-  function showDetail(item) {
-    const featured = document.getElementById("learnFeatured");
-    const list = document.getElementById("learnList");
-    const detail = document.getElementById("learnDetail");
-    featured.hidden = true;
-    list.hidden = true;
-    detail.hidden = false;
-    detail.innerHTML = `
-      <button type="button" class="lumino-learn-detail-back" id="learnBackBtn">← 一覧に戻る</button>
-      <h2 class="lumino-learn-detail-title">${item.title}</h2>
-      <div class="lumino-learn-detail-body">${markdownToHtml(item.content)}</div>`;
-    document.getElementById("learnBackBtn").addEventListener("click", showList);
+  function closeSheet() {
+    document.getElementById("learnSheet").hidden = true;
+    document.getElementById("learnSheetBackdrop").hidden = true;
   }
 
-  function showList() {
-    document.getElementById("learnFeatured").hidden = false;
-    document.getElementById("learnList").hidden = false;
-    document.getElementById("learnDetail").hidden = true;
+  function showDetail(item) {
+    const body = document.getElementById("learnSheetBody");
+    body.innerHTML = `
+      <h2 class="lumino-learn-detail-title">${item.title}</h2>
+      <div class="lumino-learn-detail-body">${markdownToHtml(item.content)}</div>`;
+    body.scrollTop = 0;
+    document.getElementById("learnSheet").hidden = false;
+    document.getElementById("learnSheetBackdrop").hidden = false;
   }
+
+  document.getElementById("learnSheetClose").addEventListener("click", closeSheet);
+  document.getElementById("learnSheetBackdrop").addEventListener("click", closeSheet);
+  window.luminoCloseLearnSheet = closeSheet;
 
   function renderFeatured(item) {
     const wrap = document.getElementById("learnFeatured");
