@@ -152,7 +152,12 @@
   }
 
   function getFiltered() {
-    return state.activeCat === "すべて" ? DATA : DATA.filter((d) => d.cat === state.activeCat);
+    const base = state.activeCat === "すべて" ? DATA : DATA.filter((d) => d.cat === state.activeCat);
+    return base.slice().sort((a, b) => {
+      const aUnread = !readUrls.has(a.url);
+      const bUnread = !readUrls.has(b.url);
+      return aUnread === bUnread ? 0 : aUnread ? -1 : 1;
+    });
   }
 
   function renderGrid() {
