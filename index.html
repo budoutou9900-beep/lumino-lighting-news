@@ -3,85 +3,118 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LUMINO — 照明業界ニュースダッシュボード</title>
+<title>LUMINO — 総合光メディア</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@300;400;500;700&family=Shippori+Mincho+B1:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="lumino-bg">
-    <div class="lumino-glow"></div>
-    <div class="lumino-wrap">
+    <div class="lumino-app" id="luminoApp">
+      <div class="lumino-tint" id="luminoTint"></div>
+      <div class="lumino-glow" id="luminoGlow"></div>
 
-      <!-- HEADER -->
-      <header class="lumino-header">
+      <!-- TOP BAR -->
+      <header class="lumino-topbar">
         <div class="lumino-brand">
           <div class="lumino-logo"><div class="lumino-logo-dot"></div></div>
-          <div>
-            <div class="lumino-wordmark">LUMINO</div>
-            <div class="lumino-subtitle">照明業界ニュースダッシュボード</div>
-          </div>
+          <div class="lumino-wordmark">LUMINO</div>
         </div>
-        <div class="lumino-header-right">
-          <div class="lumino-updated">
-            <div class="lumino-updated-label">Last updated</div>
-            <div class="lumino-updated-time" id="lastUpdated">2026.06.19  08:42</div>
-          </div>
-          <button class="lumino-refresh" id="refreshBtn">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" id="refreshIcon"><path d="M21 12a9 9 0 1 1-2.64-6.36"></path><path d="M21 3v5h-5"></path></svg>
-            更新
-          </button>
-        </div>
+        <div class="lumino-topbar-sub">総合光メディア</div>
       </header>
 
-      <!-- FEATURED HERO -->
-      <section class="lumino-hero-section">
-        <div class="lumino-hero-heading">
-          <span class="lumino-dot"></span>
-          <span class="lumino-featured-label">FEATURED</span>
-          <span class="lumino-featured-sub">おすすめ記事</span>
-        </div>
-        <div class="lumino-hero-frame">
-          <div class="lumino-hero-track" id="heroTrack"></div>
-          <div class="lumino-dots" id="heroDots"></div>
-        </div>
-      </section>
+      <!-- CONTENT -->
+      <main class="lumino-content">
 
-      <!-- CATEGORY TABS + SEARCH -->
-      <div class="lumino-toolbar">
-        <nav class="lumino-tabs" id="categoryTabs"></nav>
-        <div class="lumino-search">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#7c859b" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" class="lumino-search-icon"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.2-3.2"></path></svg>
-          <input type="text" id="searchInput" class="lumino-search-input" placeholder="記事を検索…">
-          <button type="button" id="searchClearBtn" class="lumino-search-clear" aria-label="クリア" hidden>×</button>
+        <!-- SECTION TITLE -->
+        <div class="lumino-section-heading">
+          <div class="lumino-section-label-row">
+            <span class="lumino-section-dot" id="sectionDot"></span>
+            <span class="lumino-section-label" id="sectionLabel"></span>
+          </div>
+          <h1 class="lumino-section-title" id="sectionTitle"></h1>
+          <p class="lumino-section-desc" id="sectionDesc"></p>
         </div>
-      </div>
 
-      <!-- RESULT META -->
-      <section class="lumino-meta">
-        <span><span class="lumino-meta-value" id="nArticles">0</span> 件</span>
-        <span class="lumino-meta-sep"></span>
-        <span><span id="nSources">0</span> ソース</span>
-        <span class="lumino-meta-sep"></span>
-        <span class="lumino-meta-today"><span class="lumino-dot"></span>今日の新着 <span id="nToday">0</span> 件</span>
-      </section>
+        <!-- INSPIRATION -->
+        <section class="lumino-section" id="tab-inspiration" data-tab="inspiration" hidden>
+          <div class="lumino-masonry" id="inspirationFeed"></div>
+          <div class="lumino-insp-end">— 光に出会う、ここまで —</div>
+        </section>
 
-      <!-- NEWS GRID -->
-      <main class="lumino-main">
-        <div class="lumino-grid" id="skeletonGrid" hidden></div>
-        <div class="lumino-grid" id="newsGrid"></div>
-        <div class="lumino-empty" id="emptyState" hidden>
-          <div class="lumino-empty-icon">🔍</div>
-          <div class="lumino-empty-title">該当する記事が見つかりませんでした</div>
-          <div class="lumino-empty-sub">キーワードやカテゴリを変えてお試しください。</div>
-          <button type="button" class="lumino-empty-reset" id="emptyResetBtn">条件をリセット</button>
-        </div>
+        <!-- NEWS -->
+        <section class="lumino-section" id="tab-news" data-tab="news">
+          <div class="lumino-news-controls">
+            <nav class="lumino-chips" id="categoryTabs"></nav>
+            <div class="lumino-search">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#7c859b" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" class="lumino-search-icon"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.2-3.2"></path></svg>
+              <input type="text" id="searchInput" class="lumino-search-input" placeholder="記事を検索…">
+              <button type="button" id="searchClearBtn" class="lumino-search-clear" aria-label="クリア" hidden>×</button>
+            </div>
+          </div>
+
+          <div class="lumino-meta">
+            <span><span class="lumino-meta-value" id="nArticles">0</span> 件</span>
+            <span class="lumino-meta-sep"></span>
+            <span><span id="nSources">0</span> ソース</span>
+            <span class="lumino-meta-sep"></span>
+            <span class="lumino-meta-today"><span class="lumino-dot-sm"></span>今日の新着 <span id="nToday">0</span> 件</span>
+          </div>
+
+          <div class="lumino-grid" id="skeletonGrid" hidden></div>
+          <div class="lumino-grid" id="newsGrid"></div>
+          <div class="lumino-empty" id="emptyState" hidden>
+            <div class="lumino-empty-title">該当する記事がありません</div>
+            <div class="lumino-empty-sub">キーワードやカテゴリを変えてお試しください。</div>
+            <button type="button" class="lumino-empty-reset" id="emptyResetBtn">条件をリセット</button>
+          </div>
+        </section>
+
+        <!-- LEARN -->
+        <section class="lumino-section" id="tab-learn" data-tab="learn" hidden>
+          <div class="lumino-learn-featured" id="learnFeatured"></div>
+          <div class="lumino-learn-list" id="learnList"></div>
+          <div class="lumino-learn-detail" id="learnDetail" hidden></div>
+        </section>
+
+        <!-- RESEARCH -->
+        <section class="lumino-section" id="tab-research" data-tab="research" hidden>
+          <div class="lumino-research-list" id="researchList"></div>
+        </section>
+
       </main>
+
+      <!-- BOTTOM NAV -->
+      <nav class="lumino-bottomnav" id="bottomNav">
+        <button class="lumino-navbtn" data-tab="inspiration">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 13.7 8.3 18.5 10 13.7 11.7 12 16.5 10.3 11.7 5.5 10 10.3 8.3z"></path><path d="M18.5 16.5l.6 1.7 1.7.6-1.7.6-.6 1.7-.6-1.7-1.7-.6 1.7-.6z"></path></svg>
+          <span>Inspiration</span>
+        </button>
+        <button class="lumino-navbtn" data-tab="news">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h12v14H6a2 2 0 0 1-2-2z"></path><path d="M16 8h3v9a2 2 0 0 1-2 2"></path><path d="M7 9h6M7 12.5h6M7 16h4"></path></svg>
+          <span>News</span>
+        </button>
+        <button class="lumino-navbtn" data-tab="learn">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C10.5 5.5 8.4 5 6.5 5 5 5 3.8 5.2 3 5.5v12.5c.8-.3 2-.5 3.5-.5 1.9 0 4 .5 5.5 1.5"></path><path d="M12 6.5C13.5 5.5 15.6 5 17.5 5 19 5 20.2 5.2 21 5.5v12.5c-.8-.3-2-.5-3.5-.5-1.9 0-4 .5-5.5 1.5"></path><path d="M12 6.5V19"></path></svg>
+          <span>Learn</span>
+        </button>
+        <button class="lumino-navbtn" data-tab="research">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 3h5"></path><path d="M10.5 3v6L5.2 17.6A2 2 0 0 0 6.9 21h10.2a2 2 0 0 0 1.7-3.4L13.5 9V3"></path><path d="M8 14.5h8"></path></svg>
+          <span>Research</span>
+        </button>
+      </nav>
 
     </div>
   </div>
   <script src="data.js"></script>
+  <script src="inspiration-data.js"></script>
+  <script src="learn-data.js"></script>
+  <script src="research-data.js"></script>
+  <script src="news.js"></script>
+  <script src="inspiration.js"></script>
+  <script src="learn.js"></script>
+  <script src="research.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
