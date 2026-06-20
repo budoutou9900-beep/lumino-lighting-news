@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  10:13",
+  "fetchedAt": "2026.06.20  10:15",
   "sourceColors": {
     "日経クロステック": {
       "bg": "rgba(247,195,86,0.14)",
