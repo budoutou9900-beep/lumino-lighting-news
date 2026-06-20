@@ -8,6 +8,10 @@ body {
 
 @keyframes lumino-shimmer { 0% { background-position: -420px 0; } 100% { background-position: 420px 0; } }
 @keyframes lumino-spin { to { transform: rotate(360deg); } }
+@keyframes lumino-slide-in-right { from { transform: translateX(28px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+@keyframes lumino-slide-in-left { from { transform: translateX(-28px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+.lumino-slide-in-right { animation: lumino-slide-in-right .28s cubic-bezier(.2,.7,.3,1); }
+.lumino-slide-in-left { animation: lumino-slide-in-left .28s cubic-bezier(.2,.7,.3,1); }
 
 .lumino-bg {
   height: 100vh;
@@ -345,3 +349,21 @@ body {
 .lumino-home-card-source { font-size: 10.5px; font-weight: 700; letter-spacing: 0.02em; }
 .lumino-home-card-title { margin: 7px 0 0; font-size: 13.5px; font-weight: 700; line-height: 1.5; color: #f3eee2; text-wrap: pretty; }
 .lumino-home-card-comment { margin: 0; font-family: 'Shippori Mincho B1', 'Noto Sans JP', serif; font-size: 13.5px; line-height: 1.6; color: #ece6d8; text-wrap: pretty; }
+
+/* HOME — 今日のあかり */
+.lumino-todaypick { margin-bottom: 28px; }
+.lumino-todaypick-head { display: flex; align-items: center; gap: 9px; margin-bottom: 14px; }
+.lumino-todaypick-label {
+  font-family: 'Plus Jakarta Sans', sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.14em; color: var(--accent, #f5c560);
+}
+.lumino-todaypick-card {
+  position: relative; display: flex; flex-wrap: wrap; text-decoration: none; border-radius: 20px; overflow: hidden;
+  background: #111829; border: 1px solid rgba(255,255,255,0.07);
+}
+.lumino-todaypick-visual { position: relative; flex: 1 1 220px; min-height: 180px; background-size: cover; background-position: center; }
+.lumino-todaypick-hatch { position: absolute; inset: 0; background: repeating-linear-gradient(135deg, rgba(255,255,255,0.022) 0 18px, rgba(255,255,255,0) 18px 36px); }
+.lumino-todaypick-visual-label { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: 'Plus Jakarta Sans', ui-monospace, monospace; font-size: 10px; letter-spacing: 0.18em; color: rgba(255,255,255,0.32); }
+.lumino-todaypick-body { flex: 1 1 240px; display: flex; flex-direction: column; justify-content: center; padding: 24px 26px; }
+.lumino-todaypick-source { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 11px; font-weight: 700; color: var(--accent, #f5c560); }
+.lumino-todaypick-comment { margin: 12px 0 0; font-family: 'Shippori Mincho B1', 'Noto Sans JP', serif; font-size: 17px; font-weight: 500; line-height: 1.7; color: #ece6d8; text-wrap: pretty; }
+.lumino-todaypick-link { margin-top: 14px; font-size: 12px; font-weight: 600; color: var(--accent, #f5c560); }

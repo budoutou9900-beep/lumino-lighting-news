@@ -7,7 +7,7 @@
     research: { word: "Research", jp: "論文・学会情報", desc: "学術誌・学会の一次情報。各論文はAI要約に対応予定。", accent: "#9aa6f5", accentBg: "rgba(154,166,245,0.14)", glow: "rgba(154,166,245,0.16)", tint: "linear-gradient(180deg, rgba(70,86,200,0.11), rgba(70,86,200,0) 48%)" },
   };
   const TAB_KEYS = Object.keys(TABS);
-  let activeTab = "home";
+  let activeTab = null;
 
   const sections = {};
   TAB_KEYS.forEach((t) => { sections[t] = document.getElementById("tab-" + t); });
@@ -26,12 +26,25 @@
   }
 
   function showTab(tab) {
-    if (!TABS[tab]) return;
+    if (!TABS[tab] || tab === activeTab) return;
+    const fromIdx = TAB_KEYS.indexOf(activeTab);
+    const toIdx = TAB_KEYS.indexOf(tab);
+    const dir = toIdx > fromIdx ? "right" : "left";
     activeTab = tab;
     TAB_KEYS.forEach((t) => { sections[t].hidden = t !== tab; });
     navButtons.forEach((btn) => btn.classList.toggle("active", btn.dataset.tab === tab));
     applyTheme(tab);
     document.querySelector(".lumino-content").scrollTo(0, 0);
+
+    const enteringEl = sections[tab];
+    const animClass = dir === "right" ? "lumino-slide-in-right" : "lumino-slide-in-left";
+    enteringEl.classList.remove("lumino-slide-in-right", "lumino-slide-in-left");
+    // 再生のためリフローを強制してからクラスを付与
+    void enteringEl.offsetWidth;
+    enteringEl.classList.add(animClass);
+    enteringEl.addEventListener("animationend", () => {
+      enteringEl.classList.remove(animClass);
+    }, { once: true });
   }
 
   window.luminoGoTab = showTab;

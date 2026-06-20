@@ -4,10 +4,43 @@
   const LEARN = window.LUMINO_LEARN || [];
   const RESEARCH = (window.LUMINO_RESEARCH && window.LUMINO_RESEARCH.papers) || [];
 
+  const TODAY_PICK = window.LUMINO_TODAY_PICK || null;
   const SECTION_COLORS = { inspiration: "#f5c560", news: "#6fc6c0", learn: "#e9a6c4", research: "#9aa6f5" };
 
   function goTab(tab) {
     if (window.luminoGoTab) window.luminoGoTab(tab);
+  }
+
+  // ---- 今日のあかり ----
+  function renderTodayPick() {
+    const wrap = document.getElementById("todayPick");
+    if (!wrap || !TODAY_PICK) return;
+    const visualBg = TODAY_PICK.imageUrl
+      ? `center / cover no-repeat url('${TODAY_PICK.imageUrl}')`
+      : "radial-gradient(circle at 40% 40%, rgba(245,181,61,0.32), transparent 60%), linear-gradient(150deg,#241a10,#0c1018)";
+    const card = document.createElement(TODAY_PICK.sourceUrl ? "a" : "div");
+    card.className = "lumino-todaypick-card";
+    if (TODAY_PICK.sourceUrl) {
+      card.href = TODAY_PICK.sourceUrl;
+      card.target = "_blank";
+      card.rel = "noopener";
+    }
+    card.innerHTML = `
+      <div class="lumino-todaypick-visual" style="background:${visualBg}">
+        ${TODAY_PICK.imageUrl ? "" : `<div class="lumino-todaypick-hatch"></div><div class="lumino-todaypick-visual-label">VISUAL</div>`}
+      </div>
+      <div class="lumino-todaypick-body">
+        <span class="lumino-todaypick-source">${TODAY_PICK.sourceName || ""}</span>
+        <p class="lumino-todaypick-comment">${TODAY_PICK.comment || ""}</p>
+        ${TODAY_PICK.sourceUrl ? `<span class="lumino-todaypick-link">出典を見る ↗</span>` : ""}
+      </div>`;
+
+    wrap.innerHTML = `
+      <div class="lumino-todaypick-head">
+        <span class="lumino-dot-sm"></span>
+        <span class="lumino-todaypick-label">今日のあかり</span>
+      </div>`;
+    wrap.appendChild(card);
   }
 
   // ---- HERO ----
@@ -203,6 +236,7 @@
   }
 
   function render() {
+    renderTodayPick();
     renderHero();
     startHeroTimer();
     const container = document.getElementById("homePreviews");
