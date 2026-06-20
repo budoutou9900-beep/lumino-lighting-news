@@ -11,7 +11,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html import unescape
 from pathlib import Path
 
@@ -595,26 +595,76 @@ def fetch_og_image(real_url: str):
     return None
 
 
+def parse_iso_like_date(text: str):
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", (text or "").strip())
+    if not m:
+        return None
+    return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+
+
+def extract_published_date(soup: BeautifulSoup):
+    """Googleニュース経由の記事はGoogle側のクロール日が記事日として渡ってくるため、
+    リンク先ページの実際の公開日（PR TIMES等の<time datetime>やarticle:published_time）で
+    上書きする。古い記事が「本日の新着」として表示される事故を防ぐ。"""
+    meta = soup.find("meta", property="article:published_time") or soup.find("meta", attrs={"name": "article:published_time"})
+    if meta and meta.get("content"):
+        d = parse_iso_like_date(meta["content"])
+        if d:
+            return d
+    time_tag = soup.find("time", attrs={"datetime": True})
+    if time_tag:
+        d = parse_iso_like_date(time_tag["datetime"])
+        if d:
+            return d
+    return None
+
+
+def fetch_article_meta(real_url: str):
+    try:
+        res = safe_get(real_url, headers=UA, timeout=THUMBNAIL_TIMEOUT)
+        soup = BeautifulSoup(res.text, "html.parser")
+        thumb = None
+        for prop in ("og:image", "twitter:image"):
+            tag = soup.find("meta", property=prop) or soup.find("meta", attrs={"name": prop})
+            if tag and tag.get("content"):
+                thumb = tag["content"]
+                break
+        if not thumb:
+            thumb = pick_fallback_content_image(soup, real_url)
+        return thumb, extract_published_date(soup)
+    except Exception as exc:
+        print(f"[warn] article meta fetch failed for {real_url}: {exc}")
+        return None, None
+
+
+# Googleニュース経由の記事で、リンク先の実際の公開日がこれより古い場合は
+# 「ニュース」として不自然なため除外する
+MAX_ARTICLE_AGE_DAYS = 45
+
+
 def attach_thumbnails(articles):
     def worker(article):
-        if article.get("thumbnailUrl"):
-            return
         if article.pop("_isGoogleNews", False):
             real_url = resolve_real_url(article["url"])
             if not real_url:
                 return
             article["url"] = real_url
-            thumb = fetch_og_image(real_url)
-        else:
+            thumb, real_pub_date = fetch_article_meta(real_url)
+            if thumb and not article.get("thumbnailUrl"):
+                article["thumbnailUrl"] = thumb
+            if real_pub_date:
+                article["_pub_date"] = real_pub_date
+                article["date"] = real_pub_date.strftime("%Y.%m.%d")
+        elif not article.get("thumbnailUrl"):
             thumb = fetch_og_image(article["url"])
-        if thumb:
-            article["thumbnailUrl"] = thumb
+            if thumb:
+                article["thumbnailUrl"] = thumb
 
     with ThreadPoolExecutor(max_workers=THUMBNAIL_WORKERS) as pool:
         list(pool.map(worker, articles))
-    for article in articles:
-        article.pop("_isGoogleNews", None)
-    return articles
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_ARTICLE_AGE_DAYS)
+    return [a for a in articles if a["_pub_date"] >= cutoff]
 
 
 def assign_today_flag(articles):
