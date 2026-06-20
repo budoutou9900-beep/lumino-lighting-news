@@ -45,6 +45,7 @@
 
   const state = {
     activeCat: "すべて",
+    query: "",
     loading: false,
     lastUpdated: INITIAL_LAST_UPDATED,
     featured: 0,
@@ -101,7 +102,7 @@
         state.activeCat = c;
         renderTabs();
         renderGrid();
-        renderSummary();
+        renderMeta();
       });
       nav.appendChild(btn);
     });
@@ -152,7 +153,13 @@
   }
 
   function getFiltered() {
-    const base = state.activeCat === "すべて" ? DATA : DATA.filter((d) => d.cat === state.activeCat);
+    let base = state.activeCat === "すべて" ? DATA : DATA.filter((d) => d.cat === state.activeCat);
+    const q = state.query.trim().toLowerCase();
+    if (q) {
+      base = base.filter((d) =>
+        (d.title + " " + (d.excerpt || "") + " " + d.source + " " + d.cat).toLowerCase().includes(q)
+      );
+    }
     return base.slice().sort((a, b) => {
       const aUnread = !readUrls.has(a.url);
       const bUnread = !readUrls.has(b.url);
@@ -163,9 +170,11 @@
   function renderGrid() {
     const grid = document.getElementById("newsGrid");
     const skelGrid = document.getElementById("skeletonGrid");
+    const emptyState = document.getElementById("emptyState");
 
     if (state.loading) {
       grid.hidden = true;
+      emptyState.hidden = true;
       skelGrid.hidden = false;
       if (!skelGrid.dataset.built) {
         skelGrid.innerHTML = "";
@@ -186,9 +195,18 @@
     }
 
     skelGrid.hidden = true;
+    const filtered = getFiltered();
+
+    if (filtered.length === 0) {
+      grid.hidden = true;
+      emptyState.hidden = false;
+      return;
+    }
+
+    emptyState.hidden = true;
     grid.hidden = false;
     grid.innerHTML = "";
-    getFiltered().forEach((d) => {
+    filtered.forEach((d) => {
       const col = colorOf(d.source);
       const a = document.createElement("a");
       a.className = "lumino-card";
@@ -217,10 +235,24 @@
     });
   }
 
-  function renderSummary() {
+  function renderMeta() {
     document.getElementById("nArticles").textContent = getFiltered().length;
     document.getElementById("nSources").textContent = new Set(DATA.map((d) => d.source)).size;
     document.getElementById("nToday").textContent = DATA.filter((d) => d.today).length;
+  }
+
+  function setQuery(value) {
+    state.query = value;
+    document.getElementById("searchInput").value = value;
+    document.getElementById("searchClearBtn").hidden = value.length === 0;
+    renderGrid();
+    renderMeta();
+  }
+
+  function resetFilters() {
+    state.activeCat = "すべて";
+    renderTabs();
+    setQuery("");
   }
 
   function onRefresh() {
@@ -240,10 +272,13 @@
 
   document.getElementById("refreshBtn").addEventListener("click", onRefresh);
   document.getElementById("lastUpdated").textContent = state.lastUpdated;
+  document.getElementById("searchInput").addEventListener("input", (e) => setQuery(e.target.value));
+  document.getElementById("searchClearBtn").addEventListener("click", () => setQuery(""));
+  document.getElementById("emptyResetBtn").addEventListener("click", resetFilters);
 
   renderTabs();
   renderHero();
   renderGrid();
-  renderSummary();
+  renderMeta();
   startTimer();
 })();

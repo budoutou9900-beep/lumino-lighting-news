@@ -127,8 +127,11 @@ body {
   height: 7px; border: none; border-radius: 999px; cursor: pointer; transition: all .3s; padding: 0;
 }
 
-/* TABS */
-.lumino-tabs { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+/* TABS + SEARCH */
+.lumino-toolbar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; margin-top: 28px;
+}
+.lumino-tabs { display: flex; flex-wrap: wrap; gap: 10px; }
 .lumino-tab {
   padding: 9px 18px; border-radius: 999px; font-family: 'Noto Sans JP', sans-serif; font-size: 13.5px;
   font-weight: 500; cursor: pointer; transition: all .15s; border: 1px solid rgba(255,255,255,0.09);
@@ -137,31 +140,48 @@ body {
 .lumino-tab.active {
   background: rgba(247,195,86,0.14); color: #f5c560; border-color: rgba(247,195,86,0.45);
 }
+.lumino-search {
+  position: relative; flex: 0 1 280px; min-width: 220px; display: flex; align-items: center;
+}
+.lumino-search-icon { position: absolute; left: 14px; pointer-events: none; }
+.lumino-search-input {
+  width: 100%; padding: 11px 36px 11px 38px; border-radius: 11px; border: 1px solid rgba(255,255,255,0.10);
+  background: rgba(255,255,255,0.04); color: #f3eee2; font-family: 'Noto Sans JP', sans-serif; font-size: 13.5px;
+  outline: none; transition: border-color .15s;
+}
+.lumino-search-input::placeholder { color: #7c859b; }
+.lumino-search-input:focus { border-color: rgba(247,195,86,0.45); }
+.lumino-search-clear {
+  position: absolute; right: 10px; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center;
+  border: none; border-radius: 50%; background: rgba(255,255,255,0.08); color: #aeb5c6; cursor: pointer;
+  font-size: 13px; line-height: 1; padding: 0;
+}
 
-/* SUMMARY */
-.lumino-summary { display: flex; flex-wrap: wrap; gap: 18px; margin-top: 26px; }
-.lumino-summary-card {
-  flex: 1; min-width: 190px; padding: 22px 24px; border-radius: 18px;
-  background: #111829; border: 1px solid rgba(255,255,255,0.07);
+/* RESULT META */
+.lumino-meta {
+  display: flex; align-items: center; gap: 14px; margin-top: 18px; font-size: 12.5px; color: #8b94aa;
 }
-.lumino-summary-card--accent {
-  background: linear-gradient(135deg,rgba(247,195,86,0.13),rgba(247,195,86,0.04));
-  border: 1px solid rgba(247,195,86,0.28);
+.lumino-meta-value { color: #f3eee2; font-weight: 600; font-variant-numeric: tabular-nums; }
+.lumino-meta-sep { width: 1px; height: 11px; background: rgba(255,255,255,0.14); }
+.lumino-meta-today { display: inline-flex; align-items: center; gap: 6px; color: #caa058; }
+
+/* EMPTY STATE */
+.lumino-empty {
+  padding: 64px 24px; text-align: center; border-radius: 18px; background: #111829; border: 1px dashed rgba(255,255,255,0.10);
 }
-.lumino-summary-label { font-size: 12px; letter-spacing: 0.04em; color: #8b94aa; }
-.lumino-summary-label--accent { display: flex; align-items: center; gap: 7px; color: #f5c560; }
-.lumino-summary-value-row { margin-top: 10px; display: flex; align-items: baseline; gap: 7px; }
-.lumino-summary-value {
-  font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 40px; line-height: 1;
-  color: #f7f2e7; font-variant-numeric: tabular-nums;
+.lumino-empty-icon { font-size: 30px; opacity: 0.4; margin-bottom: 14px; }
+.lumino-empty-title { font-size: 15px; font-weight: 600; color: #cdd3e0; }
+.lumino-empty-sub { margin-top: 8px; font-size: 13px; color: #7c859b; }
+.lumino-empty-reset {
+  margin-top: 20px; padding: 10px 20px; border-radius: 10px; border: 1px solid rgba(247,195,86,0.35);
+  background: rgba(247,195,86,0.10); color: #f5c560; font-family: 'Noto Sans JP', sans-serif; font-weight: 600;
+  font-size: 13px; cursor: pointer;
 }
-.lumino-summary-value--accent { color: #f5c560; }
-.lumino-summary-unit { font-size: 13px; color: #8b94aa; }
-.lumino-summary-unit--accent { color: #caa058; }
 
 /* GRID */
 .lumino-main { margin-top: 36px; }
 .lumino-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 20px; }
+.lumino-grid[hidden] { display: none; }
 
 /* SKELETON */
 .lumino-skel-card { padding: 24px; border-radius: 18px; background: #111829; border: 1px solid rgba(255,255,255,0.06); }

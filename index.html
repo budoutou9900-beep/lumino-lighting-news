@@ -48,29 +48,35 @@
         </div>
       </section>
 
-      <!-- CATEGORY TABS -->
-      <nav class="lumino-tabs" id="categoryTabs"></nav>
+      <!-- CATEGORY TABS + SEARCH -->
+      <div class="lumino-toolbar">
+        <nav class="lumino-tabs" id="categoryTabs"></nav>
+        <div class="lumino-search">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#7c859b" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" class="lumino-search-icon"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.2-3.2"></path></svg>
+          <input type="text" id="searchInput" class="lumino-search-input" placeholder="記事を検索…">
+          <button type="button" id="searchClearBtn" class="lumino-search-clear" aria-label="クリア" hidden>×</button>
+        </div>
+      </div>
 
-      <!-- SUMMARY BAR -->
-      <section class="lumino-summary">
-        <div class="lumino-summary-card">
-          <div class="lumino-summary-label">取得記事数</div>
-          <div class="lumino-summary-value-row"><span class="lumino-summary-value" id="nArticles">0</span><span class="lumino-summary-unit">件</span></div>
-        </div>
-        <div class="lumino-summary-card">
-          <div class="lumino-summary-label">ソース数</div>
-          <div class="lumino-summary-value-row"><span class="lumino-summary-value" id="nSources">0</span><span class="lumino-summary-unit">媒体</span></div>
-        </div>
-        <div class="lumino-summary-card lumino-summary-card--accent">
-          <div class="lumino-summary-label lumino-summary-label--accent"><span class="lumino-dot"></span>今日の新着</div>
-          <div class="lumino-summary-value-row"><span class="lumino-summary-value lumino-summary-value--accent" id="nToday">0</span><span class="lumino-summary-unit lumino-summary-unit--accent">件</span></div>
-        </div>
+      <!-- RESULT META -->
+      <section class="lumino-meta">
+        <span><span class="lumino-meta-value" id="nArticles">0</span> 件</span>
+        <span class="lumino-meta-sep"></span>
+        <span><span id="nSources">0</span> ソース</span>
+        <span class="lumino-meta-sep"></span>
+        <span class="lumino-meta-today"><span class="lumino-dot"></span>今日の新着 <span id="nToday">0</span> 件</span>
       </section>
 
       <!-- NEWS GRID -->
       <main class="lumino-main">
         <div class="lumino-grid" id="skeletonGrid" hidden></div>
         <div class="lumino-grid" id="newsGrid"></div>
+        <div class="lumino-empty" id="emptyState" hidden>
+          <div class="lumino-empty-icon">🔍</div>
+          <div class="lumino-empty-title">該当する記事が見つかりませんでした</div>
+          <div class="lumino-empty-sub">キーワードやカテゴリを変えてお試しください。</div>
+          <button type="button" class="lumino-empty-reset" id="emptyResetBtn">条件をリセット</button>
+        </div>
       </main>
 
     </div>
