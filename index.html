@@ -37,6 +37,21 @@
           <p class="lumino-section-desc" id="sectionDesc"></p>
         </div>
 
+        <!-- HOME -->
+        <section class="lumino-section" id="tab-home" data-tab="home">
+          <div class="lumino-hero-heading">
+            <span class="lumino-dot-sm"></span>
+            <span class="lumino-featured-label">FEATURED</span>
+            <span class="lumino-featured-sub">おすすめ記事</span>
+          </div>
+          <div class="lumino-hero-frame">
+            <div class="lumino-hero-track" id="heroTrack"></div>
+            <div class="lumino-hero-dots" id="heroDots"></div>
+          </div>
+
+          <div id="homePreviews"></div>
+        </section>
+
         <!-- INSPIRATION -->
         <section class="lumino-section" id="tab-inspiration" data-tab="inspiration" hidden>
           <div class="lumino-masonry" id="inspirationFeed"></div>
@@ -87,6 +102,10 @@
 
       <!-- BOTTOM NAV -->
       <nav class="lumino-bottomnav" id="bottomNav">
+        <button class="lumino-navbtn" data-tab="home">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"></path><path d="M5.5 10v9a1 1 0 0 0 1 1H17.5a1 1 0 0 0 1-1v-9"></path><path d="M9.5 20v-6h5v6"></path></svg>
+          <span>Home</span>
+        </button>
         <button class="lumino-navbtn" data-tab="inspiration">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 13.7 8.3 18.5 10 13.7 11.7 12 16.5 10.3 11.7 5.5 10 10.3 8.3z"></path><path d="M18.5 16.5l.6 1.7 1.7.6-1.7.6-.6 1.7-.6-1.7-1.7-.6 1.7-.6z"></path></svg>
           <span>Inspiration</span>
@@ -115,6 +134,7 @@
   <script src="inspiration.js"></script>
   <script src="learn.js"></script>
   <script src="research.js"></script>
+  <script src="home.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

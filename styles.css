@@ -310,3 +310,38 @@ body {
 .lumino-ai-chevron.open { transform: rotate(180deg); }
 .lumino-ai-content { margin-top: 12px; padding: 14px; border-radius: 12px; background: rgba(154,166,245,0.06); border: 1px solid rgba(154,166,245,0.12); }
 .lumino-ai-content p { margin: 0; font-size: 12.5px; line-height: 1.8; text-wrap: pretty; }
+
+/* HOME — HERO */
+.lumino-hero-heading { display: flex; align-items: center; gap: 9px; margin-bottom: 14px; }
+.lumino-featured-label {
+  font-family: 'Plus Jakarta Sans', sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.14em; color: var(--accent, #f5c560);
+}
+.lumino-featured-sub { font-size: 12px; color: #7c859b; }
+.lumino-hero-frame { position: relative; border-radius: 22px; overflow: hidden; border: 1px solid rgba(255,255,255,0.08); }
+.lumino-hero-track { display: flex; transition: transform .7s cubic-bezier(.4,0,.2,1); }
+.lumino-hero-slide { position: relative; flex: none; width: 100%; height: 320px; text-decoration: none; display: block; background-size: cover; background-position: center; }
+.lumino-hero-stripe { position: absolute; inset: 0; background: repeating-linear-gradient(135deg, rgba(255,255,255,0.022) 0 16px, rgba(255,255,255,0) 16px 32px); }
+.lumino-hero-placeholder { position: absolute; top: 22px; right: 24px; font-family: 'Plus Jakarta Sans', ui-monospace, monospace; font-size: 10px; letter-spacing: 0.16em; opacity: 0.4; }
+.lumino-hero-overlay { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(8,12,22,0.92) 0%, rgba(8,12,22,0.7) 42%, rgba(8,12,22,0.15) 100%); }
+.lumino-hero-content { position: absolute; left: 0; bottom: 0; max-width: 600px; padding: 32px 36px; }
+.lumino-hero-title { margin: 14px 0 0; font-size: 24px; font-weight: 800; line-height: 1.4; color: #f7f2e7; text-wrap: pretty; font-family: 'Noto Sans JP', sans-serif; }
+.lumino-hero-excerpt { margin: 10px 0 0; font-size: 13px; line-height: 1.75; color: #c2c9d8; text-wrap: pretty; }
+.lumino-hero-cta { display: inline-flex; align-items: center; gap: 7px; margin-top: 16px; padding: 10px 18px; border-radius: 11px; background: linear-gradient(150deg,#f7c356,#e88a2e); color: #0a0f1d; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 700; font-size: 13px; }
+.lumino-hero-dots { position: absolute; right: 20px; bottom: 18px; display: flex; gap: 8px; z-index: 2; }
+.lumino-hero-dots button { height: 7px; border: none; border-radius: 999px; cursor: pointer; transition: all .3s; padding: 0; }
+
+/* HOME — PREVIEW ROWS */
+.lumino-home-section { margin-top: 36px; }
+.lumino-home-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 14px; }
+.lumino-home-label { display: flex; align-items: center; gap: 8px; font-family: 'Plus Jakarta Sans', sans-serif; font-size: 13px; font-weight: 700; }
+.lumino-home-label-dot { width: 7px; height: 7px; border-radius: 50%; box-shadow: 0 0 8px currentColor; }
+.lumino-home-more { font-size: 12px; font-weight: 600; text-decoration: none; background: none; border: none; cursor: pointer; padding: 0; }
+.lumino-home-row { display: flex; gap: 14px; overflow-x: auto; padding-bottom: 6px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+.lumino-home-row::-webkit-scrollbar { display: none; }
+.lumino-home-card { flex: none; width: 230px; text-decoration: none; display: block; border-radius: 16px; overflow: hidden; background: #111829; border: 1px solid rgba(255,255,255,0.07); cursor: pointer; color: inherit; }
+.lumino-home-card-thumb { height: 130px; background-size: cover; background-position: center; position: relative; }
+.lumino-home-card-thumb-label { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: 'Plus Jakarta Sans', ui-monospace, monospace; font-size: 9px; letter-spacing: 0.16em; color: rgba(255,255,255,0.3); }
+.lumino-home-card-body { padding: 12px 14px 14px; }
+.lumino-home-card-source { font-size: 10.5px; font-weight: 700; letter-spacing: 0.02em; }
+.lumino-home-card-title { margin: 7px 0 0; font-size: 13.5px; font-weight: 700; line-height: 1.5; color: #f3eee2; text-wrap: pretty; }
+.lumino-home-card-comment { margin: 0; font-family: 'Shippori Mincho B1', 'Noto Sans JP', serif; font-size: 13.5px; line-height: 1.6; color: #ece6d8; text-wrap: pretty; }
