@@ -53,6 +53,24 @@
 
   let timer = null;
 
+  const READ_STORAGE_KEY = "lumino-read-urls";
+
+  function loadReadUrls() {
+    try {
+      return new Set(JSON.parse(localStorage.getItem(READ_STORAGE_KEY)) || []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  const readUrls = loadReadUrls();
+
+  function markRead(url) {
+    if (readUrls.has(url)) return;
+    readUrls.add(url);
+    localStorage.setItem(READ_STORAGE_KEY, JSON.stringify([...readUrls]));
+  }
+
   function colorOf(src) {
     return SOURCE_COLORS[src] || { bg: "rgba(255,255,255,0.08)", fg: "#cdd3e0" };
   }
@@ -176,8 +194,10 @@
       const thumbBg = hasImage
         ? `center / cover no-repeat url('${d.thumbnailUrl}')`
         : `linear-gradient(140deg, ${col.fg}24, #0c1322 72%)`;
+      const isUnread = !readUrls.has(d.url);
       a.innerHTML = `
         <div class="lumino-card-thumb" style="background:${thumbBg}">
+          ${isUnread ? `<span class="lumino-card-unread-badge">NEW</span>` : ""}
           ${hasImage ? "" : `<div class="lumino-card-thumb-stripe"></div><div class="lumino-card-thumb-label" style="color:${col.fg}">記事サムネイル</div>`}
         </div>
         <div class="lumino-card-row">
@@ -187,6 +207,7 @@
         <h3 class="lumino-card-title">${d.title}</h3>
         ${state.showExcerpt && d.excerpt ? `<p class="lumino-card-excerpt">${d.excerpt}</p>` : ""}
         <div class="lumino-card-footer">記事を読む<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"></path><path d="M7 7h10v10"></path></svg></div>`;
+      a.addEventListener("click", () => markRead(d.url));
       grid.appendChild(a);
     });
   }

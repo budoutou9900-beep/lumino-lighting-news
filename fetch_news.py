@@ -81,6 +81,14 @@ PANASONIC_FEEDS = [
 ]
 PANASONIC_KEYWORDS = ["照明", "LED", "ライト", "ダウンライト", "シーリング", "スポットライト", "シンカ", "Synca"]
 
+# 設計事務所（建築系）のニュース一覧には構造設計や受賞歴など照明と無関係な記事も
+# 混在するため、これらのキーワードを含むタイトルのみ採用する
+LIGHTING_KEYWORDS = ["照明", "LED", "ライティング", "あかり", "灯り", "ライト"]
+
+
+def is_lighting_related(title: str) -> bool:
+    return any(kw in title for kw in LIGHTING_KEYWORDS)
+
 CATEGORY_RULES = [
     ("賞・コンペ", ["賞", "コンペ", "アワード", "award"]),
     ("新製品", ["新製品", "発売", "新型", "リリース"]),
@@ -116,6 +124,9 @@ PER_SOURCE_CAP = {
     "collect_mjd": 10,
     "collect_azusa_sekkei": 10,
     "collect_ishimoto": 10,
+    "collect_iwasaki": 10,
+    "collect_dn_lighting": 10,
+    "collect_tanseisha": 10,
 }
 
 
@@ -294,8 +305,11 @@ def collect_wordpress_feed(source_name, feed_url, default_cat="デザイン"):
             continue
         pub_date = parse_rfc822(item.findtext("pubDate") or "")
         content_encoded = item.findtext("content:encoded", default="", namespaces=ns) or ""
-        img_m = re.search(r'<img[^>]*src="([^"]+)"', content_encoded)
-        thumbnail = img_m.group(1) if img_m else None
+        thumbnail = None
+        for src in re.findall(r'<img[^>]*src="([^"]+)"', content_encoded):
+            if not any(p in src.lower() for p in IMG_EXCLUDE_PATTERNS):
+                thumbnail = src
+                break
         articles.append(make_article(source_name, categorize(title, default=default_cat), pub_date, title, link, thumbnail_url=thumbnail))
     return articles
 
@@ -310,6 +324,45 @@ def collect_sirius():
 
 def collect_yamagiwa():
     return collect_wordpress_feed("YAMAGIWA", "https://www.yamagiwa.co.jp/news/feed/", default_cat="新製品")
+
+
+# ---- 岩崎電気（照明カテゴリ公式RSS） ----
+
+def collect_iwasaki():
+    return collect_wordpress_feed(
+        "岩崎電気", "https://www.iwasaki.co.jp/NEWS/lighting/rss.xml", default_cat="新製品"
+    )
+
+
+# ---- DNライティング（スクレイピング） ----
+
+def collect_dn_lighting():
+    base = "https://www.dnlighting.co.jp/media/news/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] dn lighting fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for dt in soup.find_all("dt", class_="rss_date"):
+        date_m = re.search(r"(\d{4})/(\d{2})/(\d{2})", dt.get_text())
+        dd = dt.find_next_sibling("dd", class_="rss_title")
+        a = dd.find("a", href=True) if dd else None
+        if not date_m or not a:
+            continue
+        press_span = a.find("span", class_="rss_press")
+        if press_span:
+            press_span.extract()
+        title = a.get_text(strip=True)
+        if not title:
+            continue
+        href = a["href"]
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("DNライティング", categorize(title, default="デザイン"), pub_date, title, href))
+    return articles
 
 
 # ---- 大光電機（スクレイピング） ----
@@ -360,7 +413,7 @@ def collect_mjd():
             continue
         date_m = re.search(r"(\d{4})\.(\d{2})\.(\d{2})", date_span.get_text())
         title = title_p.get_text(strip=True)
-        if not date_m or not title:
+        if not date_m or not title or not is_lighting_related(title):
             continue
         href = urllib.parse.urljoin(base, a["href"])
         img = a.find("img")
@@ -391,7 +444,7 @@ def collect_azusa_sekkei():
             continue
         date_m = re.search(r"(\d{4})年(\d{1,2})月(\d{1,2})日", day_span.get_text())
         title = title_p.get_text(strip=True)
-        if not date_m or not title:
+        if not date_m or not title or not is_lighting_related(title):
             continue
         href = urllib.parse.urljoin(base, a["href"])
         pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
@@ -420,13 +473,41 @@ def collect_ishimoto():
             continue
         date_m = re.match(r"(\d{4})-(\d{2})-(\d{2})", time_tag["datetime"])
         title = title_p.get_text(strip=True)
-        if not date_m or not title:
+        if not date_m or not title or not is_lighting_related(title):
             continue
         href = urllib.parse.urljoin(base, a["href"])
         img = a.find("img")
         thumbnail = img.get("src") if img else None
         pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
         articles.append(make_article("石本建築事務所", categorize(title), pub_date, title, href, thumbnail_url=thumbnail))
+    return articles
+
+
+# ---- 丹青社（ディスプレイ・内装設計、スクレイピング） ----
+
+def collect_tanseisha():
+    base = "https://www.tanseisha.co.jp/news"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] tanseisha fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for a in soup.find_all("a", class_="module-datelist__item", href=True):
+        time_tag = a.find("time")
+        title_p = a.find("p", class_="modLink__inner")
+        if not time_tag or not title_p:
+            continue
+        date_m = re.search(r"(\d{4})\.(\d{2})\.(\d{2})", time_tag.get_text())
+        title = title_p.get_text(strip=True)
+        if not date_m or not title or not is_lighting_related(title):
+            continue
+        href = a["href"]
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("丹青社", categorize(title), pub_date, title, href))
     return articles
 
 
@@ -445,6 +526,9 @@ def collect_articles():
         collect_mjd,
         collect_azusa_sekkei,
         collect_ishimoto,
+        collect_iwasaki,
+        collect_dn_lighting,
+        collect_tanseisha,
     ]
     seen_links = set()
     seen_titles = set()
@@ -476,7 +560,7 @@ def resolve_real_url(google_url: str):
     return None
 
 
-IMG_EXCLUDE_PATTERNS = ["logo", "icon", "btn_", "btn-", "sprite", "placeholder", "spacer", "pixel.gif"]
+IMG_EXCLUDE_PATTERNS = ["logo", "icon", "btn_", "btn-", "bt_menu", "sprite", "placeholder", "spacer", "pixel.gif"]
 
 
 def pick_fallback_content_image(soup: BeautifulSoup, base_url: str):
