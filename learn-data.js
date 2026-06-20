@@ -7,7 +7,7 @@ window.LUMINO_LEARN = [
     id: "hotel-warm-light",
     title: "なぜホテルは暖色照明が多いのか？",
     category: "設計",
-    thumbnail: null,
+    thumbnail: "images/learn/hotel-warm-light.png",
     readTime: "8分",
     summary: "夕暮れや焚き火の光を再現することで、私たちの脳と身体を「休息モード」に切り替えるためです。",
     date: "2026-06-20",
