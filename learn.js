@@ -1,6 +1,7 @@
 (function () {
   const items = window.LUMINO_LEARN || [];
   const CAT_COLORS = { "基礎": "#f5c560", "色のしくみ": "#6fc6c0", "設計": "#e9a6c4", "歴史": "#9aa6f5" };
+  const CARD_HEIGHTS = ["280px", "340px", "300px", "360px", "310px"];
 
   function catColor(cat) {
     const key = Object.keys(CAT_COLORS).find((k) => (cat || "").includes(k));
@@ -44,79 +45,111 @@
     return html;
   }
 
-  function closeSheet() {
-    document.getElementById("learnSheet").hidden = true;
-    document.getElementById("learnSheetBackdrop").hidden = true;
-  }
-
-  function showDetail(item) {
-    const body = document.getElementById("learnSheetBody");
-    body.innerHTML = `
-      <h2 class="lumino-learn-detail-title">${item.title}</h2>
-      <div class="lumino-learn-detail-body">${markdownToHtml(item.content)}</div>`;
-    body.scrollTop = 0;
-    document.getElementById("learnSheet").hidden = false;
-    document.getElementById("learnSheetBackdrop").hidden = false;
-  }
-
-  document.getElementById("learnSheetClose").addEventListener("click", closeSheet);
-  document.getElementById("learnSheetBackdrop").addEventListener("click", closeSheet);
-  window.luminoCloseLearnSheet = closeSheet;
-
-  function renderFeatured(item) {
-    const wrap = document.getElementById("learnFeatured");
+  function thumbStyle(item, size) {
     const color = catColor(item.category);
-    const thumbBg = item.thumbnail
-      ? `center / cover no-repeat url('${item.thumbnail}')`
-      : `radial-gradient(circle at 30% 40%, ${color}55, transparent 60%), linear-gradient(140deg,#2a2110,#0c1018)`;
-    wrap.innerHTML = `
-      <div class="lumino-learn-featured-thumb" style="background:${thumbBg}">
-        ${item.thumbnail ? "" : `<div class="lumino-learn-featured-hatch"></div>`}
-        <span class="lumino-learn-original-badge"><span class="lumino-learn-original-dot"></span>LUMINO ORIGINAL</span>
-      </div>
-      <div class="lumino-learn-featured-body">
-        <span class="lumino-learn-cat" style="color:${color}">${item.category || ""}</span>
-        <h3 class="lumino-learn-featured-title">${item.title}</h3>
-        <p class="lumino-learn-excerpt">${item.summary || ""}</p>
-        <div class="lumino-learn-meta-row">
-          <span>LUMINO編集部</span>
-          <span class="lumino-learn-meta-dot"></span>
-          <span>${item.readTime ? item.readTime + "で読める" : ""}</span>
+    if (item.thumbnail) return `background:center / cover no-repeat url('${item.thumbnail}')`;
+    const grad = size === "hero"
+      ? `radial-gradient(circle at 30% 35%, ${color}55, transparent 60%), linear-gradient(140deg,#1c1610,#0c1018)`
+      : `radial-gradient(circle at 30% 40%, ${color}55, transparent 60%), linear-gradient(140deg,#1c1610,#0c1018)`;
+    return `background:${grad}`;
+  }
+
+  function renderMasonry() {
+    const wrap = document.getElementById("learnMasonry");
+    wrap.innerHTML = "";
+    items.forEach((item, i) => {
+      const color = catColor(item.category);
+      const height = CARD_HEIGHTS[i % CARD_HEIGHTS.length];
+      const card = document.createElement("button");
+      card.type = "button";
+      card.className = "lumino-learn-card";
+      card.innerHTML = `
+        <div class="lumino-learn-card-img" style="height:${height};${thumbStyle(item)}">
+          ${item.thumbnail ? "" : `<div class="lumino-learn-card-hatch"></div>`}
+          <div class="lumino-learn-card-fade"></div>
+          <div class="lumino-learn-card-text">
+            <span class="lumino-learn-cat" style="color:${color}">${item.category || ""}</span>
+            <h3 class="lumino-learn-card-title">${item.title}</h3>
+          </div>
+        </div>`;
+      card.addEventListener("click", () => openArticle(item));
+      wrap.appendChild(card);
+    });
+  }
+
+  function relatedFor(item) {
+    const sameCat = items.filter((i) => i.id !== item.id && i.category === item.category);
+    const others = items.filter((i) => i.id !== item.id && i.category !== item.category);
+    return sameCat.concat(others).slice(0, 3);
+  }
+
+  function openArticle(item) {
+    const color = catColor(item.category);
+    const articleWrap = document.getElementById("learnArticle");
+    const related = relatedFor(item);
+
+    articleWrap.innerHTML = `
+      <div class="lumino-learn-article-card">
+        <div class="lumino-learn-article-hero" style="${thumbStyle(item, "hero")}">
+          ${item.thumbnail ? "" : `<div class="lumino-learn-article-hero-fallback">フル幅ヒーロー画像</div>`}
+          <span class="lumino-learn-original-badge"><span class="lumino-learn-original-dot"></span>LUMINO ORIGINAL</span>
+          <div class="lumino-learn-article-hero-title-wrap">
+            <span class="lumino-learn-cat" style="color:${color}">${item.category || ""}</span>
+            <h1 class="lumino-learn-article-title">${item.title}</h1>
+            ${item.summary ? `<p class="lumino-learn-article-tagline">${item.summary}</p>` : ""}
+          </div>
         </div>
+        <div class="lumino-learn-article-body-wrap">
+          <div class="lumino-learn-article-meta-row">
+            <div class="lumino-learn-article-avatar"></div>
+            <div>
+              <div class="lumino-learn-article-authorlabel">著者</div>
+              <div class="lumino-learn-article-author">LUMINO編集部</div>
+              <div class="lumino-learn-article-datemeta">${item.date || ""}${item.date && item.readTime ? " • " : ""}${item.readTime ? item.readTime + "で読める" : ""}</div>
+            </div>
+          </div>
+          <div class="lumino-learn-detail-body">${markdownToHtml(item.content)}</div>
+        </div>
+        ${related.length ? `
+        <div class="lumino-learn-related-wrap">
+          <h3 class="lumino-learn-related-title">関連する記事</h3>
+          <div class="lumino-learn-related-grid">
+            ${related.map((rel) => `
+              <button type="button" class="lumino-learn-related-card" data-id="${rel.id}">
+                <span class="lumino-learn-cat" style="color:${catColor(rel.category)}">${rel.category || ""}</span>
+                <h4 class="lumino-learn-related-title">${rel.title}</h4>
+                <div class="lumino-learn-related-read">${rel.readTime || ""}</div>
+              </button>`).join("")}
+          </div>
+        </div>` : ""}
       </div>`;
-    wrap.addEventListener("click", () => showDetail(item));
+
+    articleWrap.querySelectorAll(".lumino-learn-related-card").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const rel = items.find((i) => String(i.id) === btn.dataset.id);
+        if (rel) openArticle(rel);
+      });
+    });
+
+    document.getElementById("learnMasonry").hidden = true;
+    document.getElementById("learnBackBtn").hidden = false;
+    articleWrap.hidden = false;
+    window.scrollTo(0, 0);
   }
 
-  function renderRow(item) {
-    const color = catColor(item.category);
-    const row = document.createElement("button");
-    row.type = "button";
-    row.className = "lumino-learn-row";
-    const thumbBg = item.thumbnail
-      ? `center / cover no-repeat url('${item.thumbnail}')`
-      : `radial-gradient(circle at 45% 50%, ${color}42, transparent 60%), linear-gradient(140deg,#1c2740,#0c1322)`;
-    row.innerHTML = `
-      <div class="lumino-learn-row-text">
-        <span class="lumino-learn-cat" style="color:${color}">${item.category || ""}</span>
-        <h4 class="lumino-learn-row-title">${item.title}</h4>
-        <div class="lumino-learn-meta-row">
-          <span>LUMINO編集部</span>
-          <span class="lumino-learn-meta-dot"></span>
-          <span>${item.readTime || ""}</span>
-        </div>
-      </div>
-      <div class="lumino-learn-row-thumb" style="background:${thumbBg}"></div>`;
-    row.addEventListener("click", () => showDetail(item));
-    return row;
+  function closeArticle() {
+    document.getElementById("learnArticle").hidden = true;
+    document.getElementById("learnBackBtn").hidden = true;
+    document.getElementById("learnMasonry").hidden = false;
+    window.scrollTo(0, 0);
   }
+
+  document.getElementById("learnBackBtn").addEventListener("click", closeArticle);
+  window.luminoCloseLearnArticle = closeArticle;
 
   function render() {
-    const list = document.getElementById("learnList");
-    if (!list) return;
-    if (items.length === 0) return;
-    renderFeatured(items[0]);
-    list.innerHTML = "";
-    items.slice(1).forEach((item) => list.appendChild(renderRow(item)));
+    if (!document.getElementById("learnMasonry")) return;
+    renderMasonry();
   }
 
   render();

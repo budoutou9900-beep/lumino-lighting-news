@@ -27,7 +27,7 @@
 
   function showTab(tab) {
     if (!TABS[tab] || tab === activeTab) return;
-    if (window.luminoCloseLearnSheet) window.luminoCloseLearnSheet();
+    if (window.luminoCloseLearnArticle) window.luminoCloseLearnArticle();
     const fromIdx = TAB_KEYS.indexOf(activeTab);
     const toIdx = TAB_KEYS.indexOf(tab);
     const dir = toIdx > fromIdx ? "right" : "left";
