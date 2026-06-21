@@ -1,108 +1,170 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.20  08:34",
+  "fetchedAt": "2026.06.21  09:29",
   "sourceColors": {
-    "WBS和歌山放送ニュース": {
+    "COMPANYTANK": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "MONOist": {
+    "JOYSOUND 音楽ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "47NEWS": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "webdice.jp": {
+    "日テレNEWS NNN": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ナタリー": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "美術館・アート情報": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "アートアジェンダ": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "武蔵野美術大学": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
     {
-      "source": "WBS和歌山放送ニュース",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "タカショーデジテックがミラノで日本の原風景と調和した照明デザイン発表",
-      "url": "https://news.wbs.co.jp/205976",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.wbs.co.jp/wp-content/themes/wp001/images/no_image_news.png",
-      "today": true
-    },
-    {
-      "source": "MONOist",
+      "source": "COMPANYTANK",
       "cat": "国内情報",
-      "date": "2026.06.20",
-      "title": "SOLIDWORKSとの連携機能を強化した照明設計解析ソフトウェア：CAEニュース",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2102/04/news029.html",
+      "date": "2026.06.21",
+      "title": "株式会社 高尚 高見澤尚弘",
+      "url": "https://www.challenge-plus.jp/interview/200611/0559/",
       "excerpt": "",
-      "thumbnailUrl": "https://image.itmedia.co.jp/mn/articles/2102/04/mn_fanews_21012701a_w290.jpg",
+      "thumbnailUrl": "https://www.challenge-plus.jp/wp/wp-content/uploads/2006/11/05591.jpg",
       "today": true
     },
     {
-      "source": "47NEWS",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "福山城天守ライトアップ、改修の白壁映える 東京タワー照明デザインの石井さん監修",
-      "url": "https://www.47news.jp/7987392.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://img.cf.47news.jp/public/photo/9a848a8ce2735a9a8f258e57449fe5f7/photo.jpeg",
-      "today": true
-    },
-    {
-      "source": "webdice.jp",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "NYの照明デザイン集団LOOP Lighting中村亮子さんが語る“アートで社会に何が貢献できるか”",
-      "url": "http://www.webdice.jp/dice/detail/5690/index.html",
-      "excerpt": "",
-      "thumbnailUrl": "http://www.webdice.jp/article_images/20181012/5690_1539309273_l.jpg",
-      "today": true
-    },
-    {
-      "source": "ナタリー",
+      "source": "JOYSOUND 音楽ニュース",
       "cat": "国内情報",
-      "date": "2026.06.20",
-      "title": "3つの照明プランで“ヘンシン”し続ける、イデビアン・クルー新作「ヘンシン」",
-      "url": "https://natalie.mu/stage/news/490312",
+      "date": "2026.06.21",
+      "title": "Bialystocks・甫木元空が振り返る表現者としての原点",
+      "url": "https://news.joysound.com/article/623715",
       "excerpt": "",
-      "thumbnailUrl": "https://ogre.natalie.mu/media/news/stage/2022/0819/DSC_2542.jpg?impolicy=twitter_card_face_crop",
+      "thumbnailUrl": "https://img.cdn-news-joysound.work/623715/main",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "国内情報",
+      "date": "2026.06.21",
+      "title": "本質的な価値を探り、社会につなげるデザイナー小関隆一 その魅力はシンプルななかに際立つ造形美",
+      "url": "https://www.axismag.jp/posts/2025/06/663622.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2025/06/01_Bottled_01.jpg",
+      "today": true
+    },
+    {
+      "source": "日テレNEWS NNN",
+      "cat": "国内情報",
+      "date": "2026.06.21",
+      "title": "金沢美術工芸大学 恒例の仮装卒業式 203人が門出の日を迎える（2026年3月1日掲載）｜日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/life/kt7e9bf92b4b544f57bf91a30e401e38e1",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.ntv.co.jp/gimage/n24/articles/9cf024793d864ccdbb80a76e0a6c3549/268157b0-6164-4384-8f36-252e5bcdbb77.jpg?w=1200",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "「KEIKO+MANABU」が手がけるディーゼルのホームコレクションのインスタレーションが開催中",
+      "url": "https://www.fashion-press.net/news/3901",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/3901/top.jpg?1459436400",
+      "today": true
+    },
+    {
+      "source": "美術館・アート情報",
+      "cat": "国内情報",
+      "date": "2026.06.21",
+      "title": "内藤礼「すべて動物は、世界の内にちょうど水の中に水があるように存在している」",
+      "url": "https://artscape.jp/report/review/1211137_1735.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://artscape.jp/report/review/image/0912_mr_25_naitourei.jpg",
+      "today": true
+    },
+    {
+      "source": "美術館・アート情報",
+      "cat": "国内情報",
+      "date": "2026.06.21",
+      "title": "小谷真輔「無重力サーキット」",
+      "url": "https://artscape.jp/report/review/10000398_1735.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://artscape.jp/report/review/image/1105_kb_kotani.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "国内情報",
+      "date": "2026.06.21",
+      "title": "クリスチャン・ボルタンスキーの大回顧展が東京・長崎で、写真や衣服で歴史・記憶などを表現",
+      "url": "https://www.fashion-press.net/news/45680",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/45680/top.jpg?1545367970",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "「長野県立美術館」開館 - 自然と歴史が調和する“ランドスケープ・ミュージアム”、「霧の彫刻」展示も",
+      "url": "https://www.fashion-press.net/news/66525",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/66525/top.jpg?1624246148",
+      "today": true
+    },
+    {
+      "source": "アートアジェンダ",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "生への言祝（ことほ）ぎ －インスタレーション、十二の柱＋出会いのパフォーマンス－ | 大分県立美術館（OPAM）",
+      "url": "https://www.artagenda.jp/exhibition/detail/594",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.artagenda.jp/img/event/594/main_1.jpg?1782001759",
       "today": true
     },
     {
@@ -113,6 +175,16 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79548/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "武蔵野美術大学",
+      "cat": "展示・アート",
+      "date": "2026.06.17",
+      "title": "まるあかり さんの新作MVがNHK「名曲考察教室」にて放送されます（6/18放送）",
+      "url": "https://www.musabi.ac.jp/news/20260617_03_01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2024/03/ogp.png",
       "today": false
     },
     {
@@ -206,7 +278,7 @@ window.LUMINO_DATA = {
     },
     {
       "source": "DNライティング",
-      "cat": "デザイン",
+      "cat": "展示・アート",
       "date": "2026.06.02",
       "title": "【重要】6月3日（水）DNLプライベート展示会 LIGHT with DNL 2026 中止のお知らせ",
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
@@ -316,7 +388,7 @@ window.LUMINO_DATA = {
     },
     {
       "source": "遠藤照明",
-      "cat": "国内情報",
+      "cat": "展示・アート",
       "date": "2026.05.20",
       "title": "展示会「オルガテック東京2026」出展のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20260520-01/",
