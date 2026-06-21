@@ -209,6 +209,8 @@ def collect_google_news():
             if not link or not raw_title:
                 continue
             title, source = split_title_source(raw_title)
+            if not is_lighting_related(title):
+                continue
             articles.append(make_article(source, categorize(title), pub_date, title, link, is_google_news=True))
     return articles
 
