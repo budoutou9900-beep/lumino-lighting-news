@@ -528,7 +528,7 @@ def collect_daiko():
         print(f"[warn] daiko fetch failed: {exc}")
         return []
 
-    soup = BeautifulSoup(res.text, "html.parser")
+    soup = BeautifulSoup(res.content, "html.parser")
     articles = []
     for dt in soup.find_all("dt"):
         date_m = re.search(r"(\d{4})\.(\d{2})\.(\d{2})", dt.get_text())
