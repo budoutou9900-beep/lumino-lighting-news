@@ -535,7 +535,7 @@ def collect_general_design_feed(source_name, feed_url):
     return articles
 
 
-GENERAL_DESIGN_PER_SOURCE_CAP = 8
+GENERAL_DESIGN_PER_SOURCE_CAP = 5
 
 
 def collect_general_design_all():
