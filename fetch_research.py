@@ -3,10 +3,16 @@ LUMINO Researchタブ用の学術論文取得スクリプト。
 CrossRef API（無料・APIキー不要）とLEUKOSの公式RSSから照明関連の論文メタデータを集約し、
 research-data.js (window.LUMINO_RESEARCH) を生成する。
 
-著作権方針: 論文本文や画像は取得・保存しない。タイトル・DOI・出典URLなどのメタデータのみを扱う。
+抄録はOpenAlex API（無料・APIキー不要、DOIから検索可能）から取得し、
+Gemini APIで一般読者向けの日本語要約（AI要約欄）を生成する。
+
+著作権方針: 論文本文や画像は取得・保存しない。タイトル・DOI・出典URL・抄録などの
+メタデータのみを扱う（抄録は要約生成にのみ用い、そのまま保存・転載はしない）。
 """
 import json
 import re
+import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -16,14 +22,22 @@ from pathlib import Path
 
 import requests
 
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 UA = {"User-Agent": "Mozilla/5.0 (LUMINO research aggregator; contact: budoutou9900@gmail.com)"}
 HTTP_TIMEOUT = 15
 OUTPUT_PATH = Path(__file__).parent / "research-data.js"
+GEMINI_CONFIG_PATH = Path(__file__).parent / "gemini_config.json"
+GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_RATE_LIMIT_SLEEP = 12
 
 # CrossRefでは container-title の文字列一致で検索する（ISSN指定より取りこぼしが少ない）
 CROSSREF_JOURNALS = ["LEUKOS", "Lighting Research & Technology"]
 CROSSREF_ROWS = 8
 MAX_PAPERS_PER_SOURCE = 8
+MAX_AI_SUMMARIES = 15  # 新しい順に最大15件のみ要約（OpenAlex+Gemini呼び出しの所要時間を抑える）
 
 
 def safe_get(url, **kwargs):
@@ -125,6 +139,90 @@ def collect_leukos_rss():
     return papers
 
 
+def fetch_abstract_via_openalex(doi: str):
+    if not doi:
+        return None
+    url = f"https://api.openalex.org/works/https://doi.org/{urllib.parse.quote(doi)}"
+    try:
+        res = requests.get(url, headers=UA, timeout=HTTP_TIMEOUT,
+                            params={"mailto": "budoutou9900@gmail.com"})
+        if res.status_code != 200:
+            return None
+        inv = res.json().get("abstract_inverted_index")
+        if not inv:
+            return None
+        positions = sorted((pos, word) for word, idxs in inv.items() for pos in idxs)
+        return " ".join(word for _, word in positions)
+    except Exception as exc:
+        print(f"[warn] openalex abstract fetch failed for {doi}: {exc}")
+        return None
+
+
+def load_gemini_api_key():
+    import os
+    env_key = os.environ.get("GEMINI_API_KEY")
+    if env_key:
+        return env_key
+    if not GEMINI_CONFIG_PATH.exists():
+        return None
+    try:
+        config = json.loads(GEMINI_CONFIG_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    key = config.get("api_key", "")
+    if not key or "ここに" in key:
+        return None
+    return key
+
+
+SUMMARY_PROMPT = """あなたはLUMINOという照明メディアの編集者です。
+以下の学術論文の抄録を、照明に詳しくない一般読者にも分かりやすい日本語で2文・150字程度に要約してください。
+研究で分かったこと（結果）とその意義を中心にし、専門用語は最小限にしてください。
+要約文のみを返してください（前置きや「要約：」等のラベルは不要です）。
+
+論文タイトル：{title}
+抄録：{abstract}"""
+
+
+def summarize_with_gemini(api_key, title, abstract):
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={api_key}"
+    prompt = SUMMARY_PROMPT.format(title=title, abstract=abstract)
+    body = {"contents": [{"parts": [{"text": prompt}]}]}
+    for attempt in range(2):
+        try:
+            res = requests.post(url, json=body, timeout=HTTP_TIMEOUT)
+            if res.status_code == 429 and attempt == 0:
+                time.sleep(GEMINI_RATE_LIMIT_SLEEP * 2)
+                continue
+            res.raise_for_status()
+            return res.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+        except Exception as exc:
+            print(f"[warn] gemini summarize failed for '{title[:40]}': {exc}")
+            if attempt == 0:
+                time.sleep(GEMINI_RATE_LIMIT_SLEEP)
+                continue
+            return None
+    return None
+
+
+def attach_ai_summaries(papers):
+    api_key = load_gemini_api_key()
+    if not api_key:
+        print("[warn] GEMINI_API_KEY未設定のため、AI要約は生成しません（近日公開のまま）。")
+        return papers
+
+    candidates = [p for p in papers if p.get("doi")]
+    for i, p in enumerate(candidates):
+        abstract = fetch_abstract_via_openalex(p["doi"])
+        if abstract:
+            summary = summarize_with_gemini(api_key, p["title"], abstract)
+            if summary:
+                p["ai"] = summary
+        if i < len(candidates) - 1:
+            time.sleep(GEMINI_RATE_LIMIT_SLEEP)
+    return papers
+
+
 def main():
     all_papers = []
     seen_titles = set()
@@ -146,6 +244,8 @@ def main():
     for p in all_papers:
         del p["_sort"]
     all_papers = all_papers[:30]
+
+    attach_ai_summaries(all_papers[:MAX_AI_SUMMARIES])
 
     payload = {
         "fetchedAt": datetime.now(timezone.utc).strftime("%Y.%m.%d  %H:%M"),
