@@ -1,170 +1,112 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  09:30",
+  "fetchedAt": "2026.06.21  09:38",
   "sourceColors": {
-    "COMPANYTANK": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "JOYSOUND 音楽ニュース": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "axismag.jp": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "日テレNEWS NNN": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "美術館・アート情報": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アートアジェンダ": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "武蔵野美術大学": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "北千住経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "武蔵野美術大学": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
     {
-      "source": "COMPANYTANK",
-      "cat": "国内情報",
-      "date": "2026.06.21",
-      "title": "株式会社 高尚 高見澤尚弘",
-      "url": "https://www.challenge-plus.jp/interview/200611/0559/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.challenge-plus.jp/wp/wp-content/uploads/2006/11/05591.jpg",
-      "today": true
-    },
-    {
-      "source": "JOYSOUND 音楽ニュース",
-      "cat": "国内情報",
-      "date": "2026.06.21",
-      "title": "Bialystocks・甫木元空が振り返る表現者としての原点",
-      "url": "https://news.joysound.com/article/623715",
-      "excerpt": "",
-      "thumbnailUrl": "https://img.cdn-news-joysound.work/623715/main",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
-      "cat": "国内情報",
+      "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "本質的な価値を探り、社会につなげるデザイナー小関隆一 その魅力はシンプルななかに際立つ造形美",
-      "url": "https://www.axismag.jp/posts/2025/06/663622.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2025/06/01_Bottled_01.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "日テレNEWS NNN",
-      "cat": "国内情報",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "金沢美術工芸大学 恒例の仮装卒業式 203人が門出の日を迎える（2026年3月1日掲載）｜日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/life/kt7e9bf92b4b544f57bf91a30e401e38e1",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://news.ntv.co.jp/gimage/n24/articles/9cf024793d864ccdbb80a76e0a6c3549/268157b0-6164-4384-8f36-252e5bcdbb77.jpg?w=1200",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "「KEIKO+MANABU」が手がけるディーゼルのホームコレクションのインスタレーションが開催中",
-      "url": "https://www.fashion-press.net/news/3901",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/3901/top.jpg?1459436400",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
-      "date": "2026.06.21",
-      "title": "内藤礼「すべて動物は、世界の内にちょうど水の中に水があるように存在している」",
-      "url": "https://artscape.jp/report/review/1211137_1735.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/report/review/image/0912_mr_25_naitourei.jpg",
-      "today": true
-    },
-    {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
-      "date": "2026.06.21",
-      "title": "小谷真輔「無重力サーキット」",
-      "url": "https://artscape.jp/report/review/10000398_1735.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/report/review/image/1105_kb_kotani.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "国内情報",
-      "date": "2026.06.21",
-      "title": "クリスチャン・ボルタンスキーの大回顧展が東京・長崎で、写真や衣服で歴史・記憶などを表現",
-      "url": "https://www.fashion-press.net/news/45680",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/45680/top.jpg?1545367970",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
+      "source": "北千住経済新聞",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "「長野県立美術館」開館 - 自然と歴史が調和する“ランドスケープ・ミュージアム”、「霧の彫刻」展示も",
-      "url": "https://www.fashion-press.net/news/66525",
+      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
+      "url": "https://adachi.keizai.biz/headline/662/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/66525/top.jpg?1624246148",
-      "today": true
-    },
-    {
-      "source": "アートアジェンダ",
-      "cat": "展示・アート",
-      "date": "2026.06.21",
-      "title": "生への言祝（ことほ）ぎ －インスタレーション、十二の柱＋出会いのパフォーマンス－ | 大分県立美術館（OPAM）",
-      "url": "https://www.artagenda.jp/exhibition/detail/594",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.artagenda.jp/img/event/594/main_1.jpg?1782001841",
+      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
       "today": true
     },
     {
