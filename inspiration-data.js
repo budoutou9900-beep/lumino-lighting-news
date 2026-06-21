@@ -74,5 +74,23 @@ window.LUMINO_INSPIRATION = [
     comment: "壁を貫く一筋のスリットから差し込む光が、暗闇の中に十字の形を浮かび上がらせる。光そのものが、建築の主役になっている。",
     credit: "安藤忠雄《光の教会》— 大阪・茨木",
     tags: ["建築", "空間照明"]
+  },
+  {
+    id: "009",
+    imageUrl: "https://static.designboom.com/wp-content/uploads/2025/08/MAD-fenix-rotterdam-netherlands-update-designboom-600.jpg",
+    sourceUrl: "https://www.designboom.com/architecture/new-photographs-mad-fenix-museum-migration-come-alive-rotterdam-netherlands-08-22-2025/",
+    sourceName: "designboom",
+    comment: "天井の丸い開口から落ちる光が、らせん状のステンレス階段を一日中なぞっていく。時間そのものが、建築の中を動き回っているように見える。",
+    credit: "MAD Architects《Fenix》— ロッテルダム",
+    tags: ["建築", "自然光"]
+  },
+  {
+    id: "010",
+    imageUrl: "https://static.designboom.com/wp-content/uploads/2025/01/sanuki-daisuke-architects-vietnamese-tube-house-rhythmic-light-steel-shades-01-17-2025-designboom-500.jpg",
+    sourceUrl: "https://www.designboom.com/architecture/sanuki-daisuke-architects-vietnamese-tube-house-rhythmic-light-steel-shades-01-17-2025/",
+    sourceName: "designboom",
+    comment: "西日を受ける鉄板のルーバーが、壁の上に動く縞模様を描き出す。同じ部屋なのに、午後の数時間だけまったく違う表情になる。",
+    credit: "Sanuki Daisuke Architects — ベトナム・チューブハウス",
+    tags: ["建築", "自然光"]
   }
 ];
