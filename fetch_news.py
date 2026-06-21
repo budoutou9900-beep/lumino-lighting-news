@@ -552,7 +552,7 @@ GEMINI_CONFIG_PATH = Path(__file__).parent / "gemini_config.json"
 GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_SCORE_THRESHOLD = 6
 GEMINI_MAX_CANDIDATES = 100
-GEMINI_RATE_LIMIT_SLEEP = 12  # 無料枠のレート制限に余裕を持たせるための間隔
+GEMINI_RATE_LIMIT_SLEEP = 20  # 無料枠のレート制限に余裕を持たせるための間隔
 
 FILTER_PROMPT = """あなたはLUMINOという照明メディアのキュレーターです。
 LUMINOのミッションは「照明を意識していない一般の人に、日常の光の美しさに気づいてもらうこと」です。

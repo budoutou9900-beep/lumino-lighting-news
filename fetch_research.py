@@ -31,7 +31,7 @@ HTTP_TIMEOUT = 15
 OUTPUT_PATH = Path(__file__).parent / "research-data.js"
 GEMINI_CONFIG_PATH = Path(__file__).parent / "gemini_config.json"
 GEMINI_MODEL = "gemini-2.5-flash"
-GEMINI_RATE_LIMIT_SLEEP = 12
+GEMINI_RATE_LIMIT_SLEEP = 20
 
 # CrossRefでは container-title の文字列一致で検索する（ISSN指定より取りこぼしが少ない）
 CROSSREF_JOURNALS = ["LEUKOS", "Lighting Research & Technology"]
