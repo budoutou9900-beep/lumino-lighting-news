@@ -38,6 +38,10 @@ GOOGLE_QUERIES = [
     "照明 新製品",
     "照明 コンペ OR 照明 賞",
     "照明計画 OR 照明設計",
+    "照明 展覧会 OR 照明 展示",
+    "ライトアップ イルミネーション",
+    "美術館 照明 インスタレーション",
+    "美大 卒業制作 照明 OR 卒展 照明",
 ]
 
 # 「ライト」が人名（フランク・ロイド・ライト等）や無関係な語にマッチして
@@ -90,6 +94,7 @@ def is_lighting_related(title: str) -> bool:
     return any(kw in title for kw in LIGHTING_KEYWORDS)
 
 CATEGORY_RULES = [
+    ("展示・アート", ["展覧会", "展示会", "個展", "卒展", "卒業制作", "インスタレーション", "ライトアップ", "イルミネーション", "美術館", "ギャラリー", "アート"]),
     ("賞・コンペ", ["賞", "コンペ", "アワード", "award"]),
     ("新製品", ["新製品", "発売", "新型", "リリース"]),
     ("技術・LED", ["LED", "Mini LED", "技術", "OLED"]),
@@ -127,6 +132,16 @@ PER_SOURCE_CAP = {
     "collect_iwasaki": 10,
     "collect_dn_lighting": 10,
     "collect_tanseisha": 10,
+    "collect_top_museum": 6,
+    "collect_momat": 6,
+    "collect_geidai": 6,
+    "collect_musabi": 6,
+    "collect_kanazawa_bidai": 6,
+    "collect_kit": 6,
+    "collect_mori_art_museum": 6,
+    "collect_mot_museum": 6,
+    "collect_nact": 6,
+    "collect_2121designsight": 6,
 }
 
 
@@ -286,7 +301,7 @@ def collect_ieij():
 
 # ---- LPA / シリウスライティングオフィス（WordPress公式RSS） ----
 
-def collect_wordpress_feed(source_name, feed_url, default_cat="デザイン"):
+def collect_wordpress_feed(source_name, feed_url, default_cat="デザイン", require_lighting=False):
     try:
         req = urllib.request.Request(feed_url, headers=UA)
         with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as res:
@@ -302,6 +317,8 @@ def collect_wordpress_feed(source_name, feed_url, default_cat="デザイン"):
         title = unescape((item.findtext("title") or "").strip())
         link = (item.findtext("link") or "").strip()
         if not title or not link:
+            continue
+        if require_lighting and not is_lighting_related(title):
             continue
         pub_date = parse_rfc822(item.findtext("pubDate") or "")
         content_encoded = item.findtext("content:encoded", default="", namespaces=ns) or ""
@@ -332,6 +349,139 @@ def collect_iwasaki():
     return collect_wordpress_feed(
         "岩崎電気", "https://www.iwasaki.co.jp/NEWS/lighting/rss.xml", default_cat="新製品"
     )
+
+
+# ---- 美術館・美大（公式RSS、照明関連のみ抽出） ----
+
+def collect_top_museum():
+    return collect_wordpress_feed("東京都写真美術館", "https://topmuseum.jp/feed/", default_cat="展示・アート", require_lighting=True)
+
+
+def collect_momat():
+    return collect_wordpress_feed("東京国立近代美術館", "https://www.momat.go.jp/feed/", default_cat="展示・アート", require_lighting=True)
+
+
+def collect_geidai():
+    return collect_wordpress_feed("東京藝術大学", "https://www.geidai.ac.jp/feed/", default_cat="展示・アート", require_lighting=True)
+
+
+def collect_musabi():
+    return collect_wordpress_feed("武蔵野美術大学", "https://www.musabi.ac.jp/feed/", default_cat="展示・アート", require_lighting=True)
+
+
+def collect_kanazawa_bidai():
+    return collect_wordpress_feed("金沢美術工芸大学", "https://www.kanazawa-bidai.ac.jp/feed/", default_cat="展示・アート", require_lighting=True)
+
+
+def collect_kit():
+    return collect_wordpress_feed("京都工芸繊維大学", "https://www.kit.ac.jp/feed/", default_cat="展示・アート", require_lighting=True)
+
+
+# ---- 美術館（スクレイピング、照明関連のみ抽出） ----
+
+def collect_mori_art_museum():
+    base = "https://www.mori.art.museum/jp/news/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] mori art museum fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for a in soup.find_all("a", href=re.compile(r"/jp/news/\d{4}/\d{2}/\d+/?$")):
+        text = a.get_text(" ", strip=True)
+        date_m = re.search(r"(\d{4})\.(\d{1,2})\.(\d{1,2})", text)
+        if not date_m:
+            continue
+        title = text[date_m.end():].strip("（) 　")
+        title = re.sub(r"^[（(][^）)]*[）)]\s*", "", title)
+        if not title or not is_lighting_related(title):
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("森美術館", "展示・アート", pub_date, title, href))
+    return articles
+
+
+def collect_mot_museum():
+    base = "https://www.mot-art-museum.jp/news/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] mot museum fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for a in soup.find_all("a", href=True):
+        date_span = a.find("span", class_="date")
+        title_span = a.find("span", class_="title")
+        if not date_span or not title_span:
+            continue
+        date_m = re.search(r"(\d{4})年(\d{1,2})月(\d{1,2})日", date_span.get_text())
+        title = title_span.get_text(strip=True)
+        if not date_m or not title or not is_lighting_related(title):
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("東京都現代美術館", "展示・アート", pub_date, title, href))
+    return articles
+
+
+def collect_nact():
+    base = "https://www.nact.jp/news/index.html"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] nact fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for a in soup.find_all("a", href=True):
+        date_span = a.find("span", class_="date")
+        title_span = a.find("span", class_="title")
+        if not date_span or not title_span:
+            continue
+        date_m = re.search(r"(\d{4})\.(\d{1,2})\.(\d{1,2})", date_span.get_text())
+        title = title_span.get_text(strip=True)
+        if not date_m or not title or not is_lighting_related(title):
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("国立新美術館", "展示・アート", pub_date, title, href))
+    return articles
+
+
+def collect_2121designsight():
+    base = "https://www.2121designsight.jp/program/"
+    try:
+        res = safe_get(base, headers=UA, timeout=HTTP_TIMEOUT)
+        res.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] 21_21 design sight fetch failed: {exc}")
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+    articles = []
+    for div in soup.find_all("div", class_="program-item"):
+        a = div.find("a", href=True)
+        h4 = div.find("h4")
+        date_p = div.find("p")
+        if not a or not h4 or not date_p:
+            continue
+        date_m = re.search(r"(\d{4})年(\d{1,2})月\s*(\d{1,2})日", date_p.get_text())
+        title = h4.get_text(strip=True)
+        if not date_m or not title or not is_lighting_related(title):
+            continue
+        href = urllib.parse.urljoin(base, a["href"])
+        pub_date = datetime(int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3)), tzinfo=timezone.utc)
+        articles.append(make_article("21_21 DESIGN SIGHT", "展示・アート", pub_date, title, href))
+    return articles
 
 
 # ---- DNライティング（スクレイピング） ----
@@ -529,6 +679,16 @@ def collect_articles():
         collect_iwasaki,
         collect_dn_lighting,
         collect_tanseisha,
+        collect_top_museum,
+        collect_momat,
+        collect_geidai,
+        collect_musabi,
+        collect_kanazawa_bidai,
+        collect_kit,
+        collect_mori_art_museum,
+        collect_mot_museum,
+        collect_nact,
+        collect_2121designsight,
     ]
     seen_links = set()
     seen_titles = set()

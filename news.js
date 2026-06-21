@@ -1,5 +1,5 @@
 (function () {
-  const CATS = ["すべて", "デザイン", "新製品", "賞・コンペ", "技術・LED", "国内情報"];
+  const CATS = ["すべて", "デザイン", "新製品", "賞・コンペ", "技術・LED", "展示・アート", "国内情報"];
   const ACCENT = "#6fc6c0";
 
   const CAT_COLORS = {
@@ -7,6 +7,7 @@
     "新製品": "#f5c560",
     "賞・コンペ": "#9aa6f5",
     "技術・LED": ACCENT,
+    "展示・アート": "#f3a3ae",
     "国内情報": "#aeb5c6",
   };
 
@@ -30,6 +31,9 @@
     { source: "遠藤照明", cat: "国内情報", date: "2026.06.16", today: false,
       title: "遠藤照明、サステナブルライン新製品群", url: "https://example.com/endo-sustainable",
       excerpt: "再生素材の筐体と長寿命設計を採用した環境配慮型シリーズを拡充。施設・店舗向けに、交換頻度とCO2排出の削減を両立する製品を展開する。" },
+    { source: "美術手帖", cat: "展示・アート", date: "2026.06.15", today: false,
+      title: "光をテーマにしたグループ展、東京都内ギャラリーで開催", url: "https://example.com/light-exhibition",
+      excerpt: "美大出身の若手アーティスト5名による光のインスタレーション展。空間と知覚の関係を探る作品群が並ぶ。会期は7月末まで。" },
   ];
 
   const fetched = window.LUMINO_DATA;
