@@ -1,77 +1,93 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  17:24",
+  "fetchedAt": "2026.06.21  19:23",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "日テレNEWS NNN": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ウェザーニュース": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "Newscast.jp": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "北千住経済新聞": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "久留米ファン": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "designboom": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ArchDaily": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "武蔵野美術大学": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "武蔵野美術大学": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -86,53 +102,80 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.06.21",
-      "title": "イノシシ撃退！LEDイルミネーションライトアップ大作戦 - miyazaki-u.ac.jp",
-      "url": "https://www.miyazaki-u.ac.jp/newsrelease/topics-info/led.html",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.miyazaki-u.ac.jp/newsrelease/20181227_02_01.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "国内情報",
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "ライティング情報 - tokyo-skytree.jp",
-      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
-      "source": "日テレNEWS NNN",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "開業130周年の弘前駅ライトアップ イルミネーションで“冬の桜”も 青森県弘前市（2024年12月1日掲載）｜青森放送NEWS NNN",
-      "url": "https://news.ntv.co.jp/n/rab/category/society/ra2e77acf8007840e9aa0af05c093d4796",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://image.gallery.play.jp/rab-news/articles/60a79931baff4c4da7c4458dac18cd2b/2a0c249f-94be-4dd7-9ef9-897277fd9970.jpg?w=1200",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "鶴岡冬まつりライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/1502002/",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/4102007/",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
+      "source": "北千住経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
+      "url": "https://adachi.keizai.biz/headline/662/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Diamond Schmitt adapts civic centre into TMU School of Medicine",
+      "url": "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
+      "excerpt": "Canadian architecture firm Diamond Schmitt has completed phase one of Toronto Metropolitan University's new School of Medicine, which features wood-clad structural elements and bold blue accents. The ",
       "today": true
     },
     {
@@ -289,15 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux/",
       "excerpt": "CENTRAL and maxime delvaux invite visitors to leave handwritten wishes inside a colorful mast before it becomes part of a communal st. john’s eve celebration.\nThe post a colorful mast emerges from san",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Plan Plan uses \"affordable materials\" for Brooklyn apartment renovation",
-      "url": "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/",
-      "excerpt": "Stained birch plywood forms storage throughout this compact Brooklyn duplex, which was renovated on a tight budget by New York studio Plan Plan. The CC Residence was overhauled by Plan Plan for a coup",
       "today": false
     },
     {
