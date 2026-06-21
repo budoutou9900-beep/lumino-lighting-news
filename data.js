@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  09:29",
+  "fetchedAt": "2026.06.21  09:30",
   "sourceColors": {
     "COMPANYTANK": {
       "bg": "rgba(247,195,86,0.14)",
@@ -164,7 +164,7 @@ window.LUMINO_DATA = {
       "title": "生への言祝（ことほ）ぎ －インスタレーション、十二の柱＋出会いのパフォーマンス－ | 大分県立美術館（OPAM）",
       "url": "https://www.artagenda.jp/exhibition/detail/594",
       "excerpt": "",
-      "thumbnailUrl": "https://www.artagenda.jp/img/event/594/main_1.jpg?1782001759",
+      "thumbnailUrl": "https://www.artagenda.jp/img/event/594/main_1.jpg?1782001841",
       "today": true
     },
     {
