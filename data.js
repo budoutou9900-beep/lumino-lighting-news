@@ -1,85 +1,77 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  15:49",
+  "fetchedAt": "2026.06.21  17:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "日テレNEWS NNN": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ウェザーニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "北千住経済新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "久留米ファン": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "武蔵野美術大学": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "武蔵野美術大学": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "大光電機": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -94,52 +86,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "イノシシ撃退！LEDイルミネーションライトアップ大作戦 - miyazaki-u.ac.jp",
+      "url": "https://www.miyazaki-u.ac.jp/newsrelease/topics-info/led.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "thumbnailUrl": "https://www.miyazaki-u.ac.jp/newsrelease/20181227_02_01.jpg",
       "today": true
     },
     {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
+      "source": "Google ニュース",
+      "cat": "国内情報",
       "date": "2026.06.21",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "ライティング情報 - tokyo-skytree.jp",
+      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "日テレNEWS NNN",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "開業130周年の弘前駅ライトアップ イルミネーションで“冬の桜”も 青森県弘前市（2024年12月1日掲載）｜青森放送NEWS NNN",
+      "url": "https://news.ntv.co.jp/n/rab/category/society/ra2e77acf8007840e9aa0af05c093d4796",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://image.gallery.play.jp/rab-news/articles/60a79931baff4c4da7c4458dac18cd2b/2a0c249f-94be-4dd7-9ef9-897277fd9970.jpg?w=1200",
       "today": true
     },
     {
-      "source": "北千住経済新聞",
+      "source": "ウェザーニュース",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
-      "url": "https://adachi.keizai.biz/headline/662/",
+      "title": "鶴岡冬まつりライトアップ - イルミネーション情報【2025-2026】",
+      "url": "https://weathernews.jp/illumi/spot/1502002/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "ウェザーニュース",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
+      "url": "https://weathernews.jp/illumi/spot/4102007/",
       "excerpt": "",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Restorative retreat for students among projects from Regent's University London",
+      "url": "https://www.dezeen.com/2026/06/21/restorative-retreat-student-wellbeing-regents-university-london-schoolshows/",
+      "excerpt": "Dezeen School Shows: a reservoir centre reimagined into a retreat to support student wellbeing is among the projects from Regent's University London. Also featured is another reservoir centre used as ",
       "today": true
     },
     {
@@ -306,15 +308,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042588/naya-restaurant-ayutthaya-bodinchapa-architects",
       "excerpt": "Following the successful transformation of a family-owned inherited site into a destination that has generated a positive impact within the local community and established a thriving family business t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/11fd/54d7/6a00/01cc/66c2/large_jpg/A006.jpg?1781862926",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Student hub for academic collaboration among projects from United Arab Emirates University",
-      "url": "https://www.dezeen.com/2026/06/20/academic-hub-united-arab-emirates-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a sustainable community centre designed for academic exchange, research and innovation is among the projects by students at United Arab Emirates University. Also featured is a cli",
       "today": false
     },
     {
