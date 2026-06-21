@@ -1,4 +1,5 @@
 mail_config.json
+gemini_config.json
 design_extracted/
 __pycache__/
 *.pyc
