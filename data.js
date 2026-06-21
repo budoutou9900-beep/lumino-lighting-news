@@ -1,89 +1,93 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  21:10",
+  "fetchedAt": "2026.06.21  23:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "ヨコハマ経済新聞": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "山陽新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "北千住経済新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "久留米ファン": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "ArchDaily": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "武蔵野美術大学": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "武蔵野美術大学": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -95,6 +99,15 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.06.21",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -163,6 +176,16 @@ window.LUMINO_DATA = {
       "title": "Diamond Schmitt adapts civic centre into TMU School of Medicine",
       "url": "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "excerpt": "Canadian architecture firm Diamond Schmitt has completed phase one of Toronto Metropolitan University's new School of Medicine, which features wood-clad structural elements and bold blue accents. The ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Osaka Lightning Rod Industry Sendai Branch Office / T2P Architects Office",
+      "url": "https://www.archdaily.com/1042629/osaka-lightning-rod-industry-sendai-branch-office-t2p-architects-office",
+      "excerpt": "In an area of Sendai City where condominium development is gradually progressing, we planned a branch office for Osaka Lightning Rod Industry, a specialized manufacturer of lightning protection equipm",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a36/e4d4/54d7/6a00/01cc/6866/large_jpg/T2P_Architects_Office_-_Osaka_Hiraishin_Kogyo_Sendai_Branch-02.jpg?1781982469",
       "today": true
     },
     {
@@ -329,16 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux/",
       "excerpt": "CENTRAL and maxime delvaux invite visitors to leave handwritten wishes inside a colorful mast before it becomes part of a communal st. john’s eve celebration.\nThe post a colorful mast emerges from san",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Naya Restaurant Ayutthaya / BodinChapa Architects",
-      "url": "https://www.archdaily.com/1042588/naya-restaurant-ayutthaya-bodinchapa-architects",
-      "excerpt": "Following the successful transformation of a family-owned inherited site into a destination that has generated a positive impact within the local community and established a thriving family business t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/11fd/54d7/6a00/01cc/66c2/large_jpg/A006.jpg?1781862926",
       "today": false
     },
     {
