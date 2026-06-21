@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  13:04",
+  "fetchedAt": "2026.06.21  15:49",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "北千住経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "北千住経済新聞": {
+    "久留米ファン": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "久留米ファン": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,53 +37,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "武蔵野美術大学": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "武蔵野美術大学": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "パナソニック": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -95,15 +91,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.21",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -153,6 +140,16 @@ window.LUMINO_DATA = {
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "futurewave designs a wearable smart system reshaping communication in elder care facilities",
+      "url": "https://www.designboom.com/technology/futurewave-wearable-smart-system-communication-elder-care-facilities-kando/",
+      "excerpt": "kando reimagines nursing home care through a connected system of wearables, room interfaces, and central hubs that improves safety and supports caregivers.\nThe post futurewave designs a wearable smart",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kando-smart-care-system-futurewave-elder-care-facilities-designboom-1200.jpg",
       "today": true
     },
     {
@@ -328,16 +325,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042617/macedonia-house-bardo",
       "excerpt": "This renovation project in Madrid arises from a simple idea: to surprise. The client had a clear vision: they wanted the home to have a fragmented layout, with independent spaces that provided intimac",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a31/3c30/712c/db00/01fb/e531/large_jpg/03_Bardo_NavasDelRey.jpg?1781611598",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "lilla tabasso sculpts the melancholy of botanical decay in hyperrealistic murano glass",
-      "url": "https://www.designboom.com/art/lilla-tabasso-melancholy-botanical-decay-hyperrealistic-murano-glass/",
-      "excerpt": "combining scientific observation with extraordinary technical skill, the milan-based artist transforms fleeting natural phenomena into enduring reflections on time and change.\nThe post lilla tabasso s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/lilla-tabasso-melancholy-botanical-decay-hyperrealistic-murano-glass-designboom-1200.jpg",
       "today": false
     },
     {
