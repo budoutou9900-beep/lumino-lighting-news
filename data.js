@@ -1,61 +1,73 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  09:38",
+  "fetchedAt": "2026.06.21  10:48",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "All About（オールアバウト）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "せんだいマチプラ": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "北千住経済新聞": {
+    "colocal.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "武蔵野美術大学": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "武蔵野美術大学": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -70,53 +82,247 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "All About（オールアバウト）",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "船・ボートから眺める！東京・水辺の夜桜ライトアップ [夜景・イルミネーション] All About",
+      "url": "https://allabout.co.jp/gm/gc/439671/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.06.21",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://imgcp.aacdn.jp/img-a/1200/900/aa/gm/article/4/3/9/6/7/1/201702281252/topimg_original.jpg",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "ところざわサクラタウンのイルミネーション「冬花見」桜色に輝くツリーや水盤のボールライト演出",
+      "url": "https://www.fashion-press.net/news/67448",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/67448/top.jpg?1606811048",
       "today": true
     },
     {
-      "source": "北千住経済新聞",
+      "source": "せんだいマチプラ",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
-      "url": "https://adachi.keizai.biz/headline/662/",
+      "title": "宮城県最大級のライトアップイベント！仙台から約1時間の「やくらいガーデン」でイルミネーションを満喫♪ 〜“星あかり”編〜【加美町】",
+      "url": "https://matipura.com/gout/114528/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
       "today": true
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "source": "colocal.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "〈星野リゾート バンタカフェ〉で あたたかな冬の沖縄の夜を楽しむ ライトアップとイルミネーション",
+      "url": "https://colocal.jp/news/160962.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "thumbnailUrl": "https://libs.colocal.jp/wp-content/uploads/2023/12/news-bantacafe-main.jpg",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "お台場イルミネーション“YAKEI”2024年冬の限定ライトアップ開催",
+      "url": "https://yakei-fan.com/magazine/illumination/tokyo/odaiba-illumination2024.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/illumination/pic_odaiba-illumination202401.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Century-old Melbourne corner shop transformed into family home",
+      "url": "https://www.dezeen.com/2026/06/21/corner-shop-kister-architects-melbourne-renovation-courtyard-entrance/",
+      "excerpt": "Local studio Kister Architects has turned a former 1910 corner shop in Melbourne into a family home with a lush internal courtyard entrance designed to bring greenery to the urban site. Aptly named Th",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Eight scenic bathrooms with a window to the great outdoors",
+      "url": "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
+      "excerpt": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brights together bathrooms with enviable nature views. The followi",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "'A place that reflects the city's art and culture': Poliform's new Milanese home opens in the city's beating heart",
+      "url": "https://www.wallpaper.com/design-interiors/poliform-showroom-piazza-scala-milan",
+      "excerpt": "Poliform's new flagship on Milan's Piazza Scala features the company's furniture and kitchens as well as a cafe, taking a forward-thinking approach to connecting past, present and future",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QpxDx37Jz8HR8ijPwUScK4-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "james turrell’s largest-ever museum skyspace at ARoS photographed by danica o. kus",
+      "url": "https://www.designboom.com/art/james-turrell-largest-skyspace-aros-aarhus-art-museum-photographed-danica-o-kus-denmark/",
+      "excerpt": "at the ARoS aarhus art museum opening, the 40-meter domed chamber draws visitors below ground to look up at the danish sky.\nThe post james turrell’s largest-ever museum skyspace at ARoS photographed b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/ARoS-skyspace-james-turrell-danica-O-kus-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "At 25, Richard Mille has mastered the art of technically radical watches",
+      "url": "https://www.wallpaper.com/watches-jewellery/at-25-richard-mille-has-mastered-the-art-of-technically-radical-watches",
+      "excerpt": "Twenty-five years on, we take a look at how far Richard Mille watches have come",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M5KX2DZPjrCHPLZWU4zjWK-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "herzog & de meuron unveils al maha island masterplan in qatar",
+      "url": "https://www.designboom.com/architecture/herzog-de-meuron-al-maha-island-masterplan-lusail-qatar-art-basel/",
+      "excerpt": "the masterplan encompasses the lusail museum, a new permanent home for art basel qatar, a contemporary souk, gardens, restaurants, and extensive residential areas.\nThe post herzog & de meuron unveils ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/al-maha-island-herzog-de-meuron-qatar-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Carlo Ratti explores the Italian summer through objects. First stop? The mosquito coil",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-mosquito-coil",
+      "excerpt": "The first instalment of the architect's series, 'Objectify,' investigates the humble mosquito coil",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFASEXGtQqoyvg5HcNsVEP-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Compact Warsaw apartment evokes \"ingenuity and efficiency\" of maritime architecture",
+      "url": "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
+      "excerpt": "Polish designer Dawid Konieczny has completed an apartment in Warsaw's Port Praski district featuring curved walls and bespoke joinery that make the most of the available space. The 34-square-metre ap",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "A patio house in the jungles of Costa Rica is an architectural experiment with a twist",
+      "url": "https://www.wallpaper.com/architecture/residential/teocali-patio-house-manuel-cervantes-costa-rica",
+      "excerpt": "Teocali, a new Costa Rican home by Mexican architect Manuel Cervantes, explores the patio house typology, effortlessly blending inside and out",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Aar5Hqk36xyLKtaNcHDTgX-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Flat for One / Metrics Architecture Studio",
+      "url": "https://www.archdaily.com/996366/flat-for-one-metrics-architecture-studio",
+      "excerpt": "The project was to transform a 55sqm 2-bedroom located in southern Taiwan into a suite for one, including a small work area; an opportunity to rethink an ideal space for the increasing modern single.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/63e8/8f4e/805c/6146/6772/ea90/large_jpg/not-ready-flat-for-one-metrics-architecture-studio_1.jpg?1676185445",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "public library clad in washed timber integrates with warsaw’s wooded neighborhood",
+      "url": "https://www.designboom.com/architecture/public-library-washed-timber-warsaw-wooded-neighborhood-choszczowka-ambient-architects/",
+      "excerpt": "ambient architects designs interior spaces for flexible reconfiguration.\nThe post public library clad in washed timber integrates with warsaw’s wooded neighborhood appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/public-library-choszczowka-ambient-architects-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Saddleback Mountain House / Casey Brown Architecture",
+      "url": "https://www.archdaily.com/1042571/saddleback-mountain-house-casey-brown-architecture",
+      "excerpt": "Saddleback Mountain House is the result of eight years of planning and construction to fulfill a family's dream for a home that would support their growing children and a lifestyle strongly connected ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a34/50b3/6c38/4801/88c1/8512/large_jpg/saddleback-mountain-house-casey-brown-architecture_5.jpg?1781813478",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "a colorful mast emerges from sand dunes as concéntrico brings a temporary beach to logroño",
+      "url": "https://www.designboom.com/architecture/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux/",
+      "excerpt": "CENTRAL and maxime delvaux invite visitors to leave handwritten wishes inside a colorful mast before it becomes part of a communal st. john’s eve celebration.\nThe post a colorful mast emerges from san",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux-designboom-1200.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Plan Plan uses \"affordable materials\" for Brooklyn apartment renovation",
+      "url": "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/",
+      "excerpt": "Stained birch plywood forms storage throughout this compact Brooklyn duplex, which was renovated on a tight budget by New York studio Plan Plan. The CC Residence was overhauled by Plan Plan for a coup",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Naya Restaurant Ayutthaya / BodinChapa Architects",
+      "url": "https://www.archdaily.com/1042588/naya-restaurant-ayutthaya-bodinchapa-architects",
+      "excerpt": "Following the successful transformation of a family-owned inherited site into a destination that has generated a positive impact within the local community and established a thriving family business t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/11fd/54d7/6a00/01cc/66c2/large_jpg/A006.jpg?1781862926",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Student hub for academic collaboration among projects from United Arab Emirates University",
+      "url": "https://www.dezeen.com/2026/06/20/academic-hub-united-arab-emirates-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a sustainable community centre designed for academic exchange, research and innovation is among the projects by students at United Arab Emirates University. Also featured is a cli",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Macedonia House / bardo",
+      "url": "https://www.archdaily.com/1042617/macedonia-house-bardo",
+      "excerpt": "This renovation project in Madrid arises from a simple idea: to surprise. The client had a clear vision: they wanted the home to have a fragmented layout, with independent spaces that provided intimac",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a31/3c30/712c/db00/01fb/e531/large_jpg/03_Bardo_NavasDelRey.jpg?1781611598",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "lilla tabasso sculpts the melancholy of botanical decay in hyperrealistic murano glass",
+      "url": "https://www.designboom.com/art/lilla-tabasso-melancholy-botanical-decay-hyperrealistic-murano-glass/",
+      "excerpt": "combining scientific observation with extraordinary technical skill, the milan-based artist transforms fleeting natural phenomena into enduring reflections on time and change.\nThe post lilla tabasso s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/lilla-tabasso-melancholy-botanical-decay-hyperrealistic-murano-glass-designboom-1200.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Percy Lake Cottage / Michael Taylor Architecture + Design",
+      "url": "https://www.archdaily.com/1042593/percy-lake-cottage-michael-taylor-architecture-plus-design",
+      "excerpt": "Michael Taylor Architecture + Design was asked to build a quiet rural retreat for a couple the firm already knew, having earlier completed their condominium interior in busy downtown Toronto. The new ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/342b/54d7/6a00/01cc/66fb/large_jpg/MTA_D_Percy_Lake_Cottage_Tom_Arban_Photographer25.jpg?1781871727",
+      "today": false
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.20",
+      "title": "Inside the exhibition tracing dancehall and reggaetón's radical legacy",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/inside-the-exhibition-tracing-dancehall-and-reggaetons-radical-legacy",
+      "excerpt": "'Dancing the Revolution: From Dancehall to Reggaetón' at the Museum of Contemporary Art Chicago unites 40 artists including Jean-Michel Basquiat, Phil Collins and Reggie Burrows Hodges, to consider th",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/As47rbeVzMkNHikBAeuAB4-2560-80.jpg",
       "today": false
     },
     {
@@ -130,16 +336,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -150,13 +346,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
+      "source": "IGNANT",
       "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
+      "date": "2026.06.10",
+      "title": "Kissabō: A Contemporary Japanese Tea Bar in Berlin",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "excerpt": "The post Kissabō: A Contemporary Japanese Tea Bar in Berlin appeared first on IGNANT.",
+      "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/06/ignant--kissabo-clemens-poloczek-14.jpg",
       "today": false
     },
     {
@@ -180,39 +376,10 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "大光電機",
-      "cat": "新製品",
+      "cat": "展示・アート",
       "date": "2026.06.03",
-      "title": "ç´å¥äºä¾ã«ç¾è¡é¤¨ã»åç©é¤¨ã»ã¹ãã¼ãç©ä»¶ãè¿½å ãã¾ããã",
+      "title": "納入事例に美術館・博物館・スポーツ物件を追加しました。",
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
@@ -226,26 +393,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -316,16 +463,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.05.20",
-      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
-      "url": "https://www.yamagiwa.co.jp/news/76548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
