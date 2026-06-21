@@ -1,73 +1,89 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  10:48",
+  "fetchedAt": "2026.06.21  13:04",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "All About（オールアバウト）": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "山陽新聞": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Newscast.jp": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "せんだいマチプラ": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "colocal.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "夜景FAN": {
+    "北千住経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "久留米ファン": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Dezeen": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "武蔵野美術大学": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "武蔵野美術大学": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -82,52 +98,61 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "All About（オールアバウト）",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.06.21",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "船・ボートから眺める！東京・水辺の夜桜ライトアップ [夜景・イルミネーション] All About",
-      "url": "https://allabout.co.jp/gm/gc/439671/",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://imgcp.aacdn.jp/img-a/1200/900/aa/gm/article/4/3/9/6/7/1/201702281252/topimg_original.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.21",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "ところざわサクラタウンのイルミネーション「冬花見」桜色に輝くツリーや水盤のボールライト演出",
-      "url": "https://www.fashion-press.net/news/67448",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/67448/top.jpg?1606811048",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
-      "source": "せんだいマチプラ",
+      "source": "北千住経済新聞",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "宮城県最大級のライトアップイベント！仙台から約1時間の「やくらいガーデン」でイルミネーションを満喫♪ 〜“星あかり”編〜【加美町】",
-      "url": "https://matipura.com/gout/114528/",
+      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
+      "url": "https://adachi.keizai.biz/headline/662/",
       "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
       "today": true
     },
     {
-      "source": "colocal.jp",
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.06.21",
-      "title": "〈星野リゾート バンタカフェ〉で あたたかな冬の沖縄の夜を楽しむ ライトアップとイルミネーション",
-      "url": "https://colocal.jp/news/160962.html",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
-      "thumbnailUrl": "https://libs.colocal.jp/wp-content/uploads/2023/12/news-bantacafe-main.jpg",
-      "today": true
-    },
-    {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.06.21",
-      "title": "お台場イルミネーション“YAKEI”2024年冬の限定ライトアップ開催",
-      "url": "https://yakei-fan.com/magazine/illumination/tokyo/odaiba-illumination2024.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/illumination/pic_odaiba-illumination202401.jpg",
       "today": true
     },
     {
@@ -166,6 +191,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/james-turrell-largest-skyspace-aros-aarhus-art-museum-photographed-danica-o-kus-denmark/",
       "excerpt": "at the ARoS aarhus art museum opening, the 40-meter domed chamber draws visitors below ground to look up at the danish sky.\nThe post james turrell’s largest-ever museum skyspace at ARoS photographed b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/ARoS-skyspace-james-turrell-danica-O-kus-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "Feeding the Land: What We Eat Built the World We Inhabit",
+      "url": "https://www.archdaily.com/1042008/feeding-the-land-what-we-eat-built-the-world-we-inhabit",
+      "excerpt": "There is a standard way of telling the history of architecture and food. It begins with the human decision to cultivate, to store, to distribute, to consume, and ends with the building that decision p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a29/2ddf/a0e0/6301/89c9/efd6/large_jpg/feeding-the-land-how-what-we-eat-built-the-world-we-inhabit_7.jpg?1781083622",
       "today": true
     },
     {
@@ -306,16 +341,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Percy Lake Cottage / Michael Taylor Architecture + Design",
-      "url": "https://www.archdaily.com/1042593/percy-lake-cottage-michael-taylor-architecture-plus-design",
-      "excerpt": "Michael Taylor Architecture + Design was asked to build a quiet rural retreat for a couple the firm already knew, having earlier completed their condominium interior in busy downtown Toronto. The new ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/342b/54d7/6a00/01cc/66fb/large_jpg/MTA_D_Percy_Lake_Cottage_Tom_Arban_Photographer25.jpg?1781871727",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.20",
@@ -323,6 +348,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/inside-the-exhibition-tracing-dancehall-and-reggaetons-radical-legacy",
       "excerpt": "'Dancing the Revolution: From Dancehall to Reggaetón' at the Museum of Contemporary Art Chicago unites 40 artists including Jean-Michel Basquiat, Phil Collins and Reggie Burrows Hodges, to consider th",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/As47rbeVzMkNHikBAeuAB4-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     },
     {
@@ -336,6 +371,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -343,6 +388,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -376,6 +431,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "展示・アート",
       "date": "2026.06.03",
@@ -393,6 +477,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -463,6 +567,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
