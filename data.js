@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  19:23",
+  "fetchedAt": "2026.06.21  21:10",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "北千住経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "北千住経済新聞": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "久留米ファン": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,49 +45,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "武蔵野美術大学": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "武蔵野美術大学": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -99,15 +95,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.21",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -185,6 +172,16 @@ window.LUMINO_DATA = {
       "title": "Restorative retreat for students among projects from Regent's University London",
       "url": "https://www.dezeen.com/2026/06/21/restorative-retreat-student-wellbeing-regents-university-london-schoolshows/",
       "excerpt": "Dezeen School Shows: a reservoir centre reimagined into a retreat to support student wellbeing is among the projects from Regent's University London. Also featured is another reservoir centre used as ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "House for María / Metriq Estudio",
+      "url": "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio",
+      "excerpt": "María’s House was born without a budget, in an adverse context, but with a clear purpose. Located in the working-class neighborhood of La Gatazo, in southern Quito, it emerged in the aftermath of the ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/695f/6a26/60cb/5200/01b8/fd39/large_jpg/Casa_para_Maria_7.jpg?1767860835",
       "today": true
     },
     {
@@ -342,16 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042588/naya-restaurant-ayutthaya-bodinchapa-architects",
       "excerpt": "Following the successful transformation of a family-owned inherited site into a destination that has generated a positive impact within the local community and established a thriving family business t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/11fd/54d7/6a00/01cc/66c2/large_jpg/A006.jpg?1781862926",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Macedonia House / bardo",
-      "url": "https://www.archdaily.com/1042617/macedonia-house-bardo",
-      "excerpt": "This renovation project in Madrid arises from a simple idea: to surprise. The client had a clear vision: they wanted the home to have a fragmented layout, with independent spaces that provided intimac",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a31/3c30/712c/db00/01fb/e531/large_jpg/03_Bardo_NavasDelRey.jpg?1781611598",
       "today": false
     },
     {
