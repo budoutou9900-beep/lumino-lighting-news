@@ -1,7 +1,34 @@
 (function () {
-  const items = window.LUMINO_INSPIRATION || [];
+  const ALL_ITEMS = window.LUMINO_INSPIRATION || [];
+  const DAILY_COUNT = 10;
   const HEIGHTS = ["384px", "286px", "430px", "300px", "350px", "408px"];
   const ACCENT = "#f5c560";
+
+  // 日付（UTC日数）をシードにした決定論的な疑似乱数。同じ日は何回見ても同じ並びになり、
+  // 日が変わるとストックの中から別の10件が選ばれる。サーバー不要の静的サイトでの「毎日ローテーション」実装。
+  function mulberry32(seed) {
+    return function () {
+      seed |= 0;
+      seed = (seed + 0x6D2B79F5) | 0;
+      let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+
+  function pickDailyItems(all) {
+    if (all.length <= DAILY_COUNT) return all;
+    const daySeed = Math.floor(Date.now() / 86400000);
+    const rand = mulberry32(daySeed);
+    const shuffled = all.slice();
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(rand() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled.slice(0, DAILY_COUNT);
+  }
+
+  const items = pickDailyItems(ALL_ITEMS);
 
   function renderCard(item, i) {
     const article = document.createElement("article");

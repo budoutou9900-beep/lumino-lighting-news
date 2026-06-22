@@ -1,7 +1,7 @@
-// Inspirationタブのキュレーションデータ。
-// このファイルを直接編集してgit commit/pushすれば公開サイトに反映されます。
+// Inspirationタブのストックデータ。
+// fetch_inspiration.py が定期実行で新規コンテンツを追記します（手動追記も可）。
 // imageUrl は出典元の画像URLを直接参照してください（保存・再アップロードはしないこと）。
-// imageUrl が null、または画像読込に失敗した場合は自動的にテキストカードへフォールバックします。
+// inspiration.js が日付シードでこの中から毎日10件を選んで表示します。
 window.LUMINO_INSPIRATION = [
   {
     id: "001",
@@ -10,7 +10,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "夜空に浮かぶ緑色の光輪。誰もが自然と顔を上げ、同じ一点を見つめてしまう。光は、見知らぬ人々を一瞬だけ同じ方向に集める。",
     credit: "Chris Levine《Higher Power》— ヴェネチア・ビエンナーレ 2026",
-    tags: ["インスタレーション", "アート"]
+    tags: ["インスタレーション", "アート"],
+    addedDate: ""
   },
   {
     id: "002",
@@ -19,7 +20,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "運河の上で、絹の花びらがゆっくりと光りながら開いていく。機械的な動きのはずなのに、なぜか呼吸しているように見える。",
     credit: "Studio DRIFT《Shy Society》— パラッツォ・バルビ、ヴェネチア",
-    tags: ["インスタレーション", "アート"]
+    tags: ["インスタレーション", "アート"],
+    addedDate: ""
   },
   {
     id: "003",
@@ -28,7 +30,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "ただの蛍光灯が、ピンクと緑の光のグリッドになって部屋を満たす。素材は工業製品なのに、立っているだけで気分が変わる。",
     credit: "Dan Flavin《Grids》— David Zwirner Gallery, New York",
-    tags: ["アート", "ギャラリー"]
+    tags: ["アート", "ギャラリー"],
+    addedDate: ""
   },
   {
     id: "004",
@@ -37,7 +40,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "飴細工でできたシャンデリアが、古いパラッツォの一室をやさしいパステル色に灯す。いつか溶けて消えてしまう光だからこそ、見ておきたいと思わせる。",
     credit: "Simone Post《Candy Chandeliers》— ヴェネチア・ビエンナーレ 2026",
-    tags: ["インスタレーション", "アート"]
+    tags: ["インスタレーション", "アート"],
+    addedDate: ""
   },
   {
     id: "005",
@@ -46,7 +50,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "海水が結晶になった円形の塩の野が、夜になるとほのかに発光する。自然そのものが光源になる、という静かな驚き。",
     credit: "Shaikha Al Mazrou《The Contingent Object》— Manar Abu Dhabi",
-    tags: ["インスタレーション", "アート"]
+    tags: ["インスタレーション", "アート"],
+    addedDate: ""
   },
   {
     id: "006",
@@ -55,7 +60,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "古い納屋の中に鏡を仕込むと、光は何度も反射して空間そのものが揺らぎ出す。何百年も牛や干し草を見てきた壁が、今夜だけ別世界になる。",
     credit: "Alexandre de Betak《Chashitsu Hikari Schürli》— Gstaad Art Week",
-    tags: ["インスタレーション", "建築"]
+    tags: ["インスタレーション", "建築"],
+    addedDate: ""
   },
   {
     id: "007",
@@ -64,7 +70,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "IGNANT",
     comment: "オーク材のバーカウンターと畳の上に、ノグチの光の彫刻がやわらかく置かれている。静かに座っているだけで、光に世話をされているような感覚になる。",
     credit: "Kissabō — ベルリンの日本茶バー",
-    tags: ["インテリア", "空間照明"]
+    tags: ["インテリア", "空間照明"],
+    addedDate: ""
   },
   {
     id: "008",
@@ -73,7 +80,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "Casa BRUTUS",
     comment: "壁を貫く一筋のスリットから差し込む光が、暗闇の中に十字の形を浮かび上がらせる。光そのものが、建築の主役になっている。",
     credit: "安藤忠雄《光の教会》— 大阪・茨木",
-    tags: ["建築", "空間照明"]
+    tags: ["建築", "空間照明"],
+    addedDate: ""
   },
   {
     id: "009",
@@ -82,7 +90,8 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "天井の丸い開口から落ちる光が、らせん状のステンレス階段を一日中なぞっていく。時間そのものが、建築の中を動き回っているように見える。",
     credit: "MAD Architects《Fenix》— ロッテルダム",
-    tags: ["建築", "自然光"]
+    tags: ["建築", "自然光"],
+    addedDate: ""
   },
   {
     id: "010",
@@ -91,6 +100,7 @@ window.LUMINO_INSPIRATION = [
     sourceName: "designboom",
     comment: "西日を受ける鉄板のルーバーが、壁の上に動く縞模様を描き出す。同じ部屋なのに、午後の数時間だけまったく違う表情になる。",
     credit: "Sanuki Daisuke Architects — ベトナム・チューブハウス",
-    tags: ["建築", "自然光"]
+    tags: ["建築", "自然光"],
+    addedDate: ""
   }
 ];
