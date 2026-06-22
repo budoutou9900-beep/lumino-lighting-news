@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.22  09:44",
+  "fetchedAt": "2026.06.22  15:20",
   "sourceColors": {
-    "axismag.jp": {
+    "山陽新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,92 +9,100 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "Newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "北千住経済新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "Google ニュース": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Yahoo!ニュース": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "武蔵野美術大学": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "武蔵野美術大学": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
     {
-      "source": "axismag.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.06.22",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -157,13 +165,196 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "From reborn supercars to reworked 80s icons, Ford’s sporting past is being revived",
-      "url": "https://www.wallpaper.com/transportation/from-reborn-supercars-to-reworked-80s-icons-fords-sporting-past-is-being-revived",
-      "excerpt": "We take a look at four fast Fords from specialist restomodders around the world",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LPaXCbX5RLowZTnxWr5woM-1920-80.jpg",
+      "title": "What to expect from St. Clement, Nick Jones’ new London hotel on the Thames",
+      "url": "https://www.wallpaper.com/travel/hotels/st-clement-london-nick-jones-opening",
+      "excerpt": "Opening in September, St. Clement mixes grand riverside views, bathroom minibars, and the Soho House founder’s sharp eye for detail",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N4XcTTm5NSi8ndcuC55XTZ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "A giant inflatable mountain has appeared in the heart of Paris",
+      "url": "https://www.wallpaper.com/art/jr-mountain-installation-pont-neuf-bridge-paris",
+      "excerpt": "Battling hailstorms, heatwaves and engineering challenges, artist JR's vast new installation transforms the Pont-Neuf into a cave-like landscape complete with sound, scent and augmented reality",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/J8z4nhUzfkY8pArzVjhTJ4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "RDR architects have completed an elegant new structure for the Swiss Airforce",
+      "url": "https://www.wallpaper.com/architecture/halle-2-payerne-air-base-rdr-architects",
+      "excerpt": "Halle 2 is the new home for Payerne Air Base’s Rescue Standby Unit, consolidating essential functions within a sleek silvery skin",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zuLpnmCUDYxkPQGJF2S7PZ-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Meridian rugs by Armadillo among six new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/06/22/meridian-rugs-armadillo-furniture-surfaces-lighting-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a series of rugs that foreground weaving patterns and fibres over colour and print are among six new products featured on Dezeen Showroom. Meridian rugs by Armadillo Rug brand Armadil",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "eva jospin crafts entire worlds from cardboard, one cut at a time",
+      "url": "https://www.designboom.com/art/eva-jospin-entire-worlds-cardboard/",
+      "excerpt": "the french artist transforms discarded cardboard into worlds that highlight the future value of craft, material knowledge, and slow making.\nThe post eva jospin crafts entire worlds from cardboard, one",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/eva-jospin-entire-worlds-cardboard08.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "self-powered floating capsule disinfects drinking water without batteries or chemicals",
+      "url": "https://www.designboom.com/technology/self-powered-floating-capsule-drinking-water-batteries-chemicals/",
+      "excerpt": "developed by researchers at yonsei university and international collaborators, the floating device converts simple movement into energy for water testing and microbial disinfection.\nThe post self-powe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/self-powered-floating-capsule-drinking-water-batteries-chemicals-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Unknown Architects sinks timber cabin into dune-filled Dutch island",
+      "url": "https://www.dezeen.com/2026/06/22/unknown-architects-house-on-a-dune-timber-cabin-netherlands/",
+      "excerpt": "Dutch studio Unknown Architects has completed House on a Dune, a holiday cabin on the island of Terschelling with lofty, timber-lined interiors that frame panoramic views of the surrounding sand plain",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "ferruccio laviani designs a greek theatre-inspired stage for mara at salone del mobile 2026",
+      "url": "https://www.designboom.com/design/ferruccio-laviani-mara-salone-del-mobile-2026-interview-architonic/",
+      "excerpt": "designed after an ancient greek theatre, ferruccio laviani shapes an atmosphere where mara’s collections and lively discussion converged. \nThe post ferruccio laviani designs a greek theatre-inspired s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/mara_designboom_architonic_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "LFA tower \"quite literally turns\" idea of a fence on its head",
+      "url": "https://www.dezeen.com/2026/06/22/no-1616-fence-rana-begum-webb-yates-london-festival-of-architecture/",
+      "excerpt": "Artist Rana Begum and engineering studio Webb Yates have created a pylon-informed tower from fence material at this year's London Festival of Architecture. Named No.1616 Fence, the 13-metre-high tower",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "monolithic black timber retreat frames panoramic views of ukraine’s carpathian mountains",
+      "url": "https://www.designboom.com/architecture/monolithic-black-timber-retreat-panoramic-views-ukraine-carpathian-mountains-shovk/",
+      "excerpt": "the project establishes a direct relationship between house and landscape.\nThe post monolithic black timber retreat frames panoramic views of ukraine’s carpathian mountains appeared first on designboo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/shovk-mountain-retreat-house-ukrainian-carpathian-mountains-monolithic-black-timber-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Images reveal tunnelled interior of JR's Paris bridge inflatable",
+      "url": "https://www.dezeen.com/2026/06/22/la-caverne-du-pont-neuf-interior-jr-paris/",
+      "excerpt": "A cavernous tunnel runs through La Caverne du Pont Neuf, an inflatable installation by French street artist JR that engulfs the historic Pont Neuf bridge in Paris. The installation features a rocky pa",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Meadows Primary School / Project 12 Architecture",
+      "url": "https://www.archdaily.com/1026349/meadows-primary-school-project-12-architecture",
+      "excerpt": "Meadows Primary School is a proudly multi-cultural school in Broadmeadow, in Melbourne's northern suburbs. Project 12 was commissioned to create a new 10-classroom building for 200 additional students",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/679c/cb21/e862/3700/01c0/7b85/large_jpg/RoryGardiner1605c_003.jpg?1738328891",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "The new Canadian cabin is celebrated in Gestalten’s Northern Exposure monograph",
+      "url": "https://www.wallpaper.com/architecture/residential/canadian-cabin-design",
+      "excerpt": "A feast for the restive imagination awaits in Northern Exposure, a richly illustrated guide to the very best in contemporary Canadian residential architecture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/auqJyp8NcfdxkzkDmB5xck-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Could these new travel accessories be the key to making long-haul flights more comfortable?",
+      "url": "https://www.wallpaper.com/travel/travel-accessories-set-tangerine-buzz",
+      "excerpt": "From a lumbar cushion to an eye mask with integrated earbuds, the five-piece collection seeks to make long-haul travel more bearable",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BT54rPB9uUWnktSiLrb7BJ-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Get listed in Dezeen's digital guide to London Design Festival 2026",
+      "url": "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
+      "excerpt": "Hosting an event during the 2026 iteration of London Design Festival? Get featured in Dezeen Events Guide's digital guide to the festival. The 24th edition of the festival takes place from 12 to 20 Se",
       "today": true
     },
     {
@@ -177,21 +368,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "Tableau marks 50th anniversary of historic Copenhagen cafe with curated cup collection",
-      "url": "https://www.dezeen.com/2026/06/22/tableau-cups-cafe-sommersko/",
-      "excerpt": "Rubber thorns, rocky lumps and haunting faces all feature in a collection of cups by more than 30 different artists and designers, presented at Copenhagen's Cafe Sommersko during 3 Days of Design. Tab",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Atonemo and NTS launch Radio Player with icon wheel for genre selection",
-      "url": "https://www.dezeen.com/2026/06/22/atonemo-nts-radio-player/",
-      "excerpt": "Swedish tech company Atonemo and online radio station NTS have partnered up to produce a pocket-sized player designed for \"omakase listening\" – a curated music experience decided by \"someone whose tas",
+      "title": "Go East: What Tirana's Bread & Heart Festival Reveals About Architecture and Landscape",
+      "url": "https://www.archdaily.com/1042325/go-east-what-tiranas-bread-and-heart-festival-reveals-about-architecture-and-landscape",
+      "excerpt": "Something has been happening in Tirana that the architectural world has not quite found the language for. In the space of a few years, a city of less than a million people in one of Europe's least-kno",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2b/0ed9/aa48/ad01/89b7/c3a6/large_jpg/building-the-new-albania-lessons-from-elsewhere_31.jpg?1781206960",
       "today": true
     },
     {
@@ -205,161 +388,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "Prada’s latest menswear collection strips things back: ‘It’s against useless design’",
-      "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-menswear-show-milan-fashion-week",
-      "excerpt": "Shown yesterday afternoon in Milan, Miuccia Prada and Raf Simons reworked menswear’s fundamentals – including the denim jean – for a collection which sought clarity and refinement",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3hoppJEiLqykCpMSHY8Mjj-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "florim recycles mount etna’s volcanic lava stone into small-format interior tiles",
-      "url": "https://www.designboom.com/design/florim-recycle-mount-etna-volcanic-lava-stone-tiles/",
-      "excerpt": "matteo thun & benedetto fasciana collaborate with florim and nerosicilia to turn volcanic waste into a tactile tile collection for conscious interior design.  \nThe post florim recycles mount etna’s vo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/florim-sensietna-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Clap Studio creates \"the most music-respectful room\" in Spook nightclub",
-      "url": "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
-      "excerpt": "Spanish practice Clap Studio looked to \"dead rooms\" for its renovation of the El Cubo room at nightclub Spook in Valencia, Spain. Following the success of their project for sister club Oven, the studi",
+      "title": "As Seen Below – The Dome, a Skyspace / James Turrell + SHL",
+      "url": "https://www.archdaily.com/1042572/as-seen-below-the-dome-a-skyspace-james-turrell-plus-schmidt-hammer-lassen",
+      "excerpt": "With As Seen Below, ARoS gains a new international landmark work by one of the most influential artists of our time, James Turrell. The installation represents the culmination of the museum's approxim",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a34/553f/6c38/4801/88c1/8556/large_jpg/as-seen-below-the-dome-a-skyspace-james-turrell-plus-schmidt-hammer-lassen_15.jpg?1781814679",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "Building Public Life: How Bogotá and Mexico City Addressed Urban Inequality",
-      "url": "https://www.archdaily.com/1042536/building-public-life-how-bogota-and-mexico-city-addressed-urban-inequality",
-      "excerpt": "In many Latin American cities, peripheral neighborhoods have historically had less access to the resources that make urban life more than just livable. Housing, transportation, and public services are",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/cccc/6c38/4852/67fe/31cf/large_jpg/building-public-life-architectural-responses-to-urban-inequality-in-colombia-and-mexico_3.jpg?1781714132",
+      "title": "How ICFF 2026 Converges Design, Culture and Commerce in New York",
+      "url": "https://www.archdaily.com/1042426/how-icff-2026-converges-design-culture-and-commerce-in-new-york",
+      "excerpt": "Under the theme Common Ground, ICFF 2026 brought together the international design community through a shared focus on craftsmanship and innovation. From May 17–19, 2026, ICFF (International Contempor",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2f/2cd9/6341/4201/8a2c/3e30/large_jpg/how-icff-2026-converges-design-culture-and-commerce-in-new-york_1.jpg?1781476601",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "Las Cigarreras Industrial Complex / Ramón Esteve Estudio",
-      "url": "https://www.archdaily.com/1042586/las-cigarreras-industrial-complex-ramon-esteve-estudio",
-      "excerpt": "The project is based on the creation of a complex conceived as a technological and cultural space: one that supports the recovery of the architectural heritage, drives Alicante's urban regeneration, r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/0b4a/54d7/6a00/01cc/667c/large_jpg/Ramon_Esteve_Estudio_-_Conjunto_Industrial_Las_Cigarreras_10.jpg?1781861211",
+      "title": "Swiss Pavilion Examines Water as Resource, Subject, and Legal Entity at the 2027 Venice Architecture Biennale",
+      "url": "https://www.archdaily.com/1042642/swiss-pavilion-examines-water-as-resource-subject-and-legal-entity-at-the-2027-venice-architecture-biennale",
+      "excerpt": "Architect and urbanist Paola Viganò has been selected by Pro Helvetia to curate the Swiss Pavilion at the 20th International Architecture Exhibition – La Biennale di Venezia. Chosen following a unanim",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/0d15/8576/0e01/8921/ba5b/large_jpg/swiss-pavilion-examines-water-as-resource-subject-and-legal-entity-at-the-2027-venice-architecture-biennale_1.jpg?1782123807",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "handmade terracotta tiles meet oak surfaces within tri-oz café’s tranquil interiors in thailand",
-      "url": "https://www.designboom.com/architecture/handmade-terracotta-tiles-oak-surfaces-tri-oz-cafe-tranquil-interiors-thailand-studiowatt/",
-      "excerpt": "large glazed openings frame surrounding greenery and allow daylight to penetrate deep into the interior.\nThe post handmade terracotta tiles meet oak surfaces within tri-oz café’s tranquil interiors in",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/tri-oz-cafe-studiowatt-thailand-handmade-terracotta-tiles-oak-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Nakano House / KUMA & ELSA",
-      "url": "https://www.archdaily.com/1042599/nakano-house-kuma-and-elsa",
-      "excerpt": "The client's childhood home, a traditional Japanese house, has an engawa - a gallery open to the garden. There, she was immersed in the scent of fresh grass, the fragrances of the seasons, and even th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/5e29/8576/0e01/8921/b42b/large_jpg/nakano-house-kuma-and-elsa_5.jpg?1781882428",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "When Function Meets Design: Hygiene, Efficiency and Maintenance in Bathroom Spaces",
-      "url": "https://www.archdaily.com/1042425/when-function-meets-design-hygiene-efficiency-and-maintenance-in-bathroom-spaces",
-      "excerpt": "From lighting and materials to colors, textures, and forms, every design decision shapes how people perceive, experience, and interact with architecture. In contemporary interiors, these choices are n",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2f/34e9/aa48/ad01/89b7/cca7/large_jpg/when-function-meets-design-hygiene-efficiency-and-maintenance-in-bathroom-spaces_2.jpg?1781478677",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Anthill House / Kaushal TaTiya Architects",
-      "url": "https://www.archdaily.com/1042600/anthill-house-kaushal-tatiya-architects",
-      "excerpt": "The site is located in Ahilyanagar town of Maharashtra, with a design brief of 7,000 sq feet, while the house had to be designed for the hot and dry climate, which responds carefully to extreme temper",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/656b/6c38/4816/a744/184a/large_jpg/anthill-house-kaushal-tatiya-architects_22.jpg?1781884282",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Diamond Schmitt adapts civic centre into TMU School of Medicine",
-      "url": "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
-      "excerpt": "Canadian architecture firm Diamond Schmitt has completed phase one of Toronto Metropolitan University's new School of Medicine, which features wood-clad structural elements and bold blue accents. The ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Restorative retreat for students among projects from Regent's University London",
-      "url": "https://www.dezeen.com/2026/06/21/restorative-retreat-student-wellbeing-regents-university-london-schoolshows/",
-      "excerpt": "Dezeen School Shows: a reservoir centre reimagined into a retreat to support student wellbeing is among the projects from Regent's University London. Also featured is another reservoir centre used as ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "futurewave designs a wearable smart system reshaping communication in elder care facilities",
-      "url": "https://www.designboom.com/technology/futurewave-wearable-smart-system-communication-elder-care-facilities-kando/",
-      "excerpt": "kando reimagines nursing home care through a connected system of wearables, room interfaces, and central hubs that improves safety and supports caregivers.\nThe post futurewave designs a wearable smart",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kando-smart-care-system-futurewave-elder-care-facilities-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "'A place that reflects the city's art and culture': Poliform's new Milanese home opens in the city's beating heart",
-      "url": "https://www.wallpaper.com/design-interiors/poliform-showroom-piazza-scala-milan",
-      "excerpt": "Poliform's new flagship on Milan's Piazza Scala features the company's furniture and kitchens as well as a cafe, taking a forward-thinking approach to connecting past, present and future",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QpxDx37Jz8HR8ijPwUScK4-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "james turrell’s largest-ever museum skyspace at ARoS photographed by danica o. kus",
-      "url": "https://www.designboom.com/art/james-turrell-largest-skyspace-aros-aarhus-art-museum-photographed-danica-o-kus-denmark/",
-      "excerpt": "at the ARoS aarhus art museum opening, the 40-meter domed chamber draws visitors below ground to look up at the danish sky.\nThe post james turrell’s largest-ever museum skyspace at ARoS photographed b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/ARoS-skyspace-james-turrell-danica-O-kus-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "At 25, Richard Mille has mastered the art of technically radical watches",
-      "url": "https://www.wallpaper.com/watches-jewellery/at-25-richard-mille-has-mastered-the-art-of-technically-radical-watches",
-      "excerpt": "Twenty-five years on, we take a look at how far Richard Mille watches have come",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M5KX2DZPjrCHPLZWU4zjWK-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Carlo Ratti explores the Italian summer through objects. First stop? The mosquito coil",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-mosquito-coil",
-      "excerpt": "The first instalment of the architect's series, 'Objectify,' investigates the humble mosquito coil",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFASEXGtQqoyvg5HcNsVEP-1600-80.jpg",
-      "today": false
     },
     {
       "source": "YAMAGIWA",
