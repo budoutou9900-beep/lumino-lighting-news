@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.21  23:07",
+  "fetchedAt": "2026.06.22  03:38",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "美術館・アート情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -94,26 +94,37 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.06.21",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "date": "2026.06.22",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.21",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "source": "美術館・アート情報",
+      "cat": "国内情報",
+      "date": "2026.06.22",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.06.21",
+      "date": "2026.06.22",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
@@ -123,7 +134,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.06.21",
+      "date": "2026.06.22",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -133,7 +144,7 @@ window.LUMINO_DATA = {
     {
       "source": "Newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.06.21",
+      "date": "2026.06.22",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -143,7 +154,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.06.21",
+      "date": "2026.06.22",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -153,7 +164,7 @@ window.LUMINO_DATA = {
     {
       "source": "北千住経済新聞",
       "cat": "展示・アート",
-      "date": "2026.06.21",
+      "date": "2026.06.22",
       "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
       "url": "https://adachi.keizai.biz/headline/662/",
       "excerpt": "",
@@ -163,11 +174,31 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.06.21",
+      "date": "2026.06.22",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "handmade terracotta tiles meet oak surfaces within tri-oz café’s tranquil interiors in thailand",
+      "url": "https://www.designboom.com/architecture/handmade-terracotta-tiles-oak-surfaces-tri-oz-cafe-tranquil-interiors-thailand-studiowatt/",
+      "excerpt": "large glazed openings frame surrounding greenery and allow daylight to penetrate deep into the interior.\nThe post handmade terracotta tiles meet oak surfaces within tri-oz café’s tranquil interiors in",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/tri-oz-cafe-studiowatt-thailand-handmade-terracotta-tiles-oak-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.21",
+      "title": "THE TREE / YXDesigners",
+      "url": "https://www.archdaily.com/1019519/the-tree-yxdesigners",
+      "excerpt": "Project BackgroundLike many county towns, Longyou County in Quzhou, Zhejiang, lacks competitive industries, leading to significant labor outflow. In 2022, Longyou County proposed the goal of becoming ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/66a9/d797/aa9b/6b14/33f2/4743/large_jpg/the-tree-yxdesigners_23.jpg?1722406828",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -176,7 +207,7 @@ window.LUMINO_DATA = {
       "title": "Diamond Schmitt adapts civic centre into TMU School of Medicine",
       "url": "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "excerpt": "Canadian architecture firm Diamond Schmitt has completed phase one of Toronto Metropolitan University's new School of Medicine, which features wood-clad structural elements and bold blue accents. The ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -186,7 +217,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042629/osaka-lightning-rod-industry-sendai-branch-office-t2p-architects-office",
       "excerpt": "In an area of Sendai City where condominium development is gradually progressing, we planned a branch office for Osaka Lightning Rod Industry, a specialized manufacturer of lightning protection equipm",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a36/e4d4/54d7/6a00/01cc/6866/large_jpg/T2P_Architects_Office_-_Osaka_Hiraishin_Kogyo_Sendai_Branch-02.jpg?1781982469",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -195,7 +226,7 @@ window.LUMINO_DATA = {
       "title": "Restorative retreat for students among projects from Regent's University London",
       "url": "https://www.dezeen.com/2026/06/21/restorative-retreat-student-wellbeing-regents-university-london-schoolshows/",
       "excerpt": "Dezeen School Shows: a reservoir centre reimagined into a retreat to support student wellbeing is among the projects from Regent's University London. Also featured is another reservoir centre used as ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -205,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio",
       "excerpt": "María’s House was born without a budget, in an adverse context, but with a clear purpose. Located in the working-class neighborhood of La Gatazo, in southern Quito, it emerged in the aftermath of the ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/695f/6a26/60cb/5200/01b8/fd39/large_jpg/Casa_para_Maria_7.jpg?1767860835",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -215,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/futurewave-wearable-smart-system-communication-elder-care-facilities-kando/",
       "excerpt": "kando reimagines nursing home care through a connected system of wearables, room interfaces, and central hubs that improves safety and supports caregivers.\nThe post futurewave designs a wearable smart",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kando-smart-care-system-futurewave-elder-care-facilities-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -224,7 +255,7 @@ window.LUMINO_DATA = {
       "title": "Century-old Melbourne corner shop transformed into family home",
       "url": "https://www.dezeen.com/2026/06/21/corner-shop-kister-architects-melbourne-renovation-courtyard-entrance/",
       "excerpt": "Local studio Kister Architects has turned a former 1910 corner shop in Melbourne into a family home with a lush internal courtyard entrance designed to bring greenery to the urban site. Aptly named Th",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -233,7 +264,7 @@ window.LUMINO_DATA = {
       "title": "Eight scenic bathrooms with a window to the great outdoors",
       "url": "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
       "excerpt": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brights together bathrooms with enviable nature views. The followi",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -243,7 +274,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/poliform-showroom-piazza-scala-milan",
       "excerpt": "Poliform's new flagship on Milan's Piazza Scala features the company's furniture and kitchens as well as a cafe, taking a forward-thinking approach to connecting past, present and future",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QpxDx37Jz8HR8ijPwUScK4-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -253,7 +284,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/james-turrell-largest-skyspace-aros-aarhus-art-museum-photographed-danica-o-kus-denmark/",
       "excerpt": "at the ARoS aarhus art museum opening, the 40-meter domed chamber draws visitors below ground to look up at the danish sky.\nThe post james turrell’s largest-ever museum skyspace at ARoS photographed b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/ARoS-skyspace-james-turrell-danica-O-kus-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -263,7 +294,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042008/feeding-the-land-what-we-eat-built-the-world-we-inhabit",
       "excerpt": "There is a standard way of telling the history of architecture and food. It begins with the human decision to cultivate, to store, to distribute, to consume, and ends with the building that decision p",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a29/2ddf/a0e0/6301/89c9/efd6/large_jpg/feeding-the-land-how-what-we-eat-built-the-world-we-inhabit_7.jpg?1781083622",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -273,7 +304,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/at-25-richard-mille-has-mastered-the-art-of-technically-radical-watches",
       "excerpt": "Twenty-five years on, we take a look at how far Richard Mille watches have come",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M5KX2DZPjrCHPLZWU4zjWK-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -283,7 +314,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/herzog-de-meuron-al-maha-island-masterplan-lusail-qatar-art-basel/",
       "excerpt": "the masterplan encompasses the lusail museum, a new permanent home for art basel qatar, a contemporary souk, gardens, restaurants, and extensive residential areas.\nThe post herzog & de meuron unveils ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/al-maha-island-herzog-de-meuron-qatar-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -293,7 +324,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-mosquito-coil",
       "excerpt": "The first instalment of the architect's series, 'Objectify,' investigates the humble mosquito coil",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFASEXGtQqoyvg5HcNsVEP-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -302,7 +333,7 @@ window.LUMINO_DATA = {
       "title": "Compact Warsaw apartment evokes \"ingenuity and efficiency\" of maritime architecture",
       "url": "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
       "excerpt": "Polish designer Dawid Konieczny has completed an apartment in Warsaw's Port Praski district featuring curved walls and bespoke joinery that make the most of the available space. The 34-square-metre ap",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -312,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/teocali-patio-house-manuel-cervantes-costa-rica",
       "excerpt": "Teocali, a new Costa Rican home by Mexican architect Manuel Cervantes, explores the patio house typology, effortlessly blending inside and out",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Aar5Hqk36xyLKtaNcHDTgX-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -322,7 +353,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/996366/flat-for-one-metrics-architecture-studio",
       "excerpt": "The project was to transform a 55sqm 2-bedroom located in southern Taiwan into a suite for one, including a small work area; an opportunity to rethink an ideal space for the increasing modern single.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/63e8/8f4e/805c/6146/6772/ea90/large_jpg/not-ready-flat-for-one-metrics-architecture-studio_1.jpg?1676185445",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -332,26 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/public-library-washed-timber-warsaw-wooded-neighborhood-choszczowka-ambient-architects/",
       "excerpt": "ambient architects designs interior spaces for flexible reconfiguration.\nThe post public library clad in washed timber integrates with warsaw’s wooded neighborhood appeared first on designboom | archi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/public-library-choszczowka-ambient-architects-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Saddleback Mountain House / Casey Brown Architecture",
-      "url": "https://www.archdaily.com/1042571/saddleback-mountain-house-casey-brown-architecture",
-      "excerpt": "Saddleback Mountain House is the result of eight years of planning and construction to fulfill a family's dream for a home that would support their growing children and a lifestyle strongly connected ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a34/50b3/6c38/4801/88c1/8512/large_jpg/saddleback-mountain-house-casey-brown-architecture_5.jpg?1781813478",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "a colorful mast emerges from sand dunes as concéntrico brings a temporary beach to logroño",
-      "url": "https://www.designboom.com/architecture/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux/",
-      "excerpt": "CENTRAL and maxime delvaux invite visitors to leave handwritten wishes inside a colorful mast before it becomes part of a communal st. john’s eve celebration.\nThe post a colorful mast emerges from san",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/colorful-mast-sand-dunes-concentrico-2026-temporary-beach-logrono-spain-central-maxime-delvaux-designboom-1200.jpg",
       "today": false
     },
     {
