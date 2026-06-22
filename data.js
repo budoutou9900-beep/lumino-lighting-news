@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.22  15:20",
+  "fetchedAt": "2026.06.22  19:22",
   "sourceColors": {
-    "山陽新聞": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -21,19 +21,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,74 +45,60 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "武蔵野美術大学": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "武蔵野美術大学": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "パナソニック": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
     {
-      "source": "山陽新聞",
+      "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.22",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.22",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -156,6 +142,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.22",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
       "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.06.22",
@@ -174,42 +170,81 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "karolina halatek’s installation transforms light into an immersive architectural field in istanbul",
+      "url": "https://www.designboom.com/art/karolina-halatek-installation-light-immersive-architectural-field-istanbul-echo/",
+      "excerpt": "echo activates a new dialogue between light, architecture, and the body, inviting visitors to experience space as a dynamic and perceptual field.\nThe post karolina halatek’s installation transforms li",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/echo-karolina-halatek-istanbul-light-space-perception-installation-designboom-1200-1.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "Wallpaper* checks into W Sardinia, a magical stay where vintage nostalgia and folklore meet",
+      "url": "https://www.wallpaper.com/travel/hotels/w-sardinia-review",
+      "excerpt": "The Marriott Bonvoy’s new hotel marks a new chapter for W, venturing away from its party reputation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bwLQZauQDEUYcqrafoNYXk-1600-80.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "Snøhetta designs mesh-covered office building for Miami Design District",
+      "url": "https://www.dezeen.com/2026/06/22/snohetta-miami-design-district-sweetbird-north/",
+      "excerpt": "International architecture studio Snøhetta has released designs for a mixed-use building in Miami covered in a bulbous \"stainless mesh sunscreen\". The Sweetbird North building, developed by Raycliff C",
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "title": "In the Saudi desert, Heatherwick Studio proposes a dramatic window on the universe",
+      "url": "https://www.wallpaper.com/architecture/in-the-saudi-desert-heatherwick-studio-proposes-a-dramatic-window-on-the-universe",
+      "excerpt": "Deep in north-west Saudi Arabia, AlUla Manara wants to re-shape the stargazing experience through dramatic architectural forms",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eEWZTQzV6HmCsTYDZzfUNW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Aesop’s Queer Library is back with titles by LGBTQIA+ authors and allies and a new Reading Room",
+      "url": "https://www.wallpaper.com/art/aesop-queer-library-popup",
+      "excerpt": "The Queer Library pop-up in Soho, London is back (3-5 July 2026), this year focuses on the queer body and how it serves as an act of joyful resistance",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e3JM8DTi5oReVorHhFtzmm-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Victoria Beckham and artist Phoebe Collings-James speak about their new artistic collaboration",
+      "url": "https://www.wallpaper.com/fashion-beauty/victoria-beckham-on-phoebe-collings-james-collaboration",
+      "excerpt": "Victoria Beckham tells Wallpaper* why she commissioned the sculptor Phoebe Collings-James to create a one-of-a-kind artwork inspired by the new Blush Stylus product",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wgEafNFVT466AxuixCRLjQ-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "pink timber room rises over munich bike racks as urban lab ‘zuhaus’",
+      "url": "https://www.designboom.com/architecture/pink-timber-room-munich-bike-racks-urban-lab-zuhaus-clemence-hoyer/",
+      "excerpt": "architect clemens hoyer designed the structure as a real-world urban laboratory for shared street space.\nThe post pink timber room rises over munich bike racks as urban lab ‘zuhaus’ appeared first on ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/zuhaus-haidhausen-designer-clemens-hoyer-munich-germany-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Forest foraging kit among projects from Vilnius Academy of Arts",
+      "url": "https://www.dezeen.com/2026/06/22/modular-storage-container-vilnius-academy-of-arts/",
+      "excerpt": "Dezeen School Shows: a modular storage container designed for gathering and storing forest goods is among projects from design students at Vilnius Academy of Arts. Also featured is a project that revi",
       "today": true
     },
     {
@@ -223,32 +258,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "A giant inflatable mountain has appeared in the heart of Paris",
-      "url": "https://www.wallpaper.com/art/jr-mountain-installation-pont-neuf-bridge-paris",
-      "excerpt": "Battling hailstorms, heatwaves and engineering challenges, artist JR's vast new installation transforms the Pont-Neuf into a cave-like landscape complete with sound, scent and augmented reality",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/J8z4nhUzfkY8pArzVjhTJ4-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "RDR architects have completed an elegant new structure for the Swiss Airforce",
-      "url": "https://www.wallpaper.com/architecture/halle-2-payerne-air-base-rdr-architects",
-      "excerpt": "Halle 2 is the new home for Payerne Air Base’s Rescue Standby Unit, consolidating essential functions within a sleek silvery skin",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zuLpnmCUDYxkPQGJF2S7PZ-1800-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.22",
       "title": "Meridian rugs by Armadillo among six new products on Dezeen Showroom",
       "url": "https://www.dezeen.com/2026/06/22/meridian-rugs-armadillo-furniture-surfaces-lighting-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: a series of rugs that foreground weaving patterns and fibres over colour and print are among six new products featured on Dezeen Showroom. Meridian rugs by Armadillo Rug brand Armadil",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Casa 29 / estudio29",
+      "url": "https://www.archdaily.com/1042653/casa-29-estudio29",
+      "excerpt": "House 29 is situated on the route to the sacred mountain Guagualzhumi, on a sloping plot of the Andean landscape, facing Cuenca and the mountain El Tablón, and bordered by a pine forest. The topograph",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69af/f778/1d07/d400/0132/40de/large_jpg/SEBASTIAN-CORRRAL-CUENCA-JAG-2211-WEB-RGB1.jpg?1773139850",
       "today": true
     },
     {
@@ -300,25 +325,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "monolithic black timber retreat frames panoramic views of ukraine’s carpathian mountains",
-      "url": "https://www.designboom.com/architecture/monolithic-black-timber-retreat-panoramic-views-ukraine-carpathian-mountains-shovk/",
-      "excerpt": "the project establishes a direct relationship between house and landscape.\nThe post monolithic black timber retreat frames panoramic views of ukraine’s carpathian mountains appeared first on designboo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/shovk-mountain-retreat-house-ukrainian-carpathian-mountains-monolithic-black-timber-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Images reveal tunnelled interior of JR's Paris bridge inflatable",
-      "url": "https://www.dezeen.com/2026/06/22/la-caverne-du-pont-neuf-interior-jr-paris/",
-      "excerpt": "A cavernous tunnel runs through La Caverne du Pont Neuf, an inflatable installation by French street artist JR that engulfs the historic Pont Neuf bridge in Paris. The installation features a rocky pa",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.22",
@@ -326,45 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1026349/meadows-primary-school-project-12-architecture",
       "excerpt": "Meadows Primary School is a proudly multi-cultural school in Broadmeadow, in Melbourne's northern suburbs. Project 12 was commissioned to create a new 10-classroom building for 200 additional students",
       "thumbnailUrl": "https://images.adsttc.com/media/images/679c/cb21/e862/3700/01c0/7b85/large_jpg/RoryGardiner1605c_003.jpg?1738328891",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "The new Canadian cabin is celebrated in Gestalten’s Northern Exposure monograph",
-      "url": "https://www.wallpaper.com/architecture/residential/canadian-cabin-design",
-      "excerpt": "A feast for the restive imagination awaits in Northern Exposure, a richly illustrated guide to the very best in contemporary Canadian residential architecture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/auqJyp8NcfdxkzkDmB5xck-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Could these new travel accessories be the key to making long-haul flights more comfortable?",
-      "url": "https://www.wallpaper.com/travel/travel-accessories-set-tangerine-buzz",
-      "excerpt": "From a lumbar cushion to an eye mask with integrated earbuds, the five-piece collection seeks to make long-haul travel more bearable",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BT54rPB9uUWnktSiLrb7BJ-2500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Get listed in Dezeen's digital guide to London Design Festival 2026",
-      "url": "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
-      "excerpt": "Hosting an event during the 2026 iteration of London Design Festival? Get featured in Dezeen Events Guide's digital guide to the festival. The 24th edition of the festival takes place from 12 to 20 Se",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "BIG’s national juneteenth museum moves toward construction in fort worth, texas",
-      "url": "https://www.designboom.com/architecture/big-juneteenth-museum-fort-worth-texas-06-22-2022/",
-      "excerpt": "the museum expands on opal lee’s decades-long campaign by combining exhibitions with community-focused programs in fort worth’s historic southside.\nThe post BIG’s national juneteenth museum moves towa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/big-juneteenth-museum-fort-worth-texas-06-22-2022-designboom-1200.jpg",
       "today": true
     },
     {
@@ -405,16 +372,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042426/how-icff-2026-converges-design-culture-and-commerce-in-new-york",
       "excerpt": "Under the theme Common Ground, ICFF 2026 brought together the international design community through a shared focus on craftsmanship and innovation. From May 17–19, 2026, ICFF (International Contempor",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a2f/2cd9/6341/4201/8a2c/3e30/large_jpg/how-icff-2026-converges-design-culture-and-commerce-in-new-york_1.jpg?1781476601",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Swiss Pavilion Examines Water as Resource, Subject, and Legal Entity at the 2027 Venice Architecture Biennale",
-      "url": "https://www.archdaily.com/1042642/swiss-pavilion-examines-water-as-resource-subject-and-legal-entity-at-the-2027-venice-architecture-biennale",
-      "excerpt": "Architect and urbanist Paola Viganò has been selected by Pro Helvetia to curate the Swiss Pavilion at the 20th International Architecture Exhibition – La Biennale di Venezia. Chosen following a unanim",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/0d15/8576/0e01/8921/ba5b/large_jpg/swiss-pavilion-examines-water-as-resource-subject-and-legal-entity-at-the-2027-venice-architecture-biennale_1.jpg?1782123807",
       "today": true
     },
     {
