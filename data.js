@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.22  03:38",
+  "fetchedAt": "2026.06.22  09:44",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術館・アート情報": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "北千住経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "北千住経済新聞": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "久留米ファン": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -61,33 +61,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -95,30 +91,10 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.22",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
-      "today": true
-    },
-    {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
-      "date": "2026.06.22",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.22",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -181,6 +157,103 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "From reborn supercars to reworked 80s icons, Ford’s sporting past is being revived",
+      "url": "https://www.wallpaper.com/transportation/from-reborn-supercars-to-reworked-80s-icons-fords-sporting-past-is-being-revived",
+      "excerpt": "We take a look at four fast Fords from specialist restomodders around the world",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LPaXCbX5RLowZTnxWr5woM-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "BIG’s national juneteenth museum moves toward construction in fort worth, texas",
+      "url": "https://www.designboom.com/architecture/big-juneteenth-museum-fort-worth-texas-06-22-2022/",
+      "excerpt": "the museum expands on opal lee’s decades-long campaign by combining exhibitions with community-focused programs in fort worth’s historic southside.\nThe post BIG’s national juneteenth museum moves towa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/big-juneteenth-museum-fort-worth-texas-06-22-2022-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Tableau marks 50th anniversary of historic Copenhagen cafe with curated cup collection",
+      "url": "https://www.dezeen.com/2026/06/22/tableau-cups-cafe-sommersko/",
+      "excerpt": "Rubber thorns, rocky lumps and haunting faces all feature in a collection of cups by more than 30 different artists and designers, presented at Copenhagen's Cafe Sommersko during 3 Days of Design. Tab",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Atonemo and NTS launch Radio Player with icon wheel for genre selection",
+      "url": "https://www.dezeen.com/2026/06/22/atonemo-nts-radio-player/",
+      "excerpt": "Swedish tech company Atonemo and online radio station NTS have partnered up to produce a pocket-sized player designed for \"omakase listening\" – a curated music experience decided by \"someone whose tas",
+      "today": true
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Prada’s latest menswear collection strips things back: ‘It’s against useless design’",
+      "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-menswear-show-milan-fashion-week",
+      "excerpt": "Shown yesterday afternoon in Milan, Miuccia Prada and Raf Simons reworked menswear’s fundamentals – including the denim jean – for a collection which sought clarity and refinement",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3hoppJEiLqykCpMSHY8Mjj-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "florim recycles mount etna’s volcanic lava stone into small-format interior tiles",
+      "url": "https://www.designboom.com/design/florim-recycle-mount-etna-volcanic-lava-stone-tiles/",
+      "excerpt": "matteo thun & benedetto fasciana collaborate with florim and nerosicilia to turn volcanic waste into a tactile tile collection for conscious interior design.  \nThe post florim recycles mount etna’s vo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/florim-sensietna-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Clap Studio creates \"the most music-respectful room\" in Spook nightclub",
+      "url": "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
+      "excerpt": "Spanish practice Clap Studio looked to \"dead rooms\" for its renovation of the El Cubo room at nightclub Spook in Valencia, Spain. Following the success of their project for sister club Oven, the studi",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Building Public Life: How Bogotá and Mexico City Addressed Urban Inequality",
+      "url": "https://www.archdaily.com/1042536/building-public-life-how-bogota-and-mexico-city-addressed-urban-inequality",
+      "excerpt": "In many Latin American cities, peripheral neighborhoods have historically had less access to the resources that make urban life more than just livable. Housing, transportation, and public services are",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/cccc/6c38/4852/67fe/31cf/large_jpg/building-public-life-architectural-responses-to-urban-inequality-in-colombia-and-mexico_3.jpg?1781714132",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Las Cigarreras Industrial Complex / Ramón Esteve Estudio",
+      "url": "https://www.archdaily.com/1042586/las-cigarreras-industrial-complex-ramon-esteve-estudio",
+      "excerpt": "The project is based on the creation of a complex conceived as a technological and cultural space: one that supports the recovery of the architectural heritage, drives Alicante's urban regeneration, r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/0b4a/54d7/6a00/01cc/667c/large_jpg/Ramon_Esteve_Estudio_-_Conjunto_Industrial_Las_Cigarreras_10.jpg?1781861211",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.22",
@@ -193,12 +266,32 @@ window.LUMINO_DATA = {
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "THE TREE / YXDesigners",
-      "url": "https://www.archdaily.com/1019519/the-tree-yxdesigners",
-      "excerpt": "Project BackgroundLike many county towns, Longyou County in Quzhou, Zhejiang, lacks competitive industries, leading to significant labor outflow. In 2022, Longyou County proposed the goal of becoming ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/66a9/d797/aa9b/6b14/33f2/4743/large_jpg/the-tree-yxdesigners_23.jpg?1722406828",
-      "today": false
+      "date": "2026.06.22",
+      "title": "Nakano House / KUMA & ELSA",
+      "url": "https://www.archdaily.com/1042599/nakano-house-kuma-and-elsa",
+      "excerpt": "The client's childhood home, a traditional Japanese house, has an engawa - a gallery open to the garden. There, she was immersed in the scent of fresh grass, the fragrances of the seasons, and even th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/5e29/8576/0e01/8921/b42b/large_jpg/nakano-house-kuma-and-elsa_5.jpg?1781882428",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "When Function Meets Design: Hygiene, Efficiency and Maintenance in Bathroom Spaces",
+      "url": "https://www.archdaily.com/1042425/when-function-meets-design-hygiene-efficiency-and-maintenance-in-bathroom-spaces",
+      "excerpt": "From lighting and materials to colors, textures, and forms, every design decision shapes how people perceive, experience, and interact with architecture. In contemporary interiors, these choices are n",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2f/34e9/aa48/ad01/89b7/cca7/large_jpg/when-function-meets-design-hygiene-efficiency-and-maintenance-in-bathroom-spaces_2.jpg?1781478677",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "Anthill House / Kaushal TaTiya Architects",
+      "url": "https://www.archdaily.com/1042600/anthill-house-kaushal-tatiya-architects",
+      "excerpt": "The site is located in Ahilyanagar town of Maharashtra, with a design brief of 7,000 sq feet, while the house had to be designed for the hot and dry climate, which responds carefully to extreme temper",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/656b/6c38/4816/a744/184a/large_jpg/anthill-house-kaushal-tatiya-architects_22.jpg?1781884282",
+      "today": true
     },
     {
       "source": "Dezeen",
@@ -207,16 +300,6 @@ window.LUMINO_DATA = {
       "title": "Diamond Schmitt adapts civic centre into TMU School of Medicine",
       "url": "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "excerpt": "Canadian architecture firm Diamond Schmitt has completed phase one of Toronto Metropolitan University's new School of Medicine, which features wood-clad structural elements and bold blue accents. The ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Osaka Lightning Rod Industry Sendai Branch Office / T2P Architects Office",
-      "url": "https://www.archdaily.com/1042629/osaka-lightning-rod-industry-sendai-branch-office-t2p-architects-office",
-      "excerpt": "In an area of Sendai City where condominium development is gradually progressing, we planned a branch office for Osaka Lightning Rod Industry, a specialized manufacturer of lightning protection equipm",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a36/e4d4/54d7/6a00/01cc/6866/large_jpg/T2P_Architects_Office_-_Osaka_Hiraishin_Kogyo_Sendai_Branch-02.jpg?1781982469",
       "today": false
     },
     {
@@ -229,16 +312,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "House for María / Metriq Estudio",
-      "url": "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio",
-      "excerpt": "María’s House was born without a budget, in an adverse context, but with a clear purpose. Located in the working-class neighborhood of La Gatazo, in southern Quito, it emerged in the aftermath of the ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/695f/6a26/60cb/5200/01b8/fd39/large_jpg/Casa_para_Maria_7.jpg?1767860835",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.21",
@@ -246,24 +319,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/futurewave-wearable-smart-system-communication-elder-care-facilities-kando/",
       "excerpt": "kando reimagines nursing home care through a connected system of wearables, room interfaces, and central hubs that improves safety and supports caregivers.\nThe post futurewave designs a wearable smart",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kando-smart-care-system-futurewave-elder-care-facilities-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Century-old Melbourne corner shop transformed into family home",
-      "url": "https://www.dezeen.com/2026/06/21/corner-shop-kister-architects-melbourne-renovation-courtyard-entrance/",
-      "excerpt": "Local studio Kister Architects has turned a former 1910 corner shop in Melbourne into a family home with a lush internal courtyard entrance designed to bring greenery to the urban site. Aptly named Th",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Eight scenic bathrooms with a window to the great outdoors",
-      "url": "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
-      "excerpt": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brights together bathrooms with enviable nature views. The followi",
       "today": false
     },
     {
@@ -287,16 +342,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Feeding the Land: What We Eat Built the World We Inhabit",
-      "url": "https://www.archdaily.com/1042008/feeding-the-land-what-we-eat-built-the-world-we-inhabit",
-      "excerpt": "There is a standard way of telling the history of architecture and food. It begins with the human decision to cultivate, to store, to distribute, to consume, and ends with the building that decision p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a29/2ddf/a0e0/6301/89c9/efd6/large_jpg/feeding-the-land-how-what-we-eat-built-the-world-we-inhabit_7.jpg?1781083622",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.21",
@@ -307,16 +352,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "herzog & de meuron unveils al maha island masterplan in qatar",
-      "url": "https://www.designboom.com/architecture/herzog-de-meuron-al-maha-island-masterplan-lusail-qatar-art-basel/",
-      "excerpt": "the masterplan encompasses the lusail museum, a new permanent home for art basel qatar, a contemporary souk, gardens, restaurants, and extensive residential areas.\nThe post herzog & de meuron unveils ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/al-maha-island-herzog-de-meuron-qatar-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.21",
@@ -324,55 +359,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-mosquito-coil",
       "excerpt": "The first instalment of the architect's series, 'Objectify,' investigates the humble mosquito coil",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFASEXGtQqoyvg5HcNsVEP-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Compact Warsaw apartment evokes \"ingenuity and efficiency\" of maritime architecture",
-      "url": "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
-      "excerpt": "Polish designer Dawid Konieczny has completed an apartment in Warsaw's Port Praski district featuring curved walls and bespoke joinery that make the most of the available space. The 34-square-metre ap",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "A patio house in the jungles of Costa Rica is an architectural experiment with a twist",
-      "url": "https://www.wallpaper.com/architecture/residential/teocali-patio-house-manuel-cervantes-costa-rica",
-      "excerpt": "Teocali, a new Costa Rican home by Mexican architect Manuel Cervantes, explores the patio house typology, effortlessly blending inside and out",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Aar5Hqk36xyLKtaNcHDTgX-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "Flat for One / Metrics Architecture Studio",
-      "url": "https://www.archdaily.com/996366/flat-for-one-metrics-architecture-studio",
-      "excerpt": "The project was to transform a 55sqm 2-bedroom located in southern Taiwan into a suite for one, including a small work area; an opportunity to rethink an ideal space for the increasing modern single.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/63e8/8f4e/805c/6146/6772/ea90/large_jpg/not-ready-flat-for-one-metrics-architecture-studio_1.jpg?1676185445",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.21",
-      "title": "public library clad in washed timber integrates with warsaw’s wooded neighborhood",
-      "url": "https://www.designboom.com/architecture/public-library-washed-timber-warsaw-wooded-neighborhood-choszczowka-ambient-architects/",
-      "excerpt": "ambient architects designs interior spaces for flexible reconfiguration.\nThe post public library clad in washed timber integrates with warsaw’s wooded neighborhood appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/public-library-choszczowka-ambient-architects-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.20",
-      "title": "Inside the exhibition tracing dancehall and reggaetón's radical legacy",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/inside-the-exhibition-tracing-dancehall-and-reggaetons-radical-legacy",
-      "excerpt": "'Dancing the Revolution: From Dancehall to Reggaetón' at the Museum of Contemporary Art Chicago unites 40 artists including Jean-Michel Basquiat, Phil Collins and Reggie Burrows Hodges, to consider th",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/As47rbeVzMkNHikBAeuAB4-2560-80.jpg",
       "today": false
     },
     {
