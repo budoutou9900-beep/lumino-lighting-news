@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.23  02:43",
+  "fetchedAt": "2026.06.23  06:46",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "北千住経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "北千住経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,49 +45,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "武蔵野美術大学": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "武蔵野美術大学": {
+    "IGNANT": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "大光電機": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -99,16 +87,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -128,7 +106,6 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -152,6 +129,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.23",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
       "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.06.23",
@@ -170,6 +157,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Spend the night at the former home of legendary filmmaker Yasujirō Ozu",
+      "url": "https://www.wallpaper.com/travel/spend-a-night-at-the-house-of-the-legendary-filmmaker-yasujiro-ozu",
+      "excerpt": "Hidden in the hills of Kita-Kamakura, the century-old residence where the ‘Tokyo Story’ director spent his final years has been restored as a guesthouse",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qpQt4v2orpsjB9DHM4neKn-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "‘Not out of resistance, but out of existence': Haitian designer Hervé Sabin travels with hope and creative strength",
+      "url": "https://www.wallpaper.com/design-interiors/herve-sabin-designer-profile",
+      "excerpt": "Fresh from being shortlisted for the Loewe Foundation Craft Prize, Hervé Sabin takes us on a tour of his itinerant creative practice, focusing on masterful salvaged-wood sculptures",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hMXsxC7VQMHpAht2fMMTkG-2000-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -177,6 +184,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/three-rotating-discs-replace-hands-d1-milano-peter-tarka-impossible-watch/",
       "excerpt": "with color blocks and a compact digital display, D1 milano and peter tarka translate a surreal digital composition into a wearable timepiece.\nThe post three rotating discs replace hands in D1 milano x",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/d1-milano-peter-tarka-watch-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Zhengzhou Liuzhuang Urban Development Museum / HYP-ARCH CONSULTANTS",
+      "url": "https://www.archdaily.com/998801/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants",
+      "excerpt": "China's urban development has undergone great changes over the past 40 years since the reform and opening up. Located to the south of the intersection of Huayuan Road and Lian-Huo Expressway, LiuZhuan",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6426/be13/079b/b201/6f00/7729/large_jpg/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants_16.jpg?1680260680",
       "today": true
     },
     {
@@ -258,16 +275,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Victoria Beckham and artist Phoebe Collings-James speak about their new artistic collaboration",
-      "url": "https://www.wallpaper.com/fashion-beauty/victoria-beckham-on-phoebe-collings-james-collaboration",
-      "excerpt": "Victoria Beckham tells Wallpaper* why she commissioned the sculptor Phoebe Collings-James to create a one-of-a-kind artwork inspired by the new Blush Stylus product",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wgEafNFVT466AxuixCRLjQ-2500-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.22",
@@ -294,16 +301,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042590/cantareira-modules-terra-e-tuma-arquitetos-associados",
       "excerpt": "This work presents a design process that stems from complex programmatic and geographic premises. The program proposed by the couple reflected their desire for diverse spaces and uses, a result of the",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a34/9b0d/54d7/6a00/01cc/6647/large_jpg/terraetuma_pkok_modulos_cantareira_03.jpg?1781832500",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "What to expect from St. Clement, Nick Jones’ new London hotel on the Thames",
-      "url": "https://www.wallpaper.com/travel/hotels/st-clement-london-nick-jones-opening",
-      "excerpt": "Opening in September, St. Clement mixes grand riverside views, bathroom minibars, and the Soho House founder’s sharp eye for detail",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N4XcTTm5NSi8ndcuC55XTZ-2560-80.jpg",
       "today": false
     },
     {
@@ -355,36 +352,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Go East: What Tirana's Bread & Heart Festival Reveals About Architecture and Landscape",
-      "url": "https://www.archdaily.com/1042325/go-east-what-tiranas-bread-and-heart-festival-reveals-about-architecture-and-landscape",
-      "excerpt": "Something has been happening in Tirana that the architectural world has not quite found the language for. In the space of a few years, a city of less than a million people in one of Europe's least-kno",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2b/0ed9/aa48/ad01/89b7/c3a6/large_jpg/building-the-new-albania-lessons-from-elsewhere_31.jpg?1781206960",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
       "source": "武蔵野美術大学",
       "cat": "展示・アート",
       "date": "2026.06.17",
@@ -395,16 +362,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -412,16 +369,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -455,35 +402,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "展示・アート",
       "date": "2026.06.03",
@@ -501,26 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -591,16 +489,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.05.20",
-      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
-      "url": "https://www.yamagiwa.co.jp/news/76548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
