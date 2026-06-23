@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.23  06:46",
+  "fetchedAt": "2026.06.23  10:33",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,49 +33,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "武蔵野美術大学": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "武蔵野美術大学": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -106,6 +118,7 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -157,6 +170,102 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "a swooping facade line reinterprets suburban split-level homes in new jersey",
+      "url": "https://www.designboom.com/architecture/swooping-facade-line-suburban-split-level-homes-new-jersey-out-of-line-swoop-adu/",
+      "excerpt": "the facade drapes, swoops, and folds across openings.\nThe post a swooping facade line reinterprets suburban split-level homes in new jersey appeared first on designboom | architecture & design magazin",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/out-of-line-swoop-adu-south-orange-new-jersey-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Cartier’s largest-ever exhibition in Australia is a story of tiaras, panthers and distinguished clients",
+      "url": "https://www.wallpaper.com/watches-jewellery/cartier-exhibition-ngv-melbourne-review",
+      "excerpt": "A new show at Melbourne’s National Gallery of Victoria (NGV) builds on Cartier’s 2025 London V&A exhibition, with a much larger presentation of nearly 400 jewels and timepieces",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r26VQErvMcZhSDH593uhAf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "The new Commodore Callback flips off the distractions and intrusions of modern devices",
+      "url": "https://www.wallpaper.com/tech/commodore-callback-8020-flip-phone-review",
+      "excerpt": "Baking in just the right amount of functionality, the Commodore Callback 8020 is a flip phone with carefully calibrated levels of intentional friction and a deliberately retro-futurist aesthetic",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zkkf6cQtKvHTVFBbgL5YbS-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Other Circle seeks inspiration in \"creative culture as a whole\"",
+      "url": "https://www.dezeen.com/2026/06/23/other-circle-inspiration-creative-culture-copenhagen/",
+      "excerpt": "The second edition of design exhibition Other Circle in Copenhagen showcased pieces by a wide variety of brands and designers, ranging from Claude AI to emerging Norwegian talents and buzzy smaller st",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "\"There has not been cultural change as a result of Grenfell\" says ARB CEO Hugh Simpson",
+      "url": "https://www.dezeen.com/2026/06/23/hugh-simpson-arb-interview/",
+      "excerpt": "Necessary cultural change within the construction industry is still yet to happen nine years on from the devastating Grenfell Tower fire, the man in charge of the UK architects' regulator tells Dezeen",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "NOT A STUDIO uses color-coded structure to open up century-old barcelona apartment",
+      "url": "https://www.designboom.com/architecture/itsnotastudio-color-coded-structure-century-old-barcelona-apartment/",
+      "excerpt": "a 36-square-meter apartment in sarrià sheds decades of partitions to reveal its original structure, using color to reinterpret a century-old interior.\nThe post NOT A STUDIO uses color-coded structure ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/itsnotastudio-original-volume-century-old-barcelona-apartment-color-coded-structure-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "What makes Gaudí's style so unique?",
+      "url": "https://www.dezeen.com/2026/06/23/antoni-gaudi-unique-style-video/",
+      "excerpt": "As part of our Gaudí Centenary series, this video produced by Dezeen Studio explores the key influences, ideas and techniques that shaped Antoni Gaudí's distinctive architectural style. More than a ce",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Blond launches Solaris lamp designed by 12-year-old Sol Rybakken Kallin",
+      "url": "https://www.dezeen.com/2026/06/23/blond-solaris-sol-rybakken-kallin/",
+      "excerpt": "The young daughter of Norwegian designer Daniel Rybakken has developed a table lamp for Swedish lighting manufacturer Blond. Twelve-year-old Sol Rybakken Kallin presented her design, Solaris, as part ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "mediclinics’ u-flow hand dryer merges ergonomics with unlimited color customization",
+      "url": "https://www.designboom.com/design/mediclinics-u-flow-hand-dryer-ergonomic-color-customization/",
+      "excerpt": "mediclinics’ u-flow® offers infinite color adaptability to match the visual language of any contemporary interior. \nThe post mediclinics’ u-flow hand dryer merges ergonomics with unlimited color custo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/mediclinics_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "designed for overstimulated minds, this wearable device shifts visuals with brain activity",
+      "url": "https://www.designboom.com/technology/designed-for-overstimulated-minds-this-wearable-device-shift-visuals-with-brain-activity/",
+      "excerpt": "eeg device lize integrates neuro sensing into minimal form   LIZE is a conceptual wearable device designed to support mental health by responding to the user’s brain activity. Excessive exposure to di",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/465768/2026-03-24/designed-for-overstimulated-minds-lize-ar-glasses-shift-visuals-with-brain-activity-1-69c2a0cdbb0cd.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -167,6 +276,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Anker Bak and Jonas Sølberg launch Dignity Design platform at 3 Days of Design",
+      "url": "https://www.dezeen.com/2026/06/23/anker-bak-jonas-solberg-dignity-design-platform-3-days-of-design/",
+      "excerpt": "A circular shelf used for displaying deeply personal objects featured in designer Anker Bak's 3 Days of Design exhibition, which was also used to launch an initiative focused on designing for people i",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -174,6 +302,36 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/herve-sabin-designer-profile",
       "excerpt": "Fresh from being shortlisted for the Loewe Foundation Craft Prize, Hervé Sabin takes us on a tour of his itinerant creative practice, focusing on masterful salvaged-wood sculptures",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hMXsxC7VQMHpAht2fMMTkG-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "The History of the UIA World Congress of Architecture and the Cities That Shaped It",
+      "url": "https://www.archdaily.com/1042418/the-history-of-the-uia-world-congress-of-architecture-and-the-cities-that-shaped-it",
+      "excerpt": "Every three years, the International Union of Architects' (UIA) World Congress lands in a different city, under a different theme set years in advance. A quick mapping of these host cities reveals a d",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2d/a305/6341/4201/8a2c/3cb1/large_jpg/uia-barcelona-2026-a-retrospective-look-to-the-world-congress-of-architecture_1.jpg?1781375773",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Shou Sugi Ban House / Sandy Anghie Architect",
+      "url": "https://www.archdaily.com/1042643/shou-sugi-ban-house-sandy-anghie-architect",
+      "excerpt": "Shou Sugi Ban House is a residential architecture project situated in Perth, Western Australia. This distinctive project is named after the key material used in the new addition to a beautiful charact",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/0e47/8576/0e01/8921/ba6e/large_jpg/shou-sugi-ban-house-sandy-anghie-architect_2.jpg?1782124111",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Aquatic Gallery / INI Design Studio",
+      "url": "https://www.archdaily.com/1042641/aquatic-gallery-ini-design-studio",
+      "excerpt": "India's largest and first planned inland public aquarium transforms science education into an immersive civic experience within Ahmedabad's 200-acre Science City campus. Conceived as a fifth-generatio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/07f0/54d7/6a00/01cc/68ce/large_jpg/Aquatic_Gallery-03.jpg?1782122547",
       "today": true
     },
     {
@@ -197,25 +355,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "kleopatra tsali traces hidden ecologies through clay archives and silkworm networks",
-      "url": "https://www.designboom.com/art/kleopatra-tsali-hidden-ecologies-clay-archives-silkworm-networks-interview/",
-      "excerpt": "through projects rooted in clay sourcing, sericulture, and community exchange, the athens-based artist explores craft as a practice of interdependence.\nThe post kleopatra tsali traces hidden ecologies",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kleopatra-tsali-hidden-ecologies-clay-archives-silkworm-networks-interview-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Nature-informed community space among projects from Virginia Commonwealth University School of the Arts",
-      "url": "https://www.dezeen.com/2026/06/22/nature-informed-community-space-among-projects-from-virginia-commonwealth-university-school-of-the-arts/",
-      "excerpt": "Dezeen School Shows: a community space that welcomes both people and wildlife is among the projects from students at the Virginia Commonwealth University School of the Arts in Qatar. Also featured is ",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.22",
@@ -223,16 +362,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042640/kurashiki-central-hospital-miwa-nursery-school-nikken-sekkei",
       "excerpt": "A serene and welcoming facility that blends seamlessly into the neighborhood – As the on-site nursery school for Kurashiki Central Hospital, the building was reconstructed in response to the aging and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/03ad/54d7/6a00/01cc/68b3/large_jpg/14_South_Wing_Classroom_01_SS_Co.__Ltd..jpg?1782121458",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "karolina halatek’s installation transforms light into an immersive architectural field in istanbul",
-      "url": "https://www.designboom.com/art/karolina-halatek-installation-light-immersive-architectural-field-istanbul-echo/",
-      "excerpt": "echo activates a new dialogue between light, architecture, and the body, inviting visitors to experience space as a dynamic and perceptual field.\nThe post karolina halatek’s installation transforms li",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/echo-karolina-halatek-istanbul-light-space-perception-installation-designboom-1200-1.jpg",
       "today": false
     },
     {
@@ -246,109 +375,23 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
+      "source": "LPA",
       "cat": "デザイン",
       "date": "2026.06.22",
-      "title": "Snøhetta designs mesh-covered office building for Miami Design District",
-      "url": "https://www.dezeen.com/2026/06/22/snohetta-miami-design-district-sweetbird-north/",
-      "excerpt": "International architecture studio Snøhetta has released designs for a mixed-use building in Miami covered in a bulbous \"stainless mesh sunscreen\". The Sweetbird North building, developed by Raycliff C",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
       "today": false
     },
     {
-      "source": "Wallpaper*",
+      "source": "YAMAGIWA",
       "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "In the Saudi desert, Heatherwick Studio proposes a dramatic window on the universe",
-      "url": "https://www.wallpaper.com/architecture/in-the-saudi-desert-heatherwick-studio-proposes-a-dramatic-window-on-the-universe",
-      "excerpt": "Deep in north-west Saudi Arabia, AlUla Manara wants to re-shape the stargazing experience through dramatic architectural forms",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eEWZTQzV6HmCsTYDZzfUNW-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Aesop’s Queer Library is back with titles by LGBTQIA+ authors and allies and a new Reading Room",
-      "url": "https://www.wallpaper.com/art/aesop-queer-library-popup",
-      "excerpt": "The Queer Library pop-up in Soho, London is back (3-5 July 2026), this year focuses on the queer body and how it serves as an act of joyful resistance",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e3JM8DTi5oReVorHhFtzmm-1600-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "pink timber room rises over munich bike racks as urban lab ‘zuhaus’",
-      "url": "https://www.designboom.com/architecture/pink-timber-room-munich-bike-racks-urban-lab-zuhaus-clemence-hoyer/",
-      "excerpt": "architect clemens hoyer designed the structure as a real-world urban laboratory for shared street space.\nThe post pink timber room rises over munich bike racks as urban lab ‘zuhaus’ appeared first on ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/zuhaus-haidhausen-designer-clemens-hoyer-munich-germany-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Forest foraging kit among projects from Vilnius Academy of Arts",
-      "url": "https://www.dezeen.com/2026/06/22/modular-storage-container-vilnius-academy-of-arts/",
-      "excerpt": "Dezeen School Shows: a modular storage container designed for gathering and storing forest goods is among projects from design students at Vilnius Academy of Arts. Also featured is a project that revi",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Cantareira Modules / Terra e Tuma Arquitetos Associados",
-      "url": "https://www.archdaily.com/1042590/cantareira-modules-terra-e-tuma-arquitetos-associados",
-      "excerpt": "This work presents a design process that stems from complex programmatic and geographic premises. The program proposed by the couple reflected their desire for diverse spaces and uses, a result of the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a34/9b0d/54d7/6a00/01cc/6647/large_jpg/terraetuma_pkok_modulos_cantareira_03.jpg?1781832500",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Meridian rugs by Armadillo among six new products on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/06/22/meridian-rugs-armadillo-furniture-surfaces-lighting-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: a series of rugs that foreground weaving patterns and fibres over colour and print are among six new products featured on Dezeen Showroom. Meridian rugs by Armadillo Rug brand Armadil",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Casa 29 / estudio29",
-      "url": "https://www.archdaily.com/1042653/casa-29-estudio29",
-      "excerpt": "House 29 is situated on the route to the sacred mountain Guagualzhumi, on a sloping plot of the Andean landscape, facing Cuenca and the mountain El Tablón, and bordered by a pine forest. The topograph",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69af/f778/1d07/d400/0132/40de/large_jpg/SEBASTIAN-CORRRAL-CUENCA-JAG-2211-WEB-RGB1.jpg?1773139850",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "eva jospin crafts entire worlds from cardboard, one cut at a time",
-      "url": "https://www.designboom.com/art/eva-jospin-entire-worlds-cardboard/",
-      "excerpt": "the french artist transforms discarded cardboard into worlds that highlight the future value of craft, material knowledge, and slow making.\nThe post eva jospin crafts entire worlds from cardboard, one",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/eva-jospin-entire-worlds-cardboard08.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Unknown Architects sinks timber cabin into dune-filled Dutch island",
-      "url": "https://www.dezeen.com/2026/06/22/unknown-architects-house-on-a-dune-timber-cabin-netherlands/",
-      "excerpt": "Dutch studio Unknown Architects has completed House on a Dune, a holiday cabin on the island of Terschelling with lofty, timber-lined interiors that frame panoramic views of the surrounding sand plain",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Meadows Primary School / Project 12 Architecture",
-      "url": "https://www.archdaily.com/1026349/meadows-primary-school-project-12-architecture",
-      "excerpt": "Meadows Primary School is a proudly multi-cultural school in Broadmeadow, in Melbourne's northern suburbs. Project 12 was commissioned to create a new 10-classroom building for 200 additional students",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/679c/cb21/e862/3700/01c0/7b85/large_jpg/RoryGardiner1605c_003.jpg?1738328891",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     },
     {
@@ -362,6 +405,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -369,6 +422,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -402,6 +465,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "展示・アート",
       "date": "2026.06.03",
@@ -419,6 +511,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -489,6 +601,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
