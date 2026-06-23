@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.23  10:33",
+  "fetchedAt": "2026.06.23  13:41",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,15 +41,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -170,6 +170,54 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Bosque seating by Lawson Fenning",
+      "url": "https://www.dezeen.com/2026/06/23/bosque-seating-lawson-fenning-design-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: US studio Lawson Fenning looked to Japan's 1960s Metabolism design movement when designing this seating range, which features a low, grounded sofa and chairs. \"Bosque started with thi",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "These were the best collections of Milan Fashion Week Men’s, from Thom Browne to Prada",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-mens-ss-2027",
+      "excerpt": "As menswear month reaches its halfway point, read Wallpaper’s pick of the standouts from the Italian fashion capital",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xktjVNbRzMtypoJwBrXJaZ-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "One Triton Square’s refreshed, ‘humanised’ interiors are centred on curated materiality",
+      "url": "https://www.wallpaper.com/architecture/office/piercy-and-company-one-triton-square-london-uk",
+      "excerpt": "One Triton Square by Piercy&Company represents the 21st-century transformation of a 1990s office tower in London to meet contemporary workplace needs and aesthetics",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hdGr3YBtfSsrnSVtUS7W6F-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "This chic bar in Turin reinterprets 1960s office design",
+      "url": "https://www.wallpaper.com/travel/bars/leve-office-bar-turin",
+      "excerpt": "Chrome, stainless steel and bold colour accents define designer Fabio Fantolino’s latest hospitality project, inspired by the golden age of office interiors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xoGfKh6ZHrKpPtFF2K8SyQ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Bastiaan Jongerius Architecten cloaks Longhouse Farm with black timber and metal",
+      "url": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/",
+      "excerpt": "Dutch studio Bastiaan Jongerius Architecten has transformed a 1970s farmhouse outside Amsterdam, extending its timber structure and updating its exterior with black-metal panels and charred wood. Name",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -187,6 +235,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/cartier-exhibition-ngv-melbourne-review",
       "excerpt": "A new show at Melbourne’s National Gallery of Victoria (NGV) builds on Cartier’s 2025 London V&A exhibition, with a much larger presentation of nearly 400 jewels and timepieces",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r26VQErvMcZhSDH593uhAf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Aaltos' Paimio Sanatorium set to be turned into \"future-oriented\" hotel by Snøhetta",
+      "url": "https://www.dezeen.com/2026/06/23/aaltos-paimio-sanatorium-set-to-be-turned-into-future-oriented-hotel-by-snohetta/",
+      "excerpt": "Architecture studio Snøhetta has released images of its vision for a hotel in Aino and Alvar Aalto's iconic 1930s sanatorium in Paimio, Finland, which will include turning patient rooms into bedrooms.",
       "today": true
     },
     {
@@ -228,24 +285,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "What makes Gaudí's style so unique?",
-      "url": "https://www.dezeen.com/2026/06/23/antoni-gaudi-unique-style-video/",
-      "excerpt": "As part of our Gaudí Centenary series, this video produced by Dezeen Studio explores the key influences, ideas and techniques that shaped Antoni Gaudí's distinctive architectural style. More than a ce",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Blond launches Solaris lamp designed by 12-year-old Sol Rybakken Kallin",
-      "url": "https://www.dezeen.com/2026/06/23/blond-solaris-sol-rybakken-kallin/",
-      "excerpt": "The young daughter of Norwegian designer Daniel Rybakken has developed a table lamp for Swedish lighting manufacturer Blond. Twelve-year-old Sol Rybakken Kallin presented her design, Solaris, as part ",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -253,6 +292,36 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/mediclinics-u-flow-hand-dryer-ergonomic-color-customization/",
       "excerpt": "mediclinics’ u-flow® offers infinite color adaptability to match the visual language of any contemporary interior. \nThe post mediclinics’ u-flow hand dryer merges ergonomics with unlimited color custo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/mediclinics_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "The Ecological Intelligence of Sacred Landscapes",
+      "url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
+      "excerpt": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as em",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Hangzhou Prism / OMA",
+      "url": "https://www.archdaily.com/1042657/hangzhou-prism-oma",
+      "excerpt": "OMA's design for Xinhu Hangzhou Prism is integrated into the beauty of the surrounding natural landscape. The complex will house a hotel, retail space, lofts, and an atrium garden. Hangzhou, the capit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/45ff/6c38/4816/a744/2005/large_jpg/hangzhou-prism-oma_3.jpg?1782138402",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "When Does BIM Become Necessary in Interior Design?",
+      "url": "https://www.archdaily.com/1041425/when-does-bim-become-necessary-in-interior-design",
+      "excerpt": "Interior designers who find themselves facing project parameters, budget constraints, client demands, and the maintenance of a design aesthetic have a lot to juggle. Tight turnaround schedules put pre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/8d20/6c38/4816/a744/18b5/large_jpg/when-does-bim-become-necessary-in-interior-design_21.jpg?1781894521",
       "today": true
     },
     {
@@ -266,13 +335,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "Spend the night at the former home of legendary filmmaker Yasujirō Ozu",
-      "url": "https://www.wallpaper.com/travel/spend-a-night-at-the-house-of-the-legendary-filmmaker-yasujiro-ozu",
-      "excerpt": "Hidden in the hills of Kita-Kamakura, the century-old residence where the ‘Tokyo Story’ director spent his final years has been restored as a guesthouse",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qpQt4v2orpsjB9DHM4neKn-1600-80.jpg",
+      "title": "Graham Foundation Announces 54 Grants for Individuals Exploring Architecture Through Research and Creative Practice",
+      "url": "https://www.archdaily.com/1042684/graham-foundation-announces-54-grants-for-individuals-exploring-architecture-through-research-and-creative-practice",
+      "excerpt": "The Graham Foundation has announced the recipients of its 2026 Grants to Individuals program, awarding a total of $506,000 to 54 projects that investigate architecture through exhibitions, films, publ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/50a1/6c38/4816/a744/230f/large_jpg/graham-foundation-announces-54-grants-for-individuals-exploring-architecture-through-research-film-exhibitions-and-publications_1.jpg?1782206646",
       "today": true
     },
     {
@@ -286,52 +355,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Anker Bak and Jonas Sølberg launch Dignity Design platform at 3 Days of Design",
-      "url": "https://www.dezeen.com/2026/06/23/anker-bak-jonas-solberg-dignity-design-platform-3-days-of-design/",
-      "excerpt": "A circular shelf used for displaying deeply personal objects featured in designer Anker Bak's 3 Days of Design exhibition, which was also used to launch an initiative focused on designing for people i",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "‘Not out of resistance, but out of existence': Haitian designer Hervé Sabin travels with hope and creative strength",
-      "url": "https://www.wallpaper.com/design-interiors/herve-sabin-designer-profile",
-      "excerpt": "Fresh from being shortlisted for the Loewe Foundation Craft Prize, Hervé Sabin takes us on a tour of his itinerant creative practice, focusing on masterful salvaged-wood sculptures",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hMXsxC7VQMHpAht2fMMTkG-2000-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "The History of the UIA World Congress of Architecture and the Cities That Shaped It",
-      "url": "https://www.archdaily.com/1042418/the-history-of-the-uia-world-congress-of-architecture-and-the-cities-that-shaped-it",
-      "excerpt": "Every three years, the International Union of Architects' (UIA) World Congress lands in a different city, under a different theme set years in advance. A quick mapping of these host cities reveals a d",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2d/a305/6341/4201/8a2c/3cb1/large_jpg/uia-barcelona-2026-a-retrospective-look-to-the-world-congress-of-architecture_1.jpg?1781375773",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Shou Sugi Ban House / Sandy Anghie Architect",
-      "url": "https://www.archdaily.com/1042643/shou-sugi-ban-house-sandy-anghie-architect",
-      "excerpt": "Shou Sugi Ban House is a residential architecture project situated in Perth, Western Australia. This distinctive project is named after the key material used in the new addition to a beautiful charact",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/0e47/8576/0e01/8921/ba6e/large_jpg/shou-sugi-ban-house-sandy-anghie-architect_2.jpg?1782124111",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Aquatic Gallery / INI Design Studio",
-      "url": "https://www.archdaily.com/1042641/aquatic-gallery-ini-design-studio",
-      "excerpt": "India's largest and first planned inland public aquarium transforms science education into an immersive civic experience within Ahmedabad's 200-acre Science City campus. Conceived as a fifth-generatio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/07f0/54d7/6a00/01cc/68ce/large_jpg/Aquatic_Gallery-03.jpg?1782122547",
+      "title": "Building, Taxing, and Financing: New York City's Recent Measures to Tackle the Housing Crisis",
+      "url": "https://www.archdaily.com/1042659/building-taxing-and-financing-new-york-citys-recent-measures-to-tackle-the-housing-crisis",
+      "excerpt": "The New York City local government is one of the largest of its kind, with hundreds of city agencies and elected offices. The Mayor, city agencies, the city council, the comptroller, the public advoca",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/52fe/8576/0e01/8921/bc81/large_jpg/new-york_1.jpg?1782141707",
       "today": true
     },
     {
@@ -343,36 +373,6 @@ window.LUMINO_DATA = {
       "excerpt": "with color blocks and a compact digital display, D1 milano and peter tarka translate a surreal digital composition into a wearable timepiece.\nThe post three rotating discs replace hands in D1 milano x",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/d1-milano-peter-tarka-watch-designboom-FB.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Zhengzhou Liuzhuang Urban Development Museum / HYP-ARCH CONSULTANTS",
-      "url": "https://www.archdaily.com/998801/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants",
-      "excerpt": "China's urban development has undergone great changes over the past 40 years since the reform and opening up. Located to the south of the intersection of Huayuan Road and Lian-Huo Expressway, LiuZhuan",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6426/be13/079b/b201/6f00/7729/large_jpg/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants_16.jpg?1680260680",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Kurashiki Central Hospital Miwa Nursery School / Nikken Sekkei",
-      "url": "https://www.archdaily.com/1042640/kurashiki-central-hospital-miwa-nursery-school-nikken-sekkei",
-      "excerpt": "A serene and welcoming facility that blends seamlessly into the neighborhood – As the on-site nursery school for Kurashiki Central Hospital, the building was reconstructed in response to the aging and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/03ad/54d7/6a00/01cc/68b3/large_jpg/14_South_Wing_Classroom_01_SS_Co.__Ltd..jpg?1782121458",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "Wallpaper* checks into W Sardinia, a magical stay where vintage nostalgia and folklore meet",
-      "url": "https://www.wallpaper.com/travel/hotels/w-sardinia-review",
-      "excerpt": "The Marriott Bonvoy’s new hotel marks a new chapter for W, venturing away from its party reputation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bwLQZauQDEUYcqrafoNYXk-1600-80.jpg",
-      "today": false
     },
     {
       "source": "LPA",
