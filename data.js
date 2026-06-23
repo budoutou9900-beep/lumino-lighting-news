@@ -1,93 +1,81 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.23  13:41",
+  "fetchedAt": "2026.06.23  16:25",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "北千住経済新聞": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "Newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "ファッションプレス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "久留米ファン": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "武蔵野美術大学": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "武蔵野美術大学": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "大光電機": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "DNライティング": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -102,71 +90,132 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "北千住経済新聞",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.23",
-      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
-      "url": "https://adachi.keizai.biz/headline/662/",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.23",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.23",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.23",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=258289",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.23",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.06.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.23",
+      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254473",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.06.23",
+      "title": "よみうりランド「夜桜ジュエルミネーション」宝石イルミ×桜のライトアップ、アトラクションで絶叫花見も",
+      "url": "https://www.fashion-press.net/news/143539",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/143539/top.jpg?1771484051",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Hot pink and tall, Rana Begum and Webb Yates’ installation in London explores the ‘infinite’",
+      "url": "https://www.wallpaper.com/architecture/rana-begum-webb-yates-installation-lfa-2026-uk",
+      "excerpt": "Artist Rana Begum and engineer Steve Webb of Webb Yates unveil a sculpture in central London in response to the 2026 London Festival of Architecture theme of ‘Belonging’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4PbQYbk44SuPNVx7DFRSBU-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Paris Fashion Week Men’s S/S 2027: live updates from the Wallpaper* team",
+      "url": "https://www.wallpaper.com/fashion-beauty/live/paris-fashion-week-mens-ss-2027",
+      "excerpt": "From 23-28 June, the S/S 2027 edition of Paris Fashion Week Men’s takes place in the French capital. Here, get your first look at the shows, presentations and parties, as well as our runway reviews, r",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YWDJ6nh9EtyrM5ovC9u8RM-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "commodore’s Y2K-style flip phone has T9 texting, maps, and music, but no social media",
+      "url": "https://www.designboom.com/technology/commodore-callback-8020-y2k-flip-phone-t9-texting-no-social-media/",
+      "excerpt": "with its keypad, chiptune sounds, and limited social apps, callback 8020 brings an alternative to the always-on smartphone.\nThe post commodore’s Y2K-style flip phone has T9 texting, maps, and music, b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/commodore-callback-8020-flip-phone-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Thom Browne on his ‘A Bug’s Life’-inspired Milan show",
+      "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-ss-2026-menswear-show-interview",
+      "excerpt": "Expect the unexpected from the American designer, who at Milan Fashion Week yesterday (22 June 2026) looked to the 1998 Disney film to inspire a collection which played out amid 400 seersucker plant p",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XaredXCdUYtNjoJtc6Udy3-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Church’s stages ‘The Residence’ in a preserved Brera house for S/S 2027",
+      "url": "https://www.wallpaper.com/fashion-beauty/churchs-ss-2027-collection",
+      "excerpt": "The Prada-owned Northampton shoemaker stages its S/S 2027 collection, ‘The Residence’, during Milan Fashion Week Men’s in the former home and studio of the painter Renzo Bongiovanni Radice",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4jzUPSQ67sXXj4orNU63ZZ-2560-80.jpg",
       "today": true
     },
     {
@@ -189,26 +238,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "One Triton Square’s refreshed, ‘humanised’ interiors are centred on curated materiality",
-      "url": "https://www.wallpaper.com/architecture/office/piercy-and-company-one-triton-square-london-uk",
-      "excerpt": "One Triton Square by Piercy&Company represents the 21st-century transformation of a 1990s office tower in London to meet contemporary workplace needs and aesthetics",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hdGr3YBtfSsrnSVtUS7W6F-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "This chic bar in Turin reinterprets 1960s office design",
-      "url": "https://www.wallpaper.com/travel/bars/leve-office-bar-turin",
-      "excerpt": "Chrome, stainless steel and bold colour accents define designer Fabio Fantolino’s latest hospitality project, inspired by the golden age of office interiors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xoGfKh6ZHrKpPtFF2K8SyQ-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -228,16 +257,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Cartier’s largest-ever exhibition in Australia is a story of tiaras, panthers and distinguished clients",
-      "url": "https://www.wallpaper.com/watches-jewellery/cartier-exhibition-ngv-melbourne-review",
-      "excerpt": "A new show at Melbourne’s National Gallery of Victoria (NGV) builds on Cartier’s 2025 London V&A exhibition, with a much larger presentation of nearly 400 jewels and timepieces",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r26VQErvMcZhSDH593uhAf-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -247,22 +266,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "The new Commodore Callback flips off the distractions and intrusions of modern devices",
-      "url": "https://www.wallpaper.com/tech/commodore-callback-8020-flip-phone-review",
-      "excerpt": "Baking in just the right amount of functionality, the Commodore Callback 8020 is a flip phone with carefully calibrated levels of intentional friction and a deliberately retro-futurist aesthetic",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zkkf6cQtKvHTVFBbgL5YbS-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.23",
       "title": "Other Circle seeks inspiration in \"creative culture as a whole\"",
       "url": "https://www.dezeen.com/2026/06/23/other-circle-inspiration-creative-culture-copenhagen/",
       "excerpt": "The second edition of design exhibition Other Circle in Copenhagen showcased pieces by a wide variety of brands and designers, ranging from Claude AI to emerging Norwegian talents and buzzy smaller st",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "CIBC Square / WilkinsonEyre",
+      "url": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
+      "excerpt": "Designed as a mixed-use destination anchored by infrastructure, public space, and wellness focused workplaces, CIBC SQUARE reconnects Toronto's downtown core to its waterfront through a major new civi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/7e52/6c38/4816/a744/20c0/large_jpg/cibc-square-wilkinsoneyre_8.jpg?1782152801",
       "today": true
     },
     {
@@ -352,26 +371,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79613/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Building, Taxing, and Financing: New York City's Recent Measures to Tackle the Housing Crisis",
-      "url": "https://www.archdaily.com/1042659/building-taxing-and-financing-new-york-citys-recent-measures-to-tackle-the-housing-crisis",
-      "excerpt": "The New York City local government is one of the largest of its kind, with hundreds of city agencies and elected offices. The Mayor, city agencies, the city council, the comptroller, the public advoca",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/52fe/8576/0e01/8921/bc81/large_jpg/new-york_1.jpg?1782141707",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "three rotating discs replace hands in D1 milano x peter tarka’s ‘impossible watch’",
-      "url": "https://www.designboom.com/design/three-rotating-discs-replace-hands-d1-milano-peter-tarka-impossible-watch/",
-      "excerpt": "with color blocks and a compact digital display, D1 milano and peter tarka translate a surreal digital composition into a wearable timepiece.\nThe post three rotating discs replace hands in D1 milano x",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/d1-milano-peter-tarka-watch-designboom-FB.jpg",
       "today": true
     },
     {
