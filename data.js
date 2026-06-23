@@ -1,171 +1,119 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.23  16:25",
+  "fetchedAt": "2026.06.23  19:09",
   "sourceColors": {
-    "axismag.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "オズモール": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
     "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "武蔵野美術大学": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "IGNANT": {
+    "武蔵野美術大学": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "title": "RAMSA completes sensitive extension of New York Historical museum",
+      "url": "https://www.dezeen.com/2026/06/23/tang-wing-american-democracy-new-york-city-ramsa/",
+      "excerpt": "Architecture studio Robert AM Stern Architects has completed an extension to the New York Historical museum in New York informed by the building's original design from the early 1900s. The Tang Wing f",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "Readers say \"there's no such thing as an AI artist\" in this week's Dezeen Debate",
+      "url": "https://www.dezeen.com/2026/06/23/hotel-attraction-renders-gaudi-centenary-dezeen-debate/",
+      "excerpt": "The latest Dezeen Debate newsletter features renders of architect Antoni Gaudí's speculative New York hotel by AI artist Thierry Lechanteur. Subscribe to Dezeen Debate now. AI artist Thierry Lechanteu",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "Space4Architects transforms Brooklyn warehouse into residence",
+      "url": "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
+      "excerpt": "Local studio Space4Architecture has converted a warehouse in Brooklyn into a residence with a double-height living space and a black-painted facade. Located on a 2,500-square-foot (232-square-metre) i",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "No Roman holiday is complete without this new guide to the city’s modern architecture",
+      "url": "https://www.wallpaper.com/architecture/modern-rome-map-blue-crow-media",
+      "excerpt": "Modern Rome is the newest publication from Blue Crow Media’s growing collection of architectural city guides and detailed maps. We take a tour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZRbHFuwKdNhznZmB9MNn8M-1800-80.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
+      "title": "concrete and beech shape flexible learning spaces within school and social hub in slovenia",
+      "url": "https://www.designboom.com/architecture/concrete-beech-flexible-learning-spaces-school-social-hub-slovenia-hotic-educational-complex-geoplan/",
+      "excerpt": "geoplan's hotič educational complex brings together education, recreation, and civic life, redefining the village school as a shared social center.\nThe post concrete and beech shape flexible learning ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hotic-educational-complex-geoplan-primary-school-kindergarten-community-facilities-social-center-slovenia-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "よみうりランド「夜桜ジュエルミネーション」宝石イルミ×桜のライトアップ、アトラクションで絶叫花見も",
-      "url": "https://www.fashion-press.net/news/143539",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/143539/top.jpg?1771484051",
+      "title": "Ikea wants you to play with its new furniture",
+      "url": "https://www.wallpaper.com/design-interiors/ikea-ps-2026-play-furniture",
+      "excerpt": "Discover the new Ikea Play collection: 44 designs led by playful functionality now available to buy and enjoy",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F8NhJGToWZgLXAev28cYQL-1920-80.png",
       "today": true
     },
     {
@@ -209,16 +157,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Church’s stages ‘The Residence’ in a preserved Brera house for S/S 2027",
-      "url": "https://www.wallpaper.com/fashion-beauty/churchs-ss-2027-collection",
-      "excerpt": "The Prada-owned Northampton shoemaker stages its S/S 2027 collection, ‘The Residence’, during Milan Fashion Week Men’s in the former home and studio of the painter Renzo Bongiovanni Radice",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4jzUPSQ67sXXj4orNU63ZZ-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -228,13 +166,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.23",
-      "title": "These were the best collections of Milan Fashion Week Men’s, from Thom Browne to Prada",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-mens-ss-2027",
-      "excerpt": "As menswear month reaches its halfway point, read Wallpaper’s pick of the standouts from the Italian fashion capital",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xktjVNbRzMtypoJwBrXJaZ-1800-80.jpg",
+      "title": "Casa TA / Estudio Felipe Escudero",
+      "url": "https://www.archdaily.com/1042208/casa-ta-estudio-felipe-escudero",
+      "excerpt": "Casa TA begins with a roof. Not a slab, not a plane; a ribbon of white concrete that folds, narrows, and overlaps itself with a logic closer to origami than to conventional construction. Its sharp edg",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a22/a4df/d2d3/6e00/0102/f1f5/large_jpg/DSC_9363.jpg?1780655365",
       "today": true
     },
     {
@@ -257,24 +195,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Aaltos' Paimio Sanatorium set to be turned into \"future-oriented\" hotel by Snøhetta",
-      "url": "https://www.dezeen.com/2026/06/23/aaltos-paimio-sanatorium-set-to-be-turned-into-future-oriented-hotel-by-snohetta/",
-      "excerpt": "Architecture studio Snøhetta has released images of its vision for a hotel in Aino and Alvar Aalto's iconic 1930s sanatorium in Paimio, Finland, which will include turning patient rooms into bedrooms.",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Other Circle seeks inspiration in \"creative culture as a whole\"",
-      "url": "https://www.dezeen.com/2026/06/23/other-circle-inspiration-creative-culture-copenhagen/",
-      "excerpt": "The second edition of design exhibition Other Circle in Copenhagen showcased pieces by a wide variety of brands and designers, ranging from Claude AI to emerging Norwegian talents and buzzy smaller st",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -282,15 +202,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
       "excerpt": "Designed as a mixed-use destination anchored by infrastructure, public space, and wellness focused workplaces, CIBC SQUARE reconnects Toronto's downtown core to its waterfront through a major new civi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/7e52/6c38/4816/a744/20c0/large_jpg/cibc-square-wilkinsoneyre_8.jpg?1782152801",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "\"There has not been cultural change as a result of Grenfell\" says ARB CEO Hugh Simpson",
-      "url": "https://www.dezeen.com/2026/06/23/hugh-simpson-arb-interview/",
-      "excerpt": "Necessary cultural change within the construction industry is still yet to happen nine years on from the devastating Grenfell Tower fire, the man in charge of the UK architects' regulator tells Dezeen",
       "today": true
     },
     {
@@ -344,33 +255,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "designed for overstimulated minds, this wearable device shifts visuals with brain activity",
-      "url": "https://www.designboom.com/technology/designed-for-overstimulated-minds-this-wearable-device-shift-visuals-with-brain-activity/",
-      "excerpt": "eeg device lize integrates neuro sensing into minimal form   LIZE is a conceptual wearable device designed to support mental health by responding to the user’s brain activity. Excessive exposure to di",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/465768/2026-03-24/designed-for-overstimulated-minds-lize-ar-glasses-shift-visuals-with-brain-activity-1-69c2a0cdbb0cd.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Graham Foundation Announces 54 Grants for Individuals Exploring Architecture Through Research and Creative Practice",
-      "url": "https://www.archdaily.com/1042684/graham-foundation-announces-54-grants-for-individuals-exploring-architecture-through-research-and-creative-practice",
-      "excerpt": "The Graham Foundation has announced the recipients of its 2026 Grants to Individuals program, awarding a total of $506,000 to 54 projects that investigate architecture through exhibitions, films, publ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/50a1/6c38/4816/a744/230f/large_jpg/graham-foundation-announces-54-grants-for-individuals-exploring-architecture-through-research-film-exhibitions-and-publications_1.jpg?1782206646",
-      "today": true
-    },
-    {
       "source": "YAMAGIWA",
       "cat": "新製品",
       "date": "2026.06.23",
       "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
       "url": "https://www.yamagiwa.co.jp/news/79613/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
     },
     {
@@ -529,7 +419,6 @@ window.LUMINO_DATA = {
       "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
       "url": "https://www.yamagiwa.co.jp/news/78558/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
