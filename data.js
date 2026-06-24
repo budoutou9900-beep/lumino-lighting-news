@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  18:48",
+  "fetchedAt": "2026.06.24  20:44",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "久留米ファン": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,57 +45,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "武蔵野美術大学": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "武蔵野美術大学": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "パナソニック": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -107,15 +103,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.24",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -197,6 +184,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Crosby Studios outfits World Cup exhibition in New York with bright-green carpet",
+      "url": "https://www.dezeen.com/2026/06/24/crosby-studios-new-york-home-of-football-air-afrique-exhibition/",
+      "excerpt": "Local design outfit Crosby Studios has designed a pop-up exhibition space during the 2026 FIFA World Cup underneath New York's High Line that contains football memorabilia such as Pelé's 1958 World Cu",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -252,6 +248,16 @@ window.LUMINO_DATA = {
       "title": "Emirati language and culture centre among projects from Ajman University",
       "url": "https://www.dezeen.com/2026/06/24/emirati-language-and-culture-centre-among-projects-from-ajman-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a language and culture centre informed by Emirati courtyards and barjeel wind towers is among the interior design projects from Ajman University. Also featured are offices for fas",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Casa Daia Bungalows / UNA Barbara e Valentim",
+      "url": "https://www.archdaily.com/1042725/casa-daia-bungalows-una-barbara-e-valentim",
+      "excerpt": "In Barra dos Remédios, on the west coast of Ceará, four modular timber bungalows demonstrate that industrialized construction and high-quality architecture can coexist and respond precisely to an ecol",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/3946/54d7/6a00/01cc/6b5d/large_jpg/VC20251028_DSF7208-.jpg?1782266227",
       "today": true
     },
     {
@@ -323,15 +329,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Gaudí's lesser-known gothic buildings",
-      "url": "https://www.dezeen.com/2026/06/24/gaudi-lesser-known-gothic-buildings/",
-      "excerpt": "Antoni Gaudí is much-lauded for his tile-covered natural forms, but his castle-like, neo-gothic works get much less attention. Concluding our Gaudí Centenary series, we look at the five least Gaudí-es",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -379,16 +376,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042685/el-arca-residential-pavilion-mallol",
       "excerpt": "The site is located at over 2,000 meters above sea level on the slopes of Volcán Barú, in a highland region celebrated for the production of Geisha coffee—one of the most exclusive specialty coffee va",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/5ae8/6c38/4816/a744/2369/large_jpg/el-arca-residential-pavilion-mallol_16.jpg?1782209276",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "“Art Is Not Fiction, but a Surplus Reality:” Pedro Reyes on Sculpture as Social Practice in Louisiana Channel Interview",
-      "url": "https://www.archdaily.com/1042723/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-practice-in-louisiana-channel-interview",
-      "excerpt": "Mexican sculptor Pedro Reyes has developed a multidisciplinary practice that spans sculpture, architecture, social engagement, and activism. Trained as an architect, Reyes approaches sculpture as both",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/aad8/8576/0e01/8921/c4ec/large_jpg/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-transformation-in-louisiana-channel-interview_4.jpg?1782295271",
       "today": true
     },
     {
