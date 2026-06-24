@@ -1,93 +1,81 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  10:19",
+  "fetchedAt": "2026.06.24  13:15",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "トラベルボイス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "ウェザーニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "函館市公式観光サイト": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "久留米ファン": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "高松経済新聞": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "武蔵野美術大学": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "武蔵野美術大学": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "大光電機": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "DNライティング": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -102,72 +90,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "トラベルボイス",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "兵庫県姫路市、姫路城ライトアップと連動するイルミネーション、世界遺産登録30周年で",
+      "url": "https://www.travelvoice.jp/20231124-154637",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://www.travelvoice.jp/wp-content/uploads/2023/11/65a3ddbe-bbe4-43c8-9a9c-505d78f63264.jpg",
       "today": true
     },
     {
-      "source": "Newscast.jp",
+      "source": "ウェザーニュース",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "東山スカイタワー 冬のライトアップ",
+      "url": "https://weathernews.jp/illumi/spot/3202032/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "函館市公式観光サイト",
+      "cat": "国内情報",
+      "date": "2026.06.24",
+      "title": "湯の川冬の灯り",
+      "url": "https://www.hakobura.jp/events/155",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.hakobura.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM1MzUsInB1ciI6ImJsb2JfaWQifX0=--feedeeabc54fe2231c4b6df68f117677f926b29b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTAyNCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--75eb20f0126afb7070d4ba36c24ce15eafe14cd2/%E2%80%BB%E5%87%BD%E9%A4%A8%E6%96%B0%E8%81%9E%E7%A4%BE%E6%92%AE%E5%BD%B1%E2%80%BB%20%E6%B9%AF%E3%81%AE%E5%B7%9D%E5%86%AC%E3%81%AE%E7%81%AF%E3%82%8A%20(8).JPG",
+      "today": true
+    },
+    {
+      "source": "ウェザーニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "鶴岡冬まつりライトアップ - イルミネーション情報【2025-2026】",
+      "url": "https://weathernews.jp/illumi/spot/1502002/",
+      "excerpt": "",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "板橋キャンパス構内にてイルミネーションのライトアップを開始しました - teikyo-u.ac.jp",
+      "url": "https://www.teikyo-u.ac.jp/topics/2022/1130-1",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://www.teikyo-u.ac.jp/application/files/8516/6977/1073/news_20221201_21.jpg",
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "title": "Saxum outdoor tiles by Casalgrande Padana",
+      "url": "https://www.dezeen.com/2026/06/24/saxum-outdoor-tiles-casalgrande-padana-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian tile brand Casalgrande Padana celebrates the natural beauty and charming irregularity of natural stone with its Saxum outdoor tiles. The Saxum porcelain stoneware tiles come i",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "‘The Other Side’ is an exhibition of graphic responses to the ten years following Brexit",
+      "url": "https://www.wallpaper.com/design-interiors/visual-comms/the-other-side-ten-years-after-the-referendum",
+      "excerpt": "Curated by GraphicDesign& and designed by LucienneRoberts+, ‘The Other Side: Ten Years after the Referendum’ features ten creative responses to post-Brexit Britain",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKCjP86VuLm5BV7s4m3Z7K-2560-80.jpg",
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
+      "title": "Tate Modern restores Frida Kahlo to her rightful place in art history",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/tate-modern-frida-kahlo-review",
+      "excerpt": "In a major new exhibition, ‘Frida: The Making of an Icon’, Kahlo’s work is presented alongside that of her peers and later artists influenced by her legacy",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HHSg5L2EbJkaiFY8syVQeP.gif",
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "we+ explores craft and digital fabrication through material intelligence",
+      "url": "https://www.designboom.com/design/we-plus-craft-digital-fabrication-material-intelligence-interview/",
+      "excerpt": "in an interview with designboom, we+ explains explains how making becomes a way of learning through materials.\nThe post we+ explores craft and digital fabrication through material intelligence appeare",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/we-plus-materials-craft-interview-so-colored-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Hello Wood transforms abandoned railway site in Zurich with \"indoor-outdoor cultural hub\"",
+      "url": "https://www.dezeen.com/2026/06/24/remise-rosa-hello-wood/",
+      "excerpt": "Architecture studio Hello Wood has completed Remise Rosa, a colourful dining and events complex built from cross-laminated timber on a former railway freight yard in Switzerland. Located in Zurich Wes",
       "today": true
     },
     {
@@ -248,21 +265,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "\"The serpent is something that provides protection\" says Lanza Atelier",
-      "url": "https://www.dezeen.com/2026/06/24/lanza-atelier-2026-serpentine-pavilion-video-interview/",
-      "excerpt": "Mexican studio Lanza Atelier drew on contrasting British and Mesoamerican interpretations of the serpent when designing this year's Serpentine Pavilion, said the architects in an exclusive video inter",
+      "title": "Casa Meyra / Di Frenna Arquitectos",
+      "url": "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
+      "excerpt": "Casa Meyra is an exploration of restraint. A house that, without expanding in an overt way, finds in volumetry and materiality the tools to build depth, character, and a clear presence from the outsid",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69c5/5712/d139/4600/01de/92ba/large_jpg/1._Casa_Meyra.jpg?1774540631",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "Secessionist references weave through Vienna's Wilde aparthotel",
-      "url": "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
-      "excerpt": "Interior design studio Stephanie Barba Mendoza looked to Vienna's artistic past to devise the communal spaces of this aparthotel, which takes over a 19th-century post office in the Austrian capital. T",
+      "title": "Park Reimagines the Interiors of Milano Centrale, Mussolini's Fascist-Era Rail Monument",
+      "url": "https://www.archdaily.com/1042709/park-reimagines-the-interiors-of-milano-centrale-mussolinis-fascist-era-rail-monument",
+      "excerpt": "Milano Centrale is the main train station in northern Italy and the second-largest station in Italy behind Roma Termini. The building was officially opened on July 1, 1931, replacing the city's first ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/e544/8576/0e01/8921/c1bb/large_jpg/milano-centrale_5.jpg?1782244756",
       "today": true
     },
     {
@@ -314,56 +333,6 @@ window.LUMINO_DATA = {
       "excerpt": "The project is situated in Hapjeong-dong, a vital urban node where northwestern Seoul's cultural and commercial districts—Hongdae, Sangsu, and Mangwon—intersect. Anchored by the presence of UNStudio's",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/322f/54d7/6a00/01cc/6977/large_jpg/ad03.jpg?1782198940",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "brick chambers and cavernous passages shape this ‘anthill’ house in india",
-      "url": "https://www.designboom.com/architecture/brick-chambers-anthill-house-india-kaushal-tatiya/",
-      "excerpt": "kaushal tatiya architects designs 'the anthill', translating the thermal intelligence of insect-built mounds into a brick house.\nThe post brick chambers and cavernous passages shape this ‘anthill’ hou",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kaushal-tatiya-architects-anthill-ahilyanagar-maharashtra-india-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "New Era Rural Community in Yongchun County / 3andwich Design / He Wei Studio",
-      "url": "https://www.archdaily.com/1001055/new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio",
-      "excerpt": "Project OriginIn 2019, in order to improve the housing conditions of farmers, meet their aspirations for a better life, and explore the possibility of building new Fujian style residential buildings, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6463/635f/8085/d358/c8da/7641/large_jpg/not-ready-new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio_1.jpg?1684235114",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Pit garden in Passive House / D Environmental Design System Laboratory",
-      "url": "https://www.archdaily.com/1042650/pit-garden-in-passive-house-d-environmental-design-system-laboratory",
-      "excerpt": "In the 21st century, the ancient pit dwelling is transformed into a \"pit garden.\" In the \"pit garden,\" the sun's heat replaces the fire to provide warmth in winter and the night breezes to cool the ho",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/26cf/54d7/6a00/01cc/6905/large_jpg/01-inside_view_of_pit_garden01.jpg?1782130427",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "No Roman holiday is complete without this new guide to the city’s modern architecture",
-      "url": "https://www.wallpaper.com/architecture/modern-rome-map-blue-crow-media",
-      "excerpt": "Modern Rome is the newest publication from Blue Crow Media’s growing collection of architectural city guides and detailed maps. We take a tour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZRbHFuwKdNhznZmB9MNn8M-1800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Ikea wants you to play with its new furniture",
-      "url": "https://www.wallpaper.com/design-interiors/ikea-ps-2026-play-furniture",
-      "excerpt": "Discover the new Ikea Play collection: 44 designs led by playful functionality now available to buy and enjoy",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F8NhJGToWZgLXAev28cYQL-1920-80.png",
-      "today": false
     },
     {
       "source": "YAMAGIWA",
