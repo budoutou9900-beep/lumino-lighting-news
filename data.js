@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  02:45",
+  "fetchedAt": "2026.06.24  06:43",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "久留米ファン": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,53 +45,60 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "武蔵野美術大学": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "武蔵野美術大学": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
-    {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
-      "date": "2026.06.24",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
-      "excerpt": "",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -103,23 +110,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.06.24",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -133,6 +129,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.24",
@@ -140,6 +146,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -153,21 +178,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Vitrocsa's headquarters embodies \"precision, innovation and transparency\"",
+      "url": "https://www.dezeen.com/2026/06/24/vitrocsa-new-headquarters-switzerland-architecture/",
+      "excerpt": "Promotion: Swiss brand Vitrocsa's new headquarters in Switzerland has been completed, spotlighting the brand's signature minimal window system in practice. Following 18 months of construction, the sit",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Brutalist and modernist references unite in a house that challenges suburban living",
+      "url": "https://www.wallpaper.com/architecture/residential/brutalism-modernism-glenblaith-australia",
+      "excerpt": "In Victoria, Australia, Glenblaith is an unorthodox residence balancing concrete and curves that slowly unveil a secret garden",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BoKyTiHHkZ79dH6Tj3o8J6-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "floating rings of light redraw space in SpY’s kinetic spatial installation",
+      "url": "https://www.designboom.com/art/floating-rings-light-space-spy-kinetic-spatial-installation-cycles-n2/",
+      "excerpt": "fifteen rings shift vertically through space within a choreographed system of movement, light, and sound.\nThe post floating rings of light redraw space in SpY’s kinetic spatial installation appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/cycles-n2-suspended-kinetic-installation-spy-fifteen-rings-kazan-designboom-1200.jpg",
       "today": true
     },
     {
@@ -179,6 +234,26 @@ window.LUMINO_DATA = {
       "excerpt": "kaushal tatiya architects designs 'the anthill', translating the thermal intelligence of insect-built mounds into a brick house.\nThe post brick chambers and cavernous passages shape this ‘anthill’ hou",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kaushal-tatiya-architects-anthill-ahilyanagar-maharashtra-india-designboom-FB.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "New Era Rural Community in Yongchun County / 3andwich Design / He Wei Studio",
+      "url": "https://www.archdaily.com/1001055/new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio",
+      "excerpt": "Project OriginIn 2019, in order to improve the housing conditions of farmers, meet their aspirations for a better life, and explore the possibility of building new Fujian style residential buildings, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6463/635f/8085/d358/c8da/7641/large_jpg/not-ready-new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio_1.jpg?1684235114",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "from loewe to bottega veneta, luxury brands invest in craft beyond the product",
+      "url": "https://www.designboom.com/art/loewe-bottega-veneta-luxury-brands-craft-product/",
+      "excerpt": "from global craft prizes to apprenticeship programs and artisan workshops, luxury brands are funding the infrastructure that allows traditional making to survive.\nThe post from loewe to bottega veneta",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/loewe-bottega-veneta-luxury-brands-craft-product-designboom-1200.jpg",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -288,16 +363,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Thom Browne on his ‘A Bug’s Life’-inspired Milan show",
-      "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-ss-2026-menswear-show-interview",
-      "excerpt": "Expect the unexpected from the American designer, who at Milan Fashion Week yesterday (22 June 2026) looked to the 1998 Disney film to inspire a collection which played out amid 400 seersucker plant p",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XaredXCdUYtNjoJtc6Udy3-1800-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -317,25 +382,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Bastiaan Jongerius Architecten cloaks Longhouse Farm with black timber and metal",
-      "url": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/",
-      "excerpt": "Dutch studio Bastiaan Jongerius Architecten has transformed a 1970s farmhouse outside Amsterdam, extending its timber structure and updating its exterior with black-metal panels and charred wood. Name",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "a swooping facade line reinterprets suburban split-level homes in new jersey",
-      "url": "https://www.designboom.com/architecture/swooping-facade-line-suburban-split-level-homes-new-jersey-out-of-line-swoop-adu/",
-      "excerpt": "the facade drapes, swoops, and folds across openings.\nThe post a swooping facade line reinterprets suburban split-level homes in new jersey appeared first on designboom | architecture & design magazin",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/out-of-line-swoop-adu-south-orange-new-jersey-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -346,23 +392,33 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
+      "source": "YAMAGIWA",
+      "cat": "新製品",
       "date": "2026.06.23",
-      "title": "NOT A STUDIO uses color-coded structure to open up century-old barcelona apartment",
-      "url": "https://www.designboom.com/architecture/itsnotastudio-color-coded-structure-century-old-barcelona-apartment/",
-      "excerpt": "a 36-square-meter apartment in sarrià sheds decades of partitions to reveal its original structure, using color to reinterpret a century-old interior.\nThe post NOT A STUDIO uses color-coded structure ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/itsnotastudio-original-volume-century-old-barcelona-apartment-color-coded-structure-designboom-1200.jpg",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
-      "source": "ArchDaily",
+      "source": "LPA",
       "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "The Ecological Intelligence of Sacred Landscapes",
-      "url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
-      "excerpt": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as em",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     },
     {
@@ -376,6 +432,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -383,6 +449,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -416,6 +492,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "展示・アート",
       "date": "2026.06.03",
@@ -433,6 +538,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -503,6 +628,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
