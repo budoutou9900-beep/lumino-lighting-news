@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  16:14",
+  "fetchedAt": "2026.06.24  18:48",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術館・アート情報": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "高松経済新聞": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,7 +49,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -103,20 +103,19 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.06.24",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
@@ -189,13 +188,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Dior’s Jonathan Anderson on why he chose a historic Parisian museum for his Fred Again-soundtracked menswear show",
+      "url": "https://www.wallpaper.com/fashion-beauty/dior-ss-2027-menswear-jonathan-anderson-show-set-fred-again",
+      "excerpt": "‘It’s about juxtaposing the historic and the contemporary and bringing Fred Again’s music into this typically quiet place,’ says the designer, who presented his  S/S 2027 menswear collection this morn",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BaPvVQzkvBucA3gGciFvmH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Custom furniture created for Azteca Stadium's interior revamp",
+      "url": "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
+      "excerpt": "A group of local designers have showcased a custom furniture collection as part of an overall overhaul of the interiors at Mexico City's Azteca Stadium, one of the venues for the 2026 FIFA World Cup. ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "1887 by André is an ostentatious and whimsical addition to Raffles Singapore",
+      "url": "https://www.wallpaper.com/travel/restaurants/1887-by-andre-raffles-singapore-review",
+      "excerpt": "The anticipated restaurant is not only a homecoming for chef André Chiang, but also a Bill Bensley-designed setting primed for showcasing maximalist creations",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eWtj9YKa2xkVbYhrjS6GZd-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Freelander: reborn as a 4x4 brand in its own right and coming soon to a showroom near you",
+      "url": "https://www.wallpaper.com/transportation/freelander-standalone-brand",
+      "excerpt": "Land Rover’s Freelander model has spawned a standalone brand, developed – and built – in collaboration with China’s Chery",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pEgJS377QBRaJvszf6fieH-2560-80.jpg",
       "today": true
     },
     {
@@ -257,13 +294,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "Tate Modern restores Frida Kahlo to her rightful place in art history",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/tate-modern-frida-kahlo-review",
-      "excerpt": "In a major new exhibition, ‘Frida: The Making of an Icon’, Kahlo’s work is presented alongside that of her peers and later artists influenced by her legacy",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HHSg5L2EbJkaiFY8syVQeP.gif",
+      "title": "Prado Park / Edgar Mazo + CONNATURAL",
+      "url": "https://www.archdaily.com/1042721/prado-park-edgar-mazo-plus-connatural",
+      "excerpt": "\"In the neighborhoods of Aranjuez, a district in the northeastern part of the city of Medellín, street life unfolds not only on a base plane of various curvatures, well contained by the embossed walls",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a36/38b7/54d7/6a00/01cc/67d9/large_jpg/26-La_vida_en_el_jardin_Isaac_Ram_rez.jpg?1781938428",
       "today": true
     },
     {
@@ -315,15 +352,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Curves and colours transform Indian home into \"sculptural installation\"",
-      "url": "https://www.dezeen.com/2026/06/24/villa-corsica-neel-buddhadev-mumbai-india/",
-      "excerpt": "Local architect Neel Buddhadev has completed Villa Corsica, a house in suburban Mumbai defined by curved walls and bold colours that was designed in response to the city's tropical climate. The 280-sq",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -331,26 +359,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/student-exhibition-bratislava-home-memory-sound-projection-dwelling-architecture-design-stu/",
       "excerpt": "four modular units structure fragmented interior readings.\nThe post student exhibition in bratislava reframes home through memory, sound and projection appeared first on designboom | architecture & de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/dwelling-research-exhibition-students-faculty-architecture-design-stu-bratislava-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Morgan teams up with Pininfarina to take the handcrafted sports car to new heights",
-      "url": "https://www.wallpaper.com/transportation/morgan-teams-up-with-pininfarina-to-take-the-handcrafted-sports-car-to-new-heights",
-      "excerpt": "The Morgan Midsummer Coupé is an exceptional special project, a run of nine unique customer cars that’ll take this venerable manufacturer to new levels of bespoke creativity",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/URZxSkNYyiVjhVvuZ9mSTe-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Surf’s up! The story behind Pharrell Williams’ tidal wave set for Louis Vuitton",
-      "url": "https://www.wallpaper.com/fashion-beauty/louis-vuitton-ss-2027-set-pharrell-williams",
-      "excerpt": "The design was the backdrop for the S/S 2027 collection, which was inspired by international surfing communities",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/E3vNa36fJRBEUoN9dgip38-1920-80.jpg",
       "today": true
     },
     {
@@ -381,16 +389,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042723/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-practice-in-louisiana-channel-interview",
       "excerpt": "Mexican sculptor Pedro Reyes has developed a multidisciplinary practice that spans sculpture, architecture, social engagement, and activism. Trained as an architect, Reyes approaches sculpture as both",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/aad8/8576/0e01/8921/c4ec/large_jpg/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-transformation-in-louisiana-channel-interview_4.jpg?1782295271",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Casa Meyra / Di Frenna Arquitectos",
-      "url": "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
-      "excerpt": "Casa Meyra is an exploration of restraint. A house that, without expanding in an overt way, finds in volumetry and materiality the tools to build depth, character, and a clear presence from the outsid",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69c5/5712/d139/4600/01de/92ba/large_jpg/1._Casa_Meyra.jpg?1774540631",
       "today": true
     },
     {
