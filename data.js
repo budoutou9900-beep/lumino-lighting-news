@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.23  23:05",
+  "fetchedAt": "2026.06.24  02:45",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "北千住経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -37,19 +37,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -84,9 +84,18 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.06.24",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -94,28 +103,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.23",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "北千住経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
-      "url": "https://adachi.keizai.biz/headline/662/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -125,7 +115,7 @@ window.LUMINO_DATA = {
     {
       "source": "Newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -135,7 +125,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -143,9 +133,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -155,7 +155,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -164,19 +164,20 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.06.23",
+      "date": "2026.06.24",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.06.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "brick chambers and cavernous passages shape this ‘anthill’ house in india",
+      "url": "https://www.designboom.com/architecture/brick-chambers-anthill-house-india-kaushal-tatiya/",
+      "excerpt": "kaushal tatiya architects designs 'the anthill', translating the thermal intelligence of insect-built mounds into a brick house.\nThe post brick chambers and cavernous passages shape this ‘anthill’ hou",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kaushal-tatiya-architects-anthill-ahilyanagar-maharashtra-india-designboom-FB.jpg",
       "today": true
     },
     {
@@ -186,7 +187,17 @@ window.LUMINO_DATA = {
       "title": "RAMSA completes sensitive extension of New York Historical museum",
       "url": "https://www.dezeen.com/2026/06/23/tang-wing-american-democracy-new-york-city-ramsa/",
       "excerpt": "Architecture studio Robert AM Stern Architects has completed an extension to the New York Historical museum in New York informed by the building's original design from the early 1900s. The Tang Wing f",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.23",
+      "title": "Pit garden in Passive House / D Environmental Design System Laboratory",
+      "url": "https://www.archdaily.com/1042650/pit-garden-in-passive-house-d-environmental-design-system-laboratory",
+      "excerpt": "In the 21st century, the ancient pit dwelling is transformed into a \"pit garden.\" In the \"pit garden,\" the sun's heat replaces the fire to provide warmth in winter and the night breezes to cool the ho",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/26cf/54d7/6a00/01cc/6905/large_jpg/01-inside_view_of_pit_garden01.jpg?1782130427",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -195,7 +206,7 @@ window.LUMINO_DATA = {
       "title": "Readers say \"there's no such thing as an AI artist\" in this week's Dezeen Debate",
       "url": "https://www.dezeen.com/2026/06/23/hotel-attraction-renders-gaudi-centenary-dezeen-debate/",
       "excerpt": "The latest Dezeen Debate newsletter features renders of architect Antoni Gaudí's speculative New York hotel by AI artist Thierry Lechanteur. Subscribe to Dezeen Debate now. AI artist Thierry Lechanteu",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -204,7 +215,7 @@ window.LUMINO_DATA = {
       "title": "Space4Architects transforms Brooklyn warehouse into residence",
       "url": "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
       "excerpt": "Local studio Space4Architecture has converted a warehouse in Brooklyn into a residence with a double-height living space and a black-painted facade. Located on a 2,500-square-foot (232-square-metre) i",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -214,7 +225,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/modern-rome-map-blue-crow-media",
       "excerpt": "Modern Rome is the newest publication from Blue Crow Media’s growing collection of architectural city guides and detailed maps. We take a tour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZRbHFuwKdNhznZmB9MNn8M-1800-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -224,7 +235,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/concrete-beech-flexible-learning-spaces-school-social-hub-slovenia-hotic-educational-complex-geoplan/",
       "excerpt": "geoplan's hotič educational complex brings together education, recreation, and civic life, redefining the village school as a shared social center.\nThe post concrete and beech shape flexible learning ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hotic-educational-complex-geoplan-primary-school-kindergarten-community-facilities-social-center-slovenia-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -234,7 +245,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/ikea-ps-2026-play-furniture",
       "excerpt": "Discover the new Ikea Play collection: 44 designs led by playful functionality now available to buy and enjoy",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F8NhJGToWZgLXAev28cYQL-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -244,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/rana-begum-webb-yates-installation-lfa-2026-uk",
       "excerpt": "Artist Rana Begum and engineer Steve Webb of Webb Yates unveil a sculpture in central London in response to the 2026 London Festival of Architecture theme of ‘Belonging’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4PbQYbk44SuPNVx7DFRSBU-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -254,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/live/paris-fashion-week-mens-ss-2027",
       "excerpt": "From 23-28 June, the S/S 2027 edition of Paris Fashion Week Men’s takes place in the French capital. Here, get your first look at the shows, presentations and parties, as well as our runway reviews, r",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YWDJ6nh9EtyrM5ovC9u8RM-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -264,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/commodore-callback-8020-y2k-flip-phone-t9-texting-no-social-media/",
       "excerpt": "with its keypad, chiptune sounds, and limited social apps, callback 8020 brings an alternative to the always-on smartphone.\nThe post commodore’s Y2K-style flip phone has T9 texting, maps, and music, b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/commodore-callback-8020-flip-phone-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -274,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042665/kh-house-ngstudio",
       "excerpt": "The proposal seeks to strike a balance between architecture, landscape, and materials, with the view of the reservoir as the central element. Inspired by vernacular architecture, the project highlight",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/ee2a/54d7/6a00/01cc/65c9/large_jpg/NG_Studio_-_Piracaia-049__4_.jpg?1781722880",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -284,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-ss-2026-menswear-show-interview",
       "excerpt": "Expect the unexpected from the American designer, who at Milan Fashion Week yesterday (22 June 2026) looked to the 1998 Disney film to inspire a collection which played out amid 400 seersucker plant p",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XaredXCdUYtNjoJtc6Udy3-1800-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -293,7 +304,7 @@ window.LUMINO_DATA = {
       "title": "Bosque seating by Lawson Fenning",
       "url": "https://www.dezeen.com/2026/06/23/bosque-seating-lawson-fenning-design-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: US studio Lawson Fenning looked to Japan's 1960s Metabolism design movement when designing this seating range, which features a low, grounded sofa and chairs. \"Bosque started with thi",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -303,7 +314,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042208/casa-ta-estudio-felipe-escudero",
       "excerpt": "Casa TA begins with a roof. Not a slab, not a plane; a ribbon of white concrete that folds, narrows, and overlaps itself with a logic closer to origami than to conventional construction. Its sharp edg",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a22/a4df/d2d3/6e00/0102/f1f5/large_jpg/DSC_9363.jpg?1780655365",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -312,7 +323,7 @@ window.LUMINO_DATA = {
       "title": "Bastiaan Jongerius Architecten cloaks Longhouse Farm with black timber and metal",
       "url": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/",
       "excerpt": "Dutch studio Bastiaan Jongerius Architecten has transformed a 1970s farmhouse outside Amsterdam, extending its timber structure and updating its exterior with black-metal panels and charred wood. Name",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -322,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/swooping-facade-line-suburban-split-level-homes-new-jersey-out-of-line-swoop-adu/",
       "excerpt": "the facade drapes, swoops, and folds across openings.\nThe post a swooping facade line reinterprets suburban split-level homes in new jersey appeared first on designboom | architecture & design magazin",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/out-of-line-swoop-adu-south-orange-new-jersey-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -332,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
       "excerpt": "Designed as a mixed-use destination anchored by infrastructure, public space, and wellness focused workplaces, CIBC SQUARE reconnects Toronto's downtown core to its waterfront through a major new civi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/7e52/6c38/4816/a744/20c0/large_jpg/cibc-square-wilkinsoneyre_8.jpg?1782152801",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -342,17 +353,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/itsnotastudio-color-coded-structure-century-old-barcelona-apartment/",
       "excerpt": "a 36-square-meter apartment in sarrià sheds decades of partitions to reveal its original structure, using color to reinterpret a century-old interior.\nThe post NOT A STUDIO uses color-coded structure ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/itsnotastudio-original-volume-century-old-barcelona-apartment-color-coded-structure-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "mediclinics’ u-flow hand dryer merges ergonomics with unlimited color customization",
-      "url": "https://www.designboom.com/design/mediclinics-u-flow-hand-dryer-ergonomic-color-customization/",
-      "excerpt": "mediclinics’ u-flow® offers infinite color adaptability to match the visual language of any contemporary interior. \nThe post mediclinics’ u-flow hand dryer merges ergonomics with unlimited color custo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/mediclinics_designboom_facebook.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -362,17 +363,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
       "excerpt": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as em",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Hangzhou Prism / OMA",
-      "url": "https://www.archdaily.com/1042657/hangzhou-prism-oma",
-      "excerpt": "OMA's design for Xinhu Hangzhou Prism is integrated into the beauty of the surrounding natural landscape. The complex will house a hotel, retail space, lofts, and an atrium garden. Hangzhou, the capit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/45ff/6c38/4816/a744/2005/large_jpg/hangzhou-prism-oma_3.jpg?1782138402",
-      "today": true
+      "today": false
     },
     {
       "source": "武蔵野美術大学",
