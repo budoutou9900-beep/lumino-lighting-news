@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  06:43",
+  "fetchedAt": "2026.06.24  10:19",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,73 +29,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "オズモール": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "高松経済新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "designboom": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ArchDaily": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "LPA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "武蔵野美術大学": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "武蔵野美術大学": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -107,15 +99,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.24",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -159,15 +142,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.06.24",
@@ -178,11 +152,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
       "today": true
     },
@@ -200,9 +174,105 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.24",
-      "title": "Vitrocsa's headquarters embodies \"precision, innovation and transparency\"",
-      "url": "https://www.dezeen.com/2026/06/24/vitrocsa-new-headquarters-switzerland-architecture/",
-      "excerpt": "Promotion: Swiss brand Vitrocsa's new headquarters in Switzerland has been completed, spotlighting the brand's signature minimal window system in practice. Following 18 months of construction, the sit",
+      "title": "Gaudí's lesser-known gothic buildings",
+      "url": "https://www.dezeen.com/2026/06/24/gaudi-lesser-known-gothic-buildings/",
+      "excerpt": "Antoni Gaudí is much-lauded for his tile-covered natural forms, but his castle-like, neo-gothic works get much less attention. Concluding our Gaudí Centenary series, we look at the five least Gaudí-es",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "the digital vernacular: reframing AI as an unexpected ally for local heritage",
+      "url": "https://www.designboom.com/architecture/ai-ally-local-heritage-room-for-dreams-podcast/",
+      "excerpt": "the second episode of room for dreams explores the digital vernacular and the elusive fourth dimension that software simply cannot replicate.\nThe post the digital vernacular: reframing AI as an unexpe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/facebook-02.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Curves and colours transform Indian home into \"sculptural installation\"",
+      "url": "https://www.dezeen.com/2026/06/24/villa-corsica-neel-buddhadev-mumbai-india/",
+      "excerpt": "Local architect Neel Buddhadev has completed Villa Corsica, a house in suburban Mumbai defined by curved walls and bold colours that was designed in response to the city's tropical climate. The 280-sq",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "student exhibition in bratislava reframes home through memory, sound and projection",
+      "url": "https://www.designboom.com/art/student-exhibition-bratislava-home-memory-sound-projection-dwelling-architecture-design-stu/",
+      "excerpt": "four modular units structure fragmented interior readings.\nThe post student exhibition in bratislava reframes home through memory, sound and projection appeared first on designboom | architecture & de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/dwelling-research-exhibition-students-faculty-architecture-design-stu-bratislava-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "a crashing wave rolls into paris as pharrell turns louis vuitton’s runway into a coastline",
+      "url": "https://www.designboom.com/design/crashing-wave-rolls-paris-pharrell-louis-vuitton-runway-coastline/",
+      "excerpt": "a monumental water installation brings an artificial shoreline on the runway, linking the latest menswear collection to surf culture and the brand’s environmental commitments.\nThe post a crashing wave",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/crashing-wave-rolls-paris-pharrell-louis-vuitton-runway-coastline-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Royal Copenhagen brings Arje Griegst's \"unapologetically expressive\" Triton dinnerware back to life",
+      "url": "https://www.dezeen.com/2026/06/24/royal-copenhagen-arje-griegst-triton-dinnerware-3-days-of-design/",
+      "excerpt": "Historic Danish porcelain manufacturer Royal Copenhagen has revived key pieces from its 1970s Triton dinnerware collection, unveiled as part of a cabinet of curiosities-style installation at 3 Days of",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Morgan teams up with Pininfarina to take the handcrafted sports car to new heights",
+      "url": "https://www.wallpaper.com/transportation/morgan-teams-up-with-pininfarina-to-take-the-handcrafted-sports-car-to-new-heights",
+      "excerpt": "The Morgan Midsummer Coupé is an exceptional special project, a run of nine unique customer cars that’ll take this venerable manufacturer to new levels of bespoke creativity",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/URZxSkNYyiVjhVvuZ9mSTe-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Surf’s up! The story behind Pharrell Williams’ tidal wave set for Louis Vuitton",
+      "url": "https://www.wallpaper.com/fashion-beauty/louis-vuitton-ss-2027-set-pharrell-williams",
+      "excerpt": "The design was the backdrop for the S/S 2027 collection, which was inspired by international surfing communities",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/E3vNa36fJRBEUoN9dgip38-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "\"The serpent is something that provides protection\" says Lanza Atelier",
+      "url": "https://www.dezeen.com/2026/06/24/lanza-atelier-2026-serpentine-pavilion-video-interview/",
+      "excerpt": "Mexican studio Lanza Atelier drew on contrasting British and Mesoamerican interpretations of the serpent when designing this year's Serpentine Pavilion, said the architects in an exclusive video inter",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Secessionist references weave through Vienna's Wilde aparthotel",
+      "url": "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
+      "excerpt": "Interior design studio Stephanie Barba Mendoza looked to Vienna's artistic past to devise the communal spaces of this aparthotel, which takes over a 19th-century post office in the Austrian capital. T",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Function Follows Form: Designing Adaptive Buildings That Outlast Their Original Use",
+      "url": "https://www.archdaily.com/1042664/function-follows-form-designing-adaptive-buildings-that-outlast-their-original-use",
+      "excerpt": "With forty-eight psychogeriatric beds and sixty-eight wheelchair-accessible apartments, accommodation for informal caregivers, and space for bedside care, the De Keyzer building opened in Amsterdam in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/8a5c/8576/0e01/8921/bd37/large_jpg/open-building-and-architecture-as-a-structure-of-possibilities_2.jpg?1782155888",
       "today": true
     },
     {
@@ -226,6 +296,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "The Dip Pavilion / andblack design studio",
+      "url": "https://www.archdaily.com/1042695/the-dip-pavilion-andblack-design-studio",
+      "excerpt": "The Dip Pavilion is conceived as an elemental architectural intervention within an existing residential landscape. Designed primarily for evening use alongside a swimming pool, the pavilion negotiates",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/9426/6c38/4816/a744/245c/large_jpg/the-dip-pavilion-andblack-design-studio_3.jpg?1782223940",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Hapjeong Artplex Mixed-use Facility / NOTNOT Architects",
+      "url": "https://www.archdaily.com/1042675/hapjeong-artplex-mixed-use-facility-notnot-architects",
+      "excerpt": "The project is situated in Hapjeong-dong, a vital urban node where northwestern Seoul's cultural and commercial districts—Hongdae, Sangsu, and Mangwon—intersect. Anchored by the presence of UNStudio's",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/322f/54d7/6a00/01cc/6977/large_jpg/ad03.jpg?1782198940",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -246,25 +336,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "from loewe to bottega veneta, luxury brands invest in craft beyond the product",
-      "url": "https://www.designboom.com/art/loewe-bottega-veneta-luxury-brands-craft-product/",
-      "excerpt": "from global craft prizes to apprenticeship programs and artisan workshops, luxury brands are funding the infrastructure that allows traditional making to survive.\nThe post from loewe to bottega veneta",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/loewe-bottega-veneta-luxury-brands-craft-product-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "RAMSA completes sensitive extension of New York Historical museum",
-      "url": "https://www.dezeen.com/2026/06/23/tang-wing-american-democracy-new-york-city-ramsa/",
-      "excerpt": "Architecture studio Robert AM Stern Architects has completed an extension to the New York Historical museum in New York informed by the building's original design from the early 1900s. The Tang Wing f",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -272,24 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042650/pit-garden-in-passive-house-d-environmental-design-system-laboratory",
       "excerpt": "In the 21st century, the ancient pit dwelling is transformed into a \"pit garden.\" In the \"pit garden,\" the sun's heat replaces the fire to provide warmth in winter and the night breezes to cool the ho",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/26cf/54d7/6a00/01cc/6905/large_jpg/01-inside_view_of_pit_garden01.jpg?1782130427",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Readers say \"there's no such thing as an AI artist\" in this week's Dezeen Debate",
-      "url": "https://www.dezeen.com/2026/06/23/hotel-attraction-renders-gaudi-centenary-dezeen-debate/",
-      "excerpt": "The latest Dezeen Debate newsletter features renders of architect Antoni Gaudí's speculative New York hotel by AI artist Thierry Lechanteur. Subscribe to Dezeen Debate now. AI artist Thierry Lechanteu",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Space4Architects transforms Brooklyn warehouse into residence",
-      "url": "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
-      "excerpt": "Local studio Space4Architecture has converted a warehouse in Brooklyn into a residence with a double-height living space and a black-painted facade. Located on a 2,500-square-foot (232-square-metre) i",
       "today": false
     },
     {
@@ -303,16 +356,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "concrete and beech shape flexible learning spaces within school and social hub in slovenia",
-      "url": "https://www.designboom.com/architecture/concrete-beech-flexible-learning-spaces-school-social-hub-slovenia-hotic-educational-complex-geoplan/",
-      "excerpt": "geoplan's hotič educational complex brings together education, recreation, and civic life, redefining the village school as a shared social center.\nThe post concrete and beech shape flexible learning ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hotic-educational-complex-geoplan-primary-school-kindergarten-community-facilities-social-center-slovenia-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.23",
@@ -320,75 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/ikea-ps-2026-play-furniture",
       "excerpt": "Discover the new Ikea Play collection: 44 designs led by playful functionality now available to buy and enjoy",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F8NhJGToWZgLXAev28cYQL-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Hot pink and tall, Rana Begum and Webb Yates’ installation in London explores the ‘infinite’",
-      "url": "https://www.wallpaper.com/architecture/rana-begum-webb-yates-installation-lfa-2026-uk",
-      "excerpt": "Artist Rana Begum and engineer Steve Webb of Webb Yates unveil a sculpture in central London in response to the 2026 London Festival of Architecture theme of ‘Belonging’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4PbQYbk44SuPNVx7DFRSBU-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Paris Fashion Week Men’s S/S 2027: live updates from the Wallpaper* team",
-      "url": "https://www.wallpaper.com/fashion-beauty/live/paris-fashion-week-mens-ss-2027",
-      "excerpt": "From 23-28 June, the S/S 2027 edition of Paris Fashion Week Men’s takes place in the French capital. Here, get your first look at the shows, presentations and parties, as well as our runway reviews, r",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YWDJ6nh9EtyrM5ovC9u8RM-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "commodore’s Y2K-style flip phone has T9 texting, maps, and music, but no social media",
-      "url": "https://www.designboom.com/technology/commodore-callback-8020-y2k-flip-phone-t9-texting-no-social-media/",
-      "excerpt": "with its keypad, chiptune sounds, and limited social apps, callback 8020 brings an alternative to the always-on smartphone.\nThe post commodore’s Y2K-style flip phone has T9 texting, maps, and music, b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/commodore-callback-8020-flip-phone-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "KH House / NGSTUDIO",
-      "url": "https://www.archdaily.com/1042665/kh-house-ngstudio",
-      "excerpt": "The proposal seeks to strike a balance between architecture, landscape, and materials, with the view of the reservoir as the central element. Inspired by vernacular architecture, the project highlight",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/ee2a/54d7/6a00/01cc/65c9/large_jpg/NG_Studio_-_Piracaia-049__4_.jpg?1781722880",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Bosque seating by Lawson Fenning",
-      "url": "https://www.dezeen.com/2026/06/23/bosque-seating-lawson-fenning-design-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: US studio Lawson Fenning looked to Japan's 1960s Metabolism design movement when designing this seating range, which features a low, grounded sofa and chairs. \"Bosque started with thi",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "Casa TA / Estudio Felipe Escudero",
-      "url": "https://www.archdaily.com/1042208/casa-ta-estudio-felipe-escudero",
-      "excerpt": "Casa TA begins with a roof. Not a slab, not a plane; a ribbon of white concrete that folds, narrows, and overlaps itself with a logic closer to origami than to conventional construction. Its sharp edg",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a22/a4df/d2d3/6e00/0102/f1f5/large_jpg/DSC_9363.jpg?1780655365",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.23",
-      "title": "CIBC Square / WilkinsonEyre",
-      "url": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
-      "excerpt": "Designed as a mixed-use destination anchored by infrastructure, public space, and wellness focused workplaces, CIBC SQUARE reconnects Toronto's downtown core to its waterfront through a major new civi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/7e52/6c38/4816/a744/20c0/large_jpg/cibc-square-wilkinsoneyre_8.jpg?1782152801",
       "today": false
     },
     {
