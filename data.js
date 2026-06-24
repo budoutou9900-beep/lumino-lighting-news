@@ -1,81 +1,101 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  13:15",
+  "fetchedAt": "2026.06.24  16:14",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "トラベルボイス": {
+    "美術館・アート情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ウェザーニュース": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "函館市公式観光サイト": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "Newscast.jp": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "久留米ファン": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "高松経済新聞": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "武蔵野美術大学": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "武蔵野美術大学": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -83,60 +103,138 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
-      "source": "トラベルボイス",
-      "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "兵庫県姫路市、姫路城ライトアップと連動するイルミネーション、世界遺産登録30周年で",
-      "url": "https://www.travelvoice.jp/20231124-154637",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.travelvoice.jp/wp-content/uploads/2023/11/65a3ddbe-bbe4-43c8-9a9c-505d78f63264.jpg",
-      "today": true
-    },
-    {
-      "source": "ウェザーニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "東山スカイタワー 冬のライトアップ",
-      "url": "https://weathernews.jp/illumi/spot/3202032/",
-      "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
-      "today": true
-    },
-    {
-      "source": "函館市公式観光サイト",
+      "source": "美術館・アート情報",
       "cat": "国内情報",
       "date": "2026.06.24",
-      "title": "湯の川冬の灯り",
-      "url": "https://www.hakobura.jp/events/155",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.hakobura.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM1MzUsInB1ciI6ImJsb2JfaWQifX0=--feedeeabc54fe2231c4b6df68f117677f926b29b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTAyNCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--75eb20f0126afb7070d4ba36c24ce15eafe14cd2/%E2%80%BB%E5%87%BD%E9%A4%A8%E6%96%B0%E8%81%9E%E7%A4%BE%E6%92%AE%E5%BD%B1%E2%80%BB%20%E6%B9%AF%E3%81%AE%E5%B7%9D%E5%86%AC%E3%81%AE%E7%81%AF%E3%82%8A%20(8).JPG",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "鶴岡冬まつりライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/1502002/",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.24",
-      "title": "板橋キャンパス構内にてイルミネーションのライトアップを開始しました - teikyo-u.ac.jp",
-      "url": "https://www.teikyo-u.ac.jp/topics/2022/1130-1",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
-      "thumbnailUrl": "https://www.teikyo-u.ac.jp/application/files/8516/6977/1073/news_20221201_21.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.24",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wasteland",
+      "url": "https://www.designboom.com/architecture/lithium-crystal-mirrored-pink-sauna-sweden-reclaimed-wasteland-bigert-bergstrom/",
+      "excerpt": "bigert & bergström turns reflective geometry into a public bathing space on a once-contaminated riverside site.\nThe post lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/bigert-bergstrom-crystal-sauna-waste-land-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Emirati language and culture centre among projects from Ajman University",
+      "url": "https://www.dezeen.com/2026/06/24/emirati-language-and-culture-centre-among-projects-from-ajman-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a language and culture centre informed by Emirati courtyards and barjeel wind towers is among the interior design projects from Ajman University. Also featured are offices for fas",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "amasa estudio carves patios and millwork into a mid-century home in mexico city",
+      "url": "https://www.designboom.com/architecture/amasa-estudio-patios-millwork-mid-century-home-mexico-city-casa-xoltic/",
+      "excerpt": "social spaces are arranged around a sequence of indoor and outdoor areas.\nThe post amasa estudio carves patios and millwork into a mid-century home in mexico city appeared first on designboom | archit",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/amasa-estudio-casa-xoltic-rehabilitation-mid-century-house-coyoacan-mexico-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Duro is Milan's latest nightlife haunt, a Brutalist nightclub with a Studio 54 spirit",
+      "url": "https://www.wallpaper.com/design-interiors/duro-club-milan",
+      "excerpt": "Welcome to Duro Club, the latest Milanese nightlife opening, set within the Certosa district. Designed by Turin's Velvet Studio, it draws on the Brutalist architecture of the building's industrial pas",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hAaZCe4BWgn6DYqJG2jwAB-2560-80.jpg",
       "today": true
     },
     {
@@ -207,6 +305,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "VE House / Triangular",
+      "url": "https://www.archdaily.com/1041271/ve-house-triangular",
+      "excerpt": "The project is conceived as a second home located along the shores of Lake Rupanco, in the commune of Puerto Octay, in southern Chile. The brief called for a house capable of adapting to varying patte",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69fc/3b96/a59b/8300/01a7/f2a3/large_jpg/CA_VE_01_2880.jpg?1778138027",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -223,25 +331,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/student-exhibition-bratislava-home-memory-sound-projection-dwelling-architecture-design-stu/",
       "excerpt": "four modular units structure fragmented interior readings.\nThe post student exhibition in bratislava reframes home through memory, sound and projection appeared first on designboom | architecture & de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/dwelling-research-exhibition-students-faculty-architecture-design-stu-bratislava-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "a crashing wave rolls into paris as pharrell turns louis vuitton’s runway into a coastline",
-      "url": "https://www.designboom.com/design/crashing-wave-rolls-paris-pharrell-louis-vuitton-runway-coastline/",
-      "excerpt": "a monumental water installation brings an artificial shoreline on the runway, linking the latest menswear collection to surf culture and the brand’s environmental commitments.\nThe post a crashing wave",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/crashing-wave-rolls-paris-pharrell-louis-vuitton-runway-coastline-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Royal Copenhagen brings Arje Griegst's \"unapologetically expressive\" Triton dinnerware back to life",
-      "url": "https://www.dezeen.com/2026/06/24/royal-copenhagen-arje-griegst-triton-dinnerware-3-days-of-design/",
-      "excerpt": "Historic Danish porcelain manufacturer Royal Copenhagen has revived key pieces from its 1970s Triton dinnerware collection, unveiled as part of a cabinet of curiosities-style installation at 3 Days of",
       "today": true
     },
     {
@@ -268,70 +357,40 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.24",
+      "title": "Paris as a Living Laboratory: Proximity, Inclusion, and the School as Climate and Social Infrastructure",
+      "url": "https://www.archdaily.com/1042276/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-climate-and-social-infrastructure",
+      "excerpt": "ReGreeneration is a Horizon Europe-awarded project working across nine cities to advance urban regeneration through nature-based solutions, participatory governance, and integrated approaches to clima",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a27/d5be/325f/9301/8751/07fd/large_jpg/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-urban-infrastructure_2.jpg?1780995522",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "El Arca Residential Pavilion / Mallol",
+      "url": "https://www.archdaily.com/1042685/el-arca-residential-pavilion-mallol",
+      "excerpt": "The site is located at over 2,000 meters above sea level on the slopes of Volcán Barú, in a highland region celebrated for the production of Geisha coffee—one of the most exclusive specialty coffee va",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/5ae8/6c38/4816/a744/2369/large_jpg/el-arca-residential-pavilion-mallol_16.jpg?1782209276",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "“Art Is Not Fiction, but a Surplus Reality:” Pedro Reyes on Sculpture as Social Practice in Louisiana Channel Interview",
+      "url": "https://www.archdaily.com/1042723/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-practice-in-louisiana-channel-interview",
+      "excerpt": "Mexican sculptor Pedro Reyes has developed a multidisciplinary practice that spans sculpture, architecture, social engagement, and activism. Trained as an architect, Reyes approaches sculpture as both",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/aad8/8576/0e01/8921/c4ec/large_jpg/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-transformation-in-louisiana-channel-interview_4.jpg?1782295271",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
       "title": "Casa Meyra / Di Frenna Arquitectos",
       "url": "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
       "excerpt": "Casa Meyra is an exploration of restraint. A house that, without expanding in an overt way, finds in volumetry and materiality the tools to build depth, character, and a clear presence from the outsid",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69c5/5712/d139/4600/01de/92ba/large_jpg/1._Casa_Meyra.jpg?1774540631",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Park Reimagines the Interiors of Milano Centrale, Mussolini's Fascist-Era Rail Monument",
-      "url": "https://www.archdaily.com/1042709/park-reimagines-the-interiors-of-milano-centrale-mussolinis-fascist-era-rail-monument",
-      "excerpt": "Milano Centrale is the main train station in northern Italy and the second-largest station in Italy behind Roma Termini. The building was officially opened on July 1, 1931, replacing the city's first ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/e544/8576/0e01/8921/c1bb/large_jpg/milano-centrale_5.jpg?1782244756",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Function Follows Form: Designing Adaptive Buildings That Outlast Their Original Use",
-      "url": "https://www.archdaily.com/1042664/function-follows-form-designing-adaptive-buildings-that-outlast-their-original-use",
-      "excerpt": "With forty-eight psychogeriatric beds and sixty-eight wheelchair-accessible apartments, accommodation for informal caregivers, and space for bedside care, the De Keyzer building opened in Amsterdam in",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/8a5c/8576/0e01/8921/bd37/large_jpg/open-building-and-architecture-as-a-structure-of-possibilities_2.jpg?1782155888",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Brutalist and modernist references unite in a house that challenges suburban living",
-      "url": "https://www.wallpaper.com/architecture/residential/brutalism-modernism-glenblaith-australia",
-      "excerpt": "In Victoria, Australia, Glenblaith is an unorthodox residence balancing concrete and curves that slowly unveil a secret garden",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BoKyTiHHkZ79dH6Tj3o8J6-2500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "floating rings of light redraw space in SpY’s kinetic spatial installation",
-      "url": "https://www.designboom.com/art/floating-rings-light-space-spy-kinetic-spatial-installation-cycles-n2/",
-      "excerpt": "fifteen rings shift vertically through space within a choreographed system of movement, light, and sound.\nThe post floating rings of light redraw space in SpY’s kinetic spatial installation appeared f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/cycles-n2-suspended-kinetic-installation-spy-fifteen-rings-kazan-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "The Dip Pavilion / andblack design studio",
-      "url": "https://www.archdaily.com/1042695/the-dip-pavilion-andblack-design-studio",
-      "excerpt": "The Dip Pavilion is conceived as an elemental architectural intervention within an existing residential landscape. Designed primarily for evening use alongside a swimming pool, the pavilion negotiates",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/9426/6c38/4816/a744/245c/large_jpg/the-dip-pavilion-andblack-design-studio_3.jpg?1782223940",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Hapjeong Artplex Mixed-use Facility / NOTNOT Architects",
-      "url": "https://www.archdaily.com/1042675/hapjeong-artplex-mixed-use-facility-notnot-architects",
-      "excerpt": "The project is situated in Hapjeong-dong, a vital urban node where northwestern Seoul's cultural and commercial districts—Hongdae, Sangsu, and Mangwon—intersect. Anchored by the presence of UNStudio's",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/322f/54d7/6a00/01cc/6977/large_jpg/ad03.jpg?1782198940",
       "today": true
     },
     {
