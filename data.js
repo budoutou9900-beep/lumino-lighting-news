@@ -1,51 +1,51 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.25  00:05",
+  "fetchedAt": "2026.06.25  05:00",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "Newscast.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -57,77 +57,44 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "武蔵野美術大学": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
-      "date": "2026.06.25",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.25",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.06.25",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.25",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -167,6 +134,65 @@ window.LUMINO_DATA = {
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "A new home for spectacle maker Cubitts is a warm, hybrid and truly 21st-century workspace",
+      "url": "https://www.wallpaper.com/architecture/cubitts-london-uk",
+      "excerpt": "The British eyewear brand’s new HQ in King’s Cross, London, is a 21st-century blend of office, factory and event space, with strong roots in its neighbourhood and a future-facing attitude",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PW9emNs5cS9xjuDiQdeT7k-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "artificial stone produced from recycled textile waste composes a furniture collection",
+      "url": "https://www.designboom.com/design/artificial-stone-recycled-textile-waste-furniture-collection-chromaterico-textile-objects-archeomaterico-chroma-composites/",
+      "excerpt": "discarded, defective, and unsold garments are used as raw material input.\nThe post artificial stone produced from recycled textile waste composes a furniture collection appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/chromaterico-textile-objects-collection-archeomaterico-chroma-composites-artificial-stone-recycled-textile-waste-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -296,16 +322,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "‘The Other Side’ is an exhibition of graphic responses to the ten years following Brexit",
-      "url": "https://www.wallpaper.com/design-interiors/visual-comms/the-other-side-ten-years-after-the-referendum",
-      "excerpt": "Curated by GraphicDesign& and designed by LucienneRoberts+, ‘The Other Side: Ten Years after the Referendum’ features ten creative responses to post-Brexit Britain",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKCjP86VuLm5BV7s4m3Z7K-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -332,16 +348,6 @@ window.LUMINO_DATA = {
       "title": "Hello Wood transforms abandoned railway site in Zurich with \"indoor-outdoor cultural hub\"",
       "url": "https://www.dezeen.com/2026/06/24/remise-rosa-hello-wood/",
       "excerpt": "Architecture studio Hello Wood has completed Remise Rosa, a colourful dining and events complex built from cross-laminated timber on a former railway freight yard in Switzerland. Located in Zurich Wes",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "the digital vernacular: reframing AI as an unexpected ally for local heritage",
-      "url": "https://www.designboom.com/architecture/ai-ally-local-heritage-room-for-dreams-podcast/",
-      "excerpt": "the second episode of room for dreams explores the digital vernacular and the elusive fourth dimension that software simply cannot replicate.\nThe post the digital vernacular: reframing AI as an unexpe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/facebook-02.jpg",
       "today": false
     },
     {
@@ -392,16 +398,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79548/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "武蔵野美術大学",
-      "cat": "展示・アート",
-      "date": "2026.06.17",
-      "title": "まるあかり さんの新作MVがNHK「名曲考察教室」にて放送されます（6/18放送）",
-      "url": "https://www.musabi.ac.jp/news/20260617_03_01/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2024/03/ogp.png",
       "today": false
     },
     {
