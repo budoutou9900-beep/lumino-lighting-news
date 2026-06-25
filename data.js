@@ -1,85 +1,93 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.25  14:14",
+  "fetchedAt": "2026.06.25  17:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Newscast.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "Newscast.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "高松経済新聞": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "Yahoo!ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -87,10 +95,19 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.25",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.06.25",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -172,6 +189,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "A new monograph spotlights Miyako Ishiuchi, photographer of the belongings of Frida Kahlo and Hiroshima victims",
+      "url": "https://www.wallpaper.com/art/photography/miyako-ishiuchi-traces-photography-book",
+      "excerpt": "‘Ishiuchi Miyako: Traces’ offers the most comprehensive account yet of one of the photographer – a visual archivist of memory and loss",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p2r3YxuiahSKSecuet9LKZ-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Cartier announces the emerging watchmakers to know – winners of its prestigious award",
+      "url": "https://www.wallpaper.com/watches-jewellery/cartier-prize-for-watchmaking-talents-of-tomorrow-2026",
+      "excerpt": "The Cartier Prize for Watchmaking Talents of Tomorrow recognises up-and-coming watchmakers and technicians",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F8w9mC832d84T85yo5xD8U-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Native wetland ecosystems in New Orleans among projects from Tulane University",
+      "url": "https://www.dezeen.com/2026/06/25/tulane-university-schoolshow/",
+      "excerpt": "Dezeen School Shows: a native wetland ecosystem for a flood-risked neighbourhood in New Orleans is among the projects from students at Tulane University. Also featured is a permanent solution for scaf",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.25",
@@ -212,13 +268,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "A former railway site in Zurich is now a social hot spot clad in rosy pink timber",
-      "url": "https://www.wallpaper.com/architecture/remise-rosa-zurich-hello-wood",
-      "excerpt": "Budapest studio Hello Wood makes its mark on Zurich with a permanent, hot-pink complex that is part hospitality destination, part architectural statement",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TMd6RSM2BfBEFpAdKP4KSN-2048-80.jpg",
+      "title": "Paso de los Toros House / Juan Carlos Sabbagh Arquitectos",
+      "url": "https://www.archdaily.com/1037734/paso-de-los-toros-house-juan-carlos-sabbagh-arquitectos",
+      "excerpt": "The overall architectural concept of the project was defined by the inherent conditions of the site. Upon arriving at the plot, a series of characteristics became evident, distinguishing it as a parti",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6964/b03f/60cb/5200/01b9/01ad/large_jpg/CP-JCSabbagh-CPasoLosToros-0064.jpg?1768206430",
       "today": true
     },
     {
@@ -231,22 +287,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Airbus’ strange, whale-shaped BelugaST bows out after three decades of service",
-      "url": "https://www.wallpaper.com/transportation/airbus-belugast-aeroscopia-museum-toulouse",
-      "excerpt": "One of aviation’s most recognisable silhouettes has joined Concorde, the Super Guppy and the A380 at Toulouse’s Aeroscopia Museum",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k3uGfZXNz7CUmi2AgyacR7-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.25",
       "title": "Jumbo tidal wave cascades through Louis Vuitton show in Paris",
       "url": "https://www.dezeen.com/2026/06/25/jumbo-tidal-wave-louis-vuitton-menswear-show/",
       "excerpt": "Louis Vuitton creative director Pharrell Williams designed a 37-metre-wide wave structure as the scenography for the French fashion house's Spring Summer 2027 menswear show, which was powered by water",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "HANZA, Business Centre / AEXN Architects",
+      "url": "https://www.archdaily.com/1042279/hanza-business-centre-aexn-architects",
+      "excerpt": "The site is in a culturally and historically rich part of Klaipėda, near the former castle and significant urban landmarks. The architectural vision draws inspiration from the archetype of a Hanza cit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a27/551d/d2d3/6e00/0102/f4b6/large_jpg/Untitled_design__6_.jpg?1780962610",
       "today": true
     },
     {
@@ -268,12 +324,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "Cubitts' first dedicated headquarters take over Victorian stable in King's Cross",
-      "url": "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
-      "excerpt": "British firm 51 Architecture has converted the former stables of a vinegar brewery into a head office for local eyewear brand Cubitts, now home to \"the only spectacle-making workshop in central London",
+      "title": "\"I Don't Separate Architecture and Infrastructure\": Interview With Shohei Shigematsu on OMA's New Museum Addition",
+      "url": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition",
+      "excerpt": "When the New Museum's original SANAA-designed building, a stack of shifted opaque boxes wrapped in a metal mesh skin, opened in 2007, it already seemed destined for some form of expansion to relieve t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/e438/8576/0e01/8921/c1a6/large_jpg/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition_6.jpg?1782244424",
       "today": true
     },
     {
@@ -304,36 +361,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Xplore Agora School Amsterdam / Studio Ard Hoksbergen",
-      "url": "https://www.archdaily.com/1042693/xplore-agora-school-amsterdam-studio-ard-hoksbergen",
-      "excerpt": "Xplore Agora in Amsterdam North is the first school building in the Netherlands designed entirely for Agora education, an educational model without fixed subjects, timetables, or classrooms. Agora lit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/80c1/54d7/6a00/01cc/6a73/large_jpg/Studio_Ard_Hoksbergen_Xplore_02.jpg?1782218976",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "James Turrell's Skyspace and the Opening of the Obama Presidential Center: This Week’s Review",
-      "url": "https://www.archdaily.com/1042752/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review",
-      "excerpt": "From projects and institutions that reinforce the relationship between art and architecture to initiatives seeking new approaches to persistent urban and ecological challenges, this week's development",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/b619/ddd9/3801/8a4a/407a/large_jpg/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review_38.jpg?1782363684",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Barcelona Architecture City Guide: 30 Buildings and Places from Gaudí to Today",
-      "url": "https://www.archdaily.com/918881/23-amazing-places-in-barcelonas-best-architecture-city-guide",
-      "excerpt": "Barcelona is a city where architecture has long served as a laboratory of urban experimentation, each era leaving its mark on the city's fabric. From the dense streets of the Gothic Quarter to the orn",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69b4/1b5b/3c49/4944/8bbc/761e/large_jpg/barcelona-architecture-city-guide-30-buildings-and-places-from-gaudi-to-today_34.jpg?1773411178",
       "today": true
     },
     {
