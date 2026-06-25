@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.25  08:29",
+  "fetchedAt": "2026.06.25  11:38",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -37,23 +37,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,36 +61,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
+    {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.06.25",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -99,16 +96,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.25",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -171,15 +158,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.06.25",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.25",
@@ -190,12 +168,177 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "A former railway site in Zurich is now a social hot spot clad in rosy pink timber",
+      "url": "https://www.wallpaper.com/architecture/remise-rosa-zurich-hello-wood",
+      "excerpt": "Budapest studio Hello Wood makes its mark on Zurich with a permanent, hot-pink complex that is part hospitality destination, part architectural statement",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TMd6RSM2BfBEFpAdKP4KSN-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "nienke hoogvliet on rethinking the true value of materials",
+      "url": "https://www.designboom.com/design/nienke-hoogvliet-rethinking-true-value-materials/",
+      "excerpt": "in this guest essay for designboom, the Dutch 'artivist' relays how her practice rethinks materiality and contemporary production cycles.\nThe post nienke hoogvliet on rethinking the true value of mate",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/nienke-hoogvliet-rethinking-true-value-materials01.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "this mushroom lamp explores mycelium and luffa as composite biomaterial for lighting design",
+      "url": "https://www.designboom.com/design/mushroom-lamp-mycelium-luffa-composite-biomaterial-lighting-design-gourdo/",
+      "excerpt": "combining fungal growth with plant-based fibers, the project examines how these two organic materials can interlock to form a structural and light-filtering material for product design.\nThe post this ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/gourdo-lighting-design-justin-wan-mycelium-luffa-composite-biomaterial-mushroom-justin-wan-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "Ilse Crawford designs pair of lamps for IKEA \"that supports decor rather than dominating it\"",
-      "url": "https://www.dezeen.com/2026/06/25/ilse-crawford-ikea-halgatt-table-lamps/",
-      "excerpt": "Designer Ilse Crawford has created a pair of ceramic and linen lamps for IKEA as the latest piece in a long-running collaboration with the brand. Named Halgatt, the pair of lamps was designed by Crawf",
+      "title": "Anna and Eugeni Bach extends Fonolleres House with porches and pergolas",
+      "url": "https://www.dezeen.com/2026/06/25/fonolleres-house-extension-anna-eugeni-bach-catalan-spain/",
+      "excerpt": "Architecture studio Anna and Eugeni Bach has renovated and extended a holiday home in the medieval village of Fonolleres, Spain, adding a series of porches, pergolas, and terraces to bring daily livin",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Airbus’ strange, whale-shaped BelugaST bows out after three decades of service",
+      "url": "https://www.wallpaper.com/transportation/airbus-belugast-aeroscopia-museum-toulouse",
+      "excerpt": "One of aviation’s most recognisable silhouettes has joined Concorde, the Super Guppy and the A380 at Toulouse’s Aeroscopia Museum",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k3uGfZXNz7CUmi2AgyacR7-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Jumbo tidal wave cascades through Louis Vuitton show in Paris",
+      "url": "https://www.dezeen.com/2026/06/25/jumbo-tidal-wave-louis-vuitton-menswear-show/",
+      "excerpt": "Louis Vuitton creative director Pharrell Williams designed a 37-metre-wide wave structure as the scenography for the French fashion house's Spring Summer 2027 menswear show, which was powered by water",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "exotic and painterly vistas unfold across inkiostro bianco’s fine art wallpapers",
+      "url": "https://www.designboom.com/design/inkiostro-bianco-fine-art-wallpaper/",
+      "excerpt": "gio bressana and karen knorr’s wallpaper turn blank interiors into evocative spaces rich in culture, atmosphere, and artistic depth. \nThe post exotic and painterly vistas unfold across inkiostro bianc",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/inkiostro-bianco_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Ilse Crawford seeks to ‘capture a classic’s qualities’ with her new lamps for Ikea",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/ilse-crawford-ikea-halgatt-table-lamps",
+      "excerpt": "The British designer continues her collaboration with Ikea through a pair of understated table lamps designed to bring 'warmth and life' to a room",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4HERqrsG2bF34z6JTrQpKF-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "\"There's no point hoping that this RIBA presidential election can make much difference\"",
+      "url": "https://www.dezeen.com/2026/06/25/neal-shasore-riba-presidential-election-opinion/",
+      "excerpt": "History suggests that the upcoming election of a new RIBA president will do little to address the issues plaguing UK architects, writes Neal Shasore. It's time for the biennial non-event of the RIBA p",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Adinne chair by Leonardo Rossano for True Design",
+      "url": "https://www.dezeen.com/2026/06/25/adinne-chair-leonardo-rossano-true-design-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: this chair by architect and designer Leonardo Rossano and Italian brand True Design aims to celebrate the human act of hand sketching. Made of solid wood, the Adinne chair has a balan",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "step into frank gehry’s sweeping signature style in a new retrospective",
+      "url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
+      "excerpt": "the porto show exhibits models of the guggenheim bilbao, LUMA arles, the vitra design museum, and other projects that defined the pritzker-prize winning architect's career\nThe post step into frank geh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/gehry-serralves-designboom-09.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Cubitts' first dedicated headquarters take over Victorian stable in King's Cross",
+      "url": "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
+      "excerpt": "British firm 51 Architecture has converted the former stables of a vinegar brewery into a head office for local eyewear brand Cubitts, now home to \"the only spectacle-making workshop in central London",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "hundreds of suspended parachutes by lazerian drift above manchester airport’s terminal",
+      "url": "https://www.designboom.com/art/suspended-parachutes-vibrant-installation-manchester-airport-terminal-lazerian-atmospheric-reflections-north/",
+      "excerpt": "each suspended element incorporates reclaimed murano glass droplets from the original chandeliers, embedding historical material directly into the new composition.\nThe post hundreds of suspended parac",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/atmospheric-reflections-north-suspended-installation-lazerian-manchester-airport-terminal-2-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "In Japan’s Shizuoka prefecture, Woven City is a living laboratory for Toyota’s mobility tech",
+      "url": "https://www.wallpaper.com/transportation/toyota-woven-city-japan",
+      "excerpt": "For the first time, Toyota recently opened the doors to its large-scale experiment into mobility, cross-disciplinary collaboration and new technologies",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/97e55wcs6RncTdPmtnvXrA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "At JW Anderson, a hidden chapter of queer publishing history comes into view",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/jw-anderson-bob-mizer-pictorial-physique-london",
+      "excerpt": "The brand’s London Soho boutique hosts an exhibition of illustrations from Bob Mizer’s Physique Pictorial, the groundbreaking magazine that normalised the male body as a subject of desire",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cCW6Qw6akkHsK6oLLWkrU-1170-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Casa Estudio F36 / Estudio Tecalli",
+      "url": "https://www.archdaily.com/1042728/casa-estudio-f36-estudio-tecalli",
+      "excerpt": "Located in San Cristóbal Tepontla, a locality adjacent to San Pedro Cholula in the Puebla valley, Mexico, this project represents the second intervention by the office in a territory profoundly define",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/3d58/54d7/6a00/01cc/6a4c/large_jpg/EstudioTecalli_F36_AmyBello_2026-18.jpg?1782201736",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Foster + Partners Reveals Agricultural City Master Plan in Southern Oman",
+      "url": "https://www.archdaily.com/1042758/foster-plus-partners-reveals-agricultural-city-master-plan-in-southern-oman",
+      "excerpt": "Foster + Partners, in collaboration with Dar Al-Handasah, has revealed the master plan for Al Najd Agricultural City in Dhofar, southern Oman. Covering approximately 54 million square feet, the develo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e867/3e62/7a01/88a6/1ec8/large_jpg/foster-plus-partners-reveals-agricultural-city-master-plan-in-southern-oman_7.jpg?1782376871",
       "today": true
     },
     {
@@ -209,62 +352,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "This Arctic fishing town may be summer’s most cultured getaway",
-      "url": "https://www.wallpaper.com/travel/nusfjord-lofoten-islands-norway-guide",
-      "excerpt": "Culture has found a stellar playground in Nusfjord, one of Norway’s oldest and most dramatic settlements on the Lofoten archipelago",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/comLQcHqq26zCCrzkPDg7C-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Dramatic atriums define Bangkok shopping centre by Linehouse",
-      "url": "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
-      "excerpt": "Chinese studio Linehouse has designed the interiors for Bangkok's Central Park shopping centre, which are centred around three atriums clad in silver, copper and bronze. Adjacent to Lumpini Park, Thai",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "A new home for spectacle maker Cubitts is a warm, hybrid and truly 21st-century workspace",
-      "url": "https://www.wallpaper.com/architecture/cubitts-london-uk",
-      "excerpt": "The British eyewear brand’s new HQ in King’s Cross, London, is a 21st-century blend of office, factory and event space, with strong roots in its neighbourhood and a future-facing attitude",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PW9emNs5cS9xjuDiQdeT7k-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "artificial stone produced from recycled textile waste composes a furniture collection",
-      "url": "https://www.designboom.com/design/artificial-stone-recycled-textile-waste-furniture-collection-chromaterico-textile-objects-archeomaterico-chroma-composites/",
-      "excerpt": "discarded, defective, and unsold garments are used as raw material input.\nThe post artificial stone produced from recycled textile waste composes a furniture collection appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/chromaterico-textile-objects-collection-archeomaterico-chroma-composites-artificial-stone-recycled-textile-waste-designboom-1200-1.jpg",
+      "title": "Xplore Agora School Amsterdam / Studio Ard Hoksbergen",
+      "url": "https://www.archdaily.com/1042693/xplore-agora-school-amsterdam-studio-ard-hoksbergen",
+      "excerpt": "Xplore Agora in Amsterdam North is the first school building in the Netherlands designed entirely for Agora education, an educational model without fixed subjects, timetables, or classrooms. Agora lit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/80c1/54d7/6a00/01cc/6a73/large_jpg/Studio_Ard_Hoksbergen_Xplore_02.jpg?1782218976",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "El House / Wahana Architects",
-      "url": "https://www.archdaily.com/1042727/el-house-wahana-architects",
-      "excerpt": "More than a residence, El House was conceived as a welcoming oasis for extended family, close friends, and professional colleagues, and was designed to foster connections across generations and relati",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/d5b7/fbad/af01/7e50/d711/large_jpg/el-house-wahana-architects_1.jpg?1782306279",
+      "title": "James Turrell's Skyspace and the Opening of the Obama Presidential Center: This Week’s Review",
+      "url": "https://www.archdaily.com/1042752/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review",
+      "excerpt": "From projects and institutions that reinforce the relationship between art and architecture to initiatives seeking new approaches to persistent urban and ecological challenges, this week's development",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/b619/ddd9/3801/8a4a/407a/large_jpg/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review_38.jpg?1782363684",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "Ferruccio Laviani Designs a Greek Theatre-Inspired Stage for MARA at Salone del Mobile 2026",
-      "url": "https://www.archdaily.com/1042731/ferruccio-laviani-designs-a-greek-theatre-inspired-stage-for-mara-at-salone-del-mobile-2026",
-      "excerpt": "At Salone del Mobile 2026, MARA presented its latest collection within a fair-stand concept designed by Italian architect and designer Ferruccio Laviani. Conceived as a micro-abstraction of an arena, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/e99a/6c38/4816/a744/2a5d/large_jpg/ferruccio-laviani-designs-a-greek-theatre-inspired-stage-for-mara-at-salone-del-mobile-2026_4.jpg?1782311356",
+      "title": "Barcelona Architecture City Guide: 30 Buildings and Places from Gaudí to Today",
+      "url": "https://www.archdaily.com/918881/23-amazing-places-in-barcelonas-best-architecture-city-guide",
+      "excerpt": "Barcelona is a city where architecture has long served as a laboratory of urban experimentation, each era leaving its mark on the city's fabric. From the dense streets of the Gothic Quarter to the orn",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69b4/1b5b/3c49/4944/8bbc/761e/large_jpg/barcelona-architecture-city-guide-30-buildings-and-places-from-gaudi-to-today_34.jpg?1773411178",
       "today": true
     },
     {
@@ -278,173 +392,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Jiangshan Tonglumen Urban Terrace / gad",
-      "url": "https://www.archdaily.com/1042722/jiangshan-tonglumen-urban-terrace-gad",
-      "excerpt": "Jiangshan Tonglumen Urban Terrace is located in the core area of Jiangshan, Zhejiang Province — a waterfront public core integrating a neighborhood center, retail, hospitality, and urban plaza. To the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/a3db/54d7/6a00/01cc/6b6d/large_jpg/24___________________24_Hour_Open_Rooftop_Platform_Photography_Chen_Xi_Studio.jpg?1782293489",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "tom sachs turns ceramic failures into a language of craft throughout salon 94",
-      "url": "https://www.designboom.com/design/tom-sachs-ceramic-failures-craft-salon-94-jj-peet-satan-furniture/",
-      "excerpt": "patched NASA bowls, flower-filled vessels, and wood furniture turn breakage into a visible part of the making process.\nThe post tom sachs turns ceramic failures into a language of craft throughout sal",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/tom-sachs-satan-ceramics-salon94-nyc-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Crosby Studios outfits World Cup exhibition in New York with bright-green carpet",
-      "url": "https://www.dezeen.com/2026/06/24/crosby-studios-new-york-home-of-football-air-afrique-exhibition/",
-      "excerpt": "Local design outfit Crosby Studios has designed a pop-up exhibition space during the 2026 FIFA World Cup underneath New York's High Line that contains football memorabilia such as Pelé's 1958 World Cu",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Curio Residence / Waterfrom Design",
-      "url": "https://www.archdaily.com/1042676/curio-residence-waterfrom-design",
-      "excerpt": "The relationship between our client and us spans more than two decades. Over the years, we were invited to shape three spaces across his life. In 2015, he acquired a fourth property and once again cal",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/3508/54d7/6a00/01cc/699a/large_jpg/2._entrance.jpg?1782199638",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Dior’s Jonathan Anderson on why he chose a historic Parisian museum for his Fred Again-soundtracked menswear show",
-      "url": "https://www.wallpaper.com/fashion-beauty/dior-ss-2027-menswear-jonathan-anderson-show-set-fred-again",
-      "excerpt": "‘It’s about juxtaposing the historic and the contemporary and bringing Fred Again’s music into this typically quiet place,’ says the designer, who presented his  S/S 2027 menswear collection this morn",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BaPvVQzkvBucA3gGciFvmH-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Custom furniture created for Azteca Stadium's interior revamp",
-      "url": "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
-      "excerpt": "A group of local designers have showcased a custom furniture collection as part of an overall overhaul of the interiors at Mexico City's Azteca Stadium, one of the venues for the 2026 FIFA World Cup. ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "1887 by André is an ostentatious and whimsical addition to Raffles Singapore",
-      "url": "https://www.wallpaper.com/travel/restaurants/1887-by-andre-raffles-singapore-review",
-      "excerpt": "The anticipated restaurant is not only a homecoming for chef André Chiang, but also a Bill Bensley-designed setting primed for showcasing maximalist creations",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eWtj9YKa2xkVbYhrjS6GZd-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Freelander: reborn as a 4x4 brand in its own right and coming soon to a showroom near you",
-      "url": "https://www.wallpaper.com/transportation/freelander-standalone-brand",
-      "excerpt": "Land Rover’s Freelander model has spawned a standalone brand, developed – and built – in collaboration with China’s Chery",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pEgJS377QBRaJvszf6fieH-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wasteland",
-      "url": "https://www.designboom.com/architecture/lithium-crystal-mirrored-pink-sauna-sweden-reclaimed-wasteland-bigert-bergstrom/",
-      "excerpt": "bigert & bergström turns reflective geometry into a public bathing space on a once-contaminated riverside site.\nThe post lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/bigert-bergstrom-crystal-sauna-waste-land-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Emirati language and culture centre among projects from Ajman University",
-      "url": "https://www.dezeen.com/2026/06/24/emirati-language-and-culture-centre-among-projects-from-ajman-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a language and culture centre informed by Emirati courtyards and barjeel wind towers is among the interior design projects from Ajman University. Also featured are offices for fas",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Casa Daia Bungalows / UNA Barbara e Valentim",
-      "url": "https://www.archdaily.com/1042725/casa-daia-bungalows-una-barbara-e-valentim",
-      "excerpt": "In Barra dos Remédios, on the west coast of Ceará, four modular timber bungalows demonstrate that industrialized construction and high-quality architecture can coexist and respond precisely to an ecol",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/3946/54d7/6a00/01cc/6b5d/large_jpg/VC20251028_DSF7208-.jpg?1782266227",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "amasa estudio carves patios and millwork into a mid-century home in mexico city",
-      "url": "https://www.designboom.com/architecture/amasa-estudio-patios-millwork-mid-century-home-mexico-city-casa-xoltic/",
-      "excerpt": "social spaces are arranged around a sequence of indoor and outdoor areas.\nThe post amasa estudio carves patios and millwork into a mid-century home in mexico city appeared first on designboom | archit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/amasa-estudio-casa-xoltic-rehabilitation-mid-century-house-coyoacan-mexico-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "we+ explores craft and digital fabrication through material intelligence",
-      "url": "https://www.designboom.com/design/we-plus-craft-digital-fabrication-material-intelligence-interview/",
-      "excerpt": "in an interview with designboom, we+ explains explains how making becomes a way of learning through materials.\nThe post we+ explores craft and digital fabrication through material intelligence appeare",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/we-plus-materials-craft-interview-so-colored-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -452,16 +399,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -495,35 +432,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -531,26 +439,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -621,16 +509,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.05.20",
-      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
-      "url": "https://www.yamagiwa.co.jp/news/76548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
