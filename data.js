@@ -1,89 +1,93 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.25  05:00",
+  "fetchedAt": "2026.06.25  08:29",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Newscast.jp": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "Newscast.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "高松経済新聞": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "LPA": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "岩崎電気": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "IGNANT": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -95,6 +99,16 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -157,6 +171,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.25",
@@ -167,12 +190,41 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.25",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "Ilse Crawford designs pair of lamps for IKEA \"that supports decor rather than dominating it\"",
+      "url": "https://www.dezeen.com/2026/06/25/ilse-crawford-ikea-halgatt-table-lamps/",
+      "excerpt": "Designer Ilse Crawford has created a pair of ceramic and linen lamps for IKEA as the latest piece in a long-running collaboration with the brand. Named Halgatt, the pair of lamps was designed by Crawf",
+      "today": true
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.06.25",
+      "title": "公園・広場・景観照明 - louis poulsen(ルイスポールセン)",
+      "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "This Arctic fishing town may be summer’s most cultured getaway",
+      "url": "https://www.wallpaper.com/travel/nusfjord-lofoten-islands-norway-guide",
+      "excerpt": "Culture has found a stellar playground in Nusfjord, one of Norway’s oldest and most dramatic settlements on the Lofoten archipelago",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/comLQcHqq26zCCrzkPDg7C-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Dramatic atriums define Bangkok shopping centre by Linehouse",
+      "url": "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
+      "excerpt": "Chinese studio Linehouse has designed the interiors for Bangkok's Central Park shopping centre, which are centred around three atriums clad in silver, copper and bronze. Adjacent to Lumpini Park, Thai",
       "today": true
     },
     {
@@ -193,6 +245,46 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/artificial-stone-recycled-textile-waste-furniture-collection-chromaterico-textile-objects-archeomaterico-chroma-composites/",
       "excerpt": "discarded, defective, and unsold garments are used as raw material input.\nThe post artificial stone produced from recycled textile waste composes a furniture collection appeared first on designboom | ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/chromaterico-textile-objects-collection-archeomaterico-chroma-composites-artificial-stone-recycled-textile-waste-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "El House / Wahana Architects",
+      "url": "https://www.archdaily.com/1042727/el-house-wahana-architects",
+      "excerpt": "More than a residence, El House was conceived as a welcoming oasis for extended family, close friends, and professional colleagues, and was designed to foster connections across generations and relati",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/d5b7/fbad/af01/7e50/d711/large_jpg/el-house-wahana-architects_1.jpg?1782306279",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Ferruccio Laviani Designs a Greek Theatre-Inspired Stage for MARA at Salone del Mobile 2026",
+      "url": "https://www.archdaily.com/1042731/ferruccio-laviani-designs-a-greek-theatre-inspired-stage-for-mara-at-salone-del-mobile-2026",
+      "excerpt": "At Salone del Mobile 2026, MARA presented its latest collection within a fair-stand concept designed by Italian architect and designer Ferruccio Laviani. Conceived as a micro-abstraction of an arena, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/e99a/6c38/4816/a744/2a5d/large_jpg/ferruccio-laviani-designs-a-greek-theatre-inspired-stage-for-mara-at-salone-del-mobile-2026_4.jpg?1782311356",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.06.25",
+      "title": "納入事例にオフィス・ショールーム物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Jiangshan Tonglumen Urban Terrace / gad",
+      "url": "https://www.archdaily.com/1042722/jiangshan-tonglumen-urban-terrace-gad",
+      "excerpt": "Jiangshan Tonglumen Urban Terrace is located in the core area of Jiangshan, Zhejiang Province — a waterfront public core integrating a neighborhood center, retail, hospitality, and urban plaza. To the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/a3db/54d7/6a00/01cc/6b6d/large_jpg/24___________________24_Hour_Open_Rooftop_Platform_Photography_Chen_Xi_Studio.jpg?1782293489",
       "today": true
     },
     {
@@ -303,35 +395,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Duro is Milan's latest nightlife haunt, a Brutalist nightclub with a Studio 54 spirit",
-      "url": "https://www.wallpaper.com/design-interiors/duro-club-milan",
-      "excerpt": "Welcome to Duro Club, the latest Milanese nightlife opening, set within the Certosa district. Designed by Turin's Velvet Studio, it draws on the Brutalist architecture of the building's industrial pas",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hAaZCe4BWgn6DYqJG2jwAB-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Saxum outdoor tiles by Casalgrande Padana",
-      "url": "https://www.dezeen.com/2026/06/24/saxum-outdoor-tiles-casalgrande-padana-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Italian tile brand Casalgrande Padana celebrates the natural beauty and charming irregularity of natural stone with its Saxum outdoor tiles. The Saxum porcelain stoneware tiles come i",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Prado Park / Edgar Mazo + CONNATURAL",
-      "url": "https://www.archdaily.com/1042721/prado-park-edgar-mazo-plus-connatural",
-      "excerpt": "\"In the neighborhoods of Aranjuez, a district in the northeastern part of the city of Medellín, street life unfolds not only on a base plane of various curvatures, well contained by the embossed walls",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a36/38b7/54d7/6a00/01cc/67d9/large_jpg/26-La_vida_en_el_jardin_Isaac_Ram_rez.jpg?1781938428",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.24",
@@ -339,35 +402,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/we-plus-craft-digital-fabrication-material-intelligence-interview/",
       "excerpt": "in an interview with designboom, we+ explains explains how making becomes a way of learning through materials.\nThe post we+ explores craft and digital fabrication through material intelligence appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/we-plus-materials-craft-interview-so-colored-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Hello Wood transforms abandoned railway site in Zurich with \"indoor-outdoor cultural hub\"",
-      "url": "https://www.dezeen.com/2026/06/24/remise-rosa-hello-wood/",
-      "excerpt": "Architecture studio Hello Wood has completed Remise Rosa, a colourful dining and events complex built from cross-laminated timber on a former railway freight yard in Switzerland. Located in Zurich Wes",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "VE House / Triangular",
-      "url": "https://www.archdaily.com/1041271/ve-house-triangular",
-      "excerpt": "The project is conceived as a second home located along the shores of Lake Rupanco, in the commune of Puerto Octay, in southern Chile. The brief called for a house capable of adapting to varying patte",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69fc/3b96/a59b/8300/01a7/f2a3/large_jpg/CA_VE_01_2880.jpg?1778138027",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "Paris as a Living Laboratory: Proximity, Inclusion, and the School as Climate and Social Infrastructure",
-      "url": "https://www.archdaily.com/1042276/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-climate-and-social-infrastructure",
-      "excerpt": "ReGreeneration is a Horizon Europe-awarded project working across nine cities to advance urban regeneration through nature-based solutions, participatory governance, and integrated approaches to clima",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a27/d5be/325f/9301/8751/07fd/large_jpg/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-urban-infrastructure_2.jpg?1780995522",
       "today": false
     },
     {
@@ -487,16 +521,6 @@ window.LUMINO_DATA = {
       "title": "学生オープンデスク受付中",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "展示・アート",
-      "date": "2026.06.03",
-      "title": "納入事例に美術館・博物館・スポーツ物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
