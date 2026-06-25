@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.25  19:52",
+  "fetchedAt": "2026.06.25  21:27",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -199,6 +199,15 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.25",
+      "title": "Meta's first in-house AI glasses designs include a Kylie Jenner collaboration",
+      "url": "https://www.dezeen.com/2026/06/25/meta-glasses-smart-ai-kylie-jenner/",
+      "excerpt": "Technology company Meta has released its first in-house-designed AI smart glasses, which the company has touted as more affordable and ergonomic than its previous versions. The Meta Glasses line encom",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.25",
       "title": "Dezeen Agenda features a mesh-covered Miami building by Snøhetta",
       "url": "https://www.dezeen.com/2026/06/25/snohetta-miami-design-district-sweetbird-north-dezeen-debate/",
       "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features Snøhetta's designs for a mesh-covered office building in Miami. Subscribe to Dezeen Agenda now. Architecture studio Snøhetta revealed",
@@ -299,15 +308,6 @@ window.LUMINO_DATA = {
       "title": "Anna and Eugeni Bach extends Fonolleres House with porches and pergolas",
       "url": "https://www.dezeen.com/2026/06/25/fonolleres-house-extension-anna-eugeni-bach-catalan-spain/",
       "excerpt": "Architecture studio Anna and Eugeni Bach has renovated and extended a holiday home in the medieval village of Fonolleres, Spain, adding a series of porches, pergolas, and terraces to bring daily livin",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Jumbo tidal wave cascades through Louis Vuitton show in Paris",
-      "url": "https://www.dezeen.com/2026/06/25/jumbo-tidal-wave-louis-vuitton-menswear-show/",
-      "excerpt": "Louis Vuitton creative director Pharrell Williams designed a 37-metre-wide wave structure as the scenography for the French fashion house's Spring Summer 2027 menswear show, which was powered by water",
       "today": true
     },
     {
