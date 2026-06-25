@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.24  22:12",
+  "fetchedAt": "2026.06.25  00:05",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "るるぶWeb": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "久留米ファン": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,52 +45,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "武蔵野美術大学": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "武蔵野美術大学": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
     {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.06.25",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.06.24",
+      "date": "2026.06.25",
       "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
       "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
@@ -98,38 +111,49 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "date": "2026.06.25",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "date": "2026.06.25",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
-      "source": "るるぶWeb",
+      "source": "Newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "【2ページ目】福島県のおすすめイルミネーション&雪まつりのライトアップ（2025-2026）",
-      "url": "https://rurubu.jp/andmore/article/5064?page=2",
+      "date": "2026.06.25",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
-      "thumbnailUrl": "https://rurubu.jp/img_srw/andmore/images/0000722221/l_yUdyTQ4avznYhn6gDGpf1GBPcmJKcMFIPdn6H0tR.jpg",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.25",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
       "today": true
     },
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.06.24",
+      "date": "2026.06.25",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -137,33 +161,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
+      "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "date": "2026.06.25",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.24",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -174,7 +177,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/tom-sachs-ceramic-failures-craft-salon-94-jj-peet-satan-furniture/",
       "excerpt": "patched NASA bowls, flower-filled vessels, and wood furniture turn breakage into a visible part of the making process.\nThe post tom sachs turns ceramic failures into a language of craft throughout sal",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/tom-sachs-satan-ceramics-salon94-nyc-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -183,7 +186,17 @@ window.LUMINO_DATA = {
       "title": "Crosby Studios outfits World Cup exhibition in New York with bright-green carpet",
       "url": "https://www.dezeen.com/2026/06/24/crosby-studios-new-york-home-of-football-air-afrique-exhibition/",
       "excerpt": "Local design outfit Crosby Studios has designed a pop-up exhibition space during the 2026 FIFA World Cup underneath New York's High Line that contains football memorabilia such as Pelé's 1958 World Cu",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.24",
+      "title": "Curio Residence / Waterfrom Design",
+      "url": "https://www.archdaily.com/1042676/curio-residence-waterfrom-design",
+      "excerpt": "The relationship between our client and us spans more than two decades. Over the years, we were invited to shape three spaces across his life. In 2015, he acquired a fourth property and once again cal",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/3508/54d7/6a00/01cc/699a/large_jpg/2._entrance.jpg?1782199638",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -193,7 +206,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/dior-ss-2027-menswear-jonathan-anderson-show-set-fred-again",
       "excerpt": "‘It’s about juxtaposing the historic and the contemporary and bringing Fred Again’s music into this typically quiet place,’ says the designer, who presented his  S/S 2027 menswear collection this morn",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BaPvVQzkvBucA3gGciFvmH-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -202,7 +215,7 @@ window.LUMINO_DATA = {
       "title": "Custom furniture created for Azteca Stadium's interior revamp",
       "url": "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
       "excerpt": "A group of local designers have showcased a custom furniture collection as part of an overall overhaul of the interiors at Mexico City's Azteca Stadium, one of the venues for the 2026 FIFA World Cup. ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -212,7 +225,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/1887-by-andre-raffles-singapore-review",
       "excerpt": "The anticipated restaurant is not only a homecoming for chef André Chiang, but also a Bill Bensley-designed setting primed for showcasing maximalist creations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eWtj9YKa2xkVbYhrjS6GZd-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -222,7 +235,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/freelander-standalone-brand",
       "excerpt": "Land Rover’s Freelander model has spawned a standalone brand, developed – and built – in collaboration with China’s Chery",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pEgJS377QBRaJvszf6fieH-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -232,7 +245,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/lithium-crystal-mirrored-pink-sauna-sweden-reclaimed-wasteland-bigert-bergstrom/",
       "excerpt": "bigert & bergström turns reflective geometry into a public bathing space on a once-contaminated riverside site.\nThe post lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/bigert-bergstrom-crystal-sauna-waste-land-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -241,7 +254,7 @@ window.LUMINO_DATA = {
       "title": "Emirati language and culture centre among projects from Ajman University",
       "url": "https://www.dezeen.com/2026/06/24/emirati-language-and-culture-centre-among-projects-from-ajman-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a language and culture centre informed by Emirati courtyards and barjeel wind towers is among the interior design projects from Ajman University. Also featured are offices for fas",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -251,7 +264,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042725/casa-daia-bungalows-una-barbara-e-valentim",
       "excerpt": "In Barra dos Remédios, on the west coast of Ceará, four modular timber bungalows demonstrate that industrialized construction and high-quality architecture can coexist and respond precisely to an ecol",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/3946/54d7/6a00/01cc/6b5d/large_jpg/VC20251028_DSF7208-.jpg?1782266227",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -261,7 +274,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/amasa-estudio-patios-millwork-mid-century-home-mexico-city-casa-xoltic/",
       "excerpt": "social spaces are arranged around a sequence of indoor and outdoor areas.\nThe post amasa estudio carves patios and millwork into a mid-century home in mexico city appeared first on designboom | archit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/amasa-estudio-casa-xoltic-rehabilitation-mid-century-house-coyoacan-mexico-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -271,7 +284,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/duro-club-milan",
       "excerpt": "Welcome to Duro Club, the latest Milanese nightlife opening, set within the Certosa district. Designed by Turin's Velvet Studio, it draws on the Brutalist architecture of the building's industrial pas",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hAaZCe4BWgn6DYqJG2jwAB-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -280,7 +293,7 @@ window.LUMINO_DATA = {
       "title": "Saxum outdoor tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/06/24/saxum-outdoor-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian tile brand Casalgrande Padana celebrates the natural beauty and charming irregularity of natural stone with its Saxum outdoor tiles. The Saxum porcelain stoneware tiles come i",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -290,7 +303,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/visual-comms/the-other-side-ten-years-after-the-referendum",
       "excerpt": "Curated by GraphicDesign& and designed by LucienneRoberts+, ‘The Other Side: Ten Years after the Referendum’ features ten creative responses to post-Brexit Britain",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKCjP86VuLm5BV7s4m3Z7K-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -300,7 +313,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042721/prado-park-edgar-mazo-plus-connatural",
       "excerpt": "\"In the neighborhoods of Aranjuez, a district in the northeastern part of the city of Medellín, street life unfolds not only on a base plane of various curvatures, well contained by the embossed walls",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a36/38b7/54d7/6a00/01cc/67d9/large_jpg/26-La_vida_en_el_jardin_Isaac_Ram_rez.jpg?1781938428",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -310,7 +323,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/we-plus-craft-digital-fabrication-material-intelligence-interview/",
       "excerpt": "in an interview with designboom, we+ explains explains how making becomes a way of learning through materials.\nThe post we+ explores craft and digital fabrication through material intelligence appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/we-plus-materials-craft-interview-so-colored-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -319,7 +332,7 @@ window.LUMINO_DATA = {
       "title": "Hello Wood transforms abandoned railway site in Zurich with \"indoor-outdoor cultural hub\"",
       "url": "https://www.dezeen.com/2026/06/24/remise-rosa-hello-wood/",
       "excerpt": "Architecture studio Hello Wood has completed Remise Rosa, a colourful dining and events complex built from cross-laminated timber on a former railway freight yard in Switzerland. Located in Zurich Wes",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -329,7 +342,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ai-ally-local-heritage-room-for-dreams-podcast/",
       "excerpt": "the second episode of room for dreams explores the digital vernacular and the elusive fourth dimension that software simply cannot replicate.\nThe post the digital vernacular: reframing AI as an unexpe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/facebook-02.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -339,7 +352,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1041271/ve-house-triangular",
       "excerpt": "The project is conceived as a second home located along the shores of Lake Rupanco, in the commune of Puerto Octay, in southern Chile. The brief called for a house capable of adapting to varying patte",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69fc/3b96/a59b/8300/01a7/f2a3/large_jpg/CA_VE_01_2880.jpg?1778138027",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -349,17 +362,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042276/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-climate-and-social-infrastructure",
       "excerpt": "ReGreeneration is a Horizon Europe-awarded project working across nine cities to advance urban regeneration through nature-based solutions, participatory governance, and integrated approaches to clima",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a27/d5be/325f/9301/8751/07fd/large_jpg/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-urban-infrastructure_2.jpg?1780995522",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.24",
-      "title": "El Arca Residential Pavilion / Mallol",
-      "url": "https://www.archdaily.com/1042685/el-arca-residential-pavilion-mallol",
-      "excerpt": "The site is located at over 2,000 meters above sea level on the slopes of Volcán Barú, in a highland region celebrated for the production of Geisha coffee—one of the most exclusive specialty coffee va",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/5ae8/6c38/4816/a744/2369/large_jpg/el-arca-residential-pavilion-mallol_16.jpg?1782209276",
-      "today": true
+      "today": false
     },
     {
       "source": "YAMAGIWA",
@@ -636,16 +639,6 @@ window.LUMINO_DATA = {
       "date": "2026.05.14",
       "title": "LED照明器具 突入電流一覧表の更新",
       "url": "https://www.iwasaki.co.jp/lighting/led/inrush/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "新製品",
-      "date": "2026.05.11",
-      "title": "イベント情報 - 第6回 自治体DX展 - 自治体・公共Week 2026",
-      "url": "https://www.iwasaki.co.jp/NEWS/event/2026/publicweek.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
