@@ -1,67 +1,67 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.25  11:38",
+  "fetchedAt": "2026.06.25  14:14",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "Newscast.jp": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "久留米ファン": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "高松経済新聞": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
+    "Wallpaper*": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
     "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Dezeen": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -69,33 +69,28 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
-      "date": "2026.06.25",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.25",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
@@ -180,30 +175,50 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.25",
+      "title": "Leica SL3-P is an enhanced and upgraded L-Mount camera for full-frame image-making",
+      "url": "https://www.wallpaper.com/tech/leica-sl3-p-full-frame-camera-review",
+      "excerpt": "Introducing the Leica SL3-P, the latest in the SL-System of full-frame cameras, along with two new high-quality lenses",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RAgggde38EFg3VEh4BK2x7-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Amble wants to slow down your journey and turn lightweight mobility into an experience",
+      "url": "https://www.wallpaper.com/transportation/amble-wants-to-slow-down-your-journey-and-turn-lightweight-mobility-into-an-experience",
+      "excerpt": "Welcome to the Amble One, a road legal electric buggy designed for beach trips, far flung resorts and a slower, more appreciative pace of life",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zvanzdbpcLz9mjBbMa8jUF-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "IGNANT",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "The Art of Flowers: In Conversation with Carolin Ruggaber",
+      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
+      "excerpt": "The post The Art of Flowers: In Conversation with Carolin Ruggaber appeared first on IGNANT.",
+      "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
+      "title": "Louis Vuitton Beauty’s latest launch will transform your everyday beauty routine",
+      "url": "https://www.wallpaper.com/fashion-beauty/louis-vuitton-beauty-launches-lip-liner",
+      "excerpt": "The LV Crayon is formulated with peptides and long-lasting pigments to plump and shape lips, making it the beauty essential you didn’t know you needed",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NctHiUsrpGkn9TWSMCKXTQ-2560-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.25",
       "title": "A former railway site in Zurich is now a social hot spot clad in rosy pink timber",
       "url": "https://www.wallpaper.com/architecture/remise-rosa-zurich-hello-wood",
       "excerpt": "Budapest studio Hello Wood makes its mark on Zurich with a permanent, hot-pink complex that is part hospitality destination, part architectural statement",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TMd6RSM2BfBEFpAdKP4KSN-2048-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "nienke hoogvliet on rethinking the true value of materials",
-      "url": "https://www.designboom.com/design/nienke-hoogvliet-rethinking-true-value-materials/",
-      "excerpt": "in this guest essay for designboom, the Dutch 'artivist' relays how her practice rethinks materiality and contemporary production cycles.\nThe post nienke hoogvliet on rethinking the true value of mate",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/nienke-hoogvliet-rethinking-true-value-materials01.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "this mushroom lamp explores mycelium and luffa as composite biomaterial for lighting design",
-      "url": "https://www.designboom.com/design/mushroom-lamp-mycelium-luffa-composite-biomaterial-lighting-design-gourdo/",
-      "excerpt": "combining fungal growth with plant-based fibers, the project examines how these two organic materials can interlock to form a structural and light-filtering material for product design.\nThe post this ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/gourdo-lighting-design-justin-wan-mycelium-luffa-composite-biomaterial-mushroom-justin-wan-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -235,26 +250,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "exotic and painterly vistas unfold across inkiostro bianco’s fine art wallpapers",
-      "url": "https://www.designboom.com/design/inkiostro-bianco-fine-art-wallpaper/",
-      "excerpt": "gio bressana and karen knorr’s wallpaper turn blank interiors into evocative spaces rich in culture, atmosphere, and artistic depth. \nThe post exotic and painterly vistas unfold across inkiostro bianc",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/inkiostro-bianco_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "Ilse Crawford seeks to ‘capture a classic’s qualities’ with her new lamps for Ikea",
-      "url": "https://www.wallpaper.com/design-interiors/lighting/ilse-crawford-ikea-halgatt-table-lamps",
-      "excerpt": "The British designer continues her collaboration with Ikea through a pair of understated table lamps designed to bring 'warmth and life' to a room",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4HERqrsG2bF34z6JTrQpKF-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.25",
@@ -273,52 +268,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "step into frank gehry’s sweeping signature style in a new retrospective",
-      "url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
-      "excerpt": "the porto show exhibits models of the guggenheim bilbao, LUMA arles, the vitra design museum, and other projects that defined the pritzker-prize winning architect's career\nThe post step into frank geh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/gehry-serralves-designboom-09.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.25",
       "title": "Cubitts' first dedicated headquarters take over Victorian stable in King's Cross",
       "url": "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
       "excerpt": "British firm 51 Architecture has converted the former stables of a vinegar brewery into a head office for local eyewear brand Cubitts, now home to \"the only spectacle-making workshop in central London",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "hundreds of suspended parachutes by lazerian drift above manchester airport’s terminal",
-      "url": "https://www.designboom.com/art/suspended-parachutes-vibrant-installation-manchester-airport-terminal-lazerian-atmospheric-reflections-north/",
-      "excerpt": "each suspended element incorporates reclaimed murano glass droplets from the original chandeliers, embedding historical material directly into the new composition.\nThe post hundreds of suspended parac",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/atmospheric-reflections-north-suspended-installation-lazerian-manchester-airport-terminal-2-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "In Japan’s Shizuoka prefecture, Woven City is a living laboratory for Toyota’s mobility tech",
-      "url": "https://www.wallpaper.com/transportation/toyota-woven-city-japan",
-      "excerpt": "For the first time, Toyota recently opened the doors to its large-scale experiment into mobility, cross-disciplinary collaboration and new technologies",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/97e55wcs6RncTdPmtnvXrA-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "At JW Anderson, a hidden chapter of queer publishing history comes into view",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/jw-anderson-bob-mizer-pictorial-physique-london",
-      "excerpt": "The brand’s London Soho boutique hosts an exhibition of illustrations from Bob Mizer’s Physique Pictorial, the groundbreaking magazine that normalised the male body as a subject of desire",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cCW6Qw6akkHsK6oLLWkrU-1170-80.jpg",
       "today": true
     },
     {
@@ -392,6 +347,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -399,6 +394,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -432,6 +437,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -439,6 +473,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -509,6 +563,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
