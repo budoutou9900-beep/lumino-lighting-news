@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.26  18:28",
+  "fetchedAt": "2026.06.26  20:43",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,15 +41,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -204,6 +204,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "five hand-painted cars fill joshua vides’ monochromatic garage at the petersen",
+      "url": "https://www.designboom.com/art/five-hand-painted-cars-joshua-vides-monochromatic-garage-petersen-automotive-museum-flat-out/",
+      "excerpt": "'flat out' turns car culture into a graphic space, with every seam, shadow and tire tread pulled into the artist's black-and-white linework.\nThe post five hand-painted cars fill joshua vides’ monochro",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/joshua-vides-flat-out-exhibition-petersen-automotive-museum-los-angeles-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.26",
@@ -268,6 +278,16 @@ window.LUMINO_DATA = {
       "title": "Social housing centre with football pitch among projects from the Royal Danish Academy",
       "url": "https://www.dezeen.com/2026/06/26/royal-danish-academy-school-show/",
       "excerpt": "Dezeen School Shows: a centre in Mérida, Mexico, with social housing and a shaded football pitch is among the projects from the Royal Danish Academy. Also featured is a knitted wool pavilion that crea",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "Caiçara House / Studio Carlito e Renata Pascucci",
+      "url": "https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci",
+      "excerpt": "The project stemmed from a twofold request: to build a home with a “caiçara” identity that was also designed for short-term rentals and a possible future sale. The clients, a couple who have lived on ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/a061/54d7/6a00/01cc/6739/large_jpg/Projeto_Studio_Carlito_e_Renata_Pascucci_Arquitetura_-_Cai_ara_I_Foto_Julia_Novoa___19.jpg?1781899403",
       "today": true
     },
     {
@@ -359,16 +379,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "a kinetic installation shaped by shaved bonito flakes forms a continuous display system",
-      "url": "https://www.designboom.com/art/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo/",
-      "excerpt": "ultra-thin katsuobushi is released into open air, then collected onto a circular platform.\nThe post a kinetic installation shaped by shaved bonito flakes forms a continuous display system appeared fir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.26",
@@ -386,16 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042756/a-white-barn-msaa-atelier",
       "excerpt": "In the eastern suburbs of Beijing, There are numerous stretches of wheat fields along the eastern bank of the Chaobai River, allowing for two crop seasons each year. A rugged high-speed rail line cuts",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e252/8385/1500/01fa/e2c9/large_jpg/007-___.jpg?1782375031",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "How a New Generation of Architects Is Designing with Natural Light",
-      "url": "https://www.archdaily.com/1042692/how-a-new-generation-of-architects-is-designing-with-natural-light",
-      "excerpt": "Long before it becomes a matter of performance, comfort, or energy efficiency, natural light is a way of giving presence to architecture. It reveals the texture of a wall, the depth of an opening, and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/79ee/6c38/4816/a744/240e/large_jpg/how-a-new-generation-of-architects-is-designing-with-natural-light_4.jpg?1782217356",
       "today": true
     },
     {
