@@ -1,172 +1,264 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.26  16:12",
+  "fetchedAt": "2026.06.26  18:28",
   "sourceColors": {
-    "美術館・アート情報": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "newscast.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "fujitv.co.jp": {
+    "久留米ファン": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "高松経済新聞": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "オズモール": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Yahoo!ニュース": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Dezeen": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
     {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
-      "date": "2026.06.26",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.26",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.26",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.26",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.06.26",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
+      "title": "Ten products and furnishings infused with Italian style",
+      "url": "https://www.dezeen.com/2026/06/26/ten-furnishings-products-tiles-seating-italian-brands-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a headboard topped with oversized ceramic beads is among the pieces on Dezeen Showroom by Italian design brands. From speakers set atop marble plinths to chairs informed by the proces",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
+      "title": "IKEA Canada arranges familiar homeware into World Cup team flags",
+      "url": "https://www.dezeen.com/2026/06/26/ikea-canada-flag-campaign/",
+      "excerpt": "IKEA Canada has launched a marketing campaign where dinnerware, towels, furniture and more have been arranged to resemble the national flags of teams competing in the 2026 FIFA World Cup. A collaborat",
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "title": "Seven beautiful designer monographs on the makers who defined a century",
+      "url": "https://www.wallpaper.com/design-interiors/designer-monographs-books-about-designers",
+      "excerpt": "From Charles and Ray Eames to Dieter Rams, these landmark volumes chart the visionaries who shaped modern design – and their ideas that still resonate today",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YW9s4AgiGUNojnvy26VC2i-1920-80.png",
       "today": true
     },
     {
-      "source": "fujitv.co.jp",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
+      "title": "Paloma Wool’s first Los Angeles store blurs the public and the private",
+      "url": "https://www.wallpaper.com/fashion-beauty/paloma-wools-first-los-angeles-store-blurs-the-public-and-the-private",
+      "excerpt": "A video installation by Carlota Guerrero appears in the window of the Melrose Avenue store, featuring a theatrical ‘fitting room’ on a rolling live stream",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9gzmHaoyF6jtBU6oodLJMf-1799-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "Inside the Delano Miami Beach, an art deco legend reborn for the modern era",
+      "url": "https://www.wallpaper.com/travel/hotels/delano-miami-beach-review",
+      "excerpt": "Thanks to a revamp by Elastic Architects, the famous hotel is again making a splash in Miami Beach",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TQjzgZXtMnbjXEwtWhTcQP-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "mapping street vending typologies as mobile urban infrastructure across india",
+      "url": "https://www.designboom.com/design/street-vending-typologies-mobile-urban-infrastructure-india-laari-futures-chaal-chaal/",
+      "excerpt": "laari futures turns the street vending cart into a mobile infrastructure of care, using small-scale technology to produce a more stable social space around vendors.\nThe post mapping street vending typ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/laari-futures-research-street-vending-typologies-mobile-urban-infrastructure-india-chaal-chaal-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -218,13 +310,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "As Martin Parr’s final exhibition opens with the National Trust, Susie Parr reflects on his legacy",
-      "url": "https://www.wallpaper.com/art/photography/susie-parr-interview-martin-parr-lacock-exhibition",
-      "excerpt": "‘Lacock by Martin Parr’, at the Fox Talbot Museum, unites Parr’s series of portraits of English community and tradition",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pqyVBtLYv6rbctVTXJmNS3-1000-80.jpg",
+      "title": "Guesthouse \"Postal route\" / Plazma Architecture Studio",
+      "url": "https://www.archdaily.com/1042697/guesthouse-postal-route-plazma-architecture-studio",
+      "excerpt": "Curonian Spit. One of the stops along the postal route—one of the principal overland routes in Europe during the 17th and18th centuries, running along the Curonian Spit coastline—was located in Juodkr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/95a0/54d7/6a00/01cc/6ac2/large_jpg/25-Plazma-LR48C-__Norbert_Tukaj-2915__Custom_.jpg?1782224319",
       "today": true
     },
     {
@@ -267,24 +359,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Abu Dhabi reveals plans for Frank Gehry-designed performing arts venue",
-      "url": "https://www.dezeen.com/2026/06/26/dar-al-funoon-abu-dhabi-frank-gehry/",
-      "excerpt": "Construction has commenced on Dar al Funoon Abu Dhabi, a performing arts venue designed by Canadian-American architect Frank Gehry before his death, Abu Dhabi's Department of Culture and Tourism has a",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Is Gaudí the greatest architect ever?",
-      "url": "https://www.dezeen.com/2026/06/26/gaudi-dezeen-weekly-podcast/",
-      "excerpt": "Why is Gaudí so widely admired? Is there a darker side to his architecture? And should he be made a saint? Listen to the latest episode of Dezeen Weekly now. This month marks 100 years since the death",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.26",
@@ -292,26 +366,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo/",
       "excerpt": "ultra-thin katsuobushi is released into open air, then collected onto a circular platform.\nThe post a kinetic installation shaped by shaved bonito flakes forms a continuous display system appeared fir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "ioana teleanu shifts AI tools from thinking for you to making you think",
-      "url": "https://www.designboom.com/technology/ioana-teleanu-ai-artificial-intelligence-tool-interview/",
-      "excerpt": "designboom in a conversation with ioana teleanu about how AI is fundamentally changing  the contemporary design landscape.\nThe post ioana teleanu shifts AI tools from thinking for you to making you th",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/most-studios_ioana-teleanu_designboom_facebook-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Layer has created two charging stations for accessory specialists Daily Objects",
-      "url": "https://www.wallpaper.com/tech/layer-daily-objects-charging-solutions",
-      "excerpt": "Node and Loft are two new charging solutions from Daily Objects. Shaped by Layer, they’re designed to bring tech charging into the foreground",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Qo3Fu6nkBE7RA8DZU53o4T-2560-80.jpg",
       "today": true
     },
     {
@@ -342,26 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042692/how-a-new-generation-of-architects-is-designing-with-natural-light",
       "excerpt": "Long before it becomes a matter of performance, comfort, or energy efficiency, natural light is a way of giving presence to architecture. It reveals the texture of a wall, the depth of an opening, and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/79ee/6c38/4816/a744/240e/large_jpg/how-a-new-generation-of-architects-is-designing-with-natural-light_4.jpg?1782217356",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "One Day, Four Earthquakes: What Seismic Resilience Reveals About the Built Environment",
-      "url": "https://www.archdaily.com/1042788/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment",
-      "excerpt": "Within a 36-hour window between June 24 and June 25, four significant earthquakes struck three different regions of the world. A magnitude 7.2 earthquake shook Japan's northeastern coast, a magnitude ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/2052/bdfc/1a01/8a6a/2228/large_jpg/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment_1.jpg?1782456468",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "This traditional adobe home survived a fire – and found a new life as a midcentury-inspired California hacienda",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/midcentury-california-home",
-      "excerpt": "Designer Kirsten Blazek rebuilt around a single surviving wall, blending Native American-influenced objects, midcentury furniture and a palette drawn straight from the San Gabriel Mountains",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y8VQo6U8pUP9DwzEgWFJEo-2560-80.jpg",
       "today": true
     },
     {
