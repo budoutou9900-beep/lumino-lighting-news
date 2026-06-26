@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.26  10:21",
+  "fetchedAt": "2026.06.26  13:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "newscast.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,57 +13,81 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "カナロコ": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Yahoo!ニュース": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -78,11 +102,70 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "newscast.jp",
+      "cat": "展示・アート",
       "date": "2026.06.26",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.26",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
     },
@@ -97,26 +180,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "カナロコ",
-      "cat": "展示・アート",
-      "date": "2026.06.26",
-      "title": "冬の夜 幻想的な世界が広がる イルミネーション・ライトアップ２０２５",
-      "url": "https://www.kanaloco.jp/news/culture/bunka/article-1230342.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2025-12/yokohama_1.jpg?itok=NMg0iK6j",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.26",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
-      "today": true
-    },
-    {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.06.26",
@@ -127,33 +190,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.26",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
+      "title": "As Martin Parr’s final exhibition opens with the National Trust, Susie Parr reflects on his legacy",
+      "url": "https://www.wallpaper.com/art/photography/susie-parr-interview-martin-parr-lacock-exhibition",
+      "excerpt": "‘Lacock by Martin Parr’, at the Fox Talbot Museum, unites Parr’s series of portraits of English community and tradition",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pqyVBtLYv6rbctVTXJmNS3-1000-80.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "code as contemporary craft: yehwan song’s digital art asks radical questions about innovation",
+      "url": "https://www.designboom.com/technology/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making/",
+      "excerpt": "the Korean artist uses interactive installations and digital art to reveal how technology can be shaped with care, experimentation, and human intention.\nThe post code as contemporary craft: yehwan son",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making01-818x614.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "SAM Architecture designs stepped school in Nanterre as \"village at the child's scale\"",
+      "url": "https://www.dezeen.com/2026/06/26/yvonne-kerzreho-school-complex-sam-architecture/",
+      "excerpt": "French studio SAM Architecture has created the Yvonne Kerzrého School Complex in Nanterre, France, arranging classrooms around cascading terraces and courtyards that extend learning outdoors. The 4,85",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "trenchs studio threads low-impact glamping among the pines of southern spain",
+      "url": "https://www.designboom.com/architecture/trenchs-studio-low-impact-glamping-pines-southern-spain-cadiz-dehesa-wecamp/",
+      "excerpt": "lightweight construction, natural materials, and a palette drawn directly from the site, in pale woods, earth tones, and soft greens define the camp.\nThe post trenchs studio threads low-impact glampin",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/trenchs-studio-glamping-retreat-wecamp-pine-forest-cadiz-spain-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -163,6 +244,15 @@ window.LUMINO_DATA = {
       "title": "Abu Dhabi reveals plans for Frank Gehry-designed performing arts venue",
       "url": "https://www.dezeen.com/2026/06/26/dar-al-funoon-abu-dhabi-frank-gehry/",
       "excerpt": "Construction has commenced on Dar al Funoon Abu Dhabi, a performing arts venue designed by Canadian-American architect Frank Gehry before his death, Abu Dhabi's Department of Culture and Tourism has a",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "Is Gaudí the greatest architect ever?",
+      "url": "https://www.dezeen.com/2026/06/26/gaudi-dezeen-weekly-podcast/",
+      "excerpt": "Why is Gaudí so widely admired? Is there a darker side to his architecture? And should he be made a saint? Listen to the latest episode of Dezeen Weekly now. This month marks 100 years since the death",
       "today": true
     },
     {
@@ -224,22 +314,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "House of Baby designs Brixton restaurant Banh Banh as \"immersive artwork\"",
-      "url": "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/",
-      "excerpt": "Design studio House of Baby drew on modernist architecture, such as Saigon's Independence Palace, for the interior design of Vietnamese restaurant Banh Banh in London. House of Baby updated the interi",
+      "title": "Rewilding the City: 6 Unbuilt Projects from the ArchDaily Community",
+      "url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
+      "excerpt": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces. \"Rewilding\" refers to the practice of restoring",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/3d7e/8576/0e01/8921/c8da/large_jpg/unbuilt_19.jpg?1782332823",
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.26",
-      "title": "inside a century-old hanok, urban sophistication seoul flagship is organized like a home",
-      "url": "https://www.designboom.com/architecture/century-old-hanok-urban-sophistication-seoul-flagship-organized-home/",
-      "excerpt": "the 140-square-meter project builds its retail experience around the home’s original circulation, courtyard, and timber structure.\nThe post inside a century-old hanok, urban sophistication seoul flags",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/century-old-hanok-urban-sophistication-seoul-flagship-logic-domestic-life-designboom-1200.jpg",
+      "title": "A White Barn / M.S.A.A. atelier",
+      "url": "https://www.archdaily.com/1042756/a-white-barn-msaa-atelier",
+      "excerpt": "In the eastern suburbs of Beijing, There are numerous stretches of wheat fields along the eastern bank of the Chaobai River, allowing for two crop seasons each year. A rugged high-speed rail line cuts",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e252/8385/1500/01fa/e2c9/large_jpg/007-___.jpg?1782375031",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "How a New Generation of Architects Is Designing with Natural Light",
+      "url": "https://www.archdaily.com/1042692/how-a-new-generation-of-architects-is-designing-with-natural-light",
+      "excerpt": "Long before it becomes a matter of performance, comfort, or energy efficiency, natural light is a way of giving presence to architecture. It reveals the texture of a wall, the depth of an opening, and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/79ee/6c38/4816/a744/240e/large_jpg/how-a-new-generation-of-architects-is-designing-with-natural-light_4.jpg?1782217356",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "One Day, Four Earthquakes: What Seismic Resilience Reveals About the Built Environment",
+      "url": "https://www.archdaily.com/1042788/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment",
+      "excerpt": "Within a 36-hour window between June 24 and June 25, four significant earthquakes struck three different regions of the world. A magnitude 7.2 earthquake shook Japan's northeastern coast, a magnitude ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/2052/bdfc/1a01/8a6a/2228/large_jpg/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment_1.jpg?1782456468",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "Josef-Schwarz School / Behnisch Architekten",
+      "url": "https://www.archdaily.com/1042540/josef-schwarz-school-behnisch-architekten",
+      "excerpt": "Situated in Heilbronn's Neckarbogen district, the Josef-Schwarz-School is among Germany's most ambitious recent educational buildings. The design envisions the school as an interconnected campus where",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a33/541d/54d7/6a00/01cc/65dc/large_jpg/05_Josef-Schwarz-Schule_Behnisch_Architekturb_ro_David_Matthiessen.jpg?1781748841",
       "today": true
     },
     {
@@ -250,15 +371,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/midcentury-california-home",
       "excerpt": "Designer Kirsten Blazek rebuilt around a single surviving wall, blending Native American-influenced objects, midcentury furniture and a palette drawn straight from the San Gabriel Mountains",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y8VQo6U8pUP9DwzEgWFJEo-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Golf cart, small car and moon buggy meet in electric vehicle Amble One",
-      "url": "https://www.dezeen.com/2026/06/26/amble-one-electric-vehicle-design/",
-      "excerpt": "Former Apple designer Julian Hoenig and Forpeople founder Michael Tropper have teamed up to enter the mobility space with Amble One – a doorless electric buggy that they hope will become a lightweight",
       "today": true
     },
     {
@@ -282,16 +394,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Representation as Argument: Lyndon Neri on What Juries Look for in Architecture Competitions",
-      "url": "https://www.archdaily.com/1042630/representation-as-argument-lyndon-neri-on-what-juries-look-for-in-architecture-competitions",
-      "excerpt": "In an industry defined by building codes, climate urgency, and the pressures of the real estate market, the architectural competition has quietly become one of the discipline's most generative spaces.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/1119/6c38/4816/a744/2b68/large_jpg/representation-as-argument-lyndon-neri-on-what-juries-look-for-in-architecture-competitions_13.jpg?1782321461",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.26",
@@ -300,66 +402,6 @@ window.LUMINO_DATA = {
       "excerpt": "The feminist painter’s works nod to classical traditions but were idiosyncratically her own – discover them at Malarkey",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7HKGiQoZDVjsUfe4A9wjJo-1193-80.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Care and Wellness Center for the Elderly and Disabled  / sol89",
-      "url": "https://www.archdaily.com/1041152/care-and-wellness-center-for-the-elderly-and-disabled-sol89",
-      "excerpt": "The South Korean city of Paju has grown through high-density residential developments, resulting in a generic periphery often lacking quality public spaces. It is within this context that the new Care",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69f8/ab9c/20d6/d800/0166/40e8/large_jpg/02_Danurimb.jpg?1777904564",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "RJH House / Wiyoga Nurdiansyah",
-      "url": "https://www.archdaily.com/1042753/rjh-house-wiyoga-nurdiansyah",
-      "excerpt": "The house is designed for a family of five that was looking for a tranquil space, contrary to the fast-evolving city of Jakarta Selatan. The main brief was to create a house that could accommodate big",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/d639/8385/1500/01fa/e2ad/large_jpg/RJH_House_-_Exterior_02__artehaus____.jpg?1782371969",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "cyril lancelin’s tubular installation becomes a walkable cube of light and color in singapore",
-      "url": "https://www.designboom.com/art/cyril-lancelin-tubular-installation-walkable-cube-light-color-singapore-cube-graphics-i-light/",
-      "excerpt": "the immersive installation uses repetition, color, and light to turn a simple cube into a sensory environment that continuously changes with movement and viewpoint.\nThe post cyril lancelin’s tubular i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/cyril-lancelin-town-and-concrete-cube-graphics-i-light-singapore-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Dahecun National Archaeological Site Park and Dehecun Site Museum / CADG",
-      "url": "https://www.archdaily.com/1042762/dahecun-national-archaeological-site-park-and-dehecun-site-museum-cadg",
-      "excerpt": "1. Project Overview - The Dahecun Site, which has lain dormant in the hinterland of the middle and lower reaches of the Yellow River for over 6,800 years, holds outstanding significance as a benchmark",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/f75d/8385/1500/01fa/e306/large_jpg/14__________________.jpg?1782380397",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "WIDOARQUITECTOS Office / WIDOARQUITECTOS",
-      "url": "https://www.archdaily.com/1041855/widoarquitectos-office-widoarquitectos",
-      "excerpt": "The new office building by Wido Arquitectos explores how monumentality can emerge in a compact lot of 5.00 x 15.00 meters, presenting an architectural gesture that asserts itself in the city with sobr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a10/6211/35eb/2400/01f0/4408/large_jpg/12.FACHADA_PRINCIPAL_ESCALA.jpg?1779458610",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "A new monograph spotlights Miyako Ishiuchi, photographer of the belongings of Frida Kahlo and Hiroshima victims",
-      "url": "https://www.wallpaper.com/art/photography/miyako-ishiuchi-traces-photography-book",
-      "excerpt": "‘Ishiuchi Miyako: Traces’ offers the most comprehensive account yet of the photographer – a visual archivist of memory and loss",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p2r3YxuiahSKSecuet9LKZ-1920-80.jpg",
-      "today": false
     },
     {
       "source": "IGNANT",
@@ -392,6 +434,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -399,6 +481,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -432,6 +524,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -439,6 +560,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -509,6 +650,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
