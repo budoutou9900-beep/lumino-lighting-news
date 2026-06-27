@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.27  00:01",
+  "fetchedAt": "2026.06.27  04:47",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "美術館・アート情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "高松経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Yahoo!ニュース": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -99,10 +99,20 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.27",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "today": true
+    },
+    {
+      "source": "美術館・アート情報",
+      "cat": "国内情報",
+      "date": "2026.06.27",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
@@ -175,15 +185,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.06.27",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.27",
@@ -194,13 +195,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.27",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "plush long-pile textile wraps tubular yellow steel bench observation.01",
+      "url": "https://www.designboom.com/design/plush-long-pile-textile-tubular-yellow-steel-bench-observation-01-kibekoumuten-masahiro-kibe/",
+      "excerpt": "kibekoumuten applies an ongoing research into observation as a design method.\nThe post plush long-pile textile wraps tubular yellow steel bench observation.01 appeared first on designboom | architectu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/plush-long-pile-textile-tubular-yellow-steel-bench-observation-01-kibekoumuten-masahiro-kibe-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -211,6 +221,25 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/five-hand-painted-cars-joshua-vides-monochromatic-garage-petersen-automotive-museum-flat-out/",
       "excerpt": "'flat out' turns car culture into a graphic space, with every seam, shadow and tire tread pulled into the artist's black-and-white linework.\nThe post five hand-painted cars fill joshua vides’ monochro",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/joshua-vides-flat-out-exhibition-petersen-automotive-museum-los-angeles-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "Biodegradable footwear among projects from Georgia Institute of Technology",
+      "url": "https://www.dezeen.com/2026/06/26/decomposable-footwear-georgia-institute-of-technology-schoolshows/",
+      "excerpt": "Dezeen School Shows: sustainable footwear made with tulip poplar offcuts and recycled wool is among the projects from Georgia Institute of Technology. Also featured is a wearable device that monitors ",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.26",
+      "title": "Villa Riviera Golf Residence / Atelier130",
+      "url": "https://www.archdaily.com/1042800/villa-riviera-golf-residence-atelier130",
+      "excerpt": "Villa Riviera Golf is a family residence in Abidjan, Côte d'Ivoire, designed around movement, outdoor living, and the everyday rituals of its inhabitants. Located on a sloped site, the house responds ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/9f84/0789/c600/018c/2575/large_jpg/Alejandra_Loreto_00.jpg?1782488993",
       "today": false
     },
     {
@@ -350,25 +379,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "SAM Architecture designs stepped school in Nanterre as \"village at the child's scale\"",
-      "url": "https://www.dezeen.com/2026/06/26/yvonne-kerzreho-school-complex-sam-architecture/",
-      "excerpt": "French studio SAM Architecture has created the Yvonne Kerzrého School Complex in Nanterre, France, arranging classrooms around cascading terraces and courtyards that extend learning outdoors. The 4,85",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "trenchs studio threads low-impact glamping among the pines of southern spain",
-      "url": "https://www.designboom.com/architecture/trenchs-studio-low-impact-glamping-pines-southern-spain-cadiz-dehesa-wecamp/",
-      "excerpt": "lightweight construction, natural materials, and a palette drawn directly from the site, in pale woods, earth tones, and soft greens define the camp.\nThe post trenchs studio threads low-impact glampin",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/trenchs-studio-glamping-retreat-wecamp-pine-forest-cadiz-spain-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.26",
@@ -386,16 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
       "excerpt": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces. \"Rewilding\" refers to the practice of restoring",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/3d7e/8576/0e01/8921/c8da/large_jpg/unbuilt_19.jpg?1782332823",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "A White Barn / M.S.A.A. atelier",
-      "url": "https://www.archdaily.com/1042756/a-white-barn-msaa-atelier",
-      "excerpt": "In the eastern suburbs of Beijing, There are numerous stretches of wheat fields along the eastern bank of the Chaobai River, allowing for two crop seasons each year. A rugged high-speed rail line cuts",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e252/8385/1500/01fa/e2c9/large_jpg/007-___.jpg?1782375031",
       "today": false
     },
     {
