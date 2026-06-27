@@ -1,47 +1,47 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.27  07:45",
+  "fetchedAt": "2026.06.27  10:01",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "高松経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Yahoo!ニュース": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Yahoo!ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,69 +49,83 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
       "date": "2026.06.27",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.06.27",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "axismag.jp",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.06.27",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -200,6 +214,35 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "This isn’t a barn conversion – it’s a fully self-contained home built inside a barn",
+      "url": "https://www.wallpaper.com/architecture/residential/barn-conversion-facha-architekti",
+      "excerpt": "In order to preserve the surrounding structure, Czech practice Facha Architekti simply placed a contemporary home inside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Pi5KYG57XkDnJF8MuH4KVT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "Eight inspiring homes with bookmaxxed interiors",
+      "url": "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
+      "excerpt": "For our latest lookbook, we explore how bookmaxxing can add interest to an interior, looking at examples ranging from a penthouse in Germany to the home of Radiohead singer Thom Yorke. The tongue-in-c",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "Self-described polymath Larry Tchogninou is here to design differently",
+      "url": "https://www.wallpaper.com/design-interiors/larry-tchogninou-designer-profile-one-to-watch",
+      "excerpt": "Mentored by Virgil Abloh, Larry Tchogninou is breaking away from design's traditional notions",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GyRddYT5oZAqYWemdphJFZ-1920-80.png",
       "today": true
     },
     {
@@ -306,35 +349,6 @@ window.LUMINO_DATA = {
       "title": "Ten products and furnishings infused with Italian style",
       "url": "https://www.dezeen.com/2026/06/26/ten-furnishings-products-tiles-seating-italian-brands-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: a headboard topped with oversized ceramic beads is among the pieces on Dezeen Showroom by Italian design brands. From speakers set atop marble plinths to chairs informed by the proces",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "IKEA Canada arranges familiar homeware into World Cup team flags",
-      "url": "https://www.dezeen.com/2026/06/26/ikea-canada-flag-campaign/",
-      "excerpt": "IKEA Canada has launched a marketing campaign where dinnerware, towels, furniture and more have been arranged to resemble the national flags of teams competing in the 2026 FIFA World Cup. A collaborat",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Seven beautiful designer monographs on the makers who defined a century",
-      "url": "https://www.wallpaper.com/design-interiors/designer-monographs-books-about-designers",
-      "excerpt": "From Charles and Ray Eames to Dieter Rams, these landmark volumes chart the visionaries who shaped modern design – and their ideas that still resonate today",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YW9s4AgiGUNojnvy26VC2i-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Paloma Wool’s first Los Angeles store blurs the public and the private",
-      "url": "https://www.wallpaper.com/fashion-beauty/paloma-wools-first-los-angeles-store-blurs-the-public-and-the-private",
-      "excerpt": "A video installation by Carlota Guerrero appears in the window of the Melrose Avenue store, featuring a theatrical ‘fitting room’ on a rolling live stream",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9gzmHaoyF6jtBU6oodLJMf-1799-80.jpg",
       "today": false
     },
     {
