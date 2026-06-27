@@ -1,60 +1,208 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.26  22:09",
+  "fetchedAt": "2026.06.27  00:01",
   "sourceColors": {
-    "designboom": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "久留米ファン": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "Yahoo!ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "ArchDaily": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "大光電機": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -63,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/five-hand-painted-cars-joshua-vides-monochromatic-garage-petersen-automotive-museum-flat-out/",
       "excerpt": "'flat out' turns car culture into a graphic space, with every seam, shadow and tire tread pulled into the artist's black-and-white linework.\nThe post five hand-painted cars fill joshua vides’ monochro",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/joshua-vides-flat-out-exhibition-petersen-automotive-museum-los-angeles-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -72,7 +220,7 @@ window.LUMINO_DATA = {
       "title": "Ten products and furnishings infused with Italian style",
       "url": "https://www.dezeen.com/2026/06/26/ten-furnishings-products-tiles-seating-italian-brands-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: a headboard topped with oversized ceramic beads is among the pieces on Dezeen Showroom by Italian design brands. From speakers set atop marble plinths to chairs informed by the proces",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -81,7 +229,7 @@ window.LUMINO_DATA = {
       "title": "IKEA Canada arranges familiar homeware into World Cup team flags",
       "url": "https://www.dezeen.com/2026/06/26/ikea-canada-flag-campaign/",
       "excerpt": "IKEA Canada has launched a marketing campaign where dinnerware, towels, furniture and more have been arranged to resemble the national flags of teams competing in the 2026 FIFA World Cup. A collaborat",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -91,7 +239,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/designer-monographs-books-about-designers",
       "excerpt": "From Charles and Ray Eames to Dieter Rams, these landmark volumes chart the visionaries who shaped modern design – and their ideas that still resonate today",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YW9s4AgiGUNojnvy26VC2i-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -101,7 +249,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/paloma-wools-first-los-angeles-store-blurs-the-public-and-the-private",
       "excerpt": "A video installation by Carlota Guerrero appears in the window of the Melrose Avenue store, featuring a theatrical ‘fitting room’ on a rolling live stream",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9gzmHaoyF6jtBU6oodLJMf-1799-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -111,7 +259,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/delano-miami-beach-review",
       "excerpt": "Thanks to a revamp by Elastic Architects, the famous hotel is again making a splash in Miami Beach",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TQjzgZXtMnbjXEwtWhTcQP-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -121,7 +269,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/street-vending-typologies-mobile-urban-infrastructure-india-laari-futures-chaal-chaal/",
       "excerpt": "laari futures turns the street vending cart into a mobile infrastructure of care, using small-scale technology to produce a more stable social space around vendors.\nThe post mapping street vending typ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/laari-futures-research-street-vending-typologies-mobile-urban-infrastructure-india-chaal-chaal-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -130,7 +278,7 @@ window.LUMINO_DATA = {
       "title": "Social housing centre with football pitch among projects from the Royal Danish Academy",
       "url": "https://www.dezeen.com/2026/06/26/royal-danish-academy-school-show/",
       "excerpt": "Dezeen School Shows: a centre in Mérida, Mexico, with social housing and a shaded football pitch is among the projects from the Royal Danish Academy. Also featured is a knitted wool pavilion that crea",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -140,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci",
       "excerpt": "The project stemmed from a twofold request: to build a home with a “caiçara” identity that was also designed for short-term rentals and a possible future sale. The clients, a couple who have lived on ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/a061/54d7/6a00/01cc/6739/large_jpg/Projeto_Studio_Carlito_e_Renata_Pascucci_Arquitetura_-_Cai_ara_I_Foto_Julia_Novoa___19.jpg?1781899403",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -150,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gehry-partners-billowing-performing-arts-center-dar-al-funoon-abu-dhabi-uae/",
       "excerpt": "planned for 2030, more than 6,000 seats will gather within the rippling, fabric-like venue by gehry partners.\nThe post gehry partners’ billowing performing arts center to neighbor guggenheim abu dhabi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/frank-gehry-dar-al-funoon-abu-dhabi-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -160,7 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/serpentine-summer-party-2026-laila-gohar-lanza-atelier",
       "excerpt": "Food, furniture and performance combined at the galleries’ annual party –  ‘somewhere between architecture, landscape, and banquet’ – staged around Lanza Atelier's pavilion and with culinary art by La",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/v2akxBFGKmF3qUrSdAYqQW-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -170,7 +318,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/at-tate-modern-nora-chipaumire-review",
       "excerpt": "For the 2026 Infinities Commission, the artist transforms the East Tank into imagined Zimbabwean landscapes shaped by touch, sound, sculpture, moving images, and live performance",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/X8sdvQbd7BZhenGqdUH72n-2048-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -179,7 +327,7 @@ window.LUMINO_DATA = {
       "title": "Xian tile by El Barco",
       "url": "https://www.dezeen.com/2026/06/26/xian-tile-el-barco-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Spanish tile brand El Barco draws a connection between the Mediterranean and ancient China with its Xian porcelain tiles, celebrating the enduring appeal of terracotta. The Xian colle",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -189,7 +337,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042697/guesthouse-postal-route-plazma-architecture-studio",
       "excerpt": "Curonian Spit. One of the stops along the postal route—one of the principal overland routes in Europe during the 17th and18th centuries, running along the Curonian Spit coastline—was located in Juodkr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/95a0/54d7/6a00/01cc/6ac2/large_jpg/25-Plazma-LR48C-__Norbert_Tukaj-2915__Custom_.jpg?1782224319",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -199,7 +347,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making/",
       "excerpt": "the Korean artist uses interactive installations and digital art to reveal how technology can be shaped with care, experimentation, and human intention.\nThe post code as contemporary craft: yehwan son",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making01-818x614.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -208,7 +356,7 @@ window.LUMINO_DATA = {
       "title": "SAM Architecture designs stepped school in Nanterre as \"village at the child's scale\"",
       "url": "https://www.dezeen.com/2026/06/26/yvonne-kerzreho-school-complex-sam-architecture/",
       "excerpt": "French studio SAM Architecture has created the Yvonne Kerzrého School Complex in Nanterre, France, arranging classrooms around cascading terraces and courtyards that extend learning outdoors. The 4,85",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -218,7 +366,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/trenchs-studio-low-impact-glamping-pines-southern-spain-cadiz-dehesa-wecamp/",
       "excerpt": "lightweight construction, natural materials, and a palette drawn directly from the site, in pale woods, earth tones, and soft greens define the camp.\nThe post trenchs studio threads low-impact glampin",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/trenchs-studio-glamping-retreat-wecamp-pine-forest-cadiz-spain-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -228,7 +376,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
       "excerpt": "The story of Island Crest is rooted in commitment, preservation, and the decision to thoughtfully re-envision good bones. When the new owners discovered a 1958 home on Mercer Island, they were immedia",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/71ba/8385/1500/01fa/e38e/large_jpg/ONOMA-Crest-25.jpg?1782411922",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -238,7 +386,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
       "excerpt": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces. \"Rewilding\" refers to the practice of restoring",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/3d7e/8576/0e01/8921/c8da/large_jpg/unbuilt_19.jpg?1782332823",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -248,7 +396,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042756/a-white-barn-msaa-atelier",
       "excerpt": "In the eastern suburbs of Beijing, There are numerous stretches of wheat fields along the eastern bank of the Chaobai River, allowing for two crop seasons each year. A rugged high-speed rail line cuts",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e252/8385/1500/01fa/e2c9/large_jpg/007-___.jpg?1782375031",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -258,7 +406,7 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/flood/proworks_handylight/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
+      "today": false
     },
     {
       "source": "IGNANT",
