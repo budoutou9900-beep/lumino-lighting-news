@@ -1,51 +1,51 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.27  04:47",
+  "fetchedAt": "2026.06.27  07:45",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術館・アート情報": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "久留米ファン": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "高松経済新聞": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Yahoo!ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,7 +53,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -96,6 +96,15 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.06.27",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.06.27",
@@ -103,26 +112,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
-      "today": true
-    },
-    {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
-      "date": "2026.06.27",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.27",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -185,6 +174,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.27",
@@ -195,12 +193,71 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.06.27",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
       "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "Dezeen In Depth looks at Antoni Gaudí's impact on global architecture",
+      "url": "https://www.dezeen.com/2026/06/27/gaudi-centenary-impact-dezeen-in-depth/",
+      "excerpt": "This month's Dezeen In Depth newsletter features a look at Antoni Gaudí's influence and an interview with Pritzker Architecture Prize-winner Diébédo Francis Kéré. Subscribe to Dezeen In Depth today! A",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "The best Spanish restaurants in London for a Mediterranean summer",
+      "url": "https://www.wallpaper.com/travel/restaurants/best-spanish-restaurants-london",
+      "excerpt": "Discover the small-plate dining way of life at our picks of the best Spanish restaurants in London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ykL4VrvtrSBDwfSYUvbyD-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "A minimalist Belgian penthouse sets the mood for summer relaxation by the sea",
+      "url": "https://www.wallpaper.com/architecture/residential/belgian-penthouse-merckx-holvoet",
+      "excerpt": "Designed by Merckx-Holvoet in Knokke-Heist, V Penthouse translates the shifting colours, textures and atmosphere of the North Sea into a calm family retreat for weekends and summer escapes",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XGRYKYAxHcxM599w5JJ3Be-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "This week Frank Gehry's design for a Saadiyat Island arts centre was unveiled",
+      "url": "https://www.dezeen.com/2026/06/27/this-week-frank-gehry-arts-centre/",
+      "excerpt": "This week on Dezeen, we published visuals of a rippling performing arts centre currently under construction in Abu Dhabi, designed by the architect Frank Gehry before his death. Named Dar al Funoon Ab",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "In immersive exhibitions in Iceland, Björk works across painting, video and music",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/bjork-national-gallery-of-iceland",
+      "excerpt": "The National Gallery of Iceland celebrates the multifaceted nature of Björk's creativity with two exhibitions",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XKQfhghuc5ffeQMkJUKjbE.gif",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "Renovation of 5 X 7 / Greater Dog Architects",
+      "url": "https://www.archdaily.com/1008351/renovation-of-5-x-7-greater-dog-architects",
+      "excerpt": "ADAPTIVE REUSERecognize the value of all buildings, even when it lies abandoned in a corner. Greater Dog Architects was commissioned to renovate a small brick and concrete mixed structure near the ééé",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/652d/60da/64e5/0c06/c50a/943a/large_jpg/renovation-of-5-x-7-greater-dog-architects_2.jpg?1697472753",
       "today": true
     },
     {
@@ -281,16 +338,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Inside the Delano Miami Beach, an art deco legend reborn for the modern era",
-      "url": "https://www.wallpaper.com/travel/hotels/delano-miami-beach-review",
-      "excerpt": "Thanks to a revamp by Elastic Architects, the famous hotel is again making a splash in Miami Beach",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TQjzgZXtMnbjXEwtWhTcQP-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.26",
@@ -298,15 +345,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/street-vending-typologies-mobile-urban-infrastructure-india-laari-futures-chaal-chaal/",
       "excerpt": "laari futures turns the street vending cart into a mobile infrastructure of care, using small-scale technology to produce a more stable social space around vendors.\nThe post mapping street vending typ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/laari-futures-research-street-vending-typologies-mobile-urban-infrastructure-india-chaal-chaal-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Social housing centre with football pitch among projects from the Royal Danish Academy",
-      "url": "https://www.dezeen.com/2026/06/26/royal-danish-academy-school-show/",
-      "excerpt": "Dezeen School Shows: a centre in Mérida, Mexico, with social housing and a shaded football pitch is among the projects from the Royal Danish Academy. Also featured is a knitted wool pavilion that crea",
       "today": false
     },
     {
@@ -327,35 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gehry-partners-billowing-performing-arts-center-dar-al-funoon-abu-dhabi-uae/",
       "excerpt": "planned for 2030, more than 6,000 seats will gather within the rippling, fabric-like venue by gehry partners.\nThe post gehry partners’ billowing performing arts center to neighbor guggenheim abu dhabi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/frank-gehry-dar-al-funoon-abu-dhabi-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Lanza Atelier and Laila Gohar bring magic and mischief to the Serpentine Summer Party",
-      "url": "https://www.wallpaper.com/design-interiors/serpentine-summer-party-2026-laila-gohar-lanza-atelier",
-      "excerpt": "Food, furniture and performance combined at the galleries’ annual party –  ‘somewhere between architecture, landscape, and banquet’ – staged around Lanza Atelier's pavilion and with culinary art by La",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/v2akxBFGKmF3qUrSdAYqQW-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "At Tate Modern, Nora Chipaumire invites us to experience art through the body",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/at-tate-modern-nora-chipaumire-review",
-      "excerpt": "For the 2026 Infinities Commission, the artist transforms the East Tank into imagined Zimbabwean landscapes shaped by touch, sound, sculpture, moving images, and live performance",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/X8sdvQbd7BZhenGqdUH72n-2048-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Xian tile by El Barco",
-      "url": "https://www.dezeen.com/2026/06/26/xian-tile-el-barco-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Spanish tile brand El Barco draws a connection between the Mediterranean and ancient China with its Xian porcelain tiles, celebrating the enduring appeal of terracotta. The Xian colle",
       "today": false
     },
     {
@@ -386,16 +395,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
       "excerpt": "The story of Island Crest is rooted in commitment, preservation, and the decision to thoughtfully re-envision good bones. When the new owners discovered a 1958 home on Mercer Island, they were immedia",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/71ba/8385/1500/01fa/e38e/large_jpg/ONOMA-Crest-25.jpg?1782411922",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Rewilding the City: 6 Unbuilt Projects from the ArchDaily Community",
-      "url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
-      "excerpt": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces. \"Rewilding\" refers to the practice of restoring",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/3d7e/8576/0e01/8921/c8da/large_jpg/unbuilt_19.jpg?1782332823",
       "today": false
     },
     {
