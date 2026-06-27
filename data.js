@@ -1,101 +1,97 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.27  10:01",
+  "fetchedAt": "2026.06.27  11:42",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Sortir à Paris": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "高松経済新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "オズモール": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Yahoo!ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ArchDaily": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "岩崎電気": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -107,15 +103,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.27",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -220,6 +207,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.27",
+      "title": "Feast at a new Greek-Cypriot taverna in buzzy Covent Garden",
+      "url": "https://www.wallpaper.com/travel/restaurants/zylia-london-review",
+      "excerpt": "Zylia is a contemporary haunt shaped by childhood memory, family recipes and an obsession for charcoal grills",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2ibKhbxv89NKwPk5myLqb6-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.27",
       "title": "This isn’t a barn conversion – it’s a fully self-contained home built inside a barn",
       "url": "https://www.wallpaper.com/architecture/residential/barn-conversion-facha-architekti",
       "excerpt": "In order to preserve the surrounding structure, Czech practice Facha Architekti simply placed a contemporary home inside",
@@ -265,6 +262,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "Laboratorium Coffee Shop / EktraArhitectura",
+      "url": "https://www.archdaily.com/1042698/laboratorium-coffee-shop-ektraarhitectura",
+      "excerpt": "Located in the heart of Cluj-Napoca, Laboratorium occupies the ground floor of Palatul Széki — one of four corner buildings constructed at the end of the 19th century to mark the threshold of the city",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/95b1/54d7/6a00/01cc/6ae2/large_jpg/in-still_Laboratorium-2.jpg?1782224325",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.27",
@@ -281,16 +288,6 @@ window.LUMINO_DATA = {
       "title": "This week Frank Gehry's design for a Saadiyat Island arts centre was unveiled",
       "url": "https://www.dezeen.com/2026/06/27/this-week-frank-gehry-arts-centre/",
       "excerpt": "This week on Dezeen, we published visuals of a rippling performing arts centre currently under construction in Abu Dhabi, designed by the architect Frank Gehry before his death. Named Dar al Funoon Ab",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "In immersive exhibitions in Iceland, Björk works across painting, video and music",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/bjork-national-gallery-of-iceland",
-      "excerpt": "The National Gallery of Iceland celebrates the multifaceted nature of Björk's creativity with two exhibitions",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XKQfhghuc5ffeQMkJUKjbE.gif",
       "today": true
     },
     {
@@ -399,16 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making/",
       "excerpt": "the Korean artist uses interactive installations and digital art to reveal how technology can be shaped with care, experimentation, and human intention.\nThe post code as contemporary craft: yehwan son",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making01-818x614.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Island Crest / ONOMA Architecture",
-      "url": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
-      "excerpt": "The story of Island Crest is rooted in commitment, preservation, and the decision to thoughtfully re-envision good bones. When the new owners discovered a 1958 home on Mercer Island, they were immedia",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/71ba/8385/1500/01fa/e38e/large_jpg/ONOMA-Crest-25.jpg?1782411922",
       "today": false
     },
     {
