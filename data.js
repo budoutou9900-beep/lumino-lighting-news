@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.27  11:42",
+  "fetchedAt": "2026.06.27  13:21",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -175,15 +175,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.06.27",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.27",
@@ -191,6 +182,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.27",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -240,6 +240,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/larry-tchogninou-designer-profile-one-to-watch",
       "excerpt": "Mentored by Virgil Abloh, Larry Tchogninou is breaking away from design's traditional notions",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GyRddYT5oZAqYWemdphJFZ-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.27",
+      "title": "Building Public Life: How Bogotá and Mexico City Addressed Urban Inequality",
+      "url": "https://www.archdaily.com/1042536/building-public-life-how-bogota-and-mexico-city-addressed-urban-inequality",
+      "excerpt": "In many Latin American cities, peripheral neighborhoods have historically had less access to the resources that make urban life more than just livable. Housing, transportation, and public services are",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/cccc/6c38/4852/67fe/31cf/large_jpg/building-public-life-architectural-responses-to-urban-inequality-in-colombia-and-mexico_3.jpg?1781714132",
       "today": true
     },
     {
@@ -376,16 +386,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gehry-partners-billowing-performing-arts-center-dar-al-funoon-abu-dhabi-uae/",
       "excerpt": "planned for 2030, more than 6,000 seats will gather within the rippling, fabric-like venue by gehry partners.\nThe post gehry partners’ billowing performing arts center to neighbor guggenheim abu dhabi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/frank-gehry-dar-al-funoon-abu-dhabi-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.26",
-      "title": "Guesthouse \"Postal route\" / Plazma Architecture Studio",
-      "url": "https://www.archdaily.com/1042697/guesthouse-postal-route-plazma-architecture-studio",
-      "excerpt": "Curonian Spit. One of the stops along the postal route—one of the principal overland routes in Europe during the 17th and18th centuries, running along the Curonian Spit coastline—was located in Juodkr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/95a0/54d7/6a00/01cc/6ac2/large_jpg/25-Plazma-LR48C-__Norbert_Tukaj-2915__Custom_.jpg?1782224319",
       "today": false
     },
     {
