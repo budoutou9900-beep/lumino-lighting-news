@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.28  16:07",
+  "fetchedAt": "2026.06.28  18:02",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "久留米ファン": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "高松経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,53 +41,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -99,15 +95,6 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.28",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -195,6 +182,15 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "L-shaped roofs create \"generous shadows\" over Los Cabos residence",
+      "url": "https://www.dezeen.com/2026/06/28/casa-en-palmilla-los-cabos-estudio-ignacio-urquiza-ana-paula-de-alba/",
+      "excerpt": "A pair of lightweight, L-shaped roofs top the four volumes that form this house in Los Cabos, Mexico, designed by Estudio Ignacio Urquiza Ana Paula de Alba. The hilltop Casa en Palmilla comprises two ",
       "today": true
     },
     {
@@ -341,15 +337,6 @@ window.LUMINO_DATA = {
       "title": "Textiles promoting emotional wellbeing among Lucerne School of Design, Film and Art projects",
       "url": "https://www.dezeen.com/2026/06/27/textiles-emotional-wellbeing-lucerne-school-film-art-design-schoolshows/",
       "excerpt": "Dezeen School Shows: a textile collection designed to promote emotional wellbeing is among the projects from the Lucerne School of Design, Film and Art. Also featured is a project that uses weaving te",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Wild Form designs with \"no straight lines\" for bar next to New York's Stonewall Inn",
-      "url": "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/",
-      "excerpt": "New York-based Wild Form Design Studio has crafted a sculptural interior for a bar called Love Thy Neighbor, which \"celebrates the queer community\" next to The Stonewall Inn in the West Village. Opene",
       "today": false
     },
     {
