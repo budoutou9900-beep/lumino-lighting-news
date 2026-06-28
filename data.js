@@ -1,60 +1,209 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.28  03:55",
+  "fetchedAt": "2026.06.28  07:47",
   "sourceColors": {
-    "designboom": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "久留米ファン": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "高松経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "IGNANT": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.28",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "Carlo Ratti explores the Italian summer through objects. Next up, the Microlino",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-through-objects-microlino",
+      "excerpt": "The second instalment of the architect's series, 'Objectify,' investigates Italy's tiniest car, the Microlino",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e2owPiWqyXvsGvTJXiGq3d-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "The new Triennale uniforms draw on workwear culture and Bauhaus-inspired geometries",
+      "url": "https://www.wallpaper.com/design-interiors/triennale-milano-uniforms-older-alessandra-facchinetti",
+      "excerpt": "The new uniforms for Milan’s Triennale museum were created by Alessandra Facchinetti and Older and inspired by the Italian institution's visual codes, from the architecture to the colour and material ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qNqHsk7fhJCwaHVMMM8bYN-2560-80.jpg",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -63,6 +212,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/vertical-white-pillars-rhythmic-facade-primary-school-italy-parma-aaa-office/",
       "excerpt": "facades reference the rhythm of trees and cultivated fields of parma.\nThe post vertical white pillars compose rhythmic facade enfolding primary school in italy appeared first on designboom | architect",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/aaa-office-primary-school-parma-italy-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "Buildings of Liangzi Lake Changling Ferry  / UP Architecture",
+      "url": "https://www.archdaily.com/1017130/buildings-of-liangzi-lake-changling-ferry-up-architecture",
+      "excerpt": "Changling Ferry is located on the east coast of Liangzi Lake in Ezhou City, Hubei Province. It is the main tourist distribution center leading to Liangzi Island，a national 4A tourist attraction. At pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6656/59e8/17a9/f25b/bf7a/ce86/large_jpg/buildings-of-liangzi-lake-changling-ferry-up-architecture_1.jpg?1716935169",
       "today": true
     },
     {
@@ -198,36 +357,6 @@ window.LUMINO_DATA = {
       "title": "Dezeen In Depth looks at Antoni Gaudí's impact on global architecture",
       "url": "https://www.dezeen.com/2026/06/27/gaudi-centenary-impact-dezeen-in-depth/",
       "excerpt": "This month's Dezeen In Depth newsletter features a look at Antoni Gaudí's influence and an interview with Pritzker Architecture Prize-winner Diébédo Francis Kéré. Subscribe to Dezeen In Depth today! A",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "The best Spanish restaurants in London for a Mediterranean summer",
-      "url": "https://www.wallpaper.com/travel/restaurants/best-spanish-restaurants-london",
-      "excerpt": "Discover the small-plate dining way of life at our picks of the best Spanish restaurants in London",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ykL4VrvtrSBDwfSYUvbyD-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Laboratorium Coffee Shop / EktraArhitectura",
-      "url": "https://www.archdaily.com/1042698/laboratorium-coffee-shop-ektraarhitectura",
-      "excerpt": "Located in the heart of Cluj-Napoca, Laboratorium occupies the ground floor of Palatul Széki — one of four corner buildings constructed at the end of the 19th century to mark the threshold of the city",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/95b1/54d7/6a00/01cc/6ae2/large_jpg/in-still_Laboratorium-2.jpg?1782224325",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "A minimalist Belgian penthouse sets the mood for summer relaxation by the sea",
-      "url": "https://www.wallpaper.com/architecture/residential/belgian-penthouse-merckx-holvoet",
-      "excerpt": "Designed by Merckx-Holvoet in Knokke-Heist, V Penthouse translates the shifting colours, textures and atmosphere of the North Sea into a calm family retreat for weekends and summer escapes",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XGRYKYAxHcxM599w5JJ3Be-1416-80.jpg",
       "today": false
     },
     {
