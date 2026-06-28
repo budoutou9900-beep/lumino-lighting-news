@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.28  20:09",
+  "fetchedAt": "2026.06.28  21:59",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "鉄道ファン・railf.jp": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,45 +49,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -189,13 +185,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.06.28",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "title": "explore WINT design lab’s regenerative futures that connect humans with their bodies",
+      "url": "https://www.designboom.com/technology/explore-wint-design-lab-regenerative-futures-humans-connect-bodies/",
+      "excerpt": "the studio works on objects that pull people back to their own bodies and away from screens, synthetic feedback, materials that have no biological relationship with them.\nThe post explore WINT design ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/03/WINT-design-lab-regenerative-future-humans-connect-bodies-utopia-designboom-fb.jpg",
       "today": true
     },
     {
@@ -205,6 +201,16 @@ window.LUMINO_DATA = {
       "title": "L-shaped roofs create \"generous shadows\" over Los Cabos residence",
       "url": "https://www.dezeen.com/2026/06/28/casa-en-palmilla-los-cabos-estudio-ignacio-urquiza-ana-paula-de-alba/",
       "excerpt": "A pair of lightweight, L-shaped roofs top the four volumes that form this house in Los Cabos, Mexico, designed by Estudio Ignacio Urquiza Ana Paula de Alba. The hilltop Casa en Palmilla comprises two ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "Estero Residences + Gamba café / Barde + vanVoltt",
+      "url": "https://www.archdaily.com/1042677/estero-residences-plus-gamba-cafe-barde-plus-vanvoltt",
+      "excerpt": "Located in the historic center of San José del Cabo, Estero Residences and Gamba Café is a boutique mixed-use development that combines six residences, a café, retail spaces, and shared amenities with",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/35d8/54d7/6a00/01cc/69c7/large_jpg/_CKZ7040_lr.jpg?1782199901",
       "today": true
     },
     {
@@ -364,16 +370,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Limoeiro House / Mana arquitetura",
-      "url": "https://www.archdaily.com/1042795/limoeiro-house-mana-arquitetura",
-      "excerpt": "This project began with the purchase of a charming 1940s house in Jardim Luzitânia—a long-held dream for the family. The client approached me with the desire to preserve the soul of the house, honorin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/2b14/54d7/6a00/01cc/6bcf/large_jpg/14_MG_8061_CASA-VERDE_CL-01.jpg?1782328152",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.27",
@@ -381,16 +377,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/stuffed-animal-shrine-kyoto-visitors-cherished-plush-companions/",
       "excerpt": "the shrine invites visitors to honor stuffed animals through rituals, reframing cherished toys as companions that connect people, forests, and ideas of care across generations.\nThe post stuffed animal",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/stuffed-animal-shrine-kyoto-visitors-cherished-plush-companions-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "plush long-pile textile wraps tubular yellow steel bench observation.01",
-      "url": "https://www.designboom.com/design/plush-long-pile-textile-tubular-yellow-steel-bench-observation-01-kibekoumuten-masahiro-kibe/",
-      "excerpt": "kibekoumuten applies an ongoing research into observation as a design method.\nThe post plush long-pile textile wraps tubular yellow steel bench observation.01 appeared first on designboom | architectu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/plush-long-pile-textile-tubular-yellow-steel-bench-observation-01-kibekoumuten-masahiro-kibe-designboom-1200-1.jpg",
       "today": false
     },
     {
