@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.28  07:47",
+  "fetchedAt": "2026.06.28  10:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -188,10 +188,58 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.28",
+      "title": "Why are watch brands so drawn to working with artists?",
+      "url": "https://www.wallpaper.com/watches-jewellery/art-watches",
+      "excerpt": "Watchmakers have long collaborated with product designers on designs, but working with fine artists - that’s another level of challenge. Given that most artists are not household names why do it at al",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QG3rLL95UcryFAmvqAgupe-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "Eight imaginative buildings with curving brickwork",
+      "url": "https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/",
+      "excerpt": "From a sculptural reading space to a turreted mausoleum, our latest roundup gathers curvy brick buildings where skillfully laid brickwork is shaped into fluid forms. Twisted Brick Shell Library, China",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "‘Powerwall’ is a new 3D-printed artwork in the Netherlands created by Rotterdam’s Studio RAP",
+      "url": "https://www.wallpaper.com/architecture/powerwall-studio-rap-netherlands",
+      "excerpt": "Studio RAP has used 3D-printed ceramics to express the dynamic form of electromagnetic energy on the wall of an electric substation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sc3UgcwmyVevffbJ7hPozJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "A new Queensway address reimagines the London townhouse",
+      "url": "https://www.wallpaper.com/architecture/residential/vabel-townhouse-london-uk",
+      "excerpt": "Design and development studio Vabel brings bespoke interiors and contemporary craftsmanship to a 28-home residential project near Hyde Park",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jQi5RP6JDRx6Zm4MVMxyib-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.28",
       "title": "Carlo Ratti explores the Italian summer through objects. Next up, the Microlino",
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-through-objects-microlino",
       "excerpt": "The second instalment of the architect's series, 'Objectify,' investigates Italy's tiniest car, the Microlino",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e2owPiWqyXvsGvTJXiGq3d-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "\"Progressive spirit\" of Space Age interiors informs Barcelona cocktail bar",
+      "url": "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
+      "excerpt": "Spanish designer Isern Serra has completed a speakeasy bar in Barcelona featuring multi-coloured modular furniture that evokes Verner Panton's retro-futuristic 1960s installations. Focacha is the late",
       "today": true
     },
     {
@@ -293,51 +341,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Feast at a new Greek-Cypriot taverna in buzzy Covent Garden",
-      "url": "https://www.wallpaper.com/travel/restaurants/zylia-london-review",
-      "excerpt": "Zylia is a contemporary haunt shaped by childhood memory, family recipes and an obsession for charcoal grills",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2ibKhbxv89NKwPk5myLqb6-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.27",
       "title": "House of EM draws on mid-century design principles for brick-clad home",
       "url": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/",
       "excerpt": "Architecture studio House of EM has used a restrained palette of brick, timber, concrete and lime plaster for Skylark, a contemporary F-shaped house in Shropshire, UK. Set on a plateau overlooking the",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "This isn’t a barn conversion – it’s a fully self-contained home built inside a barn",
-      "url": "https://www.wallpaper.com/architecture/residential/barn-conversion-facha-architekti",
-      "excerpt": "In order to preserve the surrounding structure, Czech practice Facha Architekti simply placed a contemporary home inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Pi5KYG57XkDnJF8MuH4KVT-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Eight inspiring homes with bookmaxxed interiors",
-      "url": "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
-      "excerpt": "For our latest lookbook, we explore how bookmaxxing can add interest to an interior, looking at examples ranging from a penthouse in Germany to the home of Radiohead singer Thom Yorke. The tongue-in-c",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Self-described polymath Larry Tchogninou is here to design differently",
-      "url": "https://www.wallpaper.com/design-interiors/larry-tchogninou-designer-profile-one-to-watch",
-      "excerpt": "Mentored by Virgil Abloh, Larry Tchogninou is breaking away from design's traditional notions",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GyRddYT5oZAqYWemdphJFZ-1920-80.png",
       "today": false
     },
     {
@@ -348,15 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042536/building-public-life-how-bogota-and-mexico-city-addressed-urban-inequality",
       "excerpt": "In many Latin American cities, peripheral neighborhoods have historically had less access to the resources that make urban life more than just livable. Housing, transportation, and public services are",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/cccc/6c38/4852/67fe/31cf/large_jpg/building-public-life-architectural-responses-to-urban-inequality-in-colombia-and-mexico_3.jpg?1781714132",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Dezeen In Depth looks at Antoni Gaudí's impact on global architecture",
-      "url": "https://www.dezeen.com/2026/06/27/gaudi-centenary-impact-dezeen-in-depth/",
-      "excerpt": "This month's Dezeen In Depth newsletter features a look at Antoni Gaudí's influence and an interview with Pritzker Architecture Prize-winner Diébédo Francis Kéré. Subscribe to Dezeen In Depth today! A",
       "today": false
     },
     {
@@ -666,16 +666,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260518-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/05/pro7_2560px_20260518.png",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "技術・LED",
-      "date": "2026.05.14",
-      "title": "LED照明器具 突入電流一覧表の更新",
-      "url": "https://www.iwasaki.co.jp/lighting/led/inrush/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     }
   ]
