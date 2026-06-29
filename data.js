@@ -1,7 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.29  12:27",
+  "fetchedAt": "2026.06.29  16:36",
   "sourceColors": {
     "axismag.jp": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "久留米ファン": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "なびたび北東北": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ヨコハマ経済新聞": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "山陽新聞": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,73 +37,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Yahoo!ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "fujitv.co.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -90,93 +106,160 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.06.29",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "なびたび北東北",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
       "today": true
     },
     {
-      "source": "fujitv.co.jp",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
+      "title": "Honda rewrites the small EV playbook with its 80s-inspired Super-N, a cult car in the making",
+      "url": "https://www.wallpaper.com/transportation/honda-rewrites-the-small-ev-playbook-with-its-80s-inspired-super-n-a-cult-car-in-the-making",
+      "excerpt": "We get behind the diminutive wheel of the new Honda Super-N, a tiny city EV that stuffed with practical touches and smart design choices",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dxHp4CkSKWU2RnqeEkdiXJ-2560-80.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "よみうりランド「夜桜ジュエルミネーション」宝石イルミ×桜のライトアップ、アトラクションで絶叫花見も",
-      "url": "https://www.fashion-press.net/news/143539",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/143539/top.jpg?1771484051",
+      "title": "James Turrell’s 100th Skyspace opens beneath the ARoS museum",
+      "url": "https://www.wallpaper.com/art/james-turrells-100th-skyspace-opens-beneath-the-aros-museum",
+      "excerpt": "Hidden below Aarhus’ ARoS museum, As Seen Below – The Dome offers an immersive meditation on light, colour and the endlessly changing Scandinavian sky",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u5v5LEbKfa49nhCTKsQFX9-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "open call: pli office invites emerging creatives to take part in paris design week 2026",
+      "url": "https://www.designboom.com/design/open-call-pli-office-paris-design-week-2026/",
+      "excerpt": "the exhibition invites emerging creatives to submit objects and installations responding to the theme of chaos.\nThe post open call: pli office invites emerging creatives to take part in paris design w",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/open-call-pli-office-paris-design-week-2026-750x1000.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Soundscape reflecting Doha's urban transformation among projects from Virginia Commonwealth University School of the Arts",
+      "url": "https://www.dezeen.com/2026/06/29/soundscape-reflecting-dohas-urban-transformation-among-projects-from-virginia-commonwealth-university-school-of-the-arts/",
+      "excerpt": "Dezeen School Shows: an exhibition featuring an audio composition that reflects urban transformation in Doha is among the projects from students at the Virginia Commonwealth University School of the A",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "These were the best collections from Paris Fashion Week Men’s, from Celine to Dries Van Noten",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-paris-fashion-week-mens-ss-2027",
+      "excerpt": "As Paris Fashion Week Men’s concludes, Wallpaper* picks the standout collections – from Michael Rider’s first men’s show for Celine to ethereal lightness and Dries Van Noten",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kwjGQMx4UbejibJNzkyCQB-2133-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living",
+      "url": "https://www.designboom.com/architecture/reclaimed-stone-timber-basque-farmhouse-contemporary-living-zu-studio/",
+      "excerpt": "the main structural concept for the reconstruction is described as ‘four parallel walls and a roof.’\nThe post reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/reclaimed-stone-timber-basque-farm-zu-studio-designboom-1200.jpg",
       "today": true
     },
     {
@@ -257,16 +340,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "open week of WDC 2026 reimagines the design festival as a regional platform",
-      "url": "https://www.designboom.com/design/world-design-capital-2026-open-week-regional-design-look-behind-the-scenes/",
-      "excerpt": "held from 5 to 14 June, the ten-day festival transformed more than 150 venues into a distributed platform for design.\nThe post open week of WDC 2026 reimagines the design festival as a regional platfo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/world-design-capital-2026-open-week-regional-design-look-behind-the-scenes01-818x544.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.29",
@@ -276,32 +349,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "ME by meliá tailors design-forward retreat for pets and the humans they travel with",
-      "url": "https://www.designboom.com/design/me-by-melia-high-end-hotel-pets-travel/",
-      "excerpt": "tailored for shared journeys, the suite’s playful layout reshapes the relationship between guests and their little friends into a refined universe of bespoke design. \nThe post ME by meliá tailors desi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/me-by-melia-designboom-facebookjpg.jpg",
+      "title": "Architectural Decisions, Planetary Implications: Interview with UIA 2026 Barcelona Curatorial Team",
+      "url": "https://www.archdaily.com/1042737/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team",
+      "excerpt": "Barcelona is the first city in the history of the UIA World Congress of Architects to host the event twice. The 1996 edition, Present and Futures: Architecture in Cities, arrived at a charged moment, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/44cc/ddd9/3801/8a4a/440f/large_jpg/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team_1.jpg?1782400215",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "1 Hotel Tokyo is a nature lover’s dream high above the city",
-      "url": "https://www.wallpaper.com/travel/hotels/1-hotel-tokyo-review",
-      "excerpt": "The 1 Hotel brand’s Japan debut takes over the upper floors of the Akasaka Trust Tower, featuring lush interiors courtesy of Crème",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8Y9oCRbTkUfTKQrmmYKahA-1600-80.jpg",
+      "title": "Anjung House / Eleena Jamil Architect",
+      "url": "https://www.archdaily.com/1042816/anjung-house-eleena-jamil-architect",
+      "excerpt": "The Anjung comprises two components: a retreat house and a studio space, the latter occupied by Eleena Jamil Architect. Developed by the practice itself, the project reflects and embodies its values a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/24f5/bdfc/1a01/8a6a/2854/large_jpg/anjung-house-eleena-jamil-architect_6.jpg?1782654264",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "Layer designs \"playful and personal\" modular system for charging devices at home",
-      "url": "https://www.dezeen.com/2026/06/29/layer-modular-system-charging-devices-at-home/",
-      "excerpt": "British design studio Layer has developed a family of charging products, including a dock with interchangeable modules that can be moved to wherever they are required around the house. The studio head",
+      "title": "BIG Reveals New Images of the National Juneteenth Museum Ahead of Construction in Fort Worth, Texas",
+      "url": "https://www.archdaily.com/1042834/big-reveals-new-images-of-the-national-juneteenth-museum-ahead-of-construction-in-fort-worth-texas",
+      "excerpt": "Bjarke Ingels Group (BIG) has unveiled new images of the National Juneteenth Museum, offering a closer look at the design of the 72,000-square-foot institution planned for Fort Worth, Texas. Designed ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/45d8/bdfc/1a01/8a6a/2c08/large_jpg/big-reveals-new-images-of-the-national-juneteenth-museum-ahead-of-construction-in-fort-worth-texas_1.jpg?1782728220",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Egedammen Kindergarten / BBP Arkitekter",
+      "url": "https://www.archdaily.com/1042696/egedammen-kindergarten-bbp-arkitekter",
+      "excerpt": "Egedammen is a municipal kindergarten for 144 children in Gladsaxe a part of Greater Copenhagen. The building is designed with a phenomenological approach, focusing on spatial experiences and the way ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/954b/54d7/6a00/01cc/6aae/large_jpg/2a-BBP_Egedam.jpg?1782224226",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "UIA World Congress of Architecture 2026 Opens in Barcelona Under the Theme \"Architectures for a Planet in Transition\"",
+      "url": "https://www.archdaily.com/1042829/uia-world-congress-of-architecture-2026-opens-in-barcelona-under-the-theme-architectures-for-a-planet-in-transition",
+      "excerpt": "The UIA 2026, the 29th edition of the triennial international event for architectural dialogue organised by the International Union of Architects, has opened its doors on Sunday, June 28th, with an in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/2c8c/8481/2b01/8af5/0da6/large_jpg/uia-world-congress-of-architecture-2026-opens-in-barcelona-under-the-theme-architectures-for-a-planet-in-transition_13.jpg?1782721720",
       "today": true
     },
     {
@@ -313,76 +407,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Pedagogy in Space: Architecture Schools' Hidden Curriculum",
-      "url": "https://www.archdaily.com/1042669/pedagogy-in-space-architecture-schools-hidden-curriculum",
-      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/fe09/6c38/4816/a744/2208/large_jpg/pedagogy-in-space-architecture-schools-hidden-curriculum_8.jpg?1782185487",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Sublime Comporta Sand / Fragmentos",
-      "url": "https://www.archdaily.com/1042746/sublime-comporta-sand-fragmentos",
-      "excerpt": "Set within 51 hectares of cork oak and umbrella pine forest in Comporta, Sublime Comporta Sand marks the next chapter of one of Portugal’s most recognisable hospitality destinations. Designed by Lisbo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/5e6d/3e62/7a1b/5e23/887d/large_jpg/sublime-comporta-sand-fragmentos_3.jpg?1782341291",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Brick Tower Mixed Use Building / ASA Studio",
-      "url": "https://www.archdaily.com/1042802/brick-tower-mixed-use-building-asa-studio",
-      "excerpt": "A locally built brick tower rises from a sea of corrugated-iron roofs in an upgrading Kigali neighborhood, proving that a comfortable, naturally ventilated high-rise can be built with local materials,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/a683/0789/c600/018c/259d/large_jpg/1.jpg?1782490831",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Raintree Lane Farm House / Yangnar Studio",
-      "url": "https://www.archdaily.com/1042799/raintree-lane-farm-house-yangnar-studio",
-      "excerpt": "What distinguishes this home is not extravagance, but restraint. Resting gently within nearly two acres of land, the house was intentionally designed to sit humbly within its surroundings, embraced by",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/baa1/8481/2b01/8af5/0be2/large_jpg/raintree-lane-farm-house-yangnar-studio_30.jpg?1782692519",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Nam Da House / 24Minimalist Architecture",
-      "url": "https://www.archdaily.com/1042801/nam-da-house-24minimalist-architecture",
-      "excerpt": "Located in Nam Da Commune, Lam Dong Province, Vietnam, Nam Da House occupies a plot behind the homeowner's parents' residence within a multi-generational family compound. Partially screened by the exi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/a444/0789/c600/018c/2589/large_jpg/NamDaHouse_03.jpg?1782490215",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Why are watch brands so drawn to working with artists?",
-      "url": "https://www.wallpaper.com/watches-jewellery/art-watches",
-      "excerpt": "Watchmakers have long collaborated with product designers on designs, but working with fine artists - that’s another level of challenge. Given that most artists are not household names why do it at al",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QG3rLL95UcryFAmvqAgupe-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "‘Powerwall’ is a new 3D-printed artwork in the Netherlands created by Rotterdam’s Studio RAP",
-      "url": "https://www.wallpaper.com/architecture/powerwall-studio-rap-netherlands",
-      "excerpt": "Studio RAP has used 3D-printed ceramics to express the dynamic form of electromagnetic energy on the wall of an electric substation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sc3UgcwmyVevffbJ7hPozJ-2560-80.jpg",
-      "today": false
     },
     {
       "source": "岩崎電気",
