@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.29  22:51",
+  "fetchedAt": "2026.06.29  23:59",
   "sourceColors": {
-    "axismag.jp": {
+    "美術館・アート情報": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "なびたび北東北": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "なびたび北東北": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "高松経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -92,23 +92,13 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
+      "source": "美術館・アート情報",
       "cat": "国内情報",
       "date": "2026.06.29",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
@@ -138,7 +128,6 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -191,6 +180,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "鉄道ファン・railf.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.29",
@@ -216,6 +224,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/hermes-beijing-flagship-rose-pink-ceramic-veil-mamou-mani-rdai/",
       "excerpt": "using digitally developed modules, mamou-mani shapes Hermès’ beijing flagship with a parametric terracotta facade.\nThe post Hermès beijing flagship wrapped in a rose-pink ceramic veil by mamou-mani ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hermes-beijing-flagship-mamou-mani-facade-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Makino's Roadside Station / Wakatake Town Planning Research Institute + STUDIO YY + WORKSTATION",
+      "url": "https://www.archdaily.com/1042817/makinos-roadside-station-wakatake-town-planning-research-institute-plus-studio-yy-plus-workstation",
+      "excerpt": "Located in Sakawa, Kochi Prefecture — the birthplace of Tomitaro Makino, the father of Japanese botany — this roadside station (Michi-no-Eki) was selected through an open proposal competition. To hono",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/ac93/8481/2b01/8af5/0b79/large_jpg/makinos-roadside-station-wakatake-town-planning-research-institute-plus-studio-yy-plus-workstation_10.jpg?1782688931",
       "today": true
     },
     {
@@ -373,16 +391,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042816/anjung-house-eleena-jamil-architect",
       "excerpt": "The Anjung comprises two components: a retreat house and a studio space, the latter occupied by Eleena Jamil Architect. Developed by the practice itself, the project reflects and embodies its values a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/24f5/bdfc/1a01/8a6a/2854/large_jpg/anjung-house-eleena-jamil-architect_6.jpg?1782654264",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "BIG Reveals New Images of the National Juneteenth Museum Ahead of Construction in Fort Worth, Texas",
-      "url": "https://www.archdaily.com/1042834/big-reveals-new-images-of-the-national-juneteenth-museum-ahead-of-construction-in-fort-worth-texas",
-      "excerpt": "Bjarke Ingels Group (BIG) has unveiled new images of the National Juneteenth Museum, offering a closer look at the design of the 72,000-square-foot institution planned for Fort Worth, Texas. Designed ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/45d8/bdfc/1a01/8a6a/2c08/large_jpg/big-reveals-new-images-of-the-national-juneteenth-museum-ahead-of-construction-in-fort-worth-texas_1.jpg?1782728220",
       "today": true
     },
     {
