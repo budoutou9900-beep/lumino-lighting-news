@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.29  19:01",
+  "fetchedAt": "2026.06.29  21:21",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "久留米ファン": {
+    "なびたび北東北": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -98,12 +98,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "なびたび北東北",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
       "today": true
     },
     {
@@ -188,6 +189,34 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.29",
+      "title": "Museum of Arabic culture and digital art is among projects from Ajman University",
+      "url": "https://www.dezeen.com/2026/06/29/museum-arabic-culture-art-projects-ajman-university/",
+      "excerpt": "Dezeen School Shows: a museum for Emirati culture and craft located in Sharjah, UAE, is among the architecture projects from Ajman University. Also featured is accommodation for female students and an",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Keilhauer and Yabu Pushelberg detail \"softer approach to contract seating\" at NeoCon panel",
+      "url": "https://www.dezeen.com/2026/06/29/keilhauer-yabu-pushelberg-detail-softer-approach-to-contract-seating-at-neocon-panel/",
+      "excerpt": "Promotion: during a NeoCon panel in Chicago, furniture brand Keilhauer and design studio Yabu Pushelberg discussed their collaboration for the Etta Collection, which translates luxurious forms for hea",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Hermès beijing flagship wrapped in a rose-pink ceramic veil by mamou-mani",
+      "url": "https://www.designboom.com/architecture/hermes-beijing-flagship-rose-pink-ceramic-veil-mamou-mani-rdai/",
+      "excerpt": "using digitally developed modules, mamou-mani shapes Hermès’ beijing flagship with a parametric terracotta facade.\nThe post Hermès beijing flagship wrapped in a rose-pink ceramic veil by mamou-mani ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hermes-beijing-flagship-mamou-mani-facade-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
       "title": "A Teatro and Balcony Studio tuck Museum Tower House into steep site in Los Angeles",
       "url": "https://www.dezeen.com/2026/06/29/a-teatro-and-balcony-studio-museum-tower-house-los-angeles/",
       "excerpt": "California designers A Teatro and Balcony Studio have completed a slender, vertical house in Los Angeles with facades made of striated plaster and interior rooms that \"unfold like galleries in a museu",
@@ -230,6 +259,16 @@ window.LUMINO_DATA = {
       "title": "Soundscape reflecting Doha's urban transformation among projects from Virginia Commonwealth University School of the Arts",
       "url": "https://www.dezeen.com/2026/06/29/soundscape-reflecting-dohas-urban-transformation-among-projects-from-virginia-commonwealth-university-school-of-the-arts/",
       "excerpt": "Dezeen School Shows: an exhibition featuring an audio composition that reflects urban transformation in Doha is among the projects from students at the Virginia Commonwealth University School of the A",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Lagoa Azul Suite / Carlos Alberto Arquitetura",
+      "url": "https://www.archdaily.com/1042821/lagoa-azul-suite-carlos-alberto-arquitetura",
+      "excerpt": "Set amidst lush vegetation, the Lagoa Azul Suite emerges as a sanctuary of contemplation, where architecture and landscape establish a relationship of balance and permanence. The project begins with a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/9c6f/54d7/6a00/01cc/6729/large_jpg/fazenda-1.jpg?1781898396",
       "today": true
     },
     {
@@ -312,34 +351,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Billard Leece Partnership unveils Sydney children's hospital with folded metal facade",
-      "url": "https://www.dezeen.com/2026/06/29/billard-leece-partnership-wattle-building-childrens-hospital-sydney/",
-      "excerpt": "Australian architecture studio Billard Leece Partnership has created an aluminium-clad acute-care facility for The Children's Hospital Westmead in Sydney, drawing on its inland river setting. Set with",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "2147: a voice from the future transforms a reclaimed payphone into an AI interface",
-      "url": "https://www.designboom.com/design/2147-voice-future-reclaimed-payphone-ai-interface-divina-machina-qs-ventures-sonar-d/",
-      "excerpt": "the project repurposes an original early-2000s telefónica payphone, covering it in moss and transforming it into an AI-powered interface for real-time conversation.\nThe post 2147: a voice from the fut",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/2147-a-voice-from-the-future-reclaimed-moss-payphone-ai-interface-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Kitchens by Cabbonet",
-      "url": "https://www.dezeen.com/2026/06/29/kitchens-cabbonet-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. Cabbonet's kitchens are designed by Arteim, Hays' studio ",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.29",
@@ -367,16 +378,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042834/big-reveals-new-images-of-the-national-juneteenth-museum-ahead-of-construction-in-fort-worth-texas",
       "excerpt": "Bjarke Ingels Group (BIG) has unveiled new images of the National Juneteenth Museum, offering a closer look at the design of the 72,000-square-foot institution planned for Fort Worth, Texas. Designed ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/45d8/bdfc/1a01/8a6a/2c08/large_jpg/big-reveals-new-images-of-the-national-juneteenth-museum-ahead-of-construction-in-fort-worth-texas_1.jpg?1782728220",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Egedammen Kindergarten / BBP Arkitekter",
-      "url": "https://www.archdaily.com/1042696/egedammen-kindergarten-bbp-arkitekter",
-      "excerpt": "Egedammen is a municipal kindergarten for 144 children in Gladsaxe a part of Greater Copenhagen. The building is designed with a phenomenological approach, focusing on spatial experiences and the way ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/954b/54d7/6a00/01cc/6aae/large_jpg/2a-BBP_Egedam.jpg?1782224226",
       "today": true
     },
     {
