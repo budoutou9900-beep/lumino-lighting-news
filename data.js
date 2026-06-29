@@ -1,47 +1,47 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.29  02:55",
+  "fetchedAt": "2026.06.29  07:28",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "久留米ファン": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "高松経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,23 +49,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -73,17 +73,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "パナソニック": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -95,6 +91,25 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.06.29",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.06.29",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -176,12 +191,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "me by meliá tailors design-forward retreat for pets and the humans they travel with",
+      "url": "https://www.designboom.com/design/me-by-melia-high-end-hotel-pets-travel/",
+      "excerpt": "tailored for shared journeys, the suite’s playful layout reshapes the relationship between guests and their little friends into a refined universe of bespoke design. \nThe post me by meliá tailors desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/me-by-melia-designboom-facebookjpg.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "1 Hotel Tokyo is a nature lover’s dream high above the city",
+      "url": "https://www.wallpaper.com/travel/hotels/1-hotel-tokyo-review",
+      "excerpt": "The 1 Hotel brand’s Japan debut takes over the upper floors of the Akasaka Trust Tower, featuring lush interiors courtesy of Crème",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8Y9oCRbTkUfTKQrmmYKahA-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Layer designs \"playful and personal\" modular system for charging devices at home",
+      "url": "https://www.dezeen.com/2026/06/29/layer-modular-system-charging-devices-at-home/",
+      "excerpt": "British design studio Layer has developed a family of charging products, including a dock with interchangeable modules that can be moved to wherever they are required around the house. The studio head",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "NorthGlass curved glass technology creates Glasshouse Theatre's rippling facade",
+      "url": "https://www.dezeen.com/2026/06/29/northglass-curved-glass-technology-facade/",
+      "excerpt": "Promotion: Chinese glass manufacturer NorthGlass has developed a curved glass technology to create the rippling glass facade of the Glasshouse Theatre in Brisbane, Australia. Designed by Australian st",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Sublime Comporta Sand / Fragmentos",
+      "url": "https://www.archdaily.com/1042746/sublime-comporta-sand-fragmentos",
+      "excerpt": "Set within 51 hectares of cork oak and umbrella pine forest in Comporta, Sublime Comporta Sand marks the next chapter of one of Portugal’s most recognisable hospitality destinations. Designed by Lisbo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/5e6d/3e62/7a1b/5e23/887d/large_jpg/sublime-comporta-sand-fragmentos_3.jpg?1782341291",
       "today": true
     },
     {
@@ -192,6 +246,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/neon-colors-transparent-acrylic-stone-layered-apartment-interior-madrid-casa-macedonia-bardo/",
       "excerpt": "casa macedonia unfolds as a sequence of interconnected domestic spaces.\nThe post neon colors, transparent acrylic, and stone shape a layered apartment interior in madrid appeared first on designboom |",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/neon-colors-transparent-acrylic-stone-casa-macedonia-bardo-madrid-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Brick Tower Mixed Use Building / ASA Studio",
+      "url": "https://www.archdaily.com/1042802/brick-tower-mixed-use-building-asa-studio",
+      "excerpt": "A locally built brick tower rises from a sea of corrugated-iron roofs in an upgrading Kigali neighborhood, proving that a comfortable, naturally ventilated high-rise can be built with local materials,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/a683/0789/c600/018c/259d/large_jpg/1.jpg?1782490831",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Raintree Lane Farm House / Yangnar Studio",
+      "url": "https://www.archdaily.com/1042799/raintree-lane-farm-house-yangnar-studio",
+      "excerpt": "What distinguishes this home is not extravagance, but restraint. Resting gently within nearly two acres of land, the house was intentionally designed to sit humbly within its surroundings, embraced by",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/baa1/8481/2b01/8af5/0be2/large_jpg/raintree-lane-farm-house-yangnar-studio_30.jpg?1782692519",
       "today": true
     },
     {
@@ -243,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Estero Residences + Gamba café / Barde + vanVoltt",
-      "url": "https://www.archdaily.com/1042677/estero-residences-plus-gamba-cafe-barde-plus-vanvoltt",
-      "excerpt": "Located in the historic center of San José del Cabo, Estero Residences and Gamba Café is a boutique mixed-use development that combines six residences, a café, retail spaces, and shared amenities with",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/35d8/54d7/6a00/01cc/69c7/large_jpg/_CKZ7040_lr.jpg?1782199901",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.28",
@@ -282,15 +346,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Eight imaginative buildings with curving brickwork",
-      "url": "https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/",
-      "excerpt": "From a sculptural reading space to a turreted mausoleum, our latest roundup gathers curvy brick buildings where skillfully laid brickwork is shaped into fluid forms. Twisted Brick Shell Library, China",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.28",
@@ -311,16 +366,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "The Ecological Intelligence of Sacred Landscapes",
-      "url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
-      "excerpt": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as em",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.28",
@@ -331,25 +376,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "\"Progressive spirit\" of Space Age interiors informs Barcelona cocktail bar",
-      "url": "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
-      "excerpt": "Spanish designer Isern Serra has completed a speakeasy bar in Barcelona featuring multi-coloured modular furniture that evokes Verner Panton's retro-futuristic 1960s installations. Focacha is the late",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "The new Triennale uniforms draw on workwear culture and Bauhaus-inspired geometries",
-      "url": "https://www.wallpaper.com/design-interiors/triennale-milano-uniforms-older-alessandra-facchinetti",
-      "excerpt": "The new uniforms for Milan’s Triennale museum were created by Alessandra Facchinetti and Older and inspired by the Italian institution's visual codes, from the architecture to the colour and material ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qNqHsk7fhJCwaHVMMM8bYN-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.28",
@@ -357,26 +383,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/vertical-white-pillars-rhythmic-facade-primary-school-italy-parma-aaa-office/",
       "excerpt": "facades reference the rhythm of trees and cultivated fields of parma.\nThe post vertical white pillars compose rhythmic facade enfolding primary school in italy appeared first on designboom | architect",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/aaa-office-primary-school-parma-italy-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Buildings of Liangzi Lake Changling Ferry  / UP Architecture",
-      "url": "https://www.archdaily.com/1017130/buildings-of-liangzi-lake-changling-ferry-up-architecture",
-      "excerpt": "Changling Ferry is located on the east coast of Liangzi Lake in Ezhou City, Hubei Province. It is the main tourist distribution center leading to Liangzi Island，a national 4A tourist attraction. At pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6656/59e8/17a9/f25b/bf7a/ce86/large_jpg/buildings-of-liangzi-lake-changling-ferry-up-architecture_1.jpg?1716935169",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "hand-bent after 3D printing, oberdoerfer & krebs’ seating rethinks digital fabrication",
-      "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
-      "excerpt": "the danish design duo reheats flat 3D-prints and bends them along programmed toolpaths to craft hand-shaped furniture.\nThe post hand-bent after 3D printing, oberdoerfer & krebs’ seating rethinks digit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/oberdoerfer-krebs-3d-printing-ukurant-copenhagen-bend-stool-table-designboom-FB.jpg",
       "today": false
     },
     {
@@ -420,46 +426,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -467,16 +433,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -510,35 +466,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -546,26 +473,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -636,16 +543,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.05.20",
-      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
-      "url": "https://www.yamagiwa.co.jp/news/76548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
