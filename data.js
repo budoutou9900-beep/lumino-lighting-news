@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.28  23:07",
+  "fetchedAt": "2026.06.29  02:55",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "久留米ファン": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "高松経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,56 +45,52 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -102,19 +98,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.06.28",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -123,7 +109,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
@@ -133,7 +119,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -143,7 +129,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -153,7 +139,7 @@ window.LUMINO_DATA = {
     {
       "source": "高松経済新聞",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
@@ -161,9 +147,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -172,22 +168,41 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.06.28",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.28",
+      "date": "2026.06.29",
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
       "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "neon colors, transparent acrylic, and stone shape a layered apartment interior in madrid",
+      "url": "https://www.designboom.com/architecture/neon-colors-transparent-acrylic-stone-layered-apartment-interior-madrid-casa-macedonia-bardo/",
+      "excerpt": "casa macedonia unfolds as a sequence of interconnected domestic spaces.\nThe post neon colors, transparent acrylic, and stone shape a layered apartment interior in madrid appeared first on designboom |",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/neon-colors-transparent-acrylic-stone-casa-macedonia-bardo-madrid-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "Nam Da House / 24Minimalist Architecture",
+      "url": "https://www.archdaily.com/1042801/nam-da-house-24minimalist-architecture",
+      "excerpt": "Located in Nam Da Commune, Lam Dong Province, Vietnam, Nam Da House occupies a plot behind the homeowner's parents' residence within a multi-generational family compound. Partially screened by the exi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/a444/0789/c600/018c/2589/large_jpg/NamDaHouse_03.jpg?1782490215",
+      "today": false
     },
     {
       "source": "designboom",
@@ -197,7 +212,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/explore-wint-design-lab-regenerative-futures-humans-connect-bodies/",
       "excerpt": "the studio works on objects that pull people back to their own bodies and away from screens, synthetic feedback, materials that have no biological relationship with them.\nThe post explore WINT design ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/03/WINT-design-lab-regenerative-future-humans-connect-bodies-utopia-designboom-fb.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "Material crafted from plant waste among projects from Lucerne University of Applied Sciences and Arts",
+      "url": "https://www.dezeen.com/2026/06/28/material-plant-waste-projects-the-lucerne-university-of-applied-sciences-and-arts-schoolshows/",
+      "excerpt": "Dezeen School Shows: material made from florists' waste and floral remains from funeral services is among the projects from Lucerne School of Design, Film and Art. Also featured is a tool for the de-e",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -206,7 +230,17 @@ window.LUMINO_DATA = {
       "title": "L-shaped roofs create \"generous shadows\" over Los Cabos residence",
       "url": "https://www.dezeen.com/2026/06/28/casa-en-palmilla-los-cabos-estudio-ignacio-urquiza-ana-paula-de-alba/",
       "excerpt": "A pair of lightweight, L-shaped roofs top the four volumes that form this house in Los Cabos, Mexico, designed by Estudio Ignacio Urquiza Ana Paula de Alba. The hilltop Casa en Palmilla comprises two ",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.28",
+      "title": "YP Building / Simplex Architecture",
+      "url": "https://www.archdaily.com/1042818/yp-building-simplex-architecture",
+      "excerpt": "Located at 1697-38 Seocho-dong in Seoul, the YP Building sits at the interface between an existing apartment complex to the east and a narrow 4-meter-wide street, where future road expansion is antici",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/2bb0/0789/c600/018c/2637/large_jpg/1856_Kyungsub_Shin_e_s.jpg?1782656100",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -216,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042677/estero-residences-plus-gamba-cafe-barde-plus-vanvoltt",
       "excerpt": "Located in the historic center of San José del Cabo, Estero Residences and Gamba Café is a boutique mixed-use development that combines six residences, a café, retail spaces, and shared amenities with",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3a/35d8/54d7/6a00/01cc/69c7/large_jpg/_CKZ7040_lr.jpg?1782199901",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -226,7 +260,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/japanese-miwa-ito-molten-glass-forbidden-treats-food/",
       "excerpt": "the osaka-based artist makes the demanding craft of glassblowing feel newly accessible through food, humor, and internet culture.\nThe post japanese artist miwa ito turns molten glass into forbidden tr",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/miwa-ito-glass-food-art-japan-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -235,7 +269,7 @@ window.LUMINO_DATA = {
       "title": "David Kohn Architects designs London penthouse to resemble \"house on a hill\"",
       "url": "https://www.dezeen.com/2026/06/28/david-kohn-architects-house-hill/",
       "excerpt": "Curved and angular bay windows animate the stepped facade of House on a Hill, a penthouse in central London designed by local studio David Kohn Architects. The three-storey home sits atop a Victorian ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -245,7 +279,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/art-watches",
       "excerpt": "Watchmakers have long collaborated with product designers on designs, but working with fine artists - that’s another level of challenge. Given that most artists are not household names why do it at al",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QG3rLL95UcryFAmvqAgupe-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -254,7 +288,7 @@ window.LUMINO_DATA = {
       "title": "Eight imaginative buildings with curving brickwork",
       "url": "https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/",
       "excerpt": "From a sculptural reading space to a turreted mausoleum, our latest roundup gathers curvy brick buildings where skillfully laid brickwork is shaped into fluid forms. Twisted Brick Shell Library, China",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -264,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/powerwall-studio-rap-netherlands",
       "excerpt": "Studio RAP has used 3D-printed ceramics to express the dynamic form of electromagnetic energy on the wall of an electric substation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sc3UgcwmyVevffbJ7hPozJ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -274,7 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/vabel-townhouse-london-uk",
       "excerpt": "Design and development studio Vabel brings bespoke interiors and contemporary craftsmanship to a 28-home residential project near Hyde Park",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jQi5RP6JDRx6Zm4MVMxyib-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -284,7 +318,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
       "excerpt": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as em",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -294,7 +328,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-through-objects-microlino",
       "excerpt": "The second instalment of the architect's series, 'Objectify,' investigates Italy's tiniest car, the Microlino",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e2owPiWqyXvsGvTJXiGq3d-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -303,7 +337,7 @@ window.LUMINO_DATA = {
       "title": "\"Progressive spirit\" of Space Age interiors informs Barcelona cocktail bar",
       "url": "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
       "excerpt": "Spanish designer Isern Serra has completed a speakeasy bar in Barcelona featuring multi-coloured modular furniture that evokes Verner Panton's retro-futuristic 1960s installations. Focacha is the late",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -313,7 +347,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/triennale-milano-uniforms-older-alessandra-facchinetti",
       "excerpt": "The new uniforms for Milan’s Triennale museum were created by Alessandra Facchinetti and Older and inspired by the Italian institution's visual codes, from the architecture to the colour and material ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qNqHsk7fhJCwaHVMMM8bYN-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -323,7 +357,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/vertical-white-pillars-rhythmic-facade-primary-school-italy-parma-aaa-office/",
       "excerpt": "facades reference the rhythm of trees and cultivated fields of parma.\nThe post vertical white pillars compose rhythmic facade enfolding primary school in italy appeared first on designboom | architect",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/aaa-office-primary-school-parma-italy-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -333,16 +367,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1017130/buildings-of-liangzi-lake-changling-ferry-up-architecture",
       "excerpt": "Changling Ferry is located on the east coast of Liangzi Lake in Ezhou City, Hubei Province. It is the main tourist distribution center leading to Liangzi Island，a national 4A tourist attraction. At pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6656/59e8/17a9/f25b/bf7a/ce86/large_jpg/buildings-of-liangzi-lake-changling-ferry-up-architecture_1.jpg?1716935169",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Sandstone House / 4Brick Studio",
-      "url": "https://www.archdaily.com/1042796/sandstone-house-4brick-studio",
-      "excerpt": "At Bangalore's edge, this home is designed as a retreat for everyday living, art, and quiet contemplation. The homeowners, both doctors, wanted a home that offered respite from their profession while ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/7889/0789/c600/018c/2541/large_jpg/25_06_08_Eagleton_930.jpg?1782479345",
       "today": false
     },
     {
@@ -353,35 +377,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
       "excerpt": "the danish design duo reheats flat 3D-prints and bends them along programmed toolpaths to craft hand-shaped furniture.\nThe post hand-bent after 3D printing, oberdoerfer & krebs’ seating rethinks digit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/oberdoerfer-krebs-3d-printing-ukurant-copenhagen-bend-stool-table-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Textiles promoting emotional wellbeing among Lucerne School of Design, Film and Art projects",
-      "url": "https://www.dezeen.com/2026/06/27/textiles-emotional-wellbeing-lucerne-school-film-art-design-schoolshows/",
-      "excerpt": "Dezeen School Shows: a textile collection designed to promote emotional wellbeing is among the projects from the Lucerne School of Design, Film and Art. Also featured is a project that uses weaving te",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "Machikado Project in Toyama / Plan 21",
-      "url": "https://www.archdaily.com/1042744/machikado-project-in-toyama-plan-21",
-      "excerpt": "A two-family house with separate buildings has been completed in Toyama City, Japan. One building is a single-story structure where the mother lives, and the other is a two-story building where the so",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/535f/ddd9/3811/cc9c/137d/large_jpg/machikado-project-in-toyama-plan-21_18.jpg?1782338454",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.27",
-      "title": "stuffed animal shrine in kyoto invites visitors to honor cherished plush companions",
-      "url": "https://www.designboom.com/architecture/stuffed-animal-shrine-kyoto-visitors-cherished-plush-companions/",
-      "excerpt": "the shrine invites visitors to honor stuffed animals through rituals, reframing cherished toys as companions that connect people, forests, and ideas of care across generations.\nThe post stuffed animal",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/stuffed-animal-shrine-kyoto-visitors-cherished-plush-companions-designboom-1200.jpg",
       "today": false
     },
     {
