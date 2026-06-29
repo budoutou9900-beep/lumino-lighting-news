@@ -1,35 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.29  07:28",
+  "fetchedAt": "2026.06.29  12:27",
   "sourceColors": {
     "axismag.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "久留米ファン": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "山陽新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,49 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "fujitv.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "DNライティング": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -94,109 +90,198 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.06.29",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.29",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.06.29",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.29",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254473",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
+      "today": true
+    },
+    {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=258289",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
+      "today": true
+    },
+    {
+      "source": "fujitv.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
+      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.06.29",
+      "title": "よみうりランド「夜桜ジュエルミネーション」宝石イルミ×桜のライトアップ、アトラクションで絶叫花見も",
+      "url": "https://www.fashion-press.net/news/143539",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/143539/top.jpg?1771484051",
       "today": true
     },
     {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "me by meliá tailors design-forward retreat for pets and the humans they travel with",
+      "title": "OXMAN explores growing color through bacterial pigmentation instead of synthetic dyes",
+      "url": "https://www.designboom.com/technology/oxman-growing-color-bacterial-pigmentation-synthetic-dyes/",
+      "excerpt": "from bacterial pigments to biodegradable footwear, the studio’s latest work extends a two-decade investigation into manufacturing with living systems.\nThe post OXMAN explores growing color through bac",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/oxman-growing-color-bacterial-pigmentation-synthetic-dyes-designboom-15.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Joe Burke bookends 1960s London terrace with compact brick home",
+      "url": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/",
+      "excerpt": "Architect Joe Burke has self-built Leyton House, a home that bookends a 1960s terrace in London, using rough, pale brickwork and a concrete plinth for tactility. Having purchased the existing end-of-t",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "adaptive legacies: why the ultimate form of sustainability means building as little as possible",
+      "url": "https://www.designboom.com/architecture/adaptive-legacies-sustainability-room-for-dreams-podcast/",
+      "excerpt": "the third episode of room for dreams challenges standard preservation cliches to champion hyper-flexible 'bare shell' architecture.\nThe post adaptive legacies: why the ultimate form of sustainability ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "A new virtual house allows a dynamic and expansive look at architecture, design and setting",
+      "url": "https://www.wallpaper.com/architecture/residential/virtual-house-oppenheim-architecture-sky-frame",
+      "excerpt": "Created by Oppenheim Architecture for Sky-Frame, this immersive digital residence moves between Miami and the Swiss Alps, exploring what architecture looks like when freed from physical constraints",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GJKSBSq7gXUJrm49eHStXH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Inside RH London, The Gallery in Mayfair: the brand's new outpost opens in a historic Palladian mansion",
+      "url": "https://www.wallpaper.com/design-interiors/rh-london-the-gallery-in-mayfair",
+      "excerpt": "Gold-leaf ceilings, hand-blown Venetian glass chandeliers and an Ottoman-inspired rooftop terrace – here's what to expect from the American furniture giant's most ambitious opening to date",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YJkYz8HaRQAqeTWrXoidsY-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Billard Leece Partnership unveils Sydney children's hospital with folded metal facade",
+      "url": "https://www.dezeen.com/2026/06/29/billard-leece-partnership-wattle-building-childrens-hospital-sydney/",
+      "excerpt": "Australian architecture studio Billard Leece Partnership has created an aluminium-clad acute-care facility for The Children's Hospital Westmead in Sydney, drawing on its inland river setting. Set with",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "2147: a voice from the future transforms a reclaimed payphone into an AI interface",
+      "url": "https://www.designboom.com/design/2147-voice-future-reclaimed-payphone-ai-interface-divina-machina-qs-ventures-sonar-d/",
+      "excerpt": "the project repurposes an original early-2000s telefónica payphone, covering it in moss and transforming it into an AI-powered interface for real-time conversation.\nThe post 2147: a voice from the fut",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/2147-a-voice-from-the-future-reclaimed-moss-payphone-ai-interface-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Kitchens by Cabbonet",
+      "url": "https://www.dezeen.com/2026/06/29/kitchens-cabbonet-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. Cabbonet's kitchens are designed by Arteim, Hays' studio ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "open week of WDC 2026 reimagines the design festival as a regional platform",
+      "url": "https://www.designboom.com/design/world-design-capital-2026-open-week-regional-design-look-behind-the-scenes/",
+      "excerpt": "held from 5 to 14 June, the ten-day festival transformed more than 150 venues into a distributed platform for design.\nThe post open week of WDC 2026 reimagines the design festival as a regional platfo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/world-design-capital-2026-open-week-regional-design-look-behind-the-scenes01-818x544.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "Fabio Fantolino looks to 1960s offices for interior of retro Turin bar",
+      "url": "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
+      "excerpt": "Cantilever chairs, wood panelling and mirror-clad surfaces meet in Lève Office Bar, a Space Age-informed bar in Turin by Italian architect Fabio Fantolino. The venue is located in the centre of the It",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.29",
+      "title": "ME by meliá tailors design-forward retreat for pets and the humans they travel with",
       "url": "https://www.designboom.com/design/me-by-melia-high-end-hotel-pets-travel/",
-      "excerpt": "tailored for shared journeys, the suite’s playful layout reshapes the relationship between guests and their little friends into a refined universe of bespoke design. \nThe post me by meliá tailors desi",
+      "excerpt": "tailored for shared journeys, the suite’s playful layout reshapes the relationship between guests and their little friends into a refined universe of bespoke design. \nThe post ME by meliá tailors desi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/me-by-melia-designboom-facebookjpg.jpg",
       "today": true
     },
@@ -220,12 +305,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.29",
-      "title": "NorthGlass curved glass technology creates Glasshouse Theatre's rippling facade",
-      "url": "https://www.dezeen.com/2026/06/29/northglass-curved-glass-technology-facade/",
-      "excerpt": "Promotion: Chinese glass manufacturer NorthGlass has developed a curved glass technology to create the rippling glass facade of the Glasshouse Theatre in Brisbane, Australia. Designed by Australian st",
+      "title": "Pedagogy in Space: Architecture Schools' Hidden Curriculum",
+      "url": "https://www.archdaily.com/1042669/pedagogy-in-space-architecture-schools-hidden-curriculum",
+      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/fe09/6c38/4816/a744/2208/large_jpg/pedagogy-in-space-architecture-schools-hidden-curriculum_8.jpg?1782185487",
       "today": true
     },
     {
@@ -236,16 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042746/sublime-comporta-sand-fragmentos",
       "excerpt": "Set within 51 hectares of cork oak and umbrella pine forest in Comporta, Sublime Comporta Sand marks the next chapter of one of Portugal’s most recognisable hospitality destinations. Designed by Lisbo",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/5e6d/3e62/7a1b/5e23/887d/large_jpg/sublime-comporta-sand-fragmentos_3.jpg?1782341291",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "neon colors, transparent acrylic, and stone shape a layered apartment interior in madrid",
-      "url": "https://www.designboom.com/architecture/neon-colors-transparent-acrylic-stone-layered-apartment-interior-madrid-casa-macedonia-bardo/",
-      "excerpt": "casa macedonia unfolds as a sequence of interconnected domestic spaces.\nThe post neon colors, transparent acrylic, and stone shape a layered apartment interior in madrid appeared first on designboom |",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/neon-colors-transparent-acrylic-stone-casa-macedonia-bardo-madrid-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -279,63 +365,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "explore WINT design lab’s regenerative futures that connect humans with their bodies",
-      "url": "https://www.designboom.com/technology/explore-wint-design-lab-regenerative-futures-humans-connect-bodies/",
-      "excerpt": "the studio works on objects that pull people back to their own bodies and away from screens, synthetic feedback, materials that have no biological relationship with them.\nThe post explore WINT design ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/03/WINT-design-lab-regenerative-future-humans-connect-bodies-utopia-designboom-fb.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Material crafted from plant waste among projects from Lucerne University of Applied Sciences and Arts",
-      "url": "https://www.dezeen.com/2026/06/28/material-plant-waste-projects-the-lucerne-university-of-applied-sciences-and-arts-schoolshows/",
-      "excerpt": "Dezeen School Shows: material made from florists' waste and floral remains from funeral services is among the projects from Lucerne School of Design, Film and Art. Also featured is a tool for the de-e",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "L-shaped roofs create \"generous shadows\" over Los Cabos residence",
-      "url": "https://www.dezeen.com/2026/06/28/casa-en-palmilla-los-cabos-estudio-ignacio-urquiza-ana-paula-de-alba/",
-      "excerpt": "A pair of lightweight, L-shaped roofs top the four volumes that form this house in Los Cabos, Mexico, designed by Estudio Ignacio Urquiza Ana Paula de Alba. The hilltop Casa en Palmilla comprises two ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "YP Building / Simplex Architecture",
-      "url": "https://www.archdaily.com/1042818/yp-building-simplex-architecture",
-      "excerpt": "Located at 1697-38 Seocho-dong in Seoul, the YP Building sits at the interface between an existing apartment complex to the east and a narrow 4-meter-wide street, where future road expansion is antici",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/2bb0/0789/c600/018c/2637/large_jpg/1856_Kyungsub_Shin_e_s.jpg?1782656100",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "japanese artist miwa ito turns molten glass into forbidden treats",
-      "url": "https://www.designboom.com/art/japanese-miwa-ito-molten-glass-forbidden-treats-food/",
-      "excerpt": "the osaka-based artist makes the demanding craft of glassblowing feel newly accessible through food, humor, and internet culture.\nThe post japanese artist miwa ito turns molten glass into forbidden tr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/miwa-ito-glass-food-art-japan-designboom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "David Kohn Architects designs London penthouse to resemble \"house on a hill\"",
-      "url": "https://www.dezeen.com/2026/06/28/david-kohn-architects-house-hill/",
-      "excerpt": "Curved and angular bay windows animate the stepped facade of House on a Hill, a penthouse in central London designed by local studio David Kohn Architects. The three-storey home sits atop a Victorian ",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.28",
@@ -353,36 +382,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/powerwall-studio-rap-netherlands",
       "excerpt": "Studio RAP has used 3D-printed ceramics to express the dynamic form of electromagnetic energy on the wall of an electric substation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sc3UgcwmyVevffbJ7hPozJ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "A new Queensway address reimagines the London townhouse",
-      "url": "https://www.wallpaper.com/architecture/residential/vabel-townhouse-london-uk",
-      "excerpt": "Design and development studio Vabel brings bespoke interiors and contemporary craftsmanship to a 28-home residential project near Hyde Park",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jQi5RP6JDRx6Zm4MVMxyib-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "Carlo Ratti explores the Italian summer through objects. Next up, the Microlino",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-through-objects-microlino",
-      "excerpt": "The second instalment of the architect's series, 'Objectify,' investigates Italy's tiniest car, the Microlino",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e2owPiWqyXvsGvTJXiGq3d-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.28",
-      "title": "vertical white pillars compose rhythmic facade enfolding primary school in italy",
-      "url": "https://www.designboom.com/architecture/vertical-white-pillars-rhythmic-facade-primary-school-italy-parma-aaa-office/",
-      "excerpt": "facades reference the rhythm of trees and cultivated fields of parma.\nThe post vertical white pillars compose rhythmic facade enfolding primary school in italy appeared first on designboom | architect",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/aaa-office-primary-school-parma-italy-designboom-1200.jpg",
       "today": false
     },
     {
@@ -426,6 +425,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -433,6 +472,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -466,6 +515,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -473,6 +551,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -543,6 +641,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
