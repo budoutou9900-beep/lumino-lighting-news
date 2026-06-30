@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.30  04:00",
+  "fetchedAt": "2026.06.30  07:59",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,55 +9,55 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "なびたび北東北": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "なびたび北東北": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -113,15 +113,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.06.30",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -194,13 +185,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
       "today": true
     },
     {
@@ -214,6 +205,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "kinetic watch dial reimagines timekeeping through layered colored star-like hands",
+      "url": "https://www.designboom.com/design/kinetic-watch-dial-timekeeping-layered-colored-star-hands-the-trio-of-time-anicorn-raw-color/",
+      "excerpt": "three layered rotating hands form a continuously changing dial structure.\nThe post kinetic watch dial reimagines timekeeping through layered colored star-like hands appeared first on designboom | arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/stellar-kinetic-watch-dial-the-trio-of-time-anicorn-watches-raw-color-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "Christina Augustesen creates \"daylight sculptures\" to evoke colours of sunset",
+      "url": "https://www.dezeen.com/2026/06/30/christina-augustesen-daylight-sculptures-velux-3-days-design/",
+      "excerpt": "Visual artist Christina Augustesen used acrylic lamellas to create a series of colourful sculptures, with hues that change depending on how the light hits them, for 3 Days of Design festival in Copenh",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.30",
@@ -221,6 +231,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/all-projects-gallery-ebba-london-uk",
       "excerpt": "A new gallery by architects EBBA has just opened in Hoxton, offering space for creativity and promoting cross-disciplinary collaboration",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fFVssjfEqogWkbLNQ8eeHb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "The TH Villa Hoi An / 85 Design",
+      "url": "https://www.archdaily.com/1042815/the-th-villa-hoi-an-85-design",
+      "excerpt": "Located on Nguyen Phan Vinh Street in Tan Thanh, Hoi An, the villa occupies a 360-square-meter coastal site near the transition zone of the city's heritage core. The TH Villa Hoi An transforms the str",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a40/f881/0789/c600/018c/2602/large_jpg/1.jpg?1782642868",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "Baan You Yen Residence / Studio Miti",
+      "url": "https://www.archdaily.com/1042790/baan-you-yen-residence-studio-miti",
+      "excerpt": "Within a community surrounded by residential buildings and shop houses in the Bang Pho district of Bangkok, the property owner envisioned a family residence for four family members: the father, mother",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/fc24/8481/2b01/8af5/0d4a/large_jpg/baan-you-yen-residence-studio-miti_27.jpg?1782709314",
       "today": true
     },
     {
@@ -241,6 +271,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "Zhenshi New Materials Industrial Park Phase I / YS-ONE DESIGN",
+      "url": "https://www.archdaily.com/1028088/zhenshi-new-materials-industrial-park-phase-i-one-design-landscape-architecture",
+      "excerpt": "The project is located in the Science and Innovation Zone of Tongxiang City, with a total area of approximately 450,000 square meters in its first phase. Upon completion, it is expected to serve as a ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/67d9/512a/006a/4701/8a1c/aaf5/large_jpg/zhenshi-new-materials-industrial-park-phase-i-one-design-landscape-architecture_18.jpg?1742295461",
       "today": true
     },
     {
@@ -360,35 +400,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Trestle Cabin / Miller Hull Partnership",
-      "url": "https://www.archdaily.com/1030999/trestle-cabin-miller-hull-partnership",
-      "excerpt": "This project seeks to develop a prototype for the development of low-impact cabins on challenging and remote sites. Borrowing conceptual strategies from Metabolist architecture of the 1960s, the propo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6846/f709/c985/fd54/6e9e/37ec/large_jpg/trestle-cabin-miller-hull-partnership_2.jpg?1749481245",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "OXMAN explores growing color through bacterial pigmentation instead of synthetic dyes",
-      "url": "https://www.designboom.com/technology/oxman-growing-color-bacterial-pigmentation-synthetic-dyes/",
-      "excerpt": "from bacterial pigments to biodegradable footwear, the studio’s latest work extends a two-decade investigation into manufacturing with living systems.\nThe post OXMAN explores growing color through bac",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/oxman-growing-color-bacterial-pigmentation-synthetic-dyes-designboom-15.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Joe Burke bookends 1960s London terrace with compact brick home",
-      "url": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/",
-      "excerpt": "Architect Joe Burke has self-built Leyton House, a home that bookends a 1960s terrace in London, using rough, pale brickwork and a concrete plinth for tactility. Having purchased the existing end-of-t",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.06.29",
@@ -396,26 +407,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/virtual-house-oppenheim-architecture-sky-frame",
       "excerpt": "Created by Oppenheim Architecture for Sky-Frame, this immersive digital residence moves between Miami and the Swiss Alps, exploring what architecture looks like when freed from physical constraints",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GJKSBSq7gXUJrm49eHStXH-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Architectural Decisions, Planetary Implications: Interview with UIA 2026 Barcelona Curatorial Team",
-      "url": "https://www.archdaily.com/1042737/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team",
-      "excerpt": "Barcelona is the first city in the history of the UIA World Congress of Architects to host the event twice. The 1996 edition, Present and Futures: Architecture in Cities, arrived at a charged moment, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/44cc/ddd9/3801/8a4a/440f/large_jpg/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team_1.jpg?1782400215",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.29",
-      "title": "Anjung House / Eleena Jamil Architect",
-      "url": "https://www.archdaily.com/1042816/anjung-house-eleena-jamil-architect",
-      "excerpt": "The Anjung comprises two components: a retreat house and a studio space, the latter occupied by Eleena Jamil Architect. Developed by the practice itself, the project reflects and embodies its values a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/24f5/bdfc/1a01/8a6a/2854/large_jpg/anjung-house-eleena-jamil-architect_6.jpg?1782654264",
       "today": false
     },
     {
