@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.30  14:07",
+  "fetchedAt": "2026.06.30  17:02",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,77 +9,89 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ウェザーニュース": {
+    "なびたび北東北": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "トラベルボイス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "函館市公式観光サイト": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "オズモール": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "鉄道ファン・railf.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -104,72 +116,149 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "「関西のイルミネーション2024-2025」大阪・神戸のライトアップ情報・冬のデートスポット",
-      "url": "https://www.fashion-press.net/news/121015",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/121015/top.jpg?1729484799",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "なびたび北東北",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "東山スカイタワー 冬のライトアップ",
-      "url": "https://weathernews.jp/illumi/spot/3202032/",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
       "today": true
     },
     {
-      "source": "トラベルボイス",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "兵庫県姫路市、姫路城ライトアップと連動するイルミネーション、世界遺産登録30周年で",
-      "url": "https://www.travelvoice.jp/20231124-154637",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.travelvoice.jp/wp-content/uploads/2023/11/65a3ddbe-bbe4-43c8-9a9c-505d78f63264.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
-      "source": "函館市公式観光サイト",
-      "cat": "国内情報",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "湯の川冬の灯り",
-      "url": "https://www.hakobura.jp/events/155",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://www.hakobura.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM1MzUsInB1ciI6ImJsb2JfaWQifX0=--feedeeabc54fe2231c4b6df68f117677f926b29b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTAyNCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--75eb20f0126afb7070d4ba36c24ce15eafe14cd2/%E2%80%BB%E5%87%BD%E9%A4%A8%E6%96%B0%E8%81%9E%E7%A4%BE%E6%92%AE%E5%BD%B1%E2%80%BB%20%E6%B9%AF%E3%81%AE%E5%B7%9D%E5%86%AC%E3%81%AE%E7%81%AF%E3%82%8A%20(8).JPG",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.06.30",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.06.30",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "板橋キャンパス構内にてイルミネーションのライトアップを開始しました - teikyo-u.ac.jp",
-      "url": "https://www.teikyo-u.ac.jp/topics/2022/1130-1",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.teikyo-u.ac.jp/application/files/8516/6977/1073/news_20221201_21.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "鶴岡冬まつりライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/1502002/",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア - at-s.com",
-      "url": "https://www.at-s.com/event/article/118922",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "‘I’m drawing in my paintings’: Frank Bowling on the practice behind a life’s work",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/frank-bowling-interview-driven-to-draw-london",
+      "excerpt": "In London, an exhibition at the Royal Drawing School follows more than 60 years of Bowling’s sketches, experiments and works on paper, reframing one of Britain's greatest painters through the act that",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DGV7o6TVL6FKVvxmG8Ctoh-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "In Notting Hill, a former bank is an unexpected location for this Lebanese restaurant",
+      "url": "https://www.wallpaper.com/travel/restaurants/kinz-london-review",
+      "excerpt": "Meaning ‘treasure’ in Arabic, Kinz is an urban oasis bringing a slice of Beirut to London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ptyNfEHppvy3cEbKEfXzBh-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "GT40 silhouette reworked into 800-hp carbon fiber supercar restomod",
+      "url": "https://www.designboom.com/technology/cav-gt40-silhouette-800-hp-carbon-fiber-restomod-gt-mkii-cape-advanced-vehicles/",
+      "excerpt": "built by CAV in cape town, the GT MkII pairs GT40 proportions with a twin-supercharged V8 and optional manual gearbox.\nThe post GT40 silhouette reworked into 800-hp carbon fiber supercar restomod appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/cape-advanced-vehicles-GT-MKII-restomod-car-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "The Design Drop: 11 new launches for your wish list",
+      "url": "https://www.wallpaper.com/design-interiors/best-design-launches-june-2026",
+      "excerpt": "In our latest Design Drop, craft heritage meets democratic design, artisan jewellery and flat-pack furniture. Read on to discover the most compelling objects to cross our desks this month",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/c4SMXjwTQpjgzchvwWHpKm-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "Proposal for Polish embassy in Chicago among projects from the Bartlett School of Architecture",
+      "url": "https://www.dezeen.com/2026/06/30/polish-embassy-projects-from-the-bartlett-school-of-architecture-schoolshows/",
+      "excerpt": "Dezeen School Shows: a Polish embassy located next to Chicago's Kennedy Expressway is among the student projects by The Bartlett School of Architecture. Also featured is a London-based Latin American ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "Menswear fashion month’s standout accessories, from surfboards to cummerbunds",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-accessories-ss-2027-menswear-fashion-month",
+      "excerpt": "Wallpaper* picks the best accessories from the S/S 2027 menswear shows, which unfolded in Florence, Milan and Paris",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4aQr4AMMCtuYstgFTjdp59-1799-80.jpg",
       "today": true
     },
     {
@@ -202,23 +291,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.30",
-      "title": "Tales from a design weekend in the Hamptons: Nomad lands at The Watermill Center",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/nomad-hamptons-watermill-center-june-2026-review",
-      "excerpt": "Itinerant design fair Nomad made its USA debut with an inaugural edition at Robert Wilson’s Watermill Center. Here’s what went down",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JCW5wXHMhH5VszBtAtGCJJ-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "A rare Kendrick Bangs Kellogg-designed organic masterpiece comes to market in La Jolla",
-      "url": "https://www.wallpaper.com/architecture/residential/kendrick-bangs-kellogg-kravis-residence-for-sale",
-      "excerpt": "For the first time in three decades, the Thomas C Kravis, MD Residence – a striking composition of textured concrete and stacked wood –offers an opportunity to own an early work by Kellogg",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PN4bjgH8VhgshzS6DTrCq7-2048-80.jpg",
+      "title": "Modular Nest School in Ancón: Lineage of David II / cotacero",
+      "url": "https://www.archdaily.com/1034695/nido-modular-en-ancon-linaje-de-david-ii-cotacero",
+      "excerpt": "In response to the lack of educational infrastructure in Ancón, the Cotacero team, in collaboration with volunteers and the local community, led the design and construction of the Nido Linaje de David",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68de/b346/1789/2c00/01fa/e199/large_jpg/DSC_5704_copy.jpg?1759425382",
       "today": true
     },
     {
@@ -250,13 +329,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.30",
-      "title": "Now you can build Oliva Rodrigo’s world in Lego",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/lego-olivia-rodrigo",
-      "excerpt": "Five new Lego Editions sets feature the Danish company’s first musical collaboration",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKzaPoCkeFJVbYtiqxA2Lc-1920-80.jpg",
+      "title": "Casa Tahiti Interior / Margine",
+      "url": "https://www.archdaily.com/1042882/casa-tahiti-margine",
+      "excerpt": "Located in a vibrant Roman neighborhood between Pigneto and Torpignattara, an area currently undergoing a remarkable cultural transformation and home to a growing community of young creatives, Casa Ta",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/a92a/8481/2b01/8af5/16ae/large_jpg/casa-tahiti-margine_11.jpg?1782819174",
       "today": true
     },
     {
@@ -279,15 +358,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Collective RailLock ceiling system by The Collective",
-      "url": "https://www.dezeen.com/2026/06/30/collective-raillock-the-collective-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: British company The Collective has released a modular ceiling system for workplaces that combines acoustic functionality and aesthetic appeal. Collective RailLock was designed as an a",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.30",
@@ -295,16 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait/",
       "excerpt": "acne studios transforms standby harajuku into a monochromatic reading room where visitors can browse three decades of publishing.\nThe post acne studios’ pink library in tokyo celebrates three decades ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "After taking a break, British artist Dale Lewis is rediscovering meaning in painting",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/dale-lewis-edel-assanti-review",
-      "excerpt": "Dale Lewis presents his most personal work yet in his fourth solo show at London gallery, Edel Assanti",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AQh9DFctGquzF8bgJZ4RZa.gif",
       "today": true
     },
     {
@@ -335,36 +395,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042794/winners-announced-for-the-21st-saint-gobain-architecture-student-contest",
       "excerpt": "Set on the banks of the Sava River in Belgrade, Serbia, the site of a former cement factory became the starting point for the 21st edition of the Saint-Gobain Architecture Student Contest. Organized i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/563c/bdfc/1a01/8a6a/2c80/large_jpg/winners-announced-for-the-21st-saint-gobain-architecture-student-contest_6.jpg?1782732362",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "kinetic watch dial reimagines timekeeping through layered colored star-like hands",
-      "url": "https://www.designboom.com/design/kinetic-watch-dial-timekeeping-layered-colored-star-hands-the-trio-of-time-anicorn-raw-color/",
-      "excerpt": "three layered rotating hands form a continuously changing dial structure.\nThe post kinetic watch dial reimagines timekeeping through layered colored star-like hands appeared first on designboom | arch",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/stellar-kinetic-watch-dial-the-trio-of-time-anicorn-watches-raw-color-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "“What is This? A Spa, a Gym, a Zoo for Tiny Animals?” Explores the Fundació Mies van der Rohe Archive in Barcelona",
-      "url": "https://www.archdaily.com/1042875/what-is-this-a-spa-a-gym-a-zoo-for-tiny-animals-explores-the-fundacio-mies-van-der-rohe-archive-in-barcelona",
-      "excerpt": "The exhibition What is This? A Spa, a Gym, a Zoo for Tiny Animals? is on view at the Palau Victòria Eugènia in Barcelona from May 11 to July 5, 2026. Organized by the Fundació Mies van der Rohe and cu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/8121/8481/2b01/8af5/15b1/large_jpg/what-is-this-a-spa-a-gym-a-zoo-for-tiny-animals-explores-the-fundacio-mies-van-der-rohe-archive-in-barcelona_1.jpg?1782808869",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Roche Diagnostic Center Interior / Studio Alexander Fehre",
-      "url": "https://www.archdaily.com/1042884/roche-diagnostic-centre-studio-alexander-fehre",
-      "excerpt": "The Roche Diagnostic Innovation Center in Penzberg, Bavaria, is a 35,500 m² research and workplace complex realized for Roche Diagnostics GmbH with an investment of €300 million. The architectural env",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/926e/0789/c600/018c/2818/large_jpg/Studio_Alexander_Fehre_ROCHE_Diagnostik-Innovationszentrum_Arbeitswelt_18.jpg?1782813369",
       "today": true
     },
     {
