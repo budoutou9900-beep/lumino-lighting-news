@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.30  19:47",
+  "fetchedAt": "2026.06.30  21:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "なびたび北東北": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ｄメニューニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ｄメニューニュース": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -120,12 +120,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "なびたび北東北",
+      "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
+      "source": "ｄメニューニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.30",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」〜灯りに祈りを込めて〜",
+      "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10630180",
+      "excerpt": "",
+      "thumbnailUrl": "https://img.topics.smt.news.goo.ne.jp/picture/eventbank/m_eventbank-10630180.jpg",
       "today": true
     },
     {
@@ -146,16 +157,6 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ｄメニューニュース",
-      "cat": "展示・アート",
-      "date": "2026.06.30",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」〜灯りに祈りを込めて〜",
-      "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10630180",
-      "excerpt": "",
-      "thumbnailUrl": "https://img.topics.smt.news.goo.ne.jp/picture/eventbank/m_eventbank-10630180.jpg",
       "today": true
     },
     {
@@ -221,10 +222,29 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.30",
+      "title": "nóema craft prize exhibition examines the evolving language of greek craft in athens",
+      "url": "https://www.designboom.com/art/noema-craft-prize-exhibition-evolving-language-greek-craft-athens/",
+      "excerpt": "the inaugural exhibition awards kostas lambridis and presents 15 finalists redefining contemporary greek craft through material experimentation.\nThe post nóema craft prize exhibition examines the evol",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/noema-craft-prize-athens-contemporary-makers-greek-craft-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.30",
       "title": "hoshino hotel opens within the historic, radiating structure of japan’s former nara prison",
       "url": "https://www.designboom.com/architecture/hoshino-hotel-openshistoric-radiating-japan-former-nara-prison/",
       "excerpt": "the adaptive reuse keeps the prison’s radial plan, hand-laid brick, and vaulted interiors visible within a new hotel program.\nThe post hoshino hotel opens within the historic, radiating structure of j",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hoshinoya-nara-prison-hotel-restoration-completion-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "World Monuments Fund selects 10 \"irreplaceable\" American places for USA 250",
+      "url": "https://www.dezeen.com/2026/06/30/world-monuments-fund-irreplaceable-american-usa-250/",
+      "excerpt": "Watts Towers in Los Angeles, Dallas City Hall and the City of New Orleans are among at-risk places designated as \"irreplaceable\" cultural assets in the USA by heritage organisation World Monuments Fun",
       "today": true
     },
     {
@@ -364,15 +384,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Dezeen's top five houses of June 2026",
-      "url": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/",
-      "excerpt": "A trio of brick-walled homes features in Dezeen's top five houses of the month for June, including a holiday cabin in the Netherlands and a compact British residence built on an infill site. The third",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.06.30",
@@ -380,16 +391,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042882/casa-tahiti-margine",
       "excerpt": "Located in a vibrant Roman neighborhood between Pigneto and Torpignattara, an area currently undergoing a remarkable cultural transformation and home to a growing community of young creatives, Casa Ta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/a92a/8481/2b01/8af5/16ae/large_jpg/casa-tahiti-margine_11.jpg?1782819174",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "colorful printed textile installation reimagines historic laundry building facade in switzerland",
-      "url": "https://www.designboom.com/art/colorful-printed-textile-installation-historic-laundry-building-facade-switzerland-studio-hug-rachele-monti/",
-      "excerpt": "large-scale printed images recalling the building's material history occupy the facade's openings.\nThe post colorful printed textile installation reimagines historic laundry building facade in switzer",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/former-laundry-villa-argentina-switzerland-temporary-installation-studio-hug-rachele-monti-designboom-1200.jpg",
       "today": true
     },
     {
