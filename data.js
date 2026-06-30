@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.30  17:02",
+  "fetchedAt": "2026.06.30  19:47",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "なびたび北東北": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,27 +21,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "ｄメニューニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "鉄道ファン・railf.jp": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -53,45 +53,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -116,22 +120,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.06.30",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "なびたび北東北",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
-      "url": "https://www.navitabi.jp/article/10479",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -142,6 +146,16 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ｄメニューニュース",
+      "cat": "展示・アート",
+      "date": "2026.06.30",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」〜灯りに祈りを込めて〜",
+      "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10630180",
+      "excerpt": "",
+      "thumbnailUrl": "https://img.topics.smt.news.goo.ne.jp/picture/eventbank/m_eventbank-10630180.jpg",
       "today": true
     },
     {
@@ -194,12 +208,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.06.30",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "hoshino hotel opens within the historic, radiating structure of japan’s former nara prison",
+      "url": "https://www.designboom.com/architecture/hoshino-hotel-openshistoric-radiating-japan-former-nara-prison/",
+      "excerpt": "the adaptive reuse keeps the prison’s radial plan, hand-laid brick, and vaulted interiors visible within a new hotel program.\nThe post hoshino hotel opens within the historic, radiating structure of j",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hoshinoya-nara-prison-hotel-restoration-completion-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "\"The World Cup is a unique opportunity to make different public transit approaches visible\"",
+      "url": "https://www.dezeen.com/2026/06/30/world-cup-transit-opinion-deb-chachra/",
+      "excerpt": "The World Cup has highlighted the strengths and weaknesses of public transportation in North America and provided cities with the opportunity to test and implement novel approaches, writes scholar Deb",
       "today": true
     },
     {
@@ -249,6 +283,16 @@ window.LUMINO_DATA = {
       "title": "Proposal for Polish embassy in Chicago among projects from the Bartlett School of Architecture",
       "url": "https://www.dezeen.com/2026/06/30/polish-embassy-projects-from-the-bartlett-school-of-architecture-schoolshows/",
       "excerpt": "Dezeen School Shows: a Polish embassy located next to Chicago's Kennedy Expressway is among the student projects by The Bartlett School of Architecture. Also featured is a London-based Latin American ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "The Apartment That Began with a Tile / Atelier Glushkó",
+      "url": "https://www.archdaily.com/1042810/the-apartment-that-began-with-a-tile-atelier-glushko",
+      "excerpt": "Some projects begin with a floor plan. This one began with a wall of Portuguese tiles. Located in a 36-square-metre apartment in Rio de Janeiro, this project began with a simple ambition: to transform",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/e574/0789/c600/018c/25ea/large_jpg/alta_andrey_glushko_apto_ipanema_mortattistudio-17_copia.jpg?1782507013",
       "today": true
     },
     {
@@ -339,15 +383,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Nikolaj Mentze fits out Cobe's Copenhagen studio with architecture bookshop",
-      "url": "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
-      "excerpt": "Danish architect Nikolaj Mentze has overhauled the interior of Cobe's architecture studio in Copenhagen by adding a bookshop dedicated to publications on the built environment. The bookshop, which ope",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.06.30",
@@ -355,16 +390,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/colorful-printed-textile-installation-historic-laundry-building-facade-switzerland-studio-hug-rachele-monti/",
       "excerpt": "large-scale printed images recalling the building's material history occupy the facade's openings.\nThe post colorful printed textile installation reimagines historic laundry building facade in switzer",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/former-laundry-villa-argentina-switzerland-temporary-installation-studio-hug-rachele-monti-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "acne studios’ pink library in tokyo celebrates three decades of fashion, art, and publishing",
-      "url": "https://www.designboom.com/architecture/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait/",
-      "excerpt": "acne studios transforms standby harajuku into a monochromatic reading room where visitors can browse three decades of publishing.\nThe post acne studios’ pink library in tokyo celebrates three decades ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait-designboom-1200.jpg",
       "today": true
     },
     {
@@ -385,16 +410,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042793/educational-center-with-an-adult-education-school-music-school-and-kindergarten-bez-plus-kock-architekten",
       "excerpt": "A multi-generational educational center featuring a kindergarten, music school, and adult education center was to be designed directly on the city moat of Rottenburg's medieval historic center. The ad",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/5d85/0789/c600/018c/2510/large_jpg/01_260327045_gonzalez.jpg?1782472098",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Winners Announced for the 21st Saint-Gobain Architecture Student Contest",
-      "url": "https://www.archdaily.com/1042794/winners-announced-for-the-21st-saint-gobain-architecture-student-contest",
-      "excerpt": "Set on the banks of the Sava River in Belgrade, Serbia, the site of a former cement factory became the starting point for the 21st edition of the Saint-Gobain Architecture Student Contest. Organized i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/563c/bdfc/1a01/8a6a/2c80/large_jpg/winners-announced-for-the-21st-saint-gobain-architecture-student-contest_6.jpg?1782732362",
       "today": true
     },
     {
