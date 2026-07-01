@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.01  14:23",
+  "fetchedAt": "2026.07.01  17:10",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "なびたび北東北": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -116,6 +116,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.01",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "なびたび北東北",
+      "cat": "展示・アート",
+      "date": "2026.07.01",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.01",
@@ -136,16 +155,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.01",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.01",
@@ -163,15 +172,6 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.01",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -208,40 +208,78 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.01",
+      "title": "Styling and tech upgrades and a plethora of powertrain options define the 5th gen BMW X5",
+      "url": "https://www.wallpaper.com/transportation/bmw-x5-review",
+      "excerpt": "The original SUV is back with a bold claim to be the most flexible, efficient and technologically sophisticated car in its sector. Welcome to the new BMW X5",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GGoKSwFbvyR6VKhodgwRg4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Inside the renovated home of the London Symphony Orchestra",
+      "url": "https://www.wallpaper.com/design-interiors/lso-st-luke-redesign-2026",
+      "excerpt": "The London Symphony Orchestra's Grade I-listed home, LSO St Luke's, has reopened following a sensitive renovation by Levitt Bernstein, introducing state-of-the-art recording facilities while preservin",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tJu6bVP38Kw7tvn3e6kDuf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "This sophisticated skyscraper hotel brings old Shanghai into the future",
+      "url": "https://www.wallpaper.com/travel/hotels/andaz-shanghai-itc-review",
+      "excerpt": "Set inside Xujiahui’s new ITC complex, Andaz Shanghai ITC finds warmth, wit and old-Shanghai character above the city rush",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eotAtxDR3cGrsG7ALhd6ZJ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "MAD opens shenzhen’s tengyun center with lifted, cloud-like offices",
+      "url": "https://www.designboom.com/architecture/mad-shenzhen-tengyun-center-cloud-offices-tencent-china/",
+      "excerpt": "MAD lifts tencent’s campus above the ground, elevating the corporate offices' fluid structure over public coastal space.\nThe post MAD opens shenzhen’s tengyun center with lifted, cloud-like offices ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/MAD-tengyun-center-shenzhen-china-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Dezeen's Design You Can Feel exhibition with ASUS wins prestigious industry award",
+      "url": "https://www.dezeen.com/2026/07/01/dezeen-asus-ppa-awards-win-design-you-can-feel-exhibition/",
+      "excerpt": "Dezeen's Design You Can Feel collaboration with ASUS has been named commercial partnership of the year for its \"exceptional creativity\" at the Professional Publishers Association's annual awards gala.",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "How Yves Saint Laurent became a master of the fashion image",
+      "url": "https://www.wallpaper.com/fashion-beauty/yves-saint-laurent-photography-exhibition-new-york",
+      "excerpt": "‘He was a genius at marketing,’ says Nastasia Alberti, co-curator of a new exhibition on the couturier’s pioneering relationship with photography at New York’s International Center of Photography",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9NjyBRygvK7zVqsTSLrur7-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Adinne chair by True Design among five new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/07/01/adinne-chair-true-design-products-lighting-seating-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a chair made from leather and wood designed to reference hand sketches is among five new products featured on Dezeen Showroom. Adinne chair by Leonardo Rossano for True Design Solid w",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
       "title": "The Architecture Edit: 10 amazing houses that made an impression in June",
       "url": "https://www.wallpaper.com/architecture/residential/best-residential-architecture-june-2026",
       "excerpt": "A selection of the month's most exceptional homes, chosen by the Wallpaper* editors, from a subterranean home in south London to a reimagined watchtower in Tuscany",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b3Diyg2XDbsH9VwB9kVmrN-1415-80.webp",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "London to Le Mans and back: a fitting farewell to Alpine’s awesome A110",
-      "url": "https://www.wallpaper.com/transportation/farewell-alpine-a110",
-      "excerpt": "Production of the Alpine A110 is ceasing. Wallpaper* drove one to Le Mans to celebrate this contemporary sporting classic, in the company of Alpine Racing",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y44qeBM5A6miuz5Fgai2J8-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Midcentury classics get the Liberty London treatment in a new Vinterior collaboration –shop the pieces here",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/liberty-london-vinterior-midcentury-furniture",
-      "excerpt": "Five iconic midcentury pieces, sourced by the pre-loved furniture marketplace and dressed in archival Liberty prints, land today",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PrkPaxS55JPbCadXmCBkMh-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "What is biophilic architecture? Our guide explains all",
-      "url": "https://www.wallpaper.com/architecture/what-is-biophilic-architecture-guide",
-      "excerpt": "Confused about biophilia and biophilic architecture? Our guide is here to clear things up – from what the movement means to how it looks and its key examples",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YYP2K5w3tzvYiaBWZbFrd4-1415-80.jpg",
       "today": true
     },
     {
@@ -283,31 +321,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Fantastic Frank Stockholm Showroom / ASKA",
+      "url": "https://www.archdaily.com/1042878/fantastic-frank-stockholm-showroom-aska",
+      "excerpt": "Architecture practice ASKA unveils a new showroom for real estate agency Fantastic Frank in Stockholm, following its visual identity update. A full renovation of a 160 square meters ground floor unit ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/8051/0789/c600/018c/27ab/large_jpg/2_ASKA_ARCHITECTS_FANTASTIC_FRANK_MIKAEL_LUNDBLAD_HIRES.jpg?1782808677",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.01",
       "title": "Gustaf Westman creates colourful room settings for Selfridges pop-up store",
       "url": "https://www.dezeen.com/2026/07/01/gustaf-westman-selfridges-pop-up/",
       "excerpt": "Swedish designer Gustaf Westman has designed specifically British homewares, including a tea strainer and a fish-and-chips holder, for his pop-up at department store Selfridges, where he created IKEA-",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "J Hannah returns to a slower way of creating with a considered new jewellery collection",
-      "url": "https://www.wallpaper.com/watches-jewellery/j-hannah-interview",
-      "excerpt": "The Los Angeles-based jewellery designer pays homage to traditional techniques in the JH Editions collection, including one-of-a-kind rings",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jrHhBRvRppShSkH6mUrXLE.gif",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Velo chair by Layer for Andreu World",
-      "url": "https://www.dezeen.com/2026/07/01/velo-layer-andreu-world-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: British designer Benjamin Hubert and his studio Layer have created a task chair for flexible working named Velo, manufactured by Andreu World. The Velo chair first task chair from the",
       "today": true
     },
     {
@@ -321,15 +350,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Sinaldaba organises Cecebre House in Spain around crescent-shaped courtyard",
-      "url": "https://www.dezeen.com/2026/07/01/sinaldaba-cecebre-house/",
-      "excerpt": "A crescent-shaped courtyard creates a \"domestic refuge\" at the heart of this minimalist house in Galicia, Spain, designed by local architecture studio Sinaldaba. Named Cecebre House after the municipa",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -337,16 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence/",
       "excerpt": "originally designed for FDNY engine company no. 55, the landmarked 1887 firehouse is now on the market.\nThe post from firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "alaïa clads first miami boutique in pink mosaic tiles, from interior to facade",
-      "url": "https://www.designboom.com/architecture/pink-mosaic-surface-alaia-first-miami-boutique-halleroed/",
-      "excerpt": "designed by halleroed, alaïa’s boutique combines mosaic architecture, living greenery by patrick blanc, and collectible furniture.\nThe post alaïa clads first miami boutique in pink mosaic tiles, from ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pink-mosaic-surface-alaia-first-miami-boutique-halleroed-designboom-1200.jpg",
       "today": true
     },
     {
@@ -387,16 +397,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042771/the-building-in-motion-how-vertical-mobility-is-redefining-contemporary-architecture",
       "excerpt": "In 1743, a small cabin suspended by ropes was installed in a courtyard of the Palace of Versailles for the private use of King Louis XV. Manually operated by servants hidden from view, the so-called \"",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/c7dd/bdfc/1a01/8a6a/2fd5/large_jpg/the-building-in-motion-how-vertical-mobility-is-redefining-contemporary-architecture_11.jpg?1782761450",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Eduardo Souto de Moura Receives UIA Gold Medal at Ceremony Held in Sagrada Família, Barcelona",
-      "url": "https://www.archdaily.com/1042925/eduardo-souto-de-moura-receives-uia-gold-medal-at-ceremony-held-in-sagrada-familia-barcelona",
-      "excerpt": "On June 30, 2026, Portuguese architect Eduardo Souto de Moura received the 2026 UIA Gold Medal, the highest distinction awarded by the International Union of Architects, during a ceremony held at the ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/d5e2/8481/2b01/8af5/1beb/large_jpg/eduardo-souto-de-moura-receives-uia-gold-medal-at-ceremony-held-in-sagrada-familia-barcelona_7.jpg?1782896108",
       "today": true
     },
     {
