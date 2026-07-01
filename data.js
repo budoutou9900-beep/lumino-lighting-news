@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.01  11:19",
+  "fetchedAt": "2026.07.01  14:23",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -116,21 +116,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.01",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.01",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -141,6 +133,16 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.01",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -206,6 +208,36 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.01",
+      "title": "The Architecture Edit: 10 amazing houses that made an impression in June",
+      "url": "https://www.wallpaper.com/architecture/residential/best-residential-architecture-june-2026",
+      "excerpt": "A selection of the month's most exceptional homes, chosen by the Wallpaper* editors, from a subterranean home in south London to a reimagined watchtower in Tuscany",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b3Diyg2XDbsH9VwB9kVmrN-1415-80.webp",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "London to Le Mans and back: a fitting farewell to Alpine’s awesome A110",
+      "url": "https://www.wallpaper.com/transportation/farewell-alpine-a110",
+      "excerpt": "Production of the Alpine A110 is ceasing. Wallpaper* drove one to Le Mans to celebrate this contemporary sporting classic, in the company of Alpine Racing",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y44qeBM5A6miuz5Fgai2J8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Midcentury classics get the Liberty London treatment in a new Vinterior collaboration –shop the pieces here",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/liberty-london-vinterior-midcentury-furniture",
+      "excerpt": "Five iconic midcentury pieces, sourced by the pre-loved furniture marketplace and dressed in archival Liberty prints, land today",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PrkPaxS55JPbCadXmCBkMh-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.01",
       "title": "What is biophilic architecture? Our guide explains all",
       "url": "https://www.wallpaper.com/architecture/what-is-biophilic-architecture-guide",
       "excerpt": "Confused about biophilia and biophilic architecture? Our guide is here to clear things up – from what the movement means to how it looks and its key examples",
@@ -218,7 +250,7 @@ window.LUMINO_DATA = {
       "date": "2026.07.01",
       "title": "craft x tech combines japan’s legacy of artisanal craftsmanship with contemporary art and design",
       "url": "https://www.designboom.com/design/craft-x-tech-japan-legacy-artisanal-craftsmanship-contemporary-art-design/",
-      "excerpt": "the artistic project's founder and curatorial director talk the generative collaborations that emerged when marrying contemporary design with historic crafts\nThe post craft x tech combines japan’s leg",
+      "excerpt": "the artistic project's founder and curatorial director talk the generative collaborations that emerged when marrying contemporary design with historic crafts.\nThe post craft x tech combines japan’s le",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/craft-tech-designboom-16.jpg",
       "today": true
     },
@@ -289,16 +321,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "This pink-doused boutique in New York's Chinatown is a temple to fashion, Korean tradition and stoner culture",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/sundae-school-new-york-store",
-      "excerpt": "Architect Nohar Agadi designed Sundae School to evoke sacred Korean buildings and a particular kind of flower",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6226YB3wCZo26yiiXQM3wE-2000-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -311,9 +333,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.01",
-      "title": "from FDNY firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence",
+      "title": "from firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence",
       "url": "https://www.designboom.com/architecture/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence/",
-      "excerpt": "originally designed for FDNY engine company no. 55, the landmarked 1887 firehouse is now on the market.\nThe post from FDNY firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo reside",
+      "excerpt": "originally designed for FDNY engine company no. 55, the landmarked 1887 firehouse is now on the market.\nThe post from firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence-designboom-1200.jpg",
       "today": true
     },
@@ -321,9 +343,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.01",
-      "title": "pink mosaic flows across every surface at alaïa’s first miami boutique",
+      "title": "alaïa clads first miami boutique in pink mosaic tiles, from interior to facade",
       "url": "https://www.designboom.com/architecture/pink-mosaic-surface-alaia-first-miami-boutique-halleroed/",
-      "excerpt": "designed by halleroed, alaïa’s boutique combines mosaic architecture, living greenery by patrick blanc, and collectible furniture.\nThe post pink mosaic flows across every surface at alaïa’s first miam",
+      "excerpt": "designed by halleroed, alaïa’s boutique combines mosaic architecture, living greenery by patrick blanc, and collectible furniture.\nThe post alaïa clads first miami boutique in pink mosaic tiles, from ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pink-mosaic-surface-alaia-first-miami-boutique-halleroed-designboom-1200.jpg",
       "today": true
     },
@@ -331,30 +353,50 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.01",
-      "title": "What Can Architectural Practice Learn From Botany?",
-      "url": "https://www.archdaily.com/1042783/what-can-architectural-practice-learn-from-botany",
-      "excerpt": "While human life depends heavily on plants for the medicines, building materials, and fuel they provide, they also play a vital role in many ecological processes. From climate regulation through carbo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/bb2d/8481/2b01/8af5/04e1/large_jpg/exploring-botanical-gardens-what-can-architectural-practice-learn-from-botany_8.jpg?1782430513",
+      "title": "Architectures of Movement: ArchDaily's July Editorial Focus",
+      "url": "https://www.archdaily.com/1042807/architectures-of-movement-archdailys-july-editorial-focus",
+      "excerpt": "Every twelve years, the banks of the Ganges at Prayagraj become one of the largest cities on Earth — and then disappear. The Maha Kumbh Mela draws over 400 million pilgrims across six weeks, requiring",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/c461/8481/2b01/8af5/0915/large_jpg/architectures-of-movement-archdailys-july-editorial-focus_9.jpg?1782498413",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.01",
-      "title": "No.41 House / Tristan Burfield",
-      "url": "https://www.archdaily.com/1042893/n1-house-tristan-burfield",
-      "excerpt": "In the hinterland of Victoria's Mornington Peninsula, Red Hill is a distinguished area known for its rustic charm. A cool climate with high rainfall is renowned for food and wine destinations, along w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/c912/bdfc/1a01/8a6a/358b/large_jpg/n1-house-tristan-burfield_28.jpg?1782827296",
+      "title": "Agricultural Afterlives: When Waste Becomes Architecture",
+      "url": "https://www.archdaily.com/1042670/agricultural-afterlives-when-waste-becomes-architecture",
+      "excerpt": "A building material rarely begins where architecture encounters it. By the time concrete reaches a construction site, its limestone has already been quarried, processed, and transformed. Timber arrive",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/fd17/8576/0e01/8921/be2c/large_jpg/agricultural-afterlives-when-waste-becomes-architecture_10.jpg?1782185284",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.01",
-      "title": "Oculus House / Condon Scott Architects",
-      "url": "https://www.archdaily.com/1042885/oculus-house-condon-scott-architects",
-      "excerpt": "Oculus House is a residence in Queenstown, New Zealand that balances calm and inward-focused living with expansive alpine views. Centered around its namesake, an oculus courtyard, the home responds di",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/aebf/0789/c600/018c/2841/large_jpg/Condon_Scott_Architects_Oculus_House_Biddi_Rowley_Entrance.jpg?1782820614",
+      "title": "One Milestone Life Science Campus / Studio Gang + Henning Larsen",
+      "url": "https://www.archdaily.com/1042866/one-milestone-life-science-campus-studio-gang-plus-henning-larsen",
+      "excerpt": "Featuring distinct designs from each firm, One Milestone completes the first phase of Tishman Speyer and the Harvard Allston Land Company's Enterprise Research Campus (ERC), a new mixed-use developmen",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/3562/bdfc/1a01/8a6a/31b7/large_jpg/breakthrough-properties-one-milestone-studio-gang-plus-henning-larsen_6.jpg?1782789487",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "The Building in Motion: How Vertical Mobility Is Redefining Contemporary Architecture",
+      "url": "https://www.archdaily.com/1042771/the-building-in-motion-how-vertical-mobility-is-redefining-contemporary-architecture",
+      "excerpt": "In 1743, a small cabin suspended by ropes was installed in a courtyard of the Palace of Versailles for the private use of King Louis XV. Manually operated by servants hidden from view, the so-called \"",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/c7dd/bdfc/1a01/8a6a/2fd5/large_jpg/the-building-in-motion-how-vertical-mobility-is-redefining-contemporary-architecture_11.jpg?1782761450",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Eduardo Souto de Moura Receives UIA Gold Medal at Ceremony Held in Sagrada Família, Barcelona",
+      "url": "https://www.archdaily.com/1042925/eduardo-souto-de-moura-receives-uia-gold-medal-at-ceremony-held-in-sagrada-familia-barcelona",
+      "excerpt": "On June 30, 2026, Portuguese architect Eduardo Souto de Moura received the 2026 UIA Gold Medal, the highest distinction awarded by the International Union of Architects, during a ceremony held at the ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/d5e2/8481/2b01/8af5/1beb/large_jpg/eduardo-souto-de-moura-receives-uia-gold-medal-at-ceremony-held-in-sagrada-familia-barcelona_7.jpg?1782896108",
       "today": true
     },
     {
@@ -366,46 +408,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/170/132A3612_300dpi.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Grape Classroom in the Field / atelier anonymous",
-      "url": "https://www.archdaily.com/1042763/grape-classroom-in-the-field-atelier-anonymous",
-      "excerpt": "Project Background: A Micro-Gallery for Rural Life - This project is located in Junshi Village, Baoying County, Yangzhou, Jiangsu—a beautiful rural area centered on grape cultivation. Serving both as ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/a23f/8481/2b01/8af5/10f5/large_jpg/grape-classroom-in-the-field-atelier-anonymous_37.jpg?1782751825",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Malhaar Residence / Vaissnavi Shukl",
-      "url": "https://www.archdaily.com/1042859/malhaar-residence-vaissnavi-shukl",
-      "excerpt": "Located on the quiet outskirts of Ahmedabad, Malhaar gathers itself inward, forming a single-storey world organized around a central court — a space that is less a void and more a living core. Here, t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/d5fd/8481/2b01/8af5/1933/large_jpg/malhaar-residence-vaissnavi-shukl_10.jpg?1782830606",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "‘I’m drawing in my paintings’: Frank Bowling on the practice behind a life’s work",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/frank-bowling-interview-driven-to-draw-london",
-      "excerpt": "In London, an exhibition at the Royal Drawing School follows more than 60 years of Bowling’s sketches, experiments and works on paper, reframing one of Britain's greatest painters through the act that",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DGV7o6TVL6FKVvxmG8Ctoh-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "In Notting Hill, a former bank is an unexpected location for this Lebanese restaurant",
-      "url": "https://www.wallpaper.com/travel/restaurants/kinz-london-review",
-      "excerpt": "Meaning ‘treasure’ in Arabic, Kinz is an urban oasis bringing a slice of Beirut to London",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ptyNfEHppvy3cEbKEfXzBh-2560-80.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
