@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.01  21:23",
+  "fetchedAt": "2026.07.01  23:08",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "なびたび北東北": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "鉄道ファン・railf.jp": {
+    "Yahoo!ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -96,11 +96,11 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
+      "source": "ADF Web Magazine",
+      "cat": "展示・アート",
       "date": "2026.07.01",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "title": "シドニーのADesignStudioによるカフェレストランの照明インスタレーション",
+      "url": "https://www.adfwebmagazine.jp/architect/adesignstudios-custom-lighting-installation-for-barlume-cafe-restaurant-in-the-new-landmark-tower-of-sydney/",
       "excerpt": "",
       "today": true
     },
@@ -108,30 +108,19 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.01",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.07.01",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "なびたび北東北",
-      "cat": "展示・アート",
-      "date": "2026.07.01",
-      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
-      "url": "https://www.navitabi.jp/article/10479",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
       "today": true
     },
     {
@@ -152,6 +141,16 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.01",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -185,16 +184,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.01",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.01",
@@ -202,6 +191,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.01",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.01",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
       "today": true
     },
     {
@@ -230,6 +238,16 @@ window.LUMINO_DATA = {
       "title": "Clase Azul's La Hacienda complex in Jalisco features \"ceramic horizon\"",
       "url": "https://www.dezeen.com/2026/07/01/clase-azuls-la-hacienda-jalisco-atelier-ars/",
       "excerpt": "A team of architects has produced a multi-building complex called La Hacienda for tequila brand Clase Azul in Jalisco, Mexico, integrating artisanal building practices at an industrial scale for its r",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Iporanga Beach House / DB Arquitetos",
+      "url": "https://www.archdaily.com/1042917/iporanga-beach-house-db-arquitetos",
+      "excerpt": "Designed by architect David Bastos, head of the firm DB Arquitetos, this two-story beach house is located in a gated community in Guarujá, on the southern coast of São Paulo.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/ce84/0789/c600/018c/2714/large_jpg/Casa_em_Iporanga_SP_projetada_pelo_arquiteto_DAVID_BASTOS___foto_3.jpg?1782763248",
       "today": true
     },
     {
@@ -279,6 +297,16 @@ window.LUMINO_DATA = {
       "title": "Dezeen's Design You Can Feel exhibition with ASUS wins prestigious industry award",
       "url": "https://www.dezeen.com/2026/07/01/dezeen-asus-ppa-awards-win-design-you-can-feel-exhibition/",
       "excerpt": "Dezeen's Design You Can Feel collaboration with ASUS has been named commercial partnership of the year for its \"exceptional creativity\" at the Professional Publishers Association's annual awards gala.",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Rural Guesthouse La Reunión / IR arquitectura + Menhir Arquitectura",
+      "url": "https://www.archdaily.com/1042786/rural-guesthouse-la-reunion-ir-arquitectura-plus-menhir-arquitectura",
+      "excerpt": "La Reunión is set on a large-scale rural site on the outskirts of Rawson, in the province of Buenos Aires, within a dense and uncommon woodland in the otherwise open geography of the area. The project",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/13a1/0789/c600/018c/24d1/large_jpg/35_javier_agustin_rojas_rawson_DSF5703_low.jpg?1782453221",
       "today": true
     },
     {
@@ -377,26 +405,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/robotic-carving-reclaimed-stone-waste-porous-modular-system-vlad-tenu/",
       "excerpt": "vlad tenu's fluid stone transforms reclaimed quarry waste into a modular system using computational design and robotic fabrication.\nThe post robotic carving transforms reclaimed stone waste into porou",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/robotic-carving-reclaimed-stone-waste-porous-modular-system-vlad-tenu-designboom1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Architectures of Movement: ArchDaily's July Editorial Focus",
-      "url": "https://www.archdaily.com/1042807/architectures-of-movement-archdailys-july-editorial-focus",
-      "excerpt": "Every twelve years, the banks of the Ganges at Prayagraj become one of the largest cities on Earth — and then disappear. The Maha Kumbh Mela draws over 400 million pilgrims across six weeks, requiring",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/c461/8481/2b01/8af5/0915/large_jpg/architectures-of-movement-archdailys-july-editorial-focus_9.jpg?1782498413",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Agricultural Afterlives: When Waste Becomes Architecture",
-      "url": "https://www.archdaily.com/1042670/agricultural-afterlives-when-waste-becomes-architecture",
-      "excerpt": "A building material rarely begins where architecture encounters it. By the time concrete reaches a construction site, its limestone has already been quarried, processed, and transformed. Timber arrive",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/fd17/8576/0e01/8921/be2c/large_jpg/agricultural-afterlives-when-waste-becomes-architecture_10.jpg?1782185284",
       "today": true
     },
     {
