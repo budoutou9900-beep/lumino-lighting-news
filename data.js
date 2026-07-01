@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.01  02:54",
+  "fetchedAt": "2026.07.01  07:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,23 +33,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "鉄道ファン・railf.jp": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -85,13 +85,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "パナソニック": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -175,16 +171,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.01",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
       "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
       "date": "2026.07.01",
@@ -195,13 +181,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.01",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "designboom radar: exhibitions to see around the world this july",
+      "url": "https://www.designboom.com/art/radar-exhibitions-july/",
+      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this july appeared firs",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/july-exhibition-radar-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "納入事例に「JWマリオット・ホテル東京」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/170",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/170/132A3612_300dpi.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Grape Classroom in the Field / atelier anonymous",
+      "url": "https://www.archdaily.com/1042763/grape-classroom-in-the-field-atelier-anonymous",
+      "excerpt": "Project Background: A Micro-Gallery for Rural Life - This project is located in Junshi Village, Baoying County, Yangzhou, Jiangsu—a beautiful rural area centered on grape cultivation. Serving both as ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/a23f/8481/2b01/8af5/10f5/large_jpg/grape-classroom-in-the-field-atelier-anonymous_37.jpg?1782751825",
       "today": true
     },
     {
@@ -361,16 +376,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "NIKO JUNE lets industrial fragments bloom into a bouquet of collectible objects",
-      "url": "https://www.designboom.com/design/niko-june-industrial-fragments-bouquet-collectible-objects/",
-      "excerpt": "'bouquet theory' transforms forgotten moulds, scrap steel, and industrial leftovers into a family of cast glass, wood, and aluminium objects.\nThe post NIKO JUNE lets industrial fragments bloom into a ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/niko-june-industrial-fragments-bouquet-collectible-objects-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.06.30",
@@ -387,16 +392,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042882/casa-tahiti-margine",
       "excerpt": "Located in a vibrant Roman neighborhood between Pigneto and Torpignattara, an area currently undergoing a remarkable cultural transformation and home to a growing community of young creatives, Casa Ta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/a92a/8481/2b01/8af5/16ae/large_jpg/casa-tahiti-margine_11.jpg?1782819174",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "From Quarry to Countertop: Tracing the Origins of Natural Stone in Architecture",
-      "url": "https://www.archdaily.com/1042445/from-quarry-to-countertop-tracing-the-origins-of-natural-stone-in-architecture",
-      "excerpt": "For some time now, it has become common for us to ask where what we consume comes from. We check labels, look for local producers, and investigate supply chains in an attempt to understand the impact ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2b/2bca/aa48/ad01/89b7/c46d/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_5.jpg?1781214167",
       "today": false
     },
     {
@@ -636,16 +631,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260526_1",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.05.26",
-      "title": "納入事例に「西日本シティビル コネクティッドコア（地下広場）」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/169",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/169/296A3066_.jpg",
       "today": false
     },
     {
