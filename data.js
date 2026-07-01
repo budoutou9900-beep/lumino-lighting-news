@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.01  17:10",
+  "fetchedAt": "2026.07.01  19:46",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "なびたび北東北": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "なびたび北東北": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "鉄道ファン・railf.jp": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,49 +49,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "パナソニック": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -113,15 +109,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.01",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -205,6 +192,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Clase Azul's La Hacienda complex in Jalisco features \"ceramic horizon\"",
+      "url": "https://www.dezeen.com/2026/07/01/clase-azuls-la-hacienda-jalisco-atelier-ars/",
+      "excerpt": "A team of architects has produced a multi-building complex called La Hacienda for tequila brand Clase Azul in Jalisco, Mexico, integrating artisanal building practices at an industrial scale for its r",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -273,6 +269,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Country House / Teresa Borsoi Arquitetura",
+      "url": "https://www.archdaily.com/1041694/country-house-teresa-borsoi-arquitetura",
+      "excerpt": "The project was designed for a couple with two children who wished to feel embraced by their home. The site is defined by the intense and unique nature of the Cerrado. Consequently, the layout was pla",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69fd/dc37/a59b/8300/01a7/f468/large_jpg/Teresa-Borsoi-BTU-2023-daniel-santo-fotografia_-7820.jpg?1778244693",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -280,6 +286,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/best-residential-architecture-june-2026",
       "excerpt": "A selection of the month's most exceptional homes, chosen by the Wallpaper* editors, from a subterranean home in south London to a reimagined watchtower in Tuscany",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b3Diyg2XDbsH9VwB9kVmrN-1415-80.webp",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Le Diamant / in situ atelier d'architecture + Coarchitecture + Jacques Plante",
+      "url": "https://www.archdaily.com/1042857/le-diamant",
+      "excerpt": "Located at the edge of Place d'Youville, in the heart of Québec City's cultural district, Le Diamant transforms the former YMCA, a Second Empire building constructed in 1879, into a multidisciplinary ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/cd68/0789/c600/018c/26e3/large_jpg/01_DIAMANT_VUEEXTERIEUREPRINCIPALE.jpg?1782762917",
       "today": true
     },
     {
@@ -331,15 +347,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Gustaf Westman creates colourful room settings for Selfridges pop-up store",
-      "url": "https://www.dezeen.com/2026/07/01/gustaf-westman-selfridges-pop-up/",
-      "excerpt": "Swedish designer Gustaf Westman has designed specifically British homewares, including a tea strainer and a fish-and-chips holder, for his pop-up at department store Selfridges, where he created IKEA-",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -377,26 +384,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042670/agricultural-afterlives-when-waste-becomes-architecture",
       "excerpt": "A building material rarely begins where architecture encounters it. By the time concrete reaches a construction site, its limestone has already been quarried, processed, and transformed. Timber arrive",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/fd17/8576/0e01/8921/be2c/large_jpg/agricultural-afterlives-when-waste-becomes-architecture_10.jpg?1782185284",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "One Milestone Life Science Campus / Studio Gang + Henning Larsen",
-      "url": "https://www.archdaily.com/1042866/one-milestone-life-science-campus-studio-gang-plus-henning-larsen",
-      "excerpt": "Featuring distinct designs from each firm, One Milestone completes the first phase of Tishman Speyer and the Harvard Allston Land Company's Enterprise Research Campus (ERC), a new mixed-use developmen",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/3562/bdfc/1a01/8a6a/31b7/large_jpg/breakthrough-properties-one-milestone-studio-gang-plus-henning-larsen_6.jpg?1782789487",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "The Building in Motion: How Vertical Mobility Is Redefining Contemporary Architecture",
-      "url": "https://www.archdaily.com/1042771/the-building-in-motion-how-vertical-mobility-is-redefining-contemporary-architecture",
-      "excerpt": "In 1743, a small cabin suspended by ropes was installed in a courtyard of the Palace of Versailles for the private use of King Louis XV. Manually operated by servants hidden from view, the so-called \"",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/c7dd/bdfc/1a01/8a6a/2fd5/large_jpg/the-building-in-motion-how-vertical-mobility-is-redefining-contemporary-architecture_11.jpg?1782761450",
       "today": true
     },
     {
