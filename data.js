@@ -1,96 +1,109 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.01  19:46",
+  "fetchedAt": "2026.07.01  21:23",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "なびたび北東北": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ヨコハマ経済新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "山陽新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "鉄道ファン・railf.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "designboom": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "大光電機": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "大光電機": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
+    {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.07.01",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -189,6 +202,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "the internet is building this living sculpture one dollar at a time",
+      "url": "https://www.designboom.com/art/internet-living-sculpture-one-dollar-time-qstnmrk-the-last-dollar/",
+      "excerpt": "created by qstn?mrk, the last dollar is a participatory installation in which an internet-controlled ATM dispenses one-dollar bills, allowing visitors to collectively shape an evolving cash sculpture.",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/qstn-mrk-the-last-dollar-collaborative-living-artwork-pile-us-one-dollar-bills-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.01",
+      "title": "Pliskin Architecture creates \"welcoming threshold\" at brick-clad Brooklyn rowhouse",
+      "url": "https://www.dezeen.com/2026/07/01/leonard-street-rowhouse-pliskin-architecture-brooklyn/",
+      "excerpt": "Local studio Pliskin Architecture has updated a rowhouse with an interlocking brick entry programme to create a two-family home that fits into the context of a Brooklyn street. The Leonard Street Rowh",
       "today": true
     },
     {
@@ -328,15 +360,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "UNStudio completes Korean Football Association headquarters with two dedicated stadiums",
-      "url": "https://www.dezeen.com/2026/07/01/unstudio-korean-football-park-south-korea/",
-      "excerpt": "Dutch firm UNStudio has completed the Korean Football Park, a sports venue and new home for the Korean Football Association in Cheonan, South Korea. Designed to \"serve athletes at the highest level wh",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -354,16 +377,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/robotic-carving-reclaimed-stone-waste-porous-modular-system-vlad-tenu/",
       "excerpt": "vlad tenu's fluid stone transforms reclaimed quarry waste into a modular system using computational design and robotic fabrication.\nThe post robotic carving transforms reclaimed stone waste into porou",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/robotic-carving-reclaimed-stone-waste-porous-modular-system-vlad-tenu-designboom1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "from firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence",
-      "url": "https://www.designboom.com/architecture/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence/",
-      "excerpt": "originally designed for FDNY engine company no. 55, the landmarked 1887 firehouse is now on the market.\nThe post from firehouse to artist’s home: inside daniel arsham’s converted 1887 SoHo residence a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence-designboom-1200.jpg",
       "today": true
     },
     {
