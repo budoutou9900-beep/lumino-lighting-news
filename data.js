@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.06.30  23:06",
+  "fetchedAt": "2026.07.01  02:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -98,7 +98,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -108,7 +108,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -118,7 +118,7 @@ window.LUMINO_DATA = {
     {
       "source": "なびたび北東北",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
       "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
@@ -128,7 +128,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -138,7 +138,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
@@ -148,7 +148,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -158,7 +158,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -168,7 +168,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -177,7 +177,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
@@ -197,7 +197,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.06.30",
+      "date": "2026.07.01",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -212,7 +212,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/noema-craft-prize-exhibition-evolving-language-greek-craft-athens/",
       "excerpt": "the inaugural exhibition awards kostas lambridis and presents 15 finalists redefining contemporary greek craft through material experimentation.\nThe post nóema craft prize exhibition examines the evol",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/noema-craft-prize-athens-contemporary-makers-greek-craft-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -222,7 +222,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/hoshino-hotel-openshistoric-radiating-japan-former-nara-prison/",
       "excerpt": "the adaptive reuse keeps the prison’s radial plan, hand-laid brick, and vaulted interiors visible within a new hotel program.\nThe post hoshino hotel opens within the historic, radiating structure of j",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/hoshinoya-nara-prison-hotel-restoration-completion-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -231,7 +231,17 @@ window.LUMINO_DATA = {
       "title": "World Monuments Fund selects 10 \"irreplaceable\" American places for USA 250",
       "url": "https://www.dezeen.com/2026/06/30/world-monuments-fund-irreplaceable-american-usa-250/",
       "excerpt": "Watts Towers in Los Angeles, Dallas City Hall and the City of New Orleans are among at-risk places designated as \"irreplaceable\" cultural assets in the USA by heritage organisation World Monuments Fun",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.06.30",
+      "title": "Malhaar Residence / Vaissnavi Shukl",
+      "url": "https://www.archdaily.com/1042859/malhaar-residence-vaissnavi-shukl",
+      "excerpt": "Located on the quiet outskirts of Ahmedabad, Malhaar gathers itself inward, forming a single-storey world organized around a central court — a space that is less a void and more a living core. Here, t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/d5fd/8481/2b01/8af5/1933/large_jpg/malhaar-residence-vaissnavi-shukl_10.jpg?1782830606",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -240,7 +250,7 @@ window.LUMINO_DATA = {
       "title": "\"The World Cup is a unique opportunity to make different public transit approaches visible\"",
       "url": "https://www.dezeen.com/2026/06/30/world-cup-transit-opinion-deb-chachra/",
       "excerpt": "The World Cup has highlighted the strengths and weaknesses of public transportation in North America and provided cities with the opportunity to test and implement novel approaches, writes scholar Deb",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -250,7 +260,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/frank-bowling-interview-driven-to-draw-london",
       "excerpt": "In London, an exhibition at the Royal Drawing School follows more than 60 years of Bowling’s sketches, experiments and works on paper, reframing one of Britain's greatest painters through the act that",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DGV7o6TVL6FKVvxmG8Ctoh-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -260,7 +270,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/kinz-london-review",
       "excerpt": "Meaning ‘treasure’ in Arabic, Kinz is an urban oasis bringing a slice of Beirut to London",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ptyNfEHppvy3cEbKEfXzBh-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -270,7 +280,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/cav-gt40-silhouette-800-hp-carbon-fiber-restomod-gt-mkii-cape-advanced-vehicles/",
       "excerpt": "built by CAV in cape town, the GT MkII pairs GT40 proportions with a twin-supercharged V8 and optional manual gearbox.\nThe post GT40 silhouette reworked into 800-hp carbon fiber supercar restomod appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/cape-advanced-vehicles-GT-MKII-restomod-car-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -280,7 +290,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/best-design-launches-june-2026",
       "excerpt": "In our latest Design Drop, craft heritage meets democratic design, artisan jewellery and flat-pack furniture. Read on to discover the most compelling objects to cross our desks this month",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/c4SMXjwTQpjgzchvwWHpKm-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -289,7 +299,7 @@ window.LUMINO_DATA = {
       "title": "Proposal for Polish embassy in Chicago among projects from the Bartlett School of Architecture",
       "url": "https://www.dezeen.com/2026/06/30/polish-embassy-projects-from-the-bartlett-school-of-architecture-schoolshows/",
       "excerpt": "Dezeen School Shows: a Polish embassy located next to Chicago's Kennedy Expressway is among the student projects by The Bartlett School of Architecture. Also featured is a London-based Latin American ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -299,7 +309,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042810/the-apartment-that-began-with-a-tile-atelier-glushko",
       "excerpt": "Some projects begin with a floor plan. This one began with a wall of Portuguese tiles. Located in a 36-square-metre apartment in Rio de Janeiro, this project began with a simple ambition: to transform",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/e574/0789/c600/018c/25ea/large_jpg/alta_andrey_glushko_apto_ipanema_mortattistudio-17_copia.jpg?1782507013",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -309,7 +319,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-accessories-ss-2027-menswear-fashion-month",
       "excerpt": "Wallpaper* picks the best accessories from the S/S 2027 menswear shows, which unfolded in Florence, Milan and Paris",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4aQr4AMMCtuYstgFTjdp59-1799-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -319,7 +329,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/crosby-studios-home-of-football-exhibition-new-york-fifa-world-cup-2026",
       "excerpt": "With the 2026 FIFA World Cup well underway, Crosby Studios continues the football frenzy with a new exhibition, ‘Home of Football: Home & Away’ (on view until 19 July)",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/P4CZqPXKT9kjs5Y89nFo28-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -328,7 +338,7 @@ window.LUMINO_DATA = {
       "title": "Hangman lighting collection by Adam Goodrum for Rakumba",
       "url": "https://www.dezeen.com/2026/06/30/hangman-lighting-adam-goodrum-rakumba-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Australian designer Adam Goodrum drew on a classic childhood game to create this lighting collection for design brand Rakumba. The Hangman lighting collection includes table, floor an",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -338,7 +348,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/diagonal-timber-wall-installation-furniture-shelter-landscape-frame-spain-a-coruna-cesuga-erazo-pugliese/",
       "excerpt": "un obradoiro emerges from a hands-on design-build workshop led by erazo pugliese with first-year architecture students at cesuga.\nThe post diagonal timber wall installation becomes furniture, shelter,",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/un-obradoiro-hands-on-design-build-workshop-wood-fabric-cesuga-erazo-pugliese-a-coruna-spain-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -348,7 +358,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1034695/nido-modular-en-ancon-linaje-de-david-ii-cotacero",
       "excerpt": "In response to the lack of educational infrastructure in Ancón, the Cotacero team, in collaboration with volunteers and the local community, led the design and construction of the Nido Linaje de David",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68de/b346/1789/2c00/01fa/e199/large_jpg/DSC_5704_copy.jpg?1759425382",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -358,7 +368,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/niko-june-industrial-fragments-bouquet-collectible-objects/",
       "excerpt": "'bouquet theory' transforms forgotten moulds, scrap steel, and industrial leftovers into a family of cast glass, wood, and aluminium objects.\nThe post NIKO JUNE lets industrial fragments bloom into a ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/niko-june-industrial-fragments-bouquet-collectible-objects-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -367,7 +377,7 @@ window.LUMINO_DATA = {
       "title": "Meister Varma Architects uses salvaged stone for home in India",
       "url": "https://www.dezeen.com/2026/06/30/meister-varma-architects-shilaya-cottage/",
       "excerpt": "Indian studio Meister Varma Architects has completed Shilaya, a home in Tamil Nadu built using stone salvaged from a ruined cottage that once stood on its site. Named after the Sanskrit word śilā, mea",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -377,7 +387,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042882/casa-tahiti-margine",
       "excerpt": "Located in a vibrant Roman neighborhood between Pigneto and Torpignattara, an area currently undergoing a remarkable cultural transformation and home to a growing community of young creatives, Casa Ta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/a92a/8481/2b01/8af5/16ae/large_jpg/casa-tahiti-margine_11.jpg?1782819174",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -387,17 +397,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042445/from-quarry-to-countertop-tracing-the-origins-of-natural-stone-in-architecture",
       "excerpt": "For some time now, it has become common for us to ask where what we consume comes from. We check labels, look for local producers, and investigate supply chains in an attempt to understand the impact ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a2b/2bca/aa48/ad01/89b7/c46d/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_5.jpg?1781214167",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.06.30",
-      "title": "Educational Center with an Adult Education School, Music School and Kindergarten  / Bez+Kock Architekten",
-      "url": "https://www.archdaily.com/1042793/educational-center-with-an-adult-education-school-music-school-and-kindergarten-bez-plus-kock-architekten",
-      "excerpt": "A multi-generational educational center featuring a kindergarten, music school, and adult education center was to be designed directly on the city moat of Rottenburg's medieval historic center. The ad",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/5d85/0789/c600/018c/2510/large_jpg/01_260327045_gonzalez.jpg?1782472098",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -407,7 +407,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "YAMAGIWA",
