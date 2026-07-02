@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.02  19:17",
+  "fetchedAt": "2026.07.02  21:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,33 +57,21 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "パナソニック": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -144,6 +132,7 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -174,6 +163,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Updated and extended, a classic Horace Gifford beach house is for sale on Fire Island Pines",
+      "url": "https://www.wallpaper.com/architecture/residential/horace-gifford-beach-house-for-sale-fire-island-pines",
+      "excerpt": "Owned and cherished by interior and fashion designers over the decades, 122A Ocean Drive is a classic piece of modernist beachside Americana",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QgDUWnvbc9HUeCw3XVF9KU-2283-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "The Hugh Devlin Foundation is set to support emerging creatives, and honour its namesake’s legacy",
+      "url": "https://www.wallpaper.com/design-interiors/hugh-devlin-foundation-launch",
+      "excerpt": "In honour of the late Hugh Devlin – a lawyer and trusted advisor to many in the creative industries – a new foundation will support emerging talents and help them make better decisions at defining mom",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6zSfF6m7QwPnFfPd2bBWe6-2560-80.jpg",
       "today": true
     },
     {
@@ -276,26 +285,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "The moments to look out for at Haute Couture Week",
-      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/haute-couture-week-aw-2026-what-to-expect-schedule",
-      "excerpt": "The rarefied pinnacle of the fashion calendar, Haute Couture Week A/W 2026 runs from the 6-9 July in Paris. Here, Wallpaper* breaks down what to look out for – from the return of Olivier Theyskens to ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k7fAUiHxHMAefNDHp9n6YK-1539-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Wallpaper* celebrates Creative America at 250 – get the August 2026 issue, on sale now",
-      "url": "https://www.wallpaper.com/design-interiors/wallpaper-august-2026-creative-america-read-more",
-      "excerpt": "A snapshot of the nation’s changing creative landscape and new horizons, plus the Wallpaper* US400 – revealed in the August issue, on newsstands",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/phiWkWtyCuep9F5XZcqHzE-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -392,16 +381,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -432,46 +411,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -479,16 +418,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -522,35 +451,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -558,26 +458,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -638,16 +518,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.05.20",
-      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
-      "url": "https://www.yamagiwa.co.jp/news/76548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
