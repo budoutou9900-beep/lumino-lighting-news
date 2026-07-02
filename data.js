@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.02  15:11",
+  "fetchedAt": "2026.07.02  17:41",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術館・アート情報": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,79 +45,66 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
-      "date": "2026.07.02",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.02",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.07.02",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
@@ -157,6 +144,7 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -190,6 +178,55 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Snøhetta uses mass timber and earthen walls for Theodore Roosevelt Presidential Library",
+      "url": "https://www.dezeen.com/2026/07/02/theodore-roosevelt-presidential-library-snohetta-north-dakot/",
+      "excerpt": "Architecture studio Snøhetta has laid a hill-like green roof over timber-and-earth volumes for a building dedicated to American president Theodore Roosevelt, connecting it to the rolling landscape of ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’",
+      "url": "https://www.designboom.com/architecture/garden-ring-carlo-ratti-hospital-future-park-associati-brescia-italy/",
+      "excerpt": "the new campus in italy includes glazed wings and a garden-filled hybrid timber structure.\nThe post kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’ appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carlo-ratti-associati-hospital-future-brescia-italy-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "In Manchester, Ai Weiwei unveils his largest works yet",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/ai-weiwei-button-up-manchester-interview",
+      "excerpt": "‘Ai Weiwei: Button Up!’ at Aviva Studios unites new, large-scale works in the home of the Industrial Revolution",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DA5jaZLHvZxXuBWvAW4fXi-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "bugatti hand-paints digital linework across W16 mistral ‘blanc éternel’",
+      "url": "https://www.designboom.com/technology/bugatti-hand-paints-digital-linework-w16-mistral-blanc-eternel-car/",
+      "excerpt": "a one-off commission turns the roadster’s hidden 3D modeling geometry into black-on-white bodywork with KPM porcelain details.\nThe post bugatti hand-paints digital linework across W16 mistral ‘blanc é",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bugatti-W16-mistral-blanc-eternel-sur-mesure-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Acervo House / GAM Arquitetos",
+      "url": "https://www.archdaily.com/1042966/acervo-house-gam-arquitetos",
+      "excerpt": "Acervo House was conceived from the idea of bringing together architecture, social life, and memory into a single narrative. More than a beach house, the project sought to create spaces capable of ref",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/9ca3/cbaa/8c01/8a6e/d3c3/large_jpg/casa-acervo-gam-arquitetos_5.jpg?1782947054",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -207,6 +244,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/bonsai-treehouse-exhibition-london-uk",
       "excerpt": "The new show opens in a central London park, courtesy of the Museum of Architecture; join in the miniature fun",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CqrdHMpznezZdwVXub6E5T-1198-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Watermill Artist Residence / Roger Ferris + Partners",
+      "url": "https://www.archdaily.com/1042865/watermill-artist-residence-roger-ferris-plus-partners",
+      "excerpt": "Located on the campus of Robert Wilson's Watermill Center, this barn-like structure is designed not only to house artists participating in the institution's famed residency program but also to encoura",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/f529/0789/c600/018c/2764/large_jpg/Roger-Ferris---Watermill-Center_366_copy.jpg?1782773249",
       "today": true
     },
     {
@@ -260,16 +307,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "BIG completes dymak’s HQ as a full-scale showcase of natural materials in denmark",
-      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark/",
-      "excerpt": "timber, clay, cork, and eelgrass shape a workplace where material performance is experienced through everyday use.\nThe post BIG completes dymak’s HQ as a full-scale showcase of natural materials in de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -285,26 +322,6 @@ window.LUMINO_DATA = {
       "title": "MAD adds trio of \"cloud buildings\" to Tencent headquarters in Shenzhen",
       "url": "https://www.dezeen.com/2026/07/02/mad-tengyun-center-tencent-headquarters-shenzhen/",
       "excerpt": "Three interconnected curved volumes and two office towers comprise the Tengyun Center in Shenzhen, China, which has been completed by architecture studio MAD for technology company Tencent. Built as p",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "how TOTO WASHLET®’s thermal comfort rethinks bathroom’s sensory experience",
-      "url": "https://www.designboom.com/design/toto-washlet-progetto-bathroom-sensory-experience/",
-      "excerpt": "the TOTO WASHLET® elevates the bathroom’s sensory experience through technical intelligence and exceptional functionality.\nThe post how TOTO WASHLET®’s thermal comfort rethinks bathroom’s sensory expe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/progetto_designboom_011.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Tatjana von Stein’s The Dean Munich brings the city’s forgotten creative history to life",
-      "url": "https://www.wallpaper.com/travel/hotels/the-dean-munich-tatjana-von-stein-review",
-      "excerpt": "Wallpaper* talks to London-based designer Tatjana von Stein about The Dean Munich, her latest project: a hotel that pairs Jugendstil elegance with the city's exuberant 1980s creative spirit",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EyqtVHDm7yzBwePgjzXYvf-2560-80.jpg",
       "today": true
     },
     {
@@ -353,35 +370,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042955/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review",
       "excerpt": "Recent events highlighted the many ways architecture responds to changing environmental, social, and cultural conditions. Major earthquakes in Venezuela, Japan, and Northern California renewed attenti",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/2d58/cbaa/8c01/8a6e/d4e2/large_jpg/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review_8.jpg?1782984078",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "School Maria Assumpta Instituut / LOW Architecten",
-      "url": "https://www.archdaily.com/1042939/school-maria-assumpta-instituut-low-architecten",
-      "excerpt": "The Maria Assumpta Institute rethinks the school environment from the perspective of children with autism spectrum disorder (ASD), translating pedagogical needs into a clear spatial concept. The proje",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/287a/0789/c600/018c/29eb/large_jpg/LO-MAIO-0985-_StijnBollaert-HR.jpg?1782917326",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "15th São Paulo Architecture Biennial Names Gabriela de Matos and Pedro Rossi as Chief Curators for 2027",
-      "url": "https://www.archdaily.com/1042948/15th-sao-paulo-architecture-biennial-names-gabriela-de-matos-and-pedro-rossi-as-chief-curators-for-2027",
-      "excerpt": "The 15th São Paulo International Architecture Biennial (BIAsp), scheduled to take place in September and October 2027, announced architects Gabriela de Matos and Pedro Rossi as the event's chief curat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/077f/ebd1/e401/893a/aa1e/large_jpg/15th-sao-paulo-architecture-biennial-names-gabriela-de-matos-and-pedro-rossi-as-chief-curators-for-2027_1.jpg?1782974439",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Sunken lightwells illuminate partially submerged London home by Stylus Architects",
-      "url": "https://www.dezeen.com/2026/07/02/green-lodge-stylus-architects-london-house-extension/",
-      "excerpt": "Local studio Stylus Architects has completed Green Lodge, a partially submerged family home in Roehampton Village, southwest London, where a series of sunken lightwells brings daylight into rooms set ",
       "today": true
     },
     {
