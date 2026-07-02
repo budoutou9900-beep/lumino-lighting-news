@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.02  06:37",
+  "fetchedAt": "2026.07.02  09:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,7 +49,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -61,21 +61,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -97,15 +105,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.02",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -179,6 +178,103 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.02",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "monolithic brick volumes wrap weekend house around a series of courtyards in argentina",
+      "url": "https://www.designboom.com/architecture/monolithic-brick-volumes-weekend-house-courtyards-argentina-plug-arquitectura/",
+      "excerpt": "modular construction is adapted to traditional brick craftsmanship.\nThe post monolithic brick volumes wrap weekend house around a series of courtyards in argentina appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/san-andres-de-giles-weekend-brick-house-plug-arquitectura-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Tatjana von Stein’s The Dean Munich brings the city’s forgotten creative history to life",
+      "url": "https://www.wallpaper.com/travel/hotels/the-dean-munich-tatjana-von-stein-review",
+      "excerpt": "Wallpaper* talks to London-based designer Tatjana von Stein about The Dean Munich, her latest project: a hotel that pairs Jugendstil elegance with the city's exuberant 1980s creative spirit",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EyqtVHDm7yzBwePgjzXYvf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "designboom open call – freelance editor",
+      "url": "https://www.designboom.com/design/designboom-open-call-freelance-editor/",
+      "excerpt": "we are looking for experienced freelance editors contribute to designboom’s position as a leading global voice in design, architecture, art, and technology.\nThe post designboom open call – freelance e",
+      "thumbnailUrl": "https://static.designboom.com/wp-content/uploads/2026/07/designboom-job-post-600.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Davidson Prize winner proposes reusing buses as mobile playgrounds",
+      "url": "https://www.dezeen.com/2026/07/02/rua-studio-playdeck-davidson-prize/",
+      "excerpt": "Multidisciplinary team RUA Studio has won this year's Davidson Prize with Playdeck, a concept design that envisions repurposing decommissioned buses into playscapes for people of all ages. The proposa",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "designing for the senses: moving beyond the picture-perfect obsession to activate emotion",
+      "url": "https://www.designboom.com/architecture/designing-emotion-room-for-dreams-podcast/",
+      "excerpt": "the fourth episode of the room for dreams podcast moves past the picture-perfect obsession to explore the drama and imperfection of spatial memory.\nThe post designing for the senses: moving beyond the",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "gris shapes naturally cooled beach club around series of open-air pavilions in guatemala",
+      "url": "https://www.designboom.com/architecture/gris-naturally-cooled-beach-club-series-open-air-pavilions-guatemala/",
+      "excerpt": "the project combines passive cooling strategies with a dispersed layout that encourages movement between architecture, vegetation, and the beach.\nThe post gris shapes naturally cooled beach club aroun",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gris-naturally-cooled-beach-club-series-open-air-pavilions-guatemala-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Open Studio designs izakaya-style restaurant with \"half-dipped dumpling\" lamp",
+      "url": "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
+      "excerpt": "Local firm Open Studio has created a gigantic fibreglass dumpling to illuminate and beckon visitors into Dumpling Darlings, a small-plates restaurant in Singapore's New Bahru shopping centre. The stud",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "This cinematic bathhouse brings the shimmer of the sea to Madrid",
+      "url": "https://www.wallpaper.com/travel/riela-madrid-bathhouse",
+      "excerpt": "Barcelona-based architecture studio Oficina Satélite has designed Riela as an atmospheric bathhouse where ancient ritual meets modern recovery",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yvDh6GsGUiHNfrPGVnriQA-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "A concept car with bite: Alpine teams up with Lacoste to create this snappy A290 Rallye",
+      "url": "https://www.wallpaper.com/transportation/beware-of-the-crocodile-alpine-lacoste-a290-rallye",
+      "excerpt": "The ‘Beware of the Crocodile - Alpine Lacoste A290 Rallye’ is replete with reptilian Easter eggs, bold material choices and the exaggerated essence of these two feisty French brands",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MUZC3YErhbSax5dvR9WQkU-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -189,13 +285,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.02",
-      "title": "‘I can’t dominate it’: emmanuel boos on porcelain, failure, and the beauty of losing control",
-      "url": "https://www.designboom.com/design/emmanuel-boos-porcelain-failure-beauty-losing-control-ceramic-raisonne-new-york/",
-      "excerpt": "the french ceramicist reflects on the stubbornness of porcelain as he lets warps, puddles, and accidents bring strangeness to function.\nThe post ‘I can’t dominate it’: emmanuel boos on porcelain, fail",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/emmanuel-boos-raisonne-noir-cest-noir-exhibition-ceramic-craft-designboom-FB.jpg",
+      "title": "Sunken lightwells illuminate partially submerged London home by Stylus Architects",
+      "url": "https://www.dezeen.com/2026/07/02/green-lodge-stylus-architects-london-house-extension/",
+      "excerpt": "Local studio Stylus Architects has completed Green Lodge, a partially submerged family home in Roehampton Village, southwest London, where a series of sunken lightwells brings daylight into rooms set ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Concrete Memory: 12 Postwar Monuments Across Eastern Europe",
+      "url": "https://www.archdaily.com/1042660/concrete-memory-12-postwar-monuments-across-eastern-europe",
+      "excerpt": "A monument is usually the most conservative building a state will commission. It is expected to stabilize memory, to make history legible, and to give public form to a shared narrative. Eastern Europe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/6bd4/6c38/4816/a744/207a/large_jpg/concrete-and-doubt-12-monuments-across-eastern-europes_1.jpg?1782148107",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Enkime HQ / RHO",
+      "url": "https://www.archdaily.com/1042889/enkime-hq-rho",
+      "excerpt": "Enkime HQ is the new headquarters for one of Europe's leading social media agencies, set within a historic industrial courtyard along the Spree in Berlin-Charlottenburg. The brief called for a workpla",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/baad/0789/c600/018c/28cd/large_jpg/RHO_Clemens_Poloczek-19.jpg?1782823662",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Primus Office Building / Sanjay Puri Architects",
+      "url": "https://www.archdaily.com/1042940/primus-office-building-sanjay-puri-architects",
+      "excerpt": "The Primus is a nine-level, climate-responsive office building in Jaipur, India, composed of a series of capsule-shaped modules stacked vertically to create a breathable and environmentally conscious ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/2ab7/bdfc/1a01/8a6a/3bbf/large_jpg/primus-office-building-sanjay-puri-architects_3.jpg?1782917864",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Beyond Movable Walls: Acoustic Flexibility for Multi-Purpose Spaces",
+      "url": "https://www.archdaily.com/1038020/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces",
+      "excerpt": "One of the defining qualities of contemporary interiors is flexibility. Offices, education facilities, hotels, and cultural venues need to be adaptable. They require spaces that can expand, divide, op",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a35/a731/6c38/4816/a744/199d/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_6.jpg?1781901128",
       "today": true
     },
     {
@@ -209,16 +344,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "the internet is building this living sculpture one dollar at a time",
-      "url": "https://www.designboom.com/art/internet-living-sculpture-one-dollar-time-qstnmrk-the-last-dollar/",
-      "excerpt": "created by qstn?mrk, the last dollar is a participatory installation in which an internet-controlled ATM dispenses one-dollar bills, allowing visitors to collectively shape an evolving cash sculpture.",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/qstn-mrk-the-last-dollar-collaborative-living-artwork-pile-us-one-dollar-bills-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -228,32 +353,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Casa Continuum / Inverse Project",
-      "url": "https://www.archdaily.com/1042769/casa-continuum-inverse-project",
-      "excerpt": "Rather than occupying the highest point of the site, Casa Continuum dissolves into the hillside, transforming a steep tropical terrain into a continuous architectural experience shaped by landscape, c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/3f2f/8385/1500/01fa/e36c/large_jpg/Casa-Continuum-Inverse-Project-Costa-Rica-Alvaro-Fonseca-Depth-Lens-Drone-2.jpg?1782399084",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.01",
       "title": "Clase Azul's La Hacienda complex in Jalisco features \"ceramic horizon\"",
       "url": "https://www.dezeen.com/2026/07/01/clase-azuls-la-hacienda-jalisco-atelier-ars/",
       "excerpt": "A team of architects has produced a multi-building complex called La Hacienda for tequila brand Clase Azul in Jalisco, Mexico, integrating artisanal building practices at an industrial scale for its r",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Iporanga Beach House / DB Arquitetos",
-      "url": "https://www.archdaily.com/1042917/iporanga-beach-house-db-arquitetos",
-      "excerpt": "Designed by architect David Bastos, head of the firm DB Arquitetos, this two-story beach house is located in a gated community in Guarujá, on the southern coast of São Paulo.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/ce84/0789/c600/018c/2714/large_jpg/Casa_em_Iporanga_SP_projetada_pelo_arquiteto_DAVID_BASTOS___foto_3.jpg?1782763248",
       "today": false
     },
     {
@@ -277,103 +382,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "This sophisticated skyscraper hotel brings old Shanghai into the future",
-      "url": "https://www.wallpaper.com/travel/hotels/andaz-shanghai-itc-review",
-      "excerpt": "Set inside Xujiahui’s new ITC complex, Andaz Shanghai ITC finds warmth, wit and old-Shanghai character above the city rush",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eotAtxDR3cGrsG7ALhd6ZJ-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "MAD opens shenzhen’s tengyun center with lifted, cloud-like offices",
-      "url": "https://www.designboom.com/architecture/mad-shenzhen-tengyun-center-cloud-offices-tencent-china/",
-      "excerpt": "MAD lifts tencent’s campus above the ground, elevating the corporate offices' fluid structure over public coastal space.\nThe post MAD opens shenzhen’s tengyun center with lifted, cloud-like offices ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/MAD-tengyun-center-shenzhen-china-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Dezeen's Design You Can Feel exhibition with ASUS wins prestigious industry award",
-      "url": "https://www.dezeen.com/2026/07/01/dezeen-asus-ppa-awards-win-design-you-can-feel-exhibition/",
-      "excerpt": "Dezeen's Design You Can Feel collaboration with ASUS has been named commercial partnership of the year for its \"exceptional creativity\" at the Professional Publishers Association's annual awards gala.",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Rural Guesthouse La Reunión / IR arquitectura + Menhir Arquitectura",
-      "url": "https://www.archdaily.com/1042786/rural-guesthouse-la-reunion-ir-arquitectura-plus-menhir-arquitectura",
-      "excerpt": "La Reunión is set on a large-scale rural site on the outskirts of Rawson, in the province of Buenos Aires, within a dense and uncommon woodland in the otherwise open geography of the area. The project",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3e/13a1/0789/c600/018c/24d1/large_jpg/35_javier_agustin_rojas_rawson_DSF5703_low.jpg?1782453221",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "How Yves Saint Laurent became a master of the fashion image",
-      "url": "https://www.wallpaper.com/fashion-beauty/yves-saint-laurent-photography-exhibition-new-york",
-      "excerpt": "‘He was a genius at marketing,’ says Nastasia Alberti, co-curator of a new exhibition on the couturier’s pioneering relationship with photography at New York’s International Center of Photography",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9NjyBRygvK7zVqsTSLrur7-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Adinne chair by True Design among five new products on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/07/01/adinne-chair-true-design-products-lighting-seating-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: a chair made from leather and wood designed to reference hand sketches is among five new products featured on Dezeen Showroom. Adinne chair by Leonardo Rossano for True Design Solid w",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Country House / Teresa Borsoi Arquitetura",
-      "url": "https://www.archdaily.com/1041694/country-house-teresa-borsoi-arquitetura",
-      "excerpt": "The project was designed for a couple with two children who wished to feel embraced by their home. The site is defined by the intense and unique nature of the Cerrado. Consequently, the layout was pla",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69fd/dc37/a59b/8300/01a7/f468/large_jpg/Teresa-Borsoi-BTU-2023-daniel-santo-fotografia_-7820.jpg?1778244693",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "The Architecture Edit: 10 amazing houses that made an impression in June",
-      "url": "https://www.wallpaper.com/architecture/residential/best-residential-architecture-june-2026",
-      "excerpt": "A selection of the month's most exceptional homes, chosen by the Wallpaper* editors, from a subterranean home in south London to a reimagined watchtower in Tuscany",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b3Diyg2XDbsH9VwB9kVmrN-1415-80.webp",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "craft x tech combines japan’s legacy of artisanal craftsmanship with contemporary art and design",
-      "url": "https://www.designboom.com/design/craft-x-tech-japan-legacy-artisanal-craftsmanship-contemporary-art-design/",
-      "excerpt": "the artistic project's founder and curatorial director talk the generative collaborations that emerged when marrying contemporary design with historic crafts.\nThe post craft x tech combines japan’s le",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/craft-tech-designboom-16.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "Mold Architects carves stepped retreat into rocky hillside overlooking the Aegean Sea",
-      "url": "https://www.dezeen.com/2026/07/01/perma-guest-retreat-mold-architects-serifos-island-aegean-sea/",
-      "excerpt": "Greek studio Mold Architects has completed a hospitality retreat on the island of Serifos, using stone excavated from the rugged terrain to create five guest residences overlooking the Aegean Sea. Nam",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.01",
@@ -394,6 +402,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -401,16 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/flood/proworks_handylight/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "IGNANT",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "The Art of Flowers: In Conversation with Carolin Ruggaber",
-      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
-      "excerpt": "The post The Art of Flowers: In Conversation with Carolin Ruggaber appeared first on IGNANT.",
-      "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1.jpg",
       "today": false
     },
     {
@@ -424,6 +432,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -434,13 +482,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "IGNANT",
+      "source": "LPA",
       "cat": "デザイン",
-      "date": "2026.06.10",
-      "title": "Kissabō: A Contemporary Japanese Tea Bar in Berlin",
-      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
-      "excerpt": "The post Kissabō: A Contemporary Japanese Tea Bar in Berlin appeared first on IGNANT.",
-      "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/06/ignant--kissabo-clemens-poloczek-14.jpg",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -464,6 +512,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -471,6 +548,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -531,6 +628,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
