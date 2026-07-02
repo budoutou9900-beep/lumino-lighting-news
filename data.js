@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.02  21:00",
+  "fetchedAt": "2026.07.02  22:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,31 +17,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,29 +49,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -96,13 +112,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.07.02",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -113,6 +128,16 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.07.02",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -169,10 +194,10 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.02",
-      "title": "Updated and extended, a classic Horace Gifford beach house is for sale on Fire Island Pines",
-      "url": "https://www.wallpaper.com/architecture/residential/horace-gifford-beach-house-for-sale-fire-island-pines",
-      "excerpt": "Owned and cherished by interior and fashion designers over the decades, 122A Ocean Drive is a classic piece of modernist beachside Americana",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QgDUWnvbc9HUeCw3XVF9KU-2283-80.jpg",
+      "title": "Ten years on, Four Seasons Kyoto remains one of the city’s most atmospheric hotels",
+      "url": "https://www.wallpaper.com/travel/hotels/four-seasons-hotel-kyoto-review",
+      "excerpt": "Set around an 800-year-old pond garden in Higashiyama, Four Seasons Kyoto brings together Japanese craft, restorative wellness and a strong case for staying in",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gufkLCoSnHP8fuAwveZZJc-1600-80.jpg",
       "today": true
     },
     {
@@ -199,9 +224,28 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.02",
+      "title": "Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi",
+      "url": "https://www.dezeen.com/2026/07/02/frank-gehry-performing-arts-venue-abu-dhabi-dezeen-agenda/",
+      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features news that construction has commenced on Dar al Funoon Abu Dhabi, which was designed by Frank Gehry before his death. Subscribe to Dez",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.02",
       "title": "Snøhetta uses mass timber and earthen walls for Theodore Roosevelt Presidential Library",
       "url": "https://www.dezeen.com/2026/07/02/theodore-roosevelt-presidential-library-snohetta-north-dakot/",
       "excerpt": "Architecture studio Snøhetta has laid a hill-like green roof over timber-and-earth volumes for a building dedicated to American president Theodore Roosevelt, connecting it to the rolling landscape of ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Abuxarda House 1 / Fragmentos",
+      "url": "https://www.archdaily.com/1041379/abuxarda-house-1-fragmentos",
+      "excerpt": "Located within a private condominium in Cascais, Abuxarda 1 is set in a landscape defined by an extensive pine forest, where a strong sense of calm and seclusion shapes the architectural response. The",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69fe/3ef4/a59b/8300/01a7/f4c9/large_jpg/Fragmentos_Abuxarda1__Louren_oTeixeiradeAbreu_003.jpg?1778270007",
       "today": true
     },
     {
@@ -332,15 +376,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Open Studio designs izakaya-style restaurant with \"half-dipped dumpling\" lamp",
-      "url": "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
-      "excerpt": "Local firm Open Studio has created a gigantic fibreglass dumpling to illuminate and beckon visitors into Dumpling Darlings, a small-plates restaurant in Singapore's New Bahru shopping centre. The stud",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -348,16 +383,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042854/dreaming-in-the-ruins-how-a-sleeping-ritual-in-logrono-proposes-a-new-civic-architecture",
       "excerpt": "Cities are increasingly designed to mitigate risk, and by doing so, need to collect data on climate, infrastructure, biodiversity, and social fragmentation so that the language of resilience becomes a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/c009/8481/2b01/8af5/11a4/large_jpg/rituals-and-ecologies-in-civic-infrastructure-lessons-from-one-third-of-life-at-concentrico-2026_1.jpg?1782759456",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Dymak HQ  / BIG",
-      "url": "https://www.archdaily.com/1042958/dymak-hq-big",
-      "excerpt": "Set between an industrial area and the natural landscape surrounding Glisholm Lake, Dymak's new headquarters in Odense is conceived as a circular building wrapped around a sheltered green courtyard. D",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/3eaa/cbaa/8c01/8a6e/d542/large_jpg/dymak-hq-big_5.jpg?1782988493",
       "today": true
     },
     {
@@ -378,6 +403,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -411,6 +446,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -418,6 +493,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -451,6 +536,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -458,6 +572,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
@@ -518,6 +652,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.05.20",
+      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
+      "url": "https://www.yamagiwa.co.jp/news/76548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     },
     {
