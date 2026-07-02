@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.02  17:41",
+  "fetchedAt": "2026.07.02  19:17",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -144,7 +144,6 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -175,6 +174,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Take an exclusive look behind the scenes of Ye’s ‘King’ music video",
+      "url": "https://www.wallpaper.com/art/music/take-an-exclusive-look-behind-the-scenes-of-yes-king-music-video",
+      "excerpt": "Artist Bianca Censori directs three music videos from the album ‘Bully’ – here she tells us how she translates sound into vision",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Br7tNtNA3LKSmnKDEFz6nP-2560-80.png",
       "today": true
     },
     {
@@ -214,6 +223,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/bugatti-hand-paints-digital-linework-w16-mistral-blanc-eternel-car/",
       "excerpt": "a one-off commission turns the roadster’s hidden 3D modeling geometry into black-on-white bodywork with KPM porcelain details.\nThe post bugatti hand-paints digital linework across W16 mistral ‘blanc é",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bugatti-W16-mistral-blanc-eternel-sur-mesure-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "Mexican Football Federation High-Performance Center (CAR) / Gensler",
+      "url": "https://www.archdaily.com/1042881/mexican-football-federation-high-performance-center-car-rockwell-group-with-gensler",
+      "excerpt": "The Mexican Football Federation's reimagined High-Performance Center (CAR) sets a new global standard, optimizing operations, wellness, and athletic performance. This is a space designed to inspire pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/858d/0789/c600/018c/27e4/large_jpg/FMF_GENSLER_CBSTD-5_w.jpg?1782810016",
       "today": true
     },
     {
@@ -297,16 +316,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Inside a historic Lisbon hotel once known for high-society parties",
-      "url": "https://www.wallpaper.com/entertaining/hosting/palacio-principe-real-hotel-lisbon",
-      "excerpt": "Today a luxury boutique hotel, Palácio Príncipe Real has a history tied to Portugal's aristocracy and the changing tides of the capital",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Lca9xbYRDJS4rihMQJomac-1280-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -360,16 +369,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042958/dymak-hq-big",
       "excerpt": "Set between an industrial area and the natural landscape surrounding Glisholm Lake, Dymak's new headquarters in Odense is conceived as a circular building wrapped around a sheltered green courtyard. D",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/3eaa/cbaa/8c01/8a6e/d542/large_jpg/dymak-hq-big_5.jpg?1782988493",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "UIA World Congress 2026 and Henning Larsen's New Environmental Analysis Platform: This Week's Review",
-      "url": "https://www.archdaily.com/1042955/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review",
-      "excerpt": "Recent events highlighted the many ways architecture responds to changing environmental, social, and cultural conditions. Major earthquakes in Venezuela, Japan, and Northern California renewed attenti",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/2d58/cbaa/8c01/8a6e/d4e2/large_jpg/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review_8.jpg?1782984078",
       "today": true
     },
     {
