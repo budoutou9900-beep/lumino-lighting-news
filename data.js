@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  19:11",
+  "fetchedAt": "2026.07.03  20:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -230,6 +230,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Plaza Luna Vallenata / Tarq Studio",
+      "url": "https://www.archdaily.com/1039373/plaza-luna-vallenata-tarq-studio",
+      "excerpt": "In Valledupar, going to the public market had never been a spatial experience, but rather an everyday necessity: buy, sell, leave. However, on the city's periphery—where public space is scarce and sta",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69aa/2acb/314f/6601/8902/b482/large_jpg/plaza-luna-vallenata-tarq-studio_6.jpg?1772759769",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -373,16 +383,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042370/a-beating-and-bleeding-heart-bodies-streets-and-the-politics-of-care-in-bogota",
       "excerpt": "It's wet season, but this morning's downpour does little to deter the rhythm along La Carrera Séptima. Cyclists and pedestrians weave past ambulatory vendors with carts of avocados, ginger sweets, and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/a891/6c38/4801/88c1/7f27/large_jpg/a-beating-and-bleeding-heart-bodies-streets-and-the-politics-of-care-in-bogota_3.jpg?1781704868",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Coco Beans House / Aamir and Hameeda",
-      "url": "https://www.archdaily.com/1042942/coco-beans-house-aamir-and-hameeda",
-      "excerpt": "At its heart, Coco Beans is a home about coexistence. With the land. With the trees. With light, atmosphere, and the rhythms of everyday living. Rather than imposing itself onto the site, the architec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
       "today": true
     },
     {
