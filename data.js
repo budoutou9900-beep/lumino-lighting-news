@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  10:37",
+  "fetchedAt": "2026.07.03  12:53",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -142,16 +142,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.03",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.03",
@@ -159,6 +149,16 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -188,6 +188,45 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "In transit: how cinematographer Bebe Dierken travels",
+      "url": "https://www.wallpaper.com/travel/in-transit-with-cinematographer-bebe-dierken",
+      "excerpt": "Travel transformed Bebe Dierken from ‘someone from a town’ into ‘a human from the world’. Here, the director of photography recounts the objects and places she carries with her",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RUDRpjudBwZNmWNpE5CRe6-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "The beauty launches you need to have in your summer beauty bag",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-beauty-launches-june-2026",
+      "excerpt": "Tried and tested by the Wallpaper* team, we’ve selected the best beauty launches of the season so far",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XPjqboJEBQuDXF8mpCyBnd-1200-80.webp",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "‘it’s not about hair’: sanne visser on redesigning the systems behind materials",
+      "url": "https://www.designboom.com/design/hair-sanne-visser-redesigning-systems-materials-interview/",
+      "excerpt": "ahead of the ropery exhibition at whitechapel gallery, the london-based designer and researcher reflects on a decade of working with human hair. \nThe post ‘it’s not about hair’: sanne visser on redesi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hair-sanne-visser-redesigning-systems-materials-interview-designboom-03.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "BIG arranges circular Dymak HQ around stepped courtyard",
+      "url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
+      "excerpt": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched o",
       "today": true
     },
     {
@@ -277,6 +316,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "A Beating and Bleeding Heart: Bodies, Streets, and the Politics of Care in Bogotá",
+      "url": "https://www.archdaily.com/1042370/a-beating-and-bleeding-heart-bodies-streets-and-the-politics-of-care-in-bogota",
+      "excerpt": "It's wet season, but this morning's downpour does little to deter the rhythm along La Carrera Séptima. Cyclists and pedestrians weave past ambulatory vendors with carts of avocados, ginger sweets, and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/a891/6c38/4801/88c1/7f27/large_jpg/a-beating-and-bleeding-heart-bodies-streets-and-the-politics-of-care-in-bogota_3.jpg?1781704868",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Coco Beans House / Aamir and Hameeda",
+      "url": "https://www.archdaily.com/1042942/coco-beans-house-aamir-and-hameeda",
+      "excerpt": "At its heart, Coco Beans is a home about coexistence. With the land. With the trees. With light, atmosphere, and the rhythms of everyday living. Rather than imposing itself onto the site, the architec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -284,6 +343,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/262-fifth-avenue",
       "excerpt": "Rising 860 feet above one of Manhattan's most storied streets, this 52-storey tower trades density for restraint, with just 26 full-floor and duplex homes designed by Norm Architects and furnished by ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/z2wYrGL73duAbK8nmZyUiL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Re:Living: How Can We Make Renovation Scale?",
+      "url": "https://www.archdaily.com/1042932/re-living-how-can-we-make-renovation-scale",
+      "excerpt": "Most of Europe's future housing already exists, yet renovation continues to happen too slowly to address climate, housing, health and resource challenges at the scale required. Re:Living explores how ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/1d0e/8481/2b01/8af5/1d84/large_jpg/re-living-how-can-we-make-renovation-scale_1.jpg?1782914348",
       "today": true
     },
     {
@@ -297,72 +366,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.03",
-      "title": "Lacoste incorporates 290 crocodiles into special edition Alpine race car",
-      "url": "https://www.dezeen.com/2026/07/03/lacoste-alpine-a290-rally/",
-      "excerpt": "The tongue of Lacoste's reptilian mascot served as the unlikely inspiration for this one-off Alpine A290 Rally, with all-red interiors designed to feel like \"stepping into the crocodile's mouth\". The ",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Discover an Australian ‘gallery’ with an unlikely protagonist – a gum tree",
-      "url": "https://www.wallpaper.com/architecture/australian-gallery-for-a-gum-tree",
-      "excerpt": "Farrell Wray Architects’ new elevated, art-lined walkway frames views of the tree’s natural beauty, in the heart of Marcellin College in Victoria",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LdxLMK8WtVgCub82DsbS4W-2560-80.jpg",
+      "title": "Sharjah Architecture Triennial Announces Participants and Opening Dates for Third Edition",
+      "url": "https://www.archdaily.com/1043001/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition",
+      "excerpt": "The third edition of the Sharjah Architecture Triennial (SAT03) will take place from November 14, 2026, to April 14, 2027, under the title Architecture Otherwise: Building Civic Infrastructure for Col",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/7d1c/de7f/3c01/8757/2a10/large_jpg/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition_1.jpg?1783070027",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.03",
-      "title": "Mexico City Architecture City Guide: 38 Projects From Tenochtitlan to the 21st Century",
-      "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
-      "excerpt": "Mexico City is a sprawling metropolis of layered temporalities, where architecture operates as a continuous negotiation between deep-seated history and intense urban mutation. Built over the aquatic t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Out of office: What the Wallpaper* editors are looking forward to in July",
-      "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-july-2026",
-      "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eoLX578PmWFapGGReq5fdK-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Lake house / Ultra Architects",
-      "url": "https://www.archdaily.com/1042876/lake-house-ultra-architects",
-      "excerpt": "Lake House is located on the shore of a lake in western Poland. Designed as a contemporary retreat immersed in nature, the project explores the relationship between architecture, landscape, and local ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/802e/0789/c600/018c/2778/large_jpg/013_ultra_architects_42.jpg?1782808670",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Faye House / Alhumaidhi Architects",
-      "url": "https://www.archdaily.com/1042973/faye-house-alhumaidhi-architects",
-      "excerpt": "Faye House is a private urban residence meticulously crafted to respond to its unique corner plot. The generous setback condition allowed for the integration of a lush private garden, which serves as ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/7b4f/0789/c600/018c/2b86/large_jpg/02_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_p_150525_0420_EDITED.jpg?1783004070",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "what kind of afterlife can salvaged stained-glass give a burned-out porsche?",
-      "url": "https://www.designboom.com/art/afterlife-salvaged-stained-glass-burned-porsche-ben-tuna-cars-church-windows/",
-      "excerpt": "ben tuna uses old church-window fragments to transform burned porsches from wrecks to relic.\nThe post what kind of afterlife can salvaged stained-glass give a burned-out porsche? appeared first on des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ben-tuna-stained-glass-porsche-cars-craft-designboom-FB.jpg",
+      "title": "Moss Farmhouse  / Pasparakis Friel",
+      "url": "https://www.archdaily.com/1042954/moss-farmhouse-pasparakis-friel",
+      "excerpt": "At the end of a narrow bog road in County Donegal, life and work have long been inseparable. This cluster of buildings was once the operational heart of a farm: the house flanked by a byre (cowshed) o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/27d9/0789/c600/018c/2aab/large_jpg/Pasparakis_Friel_0.jpg?1782982675",
       "today": true
     },
     {
@@ -374,26 +394,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/175/296A8523-1.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "LAGO Italian Family Kitchen / Vari Architects",
-      "url": "https://www.archdaily.com/1042912/lago-italian-family-kitchen-vari-architects",
-      "excerpt": "1. Intervening Between City and Lake.By the lake of Yihe Park in northern Chongqing, we transformed a waterfront pavilion into Lago, an Italian country restaurant—using breathable timber and lightweig",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/283c/bdfc/1a01/8a6a/376d/large_jpg/lago-italian-family-kitchen-vari-architects_27.jpg?1782851655",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "House dieciocho / Pereda Han Estudio",
-      "url": "https://www.archdaily.com/1038896/house-dieciocho-pereda-han-estudio",
-      "excerpt": "House eighteen is a single-family home conceived from the relationship between architecture, courtyard, and atmosphere. The project revisits the courtyard typology as an organizing element and reinter",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6968/bc78/60cb/5200/01b9/042c/large_jpg/PH_DIECIOCHO-01.jpg?1768471728",
-      "today": false
     },
     {
       "source": "DNライティング",
