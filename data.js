@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  04:38",
+  "fetchedAt": "2026.07.03  07:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -162,15 +162,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.03",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.03",
@@ -191,6 +182,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Take a look inside 262 Fifth Avenue, Manhattan's newest residential tower with an Italian soul",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/262-fifth-avenue",
+      "excerpt": "Rising 860 feet above one of Manhattan's most storied streets, this 52-storey tower trades density for restraint, with just 26 full-floor and duplex homes designed by Norm Architects and furnished by ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/z2wYrGL73duAbK8nmZyUiL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "an endless act of cleaning unfolds on a floating platform in berlin",
+      "url": "https://www.designboom.com/art/endless-act-cleaning-floating-platform-berlin-caution-wet-floor-lara-lussheimer-insola/",
+      "excerpt": "CAUTION WET FLOOR is a six-hour durational performance by lara lussheimer.\nThe post an endless act of cleaning unfolds on a floating platform in berlin appeared first on designboom | architecture & de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/caution-wet-floor-performance-floating-platform-lara-lussheimer-insola-berlin-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Discover an Australian ‘gallery’ with an unlikely protagonist – a gum tree",
+      "url": "https://www.wallpaper.com/architecture/australian-gallery-for-a-gum-tree",
+      "excerpt": "Farrell Wray Architects’ new elevated, art-lined walkway frames views of the tree’s natural beauty, in the heart of Marcellin College in Victoria",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LdxLMK8WtVgCub82DsbS4W-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -198,6 +228,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-july-2026",
       "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eoLX578PmWFapGGReq5fdK-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Faye House / Alhumaidhi Architects",
+      "url": "https://www.archdaily.com/1042973/faye-house-alhumaidhi-architects",
+      "excerpt": "Faye House is a private urban residence meticulously crafted to respond to its unique corner plot. The generous setback condition allowed for the integration of a lush private garden, which serves as ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/7b4f/0789/c600/018c/2b86/large_jpg/02_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_p_150525_0420_EDITED.jpg?1783004070",
       "today": true
     },
     {
@@ -218,6 +258,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/175",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/175/296A8523-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "LAGO Italian Family Kitchen / Vari Architects",
+      "url": "https://www.archdaily.com/1042912/lago-italian-family-kitchen-vari-architects",
+      "excerpt": "1. Intervening Between City and Lake.By the lake of Yihe Park in northern Chongqing, we transformed a waterfront pavilion into Lago, an Italian country restaurant—using breathable timber and lightweig",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/283c/bdfc/1a01/8a6a/376d/large_jpg/lago-italian-family-kitchen-vari-architects_27.jpg?1782851655",
       "today": true
     },
     {
@@ -248,16 +298,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1038896/house-dieciocho-pereda-han-estudio",
       "excerpt": "House eighteen is a single-family home conceived from the relationship between architecture, courtyard, and atmosphere. The project revisits the courtyard typology as an organizing element and reinter",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6968/bc78/60cb/5200/01b9/042c/large_jpg/PH_DIECIOCHO-01.jpg?1768471728",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Take an exclusive look behind the scenes of Ye’s ‘King’ music video",
-      "url": "https://www.wallpaper.com/art/music/take-an-exclusive-look-behind-the-scenes-of-yes-king-music-video",
-      "excerpt": "Artist Bianca Censori directs three music videos from the album ‘Bully’ – here she tells us how she translates sound into vision",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Br7tNtNA3LKSmnKDEFz6nP-2560-80.png",
       "today": false
     },
     {
@@ -299,16 +339,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "In Manchester, Ai Weiwei unveils his largest works yet",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/ai-weiwei-button-up-manchester-interview",
-      "excerpt": "‘Ai Weiwei: Button Up!’ at Aviva Studios unites new, large-scale works in the home of the Industrial Revolution",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DA5jaZLHvZxXuBWvAW4fXi-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -329,16 +359,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Acervo House / GAM Arquitetos",
-      "url": "https://www.archdaily.com/1042966/acervo-house-gam-arquitetos",
-      "excerpt": "Acervo House was conceived from the idea of bringing together architecture, social life, and memory into a single narrative. More than a beach house, the project sought to create spaces capable of ref",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/9ca3/cbaa/8c01/8a6e/d3c3/large_jpg/casa-acervo-gam-arquitetos_5.jpg?1782947054",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -346,26 +366,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/layer-modular-chargers-everyday-power-playful-display-objects-node-and-loft-daily-objects/",
       "excerpt": "soft geometries and arched silhouettes define the products' visual language.\nThe post LAYER’s modular chargers turn everyday power into playful display objects appeared first on designboom | architect",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/node-and-loft-layer-modular-chargers-everyday-power-playful-display-objects-daily-objects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Watermill Artist Residence / Roger Ferris + Partners",
-      "url": "https://www.archdaily.com/1042865/watermill-artist-residence-roger-ferris-plus-partners",
-      "excerpt": "Located on the campus of Robert Wilson's Watermill Center, this barn-like structure is designed not only to house artists participating in the institution's famed residency program but also to encoura",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/f529/0789/c600/018c/2764/large_jpg/Roger-Ferris---Watermill-Center_366_copy.jpg?1782773249",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "kengo kuma on why craftsmanship remains architecture’s connection to place",
-      "url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
-      "excerpt": "the japanese architect reflects on local materials, evolving traditions, and the role craftsmanship continues to play in an increasingly technological world.\nThe post kengo kuma on why craftsmanship r",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kengo-kuma-craftsmanship-architecture-connection-place-designboom-1200.jpg",
       "today": false
     },
     {
