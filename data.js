@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  00:01",
+  "fetchedAt": "2026.07.03  04:38",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,61 +29,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "Google ニュース": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -158,6 +162,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.03",
@@ -175,6 +188,36 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Out of office: What the Wallpaper* editors are looking forward to in July",
+      "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-july-2026",
+      "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eoLX578PmWFapGGReq5fdK-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "what kind of afterlife can salvaged stained-glass give a burned-out porsche?",
+      "url": "https://www.designboom.com/art/afterlife-salvaged-stained-glass-burned-porsche-ben-tuna-cars-church-windows/",
+      "excerpt": "ben tuna uses old church-window fragments to transform burned porsches from wrecks to relic.\nThe post what kind of afterlife can salvaged stained-glass give a burned-out porsche? appeared first on des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ben-tuna-stained-glass-porsche-cars-craft-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "納入事例に「あいは歯科クリニック西新院」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/175",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/175/296A8523-1.jpg",
       "today": true
     },
     {
@@ -306,16 +349,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Miniature architecture on miniature trees? Yes please. It’s all in this bonsai treehouse exhibition",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/bonsai-treehouse-exhibition-london-uk",
-      "excerpt": "The new show opens in a central London park, courtesy of the Museum of Architecture; join in the miniature fun",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CqrdHMpznezZdwVXub6E5T-1198-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -333,16 +366,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
       "excerpt": "the japanese architect reflects on local materials, evolving traditions, and the role craftsmanship continues to play in an increasingly technological world.\nThe post kengo kuma on why craftsmanship r",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kengo-kuma-craftsmanship-architecture-connection-place-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "maximum thrill: swerv’s electric trike lets riders skim the pavement face-first",
-      "url": "https://www.designboom.com/design/face-first-swerv-electric-trike-riders-skim-pavement-maximum-thrills/",
-      "excerpt": "swerv by designer kerim taskin places riders in a low, face-forward position that exaggerates the sensation of speed.\nThe post maximum thrill: swerv’s electric trike lets riders skim the pavement face",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/face-first-swerv-electric-trike-riders-skim-pavement-maximum-thrills01-818x613.jpg",
       "today": false
     },
     {
@@ -609,16 +632,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/NEWS/event/2026/ee.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.05.26",
-      "title": "DNライトナビ 一部機能不具合のお知らせ",
-      "url": "https://www.dnlighting.co.jp/media/news/20260526_1",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
