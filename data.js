@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  17:19",
+  "fetchedAt": "2026.07.03  19:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "鉄道ファン・railf.jp": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,45 +45,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -108,12 +112,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
       "date": "2026.07.03",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -127,6 +132,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.03",
@@ -134,6 +149,25 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -150,39 +184,29 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.03",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.03",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "suspended glacier forms translate climate change into an interactive installation in shanghai",
+      "url": "https://www.designboom.com/art/suspended-glacier-forms-climate-change-interactive-installation-shanghai-dayuan-design/",
+      "excerpt": "recycled metal and reclaimed fabric form the modular structure.\nThe post suspended glacier forms translate climate change into an interactive installation in shanghai appeared first on designboom | ar",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/glacier-project-suspended-interactive-urban-installation-shanghai-dayuan-design-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.07.03",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
-      "today": true
-    },
-    {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.03",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "title": "Seattle airport expansion features massive timber-clad \"tree\"",
+      "url": "https://www.dezeen.com/2026/07/03/miller-hull-partnership-woods-bagot-timber-expansion-sea-tac/",
+      "excerpt": "Architecture studios The Miller Hull Partnership and Woods Bagot have completed an extension to Concourse C at Seattle-Tacoma International Airport, integrating a large timber-clad \"tree\" that arches ",
       "today": true
     },
     {
@@ -216,6 +240,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "House in Pompéia / 23 SUL",
+      "url": "https://www.archdaily.com/1043007/house-in-pompeia-23-sul",
+      "excerpt": "With 225m² of built area, this house located in the Pompeia neighborhood of São Paulo is structured using pre-industrialized construction systems, precast blocks, and engineered wood. This approach wa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69f0/b3d6/20d6/d800/0166/3dd2/large_jpg/CASA_POMPEIA_-_23_SUL-AMATA-2.jpg?1777382458",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -223,6 +257,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/vietnamese-modernist-architecture-guide",
       "excerpt": "Vietnamese modernist architecture may not be the most well-known strand of the midcentury style, but its vocabulary is rich, layered and thrilling; our guide explores the 20th-century style, its compo",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UCVgWHJZyL7ZDZp8Rhzwsn-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Rollingwood Residence / A Parallel Architecture",
+      "url": "https://www.archdaily.com/1042945/rollingwood-residence-a-parallel-architecture",
+      "excerpt": "Motivated to build a forever home for her young and growing family, our client challenged the design team to create a cozy, family-oriented sanctuary on an otherwise busy thoroughfare. Early design ex",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8dfd/0789/c600/018c/2a4e/large_jpg/AD_Rollingwood_-_Chase_Daniel__1_.jpg?1782943498",
       "today": true
     },
     {
@@ -322,25 +366,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "lacoste reimagines alpine’s A290 rallye through its iconic crocodile motif",
-      "url": "https://www.designboom.com/technology/lacoste-alpine-a290-rallye-iconic-crocodile-motif/",
-      "excerpt": "built from alpine’s customer racing a290 rallye, the collaboration explores how fashion, motorsport engineering, and material innovation can shape a single design object.\nThe post lacoste reimagines a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lacoste-alpine-a290-rallye-iconic-crocodile-motif-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick",
-      "url": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
-      "excerpt": "Architecture studio Cubo has unveiled the Kornmarken Campus manufacturing innovation centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the B",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -358,26 +383,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042942/coco-beans-house-aamir-and-hameeda",
       "excerpt": "At its heart, Coco Beans is a home about coexistence. With the land. With the trees. With light, atmosphere, and the rhythms of everyday living. Rather than imposing itself onto the site, the architec",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Re:Living: How Can We Make Renovation Scale?",
-      "url": "https://www.archdaily.com/1042932/re-living-how-can-we-make-renovation-scale",
-      "excerpt": "Most of Europe's future housing already exists, yet renovation continues to happen too slowly to address climate, housing, health and resource challenges at the scale required. Re:Living explores how ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/1d0e/8481/2b01/8af5/1d84/large_jpg/re-living-how-can-we-make-renovation-scale_1.jpg?1782914348",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Sharjah Architecture Triennial Announces Participants and Opening Dates for Third Edition",
-      "url": "https://www.archdaily.com/1043001/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition",
-      "excerpt": "The third edition of the Sharjah Architecture Triennial (SAT03) will take place from November 14, 2026, to April 14, 2027, under the title Architecture Otherwise: Building Civic Infrastructure for Col",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/7d1c/de7f/3c01/8757/2a10/large_jpg/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition_1.jpg?1783070027",
       "today": true
     },
     {
