@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  20:58",
+  "fetchedAt": "2026.07.03  22:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,41 +53,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -191,6 +195,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "this soft robot wants to fold laundry without pretending to be human",
+      "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
+      "excerpt": "weave robotics unveils 'isaac 1' with a collapsible body, soft fabric shell, and simplified grippers.\nThe post this soft robot wants to fold laundry without pretending to be human appeared first on de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/weave-robotics-isaac-1-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -207,6 +231,16 @@ window.LUMINO_DATA = {
       "title": "Seattle airport expansion features massive timber-clad \"tree\"",
       "url": "https://www.dezeen.com/2026/07/03/miller-hull-partnership-woods-bagot-timber-expansion-sea-tac/",
       "excerpt": "Architecture studios The Miller Hull Partnership and Woods Bagot have completed an extension to Concourse C at Seattle-Tacoma International Airport, integrating a large timber-clad \"tree\" that arches ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Cerdeiras House Hotel / Tiago do Vale Arquitectos",
+      "url": "https://www.archdaily.com/1040873/cerdeiras-house-hotel-tiago-do-vale-arquitectos",
+      "excerpt": "The Cerdeiras House Hotel results from the transformation of a rural complex dating back to the 18th century, located in the Labruja Mountain, in Ponte de Lima, Portugal.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69e9/1eec/8471/2000/01f8/edd9/large_jpg/JM_TdV_Labruja_S11.jpg?1776885558",
       "today": true
     },
     {
@@ -363,26 +397,6 @@ window.LUMINO_DATA = {
       "title": "Can Kylie Jenner detoxify AI smart glasses?",
       "url": "https://www.dezeen.com/2026/07/03/smart-glasses-gehry-abu-dhabi-heatwave-fashion-week-dezeen-weekly-podcast/",
       "excerpt": "Would we wear the new Meta smart glasses? Is Frank Gehry's Abu Dhabi opera house actually pretty good? And why did Paris Fashion Week feel like the last days of the Roman Empire? Listen to the latest ",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "topologie rethinks climbing gear with 1000+ carry combinations for the urban wardrobe",
-      "url": "https://www.designboom.com/design/topologie-customizable-bag-urban-wardrobe/",
-      "excerpt": "with a modular concept that unlocks 1000+ possibilities of customization, topologie allows to co-create your own bag.\nThe post topologie rethinks climbing gear with 1000+ carry combinations for the ur",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/05/topologie_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "A Beating and Bleeding Heart: Bodies, Streets, and the Politics of Care in Bogotá",
-      "url": "https://www.archdaily.com/1042370/a-beating-and-bleeding-heart-bodies-streets-and-the-politics-of-care-in-bogota",
-      "excerpt": "It's wet season, but this morning's downpour does little to deter the rhythm along La Carrera Séptima. Cyclists and pedestrians weave past ambulatory vendors with carts of avocados, ginger sweets, and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a32/a891/6c38/4801/88c1/7f27/large_jpg/a-beating-and-bleeding-heart-bodies-streets-and-the-politics-of-care-in-bogota_3.jpg?1781704868",
       "today": true
     },
     {
