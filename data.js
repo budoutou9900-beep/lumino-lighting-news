@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.02  22:11",
+  "fetchedAt": "2026.07.03  00:01",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,56 +45,52 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -104,7 +100,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -112,18 +108,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.02",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
@@ -133,7 +120,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -143,7 +130,7 @@ window.LUMINO_DATA = {
     {
       "source": "newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -153,7 +140,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -163,7 +150,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -173,7 +160,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -183,7 +170,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.02",
+      "date": "2026.07.03",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -198,7 +185,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/four-seasons-hotel-kyoto-review",
       "excerpt": "Set around an 800-year-old pond garden in Higashiyama, Four Seasons Kyoto brings together Japanese craft, restorative wellness and a strong case for staying in",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gufkLCoSnHP8fuAwveZZJc-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -208,7 +195,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/hugh-devlin-foundation-launch",
       "excerpt": "In honour of the late Hugh Devlin – a lawyer and trusted advisor to many in the creative industries – a new foundation will support emerging talents and help them make better decisions at defining mom",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6zSfF6m7QwPnFfPd2bBWe6-2560-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.02",
+      "title": "House dieciocho / Pereda Han Estudio",
+      "url": "https://www.archdaily.com/1038896/house-dieciocho-pereda-han-estudio",
+      "excerpt": "House eighteen is a single-family home conceived from the relationship between architecture, courtyard, and atmosphere. The project revisits the courtyard typology as an organizing element and reinter",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6968/bc78/60cb/5200/01b9/042c/large_jpg/PH_DIECIOCHO-01.jpg?1768471728",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -218,7 +215,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/music/take-an-exclusive-look-behind-the-scenes-of-yes-king-music-video",
       "excerpt": "Artist Bianca Censori directs three music videos from the album ‘Bully’ – here she tells us how she translates sound into vision",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Br7tNtNA3LKSmnKDEFz6nP-2560-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -227,7 +224,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi",
       "url": "https://www.dezeen.com/2026/07/02/frank-gehry-performing-arts-venue-abu-dhabi-dezeen-agenda/",
       "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features news that construction has commenced on Dar al Funoon Abu Dhabi, which was designed by Frank Gehry before his death. Subscribe to Dez",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -236,7 +233,7 @@ window.LUMINO_DATA = {
       "title": "Snøhetta uses mass timber and earthen walls for Theodore Roosevelt Presidential Library",
       "url": "https://www.dezeen.com/2026/07/02/theodore-roosevelt-presidential-library-snohetta-north-dakot/",
       "excerpt": "Architecture studio Snøhetta has laid a hill-like green roof over timber-and-earth volumes for a building dedicated to American president Theodore Roosevelt, connecting it to the rolling landscape of ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -246,7 +243,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1041379/abuxarda-house-1-fragmentos",
       "excerpt": "Located within a private condominium in Cascais, Abuxarda 1 is set in a landscape defined by an extensive pine forest, where a strong sense of calm and seclusion shapes the architectural response. The",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69fe/3ef4/a59b/8300/01a7/f4c9/large_jpg/Fragmentos_Abuxarda1__Louren_oTeixeiradeAbreu_003.jpg?1778270007",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -256,7 +253,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/garden-ring-carlo-ratti-hospital-future-park-associati-brescia-italy/",
       "excerpt": "the new campus in italy includes glazed wings and a garden-filled hybrid timber structure.\nThe post kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’ appeared first on",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carlo-ratti-associati-hospital-future-brescia-italy-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -266,7 +263,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/ai-weiwei-button-up-manchester-interview",
       "excerpt": "‘Ai Weiwei: Button Up!’ at Aviva Studios unites new, large-scale works in the home of the Industrial Revolution",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DA5jaZLHvZxXuBWvAW4fXi-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -276,7 +273,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/bugatti-hand-paints-digital-linework-w16-mistral-blanc-eternel-car/",
       "excerpt": "a one-off commission turns the roadster’s hidden 3D modeling geometry into black-on-white bodywork with KPM porcelain details.\nThe post bugatti hand-paints digital linework across W16 mistral ‘blanc é",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bugatti-W16-mistral-blanc-eternel-sur-mesure-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -286,7 +283,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042881/mexican-football-federation-high-performance-center-car-rockwell-group-with-gensler",
       "excerpt": "The Mexican Football Federation's reimagined High-Performance Center (CAR) sets a new global standard, optimizing operations, wellness, and athletic performance. This is a space designed to inspire pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/858d/0789/c600/018c/27e4/large_jpg/FMF_GENSLER_CBSTD-5_w.jpg?1782810016",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -296,7 +293,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042966/acervo-house-gam-arquitetos",
       "excerpt": "Acervo House was conceived from the idea of bringing together architecture, social life, and memory into a single narrative. More than a beach house, the project sought to create spaces capable of ref",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/9ca3/cbaa/8c01/8a6e/d3c3/large_jpg/casa-acervo-gam-arquitetos_5.jpg?1782947054",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -306,7 +303,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/layer-modular-chargers-everyday-power-playful-display-objects-node-and-loft-daily-objects/",
       "excerpt": "soft geometries and arched silhouettes define the products' visual language.\nThe post LAYER’s modular chargers turn everyday power into playful display objects appeared first on designboom | architect",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/node-and-loft-layer-modular-chargers-everyday-power-playful-display-objects-daily-objects-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -316,7 +313,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/bonsai-treehouse-exhibition-london-uk",
       "excerpt": "The new show opens in a central London park, courtesy of the Museum of Architecture; join in the miniature fun",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CqrdHMpznezZdwVXub6E5T-1198-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -326,7 +323,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042865/watermill-artist-residence-roger-ferris-plus-partners",
       "excerpt": "Located on the campus of Robert Wilson's Watermill Center, this barn-like structure is designed not only to house artists participating in the institution's famed residency program but also to encoura",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/f529/0789/c600/018c/2764/large_jpg/Roger-Ferris---Watermill-Center_366_copy.jpg?1782773249",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -336,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
       "excerpt": "the japanese architect reflects on local materials, evolving traditions, and the role craftsmanship continues to play in an increasingly technological world.\nThe post kengo kuma on why craftsmanship r",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/kengo-kuma-craftsmanship-architecture-connection-place-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -346,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/face-first-swerv-electric-trike-riders-skim-pavement-maximum-thrills/",
       "excerpt": "swerv by designer kerim taskin places riders in a low, face-forward position that exaggerates the sensation of speed.\nThe post maximum thrill: swerv’s electric trike lets riders skim the pavement face",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/face-first-swerv-electric-trike-riders-skim-pavement-maximum-thrills01-818x613.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -355,7 +352,7 @@ window.LUMINO_DATA = {
       "title": "SpaceDNA arranges split levels of Indian home around rust-orange staircase",
       "url": "https://www.dezeen.com/2026/07/02/splitscape-residence-spacedna/",
       "excerpt": "Perforated steel screens filter light into this multi-generational house in Coimbatore, India, which architecture studio SpaceDNA completed with an oxide-coated staircase that steps around a triple-he",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -364,7 +361,7 @@ window.LUMINO_DATA = {
       "title": "MAD adds trio of \"cloud buildings\" to Tencent headquarters in Shenzhen",
       "url": "https://www.dezeen.com/2026/07/02/mad-tengyun-center-tencent-headquarters-shenzhen/",
       "excerpt": "Three interconnected curved volumes and two office towers comprise the Tengyun Center in Shenzhen, China, which has been completed by architecture studio MAD for technology company Tencent. Built as p",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -373,17 +370,7 @@ window.LUMINO_DATA = {
       "title": "Davidson Prize winner proposes reusing buses as mobile playgrounds",
       "url": "https://www.dezeen.com/2026/07/02/rua-studio-playdeck-davidson-prize/",
       "excerpt": "Multidisciplinary team RUA Studio has won this year's Davidson Prize with Playdeck, a concept design that envisions repurposing decommissioned buses into playscapes for people of all ages. The proposa",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Dreaming in the Ruins: How a Sleeping Ritual in Logroño Proposes a New Civic Architecture",
-      "url": "https://www.archdaily.com/1042854/dreaming-in-the-ruins-how-a-sleeping-ritual-in-logrono-proposes-a-new-civic-architecture",
-      "excerpt": "Cities are increasingly designed to mitigate risk, and by doing so, need to collect data on climate, infrastructure, biodiversity, and social fragmentation so that the language of resilience becomes a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/c009/8481/2b01/8af5/11a4/large_jpg/rituals-and-ecologies-in-civic-infrastructure-lessons-from-one-third-of-life-at-concentrico-2026_1.jpg?1782759456",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
