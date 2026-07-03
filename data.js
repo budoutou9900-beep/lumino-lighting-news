@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  07:58",
+  "fetchedAt": "2026.07.03  10:37",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -162,6 +162,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.03",
@@ -182,12 +191,89 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.07.03",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Jay Morton elected RIBA president",
+      "url": "https://www.dezeen.com/2026/07/03/jay-morton-elected-riba-president/",
+      "excerpt": "Jay Morton, director at architecture studio Bell Phillips, has been elected to become the next president of the Royal Institute of British Architects. Morton will become president-elect on 1 September",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "cycling, running, and skiing converge in the new halfbike pro",
+      "url": "https://www.designboom.com/design/cycling-running-skiing-new-halfbike-pro/",
+      "excerpt": "ten years in the making, the full-body sport tool reimagines the conventional bicycle through a compact, three-wheeled design.\nThe post cycling, running, and skiing converge in the new halfbike pro ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/451534/2026-06-25/halfbike-pro-1-6a3cde91ca139.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "\"Forgive me if I'm wrong, but isn't the world on fire?\" says commenter",
+      "url": "https://www.dezeen.com/2026/07/03/jumbo-tidal-wave-louis-vuitton-menswear-show-comments/",
+      "excerpt": "In this week's comments update, readers are discussing a 37-metre-wide jumbo wave that formed the backdrop of Louis Vuitton's Spring Summer 2027 menswear show in Paris. Designed by the fashion house's",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Can Kylie Jenner detoxify AI smart glasses?",
+      "url": "https://www.dezeen.com/2026/07/03/smart-glasses-gehry-abu-dhabi-heatwave-fashion-week-dezeen-weekly-podcast/",
+      "excerpt": "Would we wear the new Meta smart glasses? Is Frank Gehry's Abu Dhabi opera house actually pretty good? And why did Paris Fashion Week feel like the last days of the Roman Empire? Listen to the latest ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "topologie rethinks climbing gear with 1000+ carry combinations for the urban wardrobe",
+      "url": "https://www.designboom.com/design/topologie-customizable-bag-urban-wardrobe/",
+      "excerpt": "with a modular concept that unlocks 1000+ possibilities of customization, topologie allows to co-create your own bag.\nThe post topologie rethinks climbing gear with 1000+ carry combinations for the ur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/05/topologie_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "lacoste reimagines alpine’s A290 rallye through its iconic crocodile motif",
+      "url": "https://www.designboom.com/technology/lacoste-alpine-a290-rallye-iconic-crocodile-motif/",
+      "excerpt": "built from alpine’s customer racing a290 rallye, the collaboration explores how fashion, motorsport engineering, and material innovation can shape a single design object.\nThe post lacoste reimagines a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lacoste-alpine-a290-rallye-iconic-crocodile-motif-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "This Paris hotel suite is now a playful artwork you can sleep in",
+      "url": "https://www.wallpaper.com/travel/hotels/la-fantaisie-paris-art-suite-by-szabolcs-bozo",
+      "excerpt": "Hungarian artist Szabolcs Bozó has transformed Room 607 at La Fantaisie Paris into a nine-month living gallery of creatures, colour and soft sculpture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4Fg2JVt5Xnqz9AWT6SSHmn-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick",
+      "url": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
+      "excerpt": "Architecture studio Cubo has unveiled the Kornmarken Campus manufacturing innovation centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the B",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Anatomy of a logo: Milton Glaser’s I ❤️ NY",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/milton-glaser-i-love-new-york-logo",
+      "excerpt": "Born from a doodle sketched from the back of a cab, Milton Glaser's I ❤️ NY became one of the most successful, popular and beloved logos in history. Glaser expert Anne Quito explores its genesis and e",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YxNidg2w6nLcYurBcNa8b8-2560-80.jpg",
       "today": true
     },
     {
@@ -211,6 +297,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Lacoste incorporates 290 crocodiles into special edition Alpine race car",
+      "url": "https://www.dezeen.com/2026/07/03/lacoste-alpine-a290-rally/",
+      "excerpt": "The tongue of Lacoste's reptilian mascot served as the unlikely inspiration for this one-off Alpine A290 Rally, with all-red interiors designed to feel like \"stepping into the crocodile's mouth\". The ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -221,6 +316,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Mexico City Architecture City Guide: 38 Projects From Tenochtitlan to the 21st Century",
+      "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+      "excerpt": "Mexico City is a sprawling metropolis of layered temporalities, where architecture operates as a continuous negotiation between deep-seated history and intense urban mutation. Built over the aquatic t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -228,6 +333,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-july-2026",
       "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eoLX578PmWFapGGReq5fdK-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Lake house / Ultra Architects",
+      "url": "https://www.archdaily.com/1042876/lake-house-ultra-architects",
+      "excerpt": "Lake House is located on the shore of a lake in western Poland. Designed as a contemporary retreat immersed in nature, the project explores the relationship between architecture, landscape, and local ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/802e/0789/c600/018c/2778/large_jpg/013_ultra_architects_42.jpg?1782808670",
       "today": true
     },
     {
@@ -271,26 +386,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Ten years on, Four Seasons Kyoto remains one of the city’s most atmospheric hotels",
-      "url": "https://www.wallpaper.com/travel/hotels/four-seasons-hotel-kyoto-review",
-      "excerpt": "Set around an 800-year-old pond garden in Higashiyama, Four Seasons Kyoto brings together Japanese craft, restorative wellness and a strong case for staying in",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gufkLCoSnHP8fuAwveZZJc-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "The Hugh Devlin Foundation is set to support emerging creatives, and honour its namesake’s legacy",
-      "url": "https://www.wallpaper.com/design-interiors/hugh-devlin-foundation-launch",
-      "excerpt": "In honour of the late Hugh Devlin – a lawyer and trusted advisor to many in the creative industries – a new foundation will support emerging talents and help them make better decisions at defining mom",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6zSfF6m7QwPnFfPd2bBWe6-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.02",
@@ -298,101 +393,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1038896/house-dieciocho-pereda-han-estudio",
       "excerpt": "House eighteen is a single-family home conceived from the relationship between architecture, courtyard, and atmosphere. The project revisits the courtyard typology as an organizing element and reinter",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6968/bc78/60cb/5200/01b9/042c/large_jpg/PH_DIECIOCHO-01.jpg?1768471728",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi",
-      "url": "https://www.dezeen.com/2026/07/02/frank-gehry-performing-arts-venue-abu-dhabi-dezeen-agenda/",
-      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features news that construction has commenced on Dar al Funoon Abu Dhabi, which was designed by Frank Gehry before his death. Subscribe to Dez",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Snøhetta uses mass timber and earthen walls for Theodore Roosevelt Presidential Library",
-      "url": "https://www.dezeen.com/2026/07/02/theodore-roosevelt-presidential-library-snohetta-north-dakot/",
-      "excerpt": "Architecture studio Snøhetta has laid a hill-like green roof over timber-and-earth volumes for a building dedicated to American president Theodore Roosevelt, connecting it to the rolling landscape of ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Abuxarda House 1 / Fragmentos",
-      "url": "https://www.archdaily.com/1041379/abuxarda-house-1-fragmentos",
-      "excerpt": "Located within a private condominium in Cascais, Abuxarda 1 is set in a landscape defined by an extensive pine forest, where a strong sense of calm and seclusion shapes the architectural response. The",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69fe/3ef4/a59b/8300/01a7/f4c9/large_jpg/Fragmentos_Abuxarda1__Louren_oTeixeiradeAbreu_003.jpg?1778270007",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’",
-      "url": "https://www.designboom.com/architecture/garden-ring-carlo-ratti-hospital-future-park-associati-brescia-italy/",
-      "excerpt": "the new campus in italy includes glazed wings and a garden-filled hybrid timber structure.\nThe post kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’ appeared first on",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carlo-ratti-associati-hospital-future-brescia-italy-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "bugatti hand-paints digital linework across W16 mistral ‘blanc éternel’",
-      "url": "https://www.designboom.com/technology/bugatti-hand-paints-digital-linework-w16-mistral-blanc-eternel-car/",
-      "excerpt": "a one-off commission turns the roadster’s hidden 3D modeling geometry into black-on-white bodywork with KPM porcelain details.\nThe post bugatti hand-paints digital linework across W16 mistral ‘blanc é",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bugatti-W16-mistral-blanc-eternel-sur-mesure-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Mexican Football Federation High-Performance Center (CAR) / Gensler",
-      "url": "https://www.archdaily.com/1042881/mexican-football-federation-high-performance-center-car-rockwell-group-with-gensler",
-      "excerpt": "The Mexican Football Federation's reimagined High-Performance Center (CAR) sets a new global standard, optimizing operations, wellness, and athletic performance. This is a space designed to inspire pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/858d/0789/c600/018c/27e4/large_jpg/FMF_GENSLER_CBSTD-5_w.jpg?1782810016",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "LAYER’s modular chargers turn everyday power into playful display objects",
-      "url": "https://www.designboom.com/technology/layer-modular-chargers-everyday-power-playful-display-objects-node-and-loft-daily-objects/",
-      "excerpt": "soft geometries and arched silhouettes define the products' visual language.\nThe post LAYER’s modular chargers turn everyday power into playful display objects appeared first on designboom | architect",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/node-and-loft-layer-modular-chargers-everyday-power-playful-display-objects-daily-objects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "SpaceDNA arranges split levels of Indian home around rust-orange staircase",
-      "url": "https://www.dezeen.com/2026/07/02/splitscape-residence-spacedna/",
-      "excerpt": "Perforated steel screens filter light into this multi-generational house in Coimbatore, India, which architecture studio SpaceDNA completed with an oxide-coated staircase that steps around a triple-he",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "MAD adds trio of \"cloud buildings\" to Tencent headquarters in Shenzhen",
-      "url": "https://www.dezeen.com/2026/07/02/mad-tengyun-center-tencent-headquarters-shenzhen/",
-      "excerpt": "Three interconnected curved volumes and two office towers comprise the Tengyun Center in Shenzhen, China, which has been completed by architecture studio MAD for technology company Tencent. Built as p",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.02",
-      "title": "Davidson Prize winner proposes reusing buses as mobile playgrounds",
-      "url": "https://www.dezeen.com/2026/07/02/rua-studio-playdeck-davidson-prize/",
-      "excerpt": "Multidisciplinary team RUA Studio has won this year's Davidson Prize with Playdeck, a concept design that envisions repurposing decommissioned buses into playscapes for people of all ages. The proposa",
       "today": false
     },
     {
