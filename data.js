@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.04  22:53",
+  "fetchedAt": "2026.07.04  23:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -65,25 +65,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -206,6 +214,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "\"Experience of Brasília\" evoked at interior installation in Niemeyer's São Paulo pavilion",
+      "url": "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
+      "excerpt": "Architecture studio Debaixo do Bloco has distilled the landscape, architecture and atmosphere of Brasília into a domestic-scale installation within Oscar Niemeyer's Bienal Pavilion in São Paulo. Insid",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -223,6 +240,15 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042999/rosso-listening-bar-naso",
       "excerpt": "The design of Rosso is conceived as a listening bar discreetly located behind the kitchen of a restaurant, establishing a sense of escape and discovery for guests. This concealed position frames the b",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/large_jpg/DSC06167_1.jpg?1783062070",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Drawings of ritual-hosting interiors among projects by Hong Kong Polytechnic University",
+      "url": "https://www.dezeen.com/2026/07/04/drawings-of-ritual-hosting-interiors-among-projects-by-hong-kong-polytechnic-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: architectural drawings depicting \"a narrative-driven exploration of religious ritual\" are among the projects by students at Hong Kong Polytechnic University. Also featured is a sp",
       "today": true
     },
     {
@@ -373,24 +399,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Brick Award 2026 winners create \"a sense of wonder and beauty\"",
-      "url": "https://www.dezeen.com/2026/07/03/brick-award-26/",
-      "excerpt": "Promotion: a Vietnamese temple and a Mexican tequila factory are among the eclectic winners of this year's Brick Award programme. The six winners of Brick Award 2026 also include an infill housing pro",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Seattle airport expansion features massive timber-clad \"tree\"",
-      "url": "https://www.dezeen.com/2026/07/03/miller-hull-partnership-woods-bagot-timber-expansion-sea-tac/",
-      "excerpt": "Architecture studios The Miller Hull Partnership and Woods Bagot have completed an extension to Concourse C at Seattle-Tacoma International Airport, integrating a large timber-clad \"tree\" that arches ",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -418,6 +426,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -451,6 +469,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "LPA",
       "cat": "デザイン",
       "date": "2026.06.22",
@@ -458,6 +486,26 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     },
     {
@@ -511,6 +559,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -518,6 +595,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
