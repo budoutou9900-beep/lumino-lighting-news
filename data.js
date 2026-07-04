@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.04  09:19",
+  "fetchedAt": "2026.07.04  11:23",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,19 +13,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "newscast.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "newscast.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -122,6 +122,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.07.04",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.07.04",
@@ -132,13 +141,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.04",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -149,16 +158,6 @@ window.LUMINO_DATA = {
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
       "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -204,6 +203,36 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.04",
+      "title": "Hastings’ Eagle House shows what happens when architecture puts community first",
+      "url": "https://www.wallpaper.com/architecture/eagle-house-ifdo-hastings-uk",
+      "excerpt": "IFDO’s Eagle House for Hastings Commons transforms a neglected Victorian building into a youth centre, affordable workspace and community hub",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Vg88eHKx6t8CHVMCZX3siY-2540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "‘the intelligent hand moves everything’: alberto cavalli on homo faber and the future of craft",
+      "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
+      "excerpt": "the michelangelo foundation's executive director discusses es devlin's staging for homo faber 2026, and why the human hand remains our most precious instrument for understanding the world.\nThe post ‘t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Fiat thinks small with the Multiplina Concept as well as some beach-ready micromobility",
+      "url": "https://www.wallpaper.com/transportation/fiat-multiplina-concept",
+      "excerpt": "Fiat has doubled-down on its focus on micromobility, taking the cultish Topolino into new sectors and thinking about future forms for ultra-compact urban travel",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ToB7gRQj8ADB5hWR9SZhU4-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
       "title": "The UIA World Congress of Architects 2026 was 'purposefully overwhelming.' Here are our takeaways",
       "url": "https://www.wallpaper.com/architecture/architecture-events/uia-world-congress-of-architects-2026",
       "excerpt": "We attended the UIA World Congress of Architects 2026, the profession's triennial event, which zoomed in this year on themes of transition and adaptation",
@@ -231,23 +260,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.04",
-      "title": "Born of the Badlands, the Theodore Roosevelt Presidential Library is ‘a call to adventure’",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/theodore-roosevelt-presidential-library-snohetta-usa",
-      "excerpt": "The Snøhetta-designed library and museum, its architecture inspired by its North Dakota Badlands surroundings, builds on the legacy of a larger-than-life leader – and opens 4 July 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/spirit-of-adventure-RusEsur8k8vu9DfFNcB329-2560-80.jpg",
+      "title": "Stone and Wood Studio / Common Wonder",
+      "url": "https://www.archdaily.com/1042792/stone-and-wood-studio-common-wonder",
+      "excerpt": "Amsterdam, Hangzhou, and London-based studio Common Wonder explores the dialogue between wood and stone in a small garden pavilion in Amsterdam that feels at once robust and finely wrought.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/6900/8481/2b7b/c42a/6dac/large_jpg/stone-and-wood-studio-common-wonder_1.jpg?1782737208",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.04",
-      "title": "Celebrating twenty years of Design Parade in the south of France",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/design-parade-2026",
-      "excerpt": "A heat wave accompanied the revelrous opening days of the Design Parade festival, magnifying focus on the proudly regional festival’s question of how to live in the Mediterranean",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7WyE4ukYuHAiupgTwB6NTa-2048-80.jpg",
+      "title": "This week Rick Owens created air-conditioned tracksuits",
+      "url": "https://www.dezeen.com/2026/07/04/rick-owens-air-conditioned-tracksuits-this-week/",
+      "excerpt": "This week on Dezeen, we reported on Paris Fashion Week where fashion designer Rick Owens showed inflatable Adidas jogging suits. Complete with tiny built-in fans that circulate air around the wearer, ",
       "today": true
     },
     {
@@ -349,26 +377,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "House in Pompéia / 23 SUL",
-      "url": "https://www.archdaily.com/1043007/house-in-pompeia-23-sul",
-      "excerpt": "With 225m² of built area, this house located in the Pompeia neighborhood of São Paulo is structured using pre-industrialized construction systems, precast blocks, and engineered wood. This approach wa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69f0/b3d6/20d6/d800/0166/3dd2/large_jpg/CASA_POMPEIA_-_23_SUL-AMATA-2.jpg?1777382458",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "‘it’s not about hair’: sanne visser on redesigning the systems behind materials",
-      "url": "https://www.designboom.com/design/hair-sanne-visser-redesigning-systems-materials-interview/",
-      "excerpt": "ahead of the ropery exhibition at whitechapel gallery, the london-based designer and researcher reflects on a decade of working with human hair. \nThe post ‘it’s not about hair’: sanne visser on redesi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hair-sanne-visser-redesigning-systems-materials-interview-designboom-03.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -384,15 +392,6 @@ window.LUMINO_DATA = {
       "title": "Jay Morton elected RIBA president",
       "url": "https://www.dezeen.com/2026/07/03/jay-morton-elected-riba-president/",
       "excerpt": "Jay Morton, director at architecture studio Bell Phillips, has been elected to become the next president of the Royal Institute of British Architects. Morton will become president-elect on 1 September",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "\"Forgive me if I'm wrong, but isn't the world on fire?\" says commenter",
-      "url": "https://www.dezeen.com/2026/07/03/jumbo-tidal-wave-louis-vuitton-menswear-show-comments/",
-      "excerpt": "In this week's comments update, readers are discussing a 37-metre-wide jumbo wave that formed the backdrop of Louis Vuitton's Spring Summer 2027 menswear show in Paris. Designed by the fashion house's",
       "today": false
     },
     {
