@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.04  11:23",
+  "fetchedAt": "2026.07.04  13:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,85 +9,89 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ヨコハマ経済新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "newscast.jp": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -112,6 +116,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.04",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.04",
@@ -128,6 +141,7 @@ window.LUMINO_DATA = {
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -203,6 +217,26 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.04",
+      "title": "Anatomy of a logo: Andy Warhol's Campbell's soup can",
+      "url": "https://www.wallpaper.com/art/design-history-andy-warhol-campbell-soup-can",
+      "excerpt": "For our August US issue, we celebrate American design, encapsulated here in Andy Warhol's can of Campbell's tomato soup",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/E9yqbfAodmixQFanZ6gXCU.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Kitty’s Cosmopolitan Club brings emerald glamour to Chicago",
+      "url": "https://www.wallpaper.com/travel/bars/kittys-cosmopolitan-club-chicagos-review",
+      "excerpt": "David Collins Studio turns a basement beneath River North’s Crying Tiger into a velvet-lined speakeasy of smoked mirror, polished nickel and low amber light",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QJ3ezHAgUGLjzPzCJBnmSc-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
       "title": "Hastings’ Eagle House shows what happens when architecture puts community first",
       "url": "https://www.wallpaper.com/architecture/eagle-house-ifdo-hastings-uk",
       "excerpt": "IFDO’s Eagle House for Hastings Commons transforms a neglected Victorian building into a youth centre, affordable workspace and community hub",
@@ -230,6 +264,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "The Bridle Path  / Ampuero Yutronic",
+      "url": "https://www.archdaily.com/1042849/the-bridle-path-ampuero-yutronic",
+      "excerpt": "The Bridle Path is a contemporary residence located in Epsom, Surrey, a town to the southwest of London characterized by its low-density residential fabric and a strong presence of single-family homes",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a26/c562/d2d3/6e00/0102/f422/large_jpg/03.jpg?1780925861",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -240,23 +284,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.04",
-      "title": "Louis Vuitton's Monterey watch finds a new life on the SS27 Paris runway",
-      "url": "https://www.wallpaper.com/watches-jewellery/louis-vuitton-monterey-watch-ss27-paris",
-      "excerpt": "Originally designed by Gae Aulenti in 1988, Louis Vuitton's first-ever watch returns in glossy ceramic, reimagined as a wearable charm for the house's SS27 menswear show",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/br6vGdGvadyUaE2GEjhj7B.gif",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Chelsea’s favourite fishmonger levels up with a new bistro and seafood bar",
-      "url": "https://www.wallpaper.com/travel/restaurants/the-sea-the-sea-london-review",
-      "excerpt": "The Sea, The Sea expands its fish counter-cum-chef’s table into a full restaurant, retail and terrace operation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S2fv5kr2Xwec9RD3ivZuNX-1600-80.jpg",
+      "title": "Building Forward: How Vernacular Knowledge Is Shaping Contemporary Architecture",
+      "url": "https://www.archdaily.com/1042710/building-forward-how-vernacular-knowledge-is-shaping-contemporary-architecture",
+      "excerpt": "Across different climates and building cultures, many contemporary projects are working with local ways of building in new ways. Earth walls, bamboo structures, shaded thresholds, and collective const",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/237f/6c38/4816/a744/2624/large_jpg/how-vernacular-knowledge-is-shaping-contemporary-architecture_3.jpg?1782260613",
       "today": true
     },
     {
@@ -347,16 +381,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Cerdeiras House Hotel / Tiago do Vale Arquitectos",
-      "url": "https://www.archdaily.com/1040873/cerdeiras-house-hotel-tiago-do-vale-arquitectos",
-      "excerpt": "The Cerdeiras House Hotel results from the transformation of a rural complex dating back to the 18th century, located in the Labruja Mountain, in Ponte de Lima, Portugal.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69e9/1eec/8471/2000/01f8/edd9/large_jpg/JM_TdV_Labruja_S11.jpg?1776885558",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -364,16 +388,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/snohetta-prairie-roof-roosevelt-library-theodore-roosevelt-badlands/",
       "excerpt": "the newly completed theodore roosevelt presidential library rises from the badlands of north dakota beneath a living prairie roof.\nThe post snøhetta’s prairie-roofed roosevelt library honors the lands",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/snohetta-theodore-roosevelt-presidential-library-completion-badlands-north-dakota-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Plaza Luna Vallenata / Tarq Studio",
-      "url": "https://www.archdaily.com/1039373/plaza-luna-vallenata-tarq-studio",
-      "excerpt": "In Valledupar, going to the public market had never been a spatial experience, but rather an everyday necessity: buy, sell, leave. However, on the city's periphery—where public space is scarce and sta",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69aa/2acb/314f/6601/8902/b482/large_jpg/plaza-luna-vallenata-tarq-studio_6.jpg?1772759769",
       "today": false
     },
     {
