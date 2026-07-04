@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.04  03:49",
+  "fetchedAt": "2026.07.04  06:43",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,7 +49,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -138,6 +138,7 @@ window.LUMINO_DATA = {
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -200,6 +201,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Born of the Badlands, the Theodore Roosevelt Presidential Library is ‘a call to adventure’",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/theodore-roosevelt-presidential-library-snohetta-usa",
+      "excerpt": "The Snøhetta-designed library and museum, its architecture inspired by its North Dakota Badlands surroundings, builds on the legacy of a larger-than-life leader – and opens 4 July 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/spirit-of-adventure-RusEsur8k8vu9DfFNcB329-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Celebrating twenty years of Design Parade in the south of France",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/design-parade-2026",
+      "excerpt": "A heat wave accompanied the revelrous opening days of the Design Parade festival, magnifying focus on the proudly regional festival’s question of how to live in the Mediterranean",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7WyE4ukYuHAiupgTwB6NTa-2048-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -217,6 +238,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
       "excerpt": "weave robotics unveils 'isaac 1' with a collapsible body, soft fabric shell, and simplified grippers.\nThe post this soft robot wants to fold laundry without pretending to be human appeared first on de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/weave-robotics-isaac-1-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.03",
+      "title": "Brick Award 2026 winners create \"a sense of wonder and beauty\"",
+      "url": "https://www.dezeen.com/2026/07/03/brick-award-26/",
+      "excerpt": "Promotion: a Vietnamese temple and a Mexican tequila factory are among the eclectic winners of this year's Brick Award programme. The six winners of Brick Award 2026 also include an infill housing pro",
       "today": false
     },
     {
@@ -329,26 +359,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "In transit: how cinematographer Bebe Dierken travels",
-      "url": "https://www.wallpaper.com/travel/in-transit-with-cinematographer-bebe-dierken",
-      "excerpt": "Travel transformed Bebe Dierken from ‘someone from a town’ into ‘a human from the world’. Here, the director of photography recounts the objects and places she carries with her",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RUDRpjudBwZNmWNpE5CRe6-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "The beauty launches you need to have in your summer beauty bag",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-beauty-launches-june-2026",
-      "excerpt": "Tried and tested by the Wallpaper* team, we’ve selected the best beauty launches of the season so far",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XPjqboJEBQuDXF8mpCyBnd-1200-80.webp",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -383,15 +393,6 @@ window.LUMINO_DATA = {
       "title": "\"Forgive me if I'm wrong, but isn't the world on fire?\" says commenter",
       "url": "https://www.dezeen.com/2026/07/03/jumbo-tidal-wave-louis-vuitton-menswear-show-comments/",
       "excerpt": "In this week's comments update, readers are discussing a 37-metre-wide jumbo wave that formed the backdrop of Louis Vuitton's Spring Summer 2027 menswear show in Paris. Designed by the fashion house's",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Can Kylie Jenner detoxify AI smart glasses?",
-      "url": "https://www.dezeen.com/2026/07/03/smart-glasses-gehry-abu-dhabi-heatwave-fashion-week-dezeen-weekly-podcast/",
-      "excerpt": "Would we wear the new Meta smart glasses? Is Frank Gehry's Abu Dhabi opera house actually pretty good? And why did Paris Fashion Week feel like the last days of the Roman Empire? Listen to the latest ",
       "today": false
     },
     {
@@ -661,16 +662,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206720",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.05.20",
-      "title": "スペインの照明ブランド「VIBIA」の日本国内における独占取り扱いを開始",
-      "url": "https://www.yamagiwa.co.jp/news/76548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
       "today": false
     }
   ]
