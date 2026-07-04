@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.03  22:07",
+  "fetchedAt": "2026.07.04  00:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,61 +37,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "DNライティング": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "大光電機": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -103,7 +99,7 @@ window.LUMINO_DATA = {
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "中日新聞Web",
@@ -113,7 +109,17 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": false
     },
     {
       "source": "ヨコハマ経済新聞",
@@ -123,7 +129,7 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ファッションプレス",
@@ -133,17 +139,7 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.03",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Sortir à Paris",
@@ -153,7 +149,17 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.03",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": false
     },
     {
       "source": "山陽新聞",
@@ -163,7 +169,7 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "オズモール",
@@ -172,7 +178,7 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "today": true
+      "today": false
     },
     {
       "source": "Google ニュース",
@@ -182,7 +188,7 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Google ニュース",
@@ -192,17 +198,7 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.07.03",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -212,7 +208,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
       "excerpt": "weave robotics unveils 'isaac 1' with a collapsible body, soft fabric shell, and simplified grippers.\nThe post this soft robot wants to fold laundry without pretending to be human appeared first on de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/weave-robotics-isaac-1-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -222,7 +218,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/suspended-glacier-forms-climate-change-interactive-installation-shanghai-dayuan-design/",
       "excerpt": "recycled metal and reclaimed fabric form the modular structure.\nThe post suspended glacier forms translate climate change into an interactive installation in shanghai appeared first on designboom | ar",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/glacier-project-suspended-interactive-urban-installation-shanghai-dayuan-design-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -231,7 +227,7 @@ window.LUMINO_DATA = {
       "title": "Seattle airport expansion features massive timber-clad \"tree\"",
       "url": "https://www.dezeen.com/2026/07/03/miller-hull-partnership-woods-bagot-timber-expansion-sea-tac/",
       "excerpt": "Architecture studios The Miller Hull Partnership and Woods Bagot have completed an extension to Concourse C at Seattle-Tacoma International Airport, integrating a large timber-clad \"tree\" that arches ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -241,7 +237,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1040873/cerdeiras-house-hotel-tiago-do-vale-arquitectos",
       "excerpt": "The Cerdeiras House Hotel results from the transformation of a rural complex dating back to the 18th century, located in the Labruja Mountain, in Ponte de Lima, Portugal.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69e9/1eec/8471/2000/01f8/edd9/large_jpg/JM_TdV_Labruja_S11.jpg?1776885558",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -251,7 +247,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/montreauz-jazz-festival-in-posters",
       "excerpt": "We present the best posters from six decades of Montreux Jazz and explore a new photography book, The Elegance of Time, dedicated to the performers",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vkRxVZE3rozRazNF439esF-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -261,7 +257,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/snohetta-prairie-roof-roosevelt-library-theodore-roosevelt-badlands/",
       "excerpt": "the newly completed theodore roosevelt presidential library rises from the badlands of north dakota beneath a living prairie roof.\nThe post snøhetta’s prairie-roofed roosevelt library honors the lands",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/snohetta-theodore-roosevelt-presidential-library-completion-badlands-north-dakota-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -271,7 +267,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1039373/plaza-luna-vallenata-tarq-studio",
       "excerpt": "In Valledupar, going to the public market had never been a spatial experience, but rather an everyday necessity: buy, sell, leave. However, on the city's periphery—where public space is scarce and sta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69aa/2acb/314f/6601/8902/b482/large_jpg/plaza-luna-vallenata-tarq-studio_6.jpg?1772759769",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -281,7 +277,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/wallpaper-us400-2026",
       "excerpt": "Our annual list of the movers and shakers in the US creative scene",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KFyk5CnhgdKmASvKosHVnD.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -291,7 +287,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1043007/house-in-pompeia-23-sul",
       "excerpt": "With 225m² of built area, this house located in the Pompeia neighborhood of São Paulo is structured using pre-industrialized construction systems, precast blocks, and engineered wood. This approach wa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69f0/b3d6/20d6/d800/0166/3dd2/large_jpg/CASA_POMPEIA_-_23_SUL-AMATA-2.jpg?1777382458",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -301,7 +297,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/vietnamese-modernist-architecture-guide",
       "excerpt": "Vietnamese modernist architecture may not be the most well-known strand of the midcentury style, but its vocabulary is rich, layered and thrilling; our guide explores the 20th-century style, its compo",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UCVgWHJZyL7ZDZp8Rhzwsn-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -311,7 +307,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042945/rollingwood-residence-a-parallel-architecture",
       "excerpt": "Motivated to build a forever home for her young and growing family, our client challenged the design team to create a cozy, family-oriented sanctuary on an otherwise busy thoroughfare. Early design ex",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8dfd/0789/c600/018c/2a4e/large_jpg/AD_Rollingwood_-_Chase_Daniel__1_.jpg?1782943498",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -321,7 +317,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/in-transit-with-cinematographer-bebe-dierken",
       "excerpt": "Travel transformed Bebe Dierken from ‘someone from a town’ into ‘a human from the world’. Here, the director of photography recounts the objects and places she carries with her",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RUDRpjudBwZNmWNpE5CRe6-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -331,7 +327,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-beauty-launches-june-2026",
       "excerpt": "Tried and tested by the Wallpaper* team, we’ve selected the best beauty launches of the season so far",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XPjqboJEBQuDXF8mpCyBnd-1200-80.webp",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -341,7 +337,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/hair-sanne-visser-redesigning-systems-materials-interview/",
       "excerpt": "ahead of the ropery exhibition at whitechapel gallery, the london-based designer and researcher reflects on a decade of working with human hair. \nThe post ‘it’s not about hair’: sanne visser on redesi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hair-sanne-visser-redesigning-systems-materials-interview-designboom-03.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -350,7 +346,7 @@ window.LUMINO_DATA = {
       "title": "BIG arranges circular Dymak HQ around stepped courtyard",
       "url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
       "excerpt": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched o",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -359,7 +355,7 @@ window.LUMINO_DATA = {
       "title": "Jay Morton elected RIBA president",
       "url": "https://www.dezeen.com/2026/07/03/jay-morton-elected-riba-president/",
       "excerpt": "Jay Morton, director at architecture studio Bell Phillips, has been elected to become the next president of the Royal Institute of British Architects. Morton will become president-elect on 1 September",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -369,7 +365,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042957/sanctum-retreat-arches",
       "excerpt": "Nestled within a forest clearing near Bezdonys, Lithuania, SANCTUM is a nature therapy retreat that explores how architecture can foster a deeper relationship between people and the natural environmen",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/30a0/0789/c600/018c/2aeb/large_jpg/15.jpg?1782985116",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -379,7 +375,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/cycling-running-skiing-new-halfbike-pro/",
       "excerpt": "ten years in the making, the full-body sport tool reimagines the conventional bicycle through a compact, three-wheeled design.\nThe post cycling, running, and skiing converge in the new halfbike pro ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/451534/2026-06-25/halfbike-pro-1-6a3cde91ca139.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -388,7 +384,7 @@ window.LUMINO_DATA = {
       "title": "\"Forgive me if I'm wrong, but isn't the world on fire?\" says commenter",
       "url": "https://www.dezeen.com/2026/07/03/jumbo-tidal-wave-louis-vuitton-menswear-show-comments/",
       "excerpt": "In this week's comments update, readers are discussing a 37-metre-wide jumbo wave that formed the backdrop of Louis Vuitton's Spring Summer 2027 menswear show in Paris. Designed by the fashion house's",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -397,7 +393,7 @@ window.LUMINO_DATA = {
       "title": "Can Kylie Jenner detoxify AI smart glasses?",
       "url": "https://www.dezeen.com/2026/07/03/smart-glasses-gehry-abu-dhabi-heatwave-fashion-week-dezeen-weekly-podcast/",
       "excerpt": "Would we wear the new Meta smart glasses? Is Frank Gehry's Abu Dhabi opera house actually pretty good? And why did Paris Fashion Week feel like the last days of the Roman Empire? Listen to the latest ",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -407,7 +403,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/175",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/175/296A8523-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -676,16 +672,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/76548/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/05/Vibia_idd17eiO4o_0.png",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "展示・アート",
-      "date": "2026.05.20",
-      "title": "展示会「オルガテック東京2026」出展のお知らせ",
-      "url": "https://www.endo-lighting.co.jp/news/20260520-01/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/05/orgatec2026_2.png",
       "today": false
     }
   ]
