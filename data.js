@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.04  06:43",
+  "fetchedAt": "2026.07.04  09:19",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,15 +41,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -204,6 +204,36 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.04",
+      "title": "The UIA World Congress of Architects 2026 was 'purposefully overwhelming.' Here are our takeaways",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/uia-world-congress-of-architects-2026",
+      "excerpt": "We attended the UIA World Congress of Architects 2026, the profession's triennial event, which zoomed in this year on themes of transition and adaptation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nMW2Z7rPMt5vqvtG9mzuTL-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Louis Vuitton's Monterey watch finds a new life on the SS27 Paris runway",
+      "url": "https://www.wallpaper.com/watches-jewellery/louis-vuitton-monterey-watch-ss27-paris",
+      "excerpt": "Originally designed by Gae Aulenti in 1988, Louis Vuitton's first-ever watch returns in glossy ceramic, reimagined as a wearable charm for the house's SS27 menswear show",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/br6vGdGvadyUaE2GEjhj7B.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "Chelsea’s favourite fishmonger levels up with a new bistro and seafood bar",
+      "url": "https://www.wallpaper.com/travel/restaurants/the-sea-the-sea-london-review",
+      "excerpt": "The Sea, The Sea expands its fish counter-cum-chef’s table into a full restaurant, retail and terrace operation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S2fv5kr2Xwec9RD3ivZuNX-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.04",
       "title": "Born of the Badlands, the Theodore Roosevelt Presidential Library is ‘a call to adventure’",
       "url": "https://www.wallpaper.com/architecture/public-buildings/theodore-roosevelt-presidential-library-snohetta-usa",
       "excerpt": "The Snøhetta-designed library and museum, its architecture inspired by its North Dakota Badlands surroundings, builds on the legacy of a larger-than-life leader – and opens 4 July 2026",
@@ -218,6 +248,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/design-parade-2026",
       "excerpt": "A heat wave accompanied the revelrous opening days of the Design Parade festival, magnifying focus on the proudly regional festival’s question of how to live in the Mediterranean",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7WyE4ukYuHAiupgTwB6NTa-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.04",
+      "title": "CR Land: Wuxi MixC Mall / Ippolito Fleitz Group",
+      "url": "https://www.archdaily.com/1027613/cr-land-wuxi-mixc-mall-ippolito-fleitz-group",
+      "excerpt": "With 360 shops, event spaces, a cinema, a food court, a rooftop garden and a Riverside Market that extends into the outside space, the Wuxi MixC Mall offers a diverse spectrum of attractions with a hi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/67c7/6c6a/f3a3/6501/8753/db60/large_jpg/cr-land-wuxi-mixc-mall-ippolito-fleitz-group_1.jpg?1741122775",
       "today": true
     },
     {
@@ -289,16 +329,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Kévin Germanier’s colourful poster heralds the 60th Edition of the Montreux Jazz Festival",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/montreauz-jazz-festival-in-posters",
-      "excerpt": "We present the best posters from six decades of Montreux Jazz and explore a new photography book, The Elegance of Time, dedicated to the performers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vkRxVZE3rozRazNF439esF-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -319,16 +349,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Wallpaper* US400: The people shaping Creative America in 2026",
-      "url": "https://www.wallpaper.com/design-interiors/wallpaper-us400-2026",
-      "excerpt": "Our annual list of the movers and shakers in the US creative scene",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KFyk5CnhgdKmASvKosHVnD.gif",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.03",
@@ -336,26 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1043007/house-in-pompeia-23-sul",
       "excerpt": "With 225m² of built area, this house located in the Pompeia neighborhood of São Paulo is structured using pre-industrialized construction systems, precast blocks, and engineered wood. This approach wa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69f0/b3d6/20d6/d800/0166/3dd2/large_jpg/CASA_POMPEIA_-_23_SUL-AMATA-2.jpg?1777382458",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "The lesser-known richness of Vietnamese modernist architecture explored",
-      "url": "https://www.wallpaper.com/architecture/vietnamese-modernist-architecture-guide",
-      "excerpt": "Vietnamese modernist architecture may not be the most well-known strand of the midcentury style, but its vocabulary is rich, layered and thrilling; our guide explores the 20th-century style, its compo",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UCVgWHJZyL7ZDZp8Rhzwsn-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "Rollingwood Residence / A Parallel Architecture",
-      "url": "https://www.archdaily.com/1042945/rollingwood-residence-a-parallel-architecture",
-      "excerpt": "Motivated to build a forever home for her young and growing family, our client challenged the design team to create a cozy, family-oriented sanctuary on an otherwise busy thoroughfare. Early design ex",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8dfd/0789/c600/018c/2a4e/large_jpg/AD_Rollingwood_-_Chase_Daniel__1_.jpg?1782943498",
       "today": false
     },
     {
