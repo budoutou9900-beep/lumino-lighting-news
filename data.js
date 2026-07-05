@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  06:44",
+  "fetchedAt": "2026.07.05  09:39",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -207,6 +207,26 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.05",
+      "title": "Brazilian modernism: explore the enduring allure of the country's midcentury architecture",
+      "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
+      "excerpt": "Influential and visually arresting, Brazilian modernism has left a mark, not only on the country's history but also on the 20th-century movement's global evolution; our guide explores its impact",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PD5DLrTtAtrC32i7HPCP9N-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "How We Host: Martin Brudnizki brings his maximalist eye to the dinner table",
+      "url": "https://www.wallpaper.com/entertaining/how-we-host-with-martin-brusnizki",
+      "excerpt": "‘Be entertaining, be sparkling. Effervescence is required,’ says the interior designer as he shares his hosting tips with Wallpaper*",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5KMb3ctjHVZmh7we7Kzo8f-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.05",
       "title": "Carlo Ratti explores the Italian summer through objects – and the origins of the condom",
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-objectify-condom",
       "excerpt": "The third instalment of the architect's series, 'Objectify,' investigates one of Italy's lesser-known yet all-important inventions - the condom",
@@ -221,6 +241,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/honor-magic-v6-foldable-phone-review",
       "excerpt": "Foldable phones are still a niche affair, but that hasn’t stopped companies like Honor pushing the tech further. The Magic V6 is the newest iteration of their multitasking, multiscreen flagship",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UYsirJibQvFNKd6SAaGVyk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Superflex and KWY.studio create architecture for fish to enjoy after sea levels rise",
+      "url": "https://www.dezeen.com/2026/07/05/superflex-kwy-studio-suepr-kello-fish-architecture/",
+      "excerpt": "Danish artist collective Superflex has collaborated with KWY.studio architects to create Super Kello – a harbourside stone sculpture in Oulu, Finland, to be enjoyed by fish after sea levels rise. Crea",
       "today": true
     },
     {
@@ -241,6 +270,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
       "excerpt": "cobe opens a public bookstore within its copenhagen studio, offering a curated selection of books on architecture, urbanism, landscape, and design.\nThe post a bookstore inside cobe copenhagen: a mater",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cobe-public-architecture-bookstore-copenhagen-studio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Easel Bridge / XBTW OFFICE",
+      "url": "https://www.archdaily.com/1042923/easel-bridge-xbtw-office",
+      "excerpt": "The Easel Bridge is located in Yucun, Moganshan, Zhejiang Province. Spanning over Fuxi Creek, the pedestrian bridge is approximately 10 meters long and 2 meters wide.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/347d/bdfc/1a01/8a6a/3c10/large_jpg/easel-bridge-xbtw-office_46.jpg?1782920354",
       "today": true
     },
     {
@@ -322,16 +361,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Terra Catarina House / Nola Arquitetura",
-      "url": "https://www.archdaily.com/1043025/terra-catarina-house-nola-arquitetura",
-      "excerpt": "History, memory, nature, and architecture complement one another to bring the Terra Catarina House to life. Set atop a mountain, surrounded by a dense araucaria forest and facing a valley shaped by a ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/0dca/b477/e200/0107/a8de/large_jpg/EM_260409_NA_0443.jpg?1783041511",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -339,26 +368,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/design-history-andy-warhol-campbell-soup-can",
       "excerpt": "For our August US issue, we celebrate American design, encapsulated here in Andy Warhol's can of Campbell's tomato soup",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/E9yqbfAodmixQFanZ6gXCU.gif",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Kitty’s Cosmopolitan Club brings emerald glamour to Chicago",
-      "url": "https://www.wallpaper.com/travel/bars/kittys-cosmopolitan-club-chicagos-review",
-      "excerpt": "David Collins Studio turns a basement beneath River North’s Crying Tiger into a velvet-lined speakeasy of smoked mirror, polished nickel and low amber light",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QJ3ezHAgUGLjzPzCJBnmSc-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Hastings’ Eagle House shows what happens when architecture puts community first",
-      "url": "https://www.wallpaper.com/architecture/eagle-house-ifdo-hastings-uk",
-      "excerpt": "IFDO’s Eagle House for Hastings Commons transforms a neglected Victorian building into a youth centre, affordable workspace and community hub",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Vg88eHKx6t8CHVMCZX3siY-2540-80.jpg",
       "today": false
     },
     {
@@ -387,15 +396,6 @@ window.LUMINO_DATA = {
       "title": "Seven self-build housing projects to inspire your own",
       "url": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/",
       "excerpt": "Considering building your own custom-made house? Here are eight examples of successful residential self-build projects from the Dezeen archives to get your creative juices flowing. Peckham House, UK, ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "This week Rick Owens created air-conditioned tracksuits",
-      "url": "https://www.dezeen.com/2026/07/04/rick-owens-air-conditioned-tracksuits-this-week/",
-      "excerpt": "This week on Dezeen, we reported on Paris Fashion Week where fashion designer Rick Owens showed inflatable Adidas jogging suits. Complete with tiny built-in fans that circulate air around the wearer, ",
       "today": false
     },
     {
