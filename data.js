@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  17:03",
+  "fetchedAt": "2026.07.05  19:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,43 +17,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "newscast.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -135,16 +135,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.05",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.05",
@@ -204,6 +194,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Incense made from tea-based waste among projects by Hong Kong Polytechnic University",
+      "url": "https://www.dezeen.com/2026/07/05/incense-made-from-tea-based-waste-hong-kong-polytechnic-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: coils, cones and sticks of incense made using waste organic matter from herbal teas are among the products by the Hong Kong Polytechnic University. Also featured is a chair design",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.05",
@@ -211,6 +220,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview/",
       "excerpt": "the french artist reflects on leaving advertising for ceramics, using illusion to capture attention, and why beauty still has the power to bring people together.\nThe post ‘beauty can help save us’: ja",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Cafelândia House / Ana Sawaia Arquitetura",
+      "url": "https://www.archdaily.com/1040760/cafelandia-house-ana-sawaia-arquitetura",
+      "excerpt": "Located in the Sumaré neighborhood of São Paulo, the renovation of Casa Cafelândia reconfigures a 1938 residence to bring its social spaces closer to the garden and adapt the house to a more open, lig",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69e2/30fe/8471/2000/01f8/eaa1/large_jpg/AndreScarpa_Cafelandia__1_.jpg?1776431416",
       "today": true
     },
     {
@@ -351,22 +370,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Easel Bridge / XBTW OFFICE",
-      "url": "https://www.archdaily.com/1042923/easel-bridge-xbtw-office",
-      "excerpt": "The Easel Bridge is located in Yucun, Moganshan, Zhejiang Province. Spanning over Fuxi Creek, the pedestrian bridge is approximately 10 meters long and 2 meters wide.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/347d/bdfc/1a01/8a6a/3c10/large_jpg/easel-bridge-xbtw-office_46.jpg?1782920354",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.04",
       "title": "the otherworldly forms of ken price’s solo exhibition at PoMo in norway",
       "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
-      "excerpt": "on display at PoMo in norway, the particular approach to ceramics and color come through in the american artist's oeuvre \nThe post the otherworldly forms of ken price’s solo exhibition at PoMo in norw",
+      "excerpt": "on display at PoMo in norway, the american artist's particular approach to ceramics and color comes through in the collection of his works\nThe post the otherworldly forms of ken price’s solo exhibitio",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ken-price-pomo-designboom-09.jpg",
       "today": false
     },
@@ -377,15 +386,6 @@ window.LUMINO_DATA = {
       "title": "\"Experience of Brasília\" evoked at interior installation in Niemeyer's São Paulo pavilion",
       "url": "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
       "excerpt": "Architecture studio Debaixo do Bloco has distilled the landscape, architecture and atmosphere of Brasília into a domestic-scale installation within Oscar Niemeyer's Bienal Pavilion in São Paulo. Insid",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Drawings of ritual-hosting interiors among projects by Hong Kong Polytechnic University",
-      "url": "https://www.dezeen.com/2026/07/04/drawings-of-ritual-hosting-interiors-among-projects-by-hong-kong-polytechnic-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: architectural drawings depicting \"a narrative-driven exploration of religious ritual\" are among the projects by students at Hong Kong Polytechnic University. Also featured is a sp",
       "today": false
     },
     {
