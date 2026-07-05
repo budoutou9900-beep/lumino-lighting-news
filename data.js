@@ -1,207 +1,79 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.04  23:57",
+  "fetchedAt": "2026.07.05  03:00",
   "sourceColors": {
-    "axismag.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "久留米ファン": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "newscast.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "オズモール": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
     "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "DNライティング": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "a bookstore inside cobe copenhagen: a material library of architecture, cities, and ideas",
+      "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
+      "excerpt": "cobe opens a public bookstore within its copenhagen studio, offering a curated selection of books on architecture, urbanism, landscape, and design.\nThe post a bookstore inside cobe copenhagen: a mater",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cobe-public-architecture-bookstore-copenhagen-studio-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.07.04",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.04",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
+      "title": "Neeti-Lime House / DINTERPLAY ARCHITECTS",
+      "url": "https://www.archdaily.com/1042961/neeti-lime-house-dinterplay-architects",
+      "excerpt": "Derived from the Sanskrit word Neeti, meaning intention or guiding principle, the project is shaped by a series of conscious design decisions that respond to climate, context, and the everyday rituals",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/3f89/0789/c600/018c/2b3a/large_jpg/ELEVATION-PRATIKRUTI__2_.jpg?1782988711",
+      "today": false
     },
     {
       "source": "designboom",
@@ -211,7 +83,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
       "excerpt": "on display at PoMo in norway, the particular approach to ceramics and color come through in the american artist's oeuvre \nThe post the otherworldly forms of ken price’s solo exhibition at PoMo in norw",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ken-price-pomo-designboom-09.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -220,7 +92,7 @@ window.LUMINO_DATA = {
       "title": "\"Experience of Brasília\" evoked at interior installation in Niemeyer's São Paulo pavilion",
       "url": "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
       "excerpt": "Architecture studio Debaixo do Bloco has distilled the landscape, architecture and atmosphere of Brasília into a domestic-scale installation within Oscar Niemeyer's Bienal Pavilion in São Paulo. Insid",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -230,7 +102,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042887/antarvan-residence-neogenesis-plus-studi0261",
       "excerpt": "Set within an urban context, Antarvan is envisioned as a compact yet layered home that redefines the relationship between the built and the open. \"From the very beginning, the design intent was to und",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/b7a5/0789/c600/018c/285f/large_jpg/DSC06797.jpg?1782822869",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -240,7 +112,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042999/rosso-listening-bar-naso",
       "excerpt": "The design of Rosso is conceived as a listening bar discreetly located behind the kitchen of a restaurant, establishing a sense of escape and discovery for guests. This concealed position frames the b",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/large_jpg/DSC06167_1.jpg?1783062070",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -249,7 +121,7 @@ window.LUMINO_DATA = {
       "title": "Drawings of ritual-hosting interiors among projects by Hong Kong Polytechnic University",
       "url": "https://www.dezeen.com/2026/07/04/drawings-of-ritual-hosting-interiors-among-projects-by-hong-kong-polytechnic-university-schoolshows/",
       "excerpt": "Dezeen School Shows: architectural drawings depicting \"a narrative-driven exploration of religious ritual\" are among the projects by students at Hong Kong Polytechnic University. Also featured is a sp",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -259,7 +131,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1041242/paraiso-office-building-plus-industrial-warehouse-tec-taller-ec",
       "excerpt": "The project involved the expansion of the Productos Paraiso industrial warehouse and the office building, located in Tambillo, south of the Metropolitan District of Quito. The project is situated in a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69fa/f978/a59b/8300/01a7/ee5a/large_jpg/1._TEC_TALLER_PARAISO.jpg?1778055561",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -269,7 +141,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
       "excerpt": "along the french-swiss border, this concert hall takes shape with a copper shell and raw plaster acoustics.\nThe post copper shingles wrap curving concert hall ‘la source vive’ in évian, france appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/source-vive-philippe-chiambaretta-architecte-evian-bains-france-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -279,7 +151,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1043025/terra-catarina-house-nola-arquitetura",
       "excerpt": "History, memory, nature, and architecture complement one another to bring the Terra Catarina House to life. Set atop a mountain, surrounded by a dense araucaria forest and facing a valley shaped by a ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/0dca/b477/e200/0107/a8de/large_jpg/EM_260409_NA_0443.jpg?1783041511",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -289,7 +161,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/design-history-andy-warhol-campbell-soup-can",
       "excerpt": "For our August US issue, we celebrate American design, encapsulated here in Andy Warhol's can of Campbell's tomato soup",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/E9yqbfAodmixQFanZ6gXCU.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -299,7 +171,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/bars/kittys-cosmopolitan-club-chicagos-review",
       "excerpt": "David Collins Studio turns a basement beneath River North’s Crying Tiger into a velvet-lined speakeasy of smoked mirror, polished nickel and low amber light",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QJ3ezHAgUGLjzPzCJBnmSc-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -309,7 +181,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/eagle-house-ifdo-hastings-uk",
       "excerpt": "IFDO’s Eagle House for Hastings Commons transforms a neglected Victorian building into a youth centre, affordable workspace and community hub",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Vg88eHKx6t8CHVMCZX3siY-2540-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -319,7 +191,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
       "excerpt": "the michelangelo foundation's executive director discusses es devlin's staging for homo faber 2026, and why the human hand remains our most precious instrument for understanding the world.\nThe post ‘t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -328,7 +200,7 @@ window.LUMINO_DATA = {
       "title": "Ricardo Leal perches hempcrete chicken coop alongside Portuguese home",
       "url": "https://www.dezeen.com/2026/07/04/ricardo-leal-pestana-chicken-coop/",
       "excerpt": "Hempcrete and timber were used to create this compact chicken coop in Portugal, designed by local architect Ricardo Leal to demonstrate that \"even the most modest structures deserve careful thought\". ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -338,7 +210,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/fiat-multiplina-concept",
       "excerpt": "Fiat has doubled-down on its focus on micromobility, taking the cultish Topolino into new sectors and thinking about future forms for ultra-compact urban travel",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ToB7gRQj8ADB5hWR9SZhU4-2048-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -347,17 +219,7 @@ window.LUMINO_DATA = {
       "title": "Seven self-build housing projects to inspire your own",
       "url": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/",
       "excerpt": "Considering building your own custom-made house? Here are eight examples of successful residential self-build projects from the Dezeen archives to get your creative juices flowing. Peckham House, UK, ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "The Bridle Path  / Ampuero Yutronic",
-      "url": "https://www.archdaily.com/1042849/the-bridle-path-ampuero-yutronic",
-      "excerpt": "The Bridle Path is a contemporary residence located in Epsom, Surrey, a town to the southwest of London characterized by its low-density residential fabric and a strong presence of single-family homes",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a26/c562/d2d3/6e00/0102/f422/large_jpg/03.jpg?1780925861",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -367,7 +229,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/uia-world-congress-of-architects-2026",
       "excerpt": "We attended the UIA World Congress of Architects 2026, the profession's triennial event, which zoomed in this year on themes of transition and adaptation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nMW2Z7rPMt5vqvtG9mzuTL-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -376,7 +238,7 @@ window.LUMINO_DATA = {
       "title": "This week Rick Owens created air-conditioned tracksuits",
       "url": "https://www.dezeen.com/2026/07/04/rick-owens-air-conditioned-tracksuits-this-week/",
       "excerpt": "This week on Dezeen, we reported on Paris Fashion Week where fashion designer Rick Owens showed inflatable Adidas jogging suits. Complete with tiny built-in fans that circulate air around the wearer, ",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -386,16 +248,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/scaffolding-pipes-street-furniture-future-development-site-osaka-gas-stand-team-raw-row/",
       "excerpt": "the intervention activates a future mixed-use development site before construction begins.\nThe post scaffolding pipes turn into street furniture activating a future development site in osaka appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/gas-stand-grow-and-spread-temporary-urban-activation-team-raw-row-osaka-gas-urban-development-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "this soft robot wants to fold laundry without pretending to be human",
-      "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
-      "excerpt": "weave robotics unveils 'isaac 1' with a collapsible body, soft fabric shell, and simplified grippers.\nThe post this soft robot wants to fold laundry without pretending to be human appeared first on de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/weave-robotics-isaac-1-designboom-FB.jpg",
       "today": false
     },
     {
@@ -655,16 +507,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260522-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18700/l-jn260522-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "パナソニック",
-      "cat": "新製品",
-      "date": "2026.05.21",
-      "title": "インテリアに合わせて選べる「パルックLEDシーリングライト カラーフレームシリーズ」を10タイプ同時発売 ～パナソニック特許「文字くっきり光」「パソコンくっきり光」も搭載～",
-      "url": "https://news.panasonic.com/jp/topics/206720",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18711/3442-6720-3db8f5d6dd17d27f6c7c6169057b43d3-2362x1576.jpg",
       "today": false
     }
   ]
