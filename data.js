@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  20:53",
+  "fetchedAt": "2026.07.05  21:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -65,21 +65,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -196,6 +208,35 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.05",
+      "title": "LMTLS creates wooden \"gorge\" inside New York skincare store",
+      "url": "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
+      "excerpt": "New York- and Seoul-based studio LMTLS Architecture has carved a steep canyon of wooden layers through the Soho flagship store for Korean skincare brand SKIN1004. LMTLS Architecture's second flagship ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Basianshan Natural Public Toilet / Protoplain Architects",
+      "url": "https://www.archdaily.com/1043019/basianshan-natural-public-toilet-protoplain-architects",
+      "excerpt": "Using domestically grown bamboo, four public restrooms within a national forest recreation area were realized through four distinct construction methods—new construction, renovation, interior refurbis",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/eb76/c1bc/ef01/88fc/ea07/large_jpg/basianshan-natural-public-toilet-protoplain-architects_13.jpg?1783098237",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Hampi Samay Wasi: Regenerative Architecture and Ancestral Memory in the Kichwa Amazon / Allwa Arquitectura",
+      "url": "https://www.archdaily.com/1043005/hampi-samay-wasi-regenerative-architecture-and-ancestral-memory-in-the-kichwa-amazon-allwa-arquitectura",
+      "excerpt": "Hampi Samay Wasi is a regenerative biohabitat that reactivates the constructive memory of the Kichwa community of Awayaku through a participatory co-design process and collective construction in the E",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/2e77/0789/c600/018c/2ac8/large_jpg/01_By_Javier_Morales__7_.jpg?1782984372",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.05",
       "title": "Incense made from tea-based waste among projects by Hong Kong Polytechnic University",
       "url": "https://www.dezeen.com/2026/07/05/incense-made-from-tea-based-waste-hong-kong-polytechnic-university-schoolshows/",
       "excerpt": "Dezeen School Shows: coils, cones and sticks of incense made using waste organic matter from herbal teas are among the products by the Hong Kong Polytechnic University. Also featured is a chair design",
@@ -280,16 +321,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Basque Farm  / zU-studio",
-      "url": "https://www.archdaily.com/1042959/basque-farm-zu-studio",
-      "excerpt": "The project is located on top of a hill in the Basque Country. The original farmhouse measured a 23 × 23 metre square footprint and was divided into four equal quarters, accommodating four families. T",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/39be/0789/c600/018c/2b05/large_jpg/PG909_7.jpg?1782987223",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.05",
@@ -297,16 +328,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
       "excerpt": "Influential and visually arresting, Brazilian modernism has left a mark, not only on the country's history but also on the 20th-century movement's global evolution; our guide explores its impact",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PD5DLrTtAtrC32i7HPCP9N-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Pedagogy in Space: Architecture Schools' Hidden Curriculum",
-      "url": "https://www.archdaily.com/1042669/pedagogy-in-space-architecture-schools-hidden-curriculum",
-      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a39/fe09/6c38/4816/a744/2208/large_jpg/pedagogy-in-space-architecture-schools-hidden-curriculum_8.jpg?1782185487",
       "today": true
     },
     {
@@ -369,15 +390,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "\"Experience of Brasília\" evoked at interior installation in Niemeyer's São Paulo pavilion",
-      "url": "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
-      "excerpt": "Architecture studio Debaixo do Bloco has distilled the landscape, architecture and atmosphere of Brasília into a domestic-scale installation within Oscar Niemeyer's Bienal Pavilion in São Paulo. Insid",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -418,6 +430,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -448,6 +470,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -455,6 +517,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -488,6 +560,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -495,6 +596,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
