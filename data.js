@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  13:20",
+  "fetchedAt": "2026.07.05  15:10",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "newscast.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,45 +57,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "シリウスライティングオフィス": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "パナソニック": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -117,15 +113,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.05",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -217,6 +204,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "‘beauty can help save us’: jacques monneraud on turning cardboard into lasting ceramics",
+      "url": "https://www.designboom.com/art/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview/",
+      "excerpt": "the french artist reflects on leaving advertising for ceramics, using illusion to capture attention, and why beauty still has the power to bring people together.\nThe post ‘beauty can help save us’: ja",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.05",
@@ -252,6 +249,16 @@ window.LUMINO_DATA = {
       "title": "Five inflatable garments that use air to regulate the wearer's temperature",
       "url": "https://www.dezeen.com/2026/07/05/inflatable-garments-roundup/",
       "excerpt": "On the heels of Rick Owens's fan-powered Adidas tracksuits blowing up at Paris Fashion Week, we've rounded up five examples of pneumatic outerwear that doubles as personal aircon. As climate change he",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Basque Farm  / zU-studio",
+      "url": "https://www.archdaily.com/1042959/basque-farm-zu-studio",
+      "excerpt": "The project is located on top of a hill in the Basque Country. The original farmhouse measured a 23 × 23 metre square footprint and was divided into four equal quarters, accommodating four families. T",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/39be/0789/c600/018c/2b05/large_jpg/PG909_7.jpg?1782987223",
       "today": true
     },
     {
@@ -373,16 +380,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Antarvan Residence / Neogenesis+Studi0261",
-      "url": "https://www.archdaily.com/1042887/antarvan-residence-neogenesis-plus-studi0261",
-      "excerpt": "Set within an urban context, Antarvan is envisioned as a compact yet layered home that redefines the relationship between the built and the open. \"From the very beginning, the design intent was to und",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/b7a5/0789/c600/018c/285f/large_jpg/DSC06797.jpg?1782822869",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -399,16 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
       "excerpt": "along the french-swiss border, this concert hall takes shape with a copper shell and raw plaster acoustics.\nThe post copper shingles wrap curving concert hall ‘la source vive’ in évian, france appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/source-vive-philippe-chiambaretta-architecte-evian-bains-france-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "‘the intelligent hand moves everything’: alberto cavalli on homo faber and the future of craft",
-      "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
-      "excerpt": "the michelangelo foundation's executive director discusses es devlin's staging for homo faber 2026, and why the human hand remains our most precious instrument for understanding the world.\nThe post ‘t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview-designboom-1200.jpg",
       "today": false
     },
     {
