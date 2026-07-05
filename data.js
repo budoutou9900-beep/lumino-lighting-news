@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  15:10",
+  "fetchedAt": "2026.07.05  17:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -214,6 +214,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Cabin Åkvåg / Praksis A + Studio Sted",
+      "url": "https://www.archdaily.com/1042877/cabin-akvag-praksis-a-plus-studio-sted",
+      "excerpt": "The cabin is located in the coastal area of southern Norway, characterized by summer cabins, small communities with residential houses, and some old farmsteads. The landscape is hilly, with a vegetati",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/803f/0789/c600/018c/278d/large_jpg/IMG_3887_0_edited.jpg?1782808692",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.05",
@@ -349,16 +359,6 @@ window.LUMINO_DATA = {
       "excerpt": "The Easel Bridge is located in Yucun, Moganshan, Zhejiang Province. Spanning over Fuxi Creek, the pedestrian bridge is approximately 10 meters long and 2 meters wide.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/347d/bdfc/1a01/8a6a/3c10/large_jpg/easel-bridge-xbtw-office_46.jpg?1782920354",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Neeti-Lime House / DINTERPLAY ARCHITECTS",
-      "url": "https://www.archdaily.com/1042961/neeti-lime-house-dinterplay-architects",
-      "excerpt": "Derived from the Sanskrit word Neeti, meaning intention or guiding principle, the project is shaped by a series of conscious design decisions that respond to climate, context, and the everyday rituals",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/3f89/0789/c600/018c/2b3a/large_jpg/ELEVATION-PRATIKRUTI__2_.jpg?1782988711",
-      "today": false
     },
     {
       "source": "designboom",
