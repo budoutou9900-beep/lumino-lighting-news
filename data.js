@@ -1,15 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  03:00",
+  "fetchedAt": "2026.07.05  06:44",
   "sourceColors": {
-    "designboom": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "久留米ファン": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ヨコハマ経済新聞": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "newscast.jp": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Google ニュース": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,44 +45,194 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.07.05",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.05",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Carlo Ratti explores the Italian summer through objects – and the origins of the condom",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-objectify-condom",
+      "excerpt": "The third instalment of the architect's series, 'Objectify,' investigates one of Italy's lesser-known yet all-important inventions - the condom",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n4DTHzWZZf22LeBfFdS62T-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Honor’s Magic V6 is the company’s newest and most powerful flagship foldable",
+      "url": "https://www.wallpaper.com/tech/honor-magic-v6-foldable-phone-review",
+      "excerpt": "Foldable phones are still a niche affair, but that hasn’t stopped companies like Honor pushing the tech further. The Magic V6 is the newest iteration of their multitasking, multiscreen flagship",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UYsirJibQvFNKd6SAaGVyk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "an aluminum café table that lifts away from the wall redefines flexible hospitality furniture",
+      "url": "https://www.designboom.com/design/aluminum-cafe-table-wall-flexible-hospitality-furniture-george-willy/",
+      "excerpt": "flexible furniture responds to compact commercial environments.\nThe post an aluminum café table that lifts away from the wall redefines flexible hospitality furniture appeared first on designboom | ar",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/wall-mounted-cafe-table-removable-table-bracket-george-willy-designboom-1200.jpg",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -203,16 +381,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Fiat thinks small with the Multiplina Concept as well as some beach-ready micromobility",
-      "url": "https://www.wallpaper.com/transportation/fiat-multiplina-concept",
-      "excerpt": "Fiat has doubled-down on its focus on micromobility, taking the cultish Topolino into new sectors and thinking about future forms for ultra-compact urban travel",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ToB7gRQj8ADB5hWR9SZhU4-2048-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -222,32 +390,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "The UIA World Congress of Architects 2026 was 'purposefully overwhelming.' Here are our takeaways",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/uia-world-congress-of-architects-2026",
-      "excerpt": "We attended the UIA World Congress of Architects 2026, the profession's triennial event, which zoomed in this year on themes of transition and adaptation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nMW2Z7rPMt5vqvtG9mzuTL-2000-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.04",
       "title": "This week Rick Owens created air-conditioned tracksuits",
       "url": "https://www.dezeen.com/2026/07/04/rick-owens-air-conditioned-tracksuits-this-week/",
       "excerpt": "This week on Dezeen, we reported on Paris Fashion Week where fashion designer Rick Owens showed inflatable Adidas jogging suits. Complete with tiny built-in fans that circulate air around the wearer, ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "scaffolding pipes turn into street furniture activating a future development site in osaka",
-      "url": "https://www.designboom.com/design/scaffolding-pipes-street-furniture-future-development-site-osaka-gas-stand-team-raw-row/",
-      "excerpt": "the intervention activates a future mixed-use development site before construction begins.\nThe post scaffolding pipes turn into street furniture activating a future development site in osaka appeared ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/gas-stand-grow-and-spread-temporary-urban-activation-team-raw-row-osaka-gas-urban-development-designboom-1200.jpg",
       "today": false
     },
     {
