@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  09:39",
+  "fetchedAt": "2026.07.05  11:27",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -207,6 +207,44 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.05",
+      "title": "Porto's new vintage: culture, creativity and a modern love affair with port",
+      "url": "https://www.wallpaper.com/entertaining/porto-port-review",
+      "excerpt": "Our resident drinks writer, Neil Ridley recently visited the sun-kissed streets of Porto to discover why Port & Tonic is the talk of the town",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bnnr3DkTKWKamZkhe6Er2c-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "How Thom Browne created fashion’s most distinctive uniform",
+      "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-interview",
+      "excerpt": "First conceived in a one-bedroom New York apartment, Thom Browne’s shrunken grey suit has helped him forge a $500 million empire. Speaking to Jack Moss, he breaks down this great American success stor",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S4V83J8bPc8obCSopvDMUT-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Terta transforms decommissioned power station in Iceland into colourful site for \"learning by playing\"",
+      "url": "https://www.dezeen.com/2026/07/05/terta-ellidaarstod-power-station/",
+      "excerpt": "Icelandic studio Terta has transformed the site of the historic Elliðaárstöð power station in Reykjavík into a hub for learning, culture and play, restoring and updating its existing buildings with co",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Five inflatable garments that use air to regulate the wearer's temperature",
+      "url": "https://www.dezeen.com/2026/07/05/inflatable-garments-roundup/",
+      "excerpt": "On the heels of Rick Owens's fan-powered Adidas tracksuits blowing up at Paris Fashion Week, we've rounded up five examples of pneumatic outerwear that doubles as personal aircon. As climate change he",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.05",
       "title": "Brazilian modernism: explore the enduring allure of the country's midcentury architecture",
       "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
       "excerpt": "Influential and visually arresting, Brazilian modernism has left a mark, not only on the country's history but also on the 20th-century movement's global evolution; our guide explores its impact",
@@ -224,6 +262,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "The Silo Parking House / Antonelli + Herry Architectes",
+      "url": "https://www.archdaily.com/1042928/the-silo-parking-house-antonelli-plus-herry-architectes",
+      "excerpt": "The Silo is the natural continuation of the Campus Vert—the broader transformation of the Crédit Mutuel Wacken headquarters—standing at the threshold of future changes yet to come. As earlier projects",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29b6/large_jpg/2-DSC_0163.jpg?1782899034",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.05",
@@ -231,16 +279,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-objectify-condom",
       "excerpt": "The third instalment of the architect's series, 'Objectify,' investigates one of Italy's lesser-known yet all-important inventions - the condom",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n4DTHzWZZf22LeBfFdS62T-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Honor’s Magic V6 is the company’s newest and most powerful flagship foldable",
-      "url": "https://www.wallpaper.com/tech/honor-magic-v6-foldable-phone-review",
-      "excerpt": "Foldable phones are still a niche affair, but that hasn’t stopped companies like Honor pushing the tech further. The Magic V6 is the newest iteration of their multitasking, multiscreen flagship",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UYsirJibQvFNKd6SAaGVyk-2560-80.jpg",
       "today": true
     },
     {
@@ -341,16 +379,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "PARAISO office building + industrial warehouse / TEC Taller EC",
-      "url": "https://www.archdaily.com/1041242/paraiso-office-building-plus-industrial-warehouse-tec-taller-ec",
-      "excerpt": "The project involved the expansion of the Productos Paraiso industrial warehouse and the office building, located in Tambillo, south of the Metropolitan District of Quito. The project is situated in a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69fa/f978/a59b/8300/01a7/ee5a/large_jpg/1._TEC_TALLER_PARAISO.jpg?1778055561",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -361,16 +389,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Anatomy of a logo: Andy Warhol's Campbell's soup can",
-      "url": "https://www.wallpaper.com/art/design-history-andy-warhol-campbell-soup-can",
-      "excerpt": "For our August US issue, we celebrate American design, encapsulated here in Andy Warhol's can of Campbell's tomato soup",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/E9yqbfAodmixQFanZ6gXCU.gif",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.04",
@@ -378,24 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
       "excerpt": "the michelangelo foundation's executive director discusses es devlin's staging for homo faber 2026, and why the human hand remains our most precious instrument for understanding the world.\nThe post ‘t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Ricardo Leal perches hempcrete chicken coop alongside Portuguese home",
-      "url": "https://www.dezeen.com/2026/07/04/ricardo-leal-pestana-chicken-coop/",
-      "excerpt": "Hempcrete and timber were used to create this compact chicken coop in Portugal, designed by local architect Ricardo Leal to demonstrate that \"even the most modest structures deserve careful thought\". ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "Seven self-build housing projects to inspire your own",
-      "url": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/",
-      "excerpt": "Considering building your own custom-made house? Here are eight examples of successful residential self-build projects from the Dezeen archives to get your creative juices flowing. Peckham House, UK, ",
       "today": false
     },
     {
