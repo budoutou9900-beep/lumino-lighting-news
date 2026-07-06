@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.06  17:39",
+  "fetchedAt": "2026.07.06  19:49",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "なびたび北東北": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "なびたび北東北": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Yahoo!ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,23 +45,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -73,17 +73,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "遠藤照明": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -108,6 +100,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.06",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "なびたび北東北",
       "cat": "展示・アート",
       "date": "2026.07.06",
@@ -128,16 +129,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.06",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.06",
@@ -155,6 +146,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -187,6 +188,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "The Shavin House, Frank Lloyd Wright’s only project in Tennessee, hits the market for the first time in seven decades",
+      "url": "https://www.wallpaper.com/architecture/residential/frank-lloyd-wright-shavin-house-for-sale",
+      "excerpt": "The Chattanooga house was built in 1952 for a newlywed couple who chose to commission Wright rather than buy a home – and it's been in their family ever since",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6zyrxKTaEmemFRCoKmRKHK-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Giannone Petricone Associates \"weaves\" glass addition into 1820s Toronto house",
+      "url": "https://www.dezeen.com/2026/07/06/giannone-petricone-associates-snider-house-toronto/",
+      "excerpt": "Local studio Giannone Petricone Associates has renovated a 200-year-old Toronto house with a contemporary interior and a wavy glass addition. Snider House was originally constructed in 1828 as a brick",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.06",
@@ -214,6 +234,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/anatomy-of-a-logo-snoopy",
       "excerpt": "Among our series on enduring American design motifs, Snoopy is perhaps the most endearing – and still a hot shot",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rCovYkhoAMLhjLM7ZVukHf.gif",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "WildSumaco Research Pavilion / Caá Porá Arquitectura",
+      "url": "https://www.archdaily.com/1043000/wildsumaco-research-pavilion-caa-pora-arquitectura",
+      "excerpt": "The WildSumaco Biological Station is located on the outskirts of the community of Pacto Sumaco, at the foot of the Sumaco volcano and the first core zone of Sumaco Napo Galeras National Park, at the p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/6064/de7f/3c01/8757/2983/large_jpg/estacion-biologica-wildsumaco-caa-pora-arquitectura_20.jpg?1783062644",
       "today": true
     },
     {
@@ -250,20 +280,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.06",
+      "title": "Xingu House / TETRO Arquitetura",
+      "url": "https://www.archdaily.com/1042982/xingu-house-tetro-arquitetura",
+      "excerpt": "Xingu House emerges from a careful reading of the site: a terrain composed of natural plateaus, stone walls, and preserved patches of forest. From this irregular geography, the project seeks to unders",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/0e3d/b477/e200/0107/a8f1/large_jpg/01K_0778_copiar.jpg?1783041717",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
       "title": "Terrace Mountain Residence / A Parallel Architecture",
       "url": "https://www.archdaily.com/1042943/terrace-mountain-residence-a-parallel-architecture",
       "excerpt": "Perched dramatically on a limestone bluff overlooking the rolling Texas Hill Country and the distant Austin skyline, the Terrace Mountain Residence exemplifies sophisticated modern design. Conceived a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df4/0789/c600/018c/2a12/large_jpg/AD_Terrace_Mountain_Residence_-_Chase_Daniel__1_.jpg?1782943261",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Anatomy of a logo: New York Mets by Ray Gotto",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/new-york-mets-logo-ray-gotto",
-      "excerpt": "In the 1960s, Ray Gotto's New York Mets logo emerged as a balm for the brokenhearted: Anne Quito explores the genesis of one of the city's most beloved brand identities",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5M2zgRToNohd5hKtF9wGbe-2560-80.jpg",
       "today": true
     },
     {
@@ -353,35 +383,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Hangman lighting by Rakumba among four new products on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/07/06/hangman-lighting-rakumba-products-furniture-kitchens-chairs-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: a lighting range that draws on a childhood pen-and-paper game is among four new products featured on Dezeen Showroom. Hangman lighting collection by Adam Goodrum for Rakumba Whether t",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Theodore Roosevelt Presidential Library  / Snøhetta",
-      "url": "https://www.archdaily.com/1053997/theodore-roosevelt-presidential-library-trpl-snohetta",
-      "excerpt": "Opening on July 4, 2026, the 250th anniversary of the United States, the Theodore Roosevelt Presidential Library (TRPL) is designed by Snøhetta as the most regenerative cultural building in the Americ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/462d/73b8/d401/8935/6469/large_jpg/theodore-roosevelt-presidential-library-trpl-snohetta_2.jpg?1783318114",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Expanding the Meaning of Accessibility: Designing for Assisted Care in Public",
-      "url": "https://www.archdaily.com/1042030/expanding-the-meaning-of-accessibility-designing-for-assisted-care-in-public",
-      "excerpt": "As a fundamental human right, inclusion requires that all people—regardless of their backgrounds, abilities, or circumstances—are recognized and respected, with equal access to the same resources and ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a1a/0533/093e/927a/6386/df4c/large_jpg/expanding-the-meaning-of-accessibility-designing-for-assisted-care_2.jpg?1780090170",
-      "today": true
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.06",
@@ -422,16 +423,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -462,46 +453,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -509,16 +460,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -552,35 +493,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -588,26 +500,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
