@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.06  05:06",
+  "fetchedAt": "2026.07.06  10:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "なびたび北東北": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "北千住経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "newscast.jp": {
+    "なびたび北東北": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,41 +49,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -108,16 +104,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "なびたび北東北",
-      "cat": "展示・アート",
-      "date": "2026.07.06",
-      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
-      "url": "https://www.navitabi.jp/article/10479",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
-      "today": true
-    },
-    {
       "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.07.06",
@@ -127,13 +113,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "北千住経済新聞",
       "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
+      "title": "足立・竹ノ塚で「光の祭典」 花火のライトアップも",
+      "url": "https://adachi.keizai.biz/headline/662/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/adachi_keizai/headline/1764566525_photo.jpg",
       "today": true
     },
     {
@@ -147,42 +133,150 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "なびたび北東北",
       "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.07.06",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Jasmine Fisher transforms rented London office with moody material palette",
+      "url": "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
+      "excerpt": "Interior designer Jasmine Fisher has created an atmospheric studio for her London-based practice, using warm colours and curated artworks to lend the space a more homely feel. The 32-square-metre rent",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "soft monolithic forms shape a modular furniture collection in nubuck, alpaca, and oak",
+      "url": "https://www.designboom.com/design/soft-monolithic-forms-modular-furniture-collection-nubuck-alpaca-oak-mouvement-ed-berrios-objet-mobilier/",
+      "excerpt": "soft monolithic forms define the design language of the limited-edition collection.\nThe post soft monolithic forms shape a modular furniture collection in nubuck, alpaca, and oak appeared first on des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/soft-monolithic-forms-ed-berrios-objet-mobilier-mouvement-lounge-chair-008-modular-sofa-006-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Artist Danielle Mckinney champions the solitude of the Black female subject, capturing private moments in paint",
+      "url": "https://www.wallpaper.com/art/danielle-mckinney-interview",
+      "excerpt": "The American artist cinematically captures moments of stillness and peace in her beautifully rendered oil paintings",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KVcEAja8tW74M3rS9W8fRX-2326-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "fujiko nakaya turns mies van der rohe’s berlin sculpture garden into a landscape of fog",
+      "url": "https://www.designboom.com/art/fujiko-nakaya-mies-van-der-rohe-berlin-sculpture-garden-landscape-fog-neue-nationalgalerie/",
+      "excerpt": "the site-specific installation transforms the museum’s sculpture garden into an ever-changing landscape shaped by wind, humidity, and the movement of visitors.\nThe post fujiko nakaya turns mies van de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fujiko-nakaya-mies-van-der-rohe-berlin-sculpture-garden-landscape-fog-neue-nationalgalerie-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "IBM Research extends the scope of its home, an Eero Saarinen-designed modernist campus",
+      "url": "https://www.wallpaper.com/architecture/office/ibm-research-eero-saarinen-modernist-office-usa",
+      "excerpt": "IBM Research, Universal Design Studio and Map Project Office work within a modernist landmark to give a home to the next generation of computing",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qxyheeePrnHghHzK4vpYr9-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "kodak’s viral keychain camera gets a Y2K makeover with new millennium edition",
+      "url": "https://www.designboom.com/design/kodak-keychain-camera-y2k-makeover-charmera-millennium-edition/",
+      "excerpt": "the new edition wraps the same palm-sized point-and-shoot in metallic finishes inspired by turn-of-the-millennium consumer electronics.\nThe post kodak’s viral keychain camera gets a Y2K makeover with ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kodak-keychain-camera-y2k-makeover-charmera-millennium-edition03-818x818.jpeg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "As Peckham hot spot Bold Tendencies marks 20 years, step inside its cool curation for the summer",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/bold-tendencies-20-years-peckham-london-",
+      "excerpt": "Founder Hannah Barry tells Wallpaper* why Bold Tendencies – a non-profit arts organisation atop a multistorey car park in south-east London – is all about exercising your joy",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zvkZtQjdkjhZRQrrzGsASL-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Sporting CP unveils 1940s-informed rebrand that \"stays faithful to the club's legacy\"",
+      "url": "https://www.dezeen.com/2026/07/06/sporting-cp-club-badge-logo-rebrand/",
+      "excerpt": "Lisbon football club Sporting Clube de Portugal has unveiled an updated badge and identity, designed by branding agency Jones Knowles Ritchie to mark its 120th anniversary. Jones Knowles Ritchie (JKR)",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Hangman lighting by Rakumba among four new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/07/06/hangman-lighting-rakumba-products-furniture-kitchens-chairs-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a lighting range that draws on a childhood pen-and-paper game is among four new products featured on Dezeen Showroom. Hangman lighting collection by Adam Goodrum for Rakumba Whether t",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "The Shape of Water: 20 Aquatic Centers Building Collective Landscapes",
+      "url": "https://www.archdaily.com/1042691/the-shape-of-water-20-aquatic-centers-building-collective-landscapes",
+      "excerpt": "Most people probably have their own ritual when entering a swimming pool. Some dive in without hesitation, others start by dipping their toes, some swim for sport, and others immerse themselves simply",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a34/5943/6c38/4801/88c1/8565/large_jpg/entre-o-solido-e-o-liquido-20-centros-aquaticos-que-constroem-paisagens-coletivas_13.jpg?1781815628",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "A Tale of Tinted Courts Residence / Architects Collaborative",
+      "url": "https://www.archdaily.com/1042965/a-tale-of-tinted-courts-residence-architects-collaborative",
+      "excerpt": "In a quaint residential neighborhood in Noida, the project is a single-family home on a convenient 300 sq.m. plot. With a South-West facing orientation, the house looks directly into the small park it",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/bae7/de7f/3c01/8757/2b37/large_jpg/a-tale-of-tinted-courts-residence-architects-collaborative_27.jpg?1783085849",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Beyond The Courtyard House / RCAB Studio",
+      "url": "https://www.archdaily.com/1043006/beyond-the-courtyard-house-rcab-studio",
+      "excerpt": "Located on a 407-square-meter corner lot within a residential neighborhood in Jakarta, the house occupies a privileged position directly facing a mature public park shaded by large tropical trees. Rat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/be64/b477/e200/0107/a9a0/large_jpg/DJI_20251002094659_0024_D.jpg?1783086793",
       "today": true
     },
     {
@@ -208,11 +302,31 @@ window.LUMINO_DATA = {
     {
       "source": "ArchDaily",
       "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Nanhai Buddha Pavilion / DoDesign",
+      "url": "https://www.archdaily.com/1042914/nanhai-buddha-pavilion-dodesign",
+      "excerpt": "At the confluence of the Tiaodeng River and the Yangtze in Chongqing's Dadukou District lies Little Nanhai, a turtle-shaped island once home to a temple dedicated to Nanhai Guanyin during the Tang and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2922/large_jpg/03_DoDesign.jpg?1782859696",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.07.05",
       "title": "Shilaya Cottage  / Meister Varma Architects",
       "url": "https://www.archdaily.com/1043013/shilaya-cottage-meister-varma-architects",
       "excerpt": "Shilaya – from śilā, meaning stone- is a home in Kotagiri, a small town tucked away in the Nilgiris mountains of Tamil Nadu. Kotagiri was the earliest European settlement in this region in colonial ti",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/d326/b477/e200/0107/a9c4/large_jpg/Photographer_Syam_Sreesylam__4_.jpg?1783092045",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "shawn huckins frames painted wildfires and smoke-filled skies behind hyperreal curtains",
+      "url": "https://www.designboom.com/art/shawn-huckins-painted-wildfires-smoke-filled-skies-hyperreal-curtains-slow-burn/",
+      "excerpt": "the theatrical paintings of 'slow burn' explore the uneasy intersection of beauty and environmental crisis.\nThe post shawn huckins frames painted wildfires and smoke-filled skies behind hyperreal curt",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/shawn-huckins-frames-painted-wildfires-and-smoke-filled-skies-behind-hyperreal-curtains-designboom-1200.jpg",
       "today": false
     },
     {
@@ -225,62 +339,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Basianshan Natural Public Toilet / Protoplain Architects",
-      "url": "https://www.archdaily.com/1043019/basianshan-natural-public-toilet-protoplain-architects",
-      "excerpt": "Using domestically grown bamboo, four public restrooms within a national forest recreation area were realized through four distinct construction methods—new construction, renovation, interior refurbis",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/eb76/c1bc/ef01/88fc/ea07/large_jpg/basianshan-natural-public-toilet-protoplain-architects_13.jpg?1783098237",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Hampi Samay Wasi: Regenerative Architecture and Ancestral Memory in the Kichwa Amazon / Allwa Arquitectura",
-      "url": "https://www.archdaily.com/1043005/hampi-samay-wasi-regenerative-architecture-and-ancestral-memory-in-the-kichwa-amazon-allwa-arquitectura",
-      "excerpt": "Hampi Samay Wasi is a regenerative biohabitat that reactivates the constructive memory of the Kichwa community of Awayaku through a participatory co-design process and collective construction in the E",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/2e77/0789/c600/018c/2ac8/large_jpg/01_By_Javier_Morales__7_.jpg?1782984372",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.05",
       "title": "Incense made from tea-based waste among projects by Hong Kong Polytechnic University",
       "url": "https://www.dezeen.com/2026/07/05/incense-made-from-tea-based-waste-hong-kong-polytechnic-university-schoolshows/",
       "excerpt": "Dezeen School Shows: coils, cones and sticks of incense made using waste organic matter from herbal teas are among the products by the Hong Kong Polytechnic University. Also featured is a chair design",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "CR Residence / Lucas Takaoka",
-      "url": "https://www.archdaily.com/1043027/cr-residence-lucas-takaoka",
-      "excerpt": "Located in a valley in the countryside of São Paulo, this residence, with architectural design by Studio Arthur Casas and interior design by our studio, faced the main challenge of creating defined sp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69d2/e539/5a31/3100/01da/ea17/large_jpg/DSC_8057.jpg?1775428988",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "‘beauty can help save us’: jacques monneraud on turning cardboard into lasting ceramics",
-      "url": "https://www.designboom.com/art/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview/",
-      "excerpt": "the french artist reflects on leaving advertising for ceramics, using illusion to capture attention, and why beauty still has the power to bring people together.\nThe post ‘beauty can help save us’: ja",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Cafelândia House / Ana Sawaia Arquitetura",
-      "url": "https://www.archdaily.com/1040760/cafelandia-house-ana-sawaia-arquitetura",
-      "excerpt": "Located in the Sumaré neighborhood of São Paulo, the renovation of Casa Cafelândia reconfigures a 1938 residence to bring its social spaces closer to the garden and adapt the house to a more open, lig",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69e2/30fe/8471/2000/01f8/eaa1/large_jpg/AndreScarpa_Cafelandia__1_.jpg?1776431416",
       "today": false
     },
     {
@@ -301,93 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-interview",
       "excerpt": "First conceived in a one-bedroom New York apartment, Thom Browne’s shrunken grey suit has helped him forge a $500 million empire. Speaking to Jack Moss, he breaks down this great American success stor",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S4V83J8bPc8obCSopvDMUT-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Terta transforms decommissioned power station in Iceland into colourful site for \"learning by playing\"",
-      "url": "https://www.dezeen.com/2026/07/05/terta-ellidaarstod-power-station/",
-      "excerpt": "Icelandic studio Terta has transformed the site of the historic Elliðaárstöð power station in Reykjavík into a hub for learning, culture and play, restoring and updating its existing buildings with co",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Five inflatable garments that use air to regulate the wearer's temperature",
-      "url": "https://www.dezeen.com/2026/07/05/inflatable-garments-roundup/",
-      "excerpt": "On the heels of Rick Owens's fan-powered Adidas tracksuits blowing up at Paris Fashion Week, we've rounded up five examples of pneumatic outerwear that doubles as personal aircon. As climate change he",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Brazilian modernism: explore the enduring allure of the country's midcentury architecture",
-      "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
-      "excerpt": "Influential and visually arresting, Brazilian modernism has left a mark, not only on the country's history but also on the 20th-century movement's global evolution; our guide explores its impact",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PD5DLrTtAtrC32i7HPCP9N-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "How We Host: Martin Brudnizki brings his maximalist eye to the dinner table",
-      "url": "https://www.wallpaper.com/entertaining/how-we-host-with-martin-brusnizki",
-      "excerpt": "‘Be entertaining, be sparkling. Effervescence is required,’ says the interior designer as he shares his hosting tips with Wallpaper*",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5KMb3ctjHVZmh7we7Kzo8f-1600-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Carlo Ratti explores the Italian summer through objects – and the origins of the condom",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-objectify-condom",
-      "excerpt": "The third instalment of the architect's series, 'Objectify,' investigates one of Italy's lesser-known yet all-important inventions - the condom",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n4DTHzWZZf22LeBfFdS62T-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Superflex and KWY.studio create architecture for fish to enjoy after sea levels rise",
-      "url": "https://www.dezeen.com/2026/07/05/superflex-kwy-studio-suepr-kello-fish-architecture/",
-      "excerpt": "Danish artist collective Superflex has collaborated with KWY.studio architects to create Super Kello – a harbourside stone sculpture in Oulu, Finland, to be enjoyed by fish after sea levels rise. Crea",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "an aluminum café table that lifts away from the wall redefines flexible hospitality furniture",
-      "url": "https://www.designboom.com/design/aluminum-cafe-table-wall-flexible-hospitality-furniture-george-willy/",
-      "excerpt": "flexible furniture responds to compact commercial environments.\nThe post an aluminum café table that lifts away from the wall redefines flexible hospitality furniture appeared first on designboom | ar",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/wall-mounted-cafe-table-removable-table-bracket-george-willy-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "a bookstore inside cobe copenhagen: a material library of architecture, cities, and ideas",
-      "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
-      "excerpt": "cobe opens a public bookstore within its copenhagen studio, offering a curated selection of books on architecture, urbanism, landscape, and design.\nThe post a bookstore inside cobe copenhagen: a mater",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cobe-public-architecture-bookstore-copenhagen-studio-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "follow as ken price turns clay into alien topography",
-      "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
-      "excerpt": "on display in norway, the american artist's particular approach to ceramics and color comes through in the collection of his works.\nThe post follow as ken price turns clay into alien topography appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ken-price-pomo-designboom-09.jpg",
       "today": false
     },
     {
