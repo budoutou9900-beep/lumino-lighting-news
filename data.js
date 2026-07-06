@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.06  14:22",
+  "fetchedAt": "2026.07.06  17:39",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -190,6 +190,36 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.06",
+      "title": "MOLD architects sinks five stone retreats into the rocky slopes of serifos island",
+      "url": "https://www.designboom.com/architecture/mold-architects-five-stone-retreats-serifos-island-greece/",
+      "excerpt": "a porous concrete grid gathers rooms and pools across a steep cycladic slope.\nThe post MOLD architects sinks five stone retreats into the rocky slopes of serifos island appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mold-architects-PERMA-serifos-retreat-greece-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "How The Vale brought architectural ambition to Formula 1 hospitality at Silverstone",
+      "url": "https://www.wallpaper.com/travel/the-vale-silverstone-british-grand-prix-interior-design",
+      "excerpt": "Designed around movement, The Vale placed Michelin-starred food, art installations and premium views directly against the British Grand Prix circuit",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnH69yKb5RZNeJSBPSnvh5-2560-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Anatomy of a logo: Snoopy by Charles Shulz",
+      "url": "https://www.wallpaper.com/watches-jewellery/anatomy-of-a-logo-snoopy",
+      "excerpt": "Among our series on enduring American design motifs, Snoopy is perhaps the most endearing – and still a hot shot",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rCovYkhoAMLhjLM7ZVukHf.gif",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.06",
       "title": "four inclined planes transform this bridge into a place for leaning, drawing and observing",
       "url": "https://www.designboom.com/architecture/four-inclined-metal-planes-bridge-place-leaning-drawing-observing-easel-bridge-xbtw-office/",
       "excerpt": "the bridge is assembled from 2-meter modular sections, with each module rotating slightly to vary the crossing experience.\nThe post four inclined planes transform this bridge into a place for leaning,",
@@ -214,6 +244,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/worli-apartment-mumbai-india",
       "excerpt": "Designer Rajiv Saini has transformed a high-rise apartment in Mumbai’s upscale Worli neighbourhood into a contemporary oasis",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5wDFW5xc54ZiwBWba7q2SG-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Terrace Mountain Residence / A Parallel Architecture",
+      "url": "https://www.archdaily.com/1042943/terrace-mountain-residence-a-parallel-architecture",
+      "excerpt": "Perched dramatically on a limestone bluff overlooking the rolling Texas Hill Country and the distant Austin skyline, the Terrace Mountain Residence exemplifies sophisticated modern design. Conceived a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df4/0789/c600/018c/2a12/large_jpg/AD_Terrace_Mountain_Residence_-_Chase_Daniel__1_.jpg?1782943261",
       "today": true
     },
     {
@@ -265,6 +305,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "PERMA  Serifos Retreat / MOLD Architects",
+      "url": "https://www.archdaily.com/1042953/perma-retreat-mold-architects",
+      "excerpt": "Perma is a five-residence retreat set into a rocky north-facing slope on Serifos Island, Greece.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/27c8/0789/c600/018c/2a8c/large_jpg/PERMA__13_.jpg?1782982776",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.06",
@@ -281,36 +331,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/soft-monolithic-forms-modular-furniture-collection-nubuck-alpaca-oak-mouvement-ed-berrios-objet-mobilier/",
       "excerpt": "soft monolithic forms define the design language of the limited-edition collection.\nThe post soft monolithic forms shape a modular furniture collection in nubuck, alpaca, and oak appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/soft-monolithic-forms-ed-berrios-objet-mobilier-mouvement-lounge-chair-008-modular-sofa-006-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Artist Danielle Mckinney champions the solitude of the Black female subject, capturing private moments in paint",
-      "url": "https://www.wallpaper.com/art/danielle-mckinney-interview",
-      "excerpt": "The American artist cinematically captures moments of stillness and peace in her beautifully rendered oil paintings",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KVcEAja8tW74M3rS9W8fRX-2326-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "fujiko nakaya turns mies van der rohe’s berlin sculpture garden into a landscape of fog",
-      "url": "https://www.designboom.com/art/fujiko-nakaya-mies-van-der-rohe-berlin-sculpture-garden-landscape-fog-neue-nationalgalerie/",
-      "excerpt": "the site-specific installation transforms the museum’s sculpture garden into an ever-changing landscape shaped by wind, humidity, and the movement of visitors.\nThe post fujiko nakaya turns mies van de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fujiko-nakaya-mies-van-der-rohe-berlin-sculpture-garden-landscape-fog-neue-nationalgalerie-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "IBM Research extends the scope of its home, an Eero Saarinen-designed modernist campus",
-      "url": "https://www.wallpaper.com/architecture/office/ibm-research-eero-saarinen-modernist-office-usa",
-      "excerpt": "IBM Research, Universal Design Studio and Map Project Office work within a modernist landmark to give a home to the next generation of computing",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qxyheeePrnHghHzK4vpYr9-2560-80.jpg",
       "today": true
     },
     {
@@ -355,30 +375,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.06",
-      "title": "New Life for Old Spaces: Buildner Reveals Re-Form Winners as Edition 3 Opens",
-      "url": "https://www.archdaily.com/1042924/new-life-for-old-spaces-buildner-reveals-re-form-winners-as-edition-3-opens",
-      "excerpt": "Buildner has announced the results of its Re-Form: New Life for Old Spaces, second edition, an international ideas competition examining the adaptive reuse of small-scale existing buildings. The compe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/cacd/bdfc/1a01/8a6a/3965/large_jpg/buildner-archdaily-highlight-campaign-24_26.jpg?1782893273",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
       "title": "Expanding the Meaning of Accessibility: Designing for Assisted Care in Public",
       "url": "https://www.archdaily.com/1042030/expanding-the-meaning-of-accessibility-designing-for-assisted-care-in-public",
       "excerpt": "As a fundamental human right, inclusion requires that all people—regardless of their backgrounds, abilities, or circumstances—are recognized and respected, with equal access to the same resources and ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a1a/0533/093e/927a/6386/df4c/large_jpg/expanding-the-meaning-of-accessibility-designing-for-assisted-care_2.jpg?1780090170",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "MVRDV and Balance Architettura to Renovate Turin's Civic Gallery of Modern and Contemporary Art",
-      "url": "https://www.archdaily.com/1054001/mvrdv-and-balance-architettura-to-renovate-turins-civic-gallery-of-modern-and-contemporary-art",
-      "excerpt": "MVRDV and Balance Architettura have unveiled their proposal for the renovation of the Civic Gallery of Modern and Contemporary Art (GAM) in Turin, Italy, following their selection through a public com",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/6f47/54de/fb01/894b/b1bf/large_jpg/mvrdv-and-balance-architettura-to-renovate-turins-civic-gallery-of-modern-and-contemporary-art_4.jpg?1783328627",
       "today": true
     },
     {
