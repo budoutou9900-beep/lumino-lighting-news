@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.06  00:14",
+  "fetchedAt": "2026.07.06  05:06",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術館・アート情報": {
+    "なびたび北東北": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,39 +21,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "鉄道ファン・railf.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "newscast.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -84,49 +84,86 @@ window.LUMINO_DATA = {
     "シリウスライティングオフィス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "パナソニック": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     }
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "国内情報",
-      "date": "2026.07.06",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.07.06",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "なびたび北東北",
+      "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -140,74 +177,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "鉄道ファン・railf.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.06",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.06",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "yellow steel, concrete, and circular openings revive corner building in spain as apart-hotel",
+      "url": "https://www.designboom.com/architecture/yellow-steel-concrete-circular-openings-corner-building-spain-apart-hotel-l-hospitalet-de-llobregat-marti-julia-m-i-r-a/",
+      "excerpt": "the facade is wrapped with continuous yellow balconies and custom railings.\nThe post yellow steel, concrete, and circular openings revive corner building in spain as apart-hotel appeared first on desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/l-hospitalet-de-llobregat-marti-julia-m-i-r-a-rehabilitation-corner-building-apart-hotel-yellow-designboom-1200-1.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "DNライティング",
+      "cat": "デザイン",
       "date": "2026.07.06",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "夏季休業のご案内",
+      "url": "https://www.dnlighting.co.jp/media/news/260706",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.06",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.07.06",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.06",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.06",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
-      "today": true
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.05",
+      "title": "Shilaya Cottage  / Meister Varma Architects",
+      "url": "https://www.archdaily.com/1043013/shilaya-cottage-meister-varma-architects",
+      "excerpt": "Shilaya – from śilā, meaning stone- is a home in Kotagiri, a small town tucked away in the Nilgiris mountains of Tamil Nadu. Kotagiri was the earliest European settlement in this region in colonial ti",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/d326/b477/e200/0107/a9c4/large_jpg/Photographer_Syam_Sreesylam__4_.jpg?1783092045",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -275,16 +281,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1040760/cafelandia-house-ana-sawaia-arquitetura",
       "excerpt": "Located in the Sumaré neighborhood of São Paulo, the renovation of Casa Cafelândia reconfigures a 1938 residence to bring its social spaces closer to the garden and adapt the house to a more open, lig",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69e2/30fe/8471/2000/01f8/eaa1/large_jpg/AndreScarpa_Cafelandia__1_.jpg?1776431416",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.05",
-      "title": "Cabin Åkvåg / Praksis A + Studio Sted",
-      "url": "https://www.archdaily.com/1042877/cabin-akvag-praksis-a-plus-studio-sted",
-      "excerpt": "The cabin is located in the coastal area of southern Norway, characterized by summer cabins, small communities with residential houses, and some old farmsteads. The landscape is hilly, with a vegetati",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/803f/0789/c600/018c/278d/large_jpg/IMG_3887_0_edited.jpg?1782808692",
       "today": false
     },
     {
@@ -392,16 +388,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
       "excerpt": "on display in norway, the american artist's particular approach to ceramics and color comes through in the collection of his works.\nThe post follow as ken price turns clay into alien topography appear",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ken-price-pomo-designboom-09.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.04",
-      "title": "copper shingles wrap curving concert hall ‘la source vive’ in évian, france",
-      "url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
-      "excerpt": "along the french-swiss border, this concert hall takes shape with a copper shell and raw plaster acoustics.\nThe post copper shingles wrap curving concert hall ‘la source vive’ in évian, france appeare",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/source-vive-philippe-chiambaretta-architecte-evian-bains-france-designboom-FB.jpg",
       "today": false
     },
     {
@@ -634,16 +620,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.05.29",
-      "title": "納入事例に「Casa d’ Angela AOYAMA(カサ・デ・アンジェラ青山)」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/172",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/172/IMG_4553_2.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.05.26",
@@ -651,16 +627,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/NEWS/event/2026/ee.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "パナソニック",
-      "cat": "新製品",
-      "date": "2026.05.22",
-      "title": "蛍光灯製造終了に伴うリニューアル需要に対応「3種類の穴径対応」×「明るさフリー」で施工現場の負担を大幅に軽減「リニューアルダウンライト」を発売",
-      "url": "https://news.panasonic.com/jp/press/jn260522-1",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18700/l-jn260522-1-1.jpg",
       "today": false
     }
   ]
