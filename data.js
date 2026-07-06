@@ -1,116 +1,138 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.05  23:00",
+  "fetchedAt": "2026.07.06  00:14",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "美術館・アート情報": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "鉄道ファン・railf.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Yahoo!ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "fujitv.co.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.05",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.07.06",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.07.05",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "today": true
+    },
+    {
+      "source": "美術館・アート情報",
+      "cat": "国内情報",
+      "date": "2026.07.06",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.06",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -120,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
@@ -130,7 +152,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -140,7 +162,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
@@ -150,7 +172,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
@@ -160,7 +182,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -170,7 +192,7 @@ window.LUMINO_DATA = {
     {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
       "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
       "excerpt": "",
@@ -180,21 +202,11 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.05",
+      "date": "2026.07.06",
       "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254473",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/PXL_20250214_114437467.jpg",
-      "today": true
-    },
-    {
-      "source": "fujitv.co.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.05",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
       "today": true
     },
     {
@@ -204,7 +216,7 @@ window.LUMINO_DATA = {
       "title": "LMTLS creates wooden \"gorge\" inside New York skincare store",
       "url": "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
       "excerpt": "New York- and Seoul-based studio LMTLS Architecture has carved a steep canyon of wooden layers through the Soho flagship store for Korean skincare brand SKIN1004. LMTLS Architecture's second flagship ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -214,7 +226,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1043019/basianshan-natural-public-toilet-protoplain-architects",
       "excerpt": "Using domestically grown bamboo, four public restrooms within a national forest recreation area were realized through four distinct construction methods—new construction, renovation, interior refurbis",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/eb76/c1bc/ef01/88fc/ea07/large_jpg/basianshan-natural-public-toilet-protoplain-architects_13.jpg?1783098237",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -224,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1043005/hampi-samay-wasi-regenerative-architecture-and-ancestral-memory-in-the-kichwa-amazon-allwa-arquitectura",
       "excerpt": "Hampi Samay Wasi is a regenerative biohabitat that reactivates the constructive memory of the Kichwa community of Awayaku through a participatory co-design process and collective construction in the E",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/2e77/0789/c600/018c/2ac8/large_jpg/01_By_Javier_Morales__7_.jpg?1782984372",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -233,7 +245,7 @@ window.LUMINO_DATA = {
       "title": "Incense made from tea-based waste among projects by Hong Kong Polytechnic University",
       "url": "https://www.dezeen.com/2026/07/05/incense-made-from-tea-based-waste-hong-kong-polytechnic-university-schoolshows/",
       "excerpt": "Dezeen School Shows: coils, cones and sticks of incense made using waste organic matter from herbal teas are among the products by the Hong Kong Polytechnic University. Also featured is a chair design",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -243,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1043027/cr-residence-lucas-takaoka",
       "excerpt": "Located in a valley in the countryside of São Paulo, this residence, with architectural design by Studio Arthur Casas and interior design by our studio, faced the main challenge of creating defined sp",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69d2/e539/5a31/3100/01da/ea17/large_jpg/DSC_8057.jpg?1775428988",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -253,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview/",
       "excerpt": "the french artist reflects on leaving advertising for ceramics, using illusion to capture attention, and why beauty still has the power to bring people together.\nThe post ‘beauty can help save us’: ja",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -263,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1040760/cafelandia-house-ana-sawaia-arquitetura",
       "excerpt": "Located in the Sumaré neighborhood of São Paulo, the renovation of Casa Cafelândia reconfigures a 1938 residence to bring its social spaces closer to the garden and adapt the house to a more open, lig",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69e2/30fe/8471/2000/01f8/eaa1/large_jpg/AndreScarpa_Cafelandia__1_.jpg?1776431416",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -273,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042877/cabin-akvag-praksis-a-plus-studio-sted",
       "excerpt": "The cabin is located in the coastal area of southern Norway, characterized by summer cabins, small communities with residential houses, and some old farmsteads. The landscape is hilly, with a vegetati",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/803f/0789/c600/018c/278d/large_jpg/IMG_3887_0_edited.jpg?1782808692",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -283,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/porto-port-review",
       "excerpt": "Our resident drinks writer, Neil Ridley recently visited the sun-kissed streets of Porto to discover why Port & Tonic is the talk of the town",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bnnr3DkTKWKamZkhe6Er2c-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -293,7 +305,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-interview",
       "excerpt": "First conceived in a one-bedroom New York apartment, Thom Browne’s shrunken grey suit has helped him forge a $500 million empire. Speaking to Jack Moss, he breaks down this great American success stor",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S4V83J8bPc8obCSopvDMUT-1539-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -302,7 +314,7 @@ window.LUMINO_DATA = {
       "title": "Terta transforms decommissioned power station in Iceland into colourful site for \"learning by playing\"",
       "url": "https://www.dezeen.com/2026/07/05/terta-ellidaarstod-power-station/",
       "excerpt": "Icelandic studio Terta has transformed the site of the historic Elliðaárstöð power station in Reykjavík into a hub for learning, culture and play, restoring and updating its existing buildings with co",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -311,7 +323,7 @@ window.LUMINO_DATA = {
       "title": "Five inflatable garments that use air to regulate the wearer's temperature",
       "url": "https://www.dezeen.com/2026/07/05/inflatable-garments-roundup/",
       "excerpt": "On the heels of Rick Owens's fan-powered Adidas tracksuits blowing up at Paris Fashion Week, we've rounded up five examples of pneumatic outerwear that doubles as personal aircon. As climate change he",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -321,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
       "excerpt": "Influential and visually arresting, Brazilian modernism has left a mark, not only on the country's history but also on the 20th-century movement's global evolution; our guide explores its impact",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PD5DLrTtAtrC32i7HPCP9N-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -331,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/how-we-host-with-martin-brusnizki",
       "excerpt": "‘Be entertaining, be sparkling. Effervescence is required,’ says the interior designer as he shares his hosting tips with Wallpaper*",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5KMb3ctjHVZmh7we7Kzo8f-1600-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -341,7 +353,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-italian-summer-objectify-condom",
       "excerpt": "The third instalment of the architect's series, 'Objectify,' investigates one of Italy's lesser-known yet all-important inventions - the condom",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n4DTHzWZZf22LeBfFdS62T-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -350,7 +362,7 @@ window.LUMINO_DATA = {
       "title": "Superflex and KWY.studio create architecture for fish to enjoy after sea levels rise",
       "url": "https://www.dezeen.com/2026/07/05/superflex-kwy-studio-suepr-kello-fish-architecture/",
       "excerpt": "Danish artist collective Superflex has collaborated with KWY.studio architects to create Super Kello – a harbourside stone sculpture in Oulu, Finland, to be enjoyed by fish after sea levels rise. Crea",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -360,7 +372,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/aluminum-cafe-table-wall-flexible-hospitality-furniture-george-willy/",
       "excerpt": "flexible furniture responds to compact commercial environments.\nThe post an aluminum café table that lifts away from the wall redefines flexible hospitality furniture appeared first on designboom | ar",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/wall-mounted-cafe-table-removable-table-bracket-george-willy-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -370,7 +382,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
       "excerpt": "cobe opens a public bookstore within its copenhagen studio, offering a curated selection of books on architecture, urbanism, landscape, and design.\nThe post a bookstore inside cobe copenhagen: a mater",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cobe-public-architecture-bookstore-copenhagen-studio-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
