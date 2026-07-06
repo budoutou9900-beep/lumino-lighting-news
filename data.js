@@ -1,31 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.06  21:26",
+  "fetchedAt": "2026.07.06  23:03",
   "sourceColors": {
-    "Wallpaper*": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "なびたび北東北": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "高松経済新聞": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "鉄道ファン・railf.jp": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Dezeen": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "designboom": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,20 +65,112 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "遠藤照明": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.07.06",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "なびたび北東北",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "鉄道ファン・railf.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.06",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
@@ -78,6 +198,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/mold-architects-five-stone-retreats-serifos-island-greece/",
       "excerpt": "a porous concrete grid gathers rooms and pools across a steep cycladic slope.\nThe post MOLD architects sinks five stone retreats into the rocky slopes of serifos island appeared first on designboom | ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mold-architects-PERMA-serifos-retreat-greece-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "Lake Cabin / Matéria Base",
+      "url": "https://www.archdaily.com/1041946/lake-cabin-materia-base",
+      "excerpt": "Next to an ancient pond built to hydrate pack animals on an old trail in the woods for the transportation of sacks of coffee, a small plateau now houses a new construction: a cabin for temporary stays",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a10/4955/35eb/2400/01f0/43ad/large_jpg/39_Cabana_em_Conservato_ria_Materia_Base_-___Federico_Cairoli.jpg?1779452398",
       "today": true
     },
     {
@@ -237,16 +367,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "When Movement Becomes Sacred Space: The Architecture of India’s Pilgrimage Landscapes",
-      "url": "https://www.archdaily.com/1042873/when-movement-becomes-sacred-space-the-architecture-of-indias-pilgrimage-landscapes",
-      "excerpt": "At the helm of architectural discourse on sacred architecture, attention almost always settles on the monument. Temples, mosques, monasteries, and churches dominate architectural histories, design cri",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a43/663f/bdfc/1a01/8a6a/32a2/large_jpg/when-movement-becomes-sacred-space-designing-indias-pilgrimage-landscapes_11.jpg?1782802006",
-      "today": true
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.06",
@@ -287,16 +407,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -327,46 +437,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -374,16 +444,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -417,35 +477,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -453,26 +484,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
