@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.07  20:51",
+  "fetchedAt": "2026.07.07  22:09",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術館・アート情報": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "japandesign.ne.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "fujitv.co.jp": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -83,77 +83,78 @@ window.LUMINO_DATA = {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.07.07",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
-      "source": "japandesign.ne.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "宵の灯-あかりの工芸- デザイン・アートの展覧会 & イベント情報",
-      "url": "https://www.japandesign.ne.jp/event/yoinohi-ofsgallery/",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
-      "thumbnailUrl": "https://www.japandesign.ne.jp/wp/wp-content/uploads/2025/09/862753.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
-      "source": "fujitv.co.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.07",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.07.07",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
@@ -161,8 +162,8 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
       "today": true
     },
@@ -211,6 +212,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/new-art-center-paris-ile-seguin-october-rcr-arquitectes/",
       "excerpt": "clad in weathering corten steel and anodized aluminum, the building unfolds through compressed passages, expansive galleries, and framed views.\nThe post a new art center will open on paris’ île seguin",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/new-art-center-paris-ile-seguin-october-rcr-arquitectes05-818x545.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "BRM Residence / Jacobsen Arquitetura",
+      "url": "https://www.archdaily.com/1034338/brm-residence-jacobsen-arquitetura",
+      "excerpt": "Located on the banks of a canal in the city of Paraty, Rio de Janeiro, the BRM House blends into the abundant color palette of the surrounding nature. Designed for a family that loves to entertain, th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68d1/3e5f/21de/2d76/0940/011d/large_jpg/residencia-brm-jacobsen-arquitetura_25.jpg?1758543485",
       "today": true
     },
     {
@@ -269,6 +280,16 @@ window.LUMINO_DATA = {
       "title": "Underground community hub among projects from students at Pratt Institute",
       "url": "https://www.dezeen.com/2026/07/07/communuty-transport-hub-pratt-institute-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal to transform a subway station into a community hotspot for art and culture is among the projects from interior design students at Pratt Institute. Also featured is a wi",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Casa Co / Aagnes studio + JDEstudio",
+      "url": "https://www.archdaily.com/1042991/casa-co",
+      "excerpt": "Casa CO, designed by JDEstudio with interiors by Aagnes Studio, is conceived around the pursuit of beauty as a fundamental architectural principle. Rather than treating beauty as a purely aesthetic qu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/large_jpg/_DSC7818.jpg?1783061104",
       "today": true
     },
     {
@@ -339,26 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
       "excerpt": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, tempe",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Showdepot De Groen / Space Encounters",
-      "url": "https://www.archdaily.com/1053992/showdepot-de-groen-space-encounters",
-      "excerpt": "Nestled among the large-scale factory halls of Cleantech Park Arnhem, a mysterious presence sets itself apart from the heterogeneous post-industrial landscape: Showdepot DE.GROEN. This monolith of 18 ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a49/43a8/54de/fb01/894b/b049/large_jpg/showdepot-de-groen-space-encounters_1.jpg?1783186398",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Austria's 2027 Venice Architecture Biennale Pavilion Proposes a Shared Platform with Bosnia and Herzegovina",
-      "url": "https://www.archdaily.com/1054050/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina",
-      "excerpt": "Austria has announced Koncesija / Konzession / Concession(e) as its contribution to the 20th International Architecture Exhibition – La Biennale di Venezia. Curated by architects Adna Babahmetović and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/c8e8/54de/fb01/894b/b92c/large_jpg/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina_1.jpg?1783417083",
       "today": true
     },
     {
