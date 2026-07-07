@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.07  06:41",
+  "fetchedAt": "2026.07.07  10:22",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ウォーカープラス": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "newscast.jp": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -73,13 +73,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -104,23 +100,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -143,23 +149,71 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "title": "a black fabric veil hovers within a raw bamboo matrix in hubei’s dense grove",
+      "url": "https://www.designboom.com/architecture/black-fabric-veil-raw-bamboo-matrix-hubei-dense-grove-veil-tower-gengjin/",
+      "excerpt": "veil tower by gèngjin architecture office establishes a temporary vertical sanctuary where raw bamboo, fabric, and shifting light redefine the relationship between body, terrain, and sky.\nThe post a b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/veil-tower-gengjin-temporary-pavilion-bamboo-fabric-hubei-china-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "The amazing story of Three Chimneys, the UIA World Congress of Architects 2026 venue",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/three-chimneys-barcelona-spain",
+      "excerpt": "Three Chimneys, a brutalist Barcelona venue used during the UIA World Congress of Architects 2026, is a modernist landmark awaiting to be reborn",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nMW2Z7rPMt5vqvtG9mzuTL-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "At Dior Couture, Jonathan Anderson makes artist Lynda Benglis his muse",
+      "url": "https://www.wallpaper.com/fashion-beauty/dior-couture-aw-2026-review-lynda-benglis",
+      "excerpt": "The American artist’s process of  ‘knotting, pleating and moulding’ inspired Jonathan Anderson’s sophomore couture collection for the Parisian house, which married sculptural forms with vivid colour a",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mYb9DAXzvskAzWMfhu4CCQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "gensler proposes landscape-first tourism masterplan for vang vieng, laos",
+      "url": "https://www.designboom.com/architecture/gensler-landscape-tourism-masterplan-vang-vieng-laos/",
+      "excerpt": "the proposal organizes hospitality, recreation, and public space around the region’s landscape, waterways, and cultural identity.\nThe post gensler proposes landscape-first tourism masterplan for vang ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gensler-landscape-tourism-masterplan-vang-vieng-laos-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Casul chair unfolds to become a children's play set",
+      "url": "https://www.dezeen.com/2026/07/07/casul-chair-james-murphy/",
+      "excerpt": "Only two moves are needed to transform this children's seat into a rudimentary castle, in a project that has earned Irish furniture designer James Murphy one of the top prizes at London's annual New D",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Anatomy of a logo: Tiffany & Co by Paula Scher",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/tiffany-and-co-blue-box-logo-design",
+      "excerpt": "From its distinctive shade of blue to the hand-drawn lettering resembling a hot-stamped letterpress typeface, the Tiffany & Co logo is an enduring American icon",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z5M4Q8JawpCaKxLXaKrUxb-2560-80.jpg",
       "today": true
     },
     {
@@ -173,6 +227,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Bugatti designs porcelain-clad sports car informed by Enzo Mari vase",
+      "url": "https://www.dezeen.com/2026/07/07/bugatti-porcelain-clad-sports-car-enzo-mari-vase/",
+      "excerpt": "Carmaker Bugatti has unveiled the Mistral Blanc Éternal, a sports car covered with unusual porcelain accents including speaker grilles and armrests. The Mistral Blanc Éternal was informed by a white v",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -183,6 +246,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Beyond Human: Architecture as a Participant in Living Systems",
+      "url": "https://www.archdaily.com/1042820/beyond-human-architecture-as-a-participant-in-living-systems",
+      "excerpt": "The built environment has historically served humans as a mechanism of environmental control. Through our intellectual capacities and ability to organize, we have used buildings to actively influence ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/baa0/8481/2b01/8af5/0be1/large_jpg/designing-coexistence-non-human-species-and-architecture-as-participants-in-environmental-systems_9.jpg?1782692518",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Steenzicht Social Housing  / JVST",
+      "url": "https://www.archdaily.com/1043004/steenzicht-social-housing-jvst",
+      "excerpt": "Steenzicht 1A is one of the first buildings to be completed within De Zichten, a large-scale densification and renewal plan for the post-war neighborhoods of Dreven, Gaarden and Zichten in the southwe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/b9f3/b477/e200/0107/a980/large_jpg/08_STEENZICHT_IMAGES11.jpg?1783085592",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Bangladesh Chancery Complex and Ambassador's Residence / Shatotto",
+      "url": "https://www.archdaily.com/1042962/bangladesh-chancery-complex-and-ambassadors-residence-shatotto",
+      "excerpt": "On December 6, 1971, Bhutan became the first country in the world to recognize the independence of Bangladesh through an official telegram. In this historic message, King Jigme Darji Wangchuck express",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/405b/0789/c600/018c/2b5b/large_jpg/5Y3A0294.jpg?1782989112",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -190,6 +283,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/teresa-van-dongen-designing-living-systems-essay/",
       "excerpt": "the bio-designer reflects on microbial energy and how biology transformed her understanding of products, care, and connection.\nThe post teresa van dongen on designing with living systems appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/teresa-van-dongen-designing-living-systems-essay-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "遠藤照明",
+      "cat": "国内情報",
+      "date": "2026.07.07",
+      "title": "セミナー「60分でわかる 光の基礎知識 －人と光の関係を科学的根拠から学ぶー 照明エビデンス編 2026」",
+      "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
       "today": true
     },
     {
@@ -242,86 +345,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "MOLD architects sinks five stone retreats into the rocky slopes of serifos island",
-      "url": "https://www.designboom.com/architecture/mold-architects-five-stone-retreats-serifos-island-greece/",
-      "excerpt": "a porous concrete grid gathers rooms and pools across a steep cycladic slope.\nThe post MOLD architects sinks five stone retreats into the rocky slopes of serifos island appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mold-architects-PERMA-serifos-retreat-greece-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Lake Cabin / Matéria Base",
-      "url": "https://www.archdaily.com/1041946/lake-cabin-materia-base",
-      "excerpt": "Next to an ancient pond built to hydrate pack animals on an old trail in the woods for the transportation of sacks of coffee, a small plateau now houses a new construction: a cabin for temporary stays",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a10/4955/35eb/2400/01f0/43ad/large_jpg/39_Cabana_em_Conservato_ria_Materia_Base_-___Federico_Cairoli.jpg?1779452398",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "How The Vale brought architectural ambition to Formula 1 hospitality at Silverstone",
-      "url": "https://www.wallpaper.com/travel/the-vale-silverstone-british-grand-prix-interior-design",
-      "excerpt": "Designed around movement, The Vale placed Michelin-starred food, art installations and premium views directly against the British Grand Prix circuit",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnH69yKb5RZNeJSBPSnvh5-2560-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Anatomy of a logo: Snoopy by Charles Shulz",
-      "url": "https://www.wallpaper.com/watches-jewellery/anatomy-of-a-logo-snoopy",
-      "excerpt": "Among our series on enduring American design motifs, Snoopy is perhaps the most endearing – and still a hot shot",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rCovYkhoAMLhjLM7ZVukHf.gif",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "WildSumaco Research Pavilion / Caá Porá Arquitectura",
-      "url": "https://www.archdaily.com/1043000/wildsumaco-research-pavilion-caa-pora-arquitectura",
-      "excerpt": "The WildSumaco Biological Station is located on the outskirts of the community of Pacto Sumaco, at the foot of the Sumaco volcano and the first core zone of Sumaco Napo Galeras National Park, at the p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/6064/de7f/3c01/8757/2983/large_jpg/estacion-biologica-wildsumaco-caa-pora-arquitectura_20.jpg?1783062644",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "four inclined planes transform this bridge into a place for leaning, drawing and observing",
-      "url": "https://www.designboom.com/architecture/four-inclined-metal-planes-bridge-place-leaning-drawing-observing-easel-bridge-xbtw-office/",
-      "excerpt": "the bridge is assembled from 2-meter modular sections, with each module rotating slightly to vary the crossing experience.\nThe post four inclined planes transform this bridge into a place for leaning,",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/easel-bridge-xbtw-office-pedestrian-crossing-yucun-china-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "The Wallpaper* US400, explained",
-      "url": "https://www.wallpaper.com/design-interiors/what-is-wallpaper-us400",
-      "excerpt": "Last week we launched our annual list of the talents that make up America’s creative landscape. But what exactly is it? And who is on it? Here’s everything you need to know",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BdpvUJY238YRiaH9cuVRP5-800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Xingu House / TETRO Arquitetura",
-      "url": "https://www.archdaily.com/1042982/xingu-house-tetro-arquitetura",
-      "excerpt": "Xingu House emerges from a careful reading of the site: a terrain composed of natural plateaus, stone walls, and preserved patches of forest. From this irregular geography, the project seeks to unders",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/0e3d/b477/e200/0107/a8f1/large_jpg/01K_0778_copiar.jpg?1783041717",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.06",
@@ -337,24 +360,6 @@ window.LUMINO_DATA = {
       "title": "Carlo Ratti and Park Associati to surround children's hospital in one-kilometre \"green ring\"",
       "url": "https://www.dezeen.com/2026/07/06/spedali-civili-hospital-carlo-ratti/",
       "excerpt": "Architecture studios Carlo Ratti Associati and Park Associati are set to overhaul the Spedali Civili hospital in Brescia, Italy, with the addition of a three-pronged wing surrounded by a one-kilometre",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Jasmine Fisher transforms rented London office with moody material palette",
-      "url": "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
-      "excerpt": "Interior designer Jasmine Fisher has created an atmospheric studio for her London-based practice, using warm colours and curated artworks to lend the space a more homely feel. The 32-square-metre rent",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Sporting CP unveils 1940s-informed rebrand that \"stays faithful to the club's legacy\"",
-      "url": "https://www.dezeen.com/2026/07/06/sporting-cp-club-badge-logo-rebrand/",
-      "excerpt": "Lisbon football club Sporting Clube de Portugal has unveiled an updated badge and identity, designed by branding agency Jones Knowles Ritchie to mark its 120th anniversary. Jones Knowles Ritchie (JKR)",
       "today": false
     },
     {
