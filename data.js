@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.07  10:22",
+  "fetchedAt": "2026.07.07  13:15",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,15 +13,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -110,16 +110,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.07",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.07",
@@ -149,12 +139,100 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.07",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Nothing expands its audio range with the pop-coloured Ear (3a)",
+      "url": "https://www.wallpaper.com/tech/nothing-ear-3a-earbuds-review",
+      "excerpt": "Bold, bright and eminently affordable, the new Nothing (3a) earbuds add flash storage for audio snapshots",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MG4z7GW5aMUCezetR52AfN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "The Hand & The Eye is Chicago’s spellbinding new magic venue-meets-members’ club",
+      "url": "https://www.wallpaper.com/travel/the-hand-and-the-eye-chicago-review",
+      "excerpt": "Architect David Rockwell’s next trick is to conjure up an enchanting new venue for the Chicago magic scene",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fVc4rMhC8jrVS8253ceXMX-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "The Beachman Aviator is an electric motorbike with stripped-back classic lines",
+      "url": "https://www.wallpaper.com/transportation/beachman-aviator-electric-motorbike",
+      "excerpt": "Inspired by classic British motorbikes of the 1960s, the new e-motorbike promises a purist riding experience",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jMqEupMMkgBayLaosWzqt4-2112-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Surrounded by larch trees, a new Evian concert hall makes music ‘warm and silky’",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/evian-concert-hall-la-source-vive-france",
+      "excerpt": "Titled La Source Vive, the new venue by Patrick Bouchain and Philippe Chiambaretta is an organic building set within the forest in rural France",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KpRkSaVosi2Tt2mEFCkG9Y-1195-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "The New Museum finally has a restaurant",
+      "url": "https://www.wallpaper.com/travel/restaurants/new-museum-restaurant-tktktk",
+      "excerpt": "Nearly five decades after opening, New York's New Museum unveils its first permanent restaurant. Designed by OMA, Oberon combines sculptural cork interiors, contemporary art commissions and a menu roo",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kNWgLS3C5aWKZmxeVJvame-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "mutated chairs grow fur and flesh inside the studio of charlotte kingsnorth",
+      "url": "https://www.designboom.com/design/mutated-chairs-fur-flesh-studio-charlotte-kingsnorth-london/",
+      "excerpt": "old chairs grow bodies of their own as the london-born designer wraps inherited frames in sculpted upholstery and hand-stitched skins.\nThe post mutated chairs grow fur and flesh inside the studio of c",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/charlotte-kingsnorth-hybrid-furniture-craft-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Croxatto and Opazo Architects perches timber home overlooking Chilean coast",
+      "url": "https://www.dezeen.com/2026/07/07/croxatto-opazo-architects-negrilla-house/",
+      "excerpt": "Chilean studio Croxatto and Opazo Architects has completed Negrilla House, an elongated home perched over a ravine in the village of Matanzas that splits into two stacked terraces overlooking the Paci",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Kéré Architecture creates \"vertical playground\" for kindergarten at Technical University of Munich",
+      "url": "https://www.dezeen.com/2026/07/07/kere-architecture-kinderoase-an-der-tum-munich/",
+      "excerpt": "Berlin studio Kéré Architecture has added a weathered steel-clad kindergarten to the Technical University of Munich campus in Germany, complete with a three-storey playground. Named Kinderoase an der ",
       "today": true
     },
     {
@@ -168,23 +246,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "The amazing story of Three Chimneys, the UIA World Congress of Architects 2026 venue",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/three-chimneys-barcelona-spain",
-      "excerpt": "Three Chimneys, a brutalist Barcelona venue used during the UIA World Congress of Architects 2026, is a modernist landmark awaiting to be reborn",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nMW2Z7rPMt5vqvtG9mzuTL-2000-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "At Dior Couture, Jonathan Anderson makes artist Lynda Benglis his muse",
-      "url": "https://www.wallpaper.com/fashion-beauty/dior-couture-aw-2026-review-lynda-benglis",
-      "excerpt": "The American artist’s process of  ‘knotting, pleating and moulding’ inspired Jonathan Anderson’s sophomore couture collection for the Parisian house, which married sculptural forms with vivid colour a",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mYb9DAXzvskAzWMfhu4CCQ-2560-80.jpg",
+      "title": "Loader Monteith rebuilds ruined Highlands house with blackened-larch extension",
+      "url": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/",
+      "excerpt": "Scottish studio Loader Monteith has rebuilt a derelict farmhouse in the Scottish Highlands and added a blackened-larch extension to create a family home called Dulnain. Loader Monteith reconstructed t",
       "today": true
     },
     {
@@ -207,13 +274,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "Anatomy of a logo: Tiffany & Co by Paula Scher",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/tiffany-and-co-blue-box-logo-design",
-      "excerpt": "From its distinctive shade of blue to the hand-drawn lettering resembling a hot-stamped letterpress typeface, the Tiffany & Co logo is an enduring American icon",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z5M4Q8JawpCaKxLXaKrUxb-2560-80.jpg",
+      "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
+      "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
+      "excerpt": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, tempe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Showdepot De Groen / Space Encounters",
+      "url": "https://www.archdaily.com/1053992/showdepot-de-groen-space-encounters",
+      "excerpt": "Nestled among the large-scale factory halls of Cleantech Park Arnhem, a mysterious presence sets itself apart from the heterogeneous post-industrial landscape: Showdepot DE.GROEN. This monolith of 18 ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a49/43a8/54de/fb01/894b/b049/large_jpg/showdepot-de-groen-space-encounters_1.jpg?1783186398",
       "today": true
     },
     {
@@ -227,6 +304,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Austria's 2027 Venice Architecture Biennale Pavilion Proposes a Shared Platform with Bosnia and Herzegovina",
+      "url": "https://www.archdaily.com/1054050/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina",
+      "excerpt": "Austria has announced Koncesija / Konzession / Concession(e) as its contribution to the 20th International Architecture Exhibition – La Biennale di Venezia. Curated by architects Adna Babahmetović and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/c8e8/54de/fb01/894b/b92c/large_jpg/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina_1.jpg?1783417083",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -236,52 +323,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "It's World Chocolate Day! Sink your teeth into Ghraoui's delectable delights",
-      "url": "https://www.wallpaper.com/entertaining/food-drink/wolrd-chocolate-day-gharoui",
-      "excerpt": "To celebrate World Chocolate Day, we discover the bittersweet tale of one of the oldest luxury chocolate houses in the world",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GqfAWAjwoEQDwdN6LJ9Zi-2560-80.jpg",
+      "title": "Collège Cardinal Mercier / LT2A + OPEN ARCHITECTES",
+      "url": "https://www.archdaily.com/1054002/college-cardinal-mercier-lt2a-plus-open-architectes",
+      "excerpt": "Set within a densely wooded landscape, the new building at Collège Cardinal Mercier continues the legacy of a site with a strong character. The campus is composed of distinct pavilions whose shared id",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/7739/062b/6500/019a/aaab/large_jpg/LT2A-BRAINE-UTKU_PEKLI-01_ArchDaily.jpg?1783330636",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "Beyond Human: Architecture as a Participant in Living Systems",
-      "url": "https://www.archdaily.com/1042820/beyond-human-architecture-as-a-participant-in-living-systems",
-      "excerpt": "The built environment has historically served humans as a mechanism of environmental control. Through our intellectual capacities and ability to organize, we have used buildings to actively influence ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/baa0/8481/2b01/8af5/0be1/large_jpg/designing-coexistence-non-human-species-and-architecture-as-participants-in-environmental-systems_9.jpg?1782692518",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Steenzicht Social Housing  / JVST",
-      "url": "https://www.archdaily.com/1043004/steenzicht-social-housing-jvst",
-      "excerpt": "Steenzicht 1A is one of the first buildings to be completed within De Zichten, a large-scale densification and renewal plan for the post-war neighborhoods of Dreven, Gaarden and Zichten in the southwe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/b9f3/b477/e200/0107/a980/large_jpg/08_STEENZICHT_IMAGES11.jpg?1783085592",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Bangladesh Chancery Complex and Ambassador's Residence / Shatotto",
-      "url": "https://www.archdaily.com/1042962/bangladesh-chancery-complex-and-ambassadors-residence-shatotto",
-      "excerpt": "On December 6, 1971, Bhutan became the first country in the world to recognize the independence of Bangladesh through an official telegram. In this historic message, King Jigme Darji Wangchuck express",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/405b/0789/c600/018c/2b5b/large_jpg/5Y3A0294.jpg?1782989112",
+      "title": "Snøhetta's Shanghai Grand Opera House Nears Completion Ahead of October Opening",
+      "url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
+      "excerpt": "Snøhetta's Shanghai Grand Opera House has entered its final construction phase. Preparations are underway for the building's official opening on October 17, 2026, kicking off a performance season feat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/c9e7/bd37/c901/7ebd/b06b/large_jpg/snohettas-shanghai-grand-opera-house-enters-final-stage-and-announces-opening-date_2.jpg?1783351818",
       "today": true
     },
     {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "teresa van dongen on designing with living systems",
+      "title": "teresa van dongen rethinks design through living systems",
       "url": "https://www.designboom.com/design/teresa-van-dongen-designing-living-systems-essay/",
-      "excerpt": "the bio-designer reflects on microbial energy and how biology transformed her understanding of products, care, and connection.\nThe post teresa van dongen on designing with living systems appeared firs",
+      "excerpt": "the bio-designer reflects on microbial energy and how biology transformed her understanding of products, care, and connection.\nThe post teresa van dongen rethinks design through living systems appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/teresa-van-dongen-designing-living-systems-essay-designboom-1200.jpg",
       "today": true
     },
@@ -294,73 +361,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Bawan Village Visitor Center / TAO (Trace Architecture Office)",
-      "url": "https://www.archdaily.com/1042977/bawan-village-visitor-center-tao-trace-architecture-office",
-      "excerpt": "Bawan Village is situated along the western edge of the Lujiangba Basin, nestled within the folded foothills on the southern slopes of the Gaoligong Mountains. Terraced fields, orchards, and stone dwe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/a202/c1bc/ef01/88fc/e2bc/large_jpg/bawan-village-visitor-center-lujiang-town-yunnan-province-tao-trace-architecture-office_1.jpg?1783014000",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "octopus-inspired earphones translate music into touch with face-tapping tentacles",
-      "url": "https://www.designboom.com/technology/octopus-earphones-music-touch-face-tapping-tentacles/",
-      "excerpt": "by shifting information from the ears to the skin, the project imagines alternative ways wearable devices might interact in noisy public environments.\nThe post octopus-inspired earphones translate mus",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/octopus-earphones-music-touch-face-tapping-tentacles04-818x614.webp",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "QUINCHOPEL offices / vbrügg",
-      "url": "https://www.archdaily.com/1054021/quinchopel-offices-vbrugg",
-      "excerpt": "QUINCHOPEL is the quincho of Opelmec, a company specializing in electromechanical works and projects in the city of Córdoba. It is located in a passageway, just a few meters from Av. Sabattini (Route ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/5b2d/b477/e200/0107/a94e/large_jpg/28.jpg?1783061675",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "The Shavin House, Frank Lloyd Wright’s only project in Tennessee, hits the market for the first time in seven decades",
-      "url": "https://www.wallpaper.com/architecture/residential/frank-lloyd-wright-shavin-house-for-sale",
-      "excerpt": "The Chattanooga house was built in 1952 for a newlywed couple who chose to commission Wright rather than buy a home – and it's been in their family ever since",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6zyrxKTaEmemFRCoKmRKHK-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Giannone Petricone Associates \"weaves\" glass addition into 1820s Toronto house",
-      "url": "https://www.dezeen.com/2026/07/06/giannone-petricone-associates-snider-house-toronto/",
-      "excerpt": "Local studio Giannone Petricone Associates has renovated a 200-year-old Toronto house with a contemporary interior and a wavy glass addition. Snider House was originally constructed in 1828 as a brick",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Perforated brickwork wraps courtyard home in India by Spacefiction Studio",
-      "url": "https://www.dezeen.com/2026/07/06/twilight-house-spacefiction-studio/",
-      "excerpt": "A gridded concrete ceiling and perforated brick walls shelter an open, green courtyard at the heart of Twilight House, a home in Andhra Pradesh, India, designed by local practice Spacefiction Studio. ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Carlo Ratti and Park Associati to surround children's hospital in one-kilometre \"green ring\"",
-      "url": "https://www.dezeen.com/2026/07/06/spedali-civili-hospital-carlo-ratti/",
-      "excerpt": "Architecture studios Carlo Ratti Associati and Park Associati are set to overhaul the Spedali Civili hospital in Brescia, Italy, with the addition of a three-pronged wing surrounded by a one-kilometre",
-      "today": false
     },
     {
       "source": "DNライティング",
