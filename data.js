@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.07  16:25",
+  "fetchedAt": "2026.07.07  18:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,45 +41,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -162,13 +158,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "a new art center will open on paris’ île seguin in october, designed by RCR arquitectes",
+      "url": "https://www.designboom.com/architecture/new-art-center-paris-ile-seguin-october-rcr-arquitectes/",
+      "excerpt": "clad in weathering corten steel and anodized aluminum, the building unfolds through compressed passages, expansive galleries, and framed views.\nThe post a new art center will open on paris’ île seguin",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/new-art-center-paris-ile-seguin-october-rcr-arquitectes05-818x545.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "casa kiki revives a 1930s california-style home around a pink turret in mexico city",
+      "url": "https://www.designboom.com/architecture/casa-kiki-1930s-california-style-home-pink-turret-mexico-city-zda-yuri-zagorin-alazraki/",
+      "excerpt": "the renovation creates a more continuous sequence of spaces and a clearer relationship between the different functions of the house, where bright pink interiors provide a distinct visual identity.\nThe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/zda-yuri-zagorin-alazraki-casa-kiki-renovation-1937-home-mexico-city-designboom-1200.jpg",
       "today": true
     },
     {
@@ -240,6 +256,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Ouriques House / Ultra Arquitetura",
+      "url": "https://www.archdaily.com/1054038/ouriques-house-ultra-arquitetura",
+      "excerpt": "Transforming an existing residence into a contemporary ensemble, the project expands its spaces, integrates architecture, interiors, and landscape, and bestows a new identity upon the house without lo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/baba/062b/6500/019a/ab8b/large_jpg/NOV_CASA_OURIQUES_ULTRA_ARQ-DSC00915__2.jpg?1783348575",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -307,16 +333,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "gensler proposes landscape-first tourism masterplan for vang vieng, laos",
-      "url": "https://www.designboom.com/architecture/gensler-landscape-tourism-masterplan-vang-vieng-laos/",
-      "excerpt": "the proposal organizes hospitality, recreation, and public space around the region’s landscape, waterways, and cultural identity.\nThe post gensler proposes landscape-first tourism masterplan for vang ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gensler-landscape-tourism-masterplan-vang-vieng-laos-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -337,16 +353,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "moradavaga’s interactive urban connectors activate a viennese neighborhood living lab",
-      "url": "https://www.designboom.com/design/moradavaga-interactive-urban-connectors-viennese-neighborhood-living-lab-outsiders/",
-      "excerpt": "‘the outsiders’ are conceived as experimental socio-cultural tools to playfully explore the public spaces surrounding a former kindergarten-turned-cultural center.\nThe post moradavaga’s interactive ur",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/moradavaga-interactive-urban-connectors-vienna-neighborhood-living-lab-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -354,16 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1054050/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina",
       "excerpt": "Austria has announced Koncesija / Konzession / Concession(e) as its contribution to the 20th International Architecture Exhibition – La Biennale di Venezia. Curated by architects Adna Babahmetović and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/c8e8/54de/fb01/894b/b92c/large_jpg/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina_1.jpg?1783417083",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Collège Cardinal Mercier / LT2A + OPEN ARCHITECTES",
-      "url": "https://www.archdaily.com/1054002/college-cardinal-mercier-lt2a-plus-open-architectes",
-      "excerpt": "Set within a densely wooded landscape, the new building at Collège Cardinal Mercier continues the legacy of a site with a strong character. The campus is composed of distinct pavilions whose shared id",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/7739/062b/6500/019a/aaab/large_jpg/LT2A-BRAINE-UTKU_PEKLI-01_ArchDaily.jpg?1783330636",
       "today": true
     },
     {
