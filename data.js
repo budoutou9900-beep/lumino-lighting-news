@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.07  02:34",
+  "fetchedAt": "2026.07.07  06:41",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "newscast.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -104,23 +104,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.07.07",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -134,6 +134,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.07",
@@ -144,31 +163,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
+      "title": "moradavaga’s interactive urban connectors activate a viennese neighborhood living lab",
+      "url": "https://www.designboom.com/design/moradavaga-interactive-urban-connectors-viennese-neighborhood-living-lab-outsiders/",
+      "excerpt": "‘the outsiders’ are conceived as experimental socio-cultural tools to playfully explore the public spaces surrounding a former kindergarten-turned-cultural center.\nThe post moradavaga’s interactive ur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/moradavaga-interactive-urban-connectors-vienna-neighborhood-living-lab-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.07",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.07",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "It's World Chocolate Day! Sink your teeth into Ghraoui's delectable delights",
+      "url": "https://www.wallpaper.com/entertaining/food-drink/wolrd-chocolate-day-gharoui",
+      "excerpt": "To celebrate World Chocolate Day, we discover the bittersweet tale of one of the oldest luxury chocolate houses in the world",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GqfAWAjwoEQDwdN6LJ9Zi-2560-80.jpg",
       "today": true
     },
     {
@@ -180,6 +191,26 @@ window.LUMINO_DATA = {
       "excerpt": "the bio-designer reflects on microbial energy and how biology transformed her understanding of products, care, and connection.\nThe post teresa van dongen on designing with living systems appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/teresa-van-dongen-designing-living-systems-essay-designboom-1200.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Bawan Village Visitor Center / TAO (Trace Architecture Office)",
+      "url": "https://www.archdaily.com/1042977/bawan-village-visitor-center-tao-trace-architecture-office",
+      "excerpt": "Bawan Village is situated along the western edge of the Lujiangba Basin, nestled within the folded foothills on the southern slopes of the Gaoligong Mountains. Terraced fields, orchards, and stone dwe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/a202/c1bc/ef01/88fc/e2bc/large_jpg/bawan-village-visitor-center-lujiang-town-yunnan-province-tao-trace-architecture-office_1.jpg?1783014000",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.06",
+      "title": "octopus-inspired earphones translate music into touch with face-tapping tentacles",
+      "url": "https://www.designboom.com/technology/octopus-earphones-music-touch-face-tapping-tentacles/",
+      "excerpt": "by shifting information from the ears to the skin, the project imagines alternative ways wearable devices might interact in noisy public environments.\nThe post octopus-inspired earphones translate mus",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/octopus-earphones-music-touch-face-tapping-tentacles04-818x614.webp",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -281,16 +312,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Don’t look down! An apartment 60 floors up is a serene escape from Mumbai’s urban bustle",
-      "url": "https://www.wallpaper.com/architecture/residential/worli-apartment-mumbai-india",
-      "excerpt": "Designer Rajiv Saini has transformed a high-rise apartment in Mumbai’s upscale Worli neighbourhood into a contemporary oasis",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5wDFW5xc54ZiwBWba7q2SG-1600-80.png",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.06",
@@ -301,42 +322,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "Terrace Mountain Residence / A Parallel Architecture",
-      "url": "https://www.archdaily.com/1042943/terrace-mountain-residence-a-parallel-architecture",
-      "excerpt": "Perched dramatically on a limestone bluff overlooking the rolling Texas Hill Country and the distant Austin skyline, the Terrace Mountain Residence exemplifies sophisticated modern design. Conceived a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df4/0789/c600/018c/2a12/large_jpg/AD_Terrace_Mountain_Residence_-_Chase_Daniel__1_.jpg?1782943261",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "sophie lou jacobsen on italy, crystals, and blown glass craftsmanship",
-      "url": "https://www.designboom.com/design/sophie-lou-jacobsen-italy-crystals-blown-glass-craftsmanship/",
-      "excerpt": "through years of close collaboration with glassblowers, the french-american designer has developed a unique relationship to craft that has defined her design language.\nThe post sophie lou jacobsen on ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sophie-lou-jacobsen-designboom-17.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.06",
       "title": "Perforated brickwork wraps courtyard home in India by Spacefiction Studio",
       "url": "https://www.dezeen.com/2026/07/06/twilight-house-spacefiction-studio/",
       "excerpt": "A gridded concrete ceiling and perforated brick walls shelter an open, green courtyard at the heart of Twilight House, a home in Andhra Pradesh, India, designed by local practice Spacefiction Studio. ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "the new global nomad: are we replacing local identity for a universal architecture style?",
-      "url": "https://www.designboom.com/architecture/local-identity-versus-universal-style-room-for-dreams-podcast/",
-      "excerpt": "the fifth episode of room for dreams confronts the rise of a homogenized global style, asking whether it is quietly erasing design diversity.\nThe post the new global nomad: are we replacing local iden",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/facebook-1.jpg",
       "today": false
     },
     {
