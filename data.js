@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.07  13:15",
+  "fetchedAt": "2026.07.07  16:25",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,41 +41,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -158,6 +162,84 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.07",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Perroquet turns a 1950s motel into Florida’s best-dressed new bolthole",
+      "url": "https://www.wallpaper.com/travel/hotels/perroquet-hotel-fort-lauderdale-interior-design",
+      "excerpt": "In Fort Lauderdale, Belgian architect Bernard Dubois reworks the classic Florida motel formula with a European eye",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QQ3dPgafnqCGVzdaQ289jF-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "An eight-metre replica of the Fifa World Cup trophy has appeared at Rockefeller Plaza – made entirely from Lego",
+      "url": "https://www.wallpaper.com/architecture/lego-world-cup-trophy",
+      "excerpt": "As Team USA’s World Cup run ends, New York finds another reason to look up: a 1.3 million-brick Lego trophy has landed in Manhattan",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZiT7kFmYFS7a6emjZ3vXME-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Office-to-residential conversion building at risk of collapse in New York",
+      "url": "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/",
+      "excerpt": "An office building undergoing a residential conversion by Gensler in Midtown Manhattan is at risk of collapsing, according to reports. According to the New York Times, fire officials received a call b",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Turn your home into the perfect listening room with Tylko Sound",
+      "url": "https://www.wallpaper.com/design-interiors/tylko-sound-hi-fi-speaker-launch",
+      "excerpt": "With its new audio system, Tylko wants to take screens out of the listening experience",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjwChi97TJkwNdkeS583h5-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Underground community hub among projects from students at Pratt Institute",
+      "url": "https://www.dezeen.com/2026/07/07/communuty-transport-hub-pratt-institute-schoolshows/",
+      "excerpt": "Dezeen School Shows: a proposal to transform a subway station into a community hotspot for art and culture is among the projects from interior design students at Pratt Institute. Also featured is a wi",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "how antoni gaudí’s architecture found its way into schiaparelli haute couture",
+      "url": "https://www.designboom.com/design/antoni-gaudi-architecture-way-schiaparelli-haute-couture-daniel-roseberry/",
+      "excerpt": "following a visit to barcelona, roseberry looks to antoni gaudí’s buildings as a framework for experimenting with silicone, sculptural tailoring, and couture techniques.\nThe post how antoni gaudí’s ar",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/antoni-gaudi-architecture-way-schiaparelli-haute-couture-daniel-roseberry-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "Urban Automotive and Visionnaire take Range Rover luxury to new heights and lengths",
+      "url": "https://www.wallpaper.com/transportation/urban-automotive-and-visionnaire-range-rover-long-wheelbase-autobiography",
+      "excerpt": "A unique Range Rover Long Wheelbase Autobiography has been created by Urban Automotive in collaboration with Visionnaire",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3iigCSbmbsJqk2SfEuYpNC-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -165,46 +247,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/nothing-ear-3a-earbuds-review",
       "excerpt": "Bold, bright and eminently affordable, the new Nothing (3a) earbuds add flash storage for audio snapshots",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MG4z7GW5aMUCezetR52AfN-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "The Hand & The Eye is Chicago’s spellbinding new magic venue-meets-members’ club",
-      "url": "https://www.wallpaper.com/travel/the-hand-and-the-eye-chicago-review",
-      "excerpt": "Architect David Rockwell’s next trick is to conjure up an enchanting new venue for the Chicago magic scene",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fVc4rMhC8jrVS8253ceXMX-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "The Beachman Aviator is an electric motorbike with stripped-back classic lines",
-      "url": "https://www.wallpaper.com/transportation/beachman-aviator-electric-motorbike",
-      "excerpt": "Inspired by classic British motorbikes of the 1960s, the new e-motorbike promises a purist riding experience",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jMqEupMMkgBayLaosWzqt4-2112-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Surrounded by larch trees, a new Evian concert hall makes music ‘warm and silky’",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/evian-concert-hall-la-source-vive-france",
-      "excerpt": "Titled La Source Vive, the new venue by Patrick Bouchain and Philippe Chiambaretta is an organic building set within the forest in rural France",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KpRkSaVosi2Tt2mEFCkG9Y-1195-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "The New Museum finally has a restaurant",
-      "url": "https://www.wallpaper.com/travel/restaurants/new-museum-restaurant-tktktk",
-      "excerpt": "Nearly five decades after opening, New York's New Museum unveils its first permanent restaurant. Designed by OMA, Oberon combines sculptural cork interiors, contemporary art commissions and a menu roo",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kNWgLS3C5aWKZmxeVJvame-2000-80.jpg",
       "today": true
     },
     {
@@ -236,6 +278,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.07",
+      "title": "School covered playground Jean Santini - Porto-vecchio - Corsica /  CGZ Architecture",
+      "url": "https://www.archdaily.com/1054003/school-covered-playground-jean-santini-porto-vecchio-corsica-cgz-architecture",
+      "excerpt": "Portivechju, built on its promontory, developed for a long time around its historic center before opening up toward the sea. Its rampart—which serves as both a fortification and a living space—defines",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/7767/062b/6500/019a/aac5/large_jpg/CGZ_PortoVecchio_Pr_au_HD_3.jpg?1783330704",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -262,15 +314,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gensler-landscape-tourism-masterplan-vang-vieng-laos/",
       "excerpt": "the proposal organizes hospitality, recreation, and public space around the region’s landscape, waterways, and cultural identity.\nThe post gensler proposes landscape-first tourism masterplan for vang ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gensler-landscape-tourism-masterplan-vang-vieng-laos-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Casul chair unfolds to become a children's play set",
-      "url": "https://www.dezeen.com/2026/07/07/casul-chair-james-murphy/",
-      "excerpt": "Only two moves are needed to transform this children's seat into a rudimentary castle, in a project that has earned Irish furniture designer James Murphy one of the top prizes at London's annual New D",
       "today": true
     },
     {
@@ -314,15 +357,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Bugatti designs porcelain-clad sports car informed by Enzo Mari vase",
-      "url": "https://www.dezeen.com/2026/07/07/bugatti-porcelain-clad-sports-car-enzo-mari-vase/",
-      "excerpt": "Carmaker Bugatti has unveiled the Mistral Blanc Éternal, a sports car covered with unusual porcelain accents including speaker grilles and armrests. The Mistral Blanc Éternal was informed by a white v",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.07",
@@ -330,26 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1054002/college-cardinal-mercier-lt2a-plus-open-architectes",
       "excerpt": "Set within a densely wooded landscape, the new building at Collège Cardinal Mercier continues the legacy of a site with a strong character. The campus is composed of distinct pavilions whose shared id",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/7739/062b/6500/019a/aaab/large_jpg/LT2A-BRAINE-UTKU_PEKLI-01_ArchDaily.jpg?1783330636",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Snøhetta's Shanghai Grand Opera House Nears Completion Ahead of October Opening",
-      "url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
-      "excerpt": "Snøhetta's Shanghai Grand Opera House has entered its final construction phase. Preparations are underway for the building's official opening on October 17, 2026, kicking off a performance season feat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/c9e7/bd37/c901/7ebd/b06b/large_jpg/snohettas-shanghai-grand-opera-house-enters-final-stage-and-announces-opening-date_2.jpg?1783351818",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "teresa van dongen rethinks design through living systems",
-      "url": "https://www.designboom.com/design/teresa-van-dongen-designing-living-systems-essay/",
-      "excerpt": "the bio-designer reflects on microbial energy and how biology transformed her understanding of products, care, and connection.\nThe post teresa van dongen rethinks design through living systems appeare",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/teresa-van-dongen-designing-living-systems-essay-designboom-1200.jpg",
       "today": true
     },
     {
