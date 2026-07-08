@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  02:08",
+  "fetchedAt": "2026.07.08  05:46",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "fujitv.co.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "カナロコ": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "オズモール": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Wallpaper*": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -92,6 +100,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.08",
@@ -101,13 +129,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "fujitv.co.jp",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.08",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -120,31 +157,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "カナロコ",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "冬の夜 幻想的な世界が広がる イルミネーション・ライトアップ２０２５",
-      "url": "https://www.kanaloco.jp/news/culture/bunka/article-1230342.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2025-12/yokohama_1.jpg?itok=NMg0iK6j",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
+      "title": "Meet the Lamborghini Urus SE Performante, the most super ‘Super SUV’ of all",
+      "url": "https://www.wallpaper.com/transportation/lamborghini-urus-se-performante-suv",
+      "excerpt": "The new SE Performante variant of Lamborghini’s Urus SUV promises to be the biggest, baddest and boldest iteration of a car that’s never been lacking in dramatic presence",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/83DrgNsh2gih45PNoGyW8Y-2560-80.jpg",
       "today": true
     },
     {
@@ -271,16 +290,6 @@ window.LUMINO_DATA = {
       "title": "Office-to-residential conversion building at risk of collapse in New York",
       "url": "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/",
       "excerpt": "Part of an office building undergoing a residential conversion by Gensler in Midtown Manhattan is at risk of collapsing after beams were found bent in the upper storeys. According to the New York Time",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Turn your home into the perfect listening room with Tylko Sound",
-      "url": "https://www.wallpaper.com/design-interiors/tylko-sound-hi-fi-speaker-launch",
-      "excerpt": "With its new audio system, Tylko wants to take screens out of the listening experience",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjwChi97TJkwNdkeS583h5-2560-80.jpg",
       "today": false
     },
     {
