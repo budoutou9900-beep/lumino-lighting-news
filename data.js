@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  05:46",
+  "fetchedAt": "2026.07.08  08:17",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,27 +21,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -53,29 +53,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -100,45 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.08",
@@ -148,12 +105,90 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.08",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "The Faro Santander launch will bring a northern Spanish grande dame back to life",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/faro-santander-chipperfield-spain",
+      "excerpt": "Spain's new cultural destination, Faro Santander, gears up to open its doors on 8 September 2026 – in anticipation, we tour its historic building, redesigned by Chipperfield Architects",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hKBkqhqMVRFvWKnozTcfSB-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "rethinking the glass tower through a living skin that grows, shades, and generates energy",
+      "url": "https://www.designboom.com/architecture/rethinking-glass-tower-living-skin-grows-shades-generates-energy-uau-studio-algae-tower/",
+      "excerpt": "inspired by the behavior of tree canopies, algae tower by uau studio proposes a bio-facade that integrates photo-bio-reactor technology into the building envelope.\nThe post rethinking the glass tower ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/uau-studio-algae-tower-photo-bio-reactor-technology-facade-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "vondom’s gum collection softens the rigidity of aluminum into fluid lines",
+      "url": "https://www.designboom.com/design/vondom-gum-collection/",
+      "excerpt": "a conversation between soft and firm scales across vondom’s gum collection, shaping characteristic silhouettes through continuous tubular lines.\nThe post vondom’s gum collection softens the rigidity o",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vondom_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "At the Fondation Beyeler, step into Pierre Huyghe’s deliciously creepy dystopia",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/fondation-beyeler-pierre-huyghes-review",
+      "excerpt": "The artist brings an immersive eeriness to Switzerland's Fondation Beyeler",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C4C9k23esS39gVDJ95LXaN-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Sthapati \"draws from Jodhpur's royal past\" for pastel-coloured airport",
+      "url": "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
+      "excerpt": "Architecture studio Sthapati took visual cues from local palaces and gateways for its expansion of the Jodhpur Airport in Rajasthan, India. Unlike the majority of airports, the distinctive form of the",
       "today": true
     },
     {
@@ -164,6 +199,46 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/lamborghini-urus-se-performante-suv",
       "excerpt": "The new SE Performante variant of Lamborghini’s Urus SUV promises to be the biggest, baddest and boldest iteration of a car that’s never been lacking in dramatic presence",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/83DrgNsh2gih45PNoGyW8Y-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Misato Canoe Boathouse / STUDIO YY",
+      "url": "https://www.archdaily.com/1054025/misato-canoe-boathouse-studio-yy",
+      "excerpt": "For the 2030 Shimane National Sports Festival, an unconventional design proposal was carried out in Misato Town: the construction of a canoe boathouse incorporating Balinese architectural elements, to",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/db88/73b8/d401/8935/68d5/large_jpg/misato-canoe-boathouse-studio-yy_1.jpg?1783356346",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Ghost Gum House Extension / Adriano Pupilli Architects",
+      "url": "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
+      "excerpt": "Ghost Gum House is a playful re-imagination of a 1901 cottage located on a long, narrow site in Manly. A sculpted rear extension emerges from the original heritage home, articulated by a central court",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b46e/73b8/d422/330e/01c0/large_jpg/ghost-gum-house-extension-adriano-pupilli-architects_2.jpg?1783346372",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "納入事例に美術館・博物館・スポーツ物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "The 798·751 Train Street Renovation / Studio NOR",
+      "url": "https://www.archdaily.com/1042915/the-798-star-751-train-street-renovation-studio-nor",
+      "excerpt": "The \"Train Street,\" located in the core area of Beijing's 798·751 Park, originally served as the coal yard and railway terminus for the 751 Factory. It was later repurposed into an underground garage,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/47b3/0789/c600/018c/2941/large_jpg/09_Aerial_view_of_the_Train_Street__where_the__Corridor__modules_echo_with_the_gantry_crane__Haoyu_Ran.jpg?1782859747",
       "today": true
     },
     {
@@ -264,91 +339,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Perroquet turns a 1950s motel into Florida’s best-dressed new bolthole",
-      "url": "https://www.wallpaper.com/travel/hotels/perroquet-hotel-fort-lauderdale-interior-design",
-      "excerpt": "In Fort Lauderdale, Belgian architect Bernard Dubois reworks the classic Florida motel formula with a European eye",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QQ3dPgafnqCGVzdaQ289jF-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "An eight-metre replica of the Fifa World Cup trophy has appeared at Rockefeller Plaza – made entirely from Lego",
-      "url": "https://www.wallpaper.com/architecture/lego-world-cup-trophy",
-      "excerpt": "As Team USA’s World Cup run ends, New York finds another reason to look up: a 1.3 million-brick Lego trophy has landed in Manhattan",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZiT7kFmYFS7a6emjZ3vXME-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.07",
       "title": "Office-to-residential conversion building at risk of collapse in New York",
       "url": "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/",
       "excerpt": "Part of an office building undergoing a residential conversion by Gensler in Midtown Manhattan is at risk of collapsing after beams were found bent in the upper storeys. According to the New York Time",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Underground community hub among projects from students at Pratt Institute",
-      "url": "https://www.dezeen.com/2026/07/07/communuty-transport-hub-pratt-institute-schoolshows/",
-      "excerpt": "Dezeen School Shows: a proposal to transform a subway station into a community hotspot for art and culture is among the projects from interior design students at Pratt Institute. Also featured is a wi",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Casa Co / Aagnes studio + JDEstudio",
-      "url": "https://www.archdaily.com/1042991/casa-co",
-      "excerpt": "Casa CO, designed by JDEstudio with interiors by Aagnes Studio, is conceived around the pursuit of beauty as a fundamental architectural principle. Rather than treating beauty as a purely aesthetic qu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/large_jpg/_DSC7818.jpg?1783061104",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "how antoni gaudí’s architecture found its way into schiaparelli haute couture",
-      "url": "https://www.designboom.com/design/antoni-gaudi-architecture-way-schiaparelli-haute-couture-daniel-roseberry/",
-      "excerpt": "following a visit to barcelona, roseberry looks to antoni gaudí’s buildings as a framework for experimenting with silicone, sculptural tailoring, and couture techniques.\nThe post how antoni gaudí’s ar",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/antoni-gaudi-architecture-way-schiaparelli-haute-couture-daniel-roseberry-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Ouriques House / Ultra Arquitetura",
-      "url": "https://www.archdaily.com/1054038/ouriques-house-ultra-arquitetura",
-      "excerpt": "Transforming an existing residence into a contemporary ensemble, the project expands its spaces, integrates architecture, interiors, and landscape, and bestows a new identity upon the house without lo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/baba/062b/6500/019a/ab8b/large_jpg/NOV_CASA_OURIQUES_ULTRA_ARQ-DSC00915__2.jpg?1783348575",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "mutated chairs grow fur and flesh inside the studio of charlotte kingsnorth",
-      "url": "https://www.designboom.com/design/mutated-chairs-fur-flesh-studio-charlotte-kingsnorth-london/",
-      "excerpt": "old chairs grow bodies of their own as the london-born designer wraps inherited frames in sculpted upholstery and hand-stitched skins.\nThe post mutated chairs grow fur and flesh inside the studio of c",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/charlotte-kingsnorth-hybrid-furniture-craft-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "School covered playground Jean Santini - Porto-vecchio - Corsica /  CGZ Architecture",
-      "url": "https://www.archdaily.com/1054003/school-covered-playground-jean-santini-porto-vecchio-corsica-cgz-architecture",
-      "excerpt": "Portivechju, built on its promontory, developed for a long time around its historic center before opening up toward the sea. Its rampart—which serves as both a fortification and a living space—defines",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/7767/062b/6500/019a/aac5/large_jpg/CGZ_PortoVecchio_Pr_au_HD_3.jpg?1783330704",
       "today": false
     },
     {
@@ -389,16 +385,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/170",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/170/132A3612_300dpi.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.06.30",
-      "title": "納入事例に複合商業施設物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
