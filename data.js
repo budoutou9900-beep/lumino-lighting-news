@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  19:16",
+  "fetchedAt": "2026.07.08  21:01",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -161,6 +161,25 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.08",
+      "title": "knitted sculptures by luna haverkorn only come to life when you use them",
+      "url": "https://www.designboom.com/design/knitted-sculptures-luna-haverkorn-life-interview/",
+      "excerpt": "these body-scale invite play, rest, and exploration, leaving their final function up to the person interacting with them.\nThe post knitted sculptures by luna haverkorn only come to life when you use t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/knitted-sculptures-luna-haverkorn-life-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
+      "url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
+      "excerpt": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.08",
       "title": "lara tabet works with bacteria to produce living images at BMW’s arles exhibition",
       "url": "https://www.designboom.com/art/lara-tabet-bacteria-living-images-bmw-rencontres-arles-le-corps-vitre-vitreous-body-exhibition-yasmine-chemali/",
       "excerpt": "the lebanese artist cultures microorganisms collected from marseille’s waterways, allowing bacteria to transform photographic film into evolving glass installations.\nThe post lara tabet works with bac",
@@ -193,6 +212,16 @@ window.LUMINO_DATA = {
       "title": "Wellbeing centre for women among projects from Florence Institute of Design International",
       "url": "https://www.dezeen.com/2026/07/08/wellbeing-centre-for-women-florence-institute-of-design-international-schoolshows/",
       "excerpt": "Dezeen School Shows: a women's wellbeing centre offering fitness services and therapy options is among the projects from Florence Institute of Design International. Also featured is a community hub fo",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Villas de San Pablo Cultural Center, Barranquilla / ETHZ + Alejandro Restrepo Montoya",
+      "url": "https://www.archdaily.com/1092228/villas-de-san-pablo-cultural-center-barranquilla-ethz-plus-alejandro-restrepo-montoya",
+      "excerpt": "When Hubert Klumpner and Diego Ceresuela Wiesmann from ETH Zurich and Urbanthinktank_next, along with Alejandro Restrepo from UPB Medellín, became involved in the design of the Villas de San Pablo Cul",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/0109/56cb/6000/01e1/aa66/large_jpg/CCVSP_ETHZ_UPB_A_Arango__4_.jpg?1783497147",
       "today": true
     },
     {
@@ -269,30 +298,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
+      "title": "Tidsmaskinen After-School Center  / BBP Arkitekter",
+      "url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
+      "excerpt": "Tidsmaskinen (The Time Machine) after-school center is an example of complementary architecture, consisting of three distinct buildings: a villa, a greenhouse and a tower, which together form a cohesi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/large_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
       "title": "Ghost Gum House Extension / Adriano Pupilli Architects",
       "url": "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
       "excerpt": "Ghost Gum House is a playful re-imagination of a 1901 cottage located on a long, narrow site in Manly. A sculpted rear extension emerges from the original heritage home, articulated by a central court",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b46e/73b8/d422/330e/01c0/large_jpg/ghost-gum-house-extension-adriano-pupilli-architects_2.jpg?1783346372",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Snøhetta's Shanghai Grand Opera House Nears Completion Ahead of October Opening",
-      "url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
-      "excerpt": "Snøhetta's Shanghai Grand Opera House has entered its final construction phase. Preparations are underway for the building's official opening on October 17, 2026, kicking off a performance season feat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/c9e7/bd37/c901/7ebd/b06b/large_jpg/snohettas-shanghai-grand-opera-house-enters-final-stage-and-announces-opening-date_2.jpg?1783351818",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Austria's 2027 Venice Architecture Biennale Pavilion Proposes a Shared Platform with Bosnia and Herzegovina",
-      "url": "https://www.archdaily.com/1054050/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina",
-      "excerpt": "Austria has announced Koncesija / Konzession / Concession(e) as its contribution to the 20th International Architecture Exhibition – La Biennale di Venezia. Curated by architects Adna Babahmetović and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/c8e8/54de/fb01/894b/b92c/large_jpg/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina_1.jpg?1783417083",
       "today": true
     },
     {
@@ -331,25 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/hiplok-compact-modular-locking-system-next-generation-bike-security-l1000/",
       "excerpt": "hiplok L1000 link combines the flexibility of a chain with the resistance of a hardened D lock.\nThe post hiplok introduces a compact modular locking system for next-generation bike security appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hiplok-l1000-anti-angle-grinder-security-link-d-lock-protection-bike-designboom-1200-1-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "David Chipperfield Architects transforms historic Spanish bank into Faro Santander museum",
-      "url": "https://www.dezeen.com/2026/07/08/david-chipperfield-architects-faro-santander/",
-      "excerpt": "The British and Spanish offices of David Chipperfield Architects have overhauled a bank on the Santander seafront in Spain to create an art museum, revealed here ahead of its official opening. Set to ",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "‘there is nothing convenient about my work’: lucy sparrow on sewing a supermarket",
-      "url": "https://www.designboom.com/art/there-is-nothing-convenient-about-my-work-lucy-sparrow-on-sewing-a-supermarket/",
-      "excerpt": "more than 20,000 felt products trace how the supermarket changed when convenience entered the home. \nThe post ‘there is nothing convenient about my work’: lucy sparrow on sewing a supermarket appeared",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lucy-sparrow-beginning-of-convenience-felt-store-craft-designboom-0lucy-sparrow-beginning-of-convenience-felt-store-craft-designboom-FB.jpg",
       "today": true
     },
     {
