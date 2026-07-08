@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  10:59",
+  "fetchedAt": "2026.07.08  12:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,49 +37,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -130,6 +126,7 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -161,13 +158,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "Acne Studios’ collaboration with perfume house Frédéric Malle expands into bath and body",
+      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/acne-studios-bath-body-line-frederic-malle",
+      "excerpt": "Following the launch of its first fragrance, Acne Studios unveils a new bath and body line, perfumed with the same signature scent. Perfumer Suzy Le Helley tells Wallpaper* the story behind the produc",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSeCKpCEGX7C3s3kgwDr3Y-2560-80.jpg",
       "today": true
     },
     {
@@ -275,16 +272,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/giant-flowers-twisting-vines-bureau-betak-enchanted-garden-chanel/",
       "excerpt": "oversized flowers, winding vines, and couture craftsmanship converge inside a theatrical landscape where set design and fashion become part of the same story.\nThe post giant flowers and twisting vines",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/giant-flowers-twisting-vines-bureau-betak-enchanted-garden-chanel-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "The Faro Santander launch will bring a northern Spanish grande dame back to life",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/faro-santander-chipperfield-spain",
-      "excerpt": "Spain's new cultural destination, Faro Santander, gears up to open its doors on 8 September 2026 – in anticipation, we tour its historic building, redesigned by Chipperfield Architects",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hKBkqhqMVRFvWKnozTcfSB-2560-80.jpg",
       "today": true
     },
     {
