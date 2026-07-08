@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  12:24",
+  "fetchedAt": "2026.07.08  15:15",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -120,16 +120,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.08",
@@ -137,6 +127,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
       "today": true
     },
     {
@@ -158,6 +157,65 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Wellbeing centre for women among projects from Florence Institute of Design International",
+      "url": "https://www.dezeen.com/2026/07/08/wellbeing-centre-for-women-florence-institute-of-design-international-schoolshows/",
+      "excerpt": "Dezeen School Shows: a women's wellbeing centre offering fitness services and therapy options is among the projects from Florence Institute of Design International. Also featured is a community hub fo",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Alaïa’s pink-hued Miami store is made to ‘feel almost alive’",
+      "url": "https://www.wallpaper.com/fashion-beauty/alaia-miami-store-design-halleroed",
+      "excerpt": "Designed by Swedish studio Halleroed, the new store in Miami’s Design District captures the spirit of the Parisian house – one of effortless sensuality and rigorous  craft",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7kDunG57MkEXmacQqBSMJN-2400-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "inside the transformation of an unused wastewater facility into a public cultural hub in korea",
+      "url": "https://www.designboom.com/architecture/transformation-unused-wastewater-facility-public-cultural-hub-korea-be-fore-a-co-lab/",
+      "excerpt": "five condensing tanks are transformed into an open sequence of interconnected spaces.\nThe post inside the transformation of an unused wastewater facility into a public cultural hub in korea appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/be-fore-renovation-a-co-lab-former-sewage-treatment-plant-korea-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Step inside this greenhouse pavilion in the heart of London to catch the gardening bug",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/the-veggery-greenhouse-pavilion-london-uk",
+      "excerpt": "The Veggery has launched to inspire a passion for gardening and mark the closure of the 2026 London Festival of Architecture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UhaEEdhAPhDH9L36rGnKS9-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "How Cities and Memory is turning the world’s everyday sounds into a global artwork",
+      "url": "https://www.wallpaper.com/travel/cities-and-memory-interview",
+      "excerpt": "Stuart Fowkes’ Cities and Memory has gathered 8,000 field recordings from 140 countries, creating a global sound map, capturing ideas of memory and place",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/d7pUntYVaR7e7pR4UX5CnK-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Anatomy of a logo: Chateau Marmont",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/chateau-marmont-logo-story",
+      "excerpt": "The Los Angeles hotel’s storied past is reflected in its timeless logo, a typemark set in calligraphic strokes that invoke a script first used by biblical scribes",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/D8w6tf5fSkPgK3AeVJ8chJ-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.08",
@@ -171,20 +229,10 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "handmade elephant-dung bricks make goya tower rise in southern thailand",
+      "title": "handmade elephant-dung bricks make boonserm premthada’s goya tower rise in southern thailand",
       "url": "https://www.designboom.com/architecture/handmade-elephant-dung-bricks-goya-tower-southern-thailand/",
-      "excerpt": "BOONSERM PREMTHADA’S GOYA TOWER RISES IN PHANG NGA   In Phang Nga, southern Thailand, elephants form part of both the cultural memory and ecological landscape. Nearby, a limestone mountain known as Kh",
+      "excerpt": "the observation tower invites visitors to climb through a sequence of cylindrical columns, curved walkways, light, and shadow.\nThe post handmade elephant-dung bricks make boonserm premthada’s goya tow",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/Goya-Tower-22-818x545.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "The Land Rover as a design icon – a new monograph explores its cultural impact and aspirational reach",
-      "url": "https://www.wallpaper.com/transportation/land-from-workhorse-to-cultural-object-the-land-rover-as-design-icon-gestalten-book-review",
-      "excerpt": "If you want to up sticks and immerse yourself in hard-to-reach wilderness, all the while retaining a richly aesthetic approach to life, there’s only one answer: a converted Land Rover Defender",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qtKLMvKvZUcjNPyqCJ2fp9-2560-80.jpg",
       "today": true
     },
     {
@@ -216,13 +264,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "Updated and extended, a classic Horace Gifford beach house is for sale on Fire Island Pines",
-      "url": "https://www.wallpaper.com/architecture/residential/horace-gifford-beach-house-for-sale-fire-island-pines",
-      "excerpt": "Owned and cherished by interior and fashion designers over the decades, 122A Ocean Drive is a classic piece of modernist beachside Americana",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QgDUWnvbc9HUeCw3XVF9KU-2283-80.jpg",
+      "title": "Amonti Chalets / Architekt Andreas Gruber",
+      "url": "https://www.archdaily.com/1054052/amonti-chalets-architekt-andreas-gruber",
+      "excerpt": "Nestled in the breathtaking Ahrntal Valley of South Tyrol, the Amonti Chalets blend traditional alpine craftsmanship with modern, sustainable design. The project consists of 23 exclusive chalet apartm",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/ea66/062b/6500/019a/ac09/large_jpg/03_Andreas-Gruber-Arch_AMONTI_IMG_1210_GW.jpg?1783425659",
       "today": true
     },
     {
@@ -232,26 +280,6 @@ window.LUMINO_DATA = {
       "title": "David Chipperfield Architects transforms historic Spanish bank into Faro Santander museum",
       "url": "https://www.dezeen.com/2026/07/08/david-chipperfield-architects-faro-santander/",
       "excerpt": "The British and Spanish offices of David Chipperfield Architects have overhauled a bank on the Santander seafront in Spain to create an art museum, revealed here ahead of its official opening. Set to ",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Matthieu Blazy conjures a haute couture fairy tale at Chanel",
-      "url": "https://www.wallpaper.com/fashion-beauty/chanel-aw-26-haute-couture-review-matthieu-blazy",
-      "excerpt": "The designer’s sophomore couture outing for the house looked towards a book of fairy tales from Gabrielle ‘Coco’ Chanel’s library, for a collection that married fantasy and function",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uKuZKpC5rkF6uTy6XLGpDg-1799-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Serpentine Galleries appoints Formafantasma as ecological advisors",
-      "url": "https://www.wallpaper.com/design-interiors/formafantasma-serpentine-galleries-announcement-ecological-advisors",
-      "excerpt": "The appointment to the newly created role of ‘Lead R&D Fellows, Ecology’ is part of a wider shift of cultural institutions towards a collaborative approach between disciplines",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oPnFjJVCVaiYqHg6SfCECD-2560-80.jpg",
       "today": true
     },
     {
@@ -275,33 +303,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "rethinking the glass tower through a living skin that grows, shades, and generates energy",
-      "url": "https://www.designboom.com/architecture/rethinking-glass-tower-living-skin-grows-shades-generates-energy-uau-studio-algae-tower/",
-      "excerpt": "inspired by the behavior of tree canopies, algae tower by uau studio proposes a bio-facade that integrates photo-bio-reactor technology into the building envelope.\nThe post rethinking the glass tower ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/uau-studio-algae-tower-photo-bio-reactor-technology-facade-designboom-1200-1.jpg",
+      "title": "From Homes to Coffee Shops: Adaptive Reuse Projects Transforming Domestic History",
+      "url": "https://www.archdaily.com/1042938/from-homes-to-coffee-shops-adaptive-reuse-projects-transforming-domestic-history",
+      "excerpt": "In the twenty-first century agenda, adaptive reuse is understood as a creative and meaningful approach to the development of the built environment. In the face of an era marked by adaptation and trans",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/6991/cbaa/8c01/8a6e/d796/large_jpg/from-homes-to-coffee-shops-materials-aesthetics-and-designs-adapted-to-contemporary-life_3.jpg?1782999447",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "City Hall in Přerov / atelier gram + anagram architecture",
-      "url": "https://www.archdaily.com/1054029/city-hall-in-prerov-atelier-gram-plus-anagram-architecture",
-      "excerpt": "Přerov's 1969 town hall - a functional, institutionally focused example of Czechoslovak modernist public architecture - turns itself inside out with a new monolithic staircase that makes the everyday ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/cf6d/062b/6500/019a/abc9/large_jpg/_c_MaximeDelvaux_TGM_01.jpg?1783353262",
+      "title": "TU Munich Kinderoase Daycare / Kéré Architecture  + HK Architekten",
+      "url": "https://www.archdaily.com/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
+      "excerpt": "The Kinderoase an der TUM is a new daycare center on the campus of the Technical University of Munich (TUM). Conceived as a vertical kindergarten and built almost entirely in wood, the building offers",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/163e/25a9/f501/8a94/bc09/large_jpg/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt_1.jpg?1783436970",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "RCR Arquitectes Designs New Paris Cultural Institution \"Large\" on Île Seguin",
-      "url": "https://www.archdaily.com/1056611/rcr-arquitectes-designs-new-paris-cultural-institution-large-on-ile-seguin",
-      "excerpt": "A new space dedicated to contemporary art on the Île Seguin, in the Greater Paris area, is opening in October 2026. The new cultural institution, named \"Large,\" will be housed in a building designed b",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/9181/f1d6/c301/8b80/7f73/large_jpg/rcr-arquitectes-designs-new-paris-cultural-institution-large-on-ile-seguin_12.jpg?1783468437",
+      "title": "Movement as a Design Principle for Workplace Seating",
+      "url": "https://www.archdaily.com/1042755/movement-as-a-design-principle-for-workplace-seating",
+      "excerpt": "For decades, professionals have accepted an uncomfortable reality: hours spent at a desk often result in stiff backs, constant shifting, and creeping mental fatigue. While conventional ergonomic seati",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e51c/3e62/7a01/88a6/1e9c/large_jpg/movement-as-a-design-principle-for-workplace-seating_15.jpg?1782375776",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Studio Campo Baeza and Maoda Win Competition to Design Ecuador's New National Museum in Quito",
+      "url": "https://www.archdaily.com/1092216/studio-campo-baeza-and-maoda-win-competition-to-design-ecuadors-new-national-museum-in-quito",
+      "excerpt": "Studio Campo Baeza, based in Madrid, together with Quito-based Maoda, has won the international competition to design the new National Museum of Ecuador (MUNA) in Quito. Their proposal, titled Echoes ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/0412/2be1/1201/c00e/9640/large_jpg/studio-campo-baeza-and-maoda-win-competition-to-design-ecuadors-new-national-museum-in-quito_1.jpg?1783497776",
       "today": true
     },
     {
@@ -314,36 +352,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "The Inheritance Problem: Urban Planning and Community Engagement in U.S. Cities",
-      "url": "https://www.archdaily.com/1042911/the-inheritance-problem-urban-planning-and-community-engagement-in-us-cities",
-      "excerpt": "Urban planning is often confused with adjacent disciplines: urban design, environmental policy, civic strategy, local politics, and data analytics. Truthfully, the overlap makes the field difficult to",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/14e3/8481/2b01/8af5/19e5/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_1.jpg?1782846697",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Misato Canoe Boathouse / STUDIO YY",
-      "url": "https://www.archdaily.com/1054025/misato-canoe-boathouse-studio-yy",
-      "excerpt": "For the 2030 Shimane National Sports Festival, an unconventional design proposal was carried out in Misato Town: the construction of a canoe boathouse incorporating Balinese architectural elements, to",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/db88/73b8/d401/8935/68d5/large_jpg/misato-canoe-boathouse-studio-yy_1.jpg?1783356346",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Ghost Gum House Extension / Adriano Pupilli Architects",
-      "url": "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
-      "excerpt": "Ghost Gum House is a playful re-imagination of a 1901 cottage located on a long, narrow site in Manly. A sculpted rear extension emerges from the original heritage home, articulated by a central court",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b46e/73b8/d422/330e/01c0/large_jpg/ghost-gum-house-extension-adriano-pupilli-architects_2.jpg?1783346372",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "展示・アート",
       "date": "2026.07.08",
@@ -352,15 +360,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.07",
-      "title": "Award-winning student projects from Interior Educators spotlight regenerative practice",
-      "url": "https://www.dezeen.com/2026/07/07/interior-educators-regenerative-practice-schoolshows/",
-      "excerpt": "Dezeen School Shows: a project informed by the structure of ant colony interiors is among the award-winning Interior Educators' projects. Also included is a project that explores how material choices ",
-      "today": false
     },
     {
       "source": "遠藤照明",
