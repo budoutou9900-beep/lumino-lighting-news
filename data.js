@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  15:15",
+  "fetchedAt": "2026.07.08  17:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -120,6 +120,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.08",
@@ -127,15 +136,6 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
       "today": true
     },
     {
@@ -154,6 +154,26 @@ window.LUMINO_DATA = {
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "lara tabet works with bacteria to produce living images at BMW’s arles exhibition",
+      "url": "https://www.designboom.com/art/lara-tabet-bacteria-living-images-bmw-rencontres-arles-le-corps-vitre-vitreous-body-exhibition-yasmine-chemali/",
+      "excerpt": "the lebanese artist cultures microorganisms collected from marseille’s waterways, allowing bacteria to transform photographic film into evolving glass installations.\nThe post lara tabet works with bac",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lara-tabet-bacteria-image-makers-bmw-exhibition-rencontres-arles-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "In conversation with Alexandra Cunningham Cameron, Judd Foundation’s first director of design",
+      "url": "https://www.wallpaper.com/design-interiors/alexandra-cunningham-cameron-the-judd-foundation",
+      "excerpt": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XxgsuZEDQcWFMuxUUZLqHn-1920-80.png",
       "today": true
     },
     {
@@ -216,13 +236,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
-      "title": "Acne Studios’ collaboration with perfume house Frédéric Malle expands into bath and body",
-      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/acne-studios-bath-body-line-frederic-malle",
-      "excerpt": "Following the launch of its first fragrance, Acne Studios unveils a new bath and body line, perfumed with the same signature scent. Perfumer Suzy Le Helley tells Wallpaper* the story behind the produc",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSeCKpCEGX7C3s3kgwDr3Y-2560-80.jpg",
+      "title": "ECC Creative / A Parallel Architecture",
+      "url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
+      "excerpt": "In the heart of East Austin's Cesar Chavez neighborhood, an abandoned auto parts warehouse is reborn not as mere structure but as a story of resilience, culture and sustainability. This transformation",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df7/0789/c600/018c/2a29/large_jpg/AD_ECC_Creative_-_Chase_Daniel__1_.jpg?1782943316",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Tidsmaskinen After-School Center  / BBP Arkitekter",
+      "url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
+      "excerpt": "Tidsmaskinen (The Time Machine) after-school center is an example of complementary architecture, consisting of three distinct buildings: a villa, a greenhouse and a tower, which together form a cohesi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/large_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Ghost Gum House Extension / Adriano Pupilli Architects",
+      "url": "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
+      "excerpt": "Ghost Gum House is a playful re-imagination of a 1901 cottage located on a long, narrow site in Manly. A sculpted rear extension emerges from the original heritage home, articulated by a central court",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b46e/73b8/d422/330e/01c0/large_jpg/ghost-gum-house-extension-adriano-pupilli-architects_2.jpg?1783346372",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Snøhetta's Shanghai Grand Opera House Nears Completion Ahead of October Opening",
+      "url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
+      "excerpt": "Snøhetta's Shanghai Grand Opera House has entered its final construction phase. Preparations are underway for the building's official opening on October 17, 2026, kicking off a performance season feat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/c9e7/bd37/c901/7ebd/b06b/large_jpg/snohettas-shanghai-grand-opera-house-enters-final-stage-and-announces-opening-date_2.jpg?1783351818",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Austria's 2027 Venice Architecture Biennale Pavilion Proposes a Shared Platform with Bosnia and Herzegovina",
+      "url": "https://www.archdaily.com/1054050/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina",
+      "excerpt": "Austria has announced Koncesija / Konzession / Concession(e) as its contribution to the 20th International Architecture Exhibition – La Biennale di Venezia. Curated by architects Adna Babahmetović and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/c8e8/54de/fb01/894b/b92c/large_jpg/austrias-2027-venice-architecture-biennale-pavilion-proposes-a-shared-platform-with-bosnia-and-herzegovina_1.jpg?1783417083",
       "today": true
     },
     {
@@ -264,16 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Amonti Chalets / Architekt Andreas Gruber",
-      "url": "https://www.archdaily.com/1054052/amonti-chalets-architekt-andreas-gruber",
-      "excerpt": "Nestled in the breathtaking Ahrntal Valley of South Tyrol, the Amonti Chalets blend traditional alpine craftsmanship with modern, sustainable design. The project consists of 23 exclusive chalet apartm",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/ea66/062b/6500/019a/ac09/large_jpg/03_Andreas-Gruber-Arch_AMONTI_IMG_1210_GW.jpg?1783425659",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.08",
@@ -290,56 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/there-is-nothing-convenient-about-my-work-lucy-sparrow-on-sewing-a-supermarket/",
       "excerpt": "more than 20,000 felt products trace how the supermarket changed when convenience entered the home. \nThe post ‘there is nothing convenient about my work’: lucy sparrow on sewing a supermarket appeared",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lucy-sparrow-beginning-of-convenience-felt-store-craft-designboom-0lucy-sparrow-beginning-of-convenience-felt-store-craft-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "giant flowers and twisting vines shape bureau betak’s enchanted garden for chanel",
-      "url": "https://www.designboom.com/design/giant-flowers-twisting-vines-bureau-betak-enchanted-garden-chanel/",
-      "excerpt": "oversized flowers, winding vines, and couture craftsmanship converge inside a theatrical landscape where set design and fashion become part of the same story.\nThe post giant flowers and twisting vines",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/giant-flowers-twisting-vines-bureau-betak-enchanted-garden-chanel-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "From Homes to Coffee Shops: Adaptive Reuse Projects Transforming Domestic History",
-      "url": "https://www.archdaily.com/1042938/from-homes-to-coffee-shops-adaptive-reuse-projects-transforming-domestic-history",
-      "excerpt": "In the twenty-first century agenda, adaptive reuse is understood as a creative and meaningful approach to the development of the built environment. In the face of an era marked by adaptation and trans",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/6991/cbaa/8c01/8a6e/d796/large_jpg/from-homes-to-coffee-shops-materials-aesthetics-and-designs-adapted-to-contemporary-life_3.jpg?1782999447",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "TU Munich Kinderoase Daycare / Kéré Architecture  + HK Architekten",
-      "url": "https://www.archdaily.com/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
-      "excerpt": "The Kinderoase an der TUM is a new daycare center on the campus of the Technical University of Munich (TUM). Conceived as a vertical kindergarten and built almost entirely in wood, the building offers",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/163e/25a9/f501/8a94/bc09/large_jpg/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt_1.jpg?1783436970",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Movement as a Design Principle for Workplace Seating",
-      "url": "https://www.archdaily.com/1042755/movement-as-a-design-principle-for-workplace-seating",
-      "excerpt": "For decades, professionals have accepted an uncomfortable reality: hours spent at a desk often result in stiff backs, constant shifting, and creeping mental fatigue. While conventional ergonomic seati",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3c/e51c/3e62/7a01/88a6/1e9c/large_jpg/movement-as-a-design-principle-for-workplace-seating_15.jpg?1782375776",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Studio Campo Baeza and Maoda Win Competition to Design Ecuador's New National Museum in Quito",
-      "url": "https://www.archdaily.com/1092216/studio-campo-baeza-and-maoda-win-competition-to-design-ecuadors-new-national-museum-in-quito",
-      "excerpt": "Studio Campo Baeza, based in Madrid, together with Quito-based Maoda, has won the international competition to design the new National Museum of Ecuador (MUNA) in Quito. Their proposal, titled Echoes ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/0412/2be1/1201/c00e/9640/large_jpg/studio-campo-baeza-and-maoda-win-competition-to-design-ecuadors-new-national-museum-in-quito_1.jpg?1783497776",
       "today": true
     },
     {
