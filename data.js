@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  17:24",
+  "fetchedAt": "2026.07.08  19:16",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -100,6 +100,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.08",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.08",
@@ -142,17 +152,8 @@ window.LUMINO_DATA = {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.08",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
+      "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
       "today": true
     },
@@ -174,6 +175,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/alexandra-cunningham-cameron-the-judd-foundation",
       "excerpt": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XxgsuZEDQcWFMuxUUZLqHn-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Snarkitecture creates \"unexpected\" playground in DC's National Building Museum",
+      "url": "https://www.dezeen.com/2026/07/08/national-building-museum-playground-snarkitecture/",
+      "excerpt": "Design studio Snarkitecture has designed an expansive playground in the Great Hall of the National Building Museum in Washington DC, USA, the largest indoor installation ever at the institution. Calle",
       "today": true
     },
     {
@@ -226,6 +236,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Aunt Val’s House / Márcio Flávio Motta",
+      "url": "https://www.archdaily.com/1054039/aunt-vals-house-marcio-flavio-motta",
+      "excerpt": "Located in a mountainous region with a highland tropical climate, this house sits at an elevation of 900 meters in the so-called \"upper city\" of Juiz de Fora.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/badf/062b/6500/019a/aba1/large_jpg/IMG_4823.jpg?1783347972",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.08",
@@ -243,16 +263,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
       "excerpt": "In the heart of East Austin's Cesar Chavez neighborhood, an abandoned auto parts warehouse is reborn not as mere structure but as a story of resilience, culture and sustainability. This transformation",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df7/0789/c600/018c/2a29/large_jpg/AD_ECC_Creative_-_Chase_Daniel__1_.jpg?1782943316",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Tidsmaskinen After-School Center  / BBP Arkitekter",
-      "url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
-      "excerpt": "Tidsmaskinen (The Time Machine) after-school center is an example of complementary architecture, consisting of three distinct buildings: a villa, a greenhouse and a tower, which together form a cohesi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/large_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
       "today": true
     },
     {
@@ -340,15 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/there-is-nothing-convenient-about-my-work-lucy-sparrow-on-sewing-a-supermarket/",
       "excerpt": "more than 20,000 felt products trace how the supermarket changed when convenience entered the home. \nThe post ‘there is nothing convenient about my work’: lucy sparrow on sewing a supermarket appeared",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lucy-sparrow-beginning-of-convenience-felt-store-craft-designboom-0lucy-sparrow-beginning-of-convenience-felt-store-craft-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Sthapati \"draws from Jodhpur's royal past\" for pastel-coloured airport",
-      "url": "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
-      "excerpt": "Architecture studio Sthapati took visual cues from local palaces and gateways for its expansion of the Jodhpur Airport in Rajasthan, India. Unlike the majority of airports, the distinctive form of the",
       "today": true
     },
     {
