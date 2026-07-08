@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  21:01",
+  "fetchedAt": "2026.07.08  23:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -177,6 +177,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Yano House / Peninsula Arquitetura",
+      "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
+      "excerpt": "Yano House was designed on a lot measuring 10 meters in width by 44 meters in length. The architectural approach is based on the arrangement of nine reinforced concrete porticoes, which span the short",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6901/4820/a46b/f91e/1cf2/ada6/large_jpg/casa-yano-peninsula-arquitetura_15.jpg?1761691723",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.08",
@@ -292,16 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
       "excerpt": "In the heart of East Austin's Cesar Chavez neighborhood, an abandoned auto parts warehouse is reborn not as mere structure but as a story of resilience, culture and sustainability. This transformation",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df7/0789/c600/018c/2a29/large_jpg/AD_ECC_Creative_-_Chase_Daniel__1_.jpg?1782943316",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Tidsmaskinen After-School Center  / BBP Arkitekter",
-      "url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
-      "excerpt": "Tidsmaskinen (The Time Machine) after-school center is an example of complementary architecture, consisting of three distinct buildings: a villa, a greenhouse and a tower, which together form a cohesi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/large_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
       "today": true
     },
     {
