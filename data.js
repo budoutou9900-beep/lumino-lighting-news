@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.09  21:18",
+  "fetchedAt": "2026.07.09  23:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -173,6 +173,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Alva House / Felipe Caboclo Arquitetura",
+      "url": "https://www.archdaily.com/1092334/alva-house-felipe-caboclo-arquitetura",
+      "excerpt": "Alva House was conceived based on a careful reading of the natural characteristics of the site, located on the shores of the Marimbondo Reservoir in Minas Gerais, Brazil. From the very first design de",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/bc9a/56cb/6000/01e1/6ece/large_jpg/9.jpg?1783479592",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "this futuristic turntable concept brings vinyl beyond nostalgia",
+      "url": "https://www.designboom.com/design/transparent-turntable-vinyl-sungwoo-choi/",
+      "excerpt": "rather than following the usual retro references of many turntables, choi proposes a cleaner and more technological object.\nThe post this futuristic turntable concept brings vinyl beyond nostalgia app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/transparent-turntable-vinyl-sungwoo-choi-01-818x614.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -272,16 +292,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "curving along lagoa de pataias, this sculptural museum proposal follows portugal’s lakeshore",
-      "url": "https://www.designboom.com/architecture/lagoa-de-pataias-sculptural-museum-proposal-portugal-lakeshore-lp-alexander-velgan/",
-      "excerpt": "circulation within the art museum’s areas unfolds as a continuous architectural promenade.\nThe post curving along lagoa de pataias, this sculptural museum proposal follows portugal’s lakeshore appeare",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/alexander-velgan-lp-museum-lagoa-de-pataias-portugal-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -327,16 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1080021/gulzars-residence-field-architects",
       "excerpt": "Design for human habitation and practices of the vernacular have evolved together over time. Field Architects focuses on these built-forms and their informative layers, such as local climate, food-hab",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/e445/66eb/7b06/9a2a/d320/large_jpg/gulzars-residence_2.jpg?1783489627",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Paul Clemence Captures Heatherwick Studio's West Bund Orbit Along Shanghai's Huangpu River",
-      "url": "https://www.archdaily.com/1092350/paul-clemence-captures-heatherwick-studios-west-bund-orbit-along-shanghais-huangpu-river",
-      "excerpt": "Photographer Paul Clemence has documented West Bund Orbit, Heatherwick Studio's public exhibition hall on Shanghai's West Bund waterfront, in a photo series exploring the project's evolving architectu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/6cf8/3e7a/3201/8af9/c5e6/large_jpg/paul-clemence-captures-heatherwick-studios-west-bund-orbit-along-shanghais-huangpu-river_5.jpg?1783590180",
       "today": true
     },
     {
