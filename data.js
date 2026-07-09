@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.09  08:23",
+  "fetchedAt": "2026.07.09  11:52",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "美術館・アート情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "fujitv.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "カナロコ": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,104 +37,134 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
+      "source": "GLOBAL PRODUCE",
       "cat": "国内情報",
       "date": "2026.07.09",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
+      "source": "美術館・アート情報",
+      "cat": "国内情報",
       "date": "2026.07.09",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "fujitv.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
+      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254473",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=258289",
       "excerpt": "",
       "today": true
     },
@@ -142,18 +172,116 @@ window.LUMINO_DATA = {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
-      "url": "https://www.ozmall.co.jp/summer/article/45784/",
+      "title": "山中湖 花の都公園「2025イルミネーションファンタジウム」開催！ライトアップ前には、ダイヤモンド富士の鑑賞も",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/44428/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "カナロコ",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "冬の夜 幻想的な世界が広がる イルミネーション・ライトアップ２０２５",
+      "url": "https://www.kanaloco.jp/news/culture/bunka/article-1230342.html",
       "excerpt": "",
+      "thumbnailUrl": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2025-12/yokohama_1.jpg?itok=NMg0iK6j",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "12 stylish travel essentials for a better-looking summer",
+      "url": "https://www.wallpaper.com/travel/summer-travel-essentials-2026",
+      "excerpt": "A design lover’s guide for packing slicker this season, from luggage to beauty and clever gadgets",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n9wcRMDbtk9bceMJJFBhAQ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Inside an Ontario cabin home so pristine it looks unreal",
+      "url": "https://www.wallpaper.com/architecture/residential/silver-heights-ontario-cabin-canada",
+      "excerpt": "A crisp, dark volume set against the white snow, this Ontario cabin, titled Silver Heights, seemingly floats over its landscape",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZgbNAmcVYVCvpg6gDBrzuf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "where folded canvas carries the memory of the hand: susan maddux",
+      "url": "https://www.designboom.com/art/where-folded-canvas-carries-the-memory-of-the-hand-susan-maddux/",
+      "excerpt": "the los angeles artist suggests that new artistic languages can emerge by returning to techniques that have long existed.\nThe post where folded canvas carries the memory of the hand: susan maddux appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/where-folded-canvas-carries-the-memory-of-the-hand-susan-maddux-designboom02.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "curving along lagoa de pataias, this sculptural museum proposal follows portugal’s lakeshore",
+      "url": "https://www.designboom.com/architecture/lagoa-de-pataias-sculptural-museum-proposal-portugal-lakeshore-lp-alexander-velgan/",
+      "excerpt": "the project is conceived as a sculptural architectural intervention that follows the natural geometry of the lakeshore.\nThe post curving along lagoa de pataias, this sculptural museum proposal follows",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466844/2026-07-08/contemporary-art-museum-at-lagoa-de-pataias-2-6a4eb15a87659.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Black timber and copper cloaks Sanctum nature retreat in Lithuanian woodland",
+      "url": "https://www.dezeen.com/2026/07/09/sanctum-retreat-arches/",
+      "excerpt": "Rows of steeply gabled cabins clad in black timber and copper define this nature therapy retreat, created in a woodland in Lithuania by architecture studio Arches. Named Sanctum, the retreat is nestle",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "RIBA announces best British buildings for 2026",
+      "url": "https://www.dezeen.com/2026/07/09/riba-national-awards-2026-uk/",
+      "excerpt": "The Royal Institute of British Architects has announced 32 winners of the National Awards 2026, with the majority located in London. Featured among the 32 winners announced by the Royal Institute of B",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "The story behind the design of the new EV performance star, the Peugeot E-208 GTi",
+      "url": "https://www.wallpaper.com/transportation/the-story-behind-the-design-of-the-new-ev-performance-star-the-peugeot-e-208-gti",
+      "excerpt": "Peugeot’s design director Matthias Hossann discusses the inspiration and innovation embodied by the all-new Peugeot E-208 GTi",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e5rcP54xts4nkvNBqV76fM-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "the indo-global dialogue: dropping western templates to give regional craft a voice",
+      "url": "https://www.designboom.com/architecture/indo-global-dialogue-regional-craft-room-for-dreams-podcast/",
+      "excerpt": "why does innovative regional design miss the headlines? three architects critique the historic lack of architectural storytelling in india\nThe post the indo-global dialogue: dropping western templates",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/facebook-2.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Formafantasma announced as ecology advisor to Serpentine Galleries",
+      "url": "https://www.dezeen.com/2026/07/09/formafantasma-ecology-advisor-serpentine-galleries/",
+      "excerpt": "Andrea Trimarchi and Simone Farresin of design studio Formafantasma have been named the first-ever lead research and development fellows of ecology for London's Serpentine Galleries. Beginning this su",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "gerard & kelly reinhabit modernist villa benkemoun in arles with site-specific performance",
+      "url": "https://www.designboom.com/architecture/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview/",
+      "excerpt": "the artists strip émile sala’s modernist house back and animate it through performance, allowing memory and daily rituals to become the exhibit.\nThe post gerard & kelly reinhabit modernist villa benke",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview-designboom-1200.jpg",
       "today": true
     },
     {
@@ -167,13 +295,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.09",
-      "title": "a modular cabin stands between river, forest, and mountains in argentine patagonia",
-      "url": "https://www.designboom.com/architecture/modular-cabin-river-forest-mountains-argentine-patagonia-plug-arquitectura-villa-meliquina/",
-      "excerpt": "the house combines prefabrication with a landscape-oriented design approach.\nThe post a modular cabin stands between river, forest, and mountains in argentine patagonia appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/plug-arquitectura-villa-meliquina-vacation-house-argentina-patagonia-designboom-1200.jpg",
+      "title": "Architecture fundamentally a human endeavour says panel at Trimble SketchUp talk in San Diego",
+      "url": "https://www.dezeen.com/2026/07/09/trimble-sketchup-talk-san-diego/",
+      "excerpt": "Human judgement and storytelling should remain central to architecture as artificial intelligence becomes increasingly embedded in the design process, according to a panel hosted by Trimble SketchUp a",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Paul Clemence Captures Heatherwick Studio's West Bund Orbit Along Shanghai's Huangpu River",
+      "url": "https://www.archdaily.com/1092350/paul-clemence-captures-heatherwick-studios-west-bund-orbit-along-shanghais-huangpu-river",
+      "excerpt": "Photographer Paul Clemence has documented West Bund Orbit, Heatherwick Studio's public exhibition hall on Shanghai's West Bund waterfront, in a photo series exploring the project's evolving architectu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/6cf8/3e7a/3201/8af9/c5e6/large_jpg/paul-clemence-captures-heatherwick-studios-west-bund-orbit-along-shanghais-huangpu-river_5.jpg?1783590180",
       "today": true
     },
     {
@@ -184,6 +321,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/the-dairy-echlin-london-uk",
       "excerpt": "New residential scheme The Dairy is tucked away in a quiet corner of Notting Hill and has everything going for it – design-led interiors by Echlin, a slice of London history, and location, location, l",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6yw2o3BqKReJxwkYsd8QVU-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Snøhetta's Shanghai Grand Opera House and Foster + Partners' New Neighbourhood in Seoul: This Week’s Review",
+      "url": "https://www.archdaily.com/1092348/snohettas-shanghai-grand-opera-house-and-foster-plus-partners-new-neighbourhood-in-seoul-this-weeks-review",
+      "excerpt": "This week belonged to the arts, with cultural architecture dominating headlines across the globe. Landmark buildings for major institutions advanced through important construction and design milestone",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/151e/8c51/7e01/8cc5/c055/large_jpg/this-weeks-review_2.jpg?1783567658",
       "today": true
     },
     {
@@ -206,16 +353,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Is Barrelhand’s Monolith the first watch designed for life in space?",
-      "url": "https://www.wallpaper.com/watches-jewellery/barrelhand-monolith-watch",
-      "excerpt": "Niche maker Barrelhand unites new technologies to create a mechanical watch designed specifically – from the ground up – for spaceflight. Might this be the first of many?",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pgLR7kwJ73nqLb74Uprj8A-1798-80.png",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -223,16 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092330/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects",
       "excerpt": "A mixed-use building integrating commercial facilities and residences, planned adjacent to Naka-Ikebukuro Park and located a two-minute walk from Ikebukuro Station East Exit. This project aimed to har",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/6a39/66eb/7b48/7e9f/b398/large_jpg/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects_3.jpg?1783523935",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "this hand-chiseled watch takes cues from ancient stone tools collected by brâncuși",
-      "url": "https://www.designboom.com/design/hand-chiseled-prehistoric-watch-ancient-stone-tools-anoma/",
-      "excerpt": "the london watchmaker reworks its sculptural triangular timepiece with hand-carved steel surfaces inspired by prehistoric artifacts and early human craftsmanship.\nThe post this hand-chiseled watch tak",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hand-chiseled-prehistoric-watch-ancient-stone-tools-anoma04-818x546.jpg",
       "today": true
     },
     {
@@ -256,35 +383,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Rimowa adds a deep midnight shade to its Original collection",
-      "url": "https://www.wallpaper.com/travel/rimowa-ink-blue-collection-release",
-      "excerpt": "The new Ink Blue collection spans the German luggage maker’s Original suitcases, Groove leather bags, denim travel accessories and an anodised aluminium card holder",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6hfbJFvDQ7867cTyc43eF4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "knitted sculptures by luna haverkorn only come to life when you use them",
-      "url": "https://www.designboom.com/design/knitted-sculptures-luna-haverkorn-life-interview/",
-      "excerpt": "these body-scale invite play, rest, and exploration, leaving their final function up to the person interacting with them.\nThe post knitted sculptures by luna haverkorn only come to life when you use t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/knitted-sculptures-luna-haverkorn-life-interview-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
-      "url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
-      "excerpt": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
@@ -292,73 +390,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
       "excerpt": "Located at the foothills of the Cayambe volcano, in the rural area of the eponymous city, the family land of almost four hectares has historically been dedicated to grazing, growing grasses and vegeta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/686f/da75/fa38/a000/0150/3415/large_jpg/Casa_Pukara_Eduardo_Espinosa_Garate_10.jpg?1752161006",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "MIDEA Science Center / Atelier Ma_BIAD",
-      "url": "https://www.archdaily.com/1041093/midea-science-center-atelier-ma-biad",
-      "excerpt": "Dedicated to scientific innovation and the China Science Awards, the Midea Science Exhibition Center translates the essence of technology into architectural form. Through an extreme simplicity of form",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69f2/68e1/c748/9401/89fb/9503/large_jpg/midea-science-center-atelier-ma-biad_3.jpg?1777494260",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Yano House / Peninsula Arquitetura",
-      "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
-      "excerpt": "Yano House was designed on a lot measuring 10 meters in width by 44 meters in length. The architectural approach is based on the arrangement of nine reinforced concrete porticoes, which span the short",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6901/4820/a46b/f91e/1cf2/ada6/large_jpg/casa-yano-peninsula-arquitetura_15.jpg?1761691723",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "lara tabet works with bacteria to produce living images at BMW’s arles exhibition",
-      "url": "https://www.designboom.com/art/lara-tabet-bacteria-living-images-bmw-rencontres-arles-le-corps-vitre-vitreous-body-exhibition-yasmine-chemali/",
-      "excerpt": "the lebanese artist cultures microorganisms collected from marseille’s waterways, allowing bacteria to transform photographic film into evolving glass installations.\nThe post lara tabet works with bac",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lara-tabet-bacteria-image-makers-bmw-exhibition-rencontres-arles-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "In conversation with Alexandra Cunningham Cameron, Judd Foundation’s first director of design",
-      "url": "https://www.wallpaper.com/design-interiors/alexandra-cunningham-cameron-the-judd-foundation",
-      "excerpt": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XxgsuZEDQcWFMuxUUZLqHn-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Snarkitecture creates \"unexpected\" playground in DC's National Building Museum",
-      "url": "https://www.dezeen.com/2026/07/08/national-building-museum-playground-snarkitecture/",
-      "excerpt": "Design studio Snarkitecture has designed an expansive playground in the Great Hall of the National Building Museum in Washington DC, USA, the largest indoor installation ever at the institution. Calle",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Wellbeing centre for women among projects from Florence Institute of Design International",
-      "url": "https://www.dezeen.com/2026/07/08/wellbeing-centre-for-women-florence-institute-of-design-international-schoolshows/",
-      "excerpt": "Dezeen School Shows: a women's wellbeing centre offering fitness services and therapy options is among the projects from Florence Institute of Design International. Also featured is a community hub fo",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Estudio Futuro renovates compact Argentinian home around terracotta-paved patios",
-      "url": "https://www.dezeen.com/2026/07/08/estudio-futuro-ph-gainza/",
-      "excerpt": "Argentinian architecture practice Estudio Futuro has refurbished PH Gainza, a 1950s house in Buenos Aires that contrasts its original concrete structure with crisp white-steel additions. The existing ",
       "today": false
     },
     {
