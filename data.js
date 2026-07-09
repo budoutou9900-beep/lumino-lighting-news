@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.09  00:17",
+  "fetchedAt": "2026.07.09  04:52",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "美術館・アート情報": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "japandesign.ne.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -80,80 +80,100 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.07.09",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "美術館・アート情報",
       "cat": "国内情報",
       "date": "2026.07.09",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
-      "source": "newscast.jp",
+      "source": "japandesign.ne.jp",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "宵の灯-あかりの工芸- デザイン・アートの展覧会 & イベント情報",
+      "url": "https://www.japandesign.ne.jp/event/yoinohi-ofsgallery/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.japandesign.ne.jp/wp/wp-content/uploads/2025/09/862753.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
-      "url": "https://www.ozmall.co.jp/summer/article/45784/",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254473",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=258289",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Is Barrelhand’s Monolith the first watch designed for life in space?",
+      "url": "https://www.wallpaper.com/watches-jewellery/barrelhand-monolith-watch",
+      "excerpt": "Niche maker Barrelhand unites new technologies to create a mechanical watch designed specifically – from the ground up – for spaceflight. Might this be the first of many?",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pgLR7kwJ73nqLb74Uprj8A-1798-80.png",
       "today": true
     },
     {
@@ -200,7 +220,7 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.07.08",
       "title": "Pukará House / El Sindicato Arquitectura",
-      "url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
+      "url": "https://www.archdaily.com/en/1034573/pukara-house-el-sindicato-arquitectura",
       "excerpt": "Located at the foothills of the Cayambe volcano, in the rural area of the eponymous city, the family land of almost four hectares has historically been dedicated to grazing, growing grasses and vegeta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/686f/da75/fa38/a000/0150/3415/large_jpg/Casa_Pukara_Eduardo_Espinosa_Garate_10.jpg?1752161006",
       "today": false
@@ -210,7 +230,7 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.07.08",
       "title": "MIDEA Science Center / Atelier Ma_BIAD",
-      "url": "https://www.archdaily.com/1041093/midea-science-center-atelier-ma-biad",
+      "url": "https://www.archdaily.com/en/1041093/midea-science-center-atelier-ma-biad",
       "excerpt": "Dedicated to scientific innovation and the China Science Awards, the Midea Science Exhibition Center translates the essence of technology into architectural form. Through an extreme simplicity of form",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69f2/68e1/c748/9401/89fb/9503/large_jpg/midea-science-center-atelier-ma-biad_3.jpg?1777494260",
       "today": false
@@ -220,7 +240,7 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.07.08",
       "title": "Yano House / Peninsula Arquitetura",
-      "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
+      "url": "https://www.archdaily.com/en/1035492/yano-house-peninsula-arquitetura",
       "excerpt": "Yano House was designed on a lot measuring 10 meters in width by 44 meters in length. The architectural approach is based on the arrangement of nine reinforced concrete porticoes, which span the short",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6901/4820/a46b/f91e/1cf2/ada6/large_jpg/casa-yano-peninsula-arquitetura_15.jpg?1761691723",
       "today": false
@@ -268,7 +288,7 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.07.08",
       "title": "Villas de San Pablo Cultural Center, Barranquilla / ETHZ + Alejandro Restrepo Montoya",
-      "url": "https://www.archdaily.com/1092228/villas-de-san-pablo-cultural-center-barranquilla-ethz-plus-alejandro-restrepo-montoya",
+      "url": "https://www.archdaily.com/en/1092228/villas-de-san-pablo-cultural-center-barranquilla-ethz-plus-alejandro-restrepo-montoya",
       "excerpt": "When Hubert Klumpner and Diego Ceresuela Wiesmann from ETH Zurich and Urbanthinktank_next, along with Alejandro Restrepo from UPB Medellín, became involved in the design of the Villas de San Pablo Cul",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/0109/56cb/6000/01e1/aa66/large_jpg/CCVSP_ETHZ_UPB_A_Arango__4_.jpg?1783497147",
       "today": false
@@ -304,21 +324,11 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "How Cities and Memory is turning the world’s everyday sounds into a global artwork",
-      "url": "https://www.wallpaper.com/travel/cities-and-memory-interview",
-      "excerpt": "Stuart Fowkes’ Cities and Memory has gathered 8,000 field recordings from 140 countries, creating a global sound map, capturing ideas of memory and place",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/d7pUntYVaR7e7pR4UX5CnK-1540-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.08",
       "title": "Aunt Val’s House / Márcio Flávio Motta",
-      "url": "https://www.archdaily.com/1054039/aunt-vals-house-marcio-flavio-motta",
+      "url": "https://www.archdaily.com/en/1054039/aunt-vals-house-marcio-flavio-motta",
       "excerpt": "Located in a mountainous region with a highland tropical climate, this house sits at an elevation of 900 meters in the so-called \"upper city\" of Juiz de Fora.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/badf/062b/6500/019a/aba1/large_jpg/IMG_4823.jpg?1783347972",
       "today": false
