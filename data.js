@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.09  11:52",
+  "fetchedAt": "2026.07.09  14:45",
   "sourceColors": {
-    "GLOBAL PRODUCE": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術館・アート情報": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "fujitv.co.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Yahoo!ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "カナロコ": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,134 +37,113 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "GLOBAL PRODUCE",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.07.09",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
+      "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
-      "cat": "国内情報",
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "fujitv.co.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
-      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.09",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "today": true
     },
@@ -172,19 +151,29 @@ window.LUMINO_DATA = {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.09",
-      "title": "山中湖 花の都公園「2025イルミネーションファンタジウム」開催！ライトアップ前には、ダイヤモンド富士の鑑賞も",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/44428/",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "カナロコ",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.09",
-      "title": "冬の夜 幻想的な世界が広がる イルミネーション・ライトアップ２０２５",
-      "url": "https://www.kanaloco.jp/news/culture/bunka/article-1230342.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2025-12/yokohama_1.jpg?itok=NMg0iK6j",
+      "title": "have you ever hugged a tree? monsieur plant wraps sculptural human arms around trees",
+      "url": "https://www.designboom.com/art/monsieur-plant-sculptural-human-arms-trees-tree-hug/",
+      "excerpt": "tree hug reflects on the relationship between time, landscape, and human presence.\nThe post have you ever hugged a tree? monsieur plant wraps sculptural human arms around trees appeared first on desig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/monsieur-plant-tree-hug-outdoor-installation-france-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Only fans: seven cool gadgets for ultra-compact personal airflow",
+      "url": "https://www.wallpaper.com/tech/compact-fans-and-cooling-gadgets",
+      "excerpt": "From handheld fans to personal air conditioners, these gadgets can help take the edge off a heatwave",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/58hy5L8eyskww6He53dcuc-1107-80.jpg",
       "today": true
     },
     {
@@ -223,8 +212,8 @@ window.LUMINO_DATA = {
       "date": "2026.07.09",
       "title": "curving along lagoa de pataias, this sculptural museum proposal follows portugal’s lakeshore",
       "url": "https://www.designboom.com/architecture/lagoa-de-pataias-sculptural-museum-proposal-portugal-lakeshore-lp-alexander-velgan/",
-      "excerpt": "the project is conceived as a sculptural architectural intervention that follows the natural geometry of the lakeshore.\nThe post curving along lagoa de pataias, this sculptural museum proposal follows",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466844/2026-07-08/contemporary-art-museum-at-lagoa-de-pataias-2-6a4eb15a87659.jpg",
+      "excerpt": "circulation within the art museum’s areas unfolds as a continuous architectural promenade.\nThe post curving along lagoa de pataias, this sculptural museum proposal follows portugal’s lakeshore appeare",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/alexander-velgan-lp-museum-lagoa-de-pataias-portugal-designboom-1200.jpg",
       "today": true
     },
     {
@@ -243,6 +232,16 @@ window.LUMINO_DATA = {
       "title": "RIBA announces best British buildings for 2026",
       "url": "https://www.dezeen.com/2026/07/09/riba-national-awards-2026-uk/",
       "excerpt": "The Royal Institute of British Architects has announced 32 winners of the National Awards 2026, with the majority located in London. Featured among the 32 winners announced by the Royal Institute of B",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "KOSMALT Housing Renovation / Atrium Architekti",
+      "url": "https://www.archdaily.com/1054033/kosmalt-housing-renovation-atrium-architekti",
+      "excerpt": "KOSMALT is originally the largest workers' dormitory of the Košice steelworks VSŽ, built in the 1960s according to the design of architects Ladislav Greč and Róbert Kandrík. The name of the building r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/0a00/73b8/d479/fe1b/c7aa/large_jpg/kosmalt-housing-renovation-atrium-architekti_1.jpg?1783368277",
       "today": true
     },
     {
@@ -285,13 +284,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.09",
-      "title": "ceramic wall inspired by termite mounds cools interiors without air conditioning",
-      "url": "https://www.designboom.com/design/ceramic-wall-termite-mounds-cools-interiors-without-air-conditioning/",
-      "excerpt": "inspired by termite mounds, the porous wall system uses a maze of interconnected channels to naturally circulate air.\nThe post ceramic wall inspired by termite mounds cools interiors without air condi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ceramic-wall-termite-mounds-cools-interiors-without-air-conditioning06-818x818.jpg",
+      "title": "The Politics of Bamboo: From Vernacular Craft to Temporal Infrastructure",
+      "url": "https://www.archdaily.com/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
+      "excerpt": "Bamboo is often praised before it is understood. It grows quickly, carries a long history of building cultures, and appears to offer architecture an immediate ecological language. In photographs, it c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/f184/bdfc/1a01/8a6a/3a8a/large_jpg/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure_2.jpg?1782903177",
       "today": true
     },
     {
@@ -301,6 +300,16 @@ window.LUMINO_DATA = {
       "title": "Architecture fundamentally a human endeavour says panel at Trimble SketchUp talk in San Diego",
       "url": "https://www.dezeen.com/2026/07/09/trimble-sketchup-talk-san-diego/",
       "excerpt": "Human judgement and storytelling should remain central to architecture as artificial intelligence becomes increasingly embedded in the design process, according to a panel hosted by Trimble SketchUp a",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Gulzar’s Residence / Field Architects",
+      "url": "https://www.archdaily.com/1080021/gulzars-residence-field-architects",
+      "excerpt": "Design for human habitation and practices of the vernacular have evolved together over time. Field Architects focuses on these built-forms and their informative layers, such as local climate, food-hab",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/e445/66eb/7b06/9a2a/d320/large_jpg/gulzars-residence_2.jpg?1783489627",
       "today": true
     },
     {
@@ -343,26 +352,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Four Seasons London at Park Lane gives its suites Mayfair cachet",
-      "url": "https://www.wallpaper.com/travel/hotels/four-seasons-london-at-park-lane-new-suites",
-      "excerpt": "The hotel’s refreshed suites draw on Hyde Park’s changing seasons, with private fireplaces, landscaped terraces and, naturally, five-star treatment",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mNcAjGemAYVs4bvhXjAeyN-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Clerestory Garden at Naka-Ikebukuro Park / KEY OPERATION INC. / ARCHITECTS",
-      "url": "https://www.archdaily.com/1092330/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects",
-      "excerpt": "A mixed-use building integrating commercial facilities and residences, planned adjacent to Naka-Ikebukuro Park and located a two-minute walk from Ikebukuro Station East Exit. This project aimed to har",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/6a39/66eb/7b48/7e9f/b398/large_jpg/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects_3.jpg?1783523935",
-      "today": true
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -371,26 +360,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Art Museum of AHUA / TJAD + DCA",
-      "url": "https://www.archdaily.com/1054066/art-museum-of-ahua-tjad-plus-dca",
-      "excerpt": "Campus Art settlements: Art Museum of AHUA — Nestled beside the central lake on the campus, the Art Museum of AHUA boasts superior natural scenery and serves as a key venue for exhibiting visual artwo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/51b9/25a9/f501/8a94/bd7a/large_jpg/art-museum-of-ahua-tjad-plus-dca_14.jpg?1783452109",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Pukará House / El Sindicato Arquitectura",
-      "url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
-      "excerpt": "Located at the foothills of the Cayambe volcano, in the rural area of the eponymous city, the family land of almost four hectares has historically been dedicated to grazing, growing grasses and vegeta",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/686f/da75/fa38/a000/0150/3415/large_jpg/Casa_Pukara_Eduardo_Espinosa_Garate_10.jpg?1752161006",
-      "today": false
     },
     {
       "source": "大光電機",
