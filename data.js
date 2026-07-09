@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.08  23:00",
+  "fetchedAt": "2026.07.09  00:17",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,31 +29,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.08",
+      "date": "2026.07.09",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.08",
+      "date": "2026.07.09",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -100,19 +100,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.08",
+      "date": "2026.07.09",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -122,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.08",
+      "date": "2026.07.09",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -130,18 +120,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.08",
+      "date": "2026.07.09",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -149,13 +130,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.08",
+      "date": "2026.07.09",
       "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
       "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.09",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "DNライトナビ システムメンテナンスのお知らせ",
+      "url": "https://www.dnlighting.co.jp/media/news/20260709",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Rimowa adds a deep midnight shade to its Original collection",
+      "url": "https://www.wallpaper.com/travel/rimowa-ink-blue-collection-release",
+      "excerpt": "The new Ink Blue collection spans the German luggage maker’s Original suitcases, Groove leather bags, denim travel accessories and an anodised aluminium card holder",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6hfbJFvDQ7867cTyc43eF4-2560-80.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -165,7 +184,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/knitted-sculptures-luna-haverkorn-life-interview/",
       "excerpt": "these body-scale invite play, rest, and exploration, leaving their final function up to the person interacting with them.\nThe post knitted sculptures by luna haverkorn only come to life when you use t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/knitted-sculptures-luna-haverkorn-life-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -174,7 +193,27 @@ window.LUMINO_DATA = {
       "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
       "url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
       "excerpt": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "Pukará House / El Sindicato Arquitectura",
+      "url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
+      "excerpt": "Located at the foothills of the Cayambe volcano, in the rural area of the eponymous city, the family land of almost four hectares has historically been dedicated to grazing, growing grasses and vegeta",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/686f/da75/fa38/a000/0150/3415/large_jpg/Casa_Pukara_Eduardo_Espinosa_Garate_10.jpg?1752161006",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.08",
+      "title": "MIDEA Science Center / Atelier Ma_BIAD",
+      "url": "https://www.archdaily.com/1041093/midea-science-center-atelier-ma-biad",
+      "excerpt": "Dedicated to scientific innovation and the China Science Awards, the Midea Science Exhibition Center translates the essence of technology into architectural form. Through an extreme simplicity of form",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69f2/68e1/c748/9401/89fb/9503/large_jpg/midea-science-center-atelier-ma-biad_3.jpg?1777494260",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -184,7 +223,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
       "excerpt": "Yano House was designed on a lot measuring 10 meters in width by 44 meters in length. The architectural approach is based on the arrangement of nine reinforced concrete porticoes, which span the short",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6901/4820/a46b/f91e/1cf2/ada6/large_jpg/casa-yano-peninsula-arquitetura_15.jpg?1761691723",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -194,7 +233,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/lara-tabet-bacteria-living-images-bmw-rencontres-arles-le-corps-vitre-vitreous-body-exhibition-yasmine-chemali/",
       "excerpt": "the lebanese artist cultures microorganisms collected from marseille’s waterways, allowing bacteria to transform photographic film into evolving glass installations.\nThe post lara tabet works with bac",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lara-tabet-bacteria-image-makers-bmw-exhibition-rencontres-arles-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -204,7 +243,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/alexandra-cunningham-cameron-the-judd-foundation",
       "excerpt": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XxgsuZEDQcWFMuxUUZLqHn-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -213,7 +252,7 @@ window.LUMINO_DATA = {
       "title": "Snarkitecture creates \"unexpected\" playground in DC's National Building Museum",
       "url": "https://www.dezeen.com/2026/07/08/national-building-museum-playground-snarkitecture/",
       "excerpt": "Design studio Snarkitecture has designed an expansive playground in the Great Hall of the National Building Museum in Washington DC, USA, the largest indoor installation ever at the institution. Calle",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -222,7 +261,7 @@ window.LUMINO_DATA = {
       "title": "Wellbeing centre for women among projects from Florence Institute of Design International",
       "url": "https://www.dezeen.com/2026/07/08/wellbeing-centre-for-women-florence-institute-of-design-international-schoolshows/",
       "excerpt": "Dezeen School Shows: a women's wellbeing centre offering fitness services and therapy options is among the projects from Florence Institute of Design International. Also featured is a community hub fo",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -232,7 +271,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092228/villas-de-san-pablo-cultural-center-barranquilla-ethz-plus-alejandro-restrepo-montoya",
       "excerpt": "When Hubert Klumpner and Diego Ceresuela Wiesmann from ETH Zurich and Urbanthinktank_next, along with Alejandro Restrepo from UPB Medellín, became involved in the design of the Villas de San Pablo Cul",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/0109/56cb/6000/01e1/aa66/large_jpg/CCVSP_ETHZ_UPB_A_Arango__4_.jpg?1783497147",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -242,7 +281,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/alaia-miami-store-design-halleroed",
       "excerpt": "Designed by Swedish studio Halleroed, the new store in Miami’s Design District captures the spirit of the Parisian house – one of effortless sensuality and rigorous  craft",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7kDunG57MkEXmacQqBSMJN-2400-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -252,7 +291,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/transformation-unused-wastewater-facility-public-cultural-hub-korea-be-fore-a-co-lab/",
       "excerpt": "five condensing tanks are transformed into an open sequence of interconnected spaces.\nThe post inside the transformation of an unused wastewater facility into a public cultural hub in korea appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/be-fore-renovation-a-co-lab-former-sewage-treatment-plant-korea-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -262,7 +301,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/the-veggery-greenhouse-pavilion-london-uk",
       "excerpt": "The Veggery has launched to inspire a passion for gardening and mark the closure of the 2026 London Festival of Architecture",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UhaEEdhAPhDH9L36rGnKS9-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -272,7 +311,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/cities-and-memory-interview",
       "excerpt": "Stuart Fowkes’ Cities and Memory has gathered 8,000 field recordings from 140 countries, creating a global sound map, capturing ideas of memory and place",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/d7pUntYVaR7e7pR4UX5CnK-1540-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -282,37 +321,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1054039/aunt-vals-house-marcio-flavio-motta",
       "excerpt": "Located in a mountainous region with a highland tropical climate, this house sits at an elevation of 900 meters in the so-called \"upper city\" of Juiz de Fora.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/badf/062b/6500/019a/aba1/large_jpg/IMG_4823.jpg?1783347972",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Anatomy of a logo: Chateau Marmont",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/chateau-marmont-logo-story",
-      "excerpt": "The Los Angeles hotel’s storied past is reflected in its timeless logo, a typemark set in calligraphic strokes that invoke a script first used by biblical scribes",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/D8w6tf5fSkPgK3AeVJ8chJ-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "ECC Creative / A Parallel Architecture",
-      "url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
-      "excerpt": "In the heart of East Austin's Cesar Chavez neighborhood, an abandoned auto parts warehouse is reborn not as mere structure but as a story of resilience, culture and sustainability. This transformation",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/8df7/0789/c600/018c/2a29/large_jpg/AD_ECC_Creative_-_Chase_Daniel__1_.jpg?1782943316",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.08",
-      "title": "Ghost Gum House Extension / Adriano Pupilli Architects",
-      "url": "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
-      "excerpt": "Ghost Gum House is a playful re-imagination of a 1901 cottage located on a long, narrow site in Manly. A sculpted rear extension emerges from the original heritage home, articulated by a central court",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b46e/73b8/d422/330e/01c0/large_jpg/ghost-gum-house-extension-adriano-pupilli-architects_2.jpg?1783346372",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -322,7 +331,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/handmade-elephant-dung-bricks-goya-tower-southern-thailand/",
       "excerpt": "the observation tower invites visitors to climb through a sequence of cylindrical columns, curved walkways, light, and shadow.\nThe post handmade elephant-dung bricks make boonserm premthada’s goya tow",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/Goya-Tower-22-818x545.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -331,7 +340,7 @@ window.LUMINO_DATA = {
       "title": "Estudio Futuro renovates compact Argentinian home around terracotta-paved patios",
       "url": "https://www.dezeen.com/2026/07/08/estudio-futuro-ph-gainza/",
       "excerpt": "Argentinian architecture practice Estudio Futuro has refurbished PH Gainza, a 1950s house in Buenos Aires that contrasts its original concrete structure with crisp white-steel additions. The existing ",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -340,7 +349,7 @@ window.LUMINO_DATA = {
       "title": "Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\"",
       "url": "https://www.dezeen.com/2026/07/08/yinka-ilori-dunelm-collection/",
       "excerpt": "British-Nigerian designer Yinka Ilori has brought a retro 1970s feeling to chairs, rugs, beds, lamps and cushions as part of a 40-piece collection for high-street furniture retailer Dunelm. Launched t",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -350,7 +359,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/hiplok-compact-modular-locking-system-next-generation-bike-security-l1000/",
       "excerpt": "hiplok L1000 link combines the flexibility of a chain with the resistance of a hardened D lock.\nThe post hiplok introduces a compact modular locking system for next-generation bike security appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hiplok-l1000-anti-angle-grinder-security-link-d-lock-protection-bike-designboom-1200-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -360,7 +369,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
@@ -589,16 +598,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/78558/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.06.01",
-      "title": "事例インタビュー「地下空間へ光を導く都市住宅「The Sunken Retreat」｜建築と一体でつくる光の設計」を公開しました。",
-      "url": "https://www.dnlighting.co.jp/media/news/20260601",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
