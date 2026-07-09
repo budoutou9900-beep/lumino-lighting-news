@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.09  19:29",
+  "fetchedAt": "2026.07.09  21:18",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -142,6 +142,16 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "cecilia vicuña weaves a monumental quipu for a disappearing world",
+      "url": "https://www.designboom.com/art/cecilia-vicuna-monumental-quipu-disappearing-world-el-glaciar-ido-marcella-beccaria/",
+      "excerpt": "the chilean artist’s first solo museum exhibition in italy transforms the quipu into a monumental installation woven from indigenous knowledge and collective participation.\nThe post cecilia vicuña wea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cecilia-vicuna-monumental-quipu-disappearing-world-el-glaciar-ido-marcella-beccaria-designboom-1200.jpg",
       "today": true
     },
     {
@@ -297,16 +307,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1054033/kosmalt-housing-renovation-atrium-architekti",
       "excerpt": "KOSMALT is originally the largest workers' dormitory of the Košice steelworks VSŽ, built in the 1960s according to the design of architects Ladislav Greč and Róbert Kandrík. The name of the building r",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/0a00/73b8/d479/fe1b/c7aa/large_jpg/kosmalt-housing-renovation-atrium-architekti_1.jpg?1783368277",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "the indo-global dialogue: dropping western templates to give regional craft a voice",
-      "url": "https://www.designboom.com/architecture/indo-global-dialogue-regional-craft-room-for-dreams-podcast/",
-      "excerpt": "why does innovative regional design miss the headlines? three architects critique the historic lack of architectural storytelling in india\nThe post the indo-global dialogue: dropping western templates",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/facebook-2.jpg",
       "today": true
     },
     {
