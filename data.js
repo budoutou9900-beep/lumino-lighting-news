@@ -1,63 +1,63 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.09  14:45",
+  "fetchedAt": "2026.07.09  17:18",
   "sourceColors": {
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -68,17 +68,18 @@ window.LUMINO_DATA = {
     "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
+    {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.07.09",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -148,12 +149,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.09",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "mycelium to algae, this digital archive gathers sustainable materials for creative practices",
+      "url": "https://www.designboom.com/design/mycelium-algae-digital-archive-sustainable-materials-creative-practices/",
+      "excerpt": "practitioners around the world have contributed to this data base, proposing alternative development materials for application in art and design.\nThe post mycelium to algae, this digital archive gathe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/sub-folder-test-designboom-02.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Anatomy of a logo: IBM by Paul Rand",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/ibm-logo-design-paul-rand",
+      "excerpt": "Fuelled by a tech nostalgia and austere futurism, we look at the story of Paul Rand's IBM logo",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JKEGwyqm3ZBAT487DP9TzQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "The very best of Haute Couture Week A/W 2026",
+      "url": "https://www.wallpaper.com/fashion-beauty/haute-couture-week-aw-2026-best-shows",
+      "excerpt": "Wallpaper* picks the defining shows of Haute Couture Week, seeing designers like Pierpaolo Piccioli and Duran Lantink –at Balenciaga and Jean Paul Gaultier respectively – breathe new life into the his",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XWKkSS9PixQ69i3ZUSsfW9-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "A Thai tower is made from one unexpected material – elephant dung",
+      "url": "https://www.wallpaper.com/architecture/goya-thai-tower-boonserm-premthada-thailand",
+      "excerpt": "Constructed from elephant-dung bricks, a Thai tower by architect and artist Boonserm Premthada transforms what elephants leave behind into stunning architecture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WuqBiLYuXSeewhUWbDCHSn-2519-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Housing that adapts to wildfire risk among projects from University of Southern California",
+      "url": "https://www.dezeen.com/2026/07/09/housing-wildfires-among-projects-from-university-of-southern-california-schoolshows/",
+      "excerpt": "Dezeen School Shows: a housing proposal in the Pacific Palisades, which tackles the area's wildfire risk, is among the projects from the University of Southern California. Also featured are accessibil",
       "today": true
     },
     {
@@ -183,17 +224,7 @@ window.LUMINO_DATA = {
       "title": "12 stylish travel essentials for a better-looking summer",
       "url": "https://www.wallpaper.com/travel/summer-travel-essentials-2026",
       "excerpt": "A design lover’s guide for packing slicker this season, from luggage to beauty and clever gadgets",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n9wcRMDbtk9bceMJJFBhAQ-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Inside an Ontario cabin home so pristine it looks unreal",
-      "url": "https://www.wallpaper.com/architecture/residential/silver-heights-ontario-cabin-canada",
-      "excerpt": "A crisp, dark volume set against the white snow, this Ontario cabin, titled Silver Heights, seemingly floats over its landscape",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZgbNAmcVYVCvpg6gDBrzuf-2560-80.jpg",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3bvx9ENYXqC3YDQL2V2S3Z-1280-80.jpg",
       "today": true
     },
     {
@@ -245,16 +276,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "The story behind the design of the new EV performance star, the Peugeot E-208 GTi",
-      "url": "https://www.wallpaper.com/transportation/the-story-behind-the-design-of-the-new-ev-performance-star-the-peugeot-e-208-gti",
-      "excerpt": "Peugeot’s design director Matthias Hossann discusses the inspiration and innovation embodied by the all-new Peugeot E-208 GTi",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/e5rcP54xts4nkvNBqV76fM-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -271,16 +292,6 @@ window.LUMINO_DATA = {
       "title": "Formafantasma announced as ecology advisor to Serpentine Galleries",
       "url": "https://www.dezeen.com/2026/07/09/formafantasma-ecology-advisor-serpentine-galleries/",
       "excerpt": "Andrea Trimarchi and Simone Farresin of design studio Formafantasma have been named the first-ever lead research and development fellows of ecology for London's Serpentine Galleries. Beginning this su",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "gerard & kelly reinhabit modernist villa benkemoun in arles with site-specific performance",
-      "url": "https://www.designboom.com/architecture/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview/",
-      "excerpt": "the artists strip émile sala’s modernist house back and animate it through performance, allowing memory and daily rituals to become the exhibit.\nThe post gerard & kelly reinhabit modernist villa benke",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview-designboom-1200.jpg",
       "today": true
     },
     {
@@ -323,16 +334,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "A reimagined former dairy offers west London’s newest boltholes to covet",
-      "url": "https://www.wallpaper.com/architecture/residential/the-dairy-echlin-london-uk",
-      "excerpt": "New residential scheme The Dairy is tucked away in a quiet corner of Notting Hill and has everything going for it – design-led interiors by Echlin, a slice of London history, and location, location, l",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6yw2o3BqKReJxwkYsd8QVU-2500-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -340,15 +341,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092348/snohettas-shanghai-grand-opera-house-and-foster-plus-partners-new-neighbourhood-in-seoul-this-weeks-review",
       "excerpt": "This week belonged to the arts, with cultural architecture dominating headlines across the globe. Landmark buildings for major institutions advanced through important construction and design milestone",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/151e/8c51/7e01/8cc5/c055/large_jpg/this-weeks-review_2.jpg?1783567658",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Lego creates giant World Cup trophy from 1.3 million bricks",
-      "url": "https://www.dezeen.com/2026/07/09/lego-giant-world-cup-trophy/",
-      "excerpt": "Toy brand Lego has unveiled an 8.4-metre-high replica of the World Cup trophy outside the Rockefeller Center in New York. Built from over a million bricks, the oversized World Cup was built at the fan",
       "today": true
     },
     {
@@ -412,16 +404,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -452,46 +434,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -499,16 +441,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -542,35 +474,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -578,26 +481,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     },
     {
