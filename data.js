@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.10  16:22",
+  "fetchedAt": "2026.07.10  18:20",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "newscast.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,41 +41,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -86,6 +82,7 @@ window.LUMINO_DATA = {
       "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
       "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
       "excerpt": "",
+      "thumbnailUrl": "https://s.eximg.jp/exnews/feed/Prtimes/57/Prtimes_2026-07-10-104980-22/Prtimes_2026-07-10-104980-22_1.jpg",
       "today": true
     },
     {
@@ -112,30 +109,20 @@ window.LUMINO_DATA = {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.10",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.10",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.07.10",
+      "title": "豊郷小学校旧校舎群ライトアップ＆イルミネーション2025｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2045917/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/9f/2045917/img_1.jpg?1764560379&p=t&w=1200",
       "today": true
     },
     {
@@ -148,13 +135,82 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.10",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.10",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.10",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.10",
+      "title": "京都の妙心寺でライトアップイベント12/15～25開催 世界で唯一の光彫りアーティストゆるかわふうとコラボ",
+      "url": "https://newscast.jp/smart/news/1554892",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/D700GlInWoxd6YXSNlJJ.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Wallpaper* checks in at Orient Express Venezia, the Floating City’s most theatrical new address",
+      "url": "https://www.wallpaper.com/travel/hotels/orient-express-venezia-review",
+      "excerpt": "In the unpolished heart of Cannaregio, a glittering diamond: a 15th-century palazzo transformed by designer Aline Asmar d'Amman into one of Venice's most spectacular hotels",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/W7uZZf7FkABa6DcBvT48Xj-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Inside a Primrose Hill house designed to not look designed",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/studio-iro-primrose-hill-house",
+      "excerpt": "Studio Iro's brief was almost paradoxical: in this three-storey London home, the designers resisted the urge to over-curate, layering indigo tones, tactile limewash and the clients' existing modernist",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/56WRP4JgQAVnxHsGCFYooi-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "oorvi sharma believes craftsmanship is key to building resilient futures",
+      "url": "https://www.designboom.com/design/oorvi-sharma-craftsmanship-key-resilient-futures-essay/",
+      "excerpt": "the curator and designer argues that the future of making depends on embedding artisanal knowledge within contemporary systems of cultural production.\nThe post oorvi sharma believes craftsmanship is k",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/oorvi-sharma-craftsmanship-key-resilient-futures-essay-designboom-1200.jpg",
       "today": true
     },
     {
@@ -293,16 +349,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "miniature OLED display loops the matrix’s cascading green code inside a signet ring",
-      "url": "https://www.designboom.com/technology/miniature-oled-display-matrix-cascading-green-code-signet-ring-daniel-idle/",
-      "excerpt": "daniel idle’s digital rain ring transforms one of cinema’s most recognizable digital interfaces into a wearable object.\nThe post miniature OLED display loops the matrix’s cascading green code inside a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/miniature-oled-display-matrix-cascading-green-code-signet-ring-daniel-idle-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.10",
@@ -310,16 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/outdoor-showers",
       "excerpt": "These outdoor showers are perfect to combat extreme heat (or equip your garden for the summer), combining refined design with a practical purpose",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DtgNjWMMBrMvmYgXTmQjmA-2422-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "The new DS No.7 finally makes good on the brand’s promise of Gallic luxury and charm",
-      "url": "https://www.wallpaper.com/transportation/ds-no-7-review",
-      "excerpt": "Angular, eccentric, and wilfully different, the DS No.7 is the newest upscale SUV from the premium French carmaker. We take a trip to Provence to try the hybrid and electric variants",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fe2jkvaGKQ64jtEMdouH6D-2560-80.jpg",
       "today": true
     },
     {
@@ -340,16 +376,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1054065/villa-crocodile-localarchitecture",
       "excerpt": "Following the completion of the new Swiss Embassy in Ivory Coast in 2016, LOCALARCHITECTURE continues its work in Abidjan with the Swiss Embassy Deputy Chief of Mission Residence. The project responds",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/4a45/25af/6b00/019d/0906/large_jpg/LOCAL_ABIDJAN_CROCODILE_LD_11_daaily.jpg?1783450227",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "This Tinos house revels in its imperfection, set on an ancient Greek island landscape",
-      "url": "https://www.wallpaper.com/architecture/residential/tinos-house-kelly-spanou-greece",
-      "excerpt": "Tour a compact design gem set on rugged Greek island terrain, expertly designed by Athens-based architect Kelly Spanou",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CxUCrG2FzD4FgbUoA5qjAc-1600-80.jpg",
       "today": true
     },
     {
@@ -413,16 +439,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -453,46 +469,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -500,16 +476,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -543,35 +509,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -579,26 +516,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
