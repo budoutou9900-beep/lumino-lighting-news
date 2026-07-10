@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.10  06:39",
+  "fetchedAt": "2026.07.10  10:20",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -172,6 +172,74 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Why everyone likes the Theodore Roosevelt Presidential Library",
+      "url": "https://www.dezeen.com/2026/07/10/theodore-roosevelt-library-yinka-ilori-dunelm-dezeen-weekly-podcast/",
+      "excerpt": "How did the Theodore Roosevelt Presidential Library manage to sidestep America's architecture culture war? And is affordable design having a moment? Listen to the latest episode of Dezeen Weekly now. ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "‘design is no longer hostage to the tool’: STILFOLD creates industrial origami from flat metal",
+      "url": "https://www.designboom.com/design/stilfold-curved-folding-metal-interview/",
+      "excerpt": "episode four of ‘navigators of design’ introduces the innovators of STILFOLD, a platform that transforms flat sheet metal into high-performance structures. \nThe post ‘design is no longer hostage to th",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/stilfold_designbom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Nemo Lighting’s Milan space is like a surrealist  treasure hunt",
+      "url": "https://www.wallpaper.com/design-interiors/nemo-lightening-new-milan-showroom",
+      "excerpt": "Ron Gilad transforms the lighting brand’s Milan showroom into a journey of illuminated curiosity and discovery",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DWZbfrCxVgYU4pKQrCKjVN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "miniature OLED display loops the matrix’s cascading green code inside a signet ring",
+      "url": "https://www.designboom.com/technology/miniature-oled-display-matrix-cascading-green-code-signet-ring-daniel-idle/",
+      "excerpt": "daniel idle’s digital rain ring transforms one of cinema’s most recognizable digital interfaces into a wearable object.\nThe post miniature OLED display loops the matrix’s cascading green code inside a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/miniature-oled-display-matrix-cascading-green-code-signet-ring-daniel-idle-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "These outdoor showers are the perfect way to cool off this summer",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/outdoor-showers",
+      "excerpt": "These outdoor showers are perfect to combat extreme heat (or equip your garden for the summer), combining refined design with a practical purpose",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DtgNjWMMBrMvmYgXTmQjmA-2422-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "The new DS No.7 finally makes good on the brand’s promise of Gallic luxury and charm",
+      "url": "https://www.wallpaper.com/transportation/ds-no-7-review",
+      "excerpt": "Angular, eccentric, and wilfully different, the DS No.7 is the newest upscale SUV from the premium French carmaker. We take a trip to Provence to try the hybrid and electric variants",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fe2jkvaGKQ64jtEMdouH6D-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Iris van Herpen injects glass-covered gown with glowing plasma",
+      "url": "https://www.dezeen.com/2026/07/10/iris-van-herpen-glass-gown-glowing-plasma/",
+      "excerpt": "Dutch fashion designer Iris van Herpen has unveiled her Helix Nebula dress during Paris Couture Week, featuring plasma-filled glass horns that light up in response to human touch. Debuted as part of V",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.10",
@@ -182,12 +250,41 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "MoMA Opens Architects of Liberation Exhibition on Independence-Era West African Modernism",
+      "url": "https://www.archdaily.com/1054027/moma-opens-architects-of-liberation-exhibition-on-independence-era-west-african-modernism",
+      "excerpt": "The Museum of Modern Art in New York inaugurated the exhibition Architects of Liberation: Modernism in Western Africa on July 5, 2026, on view through January 2, 2027. The exhibition examines African ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/c196/73b8/d401/8935/6820/large_jpg/architects-of-liberation-modernism-in-western-africa_8.jpg?1783349665",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Imago audio player lights a path for ethical AI use in music",
+      "url": "https://www.dezeen.com/2026/07/10/imago-audio-player-ai-music/",
+      "excerpt": "Central Saint Martins graduates Domenico di Paolo and Kieran Feechan have created a novel listening device in the form of Imago, which turns a critical eye on the use of AI in music. Looking a bit lik",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.10",
       "title": "Prize giveaway: win the Marisfrolg Gardens book by Architecture van Brandenburg",
       "url": "https://www.dezeen.com/2026/07/10/giveaway-marisfrolg-gardens-book-architecture-van-brandenburg/",
       "excerpt": "Prize giveaway: for our latest competition, New Zealand studio Architecture van Brandenburg is offering Dezeen readers the chance to win a copy of its new Marisfrolg Gardens monograph. Five lucky read",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Building as Sculpture: 5 Unbuilt Museum Projects from the ArchDaily Community",
+      "url": "https://www.archdaily.com/1054036/building-as-sculpture-5-unbuilt-museum-projects-from-the-archdaily-community",
+      "excerpt": "The concept of the museum has historically prompted reflections on identity, representation, and institutional frameworks. At present, museums are conceived as increasingly complex spaces, combining e",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/a4bd/5d2a/a901/883d/874a/large_jpg/6-unbuilt-museum-projects-from-the-archdaily-community_30.jpg?1783473369",
       "today": true
     },
     {
@@ -214,21 +311,31 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.10",
-      "title": "House Awasi / Caceres + Tous",
-      "url": "https://www.archdaily.com/1092360/house-awasi-caceres-plus-tous",
-      "excerpt": "House Awasi is located on the picturesque island of Lombok, Indonesia, where the island's rich cultural heritage adds depth to its natural beauty. As the home of the Sasak people, Lombok showcases a u",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/83a5/3e7a/3201/8af9/c700/large_jpg/house-awasi-caceres-plus-tous_6.jpg?1783595976",
+      "title": "The Art House / Spaces Architects@ka",
+      "url": "https://www.archdaily.com/1092365/the-art-house-spaces-architects-at-ka",
+      "excerpt": "The Art House in New Delhi is conceived as a response to a rare brief that called for complete originality. The client, a prominent entrepreneur with a strong inclination toward individuality, sought ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/99cf/8c51/7e01/8cc5/c3a5/large_jpg/the-art-house-spaces-architects-at-ka_2.jpg?1783601655",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Contemporary Chinese Architecture in Continuous Evolution and Transformation: An Interview with Liu Yulong of THAD",
-      "url": "https://www.archdaily.com/1092436/contemporary-chinese-architecture-in-continuous-evolution-and-transformation-an-interview-with-liu-yulong-of-thad",
-      "excerpt": "Thirty years later, the UIA World Congress of Architects returns to Barcelona. Coinciding with the centenary of Antoni Gaudí’s passing, history and the present converge in this city, lending this year",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/b3df/ec97/ec01/885c/119d/large_jpg/chi-xu-sheng-cheng-yu-zhuan-xing-zhong-de-dang-dai-zhong-guo-jian-zhu-zhuan-fang-thad-liu-yu-long_1.jpg?1783608316",
-      "today": false
+      "date": "2026.07.10",
+      "title": "The Gentle House / the Stylesmiths",
+      "url": "https://www.archdaily.com/1092361/the-gentle-house-the-stylesmiths",
+      "excerpt": "It begins with a quiet misdirection. From the outside, this Brunswick home reads as a dark, composed silhouette, black timber cladding and crisp geometry holding their ground against the suburb's easy",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/8b7c/49a5/ed00/0187/3fbb/large_jpg/The-Stylesmiths-Brunswick-11--2880px.jpg?1783597967",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Reclaiming Architecture's Local Voice",
+      "url": "https://www.archdaily.com/1092397/reclaiming-architectures-local-voice",
+      "excerpt": "Some of the world's most innovative regional architecture never makes the headlines simply because no one is telling its story. For the sixth episode of the Room For Dreams podcast, recorded live at M",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/e485/2fe9/f301/89c0/0814/large_jpg/architecture-needs-stories-as-much-as-buildings_3.jpg?1783620751",
+      "today": true
     },
     {
       "source": "designboom",
@@ -241,41 +348,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Casa TG / LOTE STUDIO",
-      "url": "https://www.archdaily.com/1092233/casa-tg-lote-studio",
-      "excerpt": "Located on the coastal edge of Punta Hueso in Chile's Coquimbo Region, Casa TG was designed with a premise of minimal intervention on the territory. Set on a plot featuring native vegetation and stron",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/0dd9/56cb/6000/01e1/b624/large_jpg/00_LoteStudio_DSCF6803.jpg?1783500310",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.09",
       "title": "Liz Gálvez \"reframes\" air conditioning with shade pavilion in Los Angeles",
       "url": "https://www.dezeen.com/2026/07/09/liz-galvez-shade-pavilion-los-angeles-earthen-comforts/",
       "excerpt": "Architect Liz Gálvez has created a pavilion in the courtyard of Los Angeles cultural organisations Materials & Applications and Craft Contemporary using cord and earthen blocks to showcase the potenti",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Dezeen Agenda features Theodore Roosevelt Presidential Library by Snøhetta",
-      "url": "https://www.dezeen.com/2026/07/09/dezeen-agenda-theodore-roosevelt-presidential-library-snohetta-north-dakota/",
-      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features the Theodore Roosevelt Presidential Library in North Dakota. Located outside Medora, North Dakota, the 95,000-square-foot library ble",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Alva House / Felipe Caboclo Arquitetura",
-      "url": "https://www.archdaily.com/1092334/alva-house-felipe-caboclo-arquitetura",
-      "excerpt": "Alva House was conceived based on a careful reading of the natural characteristics of the site, located on the shores of the Marimbondo Reservoir in Minas Gerais, Brazil. From the very first design de",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/bc9a/56cb/6000/01e1/6ece/large_jpg/9.jpg?1783479592",
       "today": false
     },
     {
@@ -286,84 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/transparent-turntable-vinyl-sungwoo-choi/",
       "excerpt": "rather than following the usual retro references of many turntables, choi proposes a cleaner and more technological object.\nThe post this futuristic turntable concept brings vinyl beyond nostalgia app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/transparent-turntable-vinyl-sungwoo-choi-01-818x614.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "mycelium to algae, this digital archive gathers sustainable materials for creative practices",
-      "url": "https://www.designboom.com/design/mycelium-algae-digital-archive-sustainable-materials-creative-practices/",
-      "excerpt": "practitioners around the world have contributed to this data base, proposing alternative development materials for application in art and design.\nThe post mycelium to algae, this digital archive gathe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/sub-folder-test-designboom-02.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Anatomy of a logo: IBM by Paul Rand",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/ibm-logo-design-paul-rand",
-      "excerpt": "Fuelled by a tech nostalgia and austere futurism, we look at the story of Paul Rand's IBM logo",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JKEGwyqm3ZBAT487DP9TzQ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "The very best of Haute Couture Week A/W 2026",
-      "url": "https://www.wallpaper.com/fashion-beauty/haute-couture-week-aw-2026-best-shows",
-      "excerpt": "Wallpaper* picks the defining shows of Haute Couture Week, seeing designers like Pierpaolo Piccioli and Duran Lantink –at Balenciaga and Jean Paul Gaultier respectively – breathe new life into the his",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XWKkSS9PixQ69i3ZUSsfW9-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "A Thai tower is made from one unexpected material – elephant dung",
-      "url": "https://www.wallpaper.com/architecture/goya-thai-tower-boonserm-premthada-thailand",
-      "excerpt": "Constructed from elephant-dung bricks, a Thai tower by architect and artist Boonserm Premthada transforms what elephants leave behind into stunning architecture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WuqBiLYuXSeewhUWbDCHSn-2519-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Housing that adapts to wildfire risk among projects from University of Southern California",
-      "url": "https://www.dezeen.com/2026/07/09/housing-wildfires-among-projects-from-university-of-southern-california-schoolshows/",
-      "excerpt": "Dezeen School Shows: a housing proposal in the Pacific Palisades, which tackles the area's wildfire risk, is among the projects from the University of Southern California. Also featured are accessibil",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "have you ever hugged a tree? monsieur plant wraps sculptural human arms around trees",
-      "url": "https://www.designboom.com/art/monsieur-plant-sculptural-human-arms-trees-tree-hug/",
-      "excerpt": "tree hug reflects on the relationship between time, landscape, and human presence.\nThe post have you ever hugged a tree? monsieur plant wraps sculptural human arms around trees appeared first on desig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/monsieur-plant-tree-hug-outdoor-installation-france-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Anduhyaun Emergency Shelter / LGA Architectural Partners",
-      "url": "https://www.archdaily.com/1054063/anduhyaun-emergency-shelter-lga-architectural-partners",
-      "excerpt": "Anduhyaun, owner and operator of Toronto's only Indigenous Violence Against Women shelter, partnered with LGA to design a new 18-room shelter that supports women and their children on their healing jo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/3d3b/25af/6b00/019d/08ea/large_jpg/LGA_Anduhyaun_Image4_Credit_Doublespace.jpg?1783446914",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Black timber and copper cloaks Sanctum nature retreat in Lithuanian woodland",
-      "url": "https://www.dezeen.com/2026/07/09/sanctum-retreat-arches/",
-      "excerpt": "Rows of steeply gabled cabins clad in black timber and copper define this nature therapy retreat, created in a woodland in Lithuania by architecture studio Arches. Named Sanctum, the retreat is nestle",
       "today": false
     },
     {
