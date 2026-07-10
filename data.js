@@ -1,68 +1,98 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.10  02:29",
+  "fetchedAt": "2026.07.10  06:39",
   "sourceColors": {
-    "axismag.jp": {
+    "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "newscast.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
+    {
+      "source": "Excite エキサイト",
+      "cat": "展示・アート",
+      "date": "2026.07.10",
+      "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
+      "excerpt": "",
+      "thumbnailUrl": "https://s.eximg.jp/exnews/feed/Prtimes/57/Prtimes_2026-07-10-104980-22/Prtimes_2026-07-10-104980-22_1.jpg",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -81,6 +111,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.10",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -131,6 +170,65 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "This Tinos house revels in its imperfection, set on an ancient Greek island landscape",
+      "url": "https://www.wallpaper.com/architecture/residential/tinos-house-kelly-spanou-greece",
+      "excerpt": "Tour a compact design gem set on rugged Greek island terrain, expertly designed by Athens-based architect Kelly Spanou",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CxUCrG2FzD4FgbUoA5qjAc-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Prize giveaway: win the Marisfrolg Gardens book by Architecture van Brandenburg",
+      "url": "https://www.dezeen.com/2026/07/10/giveaway-marisfrolg-gardens-book-architecture-van-brandenburg/",
+      "excerpt": "Prize giveaway: for our latest competition, New Zealand studio Architecture van Brandenburg is offering Dezeen readers the chance to win a copy of its new Marisfrolg Gardens monograph. Five lucky read",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "The visual codes of Wimbledon: why it’s so much more than tennis",
+      "url": "https://www.wallpaper.com/art/photography/the-visual-language-of-wimbledon",
+      "excerpt": "What makes Wimbledon, Wimbledon? Photographer Barney Curran takes us through the tournament’s visual language, from pristine grass courts to strawberries and cream, showing that it’s more than tennis ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RE9eT9mo3jQjVmgnLt75Eg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "bright orange perforated metal sheets shape a modular fitness center in madrid",
+      "url": "https://www.designboom.com/architecture/bright-orange-perforated-metal-sheets-modular-fitness-center-madrid-canobardin-moof-fitness-studio/",
+      "excerpt": "the concept extends outwards with a double skin of perforated metal wrapping the exterior facade.\nThe post bright orange perforated metal sheets shape a modular fitness center in madrid appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/canobardin-moof-fitness-studio-madrid-modular-replicable-gym-interior-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "House Awasi / Caceres + Tous",
+      "url": "https://www.archdaily.com/1092360/house-awasi-caceres-plus-tous",
+      "excerpt": "House Awasi is located on the picturesque island of Lombok, Indonesia, where the island's rich cultural heritage adds depth to its natural beauty. As the home of the Sasak people, Lombok showcases a u",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/83a5/3e7a/3201/8af9/c700/large_jpg/house-awasi-caceres-plus-tous_6.jpg?1783595976",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.09",
+      "title": "Contemporary Chinese Architecture in Continuous Evolution and Transformation: An Interview with Liu Yulong of THAD",
+      "url": "https://www.archdaily.com/1092436/contemporary-chinese-architecture-in-continuous-evolution-and-transformation-an-interview-with-liu-yulong-of-thad",
+      "excerpt": "Thirty years later, the UIA World Congress of Architects returns to Barcelona. Coinciding with the centenary of Antoni Gaudí’s passing, history and the present converge in this city, lending this year",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/b3df/ec97/ec01/885c/119d/large_jpg/chi-xu-sheng-cheng-yu-zhuan-xing-zhong-de-dang-dai-zhong-guo-jian-zhu-zhuan-fang-thad-liu-yu-long_1.jpg?1783608316",
+      "today": false
     },
     {
       "source": "designboom",
@@ -250,16 +348,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Only fans: seven cool gadgets for ultra-compact personal airflow",
-      "url": "https://www.wallpaper.com/tech/compact-fans-and-cooling-gadgets",
-      "excerpt": "From handheld fans to personal air conditioners, these gadgets can help take the edge off a heatwave",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/58hy5L8eyskww6He53dcuc-1107-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -270,61 +358,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "12 stylish travel essentials for a better-looking summer",
-      "url": "https://www.wallpaper.com/travel/summer-travel-essentials-2026",
-      "excerpt": "A design lover’s guide for packing slicker this season, from luggage to beauty and clever gadgets",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3bvx9ENYXqC3YDQL2V2S3Z-1280-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "where folded canvas carries the memory of the hand: susan maddux",
-      "url": "https://www.designboom.com/art/where-folded-canvas-carries-the-memory-of-the-hand-susan-maddux/",
-      "excerpt": "the los angeles artist suggests that new artistic languages can emerge by returning to techniques that have long existed.\nThe post where folded canvas carries the memory of the hand: susan maddux appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/where-folded-canvas-carries-the-memory-of-the-hand-susan-maddux-designboom02.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.09",
       "title": "Black timber and copper cloaks Sanctum nature retreat in Lithuanian woodland",
       "url": "https://www.dezeen.com/2026/07/09/sanctum-retreat-arches/",
       "excerpt": "Rows of steeply gabled cabins clad in black timber and copper define this nature therapy retreat, created in a woodland in Lithuania by architecture studio Arches. Named Sanctum, the retreat is nestle",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "RIBA announces best British buildings for 2026",
-      "url": "https://www.dezeen.com/2026/07/09/riba-national-awards-2026-uk/",
-      "excerpt": "The Royal Institute of British Architects has announced 32 winners of the National Awards 2026, with the majority located in London. Featured among the 32 winners announced by the Royal Institute of B",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "KOSMALT Housing Renovation / Atrium Architekti",
-      "url": "https://www.archdaily.com/1054033/kosmalt-housing-renovation-atrium-architekti",
-      "excerpt": "KOSMALT is originally the largest workers' dormitory of the Košice steelworks VSŽ, built in the 1960s according to the design of architects Ladislav Greč and Róbert Kandrík. The name of the building r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/0a00/73b8/d479/fe1b/c7aa/large_jpg/kosmalt-housing-renovation-atrium-architekti_1.jpg?1783368277",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "The Politics of Bamboo: From Vernacular Craft to Temporal Infrastructure",
-      "url": "https://www.archdaily.com/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
-      "excerpt": "Bamboo is often praised before it is understood. It grows quickly, carries a long history of building cultures, and appears to offer architecture an immediate ecological language. In photographs, it c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/f184/bdfc/1a01/8a6a/3a8a/large_jpg/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure_2.jpg?1782903177",
       "today": false
     },
     {
@@ -388,6 +427,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -418,6 +467,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -425,6 +514,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -458,6 +557,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -468,13 +596,23 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "岩崎電気",
+      "source": "YAMAGIWA",
       "cat": "新製品",
-      "date": "2026.05.26",
-      "title": "イベント情報 - EE東北'26",
-      "url": "https://www.iwasaki.co.jp/NEWS/event/2026/ee.html",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
