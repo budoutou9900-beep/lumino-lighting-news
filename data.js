@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.10  10:20",
+  "fetchedAt": "2026.07.10  13:08",
   "sourceColors": {
-    "Excite エキサイト": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "Excite エキサイト": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "newscast.jp": {
+    "fujitv.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -84,13 +84,21 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "GLOBAL PRODUCE",
+      "cat": "国内情報",
+      "date": "2026.07.10",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Excite エキサイト",
       "cat": "展示・アート",
       "date": "2026.07.10",
       "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
       "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
       "excerpt": "",
-      "thumbnailUrl": "https://s.eximg.jp/exnews/feed/Prtimes/57/Prtimes_2026-07-10-104980-22/Prtimes_2026-07-10-104980-22_1.jpg",
       "today": true
     },
     {
@@ -114,61 +122,117 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "Google ニュース",
+      "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "fujitv.co.jp",
       "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
+      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
+      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
       "today": true
     },
     {
-      "source": "newscast.jp",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催（ウォーカープラス）",
+      "url": "https://news.yahoo.co.jp/articles/8eee8140d77ac8fa6f03f39ba7379bd79bad8e39",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-01329111-tkwalk-000-1-view.jpg?exp=10800",
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.10",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254473",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.07.10",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "Seven products by USA-based design brands",
+      "url": "https://www.dezeen.com/2026/07/10/products-furnishings-lighting-seating-usa-america-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: from sumptuous couches to cutting-edge workstations, the following products are all included in the catalogues of brands based in the USA. The following selection comprises seating, f",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Anatomy of a logo: the Nike Swoosh",
+      "url": "https://www.wallpaper.com/fashion-beauty/nike-swoosh-logo",
+      "excerpt": "‘What we wanted it to stand for was speed, but now it means much more than that,’ says Nike co-founder Phil Knight of sportswear’s most enduring emblem, created by design student Carolyn Davidson in 1",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZnU3TjFxsDnMNhU9pA2KzV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "‘heritage is not a static archive’: GUNIA on reinventing ukraine’s craft and material traditions",
+      "url": "https://www.designboom.com/design/heritage-archive-gunia-ukraine-craft-material-traditions-interview/",
+      "excerpt": "working with over 150 artisans, natalia kamenska and maria gavryliuk have created a brand that preserves their country's traditional techniques and brings them into the present.\nThe post ‘heritage is ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/heritage-archive-gunia-ukraine-craft-material-traditions-interview-designboom-2.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Formwork Architects transforms abandoned care home into light-filled Crouch End House",
+      "url": "https://www.dezeen.com/2026/07/10/formwork-architects-crouch-end-house/",
+      "excerpt": "Local studio Formwork Architects has transformed a derelict care home in Crouch End, north London, back into a family dwelling, introducing a two-storey brick extension overlooking a sunken patio. Sim",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "a flowing roof and fluid concrete walls frame the new santa barbara parish complex in sicily",
+      "url": "https://www.designboom.com/architecture/flowing-roof-fluid-concrete-walls-new-santa-barbara-parish-complex-sicily-francesco-lipari-lillo-giglia-giuseppe-conti/",
+      "excerpt": "the architectural concept interprets the church as a ‘house among houses,’ combining accessibility with a clear urban presence.\nThe post a flowing roof and fluid concrete walls frame the new santa bar",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/francesco-lipari-lillo-giglia-giuseppe-conti-new-santa-barbara-parish-complex-licata-italy-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Yinka Ilori's top four pieces from his Dunelm collection",
+      "url": "https://www.dezeen.com/2026/07/10/yinka-ilori-dunelm-collection-top-picks/",
+      "excerpt": "British-Nigerian designer Yinka Ilori selects his favourite pieces from his recently released Dunelm collection in this video filmed by Dezeen. In the video, filmed at the launch event in London, Ilor",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Unearthed fossils and mudlarked bones inspire Faye Toogood's latest furniture",
+      "url": "https://www.dezeen.com/2026/07/10/faye-toogood-bone-roll-slump-collection/",
+      "excerpt": "Curved oak and dimpled upholstery feature in British designer Faye Toogood's Bone, Roll, Slump furniture collection, which includes her \"most comfortable chair\" yet. The collection brings together a s",
       "today": true
     },
     {
@@ -231,12 +295,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.10",
-      "title": "Iris van Herpen injects glass-covered gown with glowing plasma",
-      "url": "https://www.dezeen.com/2026/07/10/iris-van-herpen-glass-gown-glowing-plasma/",
-      "excerpt": "Dutch fashion designer Iris van Herpen has unveiled her Helix Nebula dress during Paris Couture Week, featuring plasma-filled glass horns that light up in response to human touch. Debuted as part of V",
+      "title": "Villa CROCODILE / LOCALARCHITECTURE",
+      "url": "https://www.archdaily.com/1054065/villa-crocodile-localarchitecture",
+      "excerpt": "Following the completion of the new Swiss Embassy in Ivory Coast in 2016, LOCALARCHITECTURE continues its work in Abidjan with the Swiss Embassy Deputy Chief of Mission Residence. The project responds",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/4a45/25af/6b00/019d/0906/large_jpg/LOCAL_ABIDJAN_CROCODILE_LD_11_daaily.jpg?1783450227",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "How Architects Can Simplify Project Workflows Beyond CAD and BIM",
+      "url": "https://www.archdaily.com/1054049/how-architects-can-simplify-project-workflows-beyond-cad-and-bim",
+      "excerpt": "Architecture project information does not live only in CAD or BIM software. Design briefs, drawing PDFs, contracts, quotations, site reports, approval files, and project specifications are often the d",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/4cc6/8c51/7e01/8cc5/c06a/large_jpg/how-architects-can-simplify-project-workflows-beyond-cad-and-bim_11.jpg?1783581908",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "The World's Largest Cities in 2026 by Population",
+      "url": "https://www.archdaily.com/1092474/the-worlds-largest-cities-in-2026-by-population",
+      "excerpt": "Every year on July 11, World Population Day draws attention to the demographic trends reshaping societies around the globe. In 2026, the United Nations marks the occasion under the theme, \"Realizing t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/bcc2/5f40/ed01/8c9f/209f/large_jpg/the-worlds-largest-cities-in-2026-by-population_1.jpg?1783676107",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.10",
+      "title": "Design Hotels HQ  / RHO",
+      "url": "https://www.archdaily.com/1092349/design-hotels-hq-rho",
+      "excerpt": "Design Hotels spent thirty years at one address before moving into the top floor of AXIS, a newly built volume rising from a former industrial site near Berlin's Ostkreuz. The site looks two ways at o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/6b5a/49a5/ed00/0187/3f51/large_jpg/RHO_DH_Office_-103-2.jpg?1783589759",
       "today": true
     },
     {
@@ -260,44 +355,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Imago audio player lights a path for ethical AI use in music",
-      "url": "https://www.dezeen.com/2026/07/10/imago-audio-player-ai-music/",
-      "excerpt": "Central Saint Martins graduates Domenico di Paolo and Kieran Feechan have created a novel listening device in the form of Imago, which turns a critical eye on the use of AI in music. Looking a bit lik",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Prize giveaway: win the Marisfrolg Gardens book by Architecture van Brandenburg",
-      "url": "https://www.dezeen.com/2026/07/10/giveaway-marisfrolg-gardens-book-architecture-van-brandenburg/",
-      "excerpt": "Prize giveaway: for our latest competition, New Zealand studio Architecture van Brandenburg is offering Dezeen readers the chance to win a copy of its new Marisfrolg Gardens monograph. Five lucky read",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Building as Sculpture: 5 Unbuilt Museum Projects from the ArchDaily Community",
-      "url": "https://www.archdaily.com/1054036/building-as-sculpture-5-unbuilt-museum-projects-from-the-archdaily-community",
-      "excerpt": "The concept of the museum has historically prompted reflections on identity, representation, and institutional frameworks. At present, museums are conceived as increasingly complex spaces, combining e",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/a4bd/5d2a/a901/883d/874a/large_jpg/6-unbuilt-museum-projects-from-the-archdaily-community_30.jpg?1783473369",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "The visual codes of Wimbledon: why it’s so much more than tennis",
-      "url": "https://www.wallpaper.com/art/photography/the-visual-language-of-wimbledon",
-      "excerpt": "What makes Wimbledon, Wimbledon? Photographer Barney Curran takes us through the tournament’s visual language, from pristine grass courts to strawberries and cream, showing that it’s more than tennis ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RE9eT9mo3jQjVmgnLt75Eg-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.10",
@@ -306,65 +363,6 @@ window.LUMINO_DATA = {
       "excerpt": "the concept extends outwards with a double skin of perforated metal wrapping the exterior facade.\nThe post bright orange perforated metal sheets shape a modular fitness center in madrid appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/canobardin-moof-fitness-studio-madrid-modular-replicable-gym-interior-designboom-1200.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "The Art House / Spaces Architects@ka",
-      "url": "https://www.archdaily.com/1092365/the-art-house-spaces-architects-at-ka",
-      "excerpt": "The Art House in New Delhi is conceived as a response to a rare brief that called for complete originality. The client, a prominent entrepreneur with a strong inclination toward individuality, sought ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/99cf/8c51/7e01/8cc5/c3a5/large_jpg/the-art-house-spaces-architects-at-ka_2.jpg?1783601655",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "The Gentle House / the Stylesmiths",
-      "url": "https://www.archdaily.com/1092361/the-gentle-house-the-stylesmiths",
-      "excerpt": "It begins with a quiet misdirection. From the outside, this Brunswick home reads as a dark, composed silhouette, black timber cladding and crisp geometry holding their ground against the suburb's easy",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/8b7c/49a5/ed00/0187/3fbb/large_jpg/The-Stylesmiths-Brunswick-11--2880px.jpg?1783597967",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Reclaiming Architecture's Local Voice",
-      "url": "https://www.archdaily.com/1092397/reclaiming-architectures-local-voice",
-      "excerpt": "Some of the world's most innovative regional architecture never makes the headlines simply because no one is telling its story. For the sixth episode of the Room For Dreams podcast, recorded live at M",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/e485/2fe9/f301/89c0/0814/large_jpg/architecture-needs-stories-as-much-as-buildings_3.jpg?1783620751",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "cecilia vicuña weaves a monumental quipu for a disappearing world",
-      "url": "https://www.designboom.com/art/cecilia-vicuna-monumental-quipu-disappearing-world-el-glaciar-ido-marcella-beccaria/",
-      "excerpt": "the chilean artist’s first solo museum exhibition in italy transforms the quipu into a monumental installation woven from indigenous knowledge and collective participation.\nThe post cecilia vicuña wea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cecilia-vicuna-monumental-quipu-disappearing-world-el-glaciar-ido-marcella-beccaria-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "Liz Gálvez \"reframes\" air conditioning with shade pavilion in Los Angeles",
-      "url": "https://www.dezeen.com/2026/07/09/liz-galvez-shade-pavilion-los-angeles-earthen-comforts/",
-      "excerpt": "Architect Liz Gálvez has created a pavilion in the courtyard of Los Angeles cultural organisations Materials & Applications and Craft Contemporary using cord and earthen blocks to showcase the potenti",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.09",
-      "title": "this futuristic turntable concept brings vinyl beyond nostalgia",
-      "url": "https://www.designboom.com/design/transparent-turntable-vinyl-sungwoo-choi/",
-      "excerpt": "rather than following the usual retro references of many turntables, choi proposes a cleaner and more technological object.\nThe post this futuristic turntable concept brings vinyl beyond nostalgia app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/transparent-turntable-vinyl-sungwoo-choi-01-818x614.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
