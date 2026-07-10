@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.10  20:18",
+  "fetchedAt": "2026.07.10  21:56",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
@@ -86,6 +86,7 @@ window.LUMINO_DATA = {
       "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
       "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
       "excerpt": "",
+      "thumbnailUrl": "https://s.eximg.jp/exnews/feed/Prtimes/57/Prtimes_2026-07-10-104980-22/Prtimes_2026-07-10-104980-22_1.jpg",
       "today": true
     },
     {
@@ -145,6 +146,7 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
