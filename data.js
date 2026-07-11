@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  13:09",
+  "fetchedAt": "2026.07.11  14:48",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
