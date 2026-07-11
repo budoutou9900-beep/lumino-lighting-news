@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  11:56",
+  "fetchedAt": "2026.07.11  13:09",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
@@ -211,6 +211,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Tidsmaskinen After-School Center  / BBP Arkitekter",
+      "url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
+      "excerpt": "Tidsmaskinen (The Time Machine) after-school center is an example of complementary architecture, consisting of three distinct buildings: a villa, a greenhouse and a tower, which together form a cohesi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/large_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -315,16 +325,6 @@ window.LUMINO_DATA = {
       "title": "Seven products by USA-based design brands",
       "url": "https://www.dezeen.com/2026/07/10/products-furnishings-lighting-seating-usa-america-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: from sumptuous couches to cutting-edge workstations, the following products are all included in the catalogues of brands based in the USA. The following selection comprises seating, f",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Ascendente House / TETRO Arquitetura",
-      "url": "https://www.archdaily.com/1041707/ascendente-house-tetro-arquitetura",
-      "excerpt": "The Ascendente House was conceived from a reading of the voids between existing trees, adopting an approach of careful insertion and preservation. Its massing is organized in levels that follow the si",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0d/e7ef/35eb/2400/01f0/400e/large_jpg/001_-_CASA_ASCENDENTE_-_TETRO_copiar.jpg?1779296283",
       "today": false
     },
     {
