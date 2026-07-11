@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  16:50",
+  "fetchedAt": "2026.07.11  17:51",
   "sourceColors": {
     "GLOBAL PRODUCE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Excite エキサイト": {
+    "NSGグループ": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,73 +13,81 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "美術館・アート情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "モダンリビング デジタル": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "japandesign.ne.jp": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "fujitv.co.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Yahoo!ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "ファッションプレス": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -93,32 +101,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Excite エキサイト",
+      "source": "NSGグループ",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
+      "title": "【国際音楽・ダンス・エンタテイメント専門学校】照明、映像が織りなすインスタレーションの特別講義を実施 〜映像×照明×音響でつくる空間演出、これからのエンタテイメントの形",
+      "url": "https://www.nsg.gr.jp/blog/%E3%80%90%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88%E5%B0%82%E9%96%80%E5%AD%A6-63/",
       "excerpt": "",
+      "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/32951/1292/32951-1292-0afc1746a51f6e8eb0b6aabb30fff9ef-1918x1076.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
       "today": true
     },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "美術館・アート情報",
       "cat": "国内情報",
       "date": "2026.07.11",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "today": true
+    },
+    {
+      "source": "モダンリビング デジタル",
+      "cat": "展示・アート",
+      "date": "2026.07.11",
+      "title": "光の巨匠アントニ・アローラ展覧会、東京で開催。スペイン発の照明ブランド「サンタアンドコール」と協働",
+      "url": "https://www.modernliving.jp/architecture-design/design/a68083905/santa-and-cole-2510/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "japandesign.ne.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.11",
+      "title": "宵の灯-あかりの工芸- デザイン・アートの展覧会 & イベント情報",
+      "url": "https://www.japandesign.ne.jp/event/yoinohi-ofsgallery/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.japandesign.ne.jp/wp/wp-content/uploads/2025/09/862753.jpg",
       "today": true
     },
     {
@@ -137,6 +165,7 @@ window.LUMINO_DATA = {
       "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
       "today": true
     },
     {
@@ -167,15 +196,6 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.11",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
       "today": true
     },
     {
@@ -440,7 +460,6 @@ window.LUMINO_DATA = {
       "title": "ショップ・ショールーム 臨時休業のお知らせ",
       "url": "https://www.yamagiwa.co.jp/news/79630/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -480,7 +499,6 @@ window.LUMINO_DATA = {
       "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
       "url": "https://www.yamagiwa.co.jp/news/79613/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
