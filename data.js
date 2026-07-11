@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  14:48",
+  "fetchedAt": "2026.07.11  15:50",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,49 +37,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -123,16 +119,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.11",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.11",
@@ -171,6 +157,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "BBB House / Beczak / Beczak / Architekci",
+      "url": "https://www.archdaily.com/1092471/bbb-house-beczak-beczak-architekci",
+      "excerpt": "A house integrated with nature in the heart of Konstancin.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b839/61ff/5300/01d2/e862/large_jpg/BBB_17.jpg?1783674993",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -178,6 +174,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/hollywood-sign-story",
       "excerpt": "Thomas Fisk Goff and his Crescent Sign Company created the Hollywood sign in 1923. We take a look at this enduring icon of American graphic design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HjuN6GWpGs3FV24yKKLfV5-1438-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Ciutat Vella Apartment / Balzar Arquitectos",
+      "url": "https://www.archdaily.com/1092214/ciutat-vella-apartment-balzar-arquitectos",
+      "excerpt": "Ciutat Vella Apartment is located in the historic heart of Valencia, a place that is not simply visited but discovered. Within a compact urban fabric, more than two thousand years of history coexist, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/feaf/56cb/6000/01e1/a818/large_jpg/CIUTAT-VELLA-APARTMENT-BALZAR-ARCHITECTS-_1_.jpg?1783496386",
       "today": true
     },
     {
@@ -208,6 +214,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/vesper-london-review",
       "excerpt": "The chef’s new Clerkenwell restaurant pairs cold martinis, clever British comfort food and Jermaine Gallacher-designed interiors",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qtwai864VTBYEEvpMJVDKB-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
+      "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
+      "excerpt": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, tempe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
       "today": true
     },
     {
@@ -251,16 +267,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Arriaga Linear Park / Laboratorio Regional de Arquitectura",
-      "url": "https://www.archdaily.com/1092461/arriaga-linear-park-laboratorio-regional-de-arquitectura",
-      "excerpt": "A public space that reconnects regional mobility with local life - As part of the \"Interoceanic Railway\" project, an initiative by the Mexican Government to connect the country's southeastern region, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b245/062b/6500/019a/ab4b/large_jpg/12_PARQUE_LINEAL_ARRIAGA__ANDR_S_CEDILLO.jpg?1783345782",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.10",
@@ -286,26 +292,6 @@ window.LUMINO_DATA = {
       "title": "Studio TK uses Plantd's pressed-grass panels for furniture line",
       "url": "https://www.dezeen.com/2026/07/10/studio-tk-plantds-pressed-grass-panels-furniture/",
       "excerpt": "North Carolina furniture company Studio TK has designed furniture utilising manufacturer Plantd's panels, which are made from perennial grasses and marketed as an alternative to traditional engineered",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "DRP House / Jacobsen Arquitetura",
-      "url": "https://www.archdaily.com/1034321/drp-house-jacobsen-arquitetura",
-      "excerpt": "Located on the countryside of São Paulo, the DRP House is not easily perceived by those walking on the street. First there’s the sky, a blue canvas with streaks of clouds bathed in the late afternoon ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68d0/4366/67a7/a401/899d/992a/large_jpg/residencia-drp-jacobsen-arquitetura_24.jpg?1758479216",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "CCE House / ONA - Oficina Nómada de Arquitectura",
-      "url": "https://www.archdaily.com/1092458/cce-house-ona-oficina-nomada-de-arquitectura",
-      "excerpt": "Site - The project is located in Chacras de Coria, Luján de Cuyo, Mendoza, in a semi-urban environment of low-rise housing, vineyards, and poplars that defines the cultural landscape of the foothills ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/a9bc/49a5/ed00/0187/4000/large_jpg/26_05_ONA__CCE___Luis_Abba-37.jpg?1783605748",
       "today": false
     },
     {
