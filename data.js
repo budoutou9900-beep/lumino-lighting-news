@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  21:43",
+  "fetchedAt": "2026.07.11  22:42",
   "sourceColors": {
-    "NSGグループ": {
+    "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術館・アート情報": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "japandesign.ne.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -80,89 +80,80 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "NSGグループ",
+      "source": "Excite エキサイト",
       "cat": "展示・アート",
-      "date": "2026.07.11",
-      "title": "【国際音楽・ダンス・エンタテイメント専門学校】照明、映像が織りなすインスタレーションの特別講義を実施 〜映像×照明×音響でつくる空間演出、これからのエンタテイメントの形",
-      "url": "https://www.nsg.gr.jp/blog/%E3%80%90%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88%E5%B0%82%E9%96%80%E5%AD%A6-63/",
+      "date": "2026.07.10",
+      "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
       "excerpt": "",
-      "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/32951/1292/32951-1292-0afc1746a51f6e8eb0b6aabb30fff9ef-1918x1076.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
-      "today": true
+      "thumbnailUrl": "https://s.eximg.jp/exnews/feed/Prtimes/57/Prtimes_2026-07-10-104980-22/Prtimes_2026-07-10-104980-22_1.jpg",
+      "today": false
     },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.07.11",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
-      "source": "japandesign.ne.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "宵の灯-あかりの工芸- デザイン・アートの展覧会 & イベント情報",
-      "url": "https://www.japandesign.ne.jp/event/yoinohi-ofsgallery/",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
-      "thumbnailUrl": "https://www.japandesign.ne.jp/wp/wp-content/uploads/2025/09/862753.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
+      "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.11",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.11",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "today": true
     },
@@ -174,6 +165,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/mirrored-water-drop-installation-landscape-sayram-lake-china-zhide/",
       "excerpt": "two interlocking rings form the center of the installation.\nThe post a mirrored water drop installation reflects the landscape of sayram lake in china appeared first on designboom | architecture & des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mirrored-water-drop-installation-heart-sayram-lake-china-zhide-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Nachan the Antique Courtyard Hotel / PAVA architects",
+      "url": "https://www.archdaily.com/1092379/nachan-the-antique-courtyard-hotel-pava-architects",
+      "excerpt": "Nachan The Antique Courtyard Hotel is designed as a small-scale, tranquil village cluster that represents the serene spirit of the Mekong River landscape. Minimizing the hotel's footprint with reused ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/c2df/ec97/ec01/885c/1244/large_jpg/nachan-the-antique-courtyard-hotel-pava-architects_53.jpg?1783612178",
       "today": true
     },
     {
@@ -224,16 +225,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/hollywood-sign-story",
       "excerpt": "Thomas Fisk Goff and his Crescent Sign Company created the Hollywood sign in 1923. We take a look at this enduring icon of American graphic design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HjuN6GWpGs3FV24yKKLfV5-1438-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Ciutat Vella Apartment / Balzar Arquitectos",
-      "url": "https://www.archdaily.com/1092214/ciutat-vella-apartment-balzar-arquitectos",
-      "excerpt": "Ciutat Vella Apartment is located in the historic heart of Valencia, a place that is not simply visited but discovered. Within a compact urban fabric, more than two thousand years of history coexist, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/feaf/56cb/6000/01e1/a818/large_jpg/CIUTAT-VELLA-APARTMENT-BALZAR-ARCHITECTS-_1_.jpg?1783496386",
       "today": true
     },
     {
