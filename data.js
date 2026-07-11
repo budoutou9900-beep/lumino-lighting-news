@@ -1,59 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  07:46",
+  "fetchedAt": "2026.07.11  09:24",
   "sourceColors": {
-    "axismag.jp": {
+    "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -64,17 +64,18 @@ window.LUMINO_DATA = {
     "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
+    {
+      "source": "Excite エキサイト",
+      "cat": "展示・アート",
+      "date": "2026.07.11",
+      "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -144,12 +145,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.11",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "How Kelly Behun and Bonetti/Kozerski brought residential design to a luxury yacht",
+      "url": "https://www.wallpaper.com/design-interiors/bonetti-oasis-40m-yacht-by-kelly-behun-bonetti-kozerski",
+      "excerpt": "This Benetti Oasis yacht – designed by Bonetti/Kozerski with interiors by Kelly Behun – reflects a new generation of more relaxed yacht interiors, informed by residential architecture and design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XC2Uu3DNSfNm3MGjh68N8M-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Mytheresa sets sail, taking over a mega-yacht on the French Riviera",
+      "url": "https://www.wallpaper.com/fashion-beauty/maison-mytheresa-yacht-french-riviera",
+      "excerpt": "German fashion e-retailer Mytheresa hits the water with the latest iteration of its ‘Maison Mytheresa’ series, which began in St Moritz last December",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ov3Ntyir4VxgwuDi342BhK-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "With Vesper, Jackson Boxer gives Clerkenwell a restaurant to keep coming back to",
+      "url": "https://www.wallpaper.com/travel/restaurants/vesper-london-review",
+      "excerpt": "The chef’s new Clerkenwell restaurant pairs cold martinis, clever British comfort food and Jermaine Gallacher-designed interiors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qtwai864VTBYEEvpMJVDKB-1600-80.jpg",
       "today": true
     },
     {
@@ -209,26 +231,6 @@ window.LUMINO_DATA = {
       "title": "Collapsing building in New York City \"now stable\" according to developer",
       "url": "https://www.dezeen.com/2026/07/10/metroloft-midtown-building-stable-news/",
       "excerpt": "A New York City skyscraper with buckling structural elements has been stabilised, according to its developer, after a slew of reports that point to issues leading up to the incident. Developer Metro L",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Wallpaper* checks in at Orient Express Venezia, the Floating City’s most theatrical new address",
-      "url": "https://www.wallpaper.com/travel/hotels/orient-express-venezia-review",
-      "excerpt": "In the unpolished heart of Cannaregio, a glittering diamond: a 15th-century palazzo transformed by designer Aline Asmar d'Amman into one of Venice's most spectacular hotels",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/W7uZZf7FkABa6DcBvT48Xj-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Inside a Primrose Hill house designed to not look designed",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/studio-iro-primrose-hill-house",
-      "excerpt": "Studio Iro's brief was almost paradoxical: in this three-storey London home, the designers resisted the urge to over-curate, layering indigo tones, tactile limewash and the clients' existing modernist",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/56WRP4JgQAVnxHsGCFYooi-2000-80.jpg",
       "today": false
     },
     {
@@ -297,16 +299,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1041707/ascendente-house-tetro-arquitetura",
       "excerpt": "The Ascendente House was conceived from a reading of the voids between existing trees, adopting an approach of careful insertion and preservation. Its massing is organized in levels that follow the si",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a0d/e7ef/35eb/2400/01f0/400e/large_jpg/001_-_CASA_ASCENDENTE_-_TETRO_copiar.jpg?1779296283",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Anatomy of a logo: the Nike Swoosh",
-      "url": "https://www.wallpaper.com/fashion-beauty/nike-swoosh-logo",
-      "excerpt": "‘What we wanted it to stand for was speed, but now it means much more than that,’ says Nike co-founder Phil Knight of sportswear’s most enduring emblem, created by design student Carolyn Davidson in 1",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZnU3TjFxsDnMNhU9pA2KzV-2560-80.jpg",
       "today": false
     },
     {
@@ -408,16 +400,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -448,46 +430,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -495,16 +437,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -538,35 +470,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -574,26 +477,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
