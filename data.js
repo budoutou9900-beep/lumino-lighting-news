@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  18:53",
+  "fetchedAt": "2026.07.11  20:03",
   "sourceColors": {
     "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
@@ -174,6 +174,36 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.11",
+      "title": "Leloir Studio Pavilion / FIR Estudio",
+      "url": "https://www.archdaily.com/1092464/leloir-studio-pavilion-fir-estudio",
+      "excerpt": "In a gated community within the Parque Leloir protected ecological area in Buenos Aires, Argentina, surrounded by a rich diversity of century-old tree species, we were commissioned to design a residen",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/1018/56cb/6000/01e1/b831/large_jpg/Pabellon_Huala_FIR__36_.jpg?1783500874",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Matita-Perê House / Matéria Base",
+      "url": "https://www.archdaily.com/1041951/matita-pere-house-materia-base",
+      "excerpt": "Nestled in the heart of the Mantiqueira Mountains, near the land of the \"Werewolf,\" where the Matita-Perê whistles loudly, the house emerges from the earth itself. And like the earth, it takes shape a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a10/495a/35eb/2400/01f0/43cc/large_jpg/_08A7941_copyright_manuel_sa.jpg?1779452350",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Muxarabi House / Ana Sawaia Arquitetura",
+      "url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
+      "excerpt": "Designed by Vilanova Artigas in 1956, Muxarabi House is organized around a clear structural system and a precise spatial arrangement. A white rectangular volume elevated on pilotis is distributed acro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/3019/54d7/6a00/01cc/6b2b/large_jpg/NelsonKon_11-web.jpg?1782263940",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
       "title": "BBB House / Beczak / Beczak / Architekci",
       "url": "https://www.archdaily.com/1092471/bbb-house-beczak-beczak-architekci",
       "excerpt": "A house integrated with nature in the heart of Konstancin.",
@@ -231,26 +261,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
-      "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
-      "excerpt": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, tempe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Tidsmaskinen After-School Center  / BBP Arkitekter",
-      "url": "https://www.archdaily.com/1054008/tidsmaskinen-after-school-center-bbp-arkitekter",
-      "excerpt": "Tidsmaskinen (The Time Machine) after-school center is an example of complementary architecture, consisting of three distinct buildings: a villa, a greenhouse and a tower, which together form a cohesi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab19/062b/6500/019a/aafe/large_jpg/00_Exterior_west_A_Jens_Lindhe.jpg?1783343923",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -258,16 +268,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/chile-tour-smiljan-radic-clarke-buildings",
       "excerpt": "Heading to South America? Join our Chile tour to explore the architecture of the 2026 Pritzker Prize-winning architect, Smiljan Radić Clarke, in six buildings",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Vb6ss3DAQWxXTKLuiW9KiF-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Yanlord Arcadia Sunken Garden —— Lacy Steps / TROP : terrains + open space",
-      "url": "https://www.archdaily.com/1092344/yanlord-arcadia-sunken-garden-lacy-steps-trop-terrains-plus-open-space",
-      "excerpt": "Yanlord Arcadia is conceived around the philosophy of a \"Garden within Gardens,\" where a sequence of themed landscapes creates an ever-changing dialogue between nature, architecture, and daily life. A",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/c8b5/49a5/ed00/0187/3f29/large_jpg/TROP-Arcadia_Lacy_Steps-photo_by_Holi1.jpg?1783548118",
       "today": true
     },
     {
