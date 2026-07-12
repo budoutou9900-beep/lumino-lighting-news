@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  08:08",
+  "fetchedAt": "2026.07.12  10:22",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Google ニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,6 +97,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -143,12 +156,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.07.12",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Eight pocket gardens and mini courtyards that draw light into the home",
+      "url": "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
+      "excerpt": "Our latest lookbook rounds up houses that maximise underutilised spaces with pocket gardens and courtyards, helping to bring daylight and views of nature inside the home. Whether tucked into the corne",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "Carlo Ratti on why the Vibram sole is a staple of the Italian summer",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-vibram-sole",
+      "excerpt": "The fourth instalment of the architect's series, 'Objectify,' investigates how Italy's Vibram sole helped the world find its footing",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SaZEF2hjkENgpRNUMQxoLE-1600-80.jpg",
       "today": true
     },
     {
@@ -169,6 +192,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/for-jewellery-designer-anna-sheffield-location-and-landscape-shape-an-innate-understanding-of-materials",
       "excerpt": "From her studio in Taos, New Mexico, Anna Sheffield creates space for different ways of making, thinking and being",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AmEbqmjoPbLFkSvdG9A4dF.gif",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "Overstimulated design student creates satisfyingly minimal focus timer",
+      "url": "https://www.dezeen.com/2026/07/12/carrie-lee-immersion-focus-timer/",
+      "excerpt": "Frustrated by her own struggle to stay focused while studying, product design student Carrie Lee has developed a portable task timer that hopes to rival the addictiveness of smartphones. Her prototype",
       "today": true
     },
     {
@@ -212,6 +244,24 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Project exploring chronic illness among work from the University of Portsmouth",
+      "url": "https://www.dezeen.com/2026/07/11/project-exploring-chronic-illness-among-work-from-the-university-of-portsmouth-schoolshows/",
+      "excerpt": "Dezeen School Shows: a multi-disciplinary project exploring the experiences of people with chronic illnesses is among the projects from the University of Portsmouth. Also featured is a conservation pr",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "BoND designs \"dark and enveloping\" private sauna in New York",
+      "url": "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
+      "excerpt": "Architecture studio BoND has used \"the logic of a bento box\" to organise spaces within a compact, atmospheric sauna in Chelsea, New York. BoND was enlisted to design the interiors and identity for Sai",
+      "today": false
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -242,6 +292,15 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "Wright Office creates \"distinctive yet quiet\" apartments on triangular infill site in London",
+      "url": "https://www.dezeen.com/2026/07/11/wright-office-radnor-road/",
+      "excerpt": "London architecture studio Wright Office has completed Radnor Road, a compact development of two apartments on an infill site in Peckham finished with a textural palette of rough bricks and lime-washe",
+      "today": false
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -262,16 +321,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Mytheresa sets sail, taking over a mega-yacht on the French Riviera",
-      "url": "https://www.wallpaper.com/fashion-beauty/maison-mytheresa-yacht-french-riviera",
-      "excerpt": "German fashion e-retailer Mytheresa hits the water with the latest iteration of its ‘Maison Mytheresa’ series, which began in St Moritz last December",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ov3Ntyir4VxgwuDi342BhK-1800-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -279,15 +328,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
       "excerpt": "integrated benches provide a place to pause while overlooking the wider landscape.\nThe post as contemporary propylaea, twin timber gateways frame this open-air architectural park appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cube-plus-creative-collective-propylaea-protivo-stoyanie-counter-standing-wooden-landscape-gateway-ecological-trail-russia-designboom-1200-2.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Collapsing building in New York City \"now stable\" according to developer",
-      "url": "https://www.dezeen.com/2026/07/10/metroloft-midtown-building-stable-news/",
-      "excerpt": "A New York City skyscraper with buckling structural elements has been stabilised, according to its developer, after a slew of reports that point to issues leading up to the incident. Developer Metro L",
       "today": false
     },
     {
@@ -301,15 +341,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Studio TK uses Plantd's pressed-grass panels for furniture line",
-      "url": "https://www.dezeen.com/2026/07/10/studio-tk-plantds-pressed-grass-panels-furniture/",
-      "excerpt": "North Carolina furniture company Studio TK has designed furniture utilising manufacturer Plantd's panels, which are made from perennial grasses and marketed as an alternative to traditional engineered",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.10",
@@ -317,33 +348,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/living-plants-perforated-aluminum-climate-installation-new-york-botanical-garden-demael-zimmerer-greenhouse-prototype-2/",
       "excerpt": "the installation is a mobile climate device that rethinks the greenhouse as a habitat refuge.\nThe post living plants grow on perforated aluminum climate installation at new york botanical garden appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/demael-zimmerer-greenhouse-prototype-2-installation-new-york-botanical-garden-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Seven products by USA-based design brands",
-      "url": "https://www.dezeen.com/2026/07/10/products-furnishings-lighting-seating-usa-america-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: from sumptuous couches to cutting-edge workstations, the following products are all included in the catalogues of brands based in the USA. The following selection comprises seating, f",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Formwork Architects transforms abandoned care home into light-filled Crouch End House",
-      "url": "https://www.dezeen.com/2026/07/10/formwork-architects-crouch-end-house/",
-      "excerpt": "Local studio Formwork Architects has transformed a derelict care home in Crouch End, north London, back into a family dwelling, introducing a two-storey brick extension overlooking a sunken patio. Sim",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "Yinka Ilori's top four pieces from his Dunelm collection",
-      "url": "https://www.dezeen.com/2026/07/10/yinka-ilori-dunelm-collection-top-picks/",
-      "excerpt": "British-Nigerian designer Yinka Ilori selects his favourite pieces from his recently released Dunelm collection in this video filmed by Dezeen. In the video, filmed at the launch event in London, Ilor",
       "today": false
     },
     {
