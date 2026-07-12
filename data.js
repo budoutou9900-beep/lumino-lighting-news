@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  10:22",
+  "fetchedAt": "2026.07.12  11:55",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -100,15 +100,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.12",
@@ -116,6 +107,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -156,6 +156,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "At Miko Mei Fair, a Georgian townhouse gets a Thai alter ego",
+      "url": "https://www.wallpaper.com/travel/restaurants/miko-mei-fair-london-review",
+      "excerpt": "The new Thai restaurant from restaurateur Samyukta Nair pairs Koyn Thai’s robata grill with MiMi Mei Fair’s maximalist Mayfair mood",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SmBsdow95csrixpzr8mz4Y-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "nicolas nielsen designs self-driving HYVE beehive to pollinate cities",
+      "url": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
+      "excerpt": "HYVE sends a self-driving beehive through the city, carrying pollination between fragmented green spaces.\nThe post nicolas nielsen designs self-driving HYVE beehive to pollinate cities appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/nicolas-nielsen-hyve-self-driving-beehive-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "Verstas Architects uses natural materials for \"comforting and gentle\" mortuary in Helsinki",
+      "url": "https://www.dezeen.com/2026/07/12/verstas-architects-malmi-mortuary/",
+      "excerpt": "Finnish studio Verstas Architects has completed the Malmi Mortuary and Farewell Spaces in Helsinki using a pared-back palette of stone, timber and brick. Located next to Malmi Cemetery, the largest ce",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.12",
@@ -182,6 +211,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
       "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "La Milagrosa Altarpiece / Alberto Campo Baeza",
+      "url": "https://www.archdaily.com/1031681/la-milagrosa-altarpiece-alberto-campo-baeza",
+      "excerpt": "LUMEN DE LUMINE",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6862/c819/fa62/9531/dc6f/6dd3/large_jpg/retablo-de-la-basilica-la-milagrosa-alberto-campo-baeza_9.jpg?1751304261",
       "today": true
     },
     {
@@ -282,22 +321,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.11",
-      "title": "Matita-Perê House / Matéria Base",
-      "url": "https://www.archdaily.com/1041951/matita-pere-house-materia-base",
-      "excerpt": "Nestled in the heart of the Mantiqueira Mountains, near the land of the \"Werewolf,\" where the Matita-Perê whistles loudly, the house emerges from the earth itself. And like the earth, it takes shape a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a10/495a/35eb/2400/01f0/43cc/large_jpg/_08A7941_copyright_manuel_sa.jpg?1779452350",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Wright Office creates \"distinctive yet quiet\" apartments on triangular infill site in London",
-      "url": "https://www.dezeen.com/2026/07/11/wright-office-radnor-road/",
-      "excerpt": "London architecture studio Wright Office has completed Radnor Road, a compact development of two apartments on an infill site in Peckham finished with a textural palette of rough bricks and lime-washe",
+      "title": "‘to break away from a functional approach to making’: absurdist basket maker lewis prosser",
+      "url": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
+      "excerpt": "the british artist uses basketry as a way of asking larger questions about labor, locality, materials, and the future of making.\nThe post ‘to break away from a functional approach to making’: absurdis",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interview-absurdist-basket-maker-lewis-prosser05-818x545.jpg",
       "today": false
     },
     {
@@ -311,16 +341,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "How Kelly Behun and Bonetti/Kozerski brought residential design to a luxury yacht",
-      "url": "https://www.wallpaper.com/design-interiors/bonetti-oasis-40m-yacht-by-kelly-behun-bonetti-kozerski",
-      "excerpt": "This Benetti Oasis yacht – designed by Bonetti/Kozerski with interiors by Kelly Behun – reflects a new generation of more relaxed yacht interiors, informed by residential architecture and design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XC2Uu3DNSfNm3MGjh68N8M-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -328,26 +348,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
       "excerpt": "integrated benches provide a place to pause while overlooking the wider landscape.\nThe post as contemporary propylaea, twin timber gateways frame this open-air architectural park appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cube-plus-creative-collective-propylaea-protivo-stoyanie-counter-standing-wooden-landscape-gateway-ecological-trail-russia-designboom-1200-2.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "oorvi sharma believes craftsmanship is key to building resilient futures",
-      "url": "https://www.designboom.com/design/oorvi-sharma-craftsmanship-key-resilient-futures-essay/",
-      "excerpt": "the curator and designer argues that the future of making depends on embedding artisanal knowledge within contemporary systems of cultural production.\nThe post oorvi sharma believes craftsmanship is k",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/oorvi-sharma-craftsmanship-key-resilient-futures-essay-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "living plants grow on perforated aluminum climate installation at new york botanical garden",
-      "url": "https://www.designboom.com/design/living-plants-perforated-aluminum-climate-installation-new-york-botanical-garden-demael-zimmerer-greenhouse-prototype-2/",
-      "excerpt": "the installation is a mobile climate device that rethinks the greenhouse as a habitat refuge.\nThe post living plants grow on perforated aluminum climate installation at new york botanical garden appea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/demael-zimmerer-greenhouse-prototype-2-installation-new-york-botanical-garden-designboom-1200-1.jpg",
       "today": false
     },
     {
