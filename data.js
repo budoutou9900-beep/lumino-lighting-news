@@ -1,44 +1,198 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.11  23:52",
+  "fetchedAt": "2026.07.12  02:10",
   "sourceColors": {
-    "designboom": {
+    "Excite エキサイト": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "newscast.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "ArchDaily": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "designboom": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "Dezeen": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
+    {
+      "source": "Excite エキサイト",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.07.12",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.12",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
+      "url": "https://www.ozmall.co.jp/summer/article/45784/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.11",
+      "title": "We House / longwave studio",
+      "url": "https://www.archdaily.com/1092483/projcet-we-longwave-studio",
+      "excerpt": "Located in Tainan, Taiwan, this residence was designed for a family of three and their two cats. Rather than beginning with a formal concept, the project takes everyday domestic routines as its point ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/d898/61ff/5300/01d2/e8d1/large_jpg/HouseWE_3_.jpg?1783683255",
+      "today": false
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -47,7 +201,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/mirrored-water-drop-installation-landscape-sayram-lake-china-zhide/",
       "excerpt": "two interlocking rings form the center of the installation.\nThe post a mirrored water drop installation reflects the landscape of sayram lake in china appeared first on designboom | architecture & des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mirrored-water-drop-installation-heart-sayram-lake-china-zhide-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -57,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092379/nachan-the-antique-courtyard-hotel-pava-architects",
       "excerpt": "Nachan The Antique Courtyard Hotel is designed as a small-scale, tranquil village cluster that represents the serene spirit of the Mekong River landscape. Minimizing the hotel's footprint with reused ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/c2df/ec97/ec01/885c/1244/large_jpg/nachan-the-antique-courtyard-hotel-pava-architects_53.jpg?1783612178",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -67,7 +221,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092464/leloir-studio-pavilion-fir-estudio",
       "excerpt": "In a gated community within the Parque Leloir protected ecological area in Buenos Aires, Argentina, surrounded by a rich diversity of century-old tree species, we were commissioned to design a residen",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/1018/56cb/6000/01e1/b831/large_jpg/Pabellon_Huala_FIR__36_.jpg?1783500874",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -77,7 +231,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1041951/matita-pere-house-materia-base",
       "excerpt": "Nestled in the heart of the Mantiqueira Mountains, near the land of the \"Werewolf,\" where the Matita-Perê whistles loudly, the house emerges from the earth itself. And like the earth, it takes shape a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a10/495a/35eb/2400/01f0/43cc/large_jpg/_08A7941_copyright_manuel_sa.jpg?1779452350",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -87,17 +241,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
       "excerpt": "Designed by Vilanova Artigas in 1956, Muxarabi House is organized around a clear structural system and a precise spatial arrangement. A white rectangular volume elevated on pilotis is distributed acro",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/3019/54d7/6a00/01cc/6b2b/large_jpg/NelsonKon_11-web.jpg?1782263940",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "BBB House / Beczak / Beczak / Architekci",
-      "url": "https://www.archdaily.com/1092471/bbb-house-beczak-beczak-architekci",
-      "excerpt": "A house integrated with nature in the heart of Konstancin.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b839/61ff/5300/01d2/e862/large_jpg/BBB_17.jpg?1783674993",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -107,7 +251,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/hollywood-sign-story",
       "excerpt": "Thomas Fisk Goff and his Crescent Sign Company created the Hollywood sign in 1923. We take a look at this enduring icon of American graphic design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HjuN6GWpGs3FV24yKKLfV5-1438-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -117,7 +261,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/bonetti-oasis-40m-yacht-by-kelly-behun-bonetti-kozerski",
       "excerpt": "This Benetti Oasis yacht – designed by Bonetti/Kozerski with interiors by Kelly Behun – reflects a new generation of more relaxed yacht interiors, informed by residential architecture and design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XC2Uu3DNSfNm3MGjh68N8M-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -127,7 +271,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/maison-mytheresa-yacht-french-riviera",
       "excerpt": "German fashion e-retailer Mytheresa hits the water with the latest iteration of its ‘Maison Mytheresa’ series, which began in St Moritz last December",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ov3Ntyir4VxgwuDi342BhK-1800-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -137,7 +281,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/vesper-london-review",
       "excerpt": "The chef’s new Clerkenwell restaurant pairs cold martinis, clever British comfort food and Jermaine Gallacher-designed interiors",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qtwai864VTBYEEvpMJVDKB-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -147,7 +291,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/chile-tour-smiljan-radic-clarke-buildings",
       "excerpt": "Heading to South America? Join our Chile tour to explore the architecture of the 2026 Pritzker Prize-winning architect, Smiljan Radić Clarke, in six buildings",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Vb6ss3DAQWxXTKLuiW9KiF-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -157,7 +301,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
       "excerpt": "integrated benches provide a place to pause while overlooking the wider landscape.\nThe post as contemporary propylaea, twin timber gateways frame this open-air architectural park appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cube-plus-creative-collective-propylaea-protivo-stoyanie-counter-standing-wooden-landscape-gateway-ecological-trail-russia-designboom-1200-2.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -295,6 +439,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -325,6 +479,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -332,6 +526,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -365,6 +569,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -372,6 +605,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
