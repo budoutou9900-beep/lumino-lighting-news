@@ -1,101 +1,80 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  02:10",
+  "fetchedAt": "2026.07.12  05:52",
   "sourceColors": {
-    "Excite エキサイト": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "newscast.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
-    {
-      "source": "Excite エキサイト",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
-      "title": "光と水のアート照明「DEW」が大型インスタレーションへ進化。渋谷100BANCH「ナナナナ祭2026」にて空間演出モデルを初公開！",
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-104980-22/",
-      "excerpt": "",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -114,35 +93,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.12",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -181,6 +131,34 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "coil kazuteru matumura converts hidden timber outbuildings into shared kitchen in osaka",
+      "url": "https://www.designboom.com/architecture/coil-kazuteru-matumura-architects-hidden-timber-outbuildings-shared-kitchen-osaka-ichizu/",
+      "excerpt": "old and new materials coexist throughout the renovation by coil kazuteru matumura architects.\nThe post coil kazuteru matumura converts hidden timber outbuildings into shared kitchen in osaka appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/coil-kazuteru-matumura-architects-ichizu-osaka-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -348,16 +326,6 @@ window.LUMINO_DATA = {
       "title": "Seven products by USA-based design brands",
       "url": "https://www.dezeen.com/2026/07/10/products-furnishings-lighting-seating-usa-america-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: from sumptuous couches to cutting-edge workstations, the following products are all included in the catalogues of brands based in the USA. The following selection comprises seating, f",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.10",
-      "title": "‘heritage is not a static archive’: GUNIA on reinventing ukraine’s craft and material traditions",
-      "url": "https://www.designboom.com/design/heritage-archive-gunia-ukraine-craft-material-traditions-interview/",
-      "excerpt": "working with over 150 artisans, natalia kamenska and maria gavryliuk have created a brand that preserves their country's traditional techniques and brings them into the present.\nThe post ‘heritage is ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/heritage-archive-gunia-ukraine-craft-material-traditions-interview-designboom-2.jpg",
       "today": false
     },
     {
