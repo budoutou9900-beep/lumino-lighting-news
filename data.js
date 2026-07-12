@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  05:52",
+  "fetchedAt": "2026.07.12  08:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -152,6 +152,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "The newly restored Borges Labyrinth in Venice reopens to the public",
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+      "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "For jewellery designer Anna Sheffield, location and landscape shape an  innate understanding of materials",
+      "url": "https://www.wallpaper.com/watches-jewellery/for-jewellery-designer-anna-sheffield-location-and-landscape-shape-an-innate-understanding-of-materials",
+      "excerpt": "From her studio in Taos, New Mexico, Anna Sheffield creates space for different ways of making, thinking and being",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AmEbqmjoPbLFkSvdG9A4dF.gif",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.12",
@@ -159,6 +179,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/coil-kazuteru-matumura-architects-hidden-timber-outbuildings-shared-kitchen-osaka-ichizu/",
       "excerpt": "old and new materials coexist throughout the renovation by coil kazuteru matumura architects.\nThe post coil kazuteru matumura converts hidden timber outbuildings into shared kitchen in osaka appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/coil-kazuteru-matumura-architects-ichizu-osaka-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "TBB Libraries – Hundred Flowers Park Libraries / Atelier Liu Yuyang Architects",
+      "url": "https://www.archdaily.com/1092347/tbb-libraries-hundred-flowers-park-libraries-atelier-liu-yuyang-architects",
+      "excerpt": "Design Concept. TBB Hundred Flowers Park Libraries, embracing both east and west wings of the central civil park with a stretchy linear gesture, highlight the welcoming characteristics of entrance to ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/f4b2/8c51/7e01/8cc5/bff8/large_jpg/tbb-libraries-hundred-flowers-park-libraries-atelier-liu-yuyang-architects_22.jpg?1783559422",
       "today": true
     },
     {
@@ -212,16 +242,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Muxarabi House / Ana Sawaia Arquitetura",
-      "url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
-      "excerpt": "Designed by Vilanova Artigas in 1956, Muxarabi House is organized around a clear structural system and a precise spatial arrangement. A white rectangular volume elevated on pilotis is distributed acro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/3019/54d7/6a00/01cc/6b2b/large_jpg/NelsonKon_11-web.jpg?1782263940",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.11",
@@ -249,26 +269,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/maison-mytheresa-yacht-french-riviera",
       "excerpt": "German fashion e-retailer Mytheresa hits the water with the latest iteration of its ‘Maison Mytheresa’ series, which began in St Moritz last December",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ov3Ntyir4VxgwuDi342BhK-1800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "With Vesper, Jackson Boxer gives Clerkenwell a restaurant to keep coming back to",
-      "url": "https://www.wallpaper.com/travel/restaurants/vesper-london-review",
-      "excerpt": "The chef’s new Clerkenwell restaurant pairs cold martinis, clever British comfort food and Jermaine Gallacher-designed interiors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qtwai864VTBYEEvpMJVDKB-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "A tour of Chile through Smiljan Radić Clarke’s award-winning architecture",
-      "url": "https://www.wallpaper.com/architecture/chile-tour-smiljan-radic-clarke-buildings",
-      "excerpt": "Heading to South America? Join our Chile tour to explore the architecture of the 2026 Pritzker Prize-winning architect, Smiljan Radić Clarke, in six buildings",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Vb6ss3DAQWxXTKLuiW9KiF-2560-80.jpg",
       "today": false
     },
     {
