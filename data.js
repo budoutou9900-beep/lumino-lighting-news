@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  11:55",
+  "fetchedAt": "2026.07.12  13:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,69 +13,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "DNライティング": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -103,19 +99,20 @@ window.LUMINO_DATA = {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.12",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
       "today": true
     },
     {
@@ -153,6 +150,16 @@ window.LUMINO_DATA = {
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "Anatomy of a logo: MoMA by Ivan Chermayeff",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/moma-logo-design",
+      "excerpt": "Ivan Chermayeff's 1960s MoMA logo combines bold graphical simplicity and intellectual rigour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zP5XQruDpsj5et5pHVEiA-2560-80.jpg",
       "today": true
     },
     {
@@ -211,6 +218,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
       "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "The Politics of Bamboo: From Vernacular Craft to Temporal Infrastructure",
+      "url": "https://www.archdaily.com/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
+      "excerpt": "Bamboo is often praised before it is understood. It grows quickly, carries a long history of building cultures, and appears to offer architecture an immediate ecological language. In photographs, it c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/f184/bdfc/1a01/8a6a/3a8a/large_jpg/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure_2.jpg?1782903177",
       "today": true
     },
     {
@@ -311,33 +328,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Leloir Studio Pavilion / FIR Estudio",
-      "url": "https://www.archdaily.com/1092464/leloir-studio-pavilion-fir-estudio",
-      "excerpt": "In a gated community within the Parque Leloir protected ecological area in Buenos Aires, Argentina, surrounded by a rich diversity of century-old tree species, we were commissioned to design a residen",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/1018/56cb/6000/01e1/b831/large_jpg/Pabellon_Huala_FIR__36_.jpg?1783500874",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.11",
-      "title": "‘to break away from a functional approach to making’: absurdist basket maker lewis prosser",
+      "title": "‘break away from a functional approach to making’: absurdist basket maker lewis prosser",
       "url": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
-      "excerpt": "the british artist uses basketry as a way of asking larger questions about labor, locality, materials, and the future of making.\nThe post ‘to break away from a functional approach to making’: absurdis",
+      "excerpt": "the british artist uses basketry as a way of asking larger questions about labor, locality, materials, and the future of making.\nThe post ‘break away from a functional approach to making’: absurdist b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interview-absurdist-basket-maker-lewis-prosser05-818x545.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Anatomy of a logo: behind Hollywoodland, the world’s most famous sign",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/hollywood-sign-story",
-      "excerpt": "Thomas Fisk Goff and his Crescent Sign Company created the Hollywood sign in 1923. We take a look at this enduring icon of American graphic design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HjuN6GWpGs3FV24yKKLfV5-1438-80.jpg",
       "today": false
     },
     {
