@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  21:43",
+  "fetchedAt": "2026.07.12  22:42",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -141,15 +141,6 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.12",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -163,6 +154,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
       "excerpt": "built around an equilateral triangle, the instrument features two extended playing arms equipped with fretboard-style control surfaces.\nThe post love hultén transforms pink floyd’s prism into a playab",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/love-hulten-pink-floyds-prism-playable-synthesizer-guitar-818x613.webp",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "Primrose House / Robust Architecture Workshop",
+      "url": "https://www.archdaily.com/1092479/primrose-house-robust-architecture-workshop",
+      "excerpt": "Located within a dense suburban neighborhood in Kandy, Primrose House transforms a deteriorating two-bedroom dwelling into a light-filled home. Rather than demolishing the existing structure, the proj",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f4a3/9997/a801/8891/f91b/large_jpg/primrose-house-robust-architecture-workshop_24.jpg?1783690418",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "GP House / AtelierM",
+      "url": "https://www.archdaily.com/1092454/gp-house-atelierm",
+      "excerpt": "GP House is born from the tension between two curves: the corner of the neighborhood, which defines its urban front, and the lagoon that opens up at the back of the lot. Between the two, the house con",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/a8f4/49a5/ed00/0187/3fd6/large_jpg/GP-May26-03.jpg?1783605539",
       "today": true
     },
     {
@@ -261,26 +272,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
       "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "The Politics of Bamboo: From Vernacular Craft to Temporal Infrastructure",
-      "url": "https://www.archdaily.com/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
-      "excerpt": "Bamboo is often praised before it is understood. It grows quickly, carries a long history of building cultures, and appears to offer architecture an immediate ecological language. In photographs, it c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a44/f184/bdfc/1a01/8a6a/3a8a/large_jpg/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure_2.jpg?1782903177",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "La Milagrosa Altarpiece / Alberto Campo Baeza",
-      "url": "https://www.archdaily.com/1031681/la-milagrosa-altarpiece-alberto-campo-baeza",
-      "excerpt": "LUMEN DE LUMINE",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6862/c819/fa62/9531/dc6f/6dd3/large_jpg/retablo-de-la-basilica-la-milagrosa-alberto-campo-baeza_9.jpg?1751304261",
       "today": true
     },
     {
@@ -417,7 +408,6 @@ window.LUMINO_DATA = {
       "title": "ショップ・ショールーム 臨時休業のお知らせ",
       "url": "https://www.yamagiwa.co.jp/news/79630/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -457,7 +447,6 @@ window.LUMINO_DATA = {
       "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
       "url": "https://www.yamagiwa.co.jp/news/79613/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -596,7 +585,6 @@ window.LUMINO_DATA = {
       "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
       "url": "https://www.yamagiwa.co.jp/news/78558/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
