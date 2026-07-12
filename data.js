@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  18:59",
+  "fetchedAt": "2026.07.12  20:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -100,25 +100,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.12",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.12",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.12",
@@ -126,6 +107,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.12",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -151,17 +141,18 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.12",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.12",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "today": true
     },
@@ -172,7 +163,16 @@ window.LUMINO_DATA = {
       "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.12",
+      "title": "love hultén transforms pink floyd’s prism into a playable synthesizer guitar",
+      "url": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
+      "excerpt": "built around an equilateral triangle, the instrument features two extended playing arms equipped with fretboard-style control surfaces.\nThe post love hultén transforms pink floyd’s prism into a playab",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/love-hulten-pink-floyds-prism-playable-synthesizer-guitar-818x613.webp",
       "today": true
     },
     {
@@ -358,16 +358,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
       "excerpt": "the british artist uses basketry as a way of asking larger questions about labor, locality, materials, and the future of making.\nThe post ‘break away from a functional approach to making’: absurdist b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interview-absurdist-basket-maker-lewis-prosser05-818x545.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "as contemporary propylaea, twin timber gateways frame this open-air architectural park",
-      "url": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
-      "excerpt": "integrated benches provide a place to pause while overlooking the wider landscape.\nThe post as contemporary propylaea, twin timber gateways frame this open-air architectural park appeared first on des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cube-plus-creative-collective-propylaea-protivo-stoyanie-counter-standing-wooden-landscape-gateway-ecological-trail-russia-designboom-1200-2.jpg",
       "today": false
     },
     {
