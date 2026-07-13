@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.12  23:47",
+  "fetchedAt": "2026.07.13  02:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -88,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -98,25 +98,27 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
       "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
@@ -125,7 +127,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -135,20 +137,21 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.12",
+      "date": "2026.07.13",
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.07.12",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "today": true
+      "title": "Villa Suki / Alexis Dornier",
+      "url": "https://www.archdaily.com/1092518/villa-suki-alexis-dornier",
+      "excerpt": "Villa Suki is conceived as a quiet composition of geometry, landscape, and light - an outward-looking private residence structured around a central void. The house is organized as a perfect square, ro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/1220/4dc7/6e01/886b/460a/large_jpg/villa-suki-alexis-dornier_15.jpg?1783697979",
+      "today": false
     },
     {
       "source": "designboom",
@@ -158,7 +161,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
       "excerpt": "built around an equilateral triangle, the instrument features two extended playing arms equipped with fretboard-style control surfaces.\nThe post love hultén transforms pink floyd’s prism into a playab",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/love-hulten-pink-floyds-prism-playable-synthesizer-guitar-818x613.webp",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -168,7 +171,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092479/primrose-house-robust-architecture-workshop",
       "excerpt": "Located within a dense suburban neighborhood in Kandy, Primrose House transforms a deteriorating two-bedroom dwelling into a light-filled home. Rather than demolishing the existing structure, the proj",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f4a3/9997/a801/8891/f91b/large_jpg/primrose-house-robust-architecture-workshop_24.jpg?1783690418",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -178,7 +181,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092454/gp-house-atelierm",
       "excerpt": "GP House is born from the tension between two curves: the corner of the neighborhood, which defines its urban front, and the lagoon that opens up at the back of the lot. Between the two, the house con",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/a8f4/49a5/ed00/0187/3fd6/large_jpg/GP-May26-03.jpg?1783605539",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -188,7 +191,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092513/condominium-4-houses-in-cascais-humberto-conde-arquitectos",
       "excerpt": "The condominium of four houses in Abuxarda, Portugal, is a contemporary residential development designed to take advantage of the site's topography, natural light, and surrounding landscape. The four ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/feee/e05c/0800/010e/1394/large_jpg/arquiteto-moradia-residencia-abuxarda-031.jpg?1783693071",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -198,7 +201,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/moma-logo-design",
       "excerpt": "Ivan Chermayeff's 1960s MoMA logo combines bold graphical simplicity and intellectual rigour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zP5XQruDpsj5et5pHVEiA-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -208,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092495/stable-carmen-maurice-architecture",
       "excerpt": "In Lassay-les-Châteaux, Mayenne (France), Carmen Maurice delivered a new racing stable for Standardbred trotters.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/e6e5/61ff/5300/01d2/e90c/large_jpg/_CMA_et_Guillaume_Amat_Pignon_est.jpg?1783686910",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -218,7 +221,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/miko-mei-fair-london-review",
       "excerpt": "The new Thai restaurant from restaurateur Samyukta Nair pairs Koyn Thai’s robata grill with MiMi Mei Fair’s maximalist Mayfair mood",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SmBsdow95csrixpzr8mz4Y-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -228,7 +231,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
       "excerpt": "HYVE sends a self-driving beehive through the city, carrying pollination between fragmented green spaces.\nThe post nicolas nielsen designs self-driving HYVE beehive to pollinate cities appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/nicolas-nielsen-hyve-self-driving-beehive-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -237,7 +240,7 @@ window.LUMINO_DATA = {
       "title": "Verstas Architects uses natural materials for \"comforting and gentle\" mortuary in Helsinki",
       "url": "https://www.dezeen.com/2026/07/12/verstas-architects-malmi-mortuary/",
       "excerpt": "Finnish studio Verstas Architects has completed the Malmi Mortuary and Farewell Spaces in Helsinki using a pared-back palette of stone, timber and brick. Located next to Malmi Cemetery, the largest ce",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -246,17 +249,7 @@ window.LUMINO_DATA = {
       "title": "Eight pocket gardens and mini courtyards that draw light into the home",
       "url": "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
       "excerpt": "Our latest lookbook rounds up houses that maximise underutilised spaces with pocket gardens and courtyards, helping to bring daylight and views of nature inside the home. Whether tucked into the corne",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Montreuil Housing / minuit architectes",
-      "url": "https://www.archdaily.com/1054054/montreuil-housing-minuit-architectes",
-      "excerpt": "This development of nine housing units is set within a heterogeneous urban context, both programmatically and morphologically.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/ecfa/062b/6500/019a/ac47/large_jpg/2026_Minuit_Montreuil_02.jpg?1783426374",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -266,7 +259,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-vibram-sole",
       "excerpt": "The fourth instalment of the architect's series, 'Objectify,' investigates how Italy's Vibram sole helped the world find its footing",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SaZEF2hjkENgpRNUMQxoLE-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -276,7 +269,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
       "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -286,7 +279,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/for-jewellery-designer-anna-sheffield-location-and-landscape-shape-an-innate-understanding-of-materials",
       "excerpt": "From her studio in Taos, New Mexico, Anna Sheffield creates space for different ways of making, thinking and being",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AmEbqmjoPbLFkSvdG9A4dF.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -295,7 +288,7 @@ window.LUMINO_DATA = {
       "title": "Overstimulated design student creates satisfyingly minimal focus timer",
       "url": "https://www.dezeen.com/2026/07/12/carrie-lee-immersion-focus-timer/",
       "excerpt": "Frustrated by her own struggle to stay focused while studying, product design student Carrie Lee has developed a portable task timer that hopes to rival the addictiveness of smartphones. Her prototype",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -305,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/coil-kazuteru-matumura-architects-hidden-timber-outbuildings-shared-kitchen-osaka-ichizu/",
       "excerpt": "old and new materials coexist throughout the renovation by coil kazuteru matumura architects.\nThe post coil kazuteru matumura converts hidden timber outbuildings into shared kitchen in osaka appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/coil-kazuteru-matumura-architects-ichizu-osaka-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
