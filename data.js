@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  16:27",
+  "fetchedAt": "2026.07.13  18:29",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "fujitv.co.jp": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "Google ニュース": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Dezeen": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -96,51 +100,69 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254473",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "fujitv.co.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776?kw",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
+      "url": "https://www.ozmall.co.jp/summer/article/45784/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "1X Technologies designs humanoid hand to \"match or surpass human capability\"",
+      "url": "https://www.dezeen.com/2026/07/13/1x-technologies-neo-robot-hand/",
+      "excerpt": "California-based company 1X Technologies has updated the hands of its humanoid robot Neo to \"perform virtually any task a human can do with their hands\". The hands will be installed on the first Neo r",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "david chipperfield revives historic waterfront landmark as new museum in spain",
+      "url": "https://www.designboom.com/architecture/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain/",
+      "excerpt": "DAVID CHIPPERFIELD REOPENS THE PEREDA BUILDING TO THE CITY   David Chipperfield Architects completes the transformation of the historic Pereda Building in northern into Faro Santander, a new center fo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain-10.jpg",
       "today": true
     },
     {
@@ -192,6 +214,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Dyes Inlet House / SHED Architecture & Design",
+      "url": "https://www.archdaily.com/1092504/dyes-inlet-house-shed-architecture-and-design",
+      "excerpt": "This new primary home with a nearby guest house is designed with high-performance strategies to harmonize with its waterfront location on Washington's Kitsap Peninsula. The home reinterprets Scandinav",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f3bb/61ff/5300/01d2/e925/large_jpg/SHED-Dyes_Inlet_II-05.jpg?1783690257",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -230,6 +262,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Viktoria House / Architekt Andreas Gruber",
+      "url": "https://www.archdaily.com/1054053/viktoria-house-architekt-andreas-gruber",
+      "excerpt": "Viktoria's House is a concrete residence located in Vals, South Tyrol, at an elevation of approximately 1,350 meters above sea level. The house is set against steeply rising mountain slopes that trans",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/ea72/062b/6500/019a/ac2c/large_jpg/55_Andreas-Gruber_Arch_VALS_LV_I.jpg?1783425710",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -250,25 +292,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "an archipelago of botanical sculptures by agostino iacurci fills historic courtyard in milan",
-      "url": "https://www.designboom.com/art/archipelago-botanical-sculptures-agostino-iacurci-historic-courtyard-portrait-milano/",
-      "excerpt": "inspired by an 1895 lithograph depicting the former archiepiscopal seminary as a lush garden, the artist populates the renaissance courtyard with eight monumental steel sculptures.\nThe post an archipe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/archipelago-botanical-sculptures-agostino-iacurci-historic-courtyard-portrait-mi-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "YSG draws on art deco for Sydney apartment revamp",
-      "url": "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
-      "excerpt": "Chamfered surfaces, warm hues and reinstated art deco features define the interiors of The Gentleman, a Sydney apartment remodelled by local interiors studio YSG. YSG carried out a complete renovation",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -286,26 +309,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
       "excerpt": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the fa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Restaurant Huset Svalbard / Snøhetta",
-      "url": "https://www.archdaily.com/1054035/restaurant-huset-svalbard-snohetta",
-      "excerpt": "The ever-changing light and contrasts of Svalbard inspired the new interior of the world's northernmost fine dining restaurant.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/1290/254f/2c01/7ce8/ef4e/large_jpg/restaurant-huset-svalbard-snohetta_18.jpg?1783370419",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Virtual Environments Are Changing the Way We Experience Architecture",
-      "url": "https://www.archdaily.com/1054064/virtual-environments-are-changing-the-way-we-experience-architecture",
-      "excerpt": "There is a big difference between looking at an image of a building and experiencing the space it represents. The atmosphere of a place, shaped by its light, sounds, materiality, and relationship with",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/4459/4d0b/1301/89b3/93cb/large_jpg/virtual-environments-are-changing-the-way-we-experience-architecture_6.jpg?1783448814",
       "today": true
     },
     {
