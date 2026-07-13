@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  13:21",
+  "fetchedAt": "2026.07.13  16:27",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "fujitv.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "DNライティング": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "大光電機": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -100,50 +96,79 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "12/6(土)～2026/2/1(日)『Azumino.光のページェント』第20回記念！安曇野の冬を幻想的にライトアップ！点灯式では穂高商業高校＆ご当地アイドルとのコラボも【2025-2026年 長野県イルミネーション】＠長野県安曇野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254473",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "fujitv.co.jp",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
-      "url": "https://www.ozmall.co.jp/summer/article/45784/",
+      "title": "社屋イルミネーションAURORA∞を活用しアウェアネスカラーライトアップを実施",
+      "url": "https://www.fujitv.co.jp/sustainability/activity_y25/social/0228.html",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fujitv.co.jp/sustainability/img/social/social_OGP_0228.jpg",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=258289",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776?kw",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Ten stadiums of the future that rewrite the playbook",
+      "url": "https://www.dezeen.com/2026/07/13/future-stadiums-roundup/",
+      "excerpt": "Stadiums are no longer just being designed for matchdays, with architects boldly pursuing novelty to create distinctive year-round landmarks. For our Future Stadium series, we look at 10 of the most o",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "File into the Future Stadium",
+      "url": "https://www.dezeen.com/2026/07/13/future-stadium-series-introduction/",
+      "excerpt": "With stadium construction intensifying and the World Cup drawing to a close, our Future Stadium series looks at the future of one of the world's most impactful buildings. We live in an age of entertai",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "modernist-inspired café framed by layered wood and steel extends almaty museum of arts",
+      "url": "https://www.designboom.com/architecture/modernist-cafe-layered-wood-steel-almaty-museum-arts-khalansky-cafe-alma/",
+      "excerpt": "geometric clarity and clean lines draw from soviet modernist principles.\nThe post modernist-inspired café framed by layered wood and steel extends almaty museum of arts appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/modernist-cafe-layered-wood-steel-almaty-museum-arts-khalansky-cafe-alma-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -209,9 +234,19 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.07.13",
       "title": "recycled cables transform this pair of adidas sneakers into a one-of-one design",
-      "url": "https://www.designboom.com/editorials/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
+      "url": "https://www.designboom.com/design/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
       "excerpt": "CORY INFINITE REWORKS THE ADISTAR XLG 2.0   American artist Cory Infinite has transformed a pair of Adidas Adistar XLG 2.0 sneakers into a one-of-one design for singer Teezo Touchdown. Created in coll",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/recycled-adidas-sneakers-cory-infinite-teezo-touchdown-04-800x1000.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Greenbuild International Conference + Expo 2026",
+      "url": "https://www.archdaily.com/1148563/greenbuild-international-conference-plus-expo-2026",
+      "excerpt": "Greenbuild hosts the largest annual event for green building professionals worldwide where attendees learn and source solutions to improve resilience, sustainability, and quality of life in our buildi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/c2ee/22ee/0e00/0134/c779/large_jpg/gb26_socical_header_820_x_462.jpg?1783939827",
       "today": true
     },
     {
@@ -274,25 +309,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "\"We Want to Learn Something New\": In Conversation With the Curators of UIA World Congress of Architects Barcelona 2026",
-      "url": "https://www.archdaily.com/1148555/we-want-to-learn-something-new-in-conversation-with-the-curators-of-uia-world-congress-of-architects-barcelona-2026",
-      "excerpt": "As Barcelona hosts the UIA World Congress of Architects for the second time in its history, thirty years after the 1996 edition, the city becomes a site for reflecting not only on architecture but als",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b4b3/a6cc/5601/89e4/e1f3/large_jpg/we-want-to-learn-something-new-in-conversation-with-the-curators-of-uia-world-congress-of-architects-barcelona-2026_1.jpg?1783936183",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Mesh-89 device lets Palestinian drivers stay ahead of checkpoint closures",
-      "url": "https://www.dezeen.com/2026/07/13/mesh-89-device-palestinian-drivers-checkpoint-closures/",
-      "excerpt": "Recent Central Saint Martins graduate Joud Abuhomos has invented a simple, off-grid communication device called Mesh-89, designed to alert Palestinian bus drivers to the status of the West Bank's 89 p",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -301,25 +317,6 @@ window.LUMINO_DATA = {
       "excerpt": "London studio Daytrip reinvents a 1990s Somerset retreat by refining its interiors, clarifying its architecture, and opening it onto the British countryside",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bWyUhiCjm4sZVsBomFtCVU-2560-80.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "interconnected metal rods form a luminous winged installation on china’s coastline",
-      "url": "https://www.designboom.com/art/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide/",
-      "excerpt": "copper plates form the installation’s central core, while transparent acrylic lightboxes are integrated throughout the framework.\nThe post interconnected metal rods form a luminous winged installation",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide-designboom-1200-2.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Modular activewear collection among projects from University of Portsmouth",
-      "url": "https://www.dezeen.com/2026/07/12/modular-activewear-university-of-portsmouth-schoolshows/",
-      "excerpt": "Dezeen School Shows: an activewear collection consisting of modular garments to adapt to movement and different body types is among projects from the University of Portsmouth. Also featured is a proje",
-      "today": false
     },
     {
       "source": "Wallpaper*",
