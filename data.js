@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  02:11",
+  "fetchedAt": "2026.07.13  06:10",
   "sourceColors": {
-    "axismag.jp": {
+    "NSGグループ": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "美術館・アート情報": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,72 +37,80 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
+      "source": "NSGグループ",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "【国際音楽・ダンス・エンタテイメント専門学校】照明、映像が織りなすインスタレーションの特別講義を実施 〜映像×照明×音響でつくる空間演出、これからのエンタテイメントの形",
+      "url": "https://www.nsg.gr.jp/blog/%E3%80%90%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88%E5%B0%82%E9%96%80%E5%AD%A6-63/",
+      "excerpt": "",
+      "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/32951/1292/32951-1292-0afc1746a51f6e8eb0b6aabb30fff9ef-1918x1076.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
+      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "美術館・アート情報",
       "cat": "国内情報",
       "date": "2026.07.13",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://artscape.jp/study/person/1195387_1976.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
       "today": true
     },
     {
@@ -113,6 +121,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -141,6 +158,47 @@ window.LUMINO_DATA = {
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "This bucolic Somerset retreat is surrounded by wildflower meadows",
+      "url": "https://www.wallpaper.com/architecture/residential/somerset-retreat-daytrip-uk",
+      "excerpt": "London studio Daytrip reinvents a 1990s Somerset retreat by refining its interiors, clarifying its architecture, and opening it onto the British countryside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bWyUhiCjm4sZVsBomFtCVU-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "interconnected metal rods form a luminous winged installation on china’s coastline",
+      "url": "https://www.designboom.com/art/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide/",
+      "excerpt": "copper plates form the installation’s central core, while transparent acrylic lightboxes are integrated throughout the framework.\nThe post interconnected metal rods form a luminous winged installation",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide-designboom-1200-2.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Antara Residence / Ark Architecture Studio",
+      "url": "https://www.archdaily.com/1092491/antara-residence-ark-architecture-studio",
+      "excerpt": "Conceived as a contemporary reinterpretation of Kerala's traditional architecture, this residence transforms familiar climatic principles into a modern spatial experience. Rather than replicating vern",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/e3b2/61ff/5300/01d2/e8e9/large_jpg/1.jpg?1783686107",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "The Ecological Kaleidoscope of East Nanjing Road: Century Square Reborn / EMBT + TJAD",
+      "url": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad",
+      "excerpt": "In the heart of Shanghai's most iconic pedestrian corridor, East Nanjing Road, the renewal of Century Square by Benedetta Tagliabue –EMBT in collaboration with Tongji University Architectural Design a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9207/909d/2383/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_13.jpg?1779750108",
       "today": true
     },
     {
@@ -184,16 +242,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Condominium 4 Houses in Cascais / Humberto Conde Arquitectos",
-      "url": "https://www.archdaily.com/1092513/condominium-4-houses-in-cascais-humberto-conde-arquitectos",
-      "excerpt": "The condominium of four houses in Abuxarda, Portugal, is a contemporary residential development designed to take advantage of the site's topography, natural light, and surrounding landscape. The four ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/feee/e05c/0800/010e/1394/large_jpg/arquiteto-moradia-residencia-abuxarda-031.jpg?1783693071",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.12",
@@ -201,16 +249,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/moma-logo-design",
       "excerpt": "Ivan Chermayeff's 1960s MoMA logo combines bold graphical simplicity and intellectual rigour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zP5XQruDpsj5et5pHVEiA-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Stable / Carmen Maurice Architecture",
-      "url": "https://www.archdaily.com/1092495/stable-carmen-maurice-architecture",
-      "excerpt": "In Lassay-les-Châteaux, Mayenne (France), Carmen Maurice delivered a new racing stable for Standardbred trotters.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/e6e5/61ff/5300/01d2/e90c/large_jpg/_CMA_et_Guillaume_Amat_Pignon_est.jpg?1783686910",
       "today": false
     },
     {
@@ -272,16 +310,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "For jewellery designer Anna Sheffield, location and landscape shape an  innate understanding of materials",
-      "url": "https://www.wallpaper.com/watches-jewellery/for-jewellery-designer-anna-sheffield-location-and-landscape-shape-an-innate-understanding-of-materials",
-      "excerpt": "From her studio in Taos, New Mexico, Anna Sheffield creates space for different ways of making, thinking and being",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AmEbqmjoPbLFkSvdG9A4dF.gif",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.12",
@@ -326,16 +354,6 @@ window.LUMINO_DATA = {
       "title": "BoND designs \"dark and enveloping\" private sauna in New York",
       "url": "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
       "excerpt": "Architecture studio BoND has used \"the logic of a bento box\" to organise spaces within a compact, atmospheric sauna in Chelsea, New York. BoND was enlisted to design the interiors and identity for Sai",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "‘break away from a functional approach to making’: absurdist basket maker lewis prosser",
-      "url": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
-      "excerpt": "the british artist uses basketry as a way of asking larger questions about labor, locality, materials, and the future of making.\nThe post ‘break away from a functional approach to making’: absurdist b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interview-absurdist-basket-maker-lewis-prosser05-818x545.jpg",
       "today": false
     },
     {
