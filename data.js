@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  10:20",
+  "fetchedAt": "2026.07.13  13:21",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,27 +17,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -119,16 +119,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.13",
@@ -148,6 +138,63 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Marta de la Rica brings a 1970s nautical spirit to Club de Mar Mallorca",
+      "url": "https://www.wallpaper.com/travel/club-de-mar-marta-de-la-rica-mallorca-interior-design",
+      "excerpt": "After a five-and-a-half-year redevelopment, Palma’s historic marina reopens with whimsical interiors inspired by Riva runabouts and nautical flags",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3t6GZ2VWY5Mf9YC5qDeuhD-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "A yoga retreat in East Hampton translates the art of wellness into architectural form",
+      "url": "https://www.wallpaper.com/architecture/yoga-retreat-bruce-engel-east-hampton-usa",
+      "excerpt": "BE_Design’s Woods Retreat is a blackened temple to the principles of yogic process in a spectacular woodland location",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N32as62LfvJjzR65JHFRmU-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "what we learned: crafting the future",
+      "url": "https://www.designboom.com/design/what-we-learned-crafting-the-future/",
+      "excerpt": "we look back at how designboom's latest chapter presents craft as an approach to the world that values attentiveness over speed, collaboration over isolation, and long-term stewardship over short-term",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kengo-kuma-craftsmanship-architecture-connection-place-designboom-06.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage",
+      "url": "https://www.dezeen.com/2026/07/13/muttram-veedu-will-gamble-architects-courtyard-extension/",
+      "excerpt": "A timber-framed glazed link and courtyard garden connect old and new parts of this home in Northwood, UK, which architecture studio Will Gamble Architects designed to reference traditional Sri Lankan ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Barrel-vaulted community greenhouse built at the Barbican",
+      "url": "https://www.dezeen.com/2026/07/13/veggery-barbican-studio-folk-architects-raskl/",
+      "excerpt": "Architecture firms Studio Folk Architects and Raskl have built a timber-framed greenhouse, named The Veggery, at the Barbican Estate as part of the London Festival of Architecture. Hexagonal in shape,",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -162,7 +209,7 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.07.13",
       "title": "recycled cables transform this pair of adidas sneakers into a one-of-one design",
-      "url": "https://www.designboom.com/art/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
+      "url": "https://www.designboom.com/editorials/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
       "excerpt": "CORY INFINITE REWORKS THE ADISTAR XLG 2.0   American artist Cory Infinite has transformed a pair of Adidas Adistar XLG 2.0 sneakers into a one-of-one design for singer Teezo Touchdown. Created in coll",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/recycled-adidas-sneakers-cory-infinite-teezo-touchdown-04-800x1000.jpg",
       "today": true
@@ -175,6 +222,65 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/archipelago-botanical-sculptures-agostino-iacurci-historic-courtyard-portrait-milano/",
       "excerpt": "inspired by an 1895 lithograph depicting the former archiepiscopal seminary as a lush garden, the artist populates the renaissance courtyard with eight monumental steel sculptures.\nThe post an archipe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/archipelago-botanical-sculptures-agostino-iacurci-historic-courtyard-portrait-mi-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "YSG draws on art deco for Sydney apartment revamp",
+      "url": "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
+      "excerpt": "Chamfered surfaces, warm hues and reinstated art deco features define the interiors of The Gentleman, a Sydney apartment remodelled by local interiors studio YSG. YSG carried out a complete renovation",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "EDIFICA",
+      "url": "https://www.archdaily.com/1148548/edifica",
+      "excerpt": "Since its founding in 1990, Edifica has established itself as the most significant exhibition of its kind in Latin America. Organized biennially by the Chilean Chamber of Construction and Fisa, this m",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/a4ae/22ee/0e00/0134/c613/large_jpg/Edifica_2026-01.jpg?1783932086",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
+      "url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
+      "excerpt": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the fa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Restaurant Huset Svalbard / Snøhetta",
+      "url": "https://www.archdaily.com/1054035/restaurant-huset-svalbard-snohetta",
+      "excerpt": "The ever-changing light and contrasts of Svalbard inspired the new interior of the world's northernmost fine dining restaurant.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/1290/254f/2c01/7ce8/ef4e/large_jpg/restaurant-huset-svalbard-snohetta_18.jpg?1783370419",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Virtual Environments Are Changing the Way We Experience Architecture",
+      "url": "https://www.archdaily.com/1054064/virtual-environments-are-changing-the-way-we-experience-architecture",
+      "excerpt": "There is a big difference between looking at an image of a building and experiencing the space it represents. The atmosphere of a place, shaped by its light, sounds, materiality, and relationship with",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4d/4459/4d0b/1301/89b3/93cb/large_jpg/virtual-environments-are-changing-the-way-we-experience-architecture_6.jpg?1783448814",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "\"We Want to Learn Something New\": In Conversation With the Curators of UIA World Congress of Architects Barcelona 2026",
+      "url": "https://www.archdaily.com/1148555/we-want-to-learn-something-new-in-conversation-with-the-curators-of-uia-world-congress-of-architects-barcelona-2026",
+      "excerpt": "As Barcelona hosts the UIA World Congress of Architects for the second time in its history, thirty years after the 1996 edition, the city becomes a site for reflecting not only on architecture but als",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b4b3/a6cc/5601/89e4/e1f3/large_jpg/we-want-to-learn-something-new-in-conversation-with-the-curators-of-uia-world-congress-of-architects-barcelona-2026_1.jpg?1783936183",
       "today": true
     },
     {
@@ -197,16 +303,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Belonging to the Earth: Architecture in the Worldviews of Indigenous Peoples of Latin America",
-      "url": "https://www.archdaily.com/1042806/belonging-to-the-earth-architecture-in-the-worldviews-of-indigenous-peoples-of-latin-america",
-      "excerpt": "Anyone expecting the following words to discuss materiality, sustainable construction techniques, woodworking methods, or ways of weaving thatch will be mistaken. This article seeks precisely to shift",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/bfa7/bdfc/1a01/8a6a/21c5/large_jpg/aqui-nos-pertencemos-arquitetura-na-cosmovisao-dos-povos-originarios-da-america-latina_1.jpg?1782431660",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -217,71 +313,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Sants Social Center / LAOS (Xavier Botet + Albert Saboya)",
-      "url": "https://www.archdaily.com/1043023/sants-social-center-laos-xavier-botet-plus-albert-saboya",
-      "excerpt": "The rehabilitation project is based on the premise of placing people, the neighbourhood, activities, and social life at the centre of architecture. The proposal transforms a building originally constr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/1658/2be1/1205/b990/11be/large_jpg/sants-social-center-laos-xavier-botet-plus-albert-saboya_19.jpg?1783502446",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Antara Residence / Ark Architecture Studio",
-      "url": "https://www.archdaily.com/1092491/antara-residence-ark-architecture-studio",
-      "excerpt": "Conceived as a contemporary reinterpretation of Kerala's traditional architecture, this residence transforms familiar climatic principles into a modern spatial experience. Rather than replicating vern",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/e3b2/61ff/5300/01d2/e8e9/large_jpg/1.jpg?1783686107",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "The Ecological Kaleidoscope of East Nanjing Road: Century Square Reborn / EMBT + TJAD",
-      "url": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad",
-      "excerpt": "In the heart of Shanghai's most iconic pedestrian corridor, East Nanjing Road, the renewal of Century Square by Benedetta Tagliabue –EMBT in collaboration with Tongji University Architectural Design a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9207/909d/2383/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_13.jpg?1779750108",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Villa Suki / Alexis Dornier",
-      "url": "https://www.archdaily.com/1092518/villa-suki-alexis-dornier",
-      "excerpt": "Villa Suki is conceived as a quiet composition of geometry, landscape, and light - an outward-looking private residence structured around a central void. The house is organized as a perfect square, ro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/1220/4dc7/6e01/886b/460a/large_jpg/villa-suki-alexis-dornier_15.jpg?1783697979",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "love hultén transforms pink floyd’s prism into a playable synthesizer guitar",
-      "url": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
-      "excerpt": "built around an equilateral triangle, the instrument features two extended playing arms equipped with fretboard-style control surfaces.\nThe post love hultén transforms pink floyd’s prism into a playab",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/love-hulten-pink-floyds-prism-playable-synthesizer-guitar-818x613.webp",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.12",
       "title": "Modular activewear collection among projects from University of Portsmouth",
       "url": "https://www.dezeen.com/2026/07/12/modular-activewear-university-of-portsmouth-schoolshows/",
       "excerpt": "Dezeen School Shows: an activewear collection consisting of modular garments to adapt to movement and different body types is among projects from the University of Portsmouth. Also featured is a proje",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Amazonian crafts feature in Costa Brazil's New York fragrance store",
-      "url": "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
-      "excerpt": "Fragrance brand Costa Brazil's flagship retail space in New York's Hudson Yards features items from its founder's personal collection and was designed in collaboration with Alexander May Studio. The C",
       "today": false
     },
     {
@@ -302,44 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/miko-mei-fair-london-review",
       "excerpt": "The new Thai restaurant from restaurateur Samyukta Nair pairs Koyn Thai’s robata grill with MiMi Mei Fair’s maximalist Mayfair mood",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SmBsdow95csrixpzr8mz4Y-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Verstas Architects uses natural materials for \"comforting and gentle\" mortuary in Helsinki",
-      "url": "https://www.dezeen.com/2026/07/12/verstas-architects-malmi-mortuary/",
-      "excerpt": "Finnish studio Verstas Architects has completed the Malmi Mortuary and Farewell Spaces in Helsinki using a pared-back palette of stone, timber and brick. Located next to Malmi Cemetery, the largest ce",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Eight pocket gardens and mini courtyards that draw light into the home",
-      "url": "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
-      "excerpt": "Our latest lookbook rounds up houses that maximise underutilised spaces with pocket gardens and courtyards, helping to bring daylight and views of nature inside the home. Whether tucked into the corne",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Carlo Ratti on why the Vibram sole is a staple of the Italian summer",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-vibram-sole",
-      "excerpt": "The fourth instalment of the architect's series, 'Objectify,' investigates how Italy's Vibram sole helped the world find its footing",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SaZEF2hjkENgpRNUMQxoLE-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "The newly restored Borges Labyrinth in Venice reopens to the public",
-      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-      "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
       "today": false
     },
     {
