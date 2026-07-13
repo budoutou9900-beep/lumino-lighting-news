@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  18:29",
+  "fetchedAt": "2026.07.13  20:09",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "久留米ファン": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "newscast.jp": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -100,6 +104,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.13",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.13",
@@ -119,6 +132,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.13",
@@ -135,15 +158,6 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
       "today": true
     },
     {
@@ -211,6 +225,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/yoga-retreat-bruce-engel-east-hampton-usa",
       "excerpt": "BE_Design’s Woods Retreat is a blackened temple to the principles of yogic process in a spectacular woodland location",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N32as62LfvJjzR65JHFRmU-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Jacarezinho II House / Felipe Hess Arquitetos",
+      "url": "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos",
+      "excerpt": "Situated on a one-thousand-square-meter corner lot, the Jacarezinho House is born from the direct relationship between architecture and the garden. The strategy was to push the construction against on",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/ee28/0e77/3c1a/4ccf/cd3c/large_jpg/casa-jacarezinho-ii-felipe-hess-arquitetos_30.jpg?1783557725",
       "today": true
     },
     {
@@ -299,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148548/edifica",
       "excerpt": "Since its founding in 1990, Edifica has established itself as the most significant exhibition of its kind in Latin America. Organized biennially by the Chilean Chamber of Construction and Fisa, this m",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/a4ae/22ee/0e00/0134/c613/large_jpg/Edifica_2026-01.jpg?1783932086",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
-      "url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
-      "excerpt": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the fa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
       "today": true
     },
     {
