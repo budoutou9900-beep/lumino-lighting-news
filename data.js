@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  21:51",
+  "fetchedAt": "2026.07.13  22:51",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -161,6 +161,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "carved from solid carrara marble, abstract house-like objects explore architectural form",
+      "url": "https://www.designboom.com/design/solid-carrara-marble-abstract-house-objects-architectural-form-eternal-structures-kfir-galatia-azulay/",
+      "excerpt": "the compositions suggest fragments of imagined cities or archetypal architectural forms.\nThe post carved from solid carrara marble, abstract house-like objects explore architectural form appeared firs",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/eternal-structures-collection-carrara-marble-abstract-house-objects-kfir-galatia-azulay-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -177,6 +187,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain/",
       "excerpt": "DAVID CHIPPERFIELD REOPENS THE PEREDA BUILDING TO THE CITY   David Chipperfield Architects completes the transformation of the historic Pereda Building in northern into Faro Santander, a new center fo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain-10.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "AMS House / Jacobsen Arquitetura",
+      "url": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura",
+      "excerpt": "Carefully implemented on a sloping plot of land, the AMS House was built on the highest point of the lot, where the native forest serves as a backdrop and reference for the design of the house. Three ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68cf/3c51/67a7/a401/899d/97f9/large_jpg/residencia-ams-jacobsen-arquitetura_20.jpg?1758411871",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Larivière Foundation / Clusellas Ades + Machado-Silvetti",
+      "url": "https://www.archdaily.com/1148568/lariviere-foundation-clusellas-ades-plus-machado-silvetti",
+      "excerpt": "Choosing a lot on an industrial block in the La Boca neighborhood for the Larivière Foundation was the bold decision that originated this project, which benefited from the advisory of Facundo and Paul",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/c852/a6cc/5601/89e4/e265/large_jpg/fundacion-lariviere-clusellas-ades-plus-machado-silvetti_2.jpg?1783941234",
       "today": true
     },
     {
@@ -293,36 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1054053/viktoria-house-architekt-andreas-gruber",
       "excerpt": "Viktoria's House is a concrete residence located in Vals, South Tyrol, at an elevation of approximately 1,350 meters above sea level. The house is set against steeply rising mountain slopes that trans",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/ea72/062b/6500/019a/ac2c/large_jpg/55_Andreas-Gruber_Arch_VALS_LV_I.jpg?1783425710",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "recycled cables transform this pair of adidas sneakers into a one-of-one design",
-      "url": "https://www.designboom.com/design/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
-      "excerpt": "CORY INFINITE REWORKS THE ADISTAR XLG 2.0   American artist Cory Infinite has transformed a pair of Adidas Adistar XLG 2.0 sneakers into a one-of-one design for singer Teezo Touchdown. Created in coll",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/recycled-adidas-sneakers-cory-infinite-teezo-touchdown-04-800x1000.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Greenbuild International Conference + Expo 2026",
-      "url": "https://www.archdaily.com/1148563/greenbuild-international-conference-plus-expo-2026",
-      "excerpt": "Greenbuild hosts the largest annual event for green building professionals worldwide where attendees learn and source solutions to improve resilience, sustainability, and quality of life in our buildi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/c2ee/22ee/0e00/0134/c779/large_jpg/gb26_socical_header_820_x_462.jpg?1783939827",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "EDIFICA",
-      "url": "https://www.archdaily.com/1148548/edifica",
-      "excerpt": "Since its founding in 1990, Edifica has established itself as the most significant exhibition of its kind in Latin America. Organized biennially by the Chilean Chamber of Construction and Fisa, this m",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/a4ae/22ee/0e00/0134/c613/large_jpg/Edifica_2026-01.jpg?1783932086",
       "today": true
     },
     {
