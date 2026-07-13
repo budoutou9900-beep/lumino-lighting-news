@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  06:10",
+  "fetchedAt": "2026.07.13  10:20",
   "sourceColors": {
-    "NSGグループ": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術館・アート情報": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,72 +45,58 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "NSGグループ",
-      "cat": "展示・アート",
-      "date": "2026.07.13",
-      "title": "【国際音楽・ダンス・エンタテイメント専門学校】照明、映像が織りなすインスタレーションの特別講義を実施 〜映像×照明×音響でつくる空間演出、これからのエンタテイメントの形",
-      "url": "https://www.nsg.gr.jp/blog/%E3%80%90%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88%E5%B0%82%E9%96%80%E5%AD%A6-63/",
-      "excerpt": "",
-      "thumbnailUrl": "https://prcdn.freetls.fastly.net/release_image/32951/1292/32951-1292-0afc1746a51f6e8eb0b6aabb30fff9ef-1918x1076.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.07.13",
-      "title": "アイルランドの夜の山並みを照明で彩る Kari Kolaのインスタレーション「Savage Beauty」",
-      "url": "https://www.axismag.jp/posts/2020/03/184223.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/savage-beauty-kari-kola-007-w1600.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.07.13",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
@@ -133,6 +119,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.13",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.13",
@@ -152,13 +148,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.13",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "title": "century-old japanese cedar unfolds into flat-pack furniture collection, FLAT/FORM",
+      "url": "https://www.designboom.com/design/century-old-japanese-cedar-flat-pack-furniture-collection-flat-form-satoshi-itasaka-h220430/",
+      "excerpt": "the collection extends the life and value of japanese cedar, supporting the reuse of local forest resources.\nThe post century-old japanese cedar unfolds into flat-pack furniture collection, FLAT/FORM ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/flat-form-furniture-collection-century-old-japanese-cedar-satoshi-itasaka-h220430-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "recycled cables transform this pair of adidas sneakers into a one-of-one design",
+      "url": "https://www.designboom.com/art/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
+      "excerpt": "CORY INFINITE REWORKS THE ADISTAR XLG 2.0   American artist Cory Infinite has transformed a pair of Adidas Adistar XLG 2.0 sneakers into a one-of-one design for singer Teezo Touchdown. Created in coll",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/recycled-adidas-sneakers-cory-infinite-teezo-touchdown-04-800x1000.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "an archipelago of botanical sculptures by agostino iacurci fills historic courtyard in milan",
+      "url": "https://www.designboom.com/art/archipelago-botanical-sculptures-agostino-iacurci-historic-courtyard-portrait-milano/",
+      "excerpt": "inspired by an 1895 lithograph depicting the former archiepiscopal seminary as a lush garden, the artist populates the renaissance courtyard with eight monumental steel sculptures.\nThe post an archipe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/archipelago-botanical-sculptures-agostino-iacurci-historic-courtyard-portrait-mi-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Mesh-89 device lets Palestinian drivers stay ahead of checkpoint closures",
+      "url": "https://www.dezeen.com/2026/07/13/mesh-89-device-palestinian-drivers-checkpoint-closures/",
+      "excerpt": "Recent Central Saint Martins graduate Joud Abuhomos has invented a simple, off-grid communication device called Mesh-89, designed to alert Palestinian bus drivers to the status of the West Bank's 89 p",
       "today": true
     },
     {
@@ -172,6 +197,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Belonging to the Earth: Architecture in the Worldviews of Indigenous Peoples of Latin America",
+      "url": "https://www.archdaily.com/1042806/belonging-to-the-earth-architecture-in-the-worldviews-of-indigenous-peoples-of-latin-america",
+      "excerpt": "Anyone expecting the following words to discuss materiality, sustainable construction techniques, woodworking methods, or ways of weaving thatch will be mistaken. This article seeks precisely to shift",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/bfa7/bdfc/1a01/8a6a/21c5/large_jpg/aqui-nos-pertencemos-arquitetura-na-cosmovisao-dos-povos-originarios-da-america-latina_1.jpg?1782431660",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -179,6 +214,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide/",
       "excerpt": "copper plates form the installation’s central core, while transparent acrylic lightboxes are integrated throughout the framework.\nThe post interconnected metal rods form a luminous winged installation",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide-designboom-1200-2.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Sants Social Center / LAOS (Xavier Botet + Albert Saboya)",
+      "url": "https://www.archdaily.com/1043023/sants-social-center-laos-xavier-botet-plus-albert-saboya",
+      "excerpt": "The rehabilitation project is based on the premise of placing people, the neighbourhood, activities, and social life at the centre of architecture. The proposal transforms a building originally constr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/1658/2be1/1205/b990/11be/large_jpg/sants-social-center-laos-xavier-botet-plus-albert-saboya_19.jpg?1783502446",
       "today": true
     },
     {
@@ -222,23 +267,21 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.12",
-      "title": "Primrose House / Robust Architecture Workshop",
-      "url": "https://www.archdaily.com/1092479/primrose-house-robust-architecture-workshop",
-      "excerpt": "Located within a dense suburban neighborhood in Kandy, Primrose House transforms a deteriorating two-bedroom dwelling into a light-filled home. Rather than demolishing the existing structure, the proj",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f4a3/9997/a801/8891/f91b/large_jpg/primrose-house-robust-architecture-workshop_24.jpg?1783690418",
+      "title": "Modular activewear collection among projects from University of Portsmouth",
+      "url": "https://www.dezeen.com/2026/07/12/modular-activewear-university-of-portsmouth-schoolshows/",
+      "excerpt": "Dezeen School Shows: an activewear collection consisting of modular garments to adapt to movement and different body types is among projects from the University of Portsmouth. Also featured is a proje",
       "today": false
     },
     {
-      "source": "ArchDaily",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.12",
-      "title": "GP House / AtelierM",
-      "url": "https://www.archdaily.com/1092454/gp-house-atelierm",
-      "excerpt": "GP House is born from the tension between two curves: the corner of the neighborhood, which defines its urban front, and the lagoon that opens up at the back of the lot. Between the two, the house con",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/a8f4/49a5/ed00/0187/3fd6/large_jpg/GP-May26-03.jpg?1783605539",
+      "title": "Amazonian crafts feature in Costa Brazil's New York fragrance store",
+      "url": "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
+      "excerpt": "Fragrance brand Costa Brazil's flagship retail space in New York's Hudson Yards features items from its founder's personal collection and was designed in collaboration with Alexander May Studio. The C",
       "today": false
     },
     {
@@ -259,16 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/miko-mei-fair-london-review",
       "excerpt": "The new Thai restaurant from restaurateur Samyukta Nair pairs Koyn Thai’s robata grill with MiMi Mei Fair’s maximalist Mayfair mood",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SmBsdow95csrixpzr8mz4Y-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "nicolas nielsen designs self-driving HYVE beehive to pollinate cities",
-      "url": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
-      "excerpt": "HYVE sends a self-driving beehive through the city, carrying pollination between fragmented green spaces.\nThe post nicolas nielsen designs self-driving HYVE beehive to pollinate cities appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/nicolas-nielsen-hyve-self-driving-beehive-designboom-FB.jpg",
       "today": false
     },
     {
@@ -307,53 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
       "excerpt": "The Labirinto Borges, part of the Giorgio Cini Foundation, reopens in Venice this week after an extensive renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SatgMn9e7YtFvu9N7yZxJb-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Overstimulated design student creates satisfyingly minimal focus timer",
-      "url": "https://www.dezeen.com/2026/07/12/carrie-lee-immersion-focus-timer/",
-      "excerpt": "Frustrated by her own struggle to stay focused while studying, product design student Carrie Lee has developed a portable task timer that hopes to rival the addictiveness of smartphones. Her prototype",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "coil kazuteru matumura converts hidden timber outbuildings into shared kitchen in osaka",
-      "url": "https://www.designboom.com/architecture/coil-kazuteru-matumura-architects-hidden-timber-outbuildings-shared-kitchen-osaka-ichizu/",
-      "excerpt": "old and new materials coexist throughout the renovation by coil kazuteru matumura architects.\nThe post coil kazuteru matumura converts hidden timber outbuildings into shared kitchen in osaka appeared ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/coil-kazuteru-matumura-architects-ichizu-osaka-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "a mirrored water drop installation reflects the landscape of sayram lake in china",
-      "url": "https://www.designboom.com/art/mirrored-water-drop-installation-landscape-sayram-lake-china-zhide/",
-      "excerpt": "two interlocking rings form the center of the installation.\nThe post a mirrored water drop installation reflects the landscape of sayram lake in china appeared first on designboom | architecture & des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mirrored-water-drop-installation-heart-sayram-lake-china-zhide-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "Project exploring chronic illness among work from the University of Portsmouth",
-      "url": "https://www.dezeen.com/2026/07/11/project-exploring-chronic-illness-among-work-from-the-university-of-portsmouth-schoolshows/",
-      "excerpt": "Dezeen School Shows: a multi-disciplinary project exploring the experiences of people with chronic illnesses is among the projects from the University of Portsmouth. Also featured is a conservation pr",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.11",
-      "title": "BoND designs \"dark and enveloping\" private sauna in New York",
-      "url": "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
-      "excerpt": "Architecture studio BoND has used \"the logic of a bento box\" to organise spaces within a compact, atmospheric sauna in Chelsea, New York. BoND was enlisted to design the interiors and identity for Sai",
       "today": false
     },
     {
