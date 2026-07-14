@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  13:21",
+  "fetchedAt": "2026.07.14  15:20",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -129,15 +129,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.14",
-      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
-      "url": "https://www.ozmall.co.jp/summer/article/45784/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.14",
@@ -145,6 +136,64 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.14",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "The Mini Mojito Mk2 mixes up the beach car category with a fizzing take on the classic Mini",
+      "url": "https://www.wallpaper.com/transportation/crayford-mini-mojito-mk2-beach-car",
+      "excerpt": "The beach car is the ultimate holiday transport, a stripped-back machine designed for sunny climes, quiet roads and an unhurried pace. The latest car to join the club is the Crayford Mini Mojito Mk2",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GAbhHEShwrQG5HSPfHd63V-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Tate Modern’s first exhibition dedicated to Ana Mendieta celebrates her sensual engagement with the natural world",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/tate-modern-ana-mendieta-review",
+      "excerpt": "More than 120 of the Cuban-born American artist’s works explore her untraditional approach to depicting the body in nature",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fdeumCHgRGVmqoevNbdjvS-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Gohar World’s mini fridge is designed for hosting – and comes with matching champagne coupes",
+      "url": "https://www.wallpaper.com/entertaining/gohar-world-rocco-mini-fridge",
+      "excerpt": "Smart appliance brand Rocco has teamed up with Gohar World on a mirror-black drinks fridge that pays homage to unexpected entertaining",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aym4bCsfpbmKyTzQFTZXYj-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "a terraced timber pavilion explores circular construction for austria’s gabonsa music festival",
+      "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
+      "excerpt": "gabonsa pavilion was designed and built by students from kaiserslautern university of applied sciences.\nThe post a terraced timber pavilion explores circular construction for austria’s gabonsa music f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/students-Kaiserslautern-gabonsa-temporary-pavilion-gabonsa-music-festival-innsbruck-austria-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Essence tiles by Casalgrande Padana",
+      "url": "https://www.dezeen.com/2026/07/14/essence-tiles-casalgrande-padana-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian brand Casalgrande Padana has created an ode to larch wood with its Essence porcelain stoneware tiles, part of the Elements collection. Essence tiles combine the rich grain and",
       "today": true
     },
     {
@@ -217,23 +266,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "The horse is a sensual suggestion in Hermès’ new high jewellery collection",
-      "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery/hermes-into-the-horsescape-collection",
-      "excerpt": "Pierre Hardy, creative director of Hermès Jewellery, takes inspiration from the brand’s equestrian past in a dazzling new high jewellery collection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Fs67hpFVKtMoAEtmhY4RNm-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "realizing the dream: crafting a new design language from a confluence of cultures",
-      "url": "https://www.designboom.com/architecture/realizing-the-dream-crafting-from-confluence-culture-room-for-dreams-podcast/",
-      "excerpt": "A profound generational evolution is rewriting the rules of the contemporary landscape, bringing an end to the era where architects and designers merely mimicked the tenets of Western modernism. Recor",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-woodwiser-room-for-dreams-episode-7-designboom-facebook-01.jpg",
+      "title": "EcoNeo Summerhouse  / SAGA Space Architects",
+      "url": "https://www.archdaily.com/1092472/econeo-summerhouse-saga-space-architects",
+      "excerpt": "EcoNeo is a 35 m² summerhouse in Zealand, Denmark, designed by SAGA Space Architects as a compact residential construction for low-impact holiday living. Drawing on the studio's work with habitats for",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b8e0/61ff/5300/01d2/e890/large_jpg/SAGA_Space_Architects_-_EcoNeo_1.jpg?1783675676",
       "today": true
     },
     {
@@ -243,6 +282,26 @@ window.LUMINO_DATA = {
       "title": "Nokia unveils nostalgic dumbphones with dedicated AI button",
       "url": "https://www.dezeen.com/2026/07/14/nokia-unveils-nostalgic-dumbphones-with-dedicated-ai-button/",
       "excerpt": "Tech company HMD has launched a range of retro Nokia brick phones with limited internet capabilities and an AI assistant button integrated into the centre of the keypad. Like many dumbphones, these 4G",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Enter the 25th Andreu World International Design Competition",
+      "url": "https://www.archdaily.com/1148634/enter-the-25th-andreu-world-international-design-competition",
+      "excerpt": "25 years of great ideas. Now it's your turn. Registration for the Manufacturing the Future International Design Competition remains open, and there is still time to enter. This edition presents a uniq",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/f522/6336/c000/010f/b903/large_jpg/25.__Concurso_Internacional_de_Dise_o_de_Andreu_World.jpg?1784018215",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Becoming What? Threads from UIA 2026 Barcelona",
+      "url": "https://www.archdaily.com/1092505/becoming-what-threads-from-uia-2026-barcelona",
+      "excerpt": "Barcelona has just become the first city in the history of the UIA World Congress of Architects to host the event twice. Thirty years separate the two editions, and the distance between them says as m",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/faf4/759c/1501/88f1/385b/large_jpg/lessons-from-uia-2026-barcelona_16.jpg?1783692102",
       "today": true
     },
     {
@@ -258,50 +317,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "The Willemoesgade block / CEBRA",
-      "url": "https://www.archdaily.com/1092470/the-willemoesgade-block-cebra",
-      "excerpt": "The architectural transformation of the Willemoesgade enclosure revitalizes the city block, which had lost its purpose, into a permeable structure, creating a vibrant melting pot for people and urban ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b7de/61ff/5300/01d2/e846/large_jpg/06_Willemoesgade_CEBRA_photographer_Mikkel_Frost.jpg?1783674879",
+      "title": "Céline & Lolo Hotel / Powerhouse Company",
+      "url": "https://www.archdaily.com/1092337/celine-and-lolo-hotel-powerhouse-company",
+      "excerpt": "Powerhouse Company transforms 1970s brutalist villa into boutique hotel Céline & Lolo in Nairobi. Nairobi, July 2, 2026 — Powerhouse Company has transformed a 1970s brutalist villa into Céline & Lolo,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/b12d/2b3e/d101/7f7a/ede5/large_jpg/celine-and-lolo-hotel-powerhouse-company_22.jpg?1783542123",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "Herzog & de Meuron Unveils New Images of Lusail Museum on Qatar's Al Maha Island",
-      "url": "https://www.archdaily.com/1148610/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-on-qatars-al-maha-island",
-      "excerpt": "Al Maha Island is a 230,000 m² human-made island located off the coast of Lusail, Qatar. Built as an entertainment and leisure destination north of Doha, it opened in 2022, just ahead of the FIFA Worl",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/182b/97ef/2501/8be5/90ef/large_jpg/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-in-qatar_5.jpg?1783961716",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Co-Living: Rethinking Home for Temporary Belonging and Mobile Lifestyles",
-      "url": "https://www.archdaily.com/1092401/co-living-rethinking-home-for-temporary-belonging-and-mobile-lifestyles",
-      "excerpt": "As co-living becomes increasingly associated with students, young professionals, and other mobile residents, it raises a broader architectural question: if home is no longer tied to long-term residenc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/3132/4dc7/6e01/886b/470f/large_jpg/co-living-spaces-rethinking-home-for-mobile-lifestyles_5.jpg?1783705915",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Denj Lane House / Carter Williamson Architects",
-      "url": "https://www.archdaily.com/1148603/denj-lane-carter-williamson-architects",
-      "excerpt": "Located in Sydney's Inner West, Denj Lane introduces a studio and garage, created for a young family seeking flexible space for work, guests and the future. Compact in footprint yet complete in functi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/05dd/a6cc/5601/89e4/e462/large_jpg/denj-lane-carter-williamson-architects_6.jpg?1783956983",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "NB01 House / TNT Architecture",
-      "url": "https://www.archdaily.com/1148557/nb01-house-tnt-architecture",
-      "excerpt": "NB01 House is located on a complex residential site in Ninh Binh, Vietnam, where several existing structures had been repeatedly extended and altered over many years. These accumulated interventions c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b907/22ee/0e00/0134/c6d6/large_jpg/03-ZONE_2-NB01_HOUSE-TNT_ARCHITECTURE__1_.jpg?1783937343",
+      "title": "Open Call: Reimagine the Adriatic Waterfront at Marina Opatija",
+      "url": "https://www.archdaily.com/1042949/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija",
+      "excerpt": "M3 Monaco's Smart & Sustainable Marina Rendezvous competition returns for its sixth edition with an open-architecture Call for Ideas centered on Marina Opatija, on Croatia's Kvarner Bay. This article ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/1430/ebd1/e401/893a/aa39/large_jpg/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija_7.jpg?1782977592",
       "today": true
     },
     {
@@ -311,35 +340,6 @@ window.LUMINO_DATA = {
       "title": "1X Technologies designs humanoid hand to \"match or surpass human capability\"",
       "url": "https://www.dezeen.com/2026/07/13/1x-technologies-neo-robot-hand/",
       "excerpt": "California-based company 1X Technologies has updated the hands of its humanoid robot Neo to \"perform virtually any task a human can do with their hands\". The hands will be installed on the first Neo r",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Ten stadiums of the future that rewrite the playbook",
-      "url": "https://www.dezeen.com/2026/07/13/future-stadiums-roundup/",
-      "excerpt": "Stadiums are no longer just being designed for matchdays, with architects boldly pursuing novelty to create distinctive year-round landmarks. For our Future Stadium series, we look at 10 of the most o",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Marta de la Rica brings a 1970s nautical spirit to Club de Mar Mallorca",
-      "url": "https://www.wallpaper.com/travel/club-de-mar-marta-de-la-rica-mallorca-interior-design",
-      "excerpt": "After a five-and-a-half-year redevelopment, Palma’s historic marina reopens with whimsical interiors inspired by Riva runabouts and nautical flags",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3t6GZ2VWY5Mf9YC5qDeuhD-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "A yoga retreat in East Hampton translates the art of wellness into architectural form",
-      "url": "https://www.wallpaper.com/architecture/yoga-retreat-bruce-engel-east-hampton-usa",
-      "excerpt": "BE_Design’s Woods Retreat is a blackened temple to the principles of yogic process in a spectacular woodland location",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N32as62LfvJjzR65JHFRmU-2560-80.jpg",
       "today": false
     },
     {
