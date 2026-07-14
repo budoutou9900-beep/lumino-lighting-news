@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  04:50",
+  "fetchedAt": "2026.07.14  07:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -150,6 +150,26 @@ window.LUMINO_DATA = {
     {
       "source": "designboom",
       "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "exposed brick and blue metal transform a 1930s brazilian house into a cultural art hub",
+      "url": "https://www.designboom.com/architecture/exposed-brick-and-blue-metal-transform-a-1930s-brazilian-house-into-a-cultural-art-hub/",
+      "excerpt": "a central courtyard organizes the relationship between indoor and outdoor areas in remanso cultural institute.\nThe post exposed brick and blue metal transform a 1930s brazilian house into a cultural a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/renovation-remanso-cultural-institute-1930s-house-porto-alegre-brazil-cultural-art-community-hub-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "West Bund Dream Center BLDG1+BLDG3 / HCCH Studio",
+      "url": "https://www.archdaily.com/1033606/west-bund-dream-center-bldg1-plus-bldg3-hcch-studio",
+      "excerpt": "The West Bund Dream Center, is a new cultural commercial destination along Shanghai Huangpu River, built upon the former site of Shanghai Cement Factory. Undergone a decade of pending, the project fin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68b2/1b28/bfa2/0d12/2dc0/e11a/large_jpg/west-bund-dream-center-bldg1-plus-bldg3-hcch-studio_8.jpg?1756502862",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.13",
       "title": "carved from solid carrara marble, abstract house-like objects explore architectural form",
       "url": "https://www.designboom.com/design/solid-carrara-marble-abstract-house-objects-architectural-form-eternal-structures-kfir-galatia-azulay/",
@@ -265,16 +285,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Jacarezinho II House / Felipe Hess Arquitetos",
-      "url": "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos",
-      "excerpt": "Situated on a one-thousand-square-meter corner lot, the Jacarezinho House is born from the direct relationship between architecture and the garden. The strategy was to push the construction against on",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/ee28/0e77/3c1a/4ccf/cd3c/large_jpg/casa-jacarezinho-ii-felipe-hess-arquitetos_30.jpg?1783557725",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -300,16 +310,6 @@ window.LUMINO_DATA = {
       "title": "Barrel-vaulted community greenhouse built at the Barbican",
       "url": "https://www.dezeen.com/2026/07/13/veggery-barbican-studio-folk-architects-raskl/",
       "excerpt": "Architecture firms Studio Folk Architects and Raskl have built a timber-framed greenhouse, named The Veggery, at the Barbican Estate as part of the London Festival of Architecture. Hexagonal in shape,",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "century-old japanese cedar unfolds into flat-pack furniture collection, FLAT/FORM",
-      "url": "https://www.designboom.com/design/century-old-japanese-cedar-flat-pack-furniture-collection-flat-form-satoshi-itasaka-h220430/",
-      "excerpt": "the collection extends the life and value of japanese cedar, supporting the reuse of local forest resources.\nThe post century-old japanese cedar unfolds into flat-pack furniture collection, FLAT/FORM ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/flat-form-furniture-collection-century-old-japanese-cedar-satoshi-itasaka-h220430-designboom-1200-1.jpg",
       "today": false
     },
     {
