@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  20:55",
+  "fetchedAt": "2026.07.14  21:53",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -148,6 +148,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "this creative duo turns surfboard waste into furniture and everyday objects",
+      "url": "https://www.designboom.com/design/surfboard-offcuts-furniture-objects-hall5/",
+      "excerpt": "father and daughter turn surfboard production waste into furniture and everyday objects\nThe post this creative duo turns surfboard waste into furniture and everyday objects appeared first on designboo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/surfboard-offcuts-furniture-objects-hall5-designboom-05-750x1000.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.14",
@@ -172,6 +182,16 @@ window.LUMINO_DATA = {
       "title": "Play-Doh enters \"home decor space\" with flower-making kit for adults",
       "url": "https://www.dezeen.com/2026/07/14/play-doh-blooms-flower-making-kit/",
       "excerpt": "Toy company Hasbro has announced a line of Play-Doh products for adults with the release of Blooms, a flower-making kit for creating \"lifelike flowers\" that can be coated with a finishing spray for pr",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Xangri-Lá Residence / Yan Kruchin_",
+      "url": "https://www.archdaily.com/1148685/xangri-la-residence-yan-kruchin",
+      "excerpt": "The project stems from the clients' functional need to reorganize the layout of their existing beach house, which originally had all bedrooms on the upper floor. The requirement for a ground-floor sui",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a1f/3cbb/6c5d/d101/8c5c/4513/large_jpg/residencia-em-xangri-la-yan-kruchin_19.jpg?1780432073",
       "today": true
     },
     {
@@ -222,6 +242,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/la-maison-du-chocolat-ice-cream",
       "excerpt": "Refresh your taste buds with La Maison du Chocolat’s new summer collection of ice creams and frozen chocolates",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9BMW2EMaMKHBcz76hk9zM4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Naab House / Di Frenna Arquitectos",
+      "url": "https://www.archdaily.com/1148651/naab-house-di-frenna-arquitectos",
+      "excerpt": "The first impression of the house does not come from its details, but from its mass. A restrained composition of clean lines, where horizontality dominates, is interrupted only by a central volume tha",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b246/22ee/0e00/0134/c677/large_jpg/DFA-NAAB-3067.jpg?1783935666",
       "today": true
     },
     {
@@ -303,16 +333,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "take your pleasure seriously: play as a way of being",
-      "url": "https://www.designboom.com/editorials/take-your-pleasure-seriously-designing-for-play/",
-      "excerpt": "what if form didn't follow function, but pleasure? long before we built anything, we played, turning a cardboard box into a spaceship and a patch of floor into an ocean. play here is not frivolity, bu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/take-your-pleasure-seriously-designing-for-play-designboom-1.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.14",
@@ -320,26 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092472/econeo-summerhouse-saga-space-architects",
       "excerpt": "EcoNeo is a 35 m² summerhouse in Zealand, Denmark, designed by SAGA Space Architects as a compact residential construction for low-impact holiday living. Drawing on the studio's work with habitats for",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b8e0/61ff/5300/01d2/e890/large_jpg/SAGA_Space_Architects_-_EcoNeo_1.jpg?1783675676",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Enter the 25th Andreu World International Design Competition",
-      "url": "https://www.archdaily.com/1148634/enter-the-25th-andreu-world-international-design-competition",
-      "excerpt": "25 years of great ideas. Now it's your turn. Registration for the Manufacturing the Future International Design Competition remains open, and there is still time to enter. This edition presents a uniq",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/f522/6336/c000/010f/b903/large_jpg/25.__Concurso_Internacional_de_Dise_o_de_Andreu_World.jpg?1784018215",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Becoming What? Threads from UIA 2026 Barcelona",
-      "url": "https://www.archdaily.com/1092505/becoming-what-threads-from-uia-2026-barcelona",
-      "excerpt": "Barcelona has just become the first city in the history of the UIA World Congress of Architects to host the event twice. Thirty years separate the two editions, and the distance between them says as m",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/faf4/759c/1501/88f1/385b/large_jpg/lessons-from-uia-2026-barcelona_16.jpg?1783692102",
       "today": true
     },
     {
