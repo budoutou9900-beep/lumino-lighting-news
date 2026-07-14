@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.13  23:49",
+  "fetchedAt": "2026.07.14  01:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,17 +102,16 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -121,7 +120,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
       "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
@@ -130,7 +129,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -140,7 +139,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.13",
+      "date": "2026.07.14",
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
@@ -154,7 +153,27 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/solid-carrara-marble-abstract-house-objects-architectural-form-eternal-structures-kfir-galatia-azulay/",
       "excerpt": "the compositions suggest fragments of imagined cities or archetypal architectural forms.\nThe post carved from solid carrara marble, abstract house-like objects explore architectural form appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/eternal-structures-collection-carrara-marble-abstract-house-objects-kfir-galatia-azulay-designboom-1200-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "Casa Luna / Nommo Arquitetos + Coti Arquitetura",
+      "url": "https://www.archdaily.com/1031502/casa-luna-nommo-arquitetos-plus-coti-arquitetura",
+      "excerpt": "At the end of a quiet street, nestled discreetly into the untouched Atlantic Forest landscape, Casa Luna is surrounded by araucaria trees and the songs of birds. Like a satellite, the house reflects t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/685b/4622/1089/1b2e/ef6f/e193/large_jpg/casa-luna-nommo-arquitetos_2.jpg?1750812223",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.13",
+      "title": "PR House / 0studio Arquitectura",
+      "url": "https://www.archdaily.com/1148552/pr-house-0studio-arquitectura",
+      "excerpt": "The project is organized around a central courtyard that articulates the different spaces and defines the living experience. This contained void not only regulates natural light and ventilation, but a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b143/22ee/0e00/0134/c650/large_jpg/0S-PR-5311.jpg?1783935412",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -163,7 +182,7 @@ window.LUMINO_DATA = {
       "title": "1X Technologies designs humanoid hand to \"match or surpass human capability\"",
       "url": "https://www.dezeen.com/2026/07/13/1x-technologies-neo-robot-hand/",
       "excerpt": "California-based company 1X Technologies has updated the hands of its humanoid robot Neo to \"perform virtually any task a human can do with their hands\". The hands will be installed on the first Neo r",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -173,7 +192,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain/",
       "excerpt": "DAVID CHIPPERFIELD REOPENS THE PEREDA BUILDING TO THE CITY   David Chipperfield Architects completes the transformation of the historic Pereda Building in northern into Faro Santander, a new center fo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain-10.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -183,7 +202,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura",
       "excerpt": "Carefully implemented on a sloping plot of land, the AMS House was built on the highest point of the lot, where the native forest serves as a backdrop and reference for the design of the house. Three ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68cf/3c51/67a7/a401/899d/97f9/large_jpg/residencia-ams-jacobsen-arquitetura_20.jpg?1758411871",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -193,7 +212,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148568/lariviere-foundation-clusellas-ades-plus-machado-silvetti",
       "excerpt": "Choosing a lot on an industrial block in the La Boca neighborhood for the Larivière Foundation was the bold decision that originated this project, which benefited from the advisory of Facundo and Paul",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/c852/a6cc/5601/89e4/e265/large_jpg/fundacion-lariviere-clusellas-ades-plus-machado-silvetti_2.jpg?1783941234",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -202,7 +221,7 @@ window.LUMINO_DATA = {
       "title": "Ten stadiums of the future that rewrite the playbook",
       "url": "https://www.dezeen.com/2026/07/13/future-stadiums-roundup/",
       "excerpt": "Stadiums are no longer just being designed for matchdays, with architects boldly pursuing novelty to create distinctive year-round landmarks. For our Future Stadium series, we look at 10 of the most o",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -211,7 +230,7 @@ window.LUMINO_DATA = {
       "title": "File into the Future Stadium",
       "url": "https://www.dezeen.com/2026/07/13/future-stadium-series-introduction/",
       "excerpt": "With stadium construction intensifying and the World Cup drawing to a close, our Future Stadium series looks at the future of one of the world's most impactful buildings. We live in an age of entertai",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -221,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/modernist-cafe-layered-wood-steel-almaty-museum-arts-khalansky-cafe-alma/",
       "excerpt": "geometric clarity and clean lines draw from soviet modernist principles.\nThe post modernist-inspired café framed by layered wood and steel extends almaty museum of arts appeared first on designboom | ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/modernist-cafe-layered-wood-steel-almaty-museum-arts-khalansky-cafe-alma-designboom-1200-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -231,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/club-de-mar-marta-de-la-rica-mallorca-interior-design",
       "excerpt": "After a five-and-a-half-year redevelopment, Palma’s historic marina reopens with whimsical interiors inspired by Riva runabouts and nautical flags",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3t6GZ2VWY5Mf9YC5qDeuhD-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -241,7 +260,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/yoga-retreat-bruce-engel-east-hampton-usa",
       "excerpt": "BE_Design’s Woods Retreat is a blackened temple to the principles of yogic process in a spectacular woodland location",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N32as62LfvJjzR65JHFRmU-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -251,17 +270,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos",
       "excerpt": "Situated on a one-thousand-square-meter corner lot, the Jacarezinho House is born from the direct relationship between architecture and the garden. The strategy was to push the construction against on",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/ee28/0e77/3c1a/4ccf/cd3c/large_jpg/casa-jacarezinho-ii-felipe-hess-arquitetos_30.jpg?1783557725",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Dyes Inlet House / SHED Architecture & Design",
-      "url": "https://www.archdaily.com/1092504/dyes-inlet-house-shed-architecture-and-design",
-      "excerpt": "This new primary home with a nearby guest house is designed with high-performance strategies to harmonize with its waterfront location on Washington's Kitsap Peninsula. The home reinterprets Scandinav",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f3bb/61ff/5300/01d2/e925/large_jpg/SHED-Dyes_Inlet_II-05.jpg?1783690257",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -271,7 +280,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/what-we-learned-crafting-the-future/",
       "excerpt": "we look back at how designboom's latest chapter presents craft as an approach to the world that values attentiveness over speed, collaboration over isolation, and long-term stewardship over short-term",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kengo-kuma-craftsmanship-architecture-connection-place-designboom-06.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -280,7 +289,7 @@ window.LUMINO_DATA = {
       "title": "Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage",
       "url": "https://www.dezeen.com/2026/07/13/muttram-veedu-will-gamble-architects-courtyard-extension/",
       "excerpt": "A timber-framed glazed link and courtyard garden connect old and new parts of this home in Northwood, UK, which architecture studio Will Gamble Architects designed to reference traditional Sri Lankan ",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -289,7 +298,7 @@ window.LUMINO_DATA = {
       "title": "Barrel-vaulted community greenhouse built at the Barbican",
       "url": "https://www.dezeen.com/2026/07/13/veggery-barbican-studio-folk-architects-raskl/",
       "excerpt": "Architecture firms Studio Folk Architects and Raskl have built a timber-framed greenhouse, named The Veggery, at the Barbican Estate as part of the London Festival of Architecture. Hexagonal in shape,",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -299,17 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/century-old-japanese-cedar-flat-pack-furniture-collection-flat-form-satoshi-itasaka-h220430/",
       "excerpt": "the collection extends the life and value of japanese cedar, supporting the reuse of local forest resources.\nThe post century-old japanese cedar unfolds into flat-pack furniture collection, FLAT/FORM ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/flat-form-furniture-collection-century-old-japanese-cedar-satoshi-itasaka-h220430-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Viktoria House / Architekt Andreas Gruber",
-      "url": "https://www.archdaily.com/1054053/viktoria-house-architekt-andreas-gruber",
-      "excerpt": "Viktoria's House is a concrete residence located in Vals, South Tyrol, at an elevation of approximately 1,350 meters above sea level. The house is set against steeply rising mountain slopes that trans",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4c/ea72/062b/6500/019a/ac2c/large_jpg/55_Andreas-Gruber_Arch_VALS_LV_I.jpg?1783425710",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -319,7 +318,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/somerset-retreat-daytrip-uk",
       "excerpt": "London studio Daytrip reinvents a 1990s Somerset retreat by refining its interiors, clarifying its architecture, and opening it onto the British countryside",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bWyUhiCjm4sZVsBomFtCVU-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
