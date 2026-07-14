@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  15:20",
+  "fetchedAt": "2026.07.14  17:09",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -57,25 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -145,36 +133,66 @@ window.LUMINO_DATA = {
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "The Mini Mojito Mk2 mixes up the beach car category with a fizzing take on the classic Mini",
-      "url": "https://www.wallpaper.com/transportation/crayford-mini-mojito-mk2-beach-car",
-      "excerpt": "The beach car is the ultimate holiday transport, a stripped-back machine designed for sunny climes, quiet roads and an unhurried pace. The latest car to join the club is the Crayford Mini Mojito Mk2",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GAbhHEShwrQG5HSPfHd63V-2560-80.jpg",
+      "title": "Felice Flatiron brings Tuscan warmth to a neo-Gothic corner of Fifth Avenue",
+      "url": "https://www.wallpaper.com/travel/restaurants/felice-flatiron-new-york-review",
+      "excerpt": "The family-run Italian restaurant series arrives in Flatiron with a Bonetti/Kozerski-designed dining room, ambitious wine programme and tableside tiramisu cart",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HrufFFpvrEuzjz3EM5SSnd-2560-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "Tate Modern’s first exhibition dedicated to Ana Mendieta celebrates her sensual engagement with the natural world",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/tate-modern-ana-mendieta-review",
-      "excerpt": "More than 120 of the Cuban-born American artist’s works explore her untraditional approach to depicting the body in nature",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fdeumCHgRGVmqoevNbdjvS-2048-80.jpg",
+      "title": "Anatomy of a Logo: Calvin Klein",
+      "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-logo-history",
+      "excerpt": "A symbol of simplicity and sex appeal, the sans-serif logo has come to encapsulate contemporary American style. Here, we unpack the logo’s origins",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ei59wce6YCkFAPGDpx364-2512-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "Gohar World’s mini fridge is designed for hosting – and comes with matching champagne coupes",
-      "url": "https://www.wallpaper.com/entertaining/gohar-world-rocco-mini-fridge",
-      "excerpt": "Smart appliance brand Rocco has teamed up with Gohar World on a mirror-black drinks fridge that pays homage to unexpected entertaining",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aym4bCsfpbmKyTzQFTZXYj-1920-80.png",
+      "title": "Vibeke Tandberg was an early champion of photo manipulation. Discover her work in her native Norway",
+      "url": "https://www.wallpaper.com/art/photography/vibeke-tandberg-they-live-bergen-art-museum-review",
+      "excerpt": "A new exhibition, ‘They Live’, at Kode Bergen Art Museum, walks us through Tandberg's extraordinary career",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dPVbdzexmDSXU6Tu2tCWzb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Incoming Triennale president Vincenzo Trione outlines the museum’s next four years",
+      "url": "https://www.wallpaper.com/design-interiors/triennale-2026-president-vincenzo-trione-announcement",
+      "excerpt": "The president’s newly announced team includes designer Michele de Lucchi, who will lead the Museo del Design Italiano with a focus on craftsmanship",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kkf4ZYvvbZiSLjvVK7jzyA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "These luxurious ice creams are the new summer accessories",
+      "url": "https://www.wallpaper.com/entertaining/la-maison-du-chocolat-ice-cream",
+      "excerpt": "Refresh your taste buds with La Maison du Chocolat’s new summer collection of ice creams and frozen chocolates",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9BMW2EMaMKHBcz76hk9zM4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Heavily stylistic approach to stadium design \"should die down\" says Populous global director Jonathan Mallie",
+      "url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
+      "excerpt": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Popoulus, the studio driving global stad",
       "today": true
     },
     {
@@ -194,16 +212,6 @@ window.LUMINO_DATA = {
       "title": "Essence tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/07/14/essence-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Casalgrande Padana has created an ode to larch wood with its Essence porcelain stoneware tiles, part of the Elements collection. Essence tiles combine the rich grain and",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Archer Aviation wants to take you up, up and away. We talk to the American eVTOL pioneer",
-      "url": "https://www.wallpaper.com/transportation/archer-aviation-interview-midnight-evtol-aircraft",
-      "excerpt": "Archer Aviation’s Midnight aircraft is currently undergoing testing. Will the Californian company be first to market in a crowded field of eVTOL contenders?",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Mfjg6BXSYmSpvwXZ9xFxPS-2560-80.jpg",
       "today": true
     },
     {
@@ -253,16 +261,6 @@ window.LUMINO_DATA = {
       "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
       "url": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/",
       "excerpt": "Local architect Tom Kneepkens has completed Forest Villa MB, a home in the Netherlands sheltered by a gridded timber roof with openings to accommodate the surrounding trees. Nestled in a forested site",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "The artist-led Fonds Bustamante is Arles’ newest creative gem",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/bustamante-foundation-charles-zana-arles-france",
-      "excerpt": "The brainchild of Jean-Marc Bustamante, and designed by Charles Zana, the new art foundation has opened its doors in an old church building in the south of France",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BHDj43B6xG3V7TZmPZ77yk-2560-80.jpg",
       "today": true
     },
     {
@@ -334,15 +332,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "1X Technologies designs humanoid hand to \"match or surpass human capability\"",
-      "url": "https://www.dezeen.com/2026/07/13/1x-technologies-neo-robot-hand/",
-      "excerpt": "California-based company 1X Technologies has updated the hands of its humanoid robot Neo to \"perform virtually any task a human can do with their hands\". The hands will be installed on the first Neo r",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -403,16 +392,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -443,46 +422,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -490,16 +429,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -533,35 +462,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -569,26 +469,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
