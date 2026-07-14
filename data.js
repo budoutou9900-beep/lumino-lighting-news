@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  17:09",
+  "fetchedAt": "2026.07.14  19:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,33 +37,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -133,7 +149,24 @@ window.LUMINO_DATA = {
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.14",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Play-Doh enters \"home decor space\" with flower-making kit for adults",
+      "url": "https://www.dezeen.com/2026/07/14/play-doh-blooms-flower-making-kit/",
+      "excerpt": "Toy company Hasbro has announced a line of Play-Doh products for adults with the release of Blooms, a flower-making kit for creating \"lifelike flowers\" that can be coated with a finishing spray for pr",
       "today": true
     },
     {
@@ -212,6 +245,26 @@ window.LUMINO_DATA = {
       "title": "Essence tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/07/14/essence-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Casalgrande Padana has created an ode to larch wood with its Essence porcelain stoneware tiles, part of the Elements collection. Essence tiles combine the rich grain and",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Roots House / Studio Gontijo Arquitetura",
+      "url": "https://www.archdaily.com/1148616/roots-house-studio-gontijo-arquitetura",
+      "excerpt": "Located atop a cliff in Trancoso, in southern Bahia, Casa Raízes was conceived through a deep relationship with its territory. Offering permanent views of the horizon and the ocean, the site features ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/1a63/22ee/0e00/0134/ca1e/large_jpg/Casa_Ra_zes_-_Andr__Klotz__3_.jpg?1783962310",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Wabamun Lake Cabin  / Josh Kjenner",
+      "url": "https://www.archdaily.com/1148619/wabamun-lake-cabin-josh-kjenner",
+      "excerpt": "Situated on Wabamun Lake, Josh Kjenner Architect completes a contemporary cabin which offers a retreat for a young family an hour just outside of Edmonton. The homeowners—an academic and an entreprene",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/3562/294b/f801/88a4/88eb/large_jpg/wabamun-lake-cabin-josh-kjenner_18.jpg?1783969137",
       "today": true
     },
     {
@@ -303,35 +356,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Neri&Hu wraps Hong Kong hotel in \"urban tapestry\" facade",
-      "url": "https://www.dezeen.com/2026/07/14/nerihu-mandarin-oriental-the-landmark-facade-hong-kong/",
-      "excerpt": "Architecture studio Neri&Hu has upgraded the facade of Mandarin Oriental The Landmark in Hong Kong, using staggered terracotta tiles to resemble a piece of woven tapestry. Located on Queen's Road in H",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Céline & Lolo Hotel / Powerhouse Company",
-      "url": "https://www.archdaily.com/1092337/celine-and-lolo-hotel-powerhouse-company",
-      "excerpt": "Powerhouse Company transforms 1970s brutalist villa into boutique hotel Céline & Lolo in Nairobi. Nairobi, July 2, 2026 — Powerhouse Company has transformed a 1970s brutalist villa into Céline & Lolo,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/b12d/2b3e/d101/7f7a/ede5/large_jpg/celine-and-lolo-hotel-powerhouse-company_22.jpg?1783542123",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Open Call: Reimagine the Adriatic Waterfront at Marina Opatija",
-      "url": "https://www.archdaily.com/1042949/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija",
-      "excerpt": "M3 Monaco's Smart & Sustainable Marina Rendezvous competition returns for its sixth edition with an open-architecture Call for Ideas centered on Marina Opatija, on Croatia's Kvarner Bay. This article ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/1430/ebd1/e401/893a/aa39/large_jpg/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija_7.jpg?1782977592",
-      "today": true
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.07.09",
@@ -392,6 +416,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -422,6 +456,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -429,6 +503,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -462,6 +546,35 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.06.02",
@@ -469,6 +582,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
+      "url": "https://www.yamagiwa.co.jp/news/78549/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.01",
+      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/78558/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
