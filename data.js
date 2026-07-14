@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  19:11",
+  "fetchedAt": "2026.07.14  20:55",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,57 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -152,12 +148,21 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Colorado house by Studio B and Studio Brother John appears to \"hover over the land\"",
+      "url": "https://www.dezeen.com/2026/07/14/9631-mountain-ridge-place-studio-b-studio-brother-john-boulder-colorado/",
+      "excerpt": "Local outfit Studio Brother John has collaborated with Studio B Architecture + Interiors for a house in Boulder, Colorado, USA making the most of its mountainous site and replacing a structure destroy",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Dezeen debate features \"refuge for the uncreative\"",
+      "url": "https://www.dezeen.com/2026/07/14/david-chipperfield-faro-santander-dezeen-debate/",
+      "excerpt": "The latest Dezeen Debate newsletter features the transformation of a historic Spanish bank into the Faro Santander museum by David Chipperfield Architects. Subscribe to Dezeen Debate now. Scheduled to",
       "today": true
     },
     {
@@ -225,7 +230,7 @@ window.LUMINO_DATA = {
       "date": "2026.07.14",
       "title": "Heavily stylistic approach to stadium design \"should die down\" says Populous global director Jonathan Mallie",
       "url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
-      "excerpt": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Popoulus, the studio driving global stad",
+      "excerpt": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Populous, the studio driving global stad",
       "today": true
     },
     {
@@ -308,15 +313,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-      "url": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/",
-      "excerpt": "Local architect Tom Kneepkens has completed Forest Villa MB, a home in the Netherlands sheltered by a gridded timber roof with openings to accommodate the surrounding trees. Nestled in a forested site",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.14",
@@ -324,15 +320,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092472/econeo-summerhouse-saga-space-architects",
       "excerpt": "EcoNeo is a 35 m² summerhouse in Zealand, Denmark, designed by SAGA Space Architects as a compact residential construction for low-impact holiday living. Drawing on the studio's work with habitats for",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b8e0/61ff/5300/01d2/e890/large_jpg/SAGA_Space_Architects_-_EcoNeo_1.jpg?1783675676",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Nokia unveils nostalgic dumbphones with dedicated AI button",
-      "url": "https://www.dezeen.com/2026/07/14/nokia-unveils-nostalgic-dumbphones-with-dedicated-ai-button/",
-      "excerpt": "Tech company HMD has launched a range of retro Nokia brick phones with limited internet capabilities and an AI assistant button integrated into the centre of the keypad. Like many dumbphones, these 4G",
       "today": true
     },
     {
