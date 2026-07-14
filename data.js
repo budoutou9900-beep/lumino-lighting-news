@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  09:52",
+  "fetchedAt": "2026.07.14  11:22",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "instagram.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "東京ベイ経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -100,51 +100,121 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "instagram.com",
       "cat": "展示・アート",
       "date": "2026.07.14",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
+      "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.14",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.14",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JtKqr_ToK5QQ7kNvwHtXo64&_nc_oc=AdqsQ4Kliz9x3KMm2engfjWvOEJWcbXpFZ8h4wZOIbSi7Pt6sDX2B_ua7WlOgQ2S4DQ&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3YPELr2_0Poilss-bS6aGA&_nc_ss=7ea02&oh=00_AQAamZlQ2xKB0KCJGJKYkkGJxJwHFuqScv5TYMBCtBQyMQ&oe=6A5BDA22",
       "today": true
     },
     {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.14",
-      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
-      "url": "https://www.ozmall.co.jp/summer/article/45784/",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.07.14",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.07.14",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "東京ベイ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.14",
+      "title": "お台場のイルミネーション「YAKEI」が冬仕様に 青くライトアップ",
+      "url": "https://tokyobay.keizai.biz/headline/2495/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/tokyobay_keizai/headline/1762933845_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Archer Aviation wants to take you up, up and away. We talk to the American eVTOL pioneer",
+      "url": "https://www.wallpaper.com/transportation/archer-aviation-interview-midnight-evtol-aircraft",
+      "excerpt": "Archer Aviation’s Midnight aircraft is currently undergoing testing. Will the Californian company be first to market in a crowded field of eVTOL contenders?",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Mfjg6BXSYmSpvwXZ9xFxPS-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "the court as canvas: how sports grounds became one of design’s favorite public spaces",
+      "url": "https://www.designboom.com/art/court-canvas-sports-grounds-design-favorite-public-spaces/",
+      "excerpt": "from neighborhood basketball courts to rammed-earth tennis facilities, artists and architects experiment on one of the city's most familiar public spaces.\nThe post the court as canvas: how sports grou",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2017/06/pigalle-basketball-court-ill-studio-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "the architecture of permission or how thoughtful public design can activate our inner child",
+      "url": "https://www.designboom.com/design/architecture-permission-thoughtful-public-design-inner-child/",
+      "excerpt": "we take a look at public design practitioners who prioritize pleasure as one of their work's most essential functions.\nThe post the architecture of permission or how thoughtful public design can activ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/architecture-permission-thoughtful-public-design-inner-child-designboom01-818x648.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "‘play is my small form of resistance’: léa mestres on imagination and designing a freer world",
+      "url": "https://www.designboom.com/design/play-form-resistance-lea-mestres-imagination-freer-world-interview/",
+      "excerpt": "the french designer speaks with designboom about humor, intuition, and transforming northern france’s landscapes into colorful mosaic lamps, benches, and sculptural furniture.\nThe post ‘play is my sma",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/play-form-resistance-lea-mestres-imagination-freer-world-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "take your pleasure seriously: play as a way of being",
+      "url": "https://www.designboom.com/editorials/take-your-pleasure-seriously-designing-for-play/",
+      "excerpt": "what if form didn't follow function, but pleasure? long before we built anything, we played, turning a cardboard box into a spaceship and a patch of floor into an ocean. play here is not frivolity, bu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/take-your-pleasure-seriously-designing-for-play-designboom-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+      "url": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/",
+      "excerpt": "Local architect Tom Kneepkens has completed Forest Villa MB, a home in the Netherlands sheltered by a gridded timber roof with openings to accommodate the surrounding trees. Nestled in a forested site",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "The artist-led Fonds Bustamante is Arles’ newest creative gem",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/bustamante-foundation-charles-zana-arles-france",
+      "excerpt": "The brainchild of Jean-Marc Bustamante, and designed by Charles Zana, the new art foundation has opened its doors in an old church building in the south of France",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BHDj43B6xG3V7TZmPZ77yk-2560-80.jpg",
       "today": true
     },
     {
@@ -168,13 +238,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "ENESS turns old ATM into AI fortune teller that reads your face, palm, and psyche",
-      "url": "https://www.designboom.com/art/eness-atm-ai-fortune-teller-face-palm-psyche/",
-      "excerpt": "the work invites visitors to receive a personalized psychological reading, questioning the growing tendency to trust intelligent systems with our most intimate data.\nThe post ENESS turns old ATM into ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/eness-atm-ai-fortune-teller-face-palm-psyche-designboom-1200.jpg",
+      "title": "Nokia unveils nostalgic dumbphones with dedicated AI button",
+      "url": "https://www.dezeen.com/2026/07/14/nokia-unveils-nostalgic-dumbphones-with-dedicated-ai-button/",
+      "excerpt": "Tech company HMD has launched a range of retro Nokia brick phones with limited internet capabilities and an AI assistant button integrated into the centre of the keypad. Like many dumbphones, these 4G",
       "today": true
     },
     {
@@ -187,13 +256,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "exposed brick and blue metal transform a 1930s brazilian house into a cultural art hub",
-      "url": "https://www.designboom.com/architecture/exposed-brick-and-blue-metal-transform-a-1930s-brazilian-house-into-a-cultural-art-hub/",
-      "excerpt": "a central courtyard organizes the relationship between indoor and outdoor areas in remanso cultural institute.\nThe post exposed brick and blue metal transform a 1930s brazilian house into a cultural a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/renovation-remanso-cultural-institute-1930s-house-porto-alegre-brazil-cultural-art-community-hub-designboom-1200.jpg",
+      "title": "The Willemoesgade block / CEBRA",
+      "url": "https://www.archdaily.com/1092470/the-willemoesgade-block-cebra",
+      "excerpt": "The architectural transformation of the Willemoesgade enclosure revitalizes the city block, which had lost its purpose, into a permeable structure, creating a vibrant melting pot for people and urban ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b7de/61ff/5300/01d2/e846/large_jpg/06_Willemoesgade_CEBRA_photographer_Mikkel_Frost.jpg?1783674879",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "Herzog & de Meuron Unveils New Images of Lusail Museum on Qatar's Al Maha Island",
+      "url": "https://www.archdaily.com/1148610/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-on-qatars-al-maha-island",
+      "excerpt": "Al Maha Island is a 230,000 m² human-made island located off the coast of Lusail, Qatar. Built as an entertainment and leisure destination north of Doha, it opened in 2022, just ahead of the FIFA Worl",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/182b/97ef/2501/8be5/90ef/large_jpg/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-in-qatar_5.jpg?1783961716",
       "today": true
     },
     {
@@ -227,46 +306,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "this floating house made from collective wishes forms a temporary architecture of dreams",
-      "url": "https://www.designboom.com/art/floating-house-collective-wishes-temporary-architecture-dreams/",
-      "excerpt": "the temporary architecture explores how individual desires come together to shape, and continually reshape, the worlds we inhabit.\nThe post this floating house made from collective wishes forms a temp",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/floating-house-collective-wishes-temporary-architecture-dreams-designboom03.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "West Bund Dream Center BLDG1+BLDG3 / HCCH Studio",
-      "url": "https://www.archdaily.com/1033606/west-bund-dream-center-bldg1-plus-bldg3-hcch-studio",
-      "excerpt": "The West Bund Dream Center, is a new cultural commercial destination along Shanghai Huangpu River, built upon the former site of Shanghai Cement Factory. Undergone a decade of pending, the project fin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68b2/1b28/bfa2/0d12/2dc0/e11a/large_jpg/west-bund-dream-center-bldg1-plus-bldg3-hcch-studio_8.jpg?1756502862",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "carved from solid carrara marble, abstract house-like objects explore architectural form",
-      "url": "https://www.designboom.com/design/solid-carrara-marble-abstract-house-objects-architectural-form-eternal-structures-kfir-galatia-azulay/",
-      "excerpt": "the compositions suggest fragments of imagined cities or archetypal architectural forms.\nThe post carved from solid carrara marble, abstract house-like objects explore architectural form appeared firs",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/eternal-structures-collection-carrara-marble-abstract-house-objects-kfir-galatia-azulay-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Casa Luna / Nommo Arquitetos + Coti Arquitetura",
-      "url": "https://www.archdaily.com/1031502/casa-luna-nommo-arquitetos-plus-coti-arquitetura",
-      "excerpt": "At the end of a quiet street, nestled discreetly into the untouched Atlantic Forest landscape, Casa Luna is surrounded by araucaria trees and the songs of birds. Like a satellite, the house reflects t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/685b/4622/1089/1b2e/ef6f/e193/large_jpg/casa-luna-nommo-arquitetos_2.jpg?1750812223",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.13",
@@ -282,15 +321,6 @@ window.LUMINO_DATA = {
       "title": "Ten stadiums of the future that rewrite the playbook",
       "url": "https://www.dezeen.com/2026/07/13/future-stadiums-roundup/",
       "excerpt": "Stadiums are no longer just being designed for matchdays, with architects boldly pursuing novelty to create distinctive year-round landmarks. For our Future Stadium series, we look at 10 of the most o",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "File into the Future Stadium",
-      "url": "https://www.dezeen.com/2026/07/13/future-stadium-series-introduction/",
-      "excerpt": "With stadium construction intensifying and the World Cup drawing to a close, our Future Stadium series looks at the future of one of the world's most impactful buildings. We live in an age of entertai",
       "today": false
     },
     {
@@ -311,35 +341,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/yoga-retreat-bruce-engel-east-hampton-usa",
       "excerpt": "BE_Design’s Woods Retreat is a blackened temple to the principles of yogic process in a spectacular woodland location",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N32as62LfvJjzR65JHFRmU-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage",
-      "url": "https://www.dezeen.com/2026/07/13/muttram-veedu-will-gamble-architects-courtyard-extension/",
-      "excerpt": "A timber-framed glazed link and courtyard garden connect old and new parts of this home in Northwood, UK, which architecture studio Will Gamble Architects designed to reference traditional Sri Lankan ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.13",
-      "title": "This bucolic Somerset retreat is surrounded by wildflower meadows",
-      "url": "https://www.wallpaper.com/architecture/residential/somerset-retreat-daytrip-uk",
-      "excerpt": "London studio Daytrip reinvents a 1990s Somerset retreat by refining its interiors, clarifying its architecture, and opening it onto the British countryside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bWyUhiCjm4sZVsBomFtCVU-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.12",
-      "title": "Anatomy of a logo: MoMA by Ivan Chermayeff",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/moma-logo-design",
-      "excerpt": "Ivan Chermayeff's 1960s MoMA logo combines bold graphical simplicity and intellectual rigour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zP5XQruDpsj5et5pHVEiA-2560-80.jpg",
       "today": false
     },
     {
