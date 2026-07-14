@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  11:22",
+  "fetchedAt": "2026.07.14  13:21",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "instagram.com": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "東京ベイ経済新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -100,52 +100,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "instagram.com",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.14",
-      "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
-      "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JtKqr_ToK5QQ7kNvwHtXo64&_nc_oc=AdqsQ4Kliz9x3KMm2engfjWvOEJWcbXpFZ8h4wZOIbSi7Pt6sDX2B_ua7WlOgQ2S4DQ&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3YPELr2_0Poilss-bS6aGA&_nc_ss=7ea02&oh=00_AQAamZlQ2xKB0KCJGJKYkkGJxJwHFuqScv5TYMBCtBQyMQ&oe=6A5BDA22",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.14",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.14",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.14",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "SNS映えする夏の夜景スポット4選。最新ライトアップと話題の新名所へ【夏の夜のおでかけ特集2026】",
+      "url": "https://www.ozmall.co.jp/summer/article/45784/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.14",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.07.14",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
-      "today": true
-    },
-    {
-      "source": "東京ベイ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.14",
-      "title": "お台場のイルミネーション「YAKEI」が冬仕様に 青くライトアップ",
-      "url": "https://tokyobay.keizai.biz/headline/2495/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/tokyobay_keizai/headline/1762933845_photo.jpg",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
