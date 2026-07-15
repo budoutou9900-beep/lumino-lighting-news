@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  07:11",
+  "fetchedAt": "2026.07.15  09:56",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "newscast.jp": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,41 +41,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -110,6 +114,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.15",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.15",
@@ -117,15 +130,6 @@ window.LUMINO_DATA = {
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
       "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.15",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
       "today": true
     },
     {
@@ -145,6 +149,53 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.15",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "this surfboard doubles as a 10-liter beer tap with a built-in pressure chamber",
+      "url": "https://www.designboom.com/design/10-liter-surfboard-beer-tap-built-in-pressurized-chamber-beerboard-chris-garrett-phantom-surfboards-gage-roads-brew-co/",
+      "excerpt": "beerboard is a collaboration between surfboard shaper chris garrett, aka phantom surfboards, and brewing company gage roads brew co.\nThe post this surfboard doubles as a 10-liter beer tap with a built",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beerboard-chris-garrett-phantom-surfboards-gage-roads-brew-co-surfboard-beer-dispenser-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "belinda stewart architects to lead preservation of frank lloyd wright’s ‘fountainhead’ house",
+      "url": "https://www.designboom.com/architecture/belinda-stewart-architects-preservation-frank-lloyd-wrights-fountainhead-house-mississippi-museum-art-msmuseumart/",
+      "excerpt": "the project marks the next phase in transforming wright's only building in mississippi into a publicly accessible house museum, with an anticipated opening in 2028.\nThe post belinda stewart architects",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/belinda-stewart-architects-preservation-frank-lloyd-wrights-fountainhead-house-mississippi-museum-art-msmuseumart-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "IKEA releases portable furniture designed to be moved without a car",
+      "url": "https://www.dezeen.com/2026/07/15/ikea-kompishang-affordable-portable-furniture-short-term-rentals/",
+      "excerpt": "Swedish brand IKEA has unveiled its Kompishäng collection for short-term renters, featuring a £7 wardrobe organiser that doubles as a backpack and a side table that can be carried over the arm like a ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Delcy Morelos creates 30-tonne earthen installation informed by a mother's womb for the Barbican",
+      "url": "https://www.dezeen.com/2026/07/15/delcy-morelos-barbican-origo/",
+      "excerpt": "Colombian artist Delcy Morelos discusses how earth, darkness and the qualities of a mother's womb informed her installation for the Barbican Centre in London in this exclusive video produced by Dezeen",
       "today": true
     },
     {
@@ -171,9 +222,38 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.15",
+      "title": "Robert Wun adorns couture gown with kaleidoscope of colourful balloons",
+      "url": "https://www.dezeen.com/2026/07/15/robert-wun-haute-couture-dress-balloons-childsplay/",
+      "excerpt": "Clusters of balloons protruded from avant-garde garments at London designer Robert Wun's Autumn Winter 2026 haute couture show, giving the impression of inflatable-laden street vendors at a funfair. H",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
       "title": "Panasonic launches Japanese Microwave designed for modern American kitchens",
       "url": "https://www.dezeen.com/2026/07/15/panasonic-japanese-microwave/",
       "excerpt": "Promotion: electronics brand Panasonic has launched a minimalist microwave that seeks to bring Japanese design principles into North American homes. The new Panasonic Japanese Countertop Microwave NN-",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Beyond the Canopy: Six Architectural Strategies for Urban Shade",
+      "url": "https://www.archdaily.com/1042931/beyond-the-canopy-six-architectural-strategies-for-urban-shade",
+      "excerpt": "As cities around the world brace for extreme temperatures and waves of unrelenting heat, urban greening is one of the best solutions for leaders to combat this reality. The benefits of planting trees ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/45aa/8481/2b01/8af5/1edb/large_jpg/six-shading-alternatives-to-urban-trees_101.jpg?1782924735",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Casa Jar / Estudio Nada",
+      "url": "https://www.archdaily.com/1092355/casa-jar-crux-arquitectos",
+      "excerpt": "Casa JAR is an introspective house designed by Estudio Nada and Crux Arquitectura, where a succession of programmatic \"cubes\" embraces a large central courtyard that acts as a green lung and social co",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/7fb5/3e7a/321a/0f1e/d6bd/large_jpg/casa-jar-crux-arquitectos_24.jpg?1783594959",
       "today": true
     },
     {
@@ -200,9 +280,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.15",
-      "title": "koala kare expand accessibility by designing for assisted care in public",
+      "title": "koala kare expands accessibility by designing for assisted care in public",
       "url": "https://www.designboom.com/design/koala-kare-accessibility-in-public-spaces/",
-      "excerpt": "koala kare introduces an adult changing station engineered with an intentional layout that prioritizes dignity, supports caregivers, and addresses civic needs.\nThe post koala kare expand accessibility",
+      "excerpt": "koala kare introduces an adult changing station engineered with an intentional layout that prioritizes dignity, supports caregivers, and addresses civic needs.\nThe post koala kare expands accessibilit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/koala-kare_designboom_facebook.jpg",
       "today": true
     },
@@ -246,54 +326,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "L.A. House / Emedos Proyectos",
-      "url": "https://www.archdaily.com/1148677/la-house-emedos-proyectos",
-      "excerpt": "Located in the gated community of La Z Residence, in the central area of Jarabacoa, Dominican Republic, Casa L.A. seeks to establish a symbiosis between the physical context of the site and the archit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/5ea0/6336/c000/010f/bbee/large_jpg/DSC_0546.jpg?1784045243",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Dezeen debate features \"refuge for the uncreative\"",
-      "url": "https://www.dezeen.com/2026/07/14/david-chipperfield-faro-santander-dezeen-debate/",
-      "excerpt": "The latest Dezeen Debate newsletter features the transformation of a historic Spanish bank into the Faro Santander museum by David Chipperfield Architects. Subscribe to Dezeen Debate now. Scheduled to",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Play-Doh enters \"home decor space\" with flower-making kit for adults",
-      "url": "https://www.dezeen.com/2026/07/14/play-doh-blooms-flower-making-kit/",
-      "excerpt": "Toy company Hasbro has announced a line of Play-Doh products for adults with the release of Blooms, a flower-making kit for creating \"lifelike flowers\" that can be coated with a finishing spray for pr",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "five intersecting cylinders shape fran silvestre arquitectos’ house in madrid",
-      "url": "https://www.designboom.com/architecture/five-intersecting-cylinders-fran-silvestre-arquitectos-house-madrid/",
-      "excerpt": "rather than treating the circular forms as isolated objects, the architects connect them through a series of orthogonal junctions that generate fluid transitions between rooms.\nThe post five intersect",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/five-intersecting-cylinders-fran-silvestre-arquitectos-house-madrid01.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Xangri-Lá Residence / Yan Kruchin_",
-      "url": "https://www.archdaily.com/1148685/xangri-la-residence-yan-kruchin",
-      "excerpt": "The project stems from the clients' functional need to reorganize the layout of their existing beach house, which originally had all bedrooms on the upper floor. The requirement for a ground-floor sui",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a1f/3cbb/6c5d/d101/8c5c/4513/large_jpg/residencia-em-xangri-la-yan-kruchin_19.jpg?1780432073",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.14",
@@ -331,25 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/triennale-2026-president-vincenzo-trione-announcement",
       "excerpt": "The president’s newly announced team includes designer Michele de Lucchi, who will lead the Museo del Design Italiano with a focus on craftsmanship",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kkf4ZYvvbZiSLjvVK7jzyA-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Heavily stylistic approach to stadium design \"should die down\" says Populous global director Jonathan Mallie",
-      "url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
-      "excerpt": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Populous, the studio driving global stad",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "a terraced timber pavilion explores circular construction for austria’s gabonsa music festival",
-      "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
-      "excerpt": "gabonsa pavilion was designed and built by students from kaiserslautern university of applied sciences.\nThe post a terraced timber pavilion explores circular construction for austria’s gabonsa music f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/students-Kaiserslautern-gabonsa-temporary-pavilion-gabonsa-music-festival-innsbruck-austria-designboom-1200-1-1.jpg",
       "today": false
     },
     {
