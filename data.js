@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  20:54",
+  "fetchedAt": "2026.07.15  21:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,81 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "newscast.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "久留米ファン": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "岩崎電気": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -105,15 +101,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.15",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -172,6 +159,35 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Selldorf Architects reveal new design for the Clark Art Institute in Massachusetts",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/selldorf-architects-clark-art-institute-design-reveal",
+      "excerpt": "The 15,000 sq ft insertion will unify two older buildings on the campus and house the dazzling Aso O. Tavitian collection",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ah2gn2BU34DdACP2AZ4TPF-2000-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "National Museum of Ecuador recalls Alberto Campo Baeza design after public backlash",
+      "url": "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/",
+      "excerpt": "A winning design for a new National Museum of Ecuador (MuNA) building in Quito by Spanish outfit Studio Alberto Campo Baeza and local studio MAODA has been called back by the government, with the stud",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "MESTIZ weaves a vibrant world of flowers and curious creatures for Hermès windows",
+      "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
+      "excerpt": "the mexican studio creates an imagined landscape of wicker creatures, where flowers, animals, and objects become characters.\nThe post MESTIZ weaves a vibrant world of flowers and curious creatures for",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -311,25 +327,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Studio Libeskind designs cluster of Seoul skyscrapers as \"a living work of art\"",
-      "url": "https://www.dezeen.com/2026/07/15/daechi-ssangyong-studio-libeskind-seoul/",
-      "excerpt": "Architecture firm Studio Libeskind has unveiled designs for six skyscrapers set to form a residential complex in Seoul's Gangnam district. Studio Libeskind collaborated with local architecture studios",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "this surfboard doubles as a 10-liter beer tap with a built-in pressure chamber",
-      "url": "https://www.designboom.com/design/10-liter-surfboard-beer-tap-built-in-pressurized-chamber-beerboard-chris-garrett-phantom-surfboards-gage-roads-brew-co/",
-      "excerpt": "beerboard is a collaboration between surfboard shaper chris garrett, aka phantom surfboards, and brewing company gage roads brew co.\nThe post this surfboard doubles as a 10-liter beer tap with a built",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beerboard-chris-garrett-phantom-surfboards-gage-roads-brew-co-surfboard-beer-dispenser-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -368,16 +365,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Felice Flatiron brings Tuscan warmth to a neo-Gothic corner of Fifth Avenue",
-      "url": "https://www.wallpaper.com/travel/restaurants/felice-flatiron-new-york-review",
-      "excerpt": "The family-run Italian restaurant series arrives in Flatiron with a Bonetti/Kozerski-designed dining room, ambitious wine programme and tableside tiramisu cart",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HrufFFpvrEuzjz3EM5SSnd-2560-80.jpg",
-      "today": false
     },
     {
       "source": "岩崎電気",
