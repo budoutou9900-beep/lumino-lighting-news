@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  22:54",
+  "fetchedAt": "2026.07.15  23:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -158,7 +158,6 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -188,6 +187,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
       "excerpt": "the mexican studio creates an imagined landscape of wicker creatures, where flowers, animals, and objects become characters.\nThe post MESTIZ weaves a vibrant world of flowers and curious creatures for",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Jardim House Renovation / Baixo Impacto Arquitetura",
+      "url": "https://www.archdaily.com/1148763/jardim-house-renovation-baixo-impacto-arquitetura",
+      "excerpt": "In the Casa Jardim Renovation, preservation became the project's primary strategy. Guided by the premise that the most sustainable building is the one that already exists, the intervention reorganizes",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/dbe1/d425/1a00/01c4/b7a3/large_jpg/Casa_Jardim_18_Foto_Fernanda_Enredo.jpg.jpg?1784142916",
       "today": true
     },
     {
@@ -334,16 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092338/movement-innovation-and-memory-the-bizkaia-bridge-between-engineering-and-heritage",
       "excerpt": "What role do transportation infrastructures play in shaping the culture and economy of societies? How do they bridge cultural, ideological, and geographic divides while transforming the lives of the c",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/df60/0e77/3c01/8817/73ef/large_jpg/when-connection-sparks-a-fusion-how-the-bizkaia-bridge-bridges-the-gap-between-opposite-shores_1.jpg?1783553898",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Cathedral House / JAK Architecture",
-      "url": "https://www.archdaily.com/1092490/cathedral-house-jak-architecture",
-      "excerpt": "Cathedral House is a new residential build in Thornton, Victoria, sited on a rural hillside property overlooking the Cathedral Ranges. The project was designed as a weekend retreat for a family seekin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/e80c/9997/a86f/f617/12ef/large_jpg/cathedral-house-jak-architecture_3.jpg?1783687199",
       "today": true
     },
     {
