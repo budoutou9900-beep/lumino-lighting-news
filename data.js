@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  11:27",
+  "fetchedAt": "2026.07.15  13:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -174,9 +174,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.15",
-      "title": "peanut butter tribute to wim t. schippers spreads dutch artist’s love of humor",
+      "title": "390kg of peanut butter cover rotterdam gallery floor, celebrating humor and absurdity",
       "url": "https://www.designboom.com/art/peanut-butter-tribute-wim-t-schippers-dutch-artist-love-humor/",
-      "excerpt": "the artist, producer, actor, and director's playful legacy lives on in a revival of his creamy installtion at museum boijmans van beuningen.\nThe post peanut butter tribute to wim t. schippers spreads ",
+      "excerpt": "the playful installation at depot boijmans van beuningen recreates an iconic 1962 artwork by the late dutch artist and comedian wim t. schippers.\nThe post 390kg of peanut butter cover rotterdam galler",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/peanut-butter-schippers-designboom-14.jpg",
       "today": true
     },
@@ -247,12 +247,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Movement, Innovation, and Memory: The Bizkaia Bridge Between Engineering and Heritage",
+      "url": "https://www.archdaily.com/1092338/movement-innovation-and-memory-the-bizkaia-bridge-between-engineering-and-heritage",
+      "excerpt": "What role do transportation infrastructures play in shaping the culture and economy of societies? How do they bridge cultural, ideological, and geographic divides while transforming the lives of the c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/df60/0e77/3c01/8817/73ef/large_jpg/when-connection-sparks-a-fusion-how-the-bizkaia-bridge-bridges-the-gap-between-opposite-shores_1.jpg?1783553898",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.15",
       "title": "Delcy Morelos creates 30-tonne earthen installation informed by a mother's womb for the Barbican",
       "url": "https://www.dezeen.com/2026/07/15/delcy-morelos-barbican-origo/",
       "excerpt": "Colombian artist Delcy Morelos discusses how earth, darkness and the qualities of a mother's womb informed her installation for the Barbican Centre in London in this exclusive video produced by Dezeen",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Cathedral House / JAK Architecture",
+      "url": "https://www.archdaily.com/1092490/cathedral-house-jak-architecture",
+      "excerpt": "Cathedral House is a new residential build in Thornton, Victoria, sited on a rural hillside property overlooking the Cathedral Ranges. The project was designed as a weekend retreat for a family seekin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/e80c/9997/a86f/f617/12ef/large_jpg/cathedral-house-jak-architecture_3.jpg?1783687199",
       "today": true
     },
     {
@@ -279,40 +299,30 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.15",
+      "title": "OMA's The Martin Completes as Part of the Transformation of Amsterdam's Former Bijlmerbajes Prison",
+      "url": "https://www.archdaily.com/1148657/omas-the-martin-completes-as-part-of-the-transformation-of-amsterdams-former-bijlmerbajes-prison",
+      "excerpt": "The Martin, a residential building designed by OMA's David Gianotten and Mariano Sagasta, has been completed in Amsterdam's Bajes Kwartier. Located within the Central Cluster of the 7.5-hectare redeve",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/385c/25a7/5001/8825/b0a9/large_jpg/omas-the-martin-completes-as-part-of-the-transformation-of-amsterdams-former-bijlmerbajes-prison_8.jpg?1784035638",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Rebecca Cheptegei Sports Hall, Pantin / Atelier Ramdam",
+      "url": "https://www.archdaily.com/1092524/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam",
+      "excerpt": "The hall completed by atelier RAMDAM stands near Henri Barbusse Park, facing the open-air school listed as a historic monument, and the Denis Honegger housing developments, including the Méhul Tower.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b999/a6cc/5601/89e4/e225/large_jpg/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam_18.jpg?1783937448",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
       "title": "Studio Libeskind Designs New High-Density Residential Towers in Seoul",
       "url": "https://www.archdaily.com/1148691/studio-libeskind-designs-new-high-density-residential-towers-in-seoul",
       "excerpt": "Studio Libeskind, in collaboration with HJ Design Partners and Seoul-based SAMOO Architects & Engineers, has designed a new high-density residential development in Seoul, South Korea. The Daechi Ssang",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/e528/93aa/2d01/8c25/4532/large_jpg/studio-libeskind-designs-new-residential-development-in-seoul_5.jpg?1784079800",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Beyond the Canopy: Six Architectural Strategies for Urban Shade",
-      "url": "https://www.archdaily.com/1042931/beyond-the-canopy-six-architectural-strategies-for-urban-shade",
-      "excerpt": "As cities around the world brace for extreme temperatures and waves of unrelenting heat, urban greening is one of the best solutions for leaders to combat this reality. The benefits of planting trees ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/45aa/8481/2b01/8af5/1edb/large_jpg/six-shading-alternatives-to-urban-trees_101.jpg?1782924735",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Casa Jar / Estudio Nada",
-      "url": "https://www.archdaily.com/1092355/casa-jar-crux-arquitectos",
-      "excerpt": "Casa JAR is an introspective house designed by Estudio Nada and Crux Arquitectura, where a succession of programmatic \"cubes\" embraces a large central courtyard that acts as a green lung and social co",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/7fb5/3e7a/321a/0f1e/d6bd/large_jpg/casa-jar-crux-arquitectos_24.jpg?1783594959",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Drifting - Fusuma-e House and Studio / knof",
-      "url": "https://www.archdaily.com/1148602/drifting-fusuma-e-house-and-studio-knof",
-      "excerpt": "An apartment overlooking both century-old trees and the skyline of central Tokyo—we designed this residence as the Japanese home base for a music producer and DJ. For a client whose life is shaped by ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/0077/22ee/0e00/0134/c9a0/large_jpg/DRIFTING_001_Akiya_Maekawa.jpg?1783955611",
       "today": true
     },
     {
@@ -323,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/NEWS/event/2026/iSiTLUS.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "How a New Generation Is Designing at the Confluence of Cultures",
-      "url": "https://www.archdaily.com/1148681/how-a-new-generation-is-designing-at-the-confluence-of-cultures",
-      "excerpt": "A profound generational evolution is rewriting the rules of the contemporary landscape, bringing an end to the era where architects and designers merely mimicked the tenets of Western modernism. Recor",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/7002/25a7/5001/8825/b244/large_jpg/designing-at-the-confluence-of-cultures_1.jpg?1784049680",
       "today": true
     },
     {
