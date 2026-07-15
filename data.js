@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  15:23",
+  "fetchedAt": "2026.07.15  17:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -114,15 +114,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.15",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.15",
@@ -130,6 +121,15 @@ window.LUMINO_DATA = {
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
       "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.15",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -158,6 +158,16 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "volkswagen’s smart eBike puts a rear-view camera between the handlebars",
+      "url": "https://www.designboom.com/technology/volkswagen-smart-ebike-rear-view-camera-electric-sport-crossover/",
+      "excerpt": "n+ builds an automotive-style safety system around two flat-white aluminum commuter frames.\nThe post volkswagen’s smart eBike puts a rear-view camera between the handlebars appeared first on designboo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/volkswagen-smart-ebike-n-plus-designboom-FB.jpg",
       "today": true
     },
     {
@@ -257,6 +267,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Primary School Wiesental / PENZISBETTINI Architekten",
+      "url": "https://www.archdaily.com/1092517/primary-school-wiesental-penzisbettini-architekten",
+      "excerpt": "The school is set orthogonally within its site, open towards the natural landscape of the Lorze river valley. The campus arrangement disentangles programmatic functions while preserving the communal i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/0908/e05c/0800/010e/13c7/large_jpg/FEDERICOFARINATTI_PBA_WIESENTAL_16.jpg?1783695699",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -273,16 +293,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/10-liter-surfboard-beer-tap-built-in-pressurized-chamber-beerboard-chris-garrett-phantom-surfboards-gage-roads-brew-co/",
       "excerpt": "beerboard is a collaboration between surfboard shaper chris garrett, aka phantom surfboards, and brewing company gage roads brew co.\nThe post this surfboard doubles as a 10-liter beer tap with a built",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/beerboard-chris-garrett-phantom-surfboards-gage-roads-brew-co-surfboard-beer-dispenser-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "belinda stewart architects to lead preservation of frank lloyd wright’s ‘fountainhead’ house",
-      "url": "https://www.designboom.com/architecture/belinda-stewart-architects-preservation-frank-lloyd-wrights-fountainhead-house-mississippi-museum-art-msmuseumart/",
-      "excerpt": "the project marks the next phase in transforming wright's only building in mississippi into a publicly accessible house museum, with an anticipated opening in 2028.\nThe post belinda stewart architects",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/belinda-stewart-architects-preservation-frank-lloyd-wrights-fountainhead-house-mississippi-museum-art-msmuseumart-designboom-1200.jpg",
       "today": true
     },
     {
@@ -333,16 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092524/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam",
       "excerpt": "The hall completed by atelier RAMDAM stands near Henri Barbusse Park, facing the open-air school listed as a historic monument, and the Denis Honegger housing developments, including the Méhul Tower.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b999/a6cc/5601/89e4/e225/large_jpg/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam_18.jpg?1783937448",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Studio Libeskind Designs New High-Density Residential Towers in Seoul",
-      "url": "https://www.archdaily.com/1148691/studio-libeskind-designs-new-high-density-residential-towers-in-seoul",
-      "excerpt": "Studio Libeskind, in collaboration with HJ Design Partners and Seoul-based SAMOO Architects & Engineers, has designed a new high-density residential development in Seoul, South Korea. The Daechi Ssang",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/e528/93aa/2d01/8c25/4532/large_jpg/studio-libeskind-designs-new-residential-development-in-seoul_5.jpg?1784079800",
       "today": true
     },
     {
