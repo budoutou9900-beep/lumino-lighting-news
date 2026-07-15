@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.14  23:47",
+  "fetchedAt": "2026.07.15  01:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,60 +29,64 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +96,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -112,7 +116,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -121,7 +125,7 @@ window.LUMINO_DATA = {
     {
       "source": "newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -131,7 +135,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -141,10 +145,29 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.14",
+      "date": "2026.07.15",
       "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=262079",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.15",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "koala kare expand accessibility by designing for assisted care in public",
+      "url": "https://www.designboom.com/design/koala-kare-accessibility-in-public-spaces/",
+      "excerpt": "koala kare introduces an adult changing station engineered with an intentional layout that prioritizes dignity, supports caregivers, and addresses civic needs.\nThe post koala kare expand accessibility",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/koala-kare_designboom_facebook.jpg",
       "today": true
     },
     {
@@ -155,7 +178,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/surfboard-offcuts-furniture-objects-hall5/",
       "excerpt": "father and daughter turn surfboard production waste into furniture and everyday objects\nThe post this creative duo turns surfboard waste into furniture and everyday objects appeared first on designboo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/surfboard-offcuts-furniture-objects-hall5-designboom-05-750x1000.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -164,7 +187,17 @@ window.LUMINO_DATA = {
       "title": "Colorado house by Studio B and Studio Brother John appears to \"hover over the land\"",
       "url": "https://www.dezeen.com/2026/07/14/9631-mountain-ridge-place-studio-b-studio-brother-john-boulder-colorado/",
       "excerpt": "Local outfit Studio Brother John has collaborated with Studio B Architecture + Interiors for a house in Boulder, Colorado, USA making the most of its mountainous site and replacing a structure destroy",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "L.A. House / Emedos Proyectos",
+      "url": "https://www.archdaily.com/1148677/la-house-emedos-proyectos",
+      "excerpt": "Located in the gated community of La Z Residence, in the central area of Jarabacoa, Dominican Republic, Casa L.A. seeks to establish a symbiosis between the physical context of the site and the archit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/5ea0/6336/c000/010f/bbee/large_jpg/DSC_0546.jpg?1784045243",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -173,7 +206,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen debate features \"refuge for the uncreative\"",
       "url": "https://www.dezeen.com/2026/07/14/david-chipperfield-faro-santander-dezeen-debate/",
       "excerpt": "The latest Dezeen Debate newsletter features the transformation of a historic Spanish bank into the Faro Santander museum by David Chipperfield Architects. Subscribe to Dezeen Debate now. Scheduled to",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -182,7 +215,7 @@ window.LUMINO_DATA = {
       "title": "Play-Doh enters \"home decor space\" with flower-making kit for adults",
       "url": "https://www.dezeen.com/2026/07/14/play-doh-blooms-flower-making-kit/",
       "excerpt": "Toy company Hasbro has announced a line of Play-Doh products for adults with the release of Blooms, a flower-making kit for creating \"lifelike flowers\" that can be coated with a finishing spray for pr",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -192,7 +225,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148685/xangri-la-residence-yan-kruchin",
       "excerpt": "The project stems from the clients' functional need to reorganize the layout of their existing beach house, which originally had all bedrooms on the upper floor. The requirement for a ground-floor sui",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a1f/3cbb/6c5d/d101/8c5c/4513/large_jpg/residencia-em-xangri-la-yan-kruchin_19.jpg?1780432073",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -202,7 +235,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/felice-flatiron-new-york-review",
       "excerpt": "The family-run Italian restaurant series arrives in Flatiron with a Bonetti/Kozerski-designed dining room, ambitious wine programme and tableside tiramisu cart",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HrufFFpvrEuzjz3EM5SSnd-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -212,7 +245,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-logo-history",
       "excerpt": "A symbol of simplicity and sex appeal, the sans-serif logo has come to encapsulate contemporary American style. Here, we unpack the logo’s origins",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ei59wce6YCkFAPGDpx364-2512-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -222,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/vibeke-tandberg-they-live-bergen-art-museum-review",
       "excerpt": "A new exhibition, ‘They Live’, at Kode Bergen Art Museum, walks us through Tandberg's extraordinary career",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dPVbdzexmDSXU6Tu2tCWzb-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -232,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/triennale-2026-president-vincenzo-trione-announcement",
       "excerpt": "The president’s newly announced team includes designer Michele de Lucchi, who will lead the Museo del Design Italiano with a focus on craftsmanship",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kkf4ZYvvbZiSLjvVK7jzyA-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -242,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/la-maison-du-chocolat-ice-cream",
       "excerpt": "Refresh your taste buds with La Maison du Chocolat’s new summer collection of ice creams and frozen chocolates",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9BMW2EMaMKHBcz76hk9zM4-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -252,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148651/naab-house-di-frenna-arquitectos",
       "excerpt": "The first impression of the house does not come from its details, but from its mass. A restrained composition of clean lines, where horizontality dominates, is interrupted only by a central volume tha",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b246/22ee/0e00/0134/c677/large_jpg/DFA-NAAB-3067.jpg?1783935666",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -261,7 +294,7 @@ window.LUMINO_DATA = {
       "title": "Heavily stylistic approach to stadium design \"should die down\" says Populous global director Jonathan Mallie",
       "url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
       "excerpt": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Populous, the studio driving global stad",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -271,7 +304,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
       "excerpt": "gabonsa pavilion was designed and built by students from kaiserslautern university of applied sciences.\nThe post a terraced timber pavilion explores circular construction for austria’s gabonsa music f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/students-Kaiserslautern-gabonsa-temporary-pavilion-gabonsa-music-festival-innsbruck-austria-designboom-1200-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -280,7 +313,7 @@ window.LUMINO_DATA = {
       "title": "Essence tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/07/14/essence-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Casalgrande Padana has created an ode to larch wood with its Essence porcelain stoneware tiles, part of the Elements collection. Essence tiles combine the rich grain and",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -290,7 +323,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148616/roots-house-studio-gontijo-arquitetura",
       "excerpt": "Located atop a cliff in Trancoso, in southern Bahia, Casa Raízes was conceived through a deep relationship with its territory. Offering permanent views of the horizon and the ocean, the site features ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/1a63/22ee/0e00/0134/ca1e/large_jpg/Casa_Ra_zes_-_Andr__Klotz__3_.jpg?1783962310",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -300,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148619/wabamun-lake-cabin-josh-kjenner",
       "excerpt": "Situated on Wabamun Lake, Josh Kjenner Architect completes a contemporary cabin which offers a retreat for a young family an hour just outside of Edmonton. The homeowners—an academic and an entreprene",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/3562/294b/f801/88a4/88eb/large_jpg/wabamun-lake-cabin-josh-kjenner_18.jpg?1783969137",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -310,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/court-canvas-sports-grounds-design-favorite-public-spaces/",
       "excerpt": "from neighborhood basketball courts to rammed-earth tennis facilities, artists and architects experiment on one of the city's most familiar public spaces.\nThe post the court as canvas: how sports grou",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2017/06/pigalle-basketball-court-ill-studio-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -320,27 +353,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/architecture-permission-thoughtful-public-design-inner-child/",
       "excerpt": "we take a look at public design practitioners who prioritize pleasure as one of their work's most essential functions.\nThe post the architecture of permission or how thoughtful public design can activ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/architecture-permission-thoughtful-public-design-inner-child-designboom01-818x648.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "‘play is my small form of resistance’: léa mestres on imagination and designing a freer world",
-      "url": "https://www.designboom.com/design/play-form-resistance-lea-mestres-imagination-freer-world-interview/",
-      "excerpt": "the french designer speaks with designboom about humor, intuition, and transforming northern france’s landscapes into colorful mosaic lamps, benches, and sculptural furniture.\nThe post ‘play is my sma",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/play-form-resistance-lea-mestres-imagination-freer-world-interview-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "EcoNeo Summerhouse  / SAGA Space Architects",
-      "url": "https://www.archdaily.com/1092472/econeo-summerhouse-saga-space-architects",
-      "excerpt": "EcoNeo is a 35 m² summerhouse in Zealand, Denmark, designed by SAGA Space Architects as a compact residential construction for low-impact holiday living. Drawing on the studio's work with habitats for",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b8e0/61ff/5300/01d2/e890/large_jpg/SAGA_Space_Architects_-_EcoNeo_1.jpg?1783675676",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
