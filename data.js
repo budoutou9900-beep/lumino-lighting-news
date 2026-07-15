@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  04:47",
+  "fetchedAt": "2026.07.15  07:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "newscast.jp": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,61 +25,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "岩崎電気": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "Wallpaper*": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -114,15 +110,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.15",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.15",
@@ -130,6 +117,15 @@ window.LUMINO_DATA = {
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
       "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.15",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -143,21 +139,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.15",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.15",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "A Mickey Muennig house enters a new life chapter in California",
+      "url": "https://www.wallpaper.com/architecture/residential/mickey-muennig-house-nicole-hollis-california-usa",
+      "excerpt": "Nicole Hollis' clarifying renovation of a Mickey Muennig house on California's Monterey Peninsula creates a playful weekend retreat",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hoos-home-i9sup7EniAt58q7HYCUdqf-2169-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "a garden-within-a-garden unfolds through water, translucent pavilions, and green courtyards",
+      "url": "https://www.designboom.com/architecture/garden-within-a-garden-water-translucent-pavilions-green-courtyards-trop-terrains-plus-open-space-yanlord-arcadia/",
+      "excerpt": "yanlord arcadia transforms a residential courtyard into a layered garden landscape.\nThe post a garden-within-a-garden unfolds through water, translucent pavilions, and green courtyards appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/trop-terrains-plus-open-space-yanlord-arcadia-garden-within-a-garden-shanghai-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Panasonic launches Japanese Microwave designed for modern American kitchens",
+      "url": "https://www.dezeen.com/2026/07/15/panasonic-japanese-microwave/",
+      "excerpt": "Promotion: electronics brand Panasonic has launched a minimalist microwave that seeks to bring Japanese design principles into North American homes. The new Panasonic Japanese Countertop Microwave NN-",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Drifting - Fusuma-e House and Studio / knof",
+      "url": "https://www.archdaily.com/1148602/drifting-fusuma-e-house-and-studio-knof",
+      "excerpt": "An apartment overlooking both century-old trees and the skyline of central Tokyo—we designed this residence as the Japanese home base for a music producer and DJ. For a client whose life is shaped by ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/0077/22ee/0e00/0134/c9a0/large_jpg/DRIFTING_001_Akiya_Maekawa.jpg?1783955611",
       "today": true
     },
     {
@@ -181,12 +207,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "How a New Generation Is Designing at the Confluence of Cultures",
+      "url": "https://www.archdaily.com/1148681/how-a-new-generation-is-designing-at-the-confluence-of-cultures",
+      "excerpt": "A profound generational evolution is rewriting the rules of the contemporary landscape, bringing an end to the era where architects and designers merely mimicked the tenets of Western modernism. Recor",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/7002/25a7/5001/8825/b244/large_jpg/designing-at-the-confluence-of-cultures_1.jpg?1784049680",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Shanghai Qiyuan Experimental Primary School / Atelier Archmixing",
+      "url": "https://www.archdaily.com/1039555/shanghai-qiyuan-experimental-primary-school-atelier-archmixing",
+      "excerpt": "Shanghai Qiyuan Experimental Primary School is the only chess-specialized school in Shanghai. With its growth, the original campus could no longer meet functional needs. The Jing'an District governmen",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69b1/c3e2/314f/6601/8902/c780/large_jpg/shanghai-qiyuan-experimental-primary-school-atelier-archmixing_8.jpg?1773257730",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.14",
-      "title": "this creative duo turns surfboard waste into furniture and everyday objects",
+      "title": "father-daughter duo transforms surfboard waste into furniture and everyday objects",
       "url": "https://www.designboom.com/design/surfboard-offcuts-furniture-objects-hall5/",
-      "excerpt": "father and daughter turn surfboard production waste into furniture and everyday objects\nThe post this creative duo turns surfboard waste into furniture and everyday objects appeared first on designboo",
+      "excerpt": "father and daughter turn surfboard production waste into furniture and everyday objects\nThe post father-daughter duo transforms surfboard waste into furniture and everyday objects appeared first on de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/surfboard-offcuts-furniture-objects-hall5-designboom-05-750x1000.jpg",
       "today": false
     },
@@ -225,6 +271,16 @@ window.LUMINO_DATA = {
       "title": "Play-Doh enters \"home decor space\" with flower-making kit for adults",
       "url": "https://www.dezeen.com/2026/07/14/play-doh-blooms-flower-making-kit/",
       "excerpt": "Toy company Hasbro has announced a line of Play-Doh products for adults with the release of Blooms, a flower-making kit for creating \"lifelike flowers\" that can be coated with a finishing spray for pr",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.14",
+      "title": "five intersecting cylinders shape fran silvestre arquitectos’ house in madrid",
+      "url": "https://www.designboom.com/architecture/five-intersecting-cylinders-fran-silvestre-arquitectos-house-madrid/",
+      "excerpt": "rather than treating the circular forms as isolated objects, the architects connect them through a series of orthogonal junctions that generate fluid transitions between rooms.\nThe post five intersect",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/five-intersecting-cylinders-fran-silvestre-arquitectos-house-madrid01.jpg",
       "today": false
     },
     {
@@ -278,26 +334,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "These luxurious ice creams are the new summer accessories",
-      "url": "https://www.wallpaper.com/entertaining/la-maison-du-chocolat-ice-cream",
-      "excerpt": "Refresh your taste buds with La Maison du Chocolat’s new summer collection of ice creams and frozen chocolates",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9BMW2EMaMKHBcz76hk9zM4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Naab House / Di Frenna Arquitectos",
-      "url": "https://www.archdaily.com/1148651/naab-house-di-frenna-arquitectos",
-      "excerpt": "The first impression of the house does not come from its details, but from its mass. A restrained composition of clean lines, where horizontality dominates, is interrupted only by a central volume tha",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b246/22ee/0e00/0134/c677/large_jpg/DFA-NAAB-3067.jpg?1783935666",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.14",
@@ -314,55 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
       "excerpt": "gabonsa pavilion was designed and built by students from kaiserslautern university of applied sciences.\nThe post a terraced timber pavilion explores circular construction for austria’s gabonsa music f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/students-Kaiserslautern-gabonsa-temporary-pavilion-gabonsa-music-festival-innsbruck-austria-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Essence tiles by Casalgrande Padana",
-      "url": "https://www.dezeen.com/2026/07/14/essence-tiles-casalgrande-padana-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Italian brand Casalgrande Padana has created an ode to larch wood with its Essence porcelain stoneware tiles, part of the Elements collection. Essence tiles combine the rich grain and",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Roots House / Studio Gontijo Arquitetura",
-      "url": "https://www.archdaily.com/1148616/roots-house-studio-gontijo-arquitetura",
-      "excerpt": "Located atop a cliff in Trancoso, in southern Bahia, Casa Raízes was conceived through a deep relationship with its territory. Offering permanent views of the horizon and the ocean, the site features ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/1a63/22ee/0e00/0134/ca1e/large_jpg/Casa_Ra_zes_-_Andr__Klotz__3_.jpg?1783962310",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Wabamun Lake Cabin  / Josh Kjenner",
-      "url": "https://www.archdaily.com/1148619/wabamun-lake-cabin-josh-kjenner",
-      "excerpt": "Situated on Wabamun Lake, Josh Kjenner Architect completes a contemporary cabin which offers a retreat for a young family an hour just outside of Edmonton. The homeowners—an academic and an entreprene",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/3562/294b/f801/88a4/88eb/large_jpg/wabamun-lake-cabin-josh-kjenner_18.jpg?1783969137",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "the court as canvas: how sports grounds became one of design’s favorite public spaces",
-      "url": "https://www.designboom.com/art/court-canvas-sports-grounds-design-favorite-public-spaces/",
-      "excerpt": "from neighborhood basketball courts to rammed-earth tennis facilities, artists and architects experiment on one of the city's most familiar public spaces.\nThe post the court as canvas: how sports grou",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2017/06/pigalle-basketball-court-ill-studio-designboom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "the architecture of permission or how thoughtful public design can activate our inner child",
-      "url": "https://www.designboom.com/design/architecture-permission-thoughtful-public-design-inner-child/",
-      "excerpt": "we take a look at public design practitioners who prioritize pleasure as one of their work's most essential functions.\nThe post the architecture of permission or how thoughtful public design can activ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/architecture-permission-thoughtful-public-design-inner-child-designboom01-818x648.jpg",
       "today": false
     },
     {
