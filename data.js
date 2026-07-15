@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  17:11",
+  "fetchedAt": "2026.07.15  19:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -219,6 +219,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Vila Talha / Contacto Atlântico",
+      "url": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico",
+      "excerpt": "Villa Talha, located at the Costa Terra Golf & Ocean Club in Melides, stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an appr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/6d39/6336/c000/010f/bc2b/large_jpg/CT66-2.jpg?1784048970",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Apartment in the Heart of Jeżyce in Poznań / LBWA",
+      "url": "https://www.archdaily.com/1148665/apartment-in-the-heart-of-jezyce-in-poznan-lbwa",
+      "excerpt": "This 69 m² apartment, designed by the LBWA studio, is located in one of the new developments amidst historic tenements in the Jeżyce district of Poznań. The interior's unique design was created using ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/3e6b/6336/c000/010f/bb60/large_jpg/ZASOBY-0015-Z1004147-V1_kopia.jpg?1784037016",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -323,26 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/mickey-muennig-house-nicole-hollis-california-usa",
       "excerpt": "Nicole Hollis' clarifying renovation of a Mickey Muennig house on California's Monterey Peninsula creates a playful weekend retreat",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hoos-home-i9sup7EniAt58q7HYCUdqf-2169-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "OMA's The Martin Completes as Part of the Transformation of Amsterdam's Former Bijlmerbajes Prison",
-      "url": "https://www.archdaily.com/1148657/omas-the-martin-completes-as-part-of-the-transformation-of-amsterdams-former-bijlmerbajes-prison",
-      "excerpt": "The Martin, a residential building designed by OMA's David Gianotten and Mariano Sagasta, has been completed in Amsterdam's Bajes Kwartier. Located within the Central Cluster of the 7.5-hectare redeve",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/385c/25a7/5001/8825/b0a9/large_jpg/omas-the-martin-completes-as-part-of-the-transformation-of-amsterdams-former-bijlmerbajes-prison_8.jpg?1784035638",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Rebecca Cheptegei Sports Hall, Pantin / Atelier Ramdam",
-      "url": "https://www.archdaily.com/1092524/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam",
-      "excerpt": "The hall completed by atelier RAMDAM stands near Henri Barbusse Park, facing the open-air school listed as a historic monument, and the Denis Honegger housing developments, including the Méhul Tower.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b999/a6cc/5601/89e4/e225/large_jpg/rebecca-cheptegei-sports-hall-pantin-atelier-ramdam_18.jpg?1783937448",
       "today": true
     },
     {
