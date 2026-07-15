@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  09:56",
+  "fetchedAt": "2026.07.15  11:27",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -161,6 +161,63 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/mcdonalds-logo-design-golden-arches",
+      "excerpt": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jSK4YQPn4g5eaUNrfeZk2d-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "peanut butter tribute to wim t. schippers spreads dutch artist’s love of humor",
+      "url": "https://www.designboom.com/art/peanut-butter-tribute-wim-t-schippers-dutch-artist-love-humor/",
+      "excerpt": "the artist, producer, actor, and director's playful legacy lives on in a revival of his creamy installtion at museum boijmans van beuningen.\nThe post peanut butter tribute to wim t. schippers spreads ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/peanut-butter-schippers-designboom-14.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Roberts Gray Architects tops New Zealand sand dune with rammed-earth home",
+      "url": "https://www.dezeen.com/2026/07/15/roberts-gray-architects-double-courtyard-house-new-zealand/",
+      "excerpt": "New Zealand studio Roberts Gray Architects has completed a coastal home near Aukland, wrapping two contrasting courtyards with low-slung volumes of rammed earth. Named Double Courtyard House, the home",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "please touch the art: takako saito turned spectators into players",
+      "url": "https://www.designboom.com/art/please-touch-the-art-takako-saito-spectators-into-players/",
+      "excerpt": "decades before museums embraced participation and 'user experience', the late japanese-born artist built a practice grounded in material curiosity and joy.\nThe post please touch the art: takako saito ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/please-touch-the-art-takako-saito-spectators-into-players-designboom00-818x460.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Studio Fuksas-designed Rike Concert Hall in Tbilisi set to be demolished",
+      "url": "https://www.dezeen.com/2026/07/15/rike-concert-hall-tbilisi-demolition-studio-fuksas/",
+      "excerpt": "The unopened Rike Concert Hall in Tbilisi, designed by Italian practice Studio Fuksas, is set to be demolished less than 15 years after it was completed. Tbilisi's city hall architecture department ha",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Studio Libeskind designs cluster of Seoul skyscrapers as \"a living work of art\"",
+      "url": "https://www.dezeen.com/2026/07/15/daechi-ssangyong-studio-libeskind-seoul/",
+      "excerpt": "Architecture firm Studio Libeskind has unveiled designs for six skyscrapers set to form a residential complex in Seoul's Gangnam district. Studio Libeskind collaborated with local architecture studios",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -219,21 +276,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.15",
-      "title": "Robert Wun adorns couture gown with kaleidoscope of colourful balloons",
-      "url": "https://www.dezeen.com/2026/07/15/robert-wun-haute-couture-dress-balloons-childsplay/",
-      "excerpt": "Clusters of balloons protruded from avant-garde garments at London designer Robert Wun's Autumn Winter 2026 haute couture show, giving the impression of inflatable-laden street vendors at a funfair. H",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Panasonic launches Japanese Microwave designed for modern American kitchens",
-      "url": "https://www.dezeen.com/2026/07/15/panasonic-japanese-microwave/",
-      "excerpt": "Promotion: electronics brand Panasonic has launched a minimalist microwave that seeks to bring Japanese design principles into North American homes. The new Panasonic Japanese Countertop Microwave NN-",
+      "title": "Studio Libeskind Designs New High-Density Residential Towers in Seoul",
+      "url": "https://www.archdaily.com/1148691/studio-libeskind-designs-new-high-density-residential-towers-in-seoul",
+      "excerpt": "Studio Libeskind, in collaboration with HJ Design Partners and Seoul-based SAMOO Architects & Engineers, has designed a new high-density residential development in Seoul, South Korea. The Daechi Ssang",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/e528/93aa/2d01/8c25/4532/large_jpg/studio-libeskind-designs-new-residential-development-in-seoul_5.jpg?1784079800",
       "today": true
     },
     {
@@ -277,16 +326,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "koala kare expands accessibility by designing for assisted care in public",
-      "url": "https://www.designboom.com/design/koala-kare-accessibility-in-public-spaces/",
-      "excerpt": "koala kare introduces an adult changing station engineered with an intentional layout that prioritizes dignity, supports caregivers, and addresses civic needs.\nThe post koala kare expands accessibilit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/koala-kare_designboom_facebook.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -295,35 +334,6 @@ window.LUMINO_DATA = {
       "excerpt": "A profound generational evolution is rewriting the rules of the contemporary landscape, bringing an end to the era where architects and designers merely mimicked the tenets of Western modernism. Recor",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/7002/25a7/5001/8825/b244/large_jpg/designing-at-the-confluence-of-cultures_1.jpg?1784049680",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Shanghai Qiyuan Experimental Primary School / Atelier Archmixing",
-      "url": "https://www.archdaily.com/1039555/shanghai-qiyuan-experimental-primary-school-atelier-archmixing",
-      "excerpt": "Shanghai Qiyuan Experimental Primary School is the only chess-specialized school in Shanghai. With its growth, the original campus could no longer meet functional needs. The Jing'an District governmen",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69b1/c3e2/314f/6601/8902/c780/large_jpg/shanghai-qiyuan-experimental-primary-school-atelier-archmixing_8.jpg?1773257730",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "father-daughter duo transforms surfboard waste into furniture and everyday objects",
-      "url": "https://www.designboom.com/design/surfboard-offcuts-furniture-objects-hall5/",
-      "excerpt": "father and daughter turn surfboard production waste into furniture and everyday objects\nThe post father-daughter duo transforms surfboard waste into furniture and everyday objects appeared first on de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/surfboard-offcuts-furniture-objects-hall5-designboom-05-750x1000.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Colorado house by Studio B and Studio Brother John appears to \"hover over the land\"",
-      "url": "https://www.dezeen.com/2026/07/14/9631-mountain-ridge-place-studio-b-studio-brother-john-boulder-colorado/",
-      "excerpt": "Local outfit Studio Brother John has collaborated with Studio B Architecture + Interiors for a house in Boulder, Colorado, USA making the most of its mountainous site and replacing a structure destroy",
-      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -353,16 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/vibeke-tandberg-they-live-bergen-art-museum-review",
       "excerpt": "A new exhibition, ‘They Live’, at Kode Bergen Art Museum, walks us through Tandberg's extraordinary career",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dPVbdzexmDSXU6Tu2tCWzb-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Incoming Triennale president Vincenzo Trione outlines the museum’s next four years",
-      "url": "https://www.wallpaper.com/design-interiors/triennale-2026-president-vincenzo-trione-announcement",
-      "excerpt": "The president’s newly announced team includes designer Michele de Lucchi, who will lead the Museo del Design Italiano with a focus on craftsmanship",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kkf4ZYvvbZiSLjvVK7jzyA-2560-80.jpg",
       "today": false
     },
     {
