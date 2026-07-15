@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  13:24",
+  "fetchedAt": "2026.07.15  15:23",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -164,6 +164,54 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.15",
+      "title": "Margaret Howell reworks a footwear classic by Dr Martens",
+      "url": "https://www.wallpaper.com/fashion-beauty/dr-martens-margaret-howell-mhl-collaboration",
+      "excerpt": "The Dr Martens x MHL 1461 shoe sees the British designer turn her eye to another timeless design classic",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/H3eWCwFi7skvS6mypysAhR-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Ferrari’s new 849 Testarossa Spider weaves a web of desire for both drivers and bystanders",
+      "url": "https://www.wallpaper.com/transportation/ferrari-849-testarossa-spider-review",
+      "excerpt": "When most people think of Ferrari they probably conjure up a car like this – low, fast, and loud. We try the Testarossa across the twisty landscape of Tenerife and muse on Ferrari’s longstanding appea",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Zks9sAiFrCty6ZwnRiU77c-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "SoFi Stadium in California set the standard for integrated stadium technology",
+      "url": "https://www.dezeen.com/2026/07/15/sofi-stadium-los-angeles-integrated-technology-case-study/",
+      "excerpt": "Continuing our Future Stadium series, we take a close look at SoFi Stadium in Inglewood, California. Designed by US studio HKS, it has one of the world's largest videoboards and the highest price tag ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "audi ZERØ: one sphere and four tubes redefine the electric car through radical geometry",
+      "url": "https://www.designboom.com/technology/audi-zero-one-sphere-four-tubes-electric-car-radical-geometry-wini-camacho/",
+      "excerpt": "mathematical geometry informs the vehicle's proportions and appearance, conceived by wini camacho.\nThe post audi ZERØ: one sphere and four tubes redefine the electric car through radical geometry appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/audi-zero-conceptual-electric-vehicle-one-sphere-four-tubes-wini-camacho-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Essence Cannetté tiles by Casalgrande Padana",
+      "url": "https://www.dezeen.com/2026/07/15/essence-cannette-tiles-casalgrande-padana-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: completing Italian tile manufacturer Casalgrande Padana's Essence line of wood-inspired tiles, Essence Cannetté has a slatted, dimensional surface to bring texture into interiors. The",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.15",
       "title": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/mcdonalds-logo-design-golden-arches",
       "excerpt": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
@@ -238,15 +286,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "IKEA releases portable furniture designed to be moved without a car",
-      "url": "https://www.dezeen.com/2026/07/15/ikea-kompishang-affordable-portable-furniture-short-term-rentals/",
-      "excerpt": "Swedish brand IKEA has unveiled its Kompishäng collection for short-term renters, featuring a £7 wardrobe organiser that doubles as a backpack and a side table that can be carried over the arm like a ",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -254,15 +293,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092338/movement-innovation-and-memory-the-bizkaia-bridge-between-engineering-and-heritage",
       "excerpt": "What role do transportation infrastructures play in shaping the culture and economy of societies? How do they bridge cultural, ideological, and geographic divides while transforming the lives of the c",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/df60/0e77/3c01/8817/73ef/large_jpg/when-connection-sparks-a-fusion-how-the-bizkaia-bridge-bridges-the-gap-between-opposite-shores_1.jpg?1783553898",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Delcy Morelos creates 30-tonne earthen installation informed by a mother's womb for the Barbican",
-      "url": "https://www.dezeen.com/2026/07/15/delcy-morelos-barbican-origo/",
-      "excerpt": "Colombian artist Delcy Morelos discusses how earth, darkness and the qualities of a mother's womb informed her installation for the Barbican Centre in London in this exclusive video produced by Dezeen",
       "today": true
     },
     {
@@ -283,16 +313,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/mickey-muennig-house-nicole-hollis-california-usa",
       "excerpt": "Nicole Hollis' clarifying renovation of a Mickey Muennig house on California's Monterey Peninsula creates a playful weekend retreat",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hoos-home-i9sup7EniAt58q7HYCUdqf-2169-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "a garden-within-a-garden unfolds through water, translucent pavilions, and green courtyards",
-      "url": "https://www.designboom.com/architecture/garden-within-a-garden-water-translucent-pavilions-green-courtyards-trop-terrains-plus-open-space-yanlord-arcadia/",
-      "excerpt": "yanlord arcadia transforms a residential courtyard into a layered garden landscape.\nThe post a garden-within-a-garden unfolds through water, translucent pavilions, and green courtyards appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/trop-terrains-plus-open-space-yanlord-arcadia-garden-within-a-garden-shanghai-designboom-1200.jpg",
       "today": true
     },
     {
@@ -343,26 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/felice-flatiron-new-york-review",
       "excerpt": "The family-run Italian restaurant series arrives in Flatiron with a Bonetti/Kozerski-designed dining room, ambitious wine programme and tableside tiramisu cart",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HrufFFpvrEuzjz3EM5SSnd-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Anatomy of a Logo: Calvin Klein",
-      "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-logo-history",
-      "excerpt": "A symbol of simplicity and sex appeal, the sans-serif logo has come to encapsulate contemporary American style. Here, we unpack the logo’s origins",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ei59wce6YCkFAPGDpx364-2512-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.14",
-      "title": "Vibeke Tandberg was an early champion of photo manipulation. Discover her work in her native Norway",
-      "url": "https://www.wallpaper.com/art/photography/vibeke-tandberg-they-live-bergen-art-museum-review",
-      "excerpt": "A new exhibition, ‘They Live’, at Kode Bergen Art Museum, walks us through Tandberg's extraordinary career",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dPVbdzexmDSXU6Tu2tCWzb-2560-80.jpg",
       "today": false
     },
     {
