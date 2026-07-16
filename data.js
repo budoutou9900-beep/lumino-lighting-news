@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  08:03",
+  "fetchedAt": "2026.07.16  10:53",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -161,6 +161,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "carsten höller’s latest exhibition in beijing has two versions, but you’ll only see one",
+      "url": "https://www.designboom.com/art/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art/",
+      "excerpt": "visitors are randomly assigned one of two parallel exhibitions as the belgian artist's latest installation turns uncertainty into the experience itself.\nThe post carsten höller’s latest exhibition in ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "urban soul project hospitality design translates local narratives into spatial experiences",
+      "url": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
+      "excerpt": "urban soul project answers a fundamental question of how an environment can be designed to make the guest feel, understand, and remember. \nThe post urban soul project hospitality design translates loc",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/usp_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Studio Font perches cliffside home in Mexico on inhabitable concrete columns",
+      "url": "https://www.dezeen.com/2026/07/16/studio-font-casa-diez-pies-mexico/",
+      "excerpt": "Local practice Studio Font has completed Casa Diez Pies, a home in Mexico that steps down a lush coastal cliff supported in 10 concrete columns. Overlooking the Pacific Ocean in Mazunte, the 250-squar",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Toad Bakery designed to \"avoid the bottleneck of choice paralysis\" between pastries",
+      "url": "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
+      "excerpt": "Carpenter Nick Tudor has crafted an elongated, curved counter for the second branch of the popular Toad Bakery in southeast London, in response to its regular winding queues. Toad Bakery is the brainc",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "jia curated 2026 displays craft, design, and culture on bali’s beachfront",
+      "url": "https://www.designboom.com/design/jia-curated-2026-craft-culture-bali-beachfront/",
+      "excerpt": "from august 13 to 17, jia curated 2026 unites international creators and brands to subvert conventional layouts with the belief that the future of design lies in coexistence with the living world.\nThe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jia-curated_designboom-facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "step inside pollinator machine, a giant tulip magnolia installation in shanghai",
+      "url": "https://www.designboom.com/art/pollinator-machine-giant-tulip-magnolia-installation-shanghai-martha-schwartz-partners-msp/",
+      "excerpt": "presented at shanghai international flower show, pollinator machine scales visitors down to the perspective of a beetle, inviting them to experience the environment through the eyes of a pollinator.\nT",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pollinator-machine-installation-martha-schwartz-partners-msp-shanghai-designboom-1200-3.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Planned demolition of Tbilisi concert hall \"a significant cultural setback\" says Studio Fuksas",
+      "url": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/",
+      "excerpt": "Italian architecture practice Studio Fuksas has called for the ordered demolition of its Rike Concert Hall to be halted and an alternative use for the building to be found. In a statement issued to De",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "tiny ecosystem that generates endless ambient soundscapes lives inside mur mur speaker",
+      "url": "https://www.designboom.com/technology/tiny-ecosystem-generates-endless-ambient-soundscapes-mur-mur-speaker-oio-mattering/",
+      "excerpt": "mur mur generates sound from an autonomous digital world where weather, animals, and objects continuously interact.\nThe post tiny ecosystem that generates endless ambient soundscapes lives inside mur ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tiny-ecosystem-generates-endless-ambient-soundscapes-mur-mur-speaker-oio-mattering-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "US approves deployment of giant space mirror to illuminate Earth after dark",
+      "url": "https://www.dezeen.com/2026/07/16/space-mirror-ffc-approval-reflect-orbital/",
+      "excerpt": "California startup Reflect Orbital has received permission from the US federal government to test a controversial satellite bearing a 18-metre-wide mirror, which the company claims could help to light",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "RIBA unveils Stirling Prize 2026 shortlist",
+      "url": "https://www.dezeen.com/2026/07/16/riba-stirling-prize-2026-shortlist/",
+      "excerpt": "The Royal Institute of British Architects has announced the six-strong shortlist for this year's Stirling Prize, which includes Renzo Piano Building Workshop's cube-shaped Paddington Square. This year",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -181,22 +276,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "rooftop garden crowns concrete house shaped by spiraling patios",
-      "url": "https://www.designboom.com/architecture/concrete-rooftop-garden-house-spiraling-patios/",
-      "excerpt": "a central courtyard and reflecting pond draw light and water into the interior\nThe post rooftop garden crowns concrete house shaped by spiraling patios appeared first on designboom | architecture & de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467092/2026-07-14/gp-house-8-6a569e3ceb65d.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Frankfurt RheinMain hosts festival of creative events for Open – Design Week",
-      "url": "https://www.dezeen.com/2026/07/16/frankfurt-rheinmain-hosts-festival-of-creative-events-for-open-design-week/",
-      "excerpt": "Promotion: Over 35,000 visitors gathered in cities across Germany's Frankfurt RheinMain region for Open – Design Week 2026, which spotlighted how design shapes everyday lives. Taking place from 5 to 1",
+      "title": "Between Home and School, a Border",
+      "url": "https://www.archdaily.com/1054000/between-home-and-school-a-border",
+      "excerpt": "For most children, the journey to school is an everyday geography of street life and traffic, repeated so often that it becomes almost invisible, folded into the background of childhood and growing up",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/a3d8/73b8/d401/8935/6677/large_jpg/between-home-and-school-a-border_2.jpg?1783342052",
       "today": true
     },
     {
@@ -227,16 +313,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148611/playhouse-residence-carter-williamson-architects",
       "excerpt": "On a corner in Newtown, Playhouse announces itself. A double-height arched window defines the southern facade, bringing sunlight deep into the home and giving the terrace a distinct identity at the in",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/28b4/3bfa/3d01/8870/04e2/large_jpg/playhouse-residence-carter-williamson-architects_12.jpg?1784031425",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "public art keeps inviting us to play, so why is so little of it actually thrilling?",
-      "url": "https://www.designboom.com/design/public-art-keeps-inviting-us-to-play-so-why-is-so-little-of-it-actually-thrilling/",
-      "excerpt": "inflatable mazes and suspended nets reveal how perceived danger turns interaction into play.\nThe post public art keeps inviting us to play, so why is so little of it actually thrilling? appeared first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/risky-play-designboom-FB.jpg",
       "today": true
     },
     {
@@ -280,45 +356,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "National Museum of Ecuador recalls Alberto Campo Baeza design after public backlash",
-      "url": "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/",
-      "excerpt": "A winning design for a new National Museum of Ecuador building in Quito by Spanish outfit Studio Alberto Campo Baeza and local studio MAODA has been called back by the government, with the studios cla",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "MESTIZ weaves a vibrant world of flowers and curious creatures for Hermès windows",
-      "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
-      "excerpt": "the mexican studio creates an imagined landscape of wicker creatures, where flowers, animals, and objects become characters.\nThe post MESTIZ weaves a vibrant world of flowers and curious creatures for",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Exhibition Design for Constelaciones y derivas: arte de América Latina desde la Colección FEMSA / Max von Werz Arquitectos + Maurici Mesta Arquitectos",
-      "url": "https://www.archdaily.com/1148699/exhibition-design-for-constelaciones-y-derivas-arte-de-america-latina-desde-la-coleccion-femsa-max-von-werz-arquitectos-plus-maurici-mesta-arquitectos",
-      "excerpt": "Max von Werz Arquitectos, in collaboration with Mauricio Mesta Arquitectos, has designed the exhibition design for the major exhibition Constelaciones y derivas: arte de América Latina desde la Colecc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/5d8b/6336/c000/010f/bbe6/large_jpg/Colecci_nFemsa-MARCO-fabianml-07-PS.jpg?1784044991",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "volkswagen’s smart eBike puts a rear-view camera between the handlebars",
-      "url": "https://www.designboom.com/technology/volkswagen-smart-ebike-rear-view-camera-electric-sport-crossover/",
-      "excerpt": "n+ builds an automotive-style safety system around two flat-white aluminum commuter frames.\nThe post volkswagen’s smart eBike puts a rear-view camera between the handlebars appeared first on designboo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/volkswagen-smart-ebike-n-plus-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -326,43 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/dr-martens-margaret-howell-mhl-collaboration",
       "excerpt": "The Dr Martens x MHL 1461 shoe sees the British designer turn her eye to another timeless design classic",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/H3eWCwFi7skvS6mypysAhR-1540-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "SoFi Stadium in California set the standard for integrated stadium technology",
-      "url": "https://www.dezeen.com/2026/07/15/sofi-stadium-los-angeles-integrated-technology-case-study/",
-      "excerpt": "Continuing our Future Stadium series, we take a close look at SoFi Stadium in Inglewood, California. Designed by US studio HKS, it has one of the world's largest videoboards and the highest price tag ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "audi ZERØ: one sphere and four tubes redefine the electric car through radical geometry",
-      "url": "https://www.designboom.com/technology/audi-zero-one-sphere-four-tubes-electric-car-radical-geometry-wini-camacho/",
-      "excerpt": "mathematical geometry informs the vehicle's proportions and appearance, conceived by wini camacho.\nThe post audi ZERØ: one sphere and four tubes redefine the electric car through radical geometry appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/audi-zero-conceptual-electric-vehicle-one-sphere-four-tubes-wini-camacho-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Essence Cannetté tiles by Casalgrande Padana",
-      "url": "https://www.dezeen.com/2026/07/15/essence-cannette-tiles-casalgrande-padana-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: completing Italian tile manufacturer Casalgrande Padana's Essence line of wood-inspired tiles, Essence Cannetté has a slatted, dimensional surface to bring texture into interiors. The",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Roberts Gray Architects tops New Zealand sand dune with rammed-earth home",
-      "url": "https://www.dezeen.com/2026/07/15/roberts-gray-architects-double-courtyard-house-new-zealand/",
-      "excerpt": "New Zealand studio Roberts Gray Architects has completed a coastal home near Aukland, wrapping two contrasting courtyards with low-slung volumes of rammed earth. Named Double Courtyard House, the home",
       "today": false
     },
     {
