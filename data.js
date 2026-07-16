@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  18:02",
+  "fetchedAt": "2026.07.16  19:59",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,57 +33,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -165,13 +161,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "Federico Stefanovich looks under the sea for his ethereal new lighting collection",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection",
+      "excerpt": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cMrC4ToWJMbaS4LWJn9okV-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "AIA calls ROAD to Housing Act an \"important step\" in housing affordability",
+      "url": "https://www.dezeen.com/2026/07/16/aia-21st-century-road-to-housing-act-bill/",
+      "excerpt": "The American Institute of Architects has \"celebrated\" the enactment of the 21st Century ROAD to Housing Act, a recently passed bill aimed at speeding up the building and access of affordable housing i",
       "today": true
     },
     {
@@ -240,16 +245,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
       "excerpt": "a new four-year plan will organize milano triennale’s program around one guiding  question each year.\nThe post michele de lucchi appointed creative director of the triennale milano appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/triennale-milano-michele-de-lucchi-creative-director-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "All aboard the Aston Martin Dreadnought, your virtual sanctuary from a violent world",
-      "url": "https://www.wallpaper.com/transportation/aston-martin-dreadnought-virtual-car",
-      "excerpt": "Aston Martin digs in to create a new brand extension, this time for the digital world of Call of Duty. Enter the Dreadnought, a playable super SUV designed to give video gamers an edge",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TnY994nwVYS6NPDPa7YLb6-2560-80.jpg",
       "today": true
     },
     {
@@ -358,15 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148804/ezologia-porous-body-of-tbilisi",
       "excerpt": "The exhibition “Ezologia — Porous Body of Tbilisi” is now open to the public, presenting the first phase of an interdisciplinary research project on Tbilisian Courtyard, initiated by the multidiscipli",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b8f8/d425/1a00/01c4/baac/large_jpg/ezologia_cover.jpg?1784199431",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Planned demolition of Tbilisi concert hall \"a significant cultural setback\" says Studio Fuksas",
-      "url": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/",
-      "excerpt": "Italian architecture practice Studio Fuksas has called for the ordered demolition of its Rike Concert Hall to be halted and an alternative use for the building to be found. In a statement issued to De",
       "today": true
     },
     {
