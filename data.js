@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  14:56",
+  "fetchedAt": "2026.07.16  16:14",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -164,6 +164,44 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
+      "title": "What we know so far about London Design Festival 2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-festival-2026-preview",
+      "excerpt": "London Design Festival 2026 (12–20 September) unveils its first projects, where craft, architecture and technology meet across city-wide landmark installations and museum commissions",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/drXdknx2qMKHgoqNPaQ5TQ-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "“Stadiums are the most significant expression of monumentality in our time”",
+      "url": "https://www.dezeen.com/2026/07/16/benjamin-flowers-opinion-stadiums-monumentality/",
+      "excerpt": "As part of Dezeen's Future Stadium series, academic Benjamin Flowers considers the role of stadiums as one of the last monumental architectural forms that demands affection from the public. In any giv",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Anatomy of a logo: Nirvana by Lisa Orth",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/nirvana-logo-design",
+      "excerpt": "Lisa Orth designed the Nirvana logo in 1989 for the cover of ‘Bleach’, using whatever font was on the typesetting machine (Onyx)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gsisjN2pBq8MYDmMb7QGZ5-1482-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Classic Parisian furniture reimagined for contemporary cafes at New Designers 2026",
+      "url": "https://www.dezeen.com/2026/07/16/traditional-parisian-inspired-furniture-for-cafes-among-work-at-new-designers-2026/",
+      "excerpt": "Dezeen School Shows: a contemporary furniture collection that puts a twist on the classic look of traditional Parisian pieces is among the projects showcased at this year's New Designers. Also feature",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
       "title": "One of the world’s most famous paintings gets the Lego treatment: Gustav Klimt’s The Kiss",
       "url": "https://www.wallpaper.com/art/lego-gustav-klimt-the-kiss",
       "excerpt": "It takes 4,000 Lego pieces to conjure up this rich evocation of Klimt’s iconic Art Nouveau masterpiece, the latest work from the Lego Art series",
@@ -201,16 +239,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Anatomy of a Logo: Levi’s Two Horse Patch",
-      "url": "https://www.wallpaper.com/fashion-beauty/anatomy-of-a-logo-levis-two-horse-patch",
-      "excerpt": "The Two Horse Patch – featuring a pair of jeans being pulled apart by two horses to prove their indestructibility – has featured on Levi’s jeans since the brand’s beginnings  in the Gold Rush-era Amer",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cBShvnyy6FWfNtnBEeFGLb-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -218,16 +246,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
       "excerpt": "natural materials, designed to weather over time, blend the living areas with the surrounding vegetation.\nThe post elevated glazed walkways frame house’s panoramic views through cariló’s forest in arg",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treinta-y-nueve-arboles-house-grizzo-studio-carilo-argentina-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "BT Tower plans unveiled: what’s in store for the Grade II-listed icon?",
-      "url": "https://www.wallpaper.com/architecture/bt-tower-hotel-orms-london-uk",
-      "excerpt": "Orms has revealed its plans to convert London's BT Tower into a hotel. Here is what we know",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nvmpJhz289Ao97nHPfmRsa-1600-80.webp",
       "today": true
     },
     {
@@ -279,6 +297,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "A Temporary Train Station for Roskilde Festival / Royal Danish Academy",
+      "url": "https://www.archdaily.com/1148650/a-temporary-train-station-for-roskilde-festival-royal-danish-academy",
+      "excerpt": "For eight days every summer, a field outside Roskilde becomes Denmark's fourth-largest city. More than 125,000 people arrive by train, passing through a temporary piece of infrastructure that serves a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c60/6336/c000/010f/b9f1/large_jpg/Rasmus_Hjortshoj__Togstation-Roskilde_WEB-3.jpg?1784028277",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Join the 25th Andreu World International Design Contest",
+      "url": "https://www.archdaily.com/1148808/join-the-25th-andreu-world-international-design-contest",
+      "excerpt": "25 years of big ideas. Now it's your turn.The International Design Contest —Manufacturing the Future— is still open, and there's still time to participate.DEADLINE: SEPTEMBER 16, 2026This edition pres",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/bb09/d425/1a00/01c4/bacf/large_jpg/Andreu_World_25.___International_Design_Contest.jpg?1784199949",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Ezologia — Porous Body of Tbilisi",
+      "url": "https://www.archdaily.com/1148804/ezologia-porous-body-of-tbilisi",
+      "excerpt": "The exhibition “Ezologia — Porous Body of Tbilisi” is now open to the public, presenting the first phase of an interdisciplinary research project on Tbilisian Courtyard, initiated by the multidiscipli",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b8f8/d425/1a00/01c4/baac/large_jpg/ezologia_cover.jpg?1784199431",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -298,24 +346,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "US approves deployment of giant space mirror to illuminate Earth after dark",
-      "url": "https://www.dezeen.com/2026/07/16/space-mirror-ffc-approval-reflect-orbital/",
-      "excerpt": "California startup Reflect Orbital has received permission from the US federal government to test a controversial satellite bearing a 18-metre-wide mirror, which the company claims could help to light",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "RIBA unveils Stirling Prize 2026 shortlist",
-      "url": "https://www.dezeen.com/2026/07/16/riba-stirling-prize-2026-shortlist/",
-      "excerpt": "The Royal Institute of British Architects has announced the six-strong shortlist for this year's Stirling Prize, which includes Renzo Piano Building Workshop's cube-shaped Paddington Square. This year",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -323,36 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148541/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction",
       "excerpt": "On June 24, 2026, a severe seismic event consisting of two major earthquakes with magnitudes of 7.2 and 7.5 struck north-central Venezuela just 39 seconds apart. The widespread destruction was concent",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/12b3/a6cc/5601/89e4/e147/large_jpg/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction_4.jpg?1783894716",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Faro Santander Museum / David Chipperfield Architects",
-      "url": "https://www.archdaily.com/1148647/faro-santander-museum-david-chipperfield-architects",
-      "excerpt": "The launch of Faro Santander, a new cultural project led by the Banco Santander Foundation and scheduled to open on 8th September, will mark the culmination of the transformation of one of the most pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/2045/25a7/5001/8825/b041/large_jpg/faro-santander-museum-david-chipperfield-architects_1.jpg?1784029277",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "MoMA Revisits West African Modernism and a New Installation Activates the Basilica di Massenzio: This Week's Review",
-      "url": "https://www.archdaily.com/1148781/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review",
-      "excerpt": "Architecture this week looked as much to the past as to the future. Across museums, restored landmarks, and large-scale urban redevelopments, the featured stories explored how architecture is continua",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/77dd/d58c/e001/8884/fe49/large_jpg/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review_5.jpg?1784182758",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "ZASIP house, renovation and expansion / Raketa",
-      "url": "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa",
-      "excerpt": "The renovation and extension project of architect Oton Jugovec's holiday house in Zasip is based on a respectful approach towards the original architecture and its exceptional location on the edge of ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c1d/6336/c000/010f/b9bf/large_jpg/7-ZASIP_RAKETA.jpg?1784028206",
       "today": true
     },
     {
