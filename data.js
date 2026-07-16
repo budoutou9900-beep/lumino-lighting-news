@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  19:59",
+  "fetchedAt": "2026.07.16  21:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,37 +49,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -161,6 +165,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.16",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -215,6 +229,16 @@ window.LUMINO_DATA = {
       "title": "Classic Parisian furniture reimagined for contemporary cafes at New Designers 2026",
       "url": "https://www.dezeen.com/2026/07/16/traditional-parisian-inspired-furniture-for-cafes-among-work-at-new-designers-2026/",
       "excerpt": "Dezeen School Shows: a contemporary furniture collection that puts a twist on the classic look of traditional Parisian pieces is among the projects showcased at this year's New Designers. Also feature",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Treinta y Nueve Árboles / Grizzo Studio",
+      "url": "https://www.archdaily.com/1148783/treinta-y-nueve-arboles-grizzo-studio",
+      "excerpt": "This house is located in the forest of Cariló, in a field full of vegetation, where the sunlight, filtered by the crowns of dozens of trees, stands out on a ground covered with climbers. Our project s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/987a/d425/1a00/01c4/b8e1/large_jpg/f_MAR1313-Editar.jpg?1784191165",
       "today": true
     },
     {
@@ -343,16 +367,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148808/join-the-25th-andreu-world-international-design-contest",
       "excerpt": "25 years of big ideas. Now it's your turn.The International Design Contest —Manufacturing the Future— is still open, and there's still time to participate.DEADLINE: SEPTEMBER 16, 2026This edition pres",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/bb09/d425/1a00/01c4/bacf/large_jpg/Andreu_World_25.___International_Design_Contest.jpg?1784199949",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Ezologia — Porous Body of Tbilisi",
-      "url": "https://www.archdaily.com/1148804/ezologia-porous-body-of-tbilisi",
-      "excerpt": "The exhibition “Ezologia — Porous Body of Tbilisi” is now open to the public, presenting the first phase of an interdisciplinary research project on Tbilisian Courtyard, initiated by the multidiscipli",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b8f8/d425/1a00/01c4/baac/large_jpg/ezologia_cover.jpg?1784199431",
       "today": true
     },
     {
