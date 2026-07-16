@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  02:04",
+  "fetchedAt": "2026.07.16  05:35",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,27 +41,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -158,7 +158,25 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Frankfurt RheinMain hosts festival of creative events for Open – Design Week",
+      "url": "https://www.dezeen.com/2026/07/16/frankfurt-rheinmain-hosts-festival-of-creative-events-for-open-design-week/",
+      "excerpt": "Promotion: Over 35,000 visitors gathered in cities across Germany's Frankfurt RheinMain region for Open – Design Week 2026, which spotlighted how design shapes everyday lives. Taking place from 5 to 1",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "In Aarhus, the history of punk is told through the body",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/unruly-the-body-in-punk-aros-aarhus-review",
+      "excerpt": "From fishnets and fetishwear to performance and protest, ‘Unruly – The Body in Punk’ at ARoS in Aarhus traces how the body became one of the movement’s most potent sites of rebellion",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WVF8zmdCPzeHF9Ff2MWFy5-2560-80.jpg",
       "today": true
     },
     {
@@ -169,6 +187,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/public-art-keeps-inviting-us-to-play-so-why-is-so-little-of-it-actually-thrilling/",
       "excerpt": "inflatable mazes and suspended nets reveal how perceived danger turns interaction into play.\nThe post public art keeps inviting us to play, so why is so little of it actually thrilling? appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/risky-play-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "遠藤照明",
+      "cat": "技術・LED",
+      "date": "2026.07.16",
+      "title": "製品ラインナップ「LEDユニットとリモコンだけで実現する簡単照明制御 Quickシリーズ」ページ公開のお知らせ",
+      "url": "https://www.endo-lighting.co.jp/news/20260716-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/Quick.news20260716.png",
       "today": true
     },
     {
@@ -328,15 +356,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Studio Fuksas-designed Rike Concert Hall in Tbilisi set to be demolished",
-      "url": "https://www.dezeen.com/2026/07/15/rike-concert-hall-tbilisi-demolition-studio-fuksas/",
-      "excerpt": "The unopened Rike Concert Hall in Tbilisi, designed by Italian practice Studio Fuksas, is set to be demolished less than 15 years after it was completed. Tbilisi's city hall architecture department ha",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -344,16 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092517/primary-school-wiesental-penzisbettini-architekten",
       "excerpt": "The school is set orthogonally within its site, open towards the natural landscape of the Lorze river valley. The campus arrangement disentangles programmatic functions while preserving the communal i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/0908/e05c/0800/010e/13c7/large_jpg/FEDERICOFARINATTI_PBA_WIESENTAL_16.jpg?1783695699",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "A Mickey Muennig house enters a new life chapter in California",
-      "url": "https://www.wallpaper.com/architecture/residential/mickey-muennig-house-nicole-hollis-california-usa",
-      "excerpt": "Nicole Hollis' clarifying renovation of a Mickey Muennig house on California's Monterey Peninsula creates a playful weekend retreat",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hoos-home-i9sup7EniAt58q7HYCUdqf-2169-80.jpg",
       "today": false
     },
     {
