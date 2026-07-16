@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  05:35",
+  "fetchedAt": "2026.07.16  08:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,23 +33,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -161,6 +161,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "A bijou forest retreat, this Blakely Island cabin offers tree living",
+      "url": "https://www.wallpaper.com/architecture/residential/blakely-island-cabin-usa",
+      "excerpt": "Designed by architects Wittman Estes on an island in Washington state, this guest cabin invites residents to immerse themselves in the forest canopy",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yVL34MiD6TgSGKAPGrzMt6-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Pink Floyd teams up with We Are Rewind to put the great gig in the sky into your pocket",
+      "url": "https://www.wallpaper.com/tech/pink-floyd-teams-up-with-we-are-rewind-to-put-the-great-gig-in-the-sky-into-your-pocket",
+      "excerpt": "Is this the ultimate piece of music merch? Pink Floyd fanatics can now enjoy the remastered version of The Dark Side of the Moon on a dedicated Floyd-branded version of We Are Rewind’s WE-001 cult cas",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3aFJ7YRAzijZ96Qk9QGCr-1080-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "rooftop garden crowns concrete house shaped by spiraling patios",
+      "url": "https://www.designboom.com/architecture/concrete-rooftop-garden-house-spiraling-patios/",
+      "excerpt": "a central courtyard and reflecting pond draw light and water into the interior\nThe post rooftop garden crowns concrete house shaped by spiraling patios appeared first on designboom | architecture & de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467092/2026-07-14/gp-house-8-6a569e3ceb65d.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -180,6 +210,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Nirvana House / unTAG",
+      "url": "https://www.archdaily.com/1148643/nirvana-house-untag",
+      "excerpt": "Nirvana means inner peace. The 12,000 sq.ft. home transforms shelter into a meditative inhabitance, envisioned as a sanctuary of Indian stones, where architecture transcends physical boundaries, becom",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/164b/6336/c000/010f/b97b/large_jpg/Nirvana_07.jpg?1784026784",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Playhouse Residence / Carter Williamson Architects",
+      "url": "https://www.archdaily.com/1148611/playhouse-residence-carter-williamson-architects",
+      "excerpt": "On a corner in Newtown, Playhouse announces itself. A double-height arched window defines the southern facade, bringing sunlight deep into the home and giving the terrace a distinct identity at the in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/28b4/3bfa/3d01/8870/04e2/large_jpg/playhouse-residence-carter-williamson-architects_12.jpg?1784031425",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -190,6 +240,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Designing for Deconstruction: A Path Toward Post-Waste Architecture",
+      "url": "https://www.archdaily.com/1054055/designing-for-deconstruction-a-path-toward-post-waste-architecture",
+      "excerpt": "What will the future of steel be? How can this material build the foundation for sustainable economic development and the transition to a low-carbon society?",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/d13a/a6cc/5601/89e4/e2c5/large_jpg/designing-for-deconstruction-a-path-toward-post-waste-architecture_16.jpg?1783943514",
+      "today": true
+    },
+    {
       "source": "遠藤照明",
       "cat": "技術・LED",
       "date": "2026.07.16",
@@ -197,6 +257,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260716-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/Quick.news20260716.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Aranya Art Center Guangzhou & the Community Canteen / Vector Architects",
+      "url": "https://www.archdaily.com/1148689/aranya-art-center-guangzhou-and-the-community-canteen-vector-architects",
+      "excerpt": "Aranya Art Center Guangzhou and the Community Canteen mark Vector Architects' third project built around preserving existing trees and the underlying microtopography following Liyuan Foreign Language ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/b787/93aa/2d01/8c25/4504/large_jpg/aranya-art-center-guangzhou-and-the-community-canteen-vector-architects_3.jpg?1784068017",
       "today": true
     },
     {
@@ -239,16 +309,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Jardim House Renovation / Baixo Impacto Arquitetura",
-      "url": "https://www.archdaily.com/1148763/jardim-house-renovation-baixo-impacto-arquitetura",
-      "excerpt": "In the Casa Jardim Renovation, preservation became the project's primary strategy. Guided by the premise that the most sustainable building is the one that already exists, the intervention reorganizes",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/dbe1/d425/1a00/01c4/b7a3/large_jpg/Casa_Jardim_18_Foto_Fernanda_Enredo.jpg.jpg?1784142916",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.15",
@@ -266,16 +326,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/dr-martens-margaret-howell-mhl-collaboration",
       "excerpt": "The Dr Martens x MHL 1461 shoe sees the British designer turn her eye to another timeless design classic",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/H3eWCwFi7skvS6mypysAhR-1540-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Ferrari’s new 849 Testarossa Spider weaves a web of desire for both drivers and bystanders",
-      "url": "https://www.wallpaper.com/transportation/ferrari-849-testarossa-spider-review",
-      "excerpt": "When most people think of Ferrari they probably conjure up a car like this – low, fast, and loud. We try the Testarossa across the twisty landscape of Tenerife and muse on Ferrari’s longstanding appea",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Zks9sAiFrCty6ZwnRiU77c-2560-80.jpg",
       "today": false
     },
     {
@@ -307,62 +357,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Vila Talha / Contacto Atlântico",
-      "url": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico",
-      "excerpt": "Villa Talha, located at the Costa Terra Golf & Ocean Club in Melides, stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an appr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/6d39/6336/c000/010f/bc2b/large_jpg/CT66-2.jpg?1784048970",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Apartment in the Heart of Jeżyce in Poznań / LBWA",
-      "url": "https://www.archdaily.com/1148665/apartment-in-the-heart-of-jezyce-in-poznan-lbwa",
-      "excerpt": "This 69 m² apartment, designed by the LBWA studio, is located in one of the new developments amidst historic tenements in the Jeżyce district of Poznań. The interior's unique design was created using ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/3e6b/6336/c000/010f/bb60/large_jpg/ZASOBY-0015-Z1004147-V1_kopia.jpg?1784037016",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/mcdonalds-logo-design-golden-arches",
-      "excerpt": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jSK4YQPn4g5eaUNrfeZk2d-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "390kg of peanut butter cover rotterdam gallery floor, celebrating humor and absurdity",
-      "url": "https://www.designboom.com/art/peanut-butter-tribute-wim-t-schippers-dutch-artist-love-humor/",
-      "excerpt": "the playful installation at depot boijmans van beuningen recreates an iconic 1962 artwork by the late dutch artist and comedian wim t. schippers.\nThe post 390kg of peanut butter cover rotterdam galler",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/peanut-butter-schippers-designboom-14.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.15",
       "title": "Roberts Gray Architects tops New Zealand sand dune with rammed-earth home",
       "url": "https://www.dezeen.com/2026/07/15/roberts-gray-architects-double-courtyard-house-new-zealand/",
       "excerpt": "New Zealand studio Roberts Gray Architects has completed a coastal home near Aukland, wrapping two contrasting courtyards with low-slung volumes of rammed earth. Named Double Courtyard House, the home",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Primary School Wiesental / PENZISBETTINI Architekten",
-      "url": "https://www.archdaily.com/1092517/primary-school-wiesental-penzisbettini-architekten",
-      "excerpt": "The school is set orthogonally within its site, open towards the natural landscape of the Lorze river valley. The campus arrangement disentangles programmatic functions while preserving the communal i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/0908/e05c/0800/010e/13c7/large_jpg/FEDERICOFARINATTI_PBA_WIESENTAL_16.jpg?1783695699",
       "today": false
     },
     {
