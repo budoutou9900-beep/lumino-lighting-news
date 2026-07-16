@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  12:17",
+  "fetchedAt": "2026.07.16  14:56",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,57 +33,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -165,13 +161,63 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "One of the world’s most famous paintings gets the Lego treatment: Gustav Klimt’s The Kiss",
+      "url": "https://www.wallpaper.com/art/lego-gustav-klimt-the-kiss",
+      "excerpt": "It takes 4,000 Lego pieces to conjure up this rich evocation of Klimt’s iconic Art Nouveau masterpiece, the latest work from the Lego Art series",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qx5xbVX3SqJG3ASS5h7P6A-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Heads up, at Scorpios Mykonos, milliner Ruslan Baginskiy gives souvenirs a twist",
+      "url": "https://www.wallpaper.com/travel/scorpios-mykonos-ruslan-baginskiy-pop-up",
+      "excerpt": "The Ukrainian headwear designer opens a crafted summer pop-up at beach club Scorpios Mykonos, with wicker furniture and personalised hats in a workshop-style space",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DBjfAnS7YnAUnDbxeEXkyG-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "michele de lucchi appointed creative director of the triennale milano",
+      "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
+      "excerpt": "a new four-year plan will organize milano triennale’s program around one guiding  question each year.\nThe post michele de lucchi appointed creative director of the triennale milano appeared first on d",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/triennale-milano-michele-de-lucchi-creative-director-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "All aboard the Aston Martin Dreadnought, your virtual sanctuary from a violent world",
+      "url": "https://www.wallpaper.com/transportation/aston-martin-dreadnought-virtual-car",
+      "excerpt": "Aston Martin digs in to create a new brand extension, this time for the digital world of Call of Duty. Enter the Dreadnought, a playable super SUV designed to give video gamers an edge",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TnY994nwVYS6NPDPa7YLb6-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Anatomy of a Logo: Levi’s Two Horse Patch",
+      "url": "https://www.wallpaper.com/fashion-beauty/anatomy-of-a-logo-levis-two-horse-patch",
+      "excerpt": "The Two Horse Patch – featuring a pair of jeans being pulled apart by two horses to prove their indestructibility – has featured on Levi’s jeans since the brand’s beginnings  in the Gold Rush-era Amer",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cBShvnyy6FWfNtnBEeFGLb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "elevated glazed walkways frame house’s panoramic views through cariló’s forest in argentina",
+      "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
+      "excerpt": "natural materials, designed to weather over time, blend the living areas with the surrounding vegetation.\nThe post elevated glazed walkways frame house’s panoramic views through cariló’s forest in arg",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treinta-y-nueve-arboles-house-grizzo-studio-carilo-argentina-designboom-1200.jpg",
       "today": true
     },
     {
@@ -182,26 +228,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/bt-tower-hotel-orms-london-uk",
       "excerpt": "Orms has revealed its plans to convert London's BT Tower into a hotel. Here is what we know",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nvmpJhz289Ao97nHPfmRsa-1600-80.webp",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Jil Sander expands her Thonet furniture collaboration, an ode to the Bauhaus",
-      "url": "https://www.wallpaper.com/design-interiors/jil-sander-thonet-collection-new-furniture",
-      "excerpt": "The German fashion designer adds elegant new pieces to the JS Thonet collection with a new lounge chair and table",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XqSET7ygxUDJLhsD2hGRwQ-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Two new portable projectors from XGIMI combine high performance with convenience",
-      "url": "https://www.wallpaper.com/tech/xgimi-elfin-flip-4k-and-elfin-flip-laser-portable-projectors-review",
-      "excerpt": "The Elfin Flip 4K and Elfin Flip Laser from XGIMI are book-sized units with cinema-scale projection capabilities, transforming every space into a screening room",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rnxM3qptmGrzeCxTPc4sfG-2560-80.jpg",
       "today": true
     },
     {
@@ -253,16 +279,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "step inside pollinator machine, a giant tulip magnolia installation in shanghai",
-      "url": "https://www.designboom.com/art/pollinator-machine-giant-tulip-magnolia-installation-shanghai-martha-schwartz-partners-msp/",
-      "excerpt": "presented at shanghai international flower show, pollinator machine scales visitors down to the perspective of a beetle, inviting them to experience the environment through the eyes of a pollinator.\nT",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pollinator-machine-installation-martha-schwartz-partners-msp-shanghai-designboom-1200-3.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -272,13 +288,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "tiny ecosystem that generates endless ambient soundscapes lives inside mur mur speaker",
-      "url": "https://www.designboom.com/technology/tiny-ecosystem-generates-endless-ambient-soundscapes-mur-mur-speaker-oio-mattering/",
-      "excerpt": "mur mur generates sound from an autonomous digital world where weather, animals, and objects continuously interact.\nThe post tiny ecosystem that generates endless ambient soundscapes lives inside mur ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tiny-ecosystem-generates-endless-ambient-soundscapes-mur-mur-speaker-oio-mattering-designboom-1200.jpg",
+      "title": "Ibero-American Architecture Conference",
+      "url": "https://www.archdaily.com/1148785/ibero-american-architecture-conference",
+      "excerpt": "The Ibero-American Architecture Conference, organized by the UIC Barcelona School of Architecture and curated by Professor Fredy Massad, aims to provide a rigorous examination of professional practice",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/1f86/7c22/c800/01aa/63d2/large_jpg/SARCH_260723_Arq-Iberoam_XS-Tw-Lkd-Fb_1205x680.jpg?1784094618",
       "today": true
     },
     {
@@ -300,23 +316,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "A bijou forest retreat, this Blakely Island cabin offers tree living",
-      "url": "https://www.wallpaper.com/architecture/residential/blakely-island-cabin-usa",
-      "excerpt": "Designed by architects Wittman Estes on an island in Washington state, this guest cabin invites residents to immerse themselves in the forest canopy",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yVL34MiD6TgSGKAPGrzMt6-1415-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Pink Floyd teams up with We Are Rewind to put the great gig in the sky into your pocket",
-      "url": "https://www.wallpaper.com/tech/pink-floyd-teams-up-with-we-are-rewind-to-put-the-great-gig-in-the-sky-into-your-pocket",
-      "excerpt": "Is this the ultimate piece of music merch? Pink Floyd fanatics can now enjoy the remastered version of The Dark Side of the Moon on a dedicated Floyd-branded version of We Are Rewind’s WE-001 cult cas",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3aFJ7YRAzijZ96Qk9QGCr-1080-80.jpg",
+      "title": "Beyond Emergency Shelters: Modular and Vernacular Architecture in Post-Earthquake Reconstruction",
+      "url": "https://www.archdaily.com/1148541/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction",
+      "excerpt": "On June 24, 2026, a severe seismic event consisting of two major earthquakes with magnitudes of 7.2 and 7.5 struck north-central Venezuela just 39 seconds apart. The widespread destruction was concent",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/12b3/a6cc/5601/89e4/e147/large_jpg/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction_4.jpg?1783894716",
       "today": true
     },
     {
@@ -347,26 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa",
       "excerpt": "The renovation and extension project of architect Oton Jugovec's holiday house in Zasip is based on a respectful approach towards the original architecture and its exceptional location on the edge of ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c1d/6336/c000/010f/b9bf/large_jpg/7-ZASIP_RAKETA.jpg?1784028206",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "\"A Structure of Feeling\" Exhibition on a New Generation of Chinese Architects Opens at Aedes in Berlin",
-      "url": "https://www.archdaily.com/1148757/a-structure-of-feeling-exhibition-on-a-new-generation-of-chinese-architects-opens-at-aedes-in-berlin",
-      "excerpt": "During July and until August 19, Aedes – Architecture and Space in Berlin will be showcasing the exhibition \"A Structure of Feeling: On a New Generation of Architects in China.\" Aedes is a non-profit ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/e3e3/e6cb/4501/8871/23fe/large_jpg/a-structure-of-feeling-exhibition-on-a-new-generation-of-chinese-architects-opens-at-aedes-in-berlin_26.jpg?1784144882",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Between Home and School, a Border",
-      "url": "https://www.archdaily.com/1054000/between-home-and-school-a-border",
-      "excerpt": "For most children, the journey to school is an everyday geography of street life and traffic, repeated so often that it becomes almost invisible, folded into the background of childhood and growing up",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/a3d8/73b8/d401/8935/6677/large_jpg/between-home-and-school-a-border_2.jpg?1783342052",
       "today": true
     },
     {
