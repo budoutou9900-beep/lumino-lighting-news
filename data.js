@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  10:53",
+  "fetchedAt": "2026.07.16  12:17",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,53 +33,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -161,12 +165,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.16",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "BT Tower plans unveiled: what’s in store for the Grade II-listed icon?",
+      "url": "https://www.wallpaper.com/architecture/bt-tower-hotel-orms-london-uk",
+      "excerpt": "Orms has revealed its plans to convert London's BT Tower into a hotel. Here is what we know",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nvmpJhz289Ao97nHPfmRsa-1600-80.webp",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Jil Sander expands her Thonet furniture collaboration, an ode to the Bauhaus",
+      "url": "https://www.wallpaper.com/design-interiors/jil-sander-thonet-collection-new-furniture",
+      "excerpt": "The German fashion designer adds elegant new pieces to the JS Thonet collection with a new lounge chair and table",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XqSET7ygxUDJLhsD2hGRwQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Two new portable projectors from XGIMI combine high performance with convenience",
+      "url": "https://www.wallpaper.com/tech/xgimi-elfin-flip-4k-and-elfin-flip-laser-portable-projectors-review",
+      "excerpt": "The Elfin Flip 4K and Elfin Flip Laser from XGIMI are book-sized units with cinema-scale projection capabilities, transforming every space into a screening room",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rnxM3qptmGrzeCxTPc4sfG-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.16",
       "title": "carsten höller’s latest exhibition in beijing has two versions, but you’ll only see one",
       "url": "https://www.designboom.com/art/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art/",
-      "excerpt": "visitors are randomly assigned one of two parallel exhibitions as the belgian artist's latest installation turns uncertainty into the experience itself.\nThe post carsten höller’s latest exhibition in ",
+      "excerpt": "visitors are randomly assigned one of two parallel exhibitions as the belgian artist's installation at beijing's UCCA center for contemporary art turns uncertainty into the experience itself.\nThe post",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art-designboom-1200.jpg",
       "today": true
     },
@@ -279,50 +323,50 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.16",
+      "title": "Faro Santander Museum / David Chipperfield Architects",
+      "url": "https://www.archdaily.com/1148647/faro-santander-museum-david-chipperfield-architects",
+      "excerpt": "The launch of Faro Santander, a new cultural project led by the Banco Santander Foundation and scheduled to open on 8th September, will mark the culmination of the transformation of one of the most pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/2045/25a7/5001/8825/b041/large_jpg/faro-santander-museum-david-chipperfield-architects_1.jpg?1784029277",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "MoMA Revisits West African Modernism and a New Installation Activates the Basilica di Massenzio: This Week's Review",
+      "url": "https://www.archdaily.com/1148781/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review",
+      "excerpt": "Architecture this week looked as much to the past as to the future. Across museums, restored landmarks, and large-scale urban redevelopments, the featured stories explored how architecture is continua",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/77dd/d58c/e001/8884/fe49/large_jpg/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review_5.jpg?1784182758",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "ZASIP house, renovation and expansion / Raketa",
+      "url": "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa",
+      "excerpt": "The renovation and extension project of architect Oton Jugovec's holiday house in Zasip is based on a respectful approach towards the original architecture and its exceptional location on the edge of ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c1d/6336/c000/010f/b9bf/large_jpg/7-ZASIP_RAKETA.jpg?1784028206",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "\"A Structure of Feeling\" Exhibition on a New Generation of Chinese Architects Opens at Aedes in Berlin",
+      "url": "https://www.archdaily.com/1148757/a-structure-of-feeling-exhibition-on-a-new-generation-of-chinese-architects-opens-at-aedes-in-berlin",
+      "excerpt": "During July and until August 19, Aedes – Architecture and Space in Berlin will be showcasing the exhibition \"A Structure of Feeling: On a New Generation of Architects in China.\" Aedes is a non-profit ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/e3e3/e6cb/4501/8871/23fe/large_jpg/a-structure-of-feeling-exhibition-on-a-new-generation-of-chinese-architects-opens-at-aedes-in-berlin_26.jpg?1784144882",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
       "title": "Between Home and School, a Border",
       "url": "https://www.archdaily.com/1054000/between-home-and-school-a-border",
       "excerpt": "For most children, the journey to school is an everyday geography of street life and traffic, repeated so often that it becomes almost invisible, folded into the background of childhood and growing up",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/a3d8/73b8/d401/8935/6677/large_jpg/between-home-and-school-a-border_2.jpg?1783342052",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "In Aarhus, the history of punk is told through the body",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/unruly-the-body-in-punk-aros-aarhus-review",
-      "excerpt": "From fishnets and fetishwear to performance and protest, ‘Unruly – The Body in Punk’ at ARoS in Aarhus traces how the body became one of the movement’s most potent sites of rebellion",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WVF8zmdCPzeHF9Ff2MWFy5-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Nirvana House / unTAG",
-      "url": "https://www.archdaily.com/1148643/nirvana-house-untag",
-      "excerpt": "Nirvana means inner peace. The 12,000 sq.ft. home transforms shelter into a meditative inhabitance, envisioned as a sanctuary of Indian stones, where architecture transcends physical boundaries, becom",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/164b/6336/c000/010f/b97b/large_jpg/Nirvana_07.jpg?1784026784",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Playhouse Residence / Carter Williamson Architects",
-      "url": "https://www.archdaily.com/1148611/playhouse-residence-carter-williamson-architects",
-      "excerpt": "On a corner in Newtown, Playhouse announces itself. A double-height arched window defines the southern facade, bringing sunlight deep into the home and giving the terrace a distinct identity at the in",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/28b4/3bfa/3d01/8870/04e2/large_jpg/playhouse-residence-carter-williamson-architects_12.jpg?1784031425",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Designing for Deconstruction: A Path Toward Post-Waste Architecture",
-      "url": "https://www.archdaily.com/1054055/designing-for-deconstruction-a-path-toward-post-waste-architecture",
-      "excerpt": "What will the future of steel be? How can this material build the foundation for sustainable economic development and the transition to a low-carbon society?",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/d13a/a6cc/5601/89e4/e2c5/large_jpg/designing-for-deconstruction-a-path-toward-post-waste-architecture_16.jpg?1783943514",
       "today": true
     },
     {
@@ -334,36 +378,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/Quick.news20260716.png",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Aranya Art Center Guangzhou & the Community Canteen / Vector Architects",
-      "url": "https://www.archdaily.com/1148689/aranya-art-center-guangzhou-and-the-community-canteen-vector-architects",
-      "excerpt": "Aranya Art Center Guangzhou and the Community Canteen mark Vector Architects' third project built around preserving existing trees and the underlying microtopography following Liyuan Foreign Language ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/b787/93aa/2d01/8c25/4504/large_jpg/aranya-art-center-guangzhou-and-the-community-canteen-vector-architects_3.jpg?1784068017",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Selldorf Architects reveal new design for the Clark Art Institute in Massachusetts",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/selldorf-architects-clark-art-institute-design-reveal",
-      "excerpt": "The 15,000 sq ft insertion will unify two older buildings on the campus and house the dazzling Aso O. Tavitian collection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ah2gn2BU34DdACP2AZ4TPF-2000-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Margaret Howell reworks a footwear classic by Dr Martens",
-      "url": "https://www.wallpaper.com/fashion-beauty/dr-martens-margaret-howell-mhl-collaboration",
-      "excerpt": "The Dr Martens x MHL 1461 shoe sees the British designer turn her eye to another timeless design classic",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/H3eWCwFi7skvS6mypysAhR-1540-80.jpg",
-      "today": false
     },
     {
       "source": "岩崎電気",
