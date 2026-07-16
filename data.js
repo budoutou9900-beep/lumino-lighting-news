@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  21:03",
+  "fetchedAt": "2026.07.16  22:53",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,41 +49,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -165,13 +161,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "jakob+macfarlane turns reclaimed pallets into contemplative refuge on the normandy coast",
+      "url": "https://www.designboom.com/art/jakob-macfarlane-reclaimed-pallets-contemplative-refuge-normandy-coast-shelter-for-peace/",
+      "excerpt": "timber layers of pallets create spaces for rest and observation, framing views toward the offshore islands.\nThe post jakob+macfarlane turns reclaimed pallets into contemplative refuge on the normandy ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jakob-macfarlane-shelter-for-peace-temporary-installation-normandy-france-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Crematorium ash scattering terrain among projects from De Montfort University",
+      "url": "https://www.dezeen.com/2026/07/16/crematorium-ash-scattering-terrain-among-projects-from-de-montfort-university/",
+      "excerpt": "Dezeen School Shows: a proposal for a terrain located on Leicester's River Soar dedicated to ash scattering is among the student projects from De Montfort University. Also featured are private and com",
       "today": true
     },
     {
@@ -191,6 +196,35 @@ window.LUMINO_DATA = {
       "title": "AIA calls ROAD to Housing Act an \"important step\" in housing affordability",
       "url": "https://www.dezeen.com/2026/07/16/aia-21st-century-road-to-housing-act-bill/",
       "excerpt": "The American Institute of Architects has \"celebrated\" the enactment of the 21st Century ROAD to Housing Act, a recently passed bill aimed at speeding up the building and access of affordable housing i",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Dezeen Agenda features our Future Stadium series",
+      "url": "https://www.dezeen.com/2026/07/16/future-stadium-series-dezeen-agenda/",
+      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features the launch of our Future Stadium series. Subscribe to Dezeen Agenda now. With stadium construction escalating and the World Cup comin",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Residência MA – Atibaia / Estúdio Rossi Arquitetos",
+      "url": "https://www.archdaily.com/1148758/residencia-ma-atibaia-estudio-rossi-arquitetos",
+      "excerpt": "Implantada em um terreno em aclive em um condomínio residencial de Atibaia, a Residência MA se organiza a partir da leitura da geografia do lote, da paisagem e do programa doméstico, dando forma a uma",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "MA House – Atibaia / Estúdio Rossi Arquitetos",
+      "url": "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
+      "excerpt": "Sited on a sloping plot in a gated community in Atibaia, Brazil, the MA Residence is organized around the geography of the lot, the landscape, and the domestic program, forming a permanent home design",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
       "today": true
     },
     {
@@ -319,54 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
       "excerpt": "urban soul project answers a fundamental question of how an environment can be designed to make the guest feel, understand, and remember. \nThe post urban soul project hospitality design translates loc",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/usp_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Studio Font perches cliffside home in Mexico on inhabitable concrete columns",
-      "url": "https://www.dezeen.com/2026/07/16/studio-font-casa-diez-pies-mexico/",
-      "excerpt": "Local practice Studio Font has completed Casa Diez Pies, a home in Mexico that steps down a lush coastal cliff supported in 10 concrete columns. Overlooking the Pacific Ocean in Mazunte, the 250-squar",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Toad Bakery designed to \"avoid the bottleneck of choice paralysis\" between pastries",
-      "url": "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
-      "excerpt": "Carpenter Nick Tudor has crafted an elongated, curved counter for the second branch of the popular Toad Bakery in southeast London, in response to its regular winding queues. Toad Bakery is the brainc",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "jia curated 2026 displays craft, design, and culture on bali’s beachfront",
-      "url": "https://www.designboom.com/design/jia-curated-2026-craft-culture-bali-beachfront/",
-      "excerpt": "from august 13 to 17, jia curated 2026 unites international creators and brands to subvert conventional layouts with the belief that the future of design lies in coexistence with the living world.\nThe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jia-curated_designboom-facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "A Temporary Train Station for Roskilde Festival / Royal Danish Academy",
-      "url": "https://www.archdaily.com/1148650/a-temporary-train-station-for-roskilde-festival-royal-danish-academy",
-      "excerpt": "For eight days every summer, a field outside Roskilde becomes Denmark's fourth-largest city. More than 125,000 people arrive by train, passing through a temporary piece of infrastructure that serves a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c60/6336/c000/010f/b9f1/large_jpg/Rasmus_Hjortshoj__Togstation-Roskilde_WEB-3.jpg?1784028277",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Join the 25th Andreu World International Design Contest",
-      "url": "https://www.archdaily.com/1148808/join-the-25th-andreu-world-international-design-contest",
-      "excerpt": "25 years of big ideas. Now it's your turn.The International Design Contest —Manufacturing the Future— is still open, and there's still time to participate.DEADLINE: SEPTEMBER 16, 2026This edition pres",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/bb09/d425/1a00/01c4/bacf/large_jpg/Andreu_World_25.___International_Design_Contest.jpg?1784199949",
       "today": true
     },
     {
