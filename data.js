@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.15  23:54",
+  "fetchedAt": "2026.07.16  02:04",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -86,7 +86,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -96,7 +96,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -116,7 +116,7 @@ window.LUMINO_DATA = {
     {
       "source": "newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -126,7 +126,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -135,7 +135,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -145,7 +145,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -154,10 +154,21 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.15",
+      "date": "2026.07.16",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "public art keeps inviting us to play, so why is so little of it actually thrilling?",
+      "url": "https://www.designboom.com/design/public-art-keeps-inviting-us-to-play-so-why-is-so-little-of-it-actually-thrilling/",
+      "excerpt": "inflatable mazes and suspended nets reveal how perceived danger turns interaction into play.\nThe post public art keeps inviting us to play, so why is so little of it actually thrilling? appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/risky-play-designboom-FB.jpg",
       "today": true
     },
     {
@@ -168,7 +179,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/selldorf-architects-clark-art-institute-design-reveal",
       "excerpt": "The 15,000 sq ft insertion will unify two older buildings on the campus and house the dazzling Aso O. Tavitian collection",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ah2gn2BU34DdACP2AZ4TPF-2000-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -176,8 +187,8 @@ window.LUMINO_DATA = {
       "date": "2026.07.15",
       "title": "National Museum of Ecuador recalls Alberto Campo Baeza design after public backlash",
       "url": "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/",
-      "excerpt": "A winning design for a new National Museum of Ecuador (MuNA) building in Quito by Spanish outfit Studio Alberto Campo Baeza and local studio MAODA has been called back by the government, with the stud",
-      "today": true
+      "excerpt": "A winning design for a new National Museum of Ecuador building in Quito by Spanish outfit Studio Alberto Campo Baeza and local studio MAODA has been called back by the government, with the studios cla",
+      "today": false
     },
     {
       "source": "designboom",
@@ -187,7 +198,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
       "excerpt": "the mexican studio creates an imagined landscape of wicker creatures, where flowers, animals, and objects become characters.\nThe post MESTIZ weaves a vibrant world of flowers and curious creatures for",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico-designboom-1200-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.15",
+      "title": "Exhibition Design for Constelaciones y derivas: arte de América Latina desde la Colección FEMSA / Max von Werz Arquitectos + Maurici Mesta Arquitectos",
+      "url": "https://www.archdaily.com/1148699/exhibition-design-for-constelaciones-y-derivas-arte-de-america-latina-desde-la-coleccion-femsa-max-von-werz-arquitectos-plus-maurici-mesta-arquitectos",
+      "excerpt": "Max von Werz Arquitectos, in collaboration with Mauricio Mesta Arquitectos, has designed the exhibition design for the major exhibition Constelaciones y derivas: arte de América Latina desde la Colecc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/5d8b/6336/c000/010f/bbe6/large_jpg/Colecci_nFemsa-MARCO-fabianml-07-PS.jpg?1784044991",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -197,7 +218,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148763/jardim-house-renovation-baixo-impacto-arquitetura",
       "excerpt": "In the Casa Jardim Renovation, preservation became the project's primary strategy. Guided by the premise that the most sustainable building is the one that already exists, the intervention reorganizes",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/dbe1/d425/1a00/01c4/b7a3/large_jpg/Casa_Jardim_18_Foto_Fernanda_Enredo.jpg.jpg?1784142916",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -207,7 +228,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/volkswagen-smart-ebike-rear-view-camera-electric-sport-crossover/",
       "excerpt": "n+ builds an automotive-style safety system around two flat-white aluminum commuter frames.\nThe post volkswagen’s smart eBike puts a rear-view camera between the handlebars appeared first on designboo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/volkswagen-smart-ebike-n-plus-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -217,7 +238,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/dr-martens-margaret-howell-mhl-collaboration",
       "excerpt": "The Dr Martens x MHL 1461 shoe sees the British designer turn her eye to another timeless design classic",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/H3eWCwFi7skvS6mypysAhR-1540-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -227,7 +248,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/ferrari-849-testarossa-spider-review",
       "excerpt": "When most people think of Ferrari they probably conjure up a car like this – low, fast, and loud. We try the Testarossa across the twisty landscape of Tenerife and muse on Ferrari’s longstanding appea",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Zks9sAiFrCty6ZwnRiU77c-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -236,7 +257,7 @@ window.LUMINO_DATA = {
       "title": "SoFi Stadium in California set the standard for integrated stadium technology",
       "url": "https://www.dezeen.com/2026/07/15/sofi-stadium-los-angeles-integrated-technology-case-study/",
       "excerpt": "Continuing our Future Stadium series, we take a close look at SoFi Stadium in Inglewood, California. Designed by US studio HKS, it has one of the world's largest videoboards and the highest price tag ",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -246,7 +267,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/audi-zero-one-sphere-four-tubes-electric-car-radical-geometry-wini-camacho/",
       "excerpt": "mathematical geometry informs the vehicle's proportions and appearance, conceived by wini camacho.\nThe post audi ZERØ: one sphere and four tubes redefine the electric car through radical geometry appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/audi-zero-conceptual-electric-vehicle-one-sphere-four-tubes-wini-camacho-designboom-1200-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -255,7 +276,7 @@ window.LUMINO_DATA = {
       "title": "Essence Cannetté tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/07/15/essence-cannette-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: completing Italian tile manufacturer Casalgrande Padana's Essence line of wood-inspired tiles, Essence Cannetté has a slatted, dimensional surface to bring texture into interiors. The",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -265,7 +286,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico",
       "excerpt": "Villa Talha, located at the Costa Terra Golf & Ocean Club in Melides, stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an appr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/6d39/6336/c000/010f/bc2b/large_jpg/CT66-2.jpg?1784048970",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -275,7 +296,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148665/apartment-in-the-heart-of-jezyce-in-poznan-lbwa",
       "excerpt": "This 69 m² apartment, designed by the LBWA studio, is located in one of the new developments amidst historic tenements in the Jeżyce district of Poznań. The interior's unique design was created using ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/3e6b/6336/c000/010f/bb60/large_jpg/ZASOBY-0015-Z1004147-V1_kopia.jpg?1784037016",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -285,7 +306,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/mcdonalds-logo-design-golden-arches",
       "excerpt": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jSK4YQPn4g5eaUNrfeZk2d-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -295,7 +316,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/peanut-butter-tribute-wim-t-schippers-dutch-artist-love-humor/",
       "excerpt": "the playful installation at depot boijmans van beuningen recreates an iconic 1962 artwork by the late dutch artist and comedian wim t. schippers.\nThe post 390kg of peanut butter cover rotterdam galler",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/peanut-butter-schippers-designboom-14.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -304,17 +325,7 @@ window.LUMINO_DATA = {
       "title": "Roberts Gray Architects tops New Zealand sand dune with rammed-earth home",
       "url": "https://www.dezeen.com/2026/07/15/roberts-gray-architects-double-courtyard-house-new-zealand/",
       "excerpt": "New Zealand studio Roberts Gray Architects has completed a coastal home near Aukland, wrapping two contrasting courtyards with low-slung volumes of rammed earth. Named Double Courtyard House, the home",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "please touch the art: takako saito turned spectators into players",
-      "url": "https://www.designboom.com/art/please-touch-the-art-takako-saito-spectators-into-players/",
-      "excerpt": "decades before museums embraced participation and 'user experience', the late japanese-born artist built a practice grounded in material curiosity and joy.\nThe post please touch the art: takako saito ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/please-touch-the-art-takako-saito-spectators-into-players-designboom00-818x460.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -323,7 +334,7 @@ window.LUMINO_DATA = {
       "title": "Studio Fuksas-designed Rike Concert Hall in Tbilisi set to be demolished",
       "url": "https://www.dezeen.com/2026/07/15/rike-concert-hall-tbilisi-demolition-studio-fuksas/",
       "excerpt": "The unopened Rike Concert Hall in Tbilisi, designed by Italian practice Studio Fuksas, is set to be demolished less than 15 years after it was completed. Tbilisi's city hall architecture department ha",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -333,17 +344,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1092517/primary-school-wiesental-penzisbettini-architekten",
       "excerpt": "The school is set orthogonally within its site, open towards the natural landscape of the Lorze river valley. The campus arrangement disentangles programmatic functions while preserving the communal i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a51/0908/e05c/0800/010e/13c7/large_jpg/FEDERICOFARINATTI_PBA_WIESENTAL_16.jpg?1783695699",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.15",
-      "title": "Movement, Innovation, and Memory: The Bizkaia Bridge Between Engineering and Heritage",
-      "url": "https://www.archdaily.com/1092338/movement-innovation-and-memory-the-bizkaia-bridge-between-engineering-and-heritage",
-      "excerpt": "What role do transportation infrastructures play in shaping the culture and economy of societies? How do they bridge cultural, ideological, and geographic divides while transforming the lives of the c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/df60/0e77/3c01/8817/73ef/large_jpg/when-connection-sparks-a-fusion-how-the-bizkaia-bridge-bridges-the-gap-between-opposite-shores_1.jpg?1783553898",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -353,7 +354,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/mickey-muennig-house-nicole-hollis-california-usa",
       "excerpt": "Nicole Hollis' clarifying renovation of a Mickey Muennig house on California's Monterey Peninsula creates a playful weekend retreat",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hoos-home-i9sup7EniAt58q7HYCUdqf-2169-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -363,7 +364,7 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/NEWS/event/2026/iSiTLUS.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -602,26 +603,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260602",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "照明総合カタログ「YAMAGIWA LIGHTING 2026-2027」発刊",
-      "url": "https://www.yamagiwa.co.jp/news/78549/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/26cover.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.01",
-      "title": "Michael Anastassiades 社製品 取り扱い終了のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/78558/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/logo_michaelanastassiades.png",
       "today": false
     }
   ]
