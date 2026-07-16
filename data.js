@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  16:14",
+  "fetchedAt": "2026.07.16  18:02",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,53 +33,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -161,6 +165,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.16",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -174,7 +188,7 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.16",
-      "title": "“Stadiums are the most significant expression of monumentality in our time”",
+      "title": "\"Stadiums are the most significant expression of monumentality in our time\"",
       "url": "https://www.dezeen.com/2026/07/16/benjamin-flowers-opinion-stadiums-monumentality/",
       "excerpt": "As part of Dezeen's Future Stadium series, academic Benjamin Flowers considers the role of stadiums as one of the last monumental architectural forms that demands affection from the public. In any giv",
       "today": true
@@ -246,6 +260,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
       "excerpt": "natural materials, designed to weather over time, blend the living areas with the surrounding vegetation.\nThe post elevated glazed walkways frame house’s panoramic views through cariló’s forest in arg",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treinta-y-nueve-arboles-house-grizzo-studio-carilo-argentina-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Blue House / extrastudio",
+      "url": "https://www.archdaily.com/1148769/blue-house-extrastudio",
+      "excerpt": "This project is the first in a series of three residences we named casas poveras. Shaped in a time of uncertainty, yet refusing to compromise on scale, these houses were stripped down to the essential",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/f60a/d58c/e001/8884/fdb8/large_jpg/blue-house-extrastudio_1.jpg?1784149526",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Westlake 66 Mixed Use Complex / KPF",
+      "url": "https://www.archdaily.com/1148690/westlake-66-kpf",
+      "excerpt": "Westlake 66 is a new model for urban connectivity, landscape-driven design and computationally informed architecture, reinvigorating a deteriorated neighborhood and establishing a new civic heart in o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/d6f7/7c22/c800/01aa/6351/large_jpg/01_Westlake_66_Credit_StudioSZ_Justin_Szeremeta_Courtesy_KPF.jpg?1784076063",
       "today": true
     },
     {
@@ -333,26 +367,6 @@ window.LUMINO_DATA = {
       "title": "Planned demolition of Tbilisi concert hall \"a significant cultural setback\" says Studio Fuksas",
       "url": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/",
       "excerpt": "Italian architecture practice Studio Fuksas has called for the ordered demolition of its Rike Concert Hall to be halted and an alternative use for the building to be found. In a statement issued to De",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Ibero-American Architecture Conference",
-      "url": "https://www.archdaily.com/1148785/ibero-american-architecture-conference",
-      "excerpt": "The Ibero-American Architecture Conference, organized by the UIC Barcelona School of Architecture and curated by Professor Fredy Massad, aims to provide a rigorous examination of professional practice",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/1f86/7c22/c800/01aa/63d2/large_jpg/SARCH_260723_Arq-Iberoam_XS-Tw-Lkd-Fb_1205x680.jpg?1784094618",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Beyond Emergency Shelters: Modular and Vernacular Architecture in Post-Earthquake Reconstruction",
-      "url": "https://www.archdaily.com/1148541/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction",
-      "excerpt": "On June 24, 2026, a severe seismic event consisting of two major earthquakes with magnitudes of 7.2 and 7.5 struck north-central Venezuela just 39 seconds apart. The widespread destruction was concent",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/12b3/a6cc/5601/89e4/e147/large_jpg/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction_4.jpg?1783894716",
       "today": true
     },
     {
