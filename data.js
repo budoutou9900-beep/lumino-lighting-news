@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  08:00",
+  "fetchedAt": "2026.07.17  10:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -164,6 +164,62 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.17",
+      "title": "three cemeteries emerge between stone walls and mountain horizons in the carnic alps",
+      "url": "https://www.designboom.com/architecture/three-cemeteries-stone-walls-mountain-horizons-carnic-alps-federico-mentil/",
+      "excerpt": "the trilogy of cemeteries explores memory through architecture, landscape, and time.\nThe post three cemeteries emerge between stone walls and mountain horizons in the carnic alps appeared first on des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/federico-mentil-cremation-architecture-three-alpine-cemeteries-materiality-landscape-memory-italy-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Contemporary Room Dividing Screens by Fold Studio",
+      "url": "https://www.dezeen.com/2026/07/17/contemporary-room-dividing-screens-fold-studio-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Australian design brand Fold Studio has released a series of freestanding folding screens comprising hardwood frames stretched with fabric or woven cord. Fold Studio founder and in-ho",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "What the World Cup has taught us about future stadium design",
+      "url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
+      "excerpt": "What's the creepy technology at one the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "\"Dumb-idea phones…\" says commenter",
+      "url": "https://www.dezeen.com/2026/07/17/dumb-idea-phones-says-commenter/",
+      "excerpt": "In this week's comments update, readers are discussing Nokia's nostalgic dumbphone that features a dedicated AI assistant button. Launched by tech company HMD, these dumbphones were designed to stick ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "HTA Design restores Crystal Palace's historic concrete dinosaurs",
+      "url": "https://www.dezeen.com/2026/07/17/crystal-palace-dinosaurs-restored-hta-design/",
+      "excerpt": "UK studio HTA Design has renovated a group of 19th-century dinosaur sculptures as part of a wider revamp of Crystal Palace Park in south London. HTA Design led the renovation of the 172-year-old artwo",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "harvard develops smart knitted textiles that snap between stable shapes to switch and sense",
+      "url": "https://www.designboom.com/technology/harvard-smart-knitted-textiles-stable-shapes-switch-sense-kausalya-mahadevan-katia-bertoldi-seas/",
+      "excerpt": "using standard industrial knitting machines, researchers develop programmable textiles that shift between stable three-dimensional forms.\nThe post harvard develops smart knitted textiles that snap bet",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/harvard-smart-knitted-textiles-stable-shapes-switch-sense-kausalya-mahadevan-katia-bertoldi-seas-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
       "title": "origami-inspired helix pot self-waters, twists and grows as plants grow",
       "url": "https://www.designboom.com/design/origami-inspired-helix-pot-self-waters-twists-grows-plants-grow-potr/",
       "excerpt": "designed by potr, helix is a modular self-watering growing system that adapts to different stages of plant growth through an expandable structure.\nThe post origami-inspired helix pot self-waters, twis",
@@ -178,6 +234,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures/",
       "excerpt": "the exhibition traces nearly two decades of research into art, architecture, natural sciences, and traditional ecological knowledge.\nThe post tomás saraceno’s largest ever exhibition in germany opens ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures-designboom10-818x613.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Studio Fuksas' Rike Park Cultural Complex Approved for Demolition by Tbilisi City Hall",
+      "url": "https://www.archdaily.com/1148847/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall",
+      "excerpt": "On July 13, 2026, Tbilisi City Hall issued a permit to dismantle Rike Park's tube-shaped Music Theater & Exhibition Hall. The complex, designed by the Italian firm Studio Fuksas, was never officially ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/92e3/e8f5/cb01/8987/a1a9/large_jpg/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall_4.jpg?1784255216",
       "today": true
     },
     {
@@ -197,6 +263,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/brick-pavilion-house-australia",
       "excerpt": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EwxMGtJk85D6anHcGdTp5E-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Museums in Debate: What Ecuador's MuNA Reveals About National Identity",
+      "url": "https://www.archdaily.com/1148684/museums-in-debate-what-ecuadors-muna-reveals-about-national-identity",
+      "excerpt": "The announcement of the winning proposal for Ecuador's new National Museum (MuNA) sparked one of the country's most significant architectural debates in recent years. The public response has since res",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/15a3/d58c/e001/8885/0168/large_jpg/museums-in-debate-what-ecuadors-muna-reveals-about-national-identity_22.jpg?1784223144",
       "today": true
     },
     {
@@ -240,6 +316,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "遠藤照明",
+      "cat": "国内情報",
+      "date": "2026.07.17",
+      "title": "お役立ちBOOK発刊「照明科学」",
+      "url": "https://www.endo-lighting.co.jp/news/20260717-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/shomei-kagaku.png",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -250,25 +336,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "jakob+macfarlane turns reclaimed pallets into contemplative refuge on the normandy coast",
-      "url": "https://www.designboom.com/art/jakob-macfarlane-reclaimed-pallets-contemplative-refuge-normandy-coast-shelter-for-peace/",
-      "excerpt": "timber layers of pallets create spaces for rest and observation, framing views toward the offshore islands.\nThe post jakob+macfarlane turns reclaimed pallets into contemplative refuge on the normandy ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jakob-macfarlane-shelter-for-peace-temporary-installation-normandy-france-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Crematorium ash scattering terrain among projects from De Montfort University",
-      "url": "https://www.dezeen.com/2026/07/16/crematorium-ash-scattering-terrain-among-projects-from-de-montfort-university/",
-      "excerpt": "Dezeen School Shows: a proposal for a terrain located on Leicester's River Soar dedicated to ash scattering is among the student projects from De Montfort University. Also featured are private and com",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -276,44 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection",
       "excerpt": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cMrC4ToWJMbaS4LWJn9okV-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Refurbishment Popocatépetl 35 / Studio Font",
-      "url": "https://www.archdaily.com/1148830/refurbishment-popocatepetl-35-studio-font",
-      "excerpt": "Hipódromo Condesa emerged in the 1920s as one of the first experiments in modern urbanism in Mexico City. The neighborhood occupies the former horse racetrack of the capital and, from that preexistenc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/230a/d58c/e001/8885/02de/large_jpg/remodelacion-popocatepetl-35-studio-font_20.jpg?1784226592",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "AIA calls ROAD to Housing Act an \"important step\" in housing affordability",
-      "url": "https://www.dezeen.com/2026/07/16/aia-21st-century-road-to-housing-act-bill/",
-      "excerpt": "The American Institute of Architects has \"celebrated\" the enactment of the 21st Century ROAD to Housing Act, a recently passed bill aimed at speeding up the building and access of affordable housing i",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Dezeen Agenda features our Future Stadium series",
-      "url": "https://www.dezeen.com/2026/07/16/future-stadium-series-dezeen-agenda/",
-      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features the launch of our Future Stadium series. Subscribe to Dezeen Agenda now. With stadium construction escalating and the World Cup comin",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "MA House – Atibaia / Estúdio Rossi Arquitetos",
-      "url": "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
-      "excerpt": "Sited on a sloping plot in a gated community in Atibaia, Brazil, the MA Residence is organized around the geography of the lot, the landscape, and the domestic program, forming a permanent home design",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
       "today": false
     },
     {
@@ -327,15 +356,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "\"Stadiums are the most significant expression of monumentality in our time\"",
-      "url": "https://www.dezeen.com/2026/07/16/benjamin-flowers-opinion-stadiums-monumentality/",
-      "excerpt": "As part of Dezeen's Future Stadium series, academic Benjamin Flowers considers the role of stadiums as one of the last monumental architectural forms that demands affection from the public. In any giv",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -343,16 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/nirvana-logo-design",
       "excerpt": "Lisa Orth designed the Nirvana logo in 1989 for the cover of ‘Bleach’, using whatever font was on the typesetting machine (Onyx)",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gsisjN2pBq8MYDmMb7QGZ5-1482-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "michele de lucchi appointed creative director of the triennale milano",
-      "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
-      "excerpt": "a new four-year plan will organize milano triennale’s program around one guiding  question each year.\nThe post michele de lucchi appointed creative director of the triennale milano appeared first on d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/triennale-milano-michele-de-lucchi-creative-director-designboom-FB.jpg",
       "today": false
     },
     {
