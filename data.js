@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  02:07",
+  "fetchedAt": "2026.07.17  05:36",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -37,19 +37,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -108,6 +108,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.17",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
       "source": "newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.17",
@@ -124,16 +134,6 @@ window.LUMINO_DATA = {
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.17",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -175,6 +175,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Inspired by its rare double-corner site, a brick pavilion in Australia ‘redefines suburban living’",
+      "url": "https://www.wallpaper.com/architecture/residential/brick-pavilion-house-australia",
+      "excerpt": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EwxMGtJk85D6anHcGdTp5E-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Snøhetta brings Arctic contrast to Huset, the world’s northernmost fine dining restaurant",
+      "url": "https://www.wallpaper.com/travel/restaurants/huset-longyearbyen-svalbard-snohetta",
+      "excerpt": "Snøhetta reimagines Huset in Svalbard with red linoleum, stained oak and textile screens designed for polar night and midnight sun",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uwwfYmDPm2A5xxP3KxG8jR-1600-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -182,6 +202,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ducks-spaceships-weird-buildings-book-unconventional-worldwide-hoxton-mini-press-imogen-fortes-08-21-2025/",
       "excerpt": "from a house wedged between boulders to a duck-shaped store, weird buildings showcases playful and surprising architecture.\nThe post from ducks to spaceships: ‘weird buildings’ explores unconventional",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/08/ducks-spaceships-weird-buildings-book-unconventional-hoxton-mini-press-imogen-fortes-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Stream Restaurant / Atelier Guo",
+      "url": "https://www.archdaily.com/1148627/stream-restaurant-atelier-guo",
+      "excerpt": "Along the Li River, at the foot of the mountains, the restaurant occupies a long, narrow site pressed against a rocky cliff. A flood-control canal cuts across it—part natural, part engineered—tracing ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/82cb/294b/f852/0e2c/fe7e/large_jpg/stream-restaurant-atelier-guo_1.jpg?1783988966",
       "today": true
     },
     {
@@ -310,26 +340,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "One of the world’s most famous paintings gets the Lego treatment: Gustav Klimt’s The Kiss",
-      "url": "https://www.wallpaper.com/art/lego-gustav-klimt-the-kiss",
-      "excerpt": "It takes 4,000 Lego pieces to conjure up this rich evocation of Klimt’s iconic Art Nouveau masterpiece, the latest work from the Lego Art series",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qx5xbVX3SqJG3ASS5h7P6A-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Heads up, at Scorpios Mykonos, milliner Ruslan Baginskiy gives souvenirs a twist",
-      "url": "https://www.wallpaper.com/travel/scorpios-mykonos-ruslan-baginskiy-pop-up",
-      "excerpt": "The Ukrainian headwear designer opens a crafted summer pop-up at beach club Scorpios Mykonos, with wicker furniture and personalised hats in a workshop-style space",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DBjfAnS7YnAUnDbxeEXkyG-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -347,16 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
       "excerpt": "natural materials, designed to weather over time, blend the living areas with the surrounding vegetation.\nThe post elevated glazed walkways frame house’s panoramic views through cariló’s forest in arg",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treinta-y-nueve-arboles-house-grizzo-studio-carilo-argentina-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Blue House / extrastudio",
-      "url": "https://www.archdaily.com/1148769/blue-house-extrastudio",
-      "excerpt": "This project is the first in a series of three residences we named casas poveras. Shaped in a time of uncertainty, yet refusing to compromise on scale, these houses were stripped down to the essential",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/f60a/d58c/e001/8884/fdb8/large_jpg/blue-house-extrastudio_1.jpg?1784149526",
       "today": false
     },
     {
