@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  10:07",
+  "fetchedAt": "2026.07.17  12:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,57 +29,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -152,12 +136,50 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.17",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
+      "title": "achille castiglioni and bruno munari knew how to have a good time",
+      "url": "https://www.designboom.com/design/achille-castiglioni-bruno-munari-good-time/",
+      "excerpt": "revisiting munari’s xerografie originali and castiglioni's love for collecting glasses, foundation achille castiglioni's yearly exhibition shows the late designers' passion for play.\nThe post achille ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/castiglioni-foundation-play-designboom-10-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "the luxury of purpose: redefining exclusivity through craft and analog slow-living",
+      "url": "https://www.designboom.com/architecture/luxury-craft-analog-slow-living-room-for-dreams-podcast/",
+      "excerpt": "the eighth episode of room for dreams moves past superficial aesthetics to explore how traditional craft redefine true luxury.\nThe post the luxury of purpose: redefining exclusivity through craft and ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-woodwiser-room-for-dreams-episode-8-designboom-facebook-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Note Design Studio looks to traditional farmsteads for villa in southern Sweden",
+      "url": "https://www.dezeen.com/2026/07/17/note-design-studio-villa-osterlen-sweden/",
+      "excerpt": "Local practice Note Design Studio has completed Villa Österlen, a holiday home in southern Sweden designed as a contemporary take on the traditional rural dwellings of Skåne county. Capable of hosting",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "ZHA 3D-prints voluptuous chair from recycled plastic",
+      "url": "https://www.dezeen.com/2026/07/17/echo-chair-3d-printed-zha-nagami/",
+      "excerpt": "Architecture studio ZHA, formerly Zaha Hadid Architects, has worked with Spanish brand Nagami to launch the 3D-printed Echo Chair made from recycled plastic. The sculptural chair, envisioned using par",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Italy's former head of motorways sentenced to 12 years over Ponte Morandi collapse",
+      "url": "https://www.dezeen.com/2026/07/17/ponte-morandi-bridge-collapse-sentence/",
+      "excerpt": "Giovanni Castellucci, former head of Italy's motorway operator Autostrade per l'Italia, and 31 other people have been convicted over the 2018 collapse of the Ponte Morandi bridge in Genoa, which kille",
       "today": true
     },
     {
@@ -183,27 +205,9 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.17",
-      "title": "What the World Cup has taught us about future stadium design",
+      "title": "What the World Cup has taught us about stadium design",
       "url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
       "excerpt": "What's the creepy technology at one the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "\"Dumb-idea phones…\" says commenter",
-      "url": "https://www.dezeen.com/2026/07/17/dumb-idea-phones-says-commenter/",
-      "excerpt": "In this week's comments update, readers are discussing Nokia's nostalgic dumbphone that features a dedicated AI assistant button. Launched by tech company HMD, these dumbphones were designed to stick ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "HTA Design restores Crystal Palace's historic concrete dinosaurs",
-      "url": "https://www.dezeen.com/2026/07/17/crystal-palace-dinosaurs-restored-hta-design/",
-      "excerpt": "UK studio HTA Design has renovated a group of 19th-century dinosaur sculptures as part of a wider revamp of Crystal Palace Park in south London. HTA Design led the renovation of the 172-year-old artwo",
       "today": true
     },
     {
@@ -227,16 +231,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "tomás saraceno’s largest ever exhibition in germany opens as a multispecies landscape",
-      "url": "https://www.designboom.com/art/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures/",
-      "excerpt": "the exhibition traces nearly two decades of research into art, architecture, natural sciences, and traditional ecological knowledge.\nThe post tomás saraceno’s largest ever exhibition in germany opens ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures-designboom10-818x613.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -244,15 +238,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148847/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall",
       "excerpt": "On July 13, 2026, Tbilisi City Hall issued a permit to dismantle Rike Park's tube-shaped Music Theater & Exhibition Hall. The complex, designed by the Italian firm Studio Fuksas, was never officially ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/92e3/e8f5/cb01/8987/a1a9/large_jpg/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall_4.jpg?1784255216",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Bokey Grant creates \"low-tech\" sanctuary in Australian Flame Zone",
-      "url": "https://www.dezeen.com/2026/07/17/bokey-grant-creates-low-tech-sanctuary-in-australian-flame-zone/",
-      "excerpt": "Architecture studio Bokey Grant has designed a monolithic house on the edge of a bushland escarpment in New South Wales, Australia. Named EA House (Esther and Albert's), the 170-square-metre family ho",
       "today": true
     },
     {
@@ -303,16 +288,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148729/be-fore-facility-ab",
       "excerpt": "The 'Be, Fore' is a renovation project for idle areas of the Sihwa Industrial Complex sewage treatment plant. Although Siheung-si had planned a water-themed park for nearby families, we found upon vis",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/72cf/7c22/c800/01aa/6612/large_jpg/acolab-MMSS-0005.jpg?1784115940",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "from ducks to spaceships: ‘weird buildings’ explores unconventional architecture worldwide",
-      "url": "https://www.designboom.com/architecture/ducks-spaceships-weird-buildings-book-unconventional-worldwide-hoxton-mini-press-imogen-fortes-08-21-2025/",
-      "excerpt": "from a house wedged between boulders to a duck-shaped store, weird buildings showcases playful and surprising architecture.\nThe post from ducks to spaceships: ‘weird buildings’ explores unconventional",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/08/ducks-spaceships-weird-buildings-book-unconventional-hoxton-mini-press-imogen-fortes-designboom-1200.jpg",
       "today": true
     },
     {
@@ -456,16 +431,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -496,46 +461,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -543,16 +468,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -583,35 +498,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
       "today": false
     }
   ]
