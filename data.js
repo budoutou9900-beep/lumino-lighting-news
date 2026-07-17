@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  14:28",
+  "fetchedAt": "2026.07.17  16:10",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -161,6 +161,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "‘We all need a little madness’: Mario Cucinella brings a living garden to Palermo’s Festino di Santa Rosalia",
+      "url": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca",
+      "excerpt": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "with a ‘blowhard (trump-eter)’ clown, pat oleszko wins whitney biennial’s bucksbaum award",
+      "url": "https://www.designboom.com/art/blowhard-trumpeter-clown-pat-oleszko-wins-whitney-biennials-bucksbaum-award/",
+      "excerpt": "for five decades of artistic mischief and inflatable absurdity, the american artist wins the whitney's 2026 bucksbaum award.\nThe post with a ‘blowhard (trump-eter)’ clown, pat oleszko wins whitney bie",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pat-oleszko-whitney-biennial-bucksbaum-award-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "The history of stadium design in 15 buildings",
+      "url": "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/",
+      "excerpt": "Continuing our Future Stadiums series, we look forward by looking back at some of the milestones in the stadium's long road from ancient structures to monumental giants seating thousands. From Ancient",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Our Legacy’s ‘laboratory-like’ London store: Scandinavian restraint with a rebellious streak",
+      "url": "https://www.wallpaper.com/fashion-beauty/our-legacy-london-store-soho",
+      "excerpt": "The renovated Soho flagship is a ‘space for the next chapter’ of the cult Swedish brand, which has enjoyed exponential growth in recent years. Creative director Cristopher Nying gives Wallpaper* an ex",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vJjsd2Xiqxd63d3bN5ZZNQ-2500-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -209,6 +248,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Ferro Offices / GROUP A",
+      "url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
+      "excerpt": "Ferro Offices is a radical transformation of a former industrial headquarters in Rotterdam's evolving Merwe-Vierhavens (M4H) harbor district. Originally built in 1969, the building was revitalized by ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/c6ae/d58c/e001/8884/ffdb/large_jpg/ferro-offices-group-a_17.jpg?1784202955",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -237,15 +286,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "What the World Cup has taught us about stadium design",
-      "url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
-      "excerpt": "What's the creepy technology at one the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to ",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -253,16 +293,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148908/warming-huts-competition-arts-plus-architecture-competition-on-ice",
       "excerpt": "This call for entries is open to all architects, students of architecture, landscape architects, interior designers, artists and industrial designers who have a proven portfolio of design work. It is ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/2996/895c/1800/0111/7851/large_jpg/New-Copper-Photography_The-Forks-Warming-Huts-2026-42.jpg?1784293852",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "harvard develops smart knitted textiles that snap between stable shapes to switch and sense",
-      "url": "https://www.designboom.com/technology/harvard-smart-knitted-textiles-stable-shapes-switch-sense-kausalya-mahadevan-katia-bertoldi-seas/",
-      "excerpt": "using standard industrial knitting machines, researchers develop programmable textiles that shift between stable three-dimensional forms.\nThe post harvard develops smart knitted textiles that snap bet",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/harvard-smart-knitted-textiles-stable-shapes-switch-sense-kausalya-mahadevan-katia-bertoldi-seas-designboom-1200.jpg",
       "today": true
     },
     {
@@ -293,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148770/diriyah-biennale-foundation-public-programs-building-ariel-andre-golem",
       "excerpt": "The Diriyah Biennale Foundation hosts an expansive program of workshops, panels, and public gatherings. To support this mission year-round, DBF commissioned a dedicated building: a permanent home for ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/ae9d/d58c/e001/8884/feee/large_jpg/diriyah-biennale-foundation-public-programs-building-ariel-andre-golem_6.jpg?1784196839",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "RIBA Reveals the Shortlist for the 2026 Stirling Prize",
-      "url": "https://www.archdaily.com/1148863/riba-reveals-the-shortlist-for-the-2026-stirling-prize",
-      "excerpt": "The Royal Institute of British Architects (RIBA) has announced the six shortlisted projects for the 2026 RIBA Stirling Prize, marking the award's 30th anniversary. Established in 1996, the Stirling Pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/ea96/e8f5/cb01/8987/a24b/large_jpg/riba-reveals-the-shortlist-for-the-2026-stirling-prize_5.jpg?1784277663",
       "today": true
     },
     {
@@ -343,26 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection",
       "excerpt": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cMrC4ToWJMbaS4LWJn9okV-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "What we know so far about London Design Festival 2026",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-festival-2026-preview",
-      "excerpt": "London Design Festival 2026 (12–20 September) unveils its first projects, where craft, architecture and technology meet across city-wide landmark installations and museum commissions",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/drXdknx2qMKHgoqNPaQ5TQ-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Anatomy of a logo: Nirvana by Lisa Orth",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/nirvana-logo-design",
-      "excerpt": "Lisa Orth designed the Nirvana logo in 1989 for the cover of ‘Bleach’, using whatever font was on the typesetting machine (Onyx)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gsisjN2pBq8MYDmMb7QGZ5-1482-80.jpg",
       "today": false
     },
     {
