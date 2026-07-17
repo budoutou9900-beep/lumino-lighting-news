@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  19:20",
+  "fetchedAt": "2026.07.17  20:48",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -187,6 +187,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Student Center Santa Marta / El Equipo Mazzanti",
+      "url": "https://www.archdaily.com/1148923/student-center-santa-marta-el-equipo-mazzanti",
+      "excerpt": "The project proposes a space that belongs to its setting, an architecture that dissolves among the trees and recognizes the landscape by integrating with the existing vegetation. The roof merges with ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f3b7/3d21/f701/89c9/299a/large_jpg/student-center-santa-marta-el-equipo-mazzanti_22.jpg?1784280005",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -310,16 +320,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148908/warming-huts-competition-arts-plus-architecture-competition-on-ice",
       "excerpt": "This call for entries is open to all architects, students of architecture, landscape architects, interior designers, artists and industrial designers who have a proven portfolio of design work. It is ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/2996/895c/1800/0111/7851/large_jpg/New-Copper-Photography_The-Forks-Warming-Huts-2026-42.jpg?1784293852",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "The Death of Architecture",
-      "url": "https://www.archdaily.com/1148860/the-death-of-architecture",
-      "excerpt": "Isaac Torres-Quiroz immerses us in a passionate analysis of the current state of contemporary architecture. This work posits the unsettling premise that the artistic essence that once defined architec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/e44e/895c/1800/0111/7509/large_jpg/Portada.jpg?1784276059",
       "today": true
     },
     {
