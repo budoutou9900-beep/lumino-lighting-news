@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  12:06",
+  "fetchedAt": "2026.07.17  14:28",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,41 +29,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -133,6 +149,25 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.17",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "folded yellow volume reorganizes genova apartment’s interiors like a game of tetris",
+      "url": "https://www.designboom.com/architecture/folded-yellow-volume-genova-apartment-interiors-tetris-bump-studio/",
+      "excerpt": "bump studio reorganizes the home through color, geometry, and custom sculptural elements.\nThe post folded yellow volume reorganizes genova apartment’s interiors like a game of tetris appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tetris-renovation-bump-studio-genova-italy-flexible-living-environment-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -211,6 +246,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Warming Huts Competition: Arts + Architecture Competition on Ice",
+      "url": "https://www.archdaily.com/1148908/warming-huts-competition-arts-plus-architecture-competition-on-ice",
+      "excerpt": "This call for entries is open to all architects, students of architecture, landscape architects, interior designers, artists and industrial designers who have a proven portfolio of design work. It is ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/2996/895c/1800/0111/7851/large_jpg/New-Copper-Photography_The-Forks-Warming-Huts-2026-42.jpg?1784293852",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -221,23 +266,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.17",
-      "title": "origami-inspired helix pot self-waters, twists and grows as plants grow",
-      "url": "https://www.designboom.com/design/origami-inspired-helix-pot-self-waters-twists-grows-plants-grow-potr/",
-      "excerpt": "designed by potr, helix is a modular self-watering growing system that adapts to different stages of plant growth through an expandable structure.\nThe post origami-inspired helix pot self-waters, twis",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/potr-helix-modular-self-watering-growing-system-plant-growth-designboom-1200.jpg",
+      "title": "The Death of Architecture",
+      "url": "https://www.archdaily.com/1148860/the-death-of-architecture",
+      "excerpt": "Isaac Torres-Quiroz immerses us in a passionate analysis of the current state of contemporary architecture. This work posits the unsettling premise that the artistic essence that once defined architec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/e44e/895c/1800/0111/7509/large_jpg/Portada.jpg?1784276059",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.17",
-      "title": "Studio Fuksas' Rike Park Cultural Complex Approved for Demolition by Tbilisi City Hall",
-      "url": "https://www.archdaily.com/1148847/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall",
-      "excerpt": "On July 13, 2026, Tbilisi City Hall issued a permit to dismantle Rike Park's tube-shaped Music Theater & Exhibition Hall. The complex, designed by the Italian firm Studio Fuksas, was never officially ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/92e3/e8f5/cb01/8987/a1a9/large_jpg/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall_4.jpg?1784255216",
+      "title": "Unearthing the Ground: Architecture and the Politics of Extraction",
+      "url": "https://www.archdaily.com/1042864/unearthing-the-ground-architecture-and-the-politics-of-extraction",
+      "excerpt": "Every building begins somewhere else. The sand in its concrete, the stone on its façade, the lithium that may one day power its systems. It arrives, already stripped from a mountain, a riverbed, or a ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a42/e67f/8481/2b01/8af5/130a/large_jpg/unearthing-the-ground-architecture-and-the-politics-of-extraction_1.jpg?1782769300",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Diriyah Biennale Foundation Public Programs Building / Ariel André-GOLEM",
+      "url": "https://www.archdaily.com/1148770/diriyah-biennale-foundation-public-programs-building-ariel-andre-golem",
+      "excerpt": "The Diriyah Biennale Foundation hosts an expansive program of workshops, panels, and public gatherings. To support this mission year-round, DBF commissioned a dedicated building: a permanent home for ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/ae9d/d58c/e001/8884/feee/large_jpg/diriyah-biennale-foundation-public-programs-building-ariel-andre-golem_6.jpg?1784196839",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "RIBA Reveals the Shortlist for the 2026 Stirling Prize",
+      "url": "https://www.archdaily.com/1148863/riba-reveals-the-shortlist-for-the-2026-stirling-prize",
+      "excerpt": "The Royal Institute of British Architects (RIBA) has announced the six shortlisted projects for the 2026 RIBA Stirling Prize, marking the award's 30th anniversary. Established in 1996, the Stirling Pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/ea96/e8f5/cb01/8987/a24b/large_jpg/riba-reveals-the-shortlist-for-the-2026-stirling-prize_5.jpg?1784277663",
       "today": true
     },
     {
@@ -251,16 +316,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Museums in Debate: What Ecuador's MuNA Reveals About National Identity",
-      "url": "https://www.archdaily.com/1148684/museums-in-debate-what-ecuadors-muna-reveals-about-national-identity",
-      "excerpt": "The announcement of the winning proposal for Ecuador's new National Museum (MuNA) sparked one of the country's most significant architectural debates in recent years. The public response has since res",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/15a3/d58c/e001/8885/0168/large_jpg/museums-in-debate-what-ecuadors-muna-reveals-about-national-identity_22.jpg?1784223144",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -271,26 +326,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "House Hotelito / FIVE OH FIVE",
-      "url": "https://www.archdaily.com/1148554/house-hotelito",
-      "excerpt": "A building designed in the 1930s by the architect Domingo Pisaca y Burgada blends its aesthetic with modernism and eclecticism. The structure is part of a group of ten villas, or \"hotelitos,\" as they ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b444/22ee/0e00/0134/c695/large_jpg/FIVEOHFIVE_CASA_HOTELITO_9.jpg?1783936088",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Be-Fore Facility / a.co.lab",
-      "url": "https://www.archdaily.com/1148729/be-fore-facility-ab",
-      "excerpt": "The 'Be, Fore' is a renovation project for idle areas of the Sihwa Industrial Complex sewage treatment plant. Although Siheung-si had planned a water-themed park for nearby families, we found upon vis",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/72cf/7c22/c800/01aa/6612/large_jpg/acolab-MMSS-0005.jpg?1784115940",
-      "today": true
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.07.17",
@@ -298,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260717-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/shomei-kagaku.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Stream Restaurant / Atelier Guo",
-      "url": "https://www.archdaily.com/1148627/stream-restaurant-atelier-guo",
-      "excerpt": "Along the Li River, at the foot of the mountains, the restaurant occupies a long, narrow site pressed against a rocky cliff. A flood-control canal cuts across it—part natural, part engineered—tracing ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/82cb/294b/f852/0e2c/fe7e/large_jpg/stream-restaurant-atelier-guo_1.jpg?1783988966",
       "today": true
     },
     {
@@ -431,6 +456,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -461,6 +496,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -468,6 +543,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -498,6 +583,35 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "デザイン",
+      "date": "2026.06.04",
+      "title": "学生オープンデスク受付中",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
+      "excerpt": "",
       "today": false
     }
   ]
