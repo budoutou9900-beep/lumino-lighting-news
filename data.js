@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  22:43",
+  "fetchedAt": "2026.07.17  23:47",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -155,6 +155,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/useless-path-labyrinths-disorientation-play-maze-spiral-jetty-borges/",
       "excerpt": "from spiral jetty to plant mazes, labyrinths show us the pleasure of getting nowhere.\nThe post in praise of the useless path: how labyrinths turn disorientation into play appeared first on designboom ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/labyrinths-play-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "House in San Isidro / Ábode arq",
+      "url": "https://www.archdaily.com/1148825/house-in-san-isidro",
+      "excerpt": "Built on a narrow shared lot in San Isidro, near the Río de la Plata, the project was conceived as an exploration of the relationship between architecture, landscape, and everyday life.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/1a60/d425/1a00/01c4/bbb6/large_jpg/aerial_front_left_2.jpg?1784224377",
       "today": true
     },
     {
@@ -292,16 +302,6 @@ window.LUMINO_DATA = {
       "title": "ZHA 3D-prints voluptuous chair from recycled plastic",
       "url": "https://www.dezeen.com/2026/07/17/echo-chair-3d-printed-zha-nagami/",
       "excerpt": "Architecture studio ZHA, formerly Zaha Hadid Architects, has worked with Spanish brand Nagami to launch the 3D-printed Echo Chair made from recycled plastic. The sculptural chair, envisioned using par",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Ferro Offices / GROUP A",
-      "url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
-      "excerpt": "Ferro Offices is a radical transformation of a former industrial headquarters in Rotterdam's evolving Merwe-Vierhavens (M4H) harbor district. Originally built in 1969, the building was revitalized by ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/c6ae/d58c/e001/8884/ffdb/large_jpg/ferro-offices-group-a_17.jpg?1784202955",
       "today": true
     },
     {
