@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.17  05:36",
+  "fetchedAt": "2026.07.17  08:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,41 +49,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -165,13 +161,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.17",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "origami-inspired helix pot self-waters, twists and grows as plants grow",
+      "url": "https://www.designboom.com/design/origami-inspired-helix-pot-self-waters-twists-grows-plants-grow-potr/",
+      "excerpt": "designed by potr, helix is a modular self-watering growing system that adapts to different stages of plant growth through an expandable structure.\nThe post origami-inspired helix pot self-waters, twis",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/potr-helix-modular-self-watering-growing-system-plant-growth-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "tomás saraceno’s largest ever exhibition in germany opens as a multispecies landscape",
+      "url": "https://www.designboom.com/art/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures/",
+      "excerpt": "the exhibition traces nearly two decades of research into art, architecture, natural sciences, and traditional ecological knowledge.\nThe post tomás saraceno’s largest ever exhibition in germany opens ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures-designboom10-818x613.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Bokey Grant creates \"low-tech\" sanctuary in Australian Flame Zone",
+      "url": "https://www.dezeen.com/2026/07/17/bokey-grant-creates-low-tech-sanctuary-in-australian-flame-zone/",
+      "excerpt": "Architecture studio Bokey Grant has designed a monolithic house on the edge of a bushland escarpment in New South Wales, Australia. Named EA House (Esther and Albert's), the 170-square-metre family ho",
       "today": true
     },
     {
@@ -192,6 +207,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/huset-longyearbyen-svalbard-snohetta",
       "excerpt": "Snøhetta reimagines Huset in Svalbard with red linoleum, stained oak and textile screens designed for polar night and midnight sun",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uwwfYmDPm2A5xxP3KxG8jR-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "House Hotelito / FIVE OH FIVE",
+      "url": "https://www.archdaily.com/1148554/house-hotelito",
+      "excerpt": "A building designed in the 1930s by the architect Domingo Pisaca y Burgada blends its aesthetic with modernism and eclecticism. The structure is part of a group of ten villas, or \"hotelitos,\" as they ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b444/22ee/0e00/0134/c695/large_jpg/FIVEOHFIVE_CASA_HOTELITO_9.jpg?1783936088",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "Be-Fore Facility / a.co.lab",
+      "url": "https://www.archdaily.com/1148729/be-fore-facility-ab",
+      "excerpt": "The 'Be, Fore' is a renovation project for idle areas of the Sihwa Industrial Complex sewage treatment plant. Although Siheung-si had planned a water-themed park for nearby families, we found upon vis",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/72cf/7c22/c800/01aa/6612/large_jpg/acolab-MMSS-0005.jpg?1784115940",
       "today": true
     },
     {
@@ -282,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Residência MA – Atibaia / Estúdio Rossi Arquitetos",
-      "url": "https://www.archdaily.com/1148758/residencia-ma-atibaia-estudio-rossi-arquitetos",
-      "excerpt": "Implantada em um terreno em aclive em um condomínio residencial de Atibaia, a Residência MA se organiza a partir da leitura da geografia do lote, da paisagem e do programa doméstico, dando forma a uma",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -321,25 +346,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Classic Parisian furniture reimagined for contemporary cafes at New Designers 2026",
-      "url": "https://www.dezeen.com/2026/07/16/traditional-parisian-inspired-furniture-for-cafes-among-work-at-new-designers-2026/",
-      "excerpt": "Dezeen School Shows: a contemporary furniture collection that puts a twist on the classic look of traditional Parisian pieces is among the projects showcased at this year's New Designers. Also feature",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Treinta y Nueve Árboles / Grizzo Studio",
-      "url": "https://www.archdaily.com/1148783/treinta-y-nueve-arboles-grizzo-studio",
-      "excerpt": "This house is located in the forest of Cariló, in a field full of vegetation, where the sunlight, filtered by the crowns of dozens of trees, stands out on a ground covered with climbers. Our project s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/987a/d425/1a00/01c4/b8e1/large_jpg/f_MAR1313-Editar.jpg?1784191165",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.16",
@@ -347,26 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
       "excerpt": "a new four-year plan will organize milano triennale’s program around one guiding  question each year.\nThe post michele de lucchi appointed creative director of the triennale milano appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/triennale-milano-michele-de-lucchi-creative-director-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "elevated glazed walkways frame house’s panoramic views through cariló’s forest in argentina",
-      "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
-      "excerpt": "natural materials, designed to weather over time, blend the living areas with the surrounding vegetation.\nThe post elevated glazed walkways frame house’s panoramic views through cariló’s forest in arg",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treinta-y-nueve-arboles-house-grizzo-studio-carilo-argentina-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "carsten höller’s latest exhibition in beijing has two versions, but you’ll only see one",
-      "url": "https://www.designboom.com/art/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art/",
-      "excerpt": "visitors are randomly assigned one of two parallel exhibitions as the belgian artist's installation at beijing's UCCA center for contemporary art turns uncertainty into the experience itself.\nThe post",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art-designboom-1200.jpg",
       "today": false
     },
     {
