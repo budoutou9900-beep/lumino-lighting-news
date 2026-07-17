@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.16  23:54",
+  "fetchedAt": "2026.07.17  02:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "newscast.jp": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -90,7 +90,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -108,19 +108,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.16",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
       "source": "newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -130,16 +120,26 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.17",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -149,7 +149,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -158,7 +158,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -167,11 +167,21 @@ window.LUMINO_DATA = {
     {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.16",
+      "date": "2026.07.17",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.17",
+      "title": "from ducks to spaceships: ‘weird buildings’ explores unconventional architecture worldwide",
+      "url": "https://www.designboom.com/architecture/ducks-spaceships-weird-buildings-book-unconventional-worldwide-hoxton-mini-press-imogen-fortes-08-21-2025/",
+      "excerpt": "from a house wedged between boulders to a duck-shaped store, weird buildings showcases playful and surprising architecture.\nThe post from ducks to spaceships: ‘weird buildings’ explores unconventional",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/08/ducks-spaceships-weird-buildings-book-unconventional-hoxton-mini-press-imogen-fortes-designboom-1200.jpg",
       "today": true
     },
     {
@@ -182,7 +192,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/jakob-macfarlane-reclaimed-pallets-contemplative-refuge-normandy-coast-shelter-for-peace/",
       "excerpt": "timber layers of pallets create spaces for rest and observation, framing views toward the offshore islands.\nThe post jakob+macfarlane turns reclaimed pallets into contemplative refuge on the normandy ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jakob-macfarlane-shelter-for-peace-temporary-installation-normandy-france-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -191,7 +201,7 @@ window.LUMINO_DATA = {
       "title": "Crematorium ash scattering terrain among projects from De Montfort University",
       "url": "https://www.dezeen.com/2026/07/16/crematorium-ash-scattering-terrain-among-projects-from-de-montfort-university/",
       "excerpt": "Dezeen School Shows: a proposal for a terrain located on Leicester's River Soar dedicated to ash scattering is among the student projects from De Montfort University. Also featured are private and com",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -201,7 +211,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection",
       "excerpt": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cMrC4ToWJMbaS4LWJn9okV-1920-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Refurbishment Popocatépetl 35 / Studio Font",
+      "url": "https://www.archdaily.com/1148830/refurbishment-popocatepetl-35-studio-font",
+      "excerpt": "Hipódromo Condesa emerged in the 1920s as one of the first experiments in modern urbanism in Mexico City. The neighborhood occupies the former horse racetrack of the capital and, from that preexistenc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/230a/d58c/e001/8885/02de/large_jpg/remodelacion-popocatepetl-35-studio-font_20.jpg?1784226592",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -210,7 +230,7 @@ window.LUMINO_DATA = {
       "title": "AIA calls ROAD to Housing Act an \"important step\" in housing affordability",
       "url": "https://www.dezeen.com/2026/07/16/aia-21st-century-road-to-housing-act-bill/",
       "excerpt": "The American Institute of Architects has \"celebrated\" the enactment of the 21st Century ROAD to Housing Act, a recently passed bill aimed at speeding up the building and access of affordable housing i",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -219,17 +239,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen Agenda features our Future Stadium series",
       "url": "https://www.dezeen.com/2026/07/16/future-stadium-series-dezeen-agenda/",
       "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features the launch of our Future Stadium series. Subscribe to Dezeen Agenda now. With stadium construction escalating and the World Cup comin",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Residência MA – Atibaia / Estúdio Rossi Arquitetos",
-      "url": "https://www.archdaily.com/1148758/residencia-ma-atibaia-estudio-rossi-arquitetos",
-      "excerpt": "Implantada em um terreno em aclive em um condomínio residencial de Atibaia, a Residência MA se organiza a partir da leitura da geografia do lote, da paisagem e do programa doméstico, dando forma a uma",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -239,7 +249,17 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
       "excerpt": "Sited on a sloping plot in a gated community in Atibaia, Brazil, the MA Residence is organized around the geography of the lot, the landscape, and the domestic program, forming a permanent home design",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.16",
+      "title": "Residência MA – Atibaia / Estúdio Rossi Arquitetos",
+      "url": "https://www.archdaily.com/1148758/residencia-ma-atibaia-estudio-rossi-arquitetos",
+      "excerpt": "Implantada em um terreno em aclive em um condomínio residencial de Atibaia, a Residência MA se organiza a partir da leitura da geografia do lote, da paisagem e do programa doméstico, dando forma a uma",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/d0eb/d425/1a00/01c4/b789/large_jpg/DJI_20251112180757_0932_D.jpg?1784140068",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -249,7 +269,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-festival-2026-preview",
       "excerpt": "London Design Festival 2026 (12–20 September) unveils its first projects, where craft, architecture and technology meet across city-wide landmark installations and museum commissions",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/drXdknx2qMKHgoqNPaQ5TQ-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -258,7 +278,7 @@ window.LUMINO_DATA = {
       "title": "\"Stadiums are the most significant expression of monumentality in our time\"",
       "url": "https://www.dezeen.com/2026/07/16/benjamin-flowers-opinion-stadiums-monumentality/",
       "excerpt": "As part of Dezeen's Future Stadium series, academic Benjamin Flowers considers the role of stadiums as one of the last monumental architectural forms that demands affection from the public. In any giv",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -268,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/nirvana-logo-design",
       "excerpt": "Lisa Orth designed the Nirvana logo in 1989 for the cover of ‘Bleach’, using whatever font was on the typesetting machine (Onyx)",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gsisjN2pBq8MYDmMb7QGZ5-1482-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -277,7 +297,7 @@ window.LUMINO_DATA = {
       "title": "Classic Parisian furniture reimagined for contemporary cafes at New Designers 2026",
       "url": "https://www.dezeen.com/2026/07/16/traditional-parisian-inspired-furniture-for-cafes-among-work-at-new-designers-2026/",
       "excerpt": "Dezeen School Shows: a contemporary furniture collection that puts a twist on the classic look of traditional Parisian pieces is among the projects showcased at this year's New Designers. Also feature",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -287,7 +307,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148783/treinta-y-nueve-arboles-grizzo-studio",
       "excerpt": "This house is located in the forest of Cariló, in a field full of vegetation, where the sunlight, filtered by the crowns of dozens of trees, stands out on a ground covered with climbers. Our project s",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/987a/d425/1a00/01c4/b8e1/large_jpg/f_MAR1313-Editar.jpg?1784191165",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -297,7 +317,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/lego-gustav-klimt-the-kiss",
       "excerpt": "It takes 4,000 Lego pieces to conjure up this rich evocation of Klimt’s iconic Art Nouveau masterpiece, the latest work from the Lego Art series",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qx5xbVX3SqJG3ASS5h7P6A-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -307,7 +327,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/scorpios-mykonos-ruslan-baginskiy-pop-up",
       "excerpt": "The Ukrainian headwear designer opens a crafted summer pop-up at beach club Scorpios Mykonos, with wicker furniture and personalised hats in a workshop-style space",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DBjfAnS7YnAUnDbxeEXkyG-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -317,7 +337,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
       "excerpt": "a new four-year plan will organize milano triennale’s program around one guiding  question each year.\nThe post michele de lucchi appointed creative director of the triennale milano appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/triennale-milano-michele-de-lucchi-creative-director-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -327,7 +347,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
       "excerpt": "natural materials, designed to weather over time, blend the living areas with the surrounding vegetation.\nThe post elevated glazed walkways frame house’s panoramic views through cariló’s forest in arg",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treinta-y-nueve-arboles-house-grizzo-studio-carilo-argentina-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -337,17 +357,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148769/blue-house-extrastudio",
       "excerpt": "This project is the first in a series of three residences we named casas poveras. Shaped in a time of uncertainty, yet refusing to compromise on scale, these houses were stripped down to the essential",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/f60a/d58c/e001/8884/fdb8/large_jpg/blue-house-extrastudio_1.jpg?1784149526",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "Westlake 66 Mixed Use Complex / KPF",
-      "url": "https://www.archdaily.com/1148690/westlake-66-kpf",
-      "excerpt": "Westlake 66 is a new model for urban connectivity, landscape-driven design and computationally informed architecture, reinvigorating a deteriorated neighborhood and establishing a new civic heart in o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/d6f7/7c22/c800/01aa/6351/large_jpg/01_Westlake_66_Credit_StudioSZ_Justin_Szeremeta_Courtesy_KPF.jpg?1784076063",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -357,17 +367,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art/",
       "excerpt": "visitors are randomly assigned one of two parallel exhibitions as the belgian artist's installation at beijing's UCCA center for contemporary art turns uncertainty into the experience itself.\nThe post",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.16",
-      "title": "urban soul project hospitality design translates local narratives into spatial experiences",
-      "url": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
-      "excerpt": "urban soul project answers a fundamental question of how an environment can be designed to make the guest feel, understand, and remember. \nThe post urban soul project hospitality design translates loc",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/usp_designboom_facebook.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
@@ -377,7 +377,7 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260716-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/Quick.news20260716.png",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -616,16 +616,6 @@ window.LUMINO_DATA = {
       "title": "学生オープンデスク受付中",
       "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "展示・アート",
-      "date": "2026.06.02",
-      "title": "【重要】6月3日（水）DNLプライベート展示会 LIGHT with DNL 2026 中止のお知らせ",
-      "url": "https://www.dnlighting.co.jp/media/news/20260602",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     }
   ]
