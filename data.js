@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  13:02",
+  "fetchedAt": "2026.07.18  14:46",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,61 +25,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "遠藤照明": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "岩崎電気": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -143,24 +135,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.18",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.18",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -187,6 +161,16 @@ window.LUMINO_DATA = {
       "title": "Eight cottage living room interiors fit for a rural retreat",
       "url": "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
       "excerpt": "Our latest lookbook features eight living rooms in cottages united by their peaceful interiors, from the Scottish Highlands to Czechia's Bohemian Forest. As summer rolls on in the northern hemisphere,",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Belonging to the Earth: Architecture in the Worldviews of Indigenous Peoples of Latin America",
+      "url": "https://www.archdaily.com/1042806/belonging-to-the-earth-architecture-in-the-worldviews-of-indigenous-peoples-of-latin-america",
+      "excerpt": "Anyone expecting the following words to discuss materiality, sustainable construction techniques, woodworking methods, or ways of weaving thatch will be mistaken. This article seeks precisely to shift",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/bfa7/bdfc/1a01/8a6a/21c5/large_jpg/aqui-nos-pertencemos-arquitetura-na-cosmovisao-dos-povos-originarios-da-america-latina_1.jpg?1782431660",
       "today": true
     },
     {
@@ -324,16 +308,6 @@ window.LUMINO_DATA = {
       "title": "The history of stadium design in 15 buildings",
       "url": "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/",
       "excerpt": "Continuing our Future Stadiums series, we look forward by looking back at some of the milestones in the stadium's long road from ancient structures to monumental giants seating thousands. From Ancient",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Student Center Santa Marta / El Equipo Mazzanti",
-      "url": "https://www.archdaily.com/1148923/student-center-santa-marta-el-equipo-mazzanti",
-      "excerpt": "The project proposes a space that belongs to its setting, an architecture that dissolves among the trees and recognizes the landscape by integrating with the existing vegetation. The roof merges with ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f3b7/3d21/f701/89c9/299a/large_jpg/student-center-santa-marta-el-equipo-mazzanti_22.jpg?1784280005",
       "today": false
     },
     {
