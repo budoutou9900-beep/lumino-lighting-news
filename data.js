@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  14:46",
+  "fetchedAt": "2026.07.18  15:51",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,53 +25,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -135,6 +139,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.18",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Halcom Offices / KIP arhitekti",
+      "url": "https://www.archdaily.com/1042941/halcom-offices-kip",
+      "excerpt": "The IT company's offices are located in the heritage-protected old Mladinska knjiga printing house, originally designed by architect Savin Sever. They occupy two thirds of the aisle of the otherwise t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/2a4e/0789/c600/018c/29f4/large_jpg/Halcom_Horizontal.jpg?1782917724",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -161,6 +184,16 @@ window.LUMINO_DATA = {
       "title": "Eight cottage living room interiors fit for a rural retreat",
       "url": "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
       "excerpt": "Our latest lookbook features eight living rooms in cottages united by their peaceful interiors, from the Scottish Highlands to Czechia's Bohemian Forest. As summer rolls on in the northern hemisphere,",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Former Printing Press Refurbishment / Bastidas Architecture",
+      "url": "https://www.archdaily.com/1148556/former-printing-press-refurbishment",
+      "excerpt": "The Refurbishment of the Former Printing Press transforms the house of Artà into a contemporary family home, preserving the memory of its industrial past while redefining the relationship between arch",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/b8b1/22ee/0e00/0134/c6ae/large_jpg/1.jpg?1783937286",
       "today": true
     },
     {
@@ -262,16 +295,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "House in San Isidro / Ábode arq",
-      "url": "https://www.archdaily.com/1148825/house-in-san-isidro",
-      "excerpt": "Built on a narrow shared lot in San Isidro, near the Río de la Plata, the project was conceived as an exploration of the relationship between architecture, landscape, and everyday life.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/1a60/d425/1a00/01c4/bbb6/large_jpg/aerial_front_left_2.jpg?1784224377",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -279,16 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/jordan-eagles-bases-loaded-pioneer-works-brooklyn",
       "excerpt": "In 'Bases Loaded,' now on view at Pioneer Works in Brooklyn, Jordan Eagles blends his love of the Mets with the politics of blood donation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XVXDc9inxpcbcXVAFU9KSA-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Curved House / efcarquitetura",
-      "url": "https://www.archdaily.com/1148934/curved-house-efcarquitetura",
-      "excerpt": "In times of global warming in the already warm countryside of São Paulo, the concept was straightforward: merge the structure with brise-soleil and build as little as possible to meet the program requ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/3a5e/c5a3/6400/0147/06c3/large_jpg/EFC_ARQUITETURA_-_Foto_-_Carolina_Mossin_020.jpg?1784232659",
       "today": false
     },
     {
