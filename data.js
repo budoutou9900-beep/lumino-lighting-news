@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  04:47",
+  "fetchedAt": "2026.07.18  06:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -151,10 +151,40 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.18",
+      "title": "What could our world look like in an alternate reality? Olalekan Jeyifous has the answer",
+      "url": "https://www.wallpaper.com/architecture/architect-artist-olalekan-jeyifous-profile-usa",
+      "excerpt": "The Brooklyn-based artist and trained architect reimagines social, cultural and environmental realities to create speculative neighbourhoods with a promising future",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ckZmTvTd2LVxxGQV4JPKrJ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Latine gives Mayfair a Franco-Latin restaurant with a versatile atmosphere",
+      "url": "https://www.wallpaper.com/travel/restaurants/latine-mayfair-london-review",
+      "excerpt": "Latine Mayfair opens in Lancashire Court with a Franco-Latin menu, interiors by Victoria Vogel and a four-floor journey from crudo bar to late-night lounge",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wNjdum3FMky3TJsj8a7iTN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.18",
       "title": "Englebert pairs gold jewellery with the enduring forms of Swedish ceramics",
       "url": "https://www.wallpaper.com/watches-jewellery/englebert-pairs-gold-jewellery-with-the-enduring-forms-of-swedish-ceramics",
       "excerpt": "Englebert jewellery embodies timeless design principles, celebrated here in dialogue with ceramics",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pJSKKPbmBFj64EQcepU6Th-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "PANE Shenzhen Bay New Concept Store / say architects",
+      "url": "https://www.archdaily.com/1092343/pane-shenzhen-bay-new-concept-store-say-architects",
+      "excerpt": "PANE was founded upon a re-examination of everyday footwear, blending classic craftsmanship and refined materials with elegant, intellectual silhouettes to create timeless pieces that bridge the class",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/c895/49a5/ed00/0187/3f18/large_jpg/6_Wen_Studio.jpg?1783548100",
       "today": true
     },
     {
@@ -237,16 +267,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Our Legacy’s ‘laboratory-like’ London store: Scandinavian restraint with a rebellious streak",
-      "url": "https://www.wallpaper.com/fashion-beauty/our-legacy-london-store-soho",
-      "excerpt": "The renovated Soho flagship is a ‘space for the next chapter’ of the cult Swedish brand, which has enjoyed exponential growth in recent years. Creative director Cristopher Nying gives Wallpaper* an ex",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vJjsd2Xiqxd63d3bN5ZZNQ-2500-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.17",
@@ -264,16 +284,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148912/marmotta-pasta-bar-tadu-arquitetura",
       "excerpt": "An open corner facing the city and a design that seeks to transform the brand, facade, dining room, and kitchen into a unique experience. Located in the Itaim neighborhood of São Paulo, Marmotta was c",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/23d6/d425/1a00/01c4/bbfe/large_jpg/adfoto_5003_M_REV00.jpg?1784226867",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "9720 Wilshire Building / Montalba Architects",
-      "url": "https://www.archdaily.com/1148628/9720-wilshire-building-montalba-architects",
-      "excerpt": "The project, completed by Montalba Architects in 2022 is a significant historical renovation of the original 1962 Edward Durrell Stone Building and a transformation of the basement level through addit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/86f2/1593/c101/8748/da36/large_jpg/9720-wilshire-building-montalba-architects_4.jpg?1783990109",
       "today": false
     },
     {
@@ -330,16 +340,6 @@ window.LUMINO_DATA = {
       "title": "Contemporary Room Dividing Screens by Fold Studio",
       "url": "https://www.dezeen.com/2026/07/17/contemporary-room-dividing-screens-fold-studio-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Australian design brand Fold Studio has released a series of freestanding folding screens comprising hardwood frames stretched with fabric or woven cord. Fold Studio founder and in-ho",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Inspired by its rare double-corner site, a brick pavilion in Australia ‘redefines suburban living’",
-      "url": "https://www.wallpaper.com/architecture/residential/brick-pavilion-house-australia",
-      "excerpt": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EwxMGtJk85D6anHcGdTp5E-2560-80.jpg",
       "today": false
     },
     {
