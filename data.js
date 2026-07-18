@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  06:58",
+  "fetchedAt": "2026.07.18  08:49",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -97,6 +101,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.18",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -145,6 +158,16 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "14 logos that defined American graphic design history",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
+      "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
       "today": true
     },
     {
@@ -225,16 +248,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148934/curved-house-efcarquitetura",
       "excerpt": "In times of global warming in the already warm countryside of São Paulo, the concept was straightforward: merge the structure with brise-soleil and build as little as possible to meet the program requ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/3a5e/c5a3/6400/0147/06c3/large_jpg/EFC_ARQUITETURA_-_Foto_-_Carolina_Mossin_020.jpg?1784232659",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "‘We all need a little madness’: Mario Cucinella brings a living garden to Palermo’s Festino di Santa Rosalia",
-      "url": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca",
-      "excerpt": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK-2560-80.jpg",
       "today": false
     },
     {
