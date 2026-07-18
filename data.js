@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  16:51",
+  "fetchedAt": "2026.07.18  17:52",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -151,6 +151,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.18",
+      "title": "Veredas Apartment / Novais Arquitetura",
+      "url": "https://www.archdaily.com/1148902/veredas-apartment-novais-arquitetura",
+      "excerpt": "Designed by architects Marcus Novais and Lucas Novais of Novais Arquitetura, this 203 m² (2,185 sq ft) apartment on Avenida Beira-Mar in Fortaleza, Ceará, was conceived to reflect the history and life",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/9881/7c22/c800/01aa/6333/large_jpg/Apartamento_em_Fortaleza_assinao_pelo_escrit_rio_NOVAIS_ARQUITETURA___foto_2.1.jpg?1784060106",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
       "title": "Halcom Offices / KIP arhitekti",
       "url": "https://www.archdaily.com/1042941/halcom-offices-kip",
       "excerpt": "The IT company's offices are located in the heritage-protected old Mladinska knjiga printing house, originally designed by architect Savin Sever. They occupy two thirds of the aisle of the otherwise t",
@@ -272,16 +282,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/englebert-pairs-gold-jewellery-with-the-enduring-forms-of-swedish-ceramics",
       "excerpt": "Englebert jewellery embodies timeless design principles, celebrated here in dialogue with ceramics",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pJSKKPbmBFj64EQcepU6Th-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "PANE Shenzhen Bay New Concept Store / say architects",
-      "url": "https://www.archdaily.com/1092343/pane-shenzhen-bay-new-concept-store-say-architects",
-      "excerpt": "PANE was founded upon a re-examination of everyday footwear, blending classic craftsmanship and refined materials with elegant, intellectual silhouettes to create timeless pieces that bridge the class",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/c895/49a5/ed00/0187/3f18/large_jpg/6_Wen_Studio.jpg?1783548100",
       "today": true
     },
     {
