@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  20:01",
+  "fetchedAt": "2026.07.18  21:44",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -148,6 +148,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "BIGX super sports playground shapes a digital landscape through steel, light, and color",
+      "url": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
+      "excerpt": "digital blue establishes a continuous visual field across the interior, while signal orange highlights key points of movement and interaction.\nThe post BIGX super sports playground shapes a digital la",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Umbral Floral Pavilion / Cerron Arquitectos",
+      "url": "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
+      "excerpt": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f5f3/895c/1800/0111/760e/large_jpg/UF12.jpg?1784280705",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Laranjeiras House / Felipe Hess Arquitetos",
+      "url": "https://www.archdaily.com/1035230/laranjeiras-house-felipe-hess-arquitetos",
+      "excerpt": "Located on a standard lot with a direct view of the canal, Laranjeiras House was conceived from the relationship between volumetric restraint and spatial lightness. With approximately 450 m² and four ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68f6/d24b/9662/4135/afe7/d142/large_jpg/casa-laranjeiras-felipe-hess-arquitetos_20.jpg?1761006173",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -207,16 +237,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Belonging to the Earth: Architecture in the Worldviews of Indigenous Peoples of Latin America",
-      "url": "https://www.archdaily.com/1042806/belonging-to-the-earth-architecture-in-the-worldviews-of-indigenous-peoples-of-latin-america",
-      "excerpt": "Anyone expecting the following words to discuss materiality, sustainable construction techniques, woodworking methods, or ways of weaving thatch will be mistaken. This article seeks precisely to shift",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3d/bfa7/bdfc/1a01/8a6a/21c5/large_jpg/aqui-nos-pertencemos-arquitetura-na-cosmovisao-dos-povos-originarios-da-america-latina_1.jpg?1782431660",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -224,16 +244,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
       "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Elementary House / YUMI Architekci",
-      "url": "https://www.archdaily.com/1092473/elementary-house-yumi-architekci",
-      "excerpt": "Elementary House reimagines the archetype of the holiday cabin as a contemporary home where architecture is shaped by everyday rituals, creativity, and a deep connection to nature. Designed by YUMI Ar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b909/61ff/5300/01d2/e8a0/large_jpg/Elementary_House_photo_8.jpg?1783675165",
       "today": true
     },
     {
@@ -321,16 +331,6 @@ window.LUMINO_DATA = {
       "title": "The history of stadium design in 15 buildings",
       "url": "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/",
       "excerpt": "Continuing our Future Stadiums series, we look forward by looking back at some of the milestones in the stadium's long road from ancient structures to monumental giants seating thousands. From Ancient",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "folded yellow volume reorganizes genova apartment’s interiors like a game of tetris",
-      "url": "https://www.designboom.com/architecture/folded-yellow-volume-genova-apartment-interiors-tetris-bump-studio/",
-      "excerpt": "bump studio reorganizes the home through color, geometry, and custom sculptural elements.\nThe post folded yellow volume reorganizes genova apartment’s interiors like a game of tetris appeared first on",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tetris-renovation-bump-studio-genova-italy-flexible-living-environment-designboom-1200-1.jpg",
       "today": false
     },
     {
