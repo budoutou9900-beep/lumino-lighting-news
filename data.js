@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  10:16",
+  "fetchedAt": "2026.07.18  11:51",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,29 +45,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -140,12 +136,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.18",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "céleste boursier-mougenot composes music through a ring of swings and bells",
+      "url": "https://www.designboom.com/art/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen/",
+      "excerpt": "eight swings suspended beneath antique church bells transform the courtyard of frac normandie into a participatory soundscape.\nThe post céleste boursier-mougenot composes music through a ring of swing",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen-designboom-1200.jpg",
       "today": true
     },
     {
@@ -159,6 +156,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Eight cottage living room interiors fit for a rural retreat",
+      "url": "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
+      "excerpt": "Our latest lookbook features eight living rooms in cottages united by their peaceful interiors, from the Scottish Highlands to Czechia's Bohemian Forest. As summer rolls on in the northern hemisphere,",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -166,6 +172,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
       "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Elementary House / YUMI Architekci",
+      "url": "https://www.archdaily.com/1092473/elementary-house-yumi-architekci",
+      "excerpt": "Elementary House reimagines the archetype of the holiday cabin as a contemporary home where architecture is shaped by everyday rituals, creativity, and a deep connection to nature. Designed by YUMI Ar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/b909/61ff/5300/01d2/e8a0/large_jpg/Elementary_House_photo_8.jpg?1783675165",
       "today": true
     },
     {
@@ -179,6 +195,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "This week Nokia unveiled four dumbphones with AI-powered buttons",
+      "url": "https://www.dezeen.com/2026/07/18/nokia-dumbphones-ai-powered-buttons-this-week/",
+      "excerpt": "This week on Dezeen, we revealed tech company HMD's retro Nokia brick phones that have an AI assistant button in the centre of the keypad. The four dumbphones were created for people seeking the nosta",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -186,6 +211,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/latine-mayfair-london-review",
       "excerpt": "Latine Mayfair opens in Lancashire Court with a Franco-Latin menu, interiors by Victoria Vogel and a four-floor journey from crudo bar to late-night lounge",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wNjdum3FMky3TJsj8a7iTN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Winery in abandoned cement factory among projects from the University of Portsmouth",
+      "url": "https://www.dezeen.com/2026/07/18/winery-cement-works-projects-university-of-portsmouth-schoolshows/",
+      "excerpt": "Dezeen School Shows: a winery and cultural hub in a former South Downs cement factory is among the projects from the University of Portsmouth. Also featured is an observation deck made from discarded ",
       "today": true
     },
     {
@@ -288,59 +322,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Marmotta Pasta Bar / Tadu Arquitetura",
-      "url": "https://www.archdaily.com/1148912/marmotta-pasta-bar-tadu-arquitetura",
-      "excerpt": "An open corner facing the city and a design that seeks to transform the brand, facade, dining room, and kitchen into a unique experience. Located in the Itaim neighborhood of São Paulo, Marmotta was c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/23d6/d425/1a00/01c4/bbfe/large_jpg/adfoto_5003_M_REV00.jpg?1784226867",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "achille castiglioni and bruno munari knew how to have a good time",
-      "url": "https://www.designboom.com/design/achille-castiglioni-bruno-munari-good-time/",
-      "excerpt": "revisiting munari’s xerografie originali and castiglioni's love for collecting glasses, foundation achille castiglioni's yearly exhibition shows the late designers' passion for play.\nThe post achille ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/castiglioni-foundation-play-designboom-10-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.17",
       "title": "Note Design Studio looks to traditional farmsteads for villa in southern Sweden",
       "url": "https://www.dezeen.com/2026/07/17/note-design-studio-villa-osterlen-sweden/",
       "excerpt": "Local practice Note Design Studio has completed Villa Österlen, a holiday home in southern Sweden designed as a contemporary take on the traditional rural dwellings of Skåne county. Capable of hosting",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "ZHA 3D-prints voluptuous chair from recycled plastic",
-      "url": "https://www.dezeen.com/2026/07/17/echo-chair-3d-printed-zha-nagami/",
-      "excerpt": "Architecture studio ZHA, formerly Zaha Hadid Architects, has worked with Spanish brand Nagami to launch the 3D-printed Echo Chair made from recycled plastic. The sculptural chair, envisioned using par",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Italy's former head of motorways sentenced to 12 years over Ponte Morandi collapse",
-      "url": "https://www.dezeen.com/2026/07/17/ponte-morandi-bridge-collapse-sentence/",
-      "excerpt": "Giovanni Castellucci, former head of Italy's motorway operator Autostrade per l'Italia, and 31 other people have been convicted over the 2018 collapse of the Ponte Morandi bridge in Genoa, which kille",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "Contemporary Room Dividing Screens by Fold Studio",
-      "url": "https://www.dezeen.com/2026/07/17/contemporary-room-dividing-screens-fold-studio-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Australian design brand Fold Studio has released a series of freestanding folding screens comprising hardwood frames stretched with fabric or woven cord. Fold Studio founder and in-ho",
       "today": false
     },
     {
