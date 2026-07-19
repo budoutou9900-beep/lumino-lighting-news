@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  05:47",
+  "fetchedAt": "2026.07.19  08:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "newscast.jp": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,10 +72,6 @@ window.LUMINO_DATA = {
     "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "シリウスライティングオフィス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -110,7 +106,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.19",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
@@ -151,6 +147,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.19",
+      "title": "The Prix Pictet's next photography prize will explore the jungle",
+      "url": "https://www.wallpaper.com/art/photography/the-prix-pictets-next-photography-prize-will-explore-the-jungle",
+      "excerpt": "The internationally renowned photography award has unveiled 'Jungle' as the theme for its twelfth cycle, inviting photographers to respond to one of the planet's most vital ecosystems",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UB43qf3UtEYRVo5JXmPCUm-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.19",
       "title": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
       "url": "https://www.wallpaper.com/design-interiors/remembering-teruo-kurosaki-idee-aoyama-founder",
       "excerpt": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
@@ -165,6 +171,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/aerosculptures-kinetic-steel-grass-turns-the-amsterdam-breeze-into-a-shifting-metallic-field/",
       "excerpt": "a cluster of slender metallic forms by aérosculpture collective rises from the grounds of synergy art festival in thin, gleaming strands.\nThe post aérosculpture’s kinetic ‘steel grass’ turns the amste",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/steel-grass-aerosculpture-synergy-art-festival-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Tiansong Headquarters / ZIAD",
+      "url": "https://www.archdaily.com/1148546/tiansong-headquarters-ziad",
+      "excerpt": "01 Architecture and the City - Tiansong Headquarters is situated in Chengxi Subdistrict, Wenling, Taizhou, at the confluence of the old town and the new urban district. The existing urban fabric aroun",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/92c7/22ee/0e00/0134/c5f9/large_jpg/_______.jpg?1783927830",
       "today": true
     },
     {
@@ -215,16 +231,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1035230/laranjeiras-house-felipe-hess-arquitetos",
       "excerpt": "Located on a standard lot with a direct view of the canal, Laranjeiras House was conceived from the relationship between volumetric restraint and spatial lightness. With approximately 450 m² and four ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68f6/d24b/9662/4135/afe7/d142/large_jpg/casa-laranjeiras-felipe-hess-arquitetos_20.jpg?1761006173",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Veredas Apartment / Novais Arquitetura",
-      "url": "https://www.archdaily.com/1148902/veredas-apartment-novais-arquitetura",
-      "excerpt": "Designed by architects Marcus Novais and Lucas Novais of Novais Arquitetura, this 203 m² (2,185 sq ft) apartment on Avenida Beira-Mar in Fortaleza, Ceará, was conceived to reflect the history and life",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/9881/7c22/c800/01aa/6333/large_jpg/Apartamento_em_Fortaleza_assinao_pelo_escrit_rio_NOVAIS_ARQUITETURA___foto_2.1.jpg?1784060106",
       "today": false
     },
     {
@@ -302,16 +308,6 @@ window.LUMINO_DATA = {
       "title": "Winery in abandoned cement factory among projects from the University of Portsmouth",
       "url": "https://www.dezeen.com/2026/07/18/winery-cement-works-projects-university-of-portsmouth-schoolshows/",
       "excerpt": "Dezeen School Shows: a winery and cultural hub in a former South Downs cement factory is among the projects from the University of Portsmouth. Also featured is an observation deck made from discarded ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Englebert pairs gold jewellery with the enduring forms of Swedish ceramics",
-      "url": "https://www.wallpaper.com/watches-jewellery/englebert-pairs-gold-jewellery-with-the-enduring-forms-of-swedish-ceramics",
-      "excerpt": "Englebert jewellery embodies timeless design principles, celebrated here in dialogue with ceramics",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pJSKKPbmBFj64EQcepU6Th-2560-80.jpg",
       "today": false
     },
     {
@@ -580,25 +576,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79075/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "【掲載情報】新建築 2026年6月号にて下記物件が掲載されております。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1449/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/06/469358c7b39a7302f9b66ac1ad678b1a.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "デザイン",
-      "date": "2026.06.04",
-      "title": "学生オープンデスク受付中",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1447/",
-      "excerpt": "",
       "today": false
     }
   ]
