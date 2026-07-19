@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  16:52",
+  "fetchedAt": "2026.07.19  17:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -154,7 +154,25 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Suite Arquitetos installs rust-toned Casa Magma showroom in São Paulo",
+      "url": "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
+      "excerpt": "Brazilian studio Suite Arquitetos has used Portinari ceramic tiles to create a residential-style show space during Casacor São Paulo 2026. Based on the event's theme Mind and Heart, Suite Arquitetos d",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Humaitá Penthouse / Huma Arquitetura",
+      "url": "https://www.archdaily.com/1148904/humaita-penthouse-huma-arquitetura",
+      "excerpt": "To accommodate the daily routine of a young actress and theater director, HUMA developed the design for this penthouse in Rio de Janeiro. From the very first conversations, the resident expressed her ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/32f4/d425/1a00/01c4/b83b/large_jpg/Leila_Viegas_HUMA-7674.jpg?1784165300",
       "today": true
     },
     {
@@ -275,16 +293,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Tiansong Headquarters / ZIAD",
-      "url": "https://www.archdaily.com/1148546/tiansong-headquarters-ziad",
-      "excerpt": "01 Architecture and the City - Tiansong Headquarters is situated in Chengxi Subdistrict, Wenling, Taizhou, at the confluence of the old town and the new urban district. The existing urban fabric aroun",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/92c7/22ee/0e00/0134/c5f9/large_jpg/_______.jpg?1783927830",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.18",
@@ -301,15 +309,6 @@ window.LUMINO_DATA = {
       "title": "OMA's Oberon restaurant at the New Museum is \"hidden in plain sight\"",
       "url": "https://www.dezeen.com/2026/07/18/oma-oberon-restaurant-new-museum-new-york-city/",
       "excerpt": "Architecture studio OMA has designed a \"jewel box\" restaurant clad in cork inside its recently completed extension to the New Museum in Manhattan. All-day bar and restaurant Oberon has opened a few mo",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Adaptive reuse of Barcelona power plant among projects by Elisava",
-      "url": "https://www.dezeen.com/2026/07/18/adaptive-reuse-barcelona-power-plant-elisava-student-projects-schoolshows/",
-      "excerpt": "Dezeen School Shows: the reimagining of a former seaside thermal power plant north of Barcelona set out in painterly visualisations is among projects by Elisava students. Also included is a series of ",
       "today": false
     },
     {
