@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  14:50",
+  "fetchedAt": "2026.07.19  15:52",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -167,6 +167,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Fire Station and Community Hall Mötz / Imgang Architekten",
+      "url": "https://www.archdaily.com/1148649/fire-station-and-community-hall-motz-imgang-architekten",
+      "excerpt": "The Mötz Fire and Community Hall brings together a diverse range of civic and community functions within a single, compact building. It accommodates a fire station, a public library, the district arch",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c2e/6336/c000/010f/b9dd/large_jpg/HR-Feuerwehr-Moetz-ImGangArchitekten-Foto__GuenterRichardWETT-068c.jpg?1784028259",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.19",
@@ -272,16 +282,6 @@ window.LUMINO_DATA = {
       "excerpt": "01 Architecture and the City - Tiansong Headquarters is situated in Chengxi Subdistrict, Wenling, Taizhou, at the confluence of the old town and the new urban district. The existing urban fabric aroun",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/92c7/22ee/0e00/0134/c5f9/large_jpg/_______.jpg?1783927830",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Koenji Office Building / SO&CO.",
-      "url": "https://www.archdaily.com/1148721/koenji-office-building",
-      "excerpt": "This headquarters building is situated on a flagpole-shaped lot near Koenji Station, with a frontage of just 2 meters. The building comprises three above-ground stories and one basement level. We soug",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/6085/7c22/c800/01aa/64fa/large_jpg/15_2F_The_surrounding_environment_and_various_elements_blend_together_to_create_a_diverse_space.jpg?1784111339",
-      "today": false
     },
     {
       "source": "designboom",
