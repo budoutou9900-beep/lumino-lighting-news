@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  20:07",
+  "fetchedAt": "2026.07.19  21:45",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -154,7 +154,6 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -173,6 +172,26 @@ window.LUMINO_DATA = {
       "title": "Suite Arquitetos installs rust-toned Casa Magma showroom in São Paulo",
       "url": "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
       "excerpt": "Brazilian studio Suite Arquitetos has used Portinari ceramic tiles to create a residential-style show space during Casacor São Paulo 2026. Based on the event's theme Mind and Heart, Suite Arquitetos d",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Casa Libertad / Clusellas Ades",
+      "url": "https://www.archdaily.com/1148881/casa-libertad-clusellas-ades",
+      "excerpt": "The project develops a version of a suburban house that distances itself from the limitations traditionally associated with a lot between party walls. To achieve this, it steps away from them, observe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/042b/e8f5/cb01/8987/a34d/large_jpg/casa-libertad-clusellas-ades_3.jpg?1784284234",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Illapangui del Peumo House / Vergara Arquitectos",
+      "url": "https://www.archdaily.com/1148926/illapangui-del-peumo-house-vergara-arquitectos",
+      "excerpt": "The Illapangui del Peumo House organizes its program around an open courtyard street that, positioned perpendicular to the horizon, frames a view of the sea upon opening and establishes the spatial lo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a26/bb08/d2d3/6e00/0102/f3f8/large_jpg/01-ignacio_infante.jpg?1780923174",
       "today": true
     },
     {
@@ -241,26 +260,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-the-pedalo-objectify-italian-summer",
       "excerpt": "The fifth instalment of the architect's series, 'Objectify,' investigates how the pedalò shows that 'form follows fun'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hDumFduPTkj4KL9aXBMG2W-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
-      "url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
-      "excerpt": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the fa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "The Pedestrian Bridge across the River Rinža / dans arhitekti",
-      "url": "https://www.archdaily.com/1054009/the-pedestrian-bridge-across-the-river-rinza-dans-arhitekti",
-      "excerpt": "The footbridge across the Rinža River is experienced as a highlight and focal point of the Gaj sports park area before the river enters the center of Kočevje. The footbridge spans in a long elegant cu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/ab3e/062b/6500/019a/ab19/large_jpg/01_dans_arhitekti_The_Pedestrian_Bridge_across_the_River_Rin_a.jpg?1783343950",
       "today": true
     },
     {
