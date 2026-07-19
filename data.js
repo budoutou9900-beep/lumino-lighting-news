@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  11:52",
+  "fetchedAt": "2026.07.19  13:04",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,16 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "It’ll be all white: the first-ever production Ferrari Luce goes up for sale at RM Sotheby’s",
+      "url": "https://www.wallpaper.com/transportation/ferrari-luce-chassis-0-rm-sothebys-sale",
+      "excerpt": "Ferrari Luce Chassis 0 has been given the Ferrari Tailor Made treatment, creating this uniquely sensual white-on-white car",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/okvFMDPpSazBLkvdcMujYK-1920-80.jpg",
       "today": true
     },
     {
@@ -329,16 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
       "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "What could our world look like in an alternate reality? Olalekan Jeyifous has the answer",
-      "url": "https://www.wallpaper.com/architecture/architect-artist-olalekan-jeyifous-profile-usa",
-      "excerpt": "The Brooklyn-based artist and trained architect reimagines social, cultural and environmental realities to create speculative neighbourhoods with a promising future",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ckZmTvTd2LVxxGQV4JPKrJ-1600-80.jpg",
       "today": false
     },
     {
