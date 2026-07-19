@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  13:04",
+  "fetchedAt": "2026.07.19  14:50",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -185,6 +185,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Hotel Nobis Palma / Jordi Herrero Arquitecto",
+      "url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
+      "excerpt": "Hotel Nobis Palma is the rehabilitation and adaptive reuse of Can Oliver, a historic palace located in the old town of Palma de Mallorca. Rather than adapting the building to fit the hotel program, th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/e8b9/b477/e200/0107/aa28/large_jpg/CAN_OLIVER_FINAL_067.jpg?1783097674",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.19",
@@ -192,6 +202,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-the-pedalo-objectify-italian-summer",
       "excerpt": "The fifth instalment of the architect's series, 'Objectify,' investigates how the pedalò shows that 'form follows fun'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hDumFduPTkj4KL9aXBMG2W-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
+      "url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
+      "excerpt": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the fa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
       "today": true
     },
     {
@@ -280,26 +300,6 @@ window.LUMINO_DATA = {
       "title": "OMA's Oberon restaurant at the New Museum is \"hidden in plain sight\"",
       "url": "https://www.dezeen.com/2026/07/18/oma-oberon-restaurant-new-museum-new-york-city/",
       "excerpt": "Architecture studio OMA has designed a \"jewel box\" restaurant clad in cork inside its recently completed extension to the New Museum in Manhattan. All-day bar and restaurant Oberon has opened a few mo",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "JNG House / BodinChapa Architects",
-      "url": "https://www.archdaily.com/1148559/jng-house-bodinchapa-architects",
-      "excerpt": "A home is perhaps the most personal architectural expression of its owner. More than any other building type, it reflects individual values, ways of living, and the gradual evolution of everyday life.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/bacf/22ee/0e00/0134/c71d/large_jpg/001.jpg?1783937756",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Umbral Floral Pavilion / Cerron Arquitectos",
-      "url": "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
-      "excerpt": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f5f3/895c/1800/0111/760e/large_jpg/UF12.jpg?1784280705",
       "today": false
     },
     {
