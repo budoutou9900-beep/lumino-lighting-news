@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.18  23:48",
+  "fetchedAt": "2026.07.19  02:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -141,11 +141,21 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.18",
+      "date": "2026.07.19",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.18",
+      "title": "Koenji Office Building / SO&CO.",
+      "url": "https://www.archdaily.com/1148721/koenji-office-building",
+      "excerpt": "This headquarters building is situated on a flagpole-shaped lot near Koenji Station, with a frontage of just 2 meters. The building comprises three above-ground stories and one basement level. We soug",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/6085/7c22/c800/01aa/64fa/large_jpg/15_2F_The_surrounding_environment_and_various_elements_blend_together_to_create_a_diverse_space.jpg?1784111339",
+      "today": false
     },
     {
       "source": "designboom",
@@ -155,7 +165,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
       "excerpt": "digital blue establishes a continuous visual field across the interior, while signal orange highlights key points of movement and interaction.\nThe post BIGX super sports playground shapes a digital la",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -165,7 +175,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148559/jng-house-bodinchapa-architects",
       "excerpt": "A home is perhaps the most personal architectural expression of its owner. More than any other building type, it reflects individual values, ways of living, and the gradual evolution of everyday life.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/bacf/22ee/0e00/0134/c71d/large_jpg/001.jpg?1783937756",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -175,7 +185,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
       "excerpt": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f5f3/895c/1800/0111/760e/large_jpg/UF12.jpg?1784280705",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -185,7 +195,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1035230/laranjeiras-house-felipe-hess-arquitetos",
       "excerpt": "Located on a standard lot with a direct view of the canal, Laranjeiras House was conceived from the relationship between volumetric restraint and spatial lightness. With approximately 450 m² and four ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68f6/d24b/9662/4135/afe7/d142/large_jpg/casa-laranjeiras-felipe-hess-arquitetos_20.jpg?1761006173",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -195,17 +205,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148902/veredas-apartment-novais-arquitetura",
       "excerpt": "Designed by architects Marcus Novais and Lucas Novais of Novais Arquitetura, this 203 m² (2,185 sq ft) apartment on Avenida Beira-Mar in Fortaleza, Ceará, was conceived to reflect the history and life",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/9881/7c22/c800/01aa/6333/large_jpg/Apartamento_em_Fortaleza_assinao_pelo_escrit_rio_NOVAIS_ARQUITETURA___foto_2.1.jpg?1784060106",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "Halcom Offices / KIP arhitekti",
-      "url": "https://www.archdaily.com/1042941/halcom-offices-kip",
-      "excerpt": "The IT company's offices are located in the heritage-protected old Mladinska knjiga printing house, originally designed by architect Savin Sever. They occupy two thirds of the aisle of the otherwise t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/2a4e/0789/c600/018c/29f4/large_jpg/Halcom_Horizontal.jpg?1782917724",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -215,7 +215,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen/",
       "excerpt": "eight swings suspended beneath antique church bells transform the courtyard of frac normandie into a participatory soundscape.\nThe post céleste boursier-mougenot composes music through a ring of swing",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -225,7 +225,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on/",
       "excerpt": "these colorful electronic tattoos turn painted body art into sensors for your heart, muscles, and brain\nThe post e-tattoos: what if a fierce shark and a shy tiger could monitor your health? appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on-designboom-08.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -234,7 +234,7 @@ window.LUMINO_DATA = {
       "title": "Eight cottage living room interiors fit for a rural retreat",
       "url": "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
       "excerpt": "Our latest lookbook features eight living rooms in cottages united by their peaceful interiors, from the Scottish Highlands to Czechia's Bohemian Forest. As summer rolls on in the northern hemisphere,",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -244,7 +244,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
       "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -254,7 +254,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architect-artist-olalekan-jeyifous-profile-usa",
       "excerpt": "The Brooklyn-based artist and trained architect reimagines social, cultural and environmental realities to create speculative neighbourhoods with a promising future",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ckZmTvTd2LVxxGQV4JPKrJ-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -263,7 +263,7 @@ window.LUMINO_DATA = {
       "title": "This week Nokia unveiled four dumbphones with AI-powered buttons",
       "url": "https://www.dezeen.com/2026/07/18/nokia-dumbphones-ai-powered-buttons-this-week/",
       "excerpt": "This week on Dezeen, we revealed tech company HMD's retro Nokia brick phones that have an AI assistant button in the centre of the keypad. The four dumbphones were created for people seeking the nosta",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -273,7 +273,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/latine-mayfair-london-review",
       "excerpt": "Latine Mayfair opens in Lancashire Court with a Franco-Latin menu, interiors by Victoria Vogel and a four-floor journey from crudo bar to late-night lounge",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wNjdum3FMky3TJsj8a7iTN-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -282,7 +282,7 @@ window.LUMINO_DATA = {
       "title": "Winery in abandoned cement factory among projects from the University of Portsmouth",
       "url": "https://www.dezeen.com/2026/07/18/winery-cement-works-projects-university-of-portsmouth-schoolshows/",
       "excerpt": "Dezeen School Shows: a winery and cultural hub in a former South Downs cement factory is among the projects from the University of Portsmouth. Also featured is an observation deck made from discarded ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -292,7 +292,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/englebert-pairs-gold-jewellery-with-the-enduring-forms-of-swedish-ceramics",
       "excerpt": "Englebert jewellery embodies timeless design principles, celebrated here in dialogue with ceramics",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pJSKKPbmBFj64EQcepU6Th-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
