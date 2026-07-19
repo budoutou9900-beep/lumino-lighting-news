@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  22:44",
+  "fetchedAt": "2026.07.19  23:52",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -106,6 +106,7 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -153,6 +154,16 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "A perfect pair of Range Rovers, old and new, showcases a commitment to bespoke design",
+      "url": "https://www.wallpaper.com/transportation/a-perfect-pair-of-range-rovers-old-and-new-showcases-a-commitment-to-bespoke-design",
+      "excerpt": "The Range Rover Classic Matched Pair combines a contemporary Range Rover SV Ultra with a thoroughly overhauled 1993 Range Rover County Edition. We take a look inside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T7YgrVZTJtdYFUCdbvHGwX-2560-80.jpg",
       "today": true
     },
     {
@@ -338,16 +349,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on/",
       "excerpt": "these colorful electronic tattoos turn painted body art into sensors for your heart, muscles, and brain\nThe post e-tattoos: what if a fierce shark and a shy tiger could monitor your health? appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on-designboom-08.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "14 logos that defined American graphic design history",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
-      "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
       "today": false
     },
     {
