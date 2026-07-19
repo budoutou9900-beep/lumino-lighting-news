@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  21:45",
+  "fetchedAt": "2026.07.19  22:44",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -106,7 +106,6 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -157,6 +156,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "circular roof opening brings sunlight into casa óculo by OHLAB in palma",
+      "url": "https://www.designboom.com/architecture/circular-roof-opening-sunlight-casa-oculo-ohlab-palma/",
+      "excerpt": "the oblique oculus traces the movement of the sun across the residence’s interior.\nThe post circular roof opening brings sunlight into casa óculo by OHLAB in palma appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/circular-roof-opening-casa-oculo-ohlab-palma-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.19",
@@ -172,6 +181,16 @@ window.LUMINO_DATA = {
       "title": "Suite Arquitetos installs rust-toned Casa Magma showroom in São Paulo",
       "url": "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
       "excerpt": "Brazilian studio Suite Arquitetos has used Portinari ceramic tiles to create a residential-style show space during Casacor São Paulo 2026. Based on the event's theme Mind and Heart, Suite Arquitetos d",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Thomas Residence / Embrace Architects",
+      "url": "https://www.archdaily.com/1148742/thomas-residence-embrace-architects",
+      "excerpt": "Thomas Street Residence by Embrace Architects is a refined private home in Melbourne, Australia, shaped by proportion, light, curved geometries and enduring materiality.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f5f0/e8f5/cb01/8987/a2b7/large_jpg/thomas-residence-embrace-architects_21.jpg?1784280575",
       "today": true
     },
     {
@@ -240,16 +259,6 @@ window.LUMINO_DATA = {
       "title": "All 23 stadiums set to host the 2030 World Cup",
       "url": "https://www.dezeen.com/2026/07/19/2030-world-cup-stadiums-future-stadium/",
       "excerpt": "With the 2026 FIFA World Cup reaching its conclusion and in keeping with our Future Stadium series, we've rounded up all the stadiums set to host matches at the 2030 World Cup, which will be played ac",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Hotel Nobis Palma / Jordi Herrero Arquitecto",
-      "url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
-      "excerpt": "Hotel Nobis Palma is the rehabilitation and adaptive reuse of Can Oliver, a historic palace located in the old town of Palma de Mallorca. Rather than adapting the building to fit the hotel program, th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a47/e8b9/b477/e200/0107/aa28/large_jpg/CAN_OLIVER_FINAL_067.jpg?1783097674",
       "today": true
     },
     {
@@ -339,16 +348,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained",
       "excerpt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hU36X8HE4KfyfmR6gpcRXD-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "in praise of the useless path: how labyrinths turn disorientation into play",
-      "url": "https://www.designboom.com/design/useless-path-labyrinths-disorientation-play-maze-spiral-jetty-borges/",
-      "excerpt": "from spiral jetty to plant mazes, labyrinths show us the pleasure of getting nowhere.\nThe post in praise of the useless path: how labyrinths turn disorientation into play appeared first on designboom ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/labyrinths-play-designboom-FB.jpg",
       "today": false
     },
     {
