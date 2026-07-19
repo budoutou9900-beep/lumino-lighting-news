@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.19  02:07",
+  "fetchedAt": "2026.07.19  05:47",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -145,6 +145,26 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
+      "url": "https://www.wallpaper.com/design-interiors/remembering-teruo-kurosaki-idee-aoyama-founder",
+      "excerpt": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wSYMpZKmrquLnjkYBnnGZg-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "aérosculpture’s kinetic ‘steel grass’ turns the amsterdam breeze into a shifting metallic field",
+      "url": "https://www.designboom.com/art/aerosculptures-kinetic-steel-grass-turns-the-amsterdam-breeze-into-a-shifting-metallic-field/",
+      "excerpt": "a cluster of slender metallic forms by aérosculpture collective rises from the grounds of synergy art festival in thin, gleaming strands.\nThe post aérosculpture’s kinetic ‘steel grass’ turns the amste",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/steel-grass-aerosculpture-synergy-art-festival-designboom-FB-1.jpg",
       "today": true
     },
     {
@@ -302,26 +322,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/useless-path-labyrinths-disorientation-play-maze-spiral-jetty-borges/",
       "excerpt": "from spiral jetty to plant mazes, labyrinths show us the pleasure of getting nowhere.\nThe post in praise of the useless path: how labyrinths turn disorientation into play appeared first on designboom ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/labyrinths-play-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "This New York artist uses real human blood to interrogate sexuality, belonging and baseball fandom",
-      "url": "https://www.wallpaper.com/art/jordan-eagles-bases-loaded-pioneer-works-brooklyn",
-      "excerpt": "In 'Bases Loaded,' now on view at Pioneer Works in Brooklyn, Jordan Eagles blends his love of the Mets with the politics of blood donation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XVXDc9inxpcbcXVAFU9KSA-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.17",
-      "title": "with a ‘blowhard (trump-eter)’ clown, pat oleszko wins whitney biennial’s bucksbaum award",
-      "url": "https://www.designboom.com/art/blowhard-trumpeter-clown-pat-oleszko-wins-whitney-biennials-bucksbaum-award/",
-      "excerpt": "for five decades of artistic mischief and inflatable absurdity, the american artist wins the whitney's 2026 bucksbaum award.\nThe post with a ‘blowhard (trump-eter)’ clown, pat oleszko wins whitney bie",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pat-oleszko-whitney-biennial-bucksbaum-award-designboom-FB.jpg",
       "today": false
     },
     {
