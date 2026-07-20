@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  17:55",
+  "fetchedAt": "2026.07.20  19:37",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -215,6 +215,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.20",
+      "title": "Mercado Central / Tadu Arquitetura",
+      "url": "https://www.archdaily.com/1148943/mercado-central-tadu-arquitetura",
+      "excerpt": "Mercado Central: heritage, culture, and new uses in downtown Rio. Housed in a complex of five historic buildings that once home to the first Granado factory, opened in 1903, Mercado Central is born fr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/23d7/d425/1a00/01c4/bc00/large_jpg/Tadu_MercadoCentral_16.jpg?1784226816",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
       "title": "De Jonghe Residence Restoration / Michel Architects",
       "url": "https://www.archdaily.com/1181271/de-jonghe-residence-restoration-michel-architects",
       "excerpt": "Designed by Lloyd Wright in 1959, the De Jonghe Residence sits in the hills of Los Angeles with a quiet authority. Board-formed concrete, deep overhangs, and a landscape that was always intended to be",
@@ -326,16 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148744/limmattal-cantonal-school-penzisbettini-architekten",
       "excerpt": "The new extensions expand the existing school with an auditorium, sports halls, science classrooms, and a canteen. The new volumes read as \"pearls on a string\"—similar in form but varied in height, st",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/9274/2755/8a00/0164/ac24/large_jpg/260427_PBA_Urdorf_027_federicofarinatti.jpg?1784124047",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Reflections from UIA 2026 Barcelona about the Future of the Built Environment",
-      "url": "https://www.archdaily.com/1148799/reflections-from-uia-2026-barcelona-about-the-future-of-the-built-environment",
-      "excerpt": "As the UIA World Congress of Architects 2026 came to a close in Barcelona, one message resurfaced across debates, exhibitions, talks, and conversations alike: the future of architecture will depend le",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b96f/e6cb/4501/8871/261b/large_jpg/what-uia-2026-barcelona-revealed-about-the-future-of-the-built-environment_16.jpg?1784199542",
       "today": true
     },
     {
