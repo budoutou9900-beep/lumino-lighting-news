@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  02:28",
+  "fetchedAt": "2026.07.20  06:12",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,31 +13,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Newscast.jp": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,37 +45,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -107,16 +103,6 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.20",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -154,6 +140,37 @@ window.LUMINO_DATA = {
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "In London, play mini golf designed by Miranda July and Danielle Brathwaite-Shirley",
+      "url": "https://www.wallpaper.com/art/in-london-play-mini-golf-designed-by-miranda-july-and-danielle-brathwaite-shirley",
+      "excerpt": "'The Art of Mini Golf' at Battersea Arts Centre asks nine artists to interpret mini golf's subversive history",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nhanok3pZ4E4LE6qjA6fsG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "gabled timber volumes weave sanctum cabin retreat into the lithuanian forest",
+      "url": "https://www.designboom.com/architecture/gabled-timber-volumes-sanctum-cabin-retreat-lithuanian-forest-studio-arches/",
+      "excerpt": "pathways, courtyards, and timber volumes integrate architecture with the woodland landscape.\nThe post gabled timber volumes weave sanctum cabin retreat into the lithuanian forest appeared first on des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gabled-timber-volumes-sanctum-cabin-retreat-lithuania-studio-arches-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Green Heart Commercial Complex & A4X Art Center / E PLUS DESIGN",
+      "url": "https://www.archdaily.com/1148710/green-heart-commercial-complex-and-a4x-art-center-e-plus-design",
+      "excerpt": "At LUXERIVERS in Chongqing, the Green Heart commercial complex and the A4X Art Center, conceived by E+UV, emerges as an iconic park-integrated destination upon opening. Rooted in the concept of \"a bou",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/33f6/93aa/2d01/8c25/462d/large_jpg/green-heart-commercial-complex-and-a4x-art-center-e-plus-design_42.jpg?1784099840",
       "today": true
     },
     {
@@ -164,6 +181,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/a-perfect-pair-of-range-rovers-old-and-new-showcases-a-commitment-to-bespoke-design",
       "excerpt": "The Range Rover Classic Matched Pair combines a contemporary Range Rover SV Ultra with a thoroughly overhauled 1993 Range Rover County Edition. We take a look inside",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T7YgrVZTJtdYFUCdbvHGwX-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.19",
+      "title": "Urban Egg Mixed Use Facility / U.GA Architects",
+      "url": "https://www.archdaily.com/1148897/urban-egg-mixed-use-facility-uga-architects",
+      "excerpt": "Busan's Jeonpo-dong was once an industrial alley defined by the mechanical hum and the friction of metal. Over time, glass facades replaced steel shutters, and a new sentiment layered over the past, t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/5ae8/3d21/f701/89c9/2d8d/large_jpg/urban-egg-mixed-use-facility-uga-architects_20.jpg?1784306412",
       "today": false
     },
     {
@@ -225,16 +252,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Humaitá Penthouse / Huma Arquitetura",
-      "url": "https://www.archdaily.com/1148904/humaita-penthouse-huma-arquitetura",
-      "excerpt": "To accommodate the daily routine of a young actress and theater director, HUMA developed the design for this penthouse in Rio de Janeiro. From the very first conversations, the resident expressed her ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/32f4/d425/1a00/01c4/b83b/large_jpg/Leila_Viegas_HUMA-7674.jpg?1784165300",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.19",
@@ -242,16 +259,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/ferrari-luce-chassis-0-rm-sothebys-sale",
       "excerpt": "Ferrari Luce Chassis 0 has been given the Ferrari Tailor Made treatment, creating this uniquely sensual white-on-white car",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/okvFMDPpSazBLkvdcMujYK-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Fire Station and Community Hall Mötz / Imgang Architekten",
-      "url": "https://www.archdaily.com/1148649/fire-station-and-community-hall-motz-imgang-architekten",
-      "excerpt": "The Mötz Fire and Community Hall brings together a diverse range of civic and community functions within a single, compact building. It accommodates a fire station, a public library, the district arch",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/1c2e/6336/c000/010f/b9dd/large_jpg/HR-Feuerwehr-Moetz-ImGangArchitekten-Foto__GuenterRichardWETT-068c.jpg?1784028259",
       "today": false
     },
     {
@@ -302,16 +309,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
-      "url": "https://www.wallpaper.com/design-interiors/remembering-teruo-kurosaki-idee-aoyama-founder",
-      "excerpt": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wSYMpZKmrquLnjkYBnnGZg-1920-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.19",
@@ -339,16 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen/",
       "excerpt": "eight swings suspended beneath antique church bells transform the courtyard of frac normandie into a participatory soundscape.\nThe post céleste boursier-mougenot composes music through a ring of swing",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "e-tattoos: what if a fierce shark and a shy tiger could monitor your health?",
-      "url": "https://www.designboom.com/technology/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on/",
-      "excerpt": "these colorful electronic tattoos turn painted body art into sensors for your heart, muscles, and brain\nThe post e-tattoos: what if a fierce shark and a shy tiger could monitor your health? appeared f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on-designboom-08.jpg",
       "today": false
     },
     {
