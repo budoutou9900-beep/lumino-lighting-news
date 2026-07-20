@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  15:07",
+  "fetchedAt": "2026.07.20  17:55",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -61,9 +61,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -139,6 +147,54 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
+      "title": "new images document mecanoo’s geological natural history museum abu dhabi",
+      "url": "https://www.designboom.com/architecture/new-images-mecanoo-geological-natural-history-museum-abu-dhabi-uae/",
+      "excerpt": "carved concrete volumes and deep skylights turn the saadiyat museum into an inhabitable extension of the surrounding terrain.\nThe post new images document mecanoo’s geological natural history museum a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mecanoo-natural-history-museum-abu-dhabi-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "BIG stacks classrooms and pitched roofs across two new madrid university buildings",
+      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-madrid-university-francisco-vitoria-two-buildings-spain/",
+      "excerpt": "bjarke ingels group / BIG designs two new buildings for universidad francisco de vitoria near madrid, spain.\nThe post BIG stacks classrooms and pitched roofs across two new madrid university buildings",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bjarke-ingels-group-two-buildings-francisco-de-vitoria-university-madrid-spain-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Converse’s collaboration with Aries’ No Problemo is inspired by 1970s sci-fi and UFOs",
+      "url": "https://www.wallpaper.com/fashion-beauty/no-problemo-aries-collaboration-sneakers",
+      "excerpt": "Converse is collaborating with London No Problemo – an offshoot of cult London streetwear brand Aries – on a pair of Chuck 70s featuring alien motifs and nods to  ‘The X-Files’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KGYg76EMnpwSdcDfqHGDZj-1799-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Hotel in former New York City train terminal among projects from Pratt Institute",
+      "url": "https://www.dezeen.com/2026/07/20/hotel-new-york-city-train-terminal-projects-pratt-institute-schoolshows/",
+      "excerpt": "Dezeen School Shows: a hotel located in a former railway station in New York City is among the projects from students at Pratt Institute. Also featured is a wellbeing space that highlights existing wa",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Tottenham Hotspur Stadium by Populous \"democratised the stadium experience\"",
+      "url": "https://www.dezeen.com/2026/07/20/tottenham-hotspur-stadium-populous/",
+      "excerpt": "Continuing our Future Stadium series, we take a look at Tottenham Hotspur Stadium in London, where Populous aimed to innovate the stadium typology with a multifunctional design that prioritised the fa",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
       "title": "timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse",
       "url": "https://www.designboom.com/architecture/timber-curves-crafted-details-dhaus-spatial-narrative-nanjing-townhouse-mendong/",
       "excerpt": "DHaus blends craftsmanship, sculptural form, and spatial choreography into a contemporary home.\nThe post timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse app",
@@ -153,6 +209,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/best-mallorca-hotels",
       "excerpt": "Mallorca is in the path of totality for the 2026 solar eclipse – and its hotels are ready with boats, rooftops and clifftop dinners",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VzZTgiWWyGztAL6y7VBX3c-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "De Jonghe Residence Restoration / Michel Architects",
+      "url": "https://www.archdaily.com/1181271/de-jonghe-residence-restoration-michel-architects",
+      "excerpt": "Designed by Lloyd Wright in 1959, the De Jonghe Residence sits in the hills of Los Angeles with a quiet authority. Board-formed concrete, deep overhangs, and a landscape that was always intended to be",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1112/895c/1800/0111/7cf7/large_jpg/SeanHazen_1.jpg?1784549690",
       "today": true
     },
     {
@@ -204,6 +270,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Stadtforum in Dresden / Tchoban Voss Architekten",
+      "url": "https://www.archdaily.com/1148794/stadtforum-in-dresden-tchoban-voss-architekten",
+      "excerpt": "During redevelopment of the area around the historical Ferdinandplatz in the center of Dresden, the first prize in a design competition held for Stadtforum, the city's new administrative center, was w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/a38f/d425/1a00/01c4/b9df/large_jpg/6867_Stadtforum_Dresden_125119_c_Klemens_Renner.jpg?1784194083",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -211,16 +287,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
       "excerpt": "customers and florists share one continuous space organized around the bouquet-making process\nThe post colorful furnishings and raw textures animate an open-plan flower shop appeared first on designbo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467043/2026-07-09/the-shop-vesnaflowers-4-6a4fef19eead8.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "MVRDV wraps urban revivo’s beijing flagship in color-shifting roof tile facade",
-      "url": "https://www.designboom.com/architecture/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade/",
-      "excerpt": "behind the iridescent facade, MVRDV develops a sequence of spaces shaped by moon gates, evolving geometric openings, and six thematic ‘bold rooms.’\nThe post MVRDV wraps urban revivo’s beijing flagship",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade-designboom-1200.jpg",
       "today": true
     },
     {
@@ -240,26 +306,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/1970s-apartment-athens-greece",
       "excerpt": "An apartment by Georgios Apostolopoulos Architects features a fluid interior shaped by movement and light, set within a landmark circular residential block to the north of the city",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K7KaBVVkXd2X6JytLMfZ56-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Britain’s motorway infrastructure serves as subject matter for artist Jen Orpin’s monograph",
-      "url": "https://www.wallpaper.com/art/the-architecture-of-connection-jen-orpin-the-modernist-society-review",
-      "excerpt": "The Modernist Society’s new book ‘The Architecture of Connection’ finds melancholic beauty in the prosaic architecture of the motorway system, as chronicled with care by painter Jen Orpin",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DWDZApp3UQ9pBhz8svsGkW-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "cork, canvas, and lunar rover cues shape this electric beach buggy ‘amble one’",
-      "url": "https://www.designboom.com/technology/cork-canvas-lunar-rover-electric-beach-buggy-amble-one/",
-      "excerpt": "designed by apple and audi alumni, amble one strips the EV down to a lightweight, street legal buggy for beachy, short-range travel.\nThe post cork, canvas, and lunar rover cues shape this electric bea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/amble-one-EV-beach-buggy-designboom-FB.jpg",
       "today": true
     },
     {
@@ -291,44 +337,6 @@ window.LUMINO_DATA = {
       "excerpt": "As the UIA World Congress of Architects 2026 came to a close in Barcelona, one message resurfaced across debates, exhibitions, talks, and conversations alike: the future of architecture will depend le",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b96f/e6cb/4501/8871/261b/large_jpg/what-uia-2026-barcelona-revealed-about-the-future-of-the-built-environment_16.jpg?1784199542",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "The Architecture of the FIFA World Cup: Looking Back at 2026 and Ahead to 2030",
-      "url": "https://www.archdaily.com/1181248/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030",
-      "excerpt": "The conclusion of the FIFA World Cup 2026 marks the end of the tournament's largest edition to date. Hosted across Canada, Mexico, and the United States, the competition expanded to 48 national teams ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e774/e8f5/cb01/8987/a951/large_jpg/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030_1.jpg?1784539003",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Hotel Aurora / feld72",
-      "url": "https://www.archdaily.com/1148864/hotel-aurora-feld72-architekten-zt-gmbh",
-      "excerpt": "Hotel Aurora stands in Merano, a nineteenth-century spa town shaped by hotels, villas, and promenades along the Passer River. Despite changing architectural languages, the city has preserved its disti",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/2887/3d21/f701/89c9/2c0e/large_jpg/hotel-aurora-feld72-architekten-zt-gmbh_35.jpg?1784293544",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Ortega Diago creates Brutalist changing rooms for San Sebastian factory",
-      "url": "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
-      "excerpt": "Architecture studio Ortega Diago has transformed part of a warehouse in San Sebastian, Spain, into a locker room and changing facility for more than 100 factory workers. The studio founded by Gonzalo ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Japanese port town regeneration among projects from Singapore University of Technology and Design",
-      "url": "https://www.dezeen.com/2026/07/19/japanese-port-town-regeneration-singapore-university-technology-design-schoolshows/",
-      "excerpt": "Dezeen School Shows: a proposal to reimagine the historic Japanese port town of Tomonoura is among the projects from the Singapore University of Technology and Design. Also featured is a project explo",
-      "today": false
     },
     {
       "source": "遠藤照明",
@@ -431,6 +439,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -461,6 +479,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -468,6 +526,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -498,6 +566,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
