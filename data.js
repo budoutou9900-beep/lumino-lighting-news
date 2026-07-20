@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  21:06",
+  "fetchedAt": "2026.07.20  22:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -147,10 +147,30 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
+      "title": "jello lamp freezes the soft wobble of gelatin desserts into 3D printed sculptural table light",
+      "url": "https://www.designboom.com/design/jello-lamp-freezes-the-soft-wobble-of-gelatin-desserts-into-3d-printed-sculptural-table-light/",
+      "excerpt": "MAJU transforms the fleeting forms of jello and balloon sculptures into a sculptural table light with softly scalloped, translucent surfaces produced through plant-based 3D printing.\nThe post jello la",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jello-lamp-maju-3d-printed-sculptural-table-light-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
       "title": "new images document mecanoo’s geological natural history museum abu dhabi",
       "url": "https://www.designboom.com/architecture/new-images-mecanoo-geological-natural-history-museum-abu-dhabi-uae/",
       "excerpt": "carved concrete volumes and deep skylights turn the saadiyat museum into an inhabitable extension of the surrounding terrain.\nThe post new images document mecanoo’s geological natural history museum a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mecanoo-natural-history-museum-abu-dhabi-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Nana House / Daniel Fromer",
+      "url": "https://www.archdaily.com/1148951/nana-house-daniel-fromer",
+      "excerpt": "Located in southern Bahia, on a plot rich in native vegetation, the house integrates harmoniously into the landscape, shaped by the existing trees — such as almond, palm, and coconut trees. Its design",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/880b/e8f5/cb7b/7a8b/faae/large_jpg/casa-nana-daniel-fromer_3.jpg?1784317984",
       "today": true
     },
     {
@@ -180,6 +200,16 @@ window.LUMINO_DATA = {
       "title": "Hotel in former New York City train terminal among projects from Pratt Institute",
       "url": "https://www.dezeen.com/2026/07/20/hotel-new-york-city-train-terminal-projects-pratt-institute-schoolshows/",
       "excerpt": "Dezeen School Shows: a hotel located in a former railway station in New York City is among the projects from students at Pratt Institute. Also featured is a wellbeing space that highlights existing wa",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Kul-Nosara Residences / QBO3 Arquitectos",
+      "url": "https://www.archdaily.com/1181244/kul-nosara-qbo3-arquitectos",
+      "excerpt": "Nestled within the mountainous landscape of Nosara, Costa Rica, KUL Nosara is a residential development composed of two contemporary tropical beach houses that carefully respond to the site's steep to",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/dce7/895c/1800/0111/7b38/large_jpg/KUL-DAILY___3_.jpg?1784536316",
       "today": true
     },
     {
@@ -290,16 +320,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "colorful furnishings and raw textures animate an open-plan flower shop",
-      "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
-      "excerpt": "customers and florists share one continuous space organized around the bouquet-making process\nThe post colorful furnishings and raw textures animate an open-plan flower shop appeared first on designbo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467043/2026-07-09/the-shop-vesnaflowers-4-6a4fef19eead8.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -316,26 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/1970s-apartment-athens-greece",
       "excerpt": "An apartment by Georgios Apostolopoulos Architects features a fluid interior shaped by movement and light, set within a landmark circular residential block to the north of the city",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K7KaBVVkXd2X6JytLMfZ56-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Building to Teach: 15 Schools That Explore Timber as a Primary Material",
-      "url": "https://www.archdaily.com/1053991/building-to-teach-15-schools-that-explore-timber-as-a-primary-material",
-      "excerpt": "Over the past decades, timber has expanded its presence in contemporary architecture—driven both by the development of new construction technologies and by the rediscovery of traditional building tech",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/e2f4/c1bc/ef01/88fc/e3c6/large_jpg/construir-para-ensinar-15-escolas-que-exploram-a-madeira-como-elemento-principal_23.jpg?1783030542",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Limmattal Cantonal School / PENZISBETTINI Architekten",
-      "url": "https://www.archdaily.com/1148744/limmattal-cantonal-school-penzisbettini-architekten",
-      "excerpt": "The new extensions expand the existing school with an auditorium, sports halls, science classrooms, and a canteen. The new volumes read as \"pearls on a string\"—similar in form but varied in height, st",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/9274/2755/8a00/0164/ac24/large_jpg/260427_PBA_Urdorf_027_federicofarinatti.jpg?1784124047",
       "today": true
     },
     {
