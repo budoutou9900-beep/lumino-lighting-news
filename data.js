@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  06:12",
+  "fetchedAt": "2026.07.20  09:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -144,6 +144,65 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "MVRDV wraps urban revivo’s beijing flagship in color-shifting roof tile facade",
+      "url": "https://www.designboom.com/architecture/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade/",
+      "excerpt": "behind the iridescent facade, MVRDV develops a sequence of spaces shaped by moon gates, evolving geometric openings, and six thematic ‘bold rooms.’\nThe post MVRDV wraps urban revivo’s beijing flagship",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "colorful furnishings and raw textures animate an open-plan flower shop",
+      "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
+      "excerpt": "customers and florists share one continuous space organized around the bouquet-making process\nThe post colorful furnishings and raw textures animate an open-plan flower shop appeared first on designbo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467043/2026-07-09/the-shop-vesnaflowers-4-6a4fef19eead8.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Vector Architects reject “white cube” design for Aranya Art Center Guangzhou",
+      "url": "https://www.dezeen.com/2026/07/20/vector-architects-aranya-art-center-guangzhou/",
+      "excerpt": "Architecture studio Vector Architects has arranged a cluster of art galleries around a preserved Banyan tree canopy near Guangzhou, China. Developed for Aranya Jiulong Lake, a holiday retreat near Jiu",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Disappearing rooms and clever storage transform a 1970s apartment in Athens",
+      "url": "https://www.wallpaper.com/architecture/residential/1970s-apartment-athens-greece",
+      "excerpt": "An apartment by Georgios Apostolopoulos Architects features a fluid interior shaped by movement and light, set within a landmark circular residential block to the north of the city",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K7KaBVVkXd2X6JytLMfZ56-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Britain’s motorway infrastructure serves as subject matter for artist Jen Orpin’s monograph",
+      "url": "https://www.wallpaper.com/art/the-architecture-of-connection-jen-orpin-the-modernist-society-review",
+      "excerpt": "The Modernist Society’s new book ‘The Architecture of Connection’ finds melancholic beauty in the prosaic architecture of the motorway system, as chronicled with care by painter Jen Orpin",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DWDZApp3UQ9pBhz8svsGkW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "cork, canvas, and lunar rover cues shape this electric beach buggy ‘amble one’",
+      "url": "https://www.designboom.com/technology/cork-canvas-lunar-rover-electric-beach-buggy-amble-one/",
+      "excerpt": "designed by apple and audi alumni, amble one strips the EV down to a lightweight, street legal buggy for beachy, short-range travel.\nThe post cork, canvas, and lunar rover cues shape this electric bea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/amble-one-EV-beach-buggy-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -154,6 +213,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Ortega Diago creates Brutalist changing rooms for San Sebastian factory",
+      "url": "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
+      "excerpt": "Architecture studio Ortega Diago has transformed part of a warehouse in San Sebastian, Spain, into a locker room and changing facility for more than 100 factory workers. The studio founded by Gonzalo ",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -161,6 +229,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gabled-timber-volumes-sanctum-cabin-retreat-lithuanian-forest-studio-arches/",
       "excerpt": "pathways, courtyards, and timber volumes integrate architecture with the woodland landscape.\nThe post gabled timber volumes weave sanctum cabin retreat into the lithuanian forest appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gabled-timber-volumes-sanctum-cabin-retreat-lithuania-studio-arches-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "A Courtyard House / Office MI—JI",
+      "url": "https://www.archdaily.com/1148815/a-courtyard-house-office-mi-ji",
+      "excerpt": "A new house on a large block, this residence brings the garden inside. Through a planimetric arrangement that separates the differing living styles of its occupants and their loved ones, the house all",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/d38a/d58c/e001/8885/0061/large_jpg/a-courtyard-house-office-mi-ji_30.jpg?1784206308",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Splitscape Residence / SpaceDNA",
+      "url": "https://www.archdaily.com/1148884/splitscape-residence-spacedna",
+      "excerpt": "Splitscape Residence explores how section, rather than plan, can become the primary design tool for creating spatial generosity within the constraints of a compact urban site. Located in Coimbatore, I",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/0fca/895c/1800/0111/76e9/large_jpg/01_._Southern_Elevation.jpg?1784287267",
       "today": true
     },
     {
@@ -232,26 +320,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Casa Libertad / Clusellas Ades",
-      "url": "https://www.archdaily.com/1148881/casa-libertad-clusellas-ades",
-      "excerpt": "The project develops a version of a suburban house that distances itself from the limitations traditionally associated with a lot between party walls. To achieve this, it steps away from them, observe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/042b/e8f5/cb01/8987/a34d/large_jpg/casa-libertad-clusellas-ades_3.jpg?1784284234",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Illapangui del Peumo House / Vergara Arquitectos",
-      "url": "https://www.archdaily.com/1148926/illapangui-del-peumo-house-vergara-arquitectos",
-      "excerpt": "The Illapangui del Peumo House organizes its program around an open courtyard street that, positioned perpendicular to the horizon, frames a view of the sea upon opening and establishes the spatial lo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a26/bb08/d2d3/6e00/0102/f3f8/large_jpg/01-ignacio_infante.jpg?1780923174",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.19",
@@ -268,74 +336,6 @@ window.LUMINO_DATA = {
       "title": "Tokyo Ballet House combines ballet studio and home",
       "url": "https://www.dezeen.com/2026/07/19/tokyo-ballet-house-kenta-sano-associates-architects-japan-dance-studio/",
       "excerpt": "Japanese studio Kenta Sano & Associates has completed a four-storey building in Tokyo that that has a glass-fronted dance studio on its lower floors and a house on top. Designed for owners who ran a b",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "All 23 stadiums set to host the 2030 World Cup",
-      "url": "https://www.dezeen.com/2026/07/19/2030-world-cup-stadiums-future-stadium/",
-      "excerpt": "With the 2026 FIFA World Cup reaching its conclusion and in keeping with our Future Stadium series, we've rounded up all the stadiums set to host matches at the 2030 World Cup, which will be played ac",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Architect Carlo Ratti on why the pedalò is the most democratic vessel in the Mediterranean",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-the-pedalo-objectify-italian-summer",
-      "excerpt": "The fifth instalment of the architect's series, 'Objectify,' investigates how the pedalò shows that 'form follows fun'",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hDumFduPTkj4KL9aXBMG2W-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "The Prix Pictet's next photography prize will explore the jungle",
-      "url": "https://www.wallpaper.com/art/photography/the-prix-pictets-next-photography-prize-will-explore-the-jungle",
-      "excerpt": "The internationally renowned photography award has unveiled 'Jungle' as the theme for its twelfth cycle, inviting photographers to respond to one of the planet's most vital ecosystems",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UB43qf3UtEYRVo5JXmPCUm-2500-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "YSG evokes Mojave desert for warehouse conversion in Sydney",
-      "url": "https://www.dezeen.com/2026/07/19/cinderella-house-ysg-redfern-sydney-australia/",
-      "excerpt": "Australian interiors studio YSG has converted a historic warehouse in Sydney into a modern co-working space. Located in the inner-city suburb of Redfern, the 387-square-metre corner property was built",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "aérosculpture’s kinetic ‘steel grass’ turns the amsterdam breeze into a shifting metallic field",
-      "url": "https://www.designboom.com/art/aerosculptures-kinetic-steel-grass-turns-the-amsterdam-breeze-into-a-shifting-metallic-field/",
-      "excerpt": "a cluster of slender metallic forms by aérosculpture collective rises from the grounds of synergy art festival in thin, gleaming strands.\nThe post aérosculpture’s kinetic ‘steel grass’ turns the amste",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/steel-grass-aerosculpture-synergy-art-festival-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "BIGX super sports playground shapes a digital landscape through steel, light, and color",
-      "url": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
-      "excerpt": "digital blue establishes a continuous visual field across the interior, while signal orange highlights key points of movement and interaction.\nThe post BIGX super sports playground shapes a digital la",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.18",
-      "title": "céleste boursier-mougenot composes music through a ring of swings and bells",
-      "url": "https://www.designboom.com/art/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen/",
-      "excerpt": "eight swings suspended beneath antique church bells transform the courtyard of frac normandie into a participatory soundscape.\nThe post céleste boursier-mougenot composes music through a ring of swing",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen-designboom-1200.jpg",
       "today": false
     },
     {
