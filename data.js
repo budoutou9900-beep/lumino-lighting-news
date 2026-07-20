@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  12:13",
+  "fetchedAt": "2026.07.20  15:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -61,17 +61,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -144,6 +136,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse",
+      "url": "https://www.designboom.com/architecture/timber-curves-crafted-details-dhaus-spatial-narrative-nanjing-townhouse-mendong/",
+      "excerpt": "DHaus blends craftsmanship, sculptural form, and spatial choreography into a contemporary home.\nThe post timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/timber-curves-crafted-details-dhaus-nanjing-townhouse-interior-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "The best Mallorca hotels for watching the 2026 total solar eclipse",
+      "url": "https://www.wallpaper.com/travel/hotels/best-mallorca-hotels",
+      "excerpt": "Mallorca is in the path of totality for the 2026 solar eclipse – and its hotels are ready with boats, rooftops and clifftop dinners",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VzZTgiWWyGztAL6y7VBX3c-1600-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -195,20 +207,20 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
-      "title": "MVRDV wraps urban revivo’s beijing flagship in color-shifting roof tile facade",
-      "url": "https://www.designboom.com/architecture/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade/",
-      "excerpt": "behind the iridescent facade, MVRDV develops a sequence of spaces shaped by moon gates, evolving geometric openings, and six thematic ‘bold rooms.’\nThe post MVRDV wraps urban revivo’s beijing flagship",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade-designboom-1200.jpg",
+      "title": "colorful furnishings and raw textures animate an open-plan flower shop",
+      "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
+      "excerpt": "customers and florists share one continuous space organized around the bouquet-making process\nThe post colorful furnishings and raw textures animate an open-plan flower shop appeared first on designbo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467043/2026-07-09/the-shop-vesnaflowers-4-6a4fef19eead8.jpg",
       "today": true
     },
     {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
-      "title": "colorful furnishings and raw textures animate an open-plan flower shop",
-      "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
-      "excerpt": "customers and florists share one continuous space organized around the bouquet-making process\nThe post colorful furnishings and raw textures animate an open-plan flower shop appeared first on designbo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467043/2026-07-09/the-shop-vesnaflowers-4-6a4fef19eead8.jpg",
+      "title": "MVRDV wraps urban revivo’s beijing flagship in color-shifting roof tile facade",
+      "url": "https://www.designboom.com/architecture/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade/",
+      "excerpt": "behind the iridescent facade, MVRDV develops a sequence of spaces shaped by moon gates, evolving geometric openings, and six thematic ‘bold rooms.’\nThe post MVRDV wraps urban revivo’s beijing flagship",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mvrdv-urban-revivo-beijing-flagship-color-shifting-roof-tile-facade-designboom-1200.jpg",
       "today": true
     },
     {
@@ -254,6 +266,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.20",
+      "title": "Building to Teach: 15 Schools That Explore Timber as a Primary Material",
+      "url": "https://www.archdaily.com/1053991/building-to-teach-15-schools-that-explore-timber-as-a-primary-material",
+      "excerpt": "Over the past decades, timber has expanded its presence in contemporary architecture—driven both by the development of new construction technologies and by the rediscovery of traditional building tech",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a46/e2f4/c1bc/ef01/88fc/e3c6/large_jpg/construir-para-ensinar-15-escolas-que-exploram-a-madeira-como-elemento-principal_23.jpg?1783030542",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
       "title": "Limmattal Cantonal School / PENZISBETTINI Architekten",
       "url": "https://www.archdaily.com/1148744/limmattal-cantonal-school-penzisbettini-architekten",
       "excerpt": "The new extensions expand the existing school with an auditorium, sports halls, science classrooms, and a canteen. The new volumes read as \"pearls on a string\"—similar in form but varied in height, st",
@@ -284,30 +306,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.20",
-      "title": "Hotel Aurora /  feld72 Architekten ZT GmbH",
+      "title": "Hotel Aurora / feld72",
       "url": "https://www.archdaily.com/1148864/hotel-aurora-feld72-architekten-zt-gmbh",
       "excerpt": "Hotel Aurora stands in Merano, a nineteenth-century spa town shaped by hotels, villas, and promenades along the Passer River. Despite changing architectural languages, the city has preserved its disti",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/2887/3d21/f701/89c9/2c0e/large_jpg/hotel-aurora-feld72-architekten-zt-gmbh_35.jpg?1784293544",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "In London, play mini golf designed by Miranda July and Danielle Brathwaite-Shirley",
-      "url": "https://www.wallpaper.com/art/in-london-play-mini-golf-designed-by-miranda-july-and-danielle-brathwaite-shirley",
-      "excerpt": "'The Art of Mini Golf' at Battersea Arts Centre asks nine artists to interpret mini golf's subversive history",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nhanok3pZ4E4LE6qjA6fsG-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Selldorf Architects Unveils Design for Clark Art Institute Extension in Massachusetts",
-      "url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
-      "excerpt": "The Clark Art Institute, a prominent art institution located in the Berkshires of western Massachusetts, United States, has unveiled images of the design for the extension of its current facilities. T",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/79db/3d21/f701/89c9/2e31/large_jpg/selldorf-architects-and-reed-hilderbrand-to-design-new-wing-for-the-clark-art-institute_4.jpg?1784314524",
       "today": true
     },
     {
@@ -317,16 +319,6 @@ window.LUMINO_DATA = {
       "title": "Ortega Diago creates Brutalist changing rooms for San Sebastian factory",
       "url": "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
       "excerpt": "Architecture studio Ortega Diago has transformed part of a warehouse in San Sebastian, Spain, into a locker room and changing facility for more than 100 factory workers. The studio founded by Gonzalo ",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "gabled timber volumes weave sanctum cabin retreat into the lithuanian forest",
-      "url": "https://www.designboom.com/architecture/gabled-timber-volumes-sanctum-cabin-retreat-lithuanian-forest-studio-arches/",
-      "excerpt": "pathways, courtyards, and timber volumes integrate architecture with the woodland landscape.\nThe post gabled timber volumes weave sanctum cabin retreat into the lithuanian forest appeared first on des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gabled-timber-volumes-sanctum-cabin-retreat-lithuania-studio-arches-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -439,16 +431,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -479,46 +461,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -526,16 +468,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -566,16 +498,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
