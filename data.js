@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  09:54",
+  "fetchedAt": "2026.07.20  12:13",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -144,6 +144,54 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Breitling’s partnership with Aston Martin gets off to a flying start with the Top Time Tribute",
+      "url": "https://www.wallpaper.com/watches-jewellery/contemporary-watches/breitling-top-time-b01-chronograph-41-tribute-to-aston-martin-db5",
+      "excerpt": "An edition of three watches inspired by the Aston Martin DB5, the Top Time B01 Chronograph 41 bridges generations with a mix of classic style and contemporary technology",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eMNJJy4kByJLuc3y8n2HQn-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "How Soft Geometry's work reflects its founders' Indian legacy",
+      "url": "https://www.wallpaper.com/design-interiors/how-soft-geometrys-work-reflects-its-founders-indian-legacy",
+      "excerpt": "Based in LA, design studio Soft-Geometry's work embodies its founders memories of home in India, at the same time 'uncovering the underlying philosophies and natural behaviours that inform subcultures",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PqQnkSFwMxAPocrMMJwnT9-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "children’s drawings turn into playful makeup looks in ‘draw me a face’ project",
+      "url": "https://www.designboom.com/art/draw-me-a-face-childrens-imagination-playful-makeup/",
+      "excerpt": "the collaborative experiment suggests that some of the most original ideas take shape before we learn the rules of beauty, proportion, or perfection.\nThe post children’s drawings turn into playful mak",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/draw-me-a-face-childrens-imagination-playful-makeup01.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "YN Studio extends London home around light-filled stairwell",
+      "url": "https://www.dezeen.com/2026/07/20/yn-studio-tile-house/",
+      "excerpt": "Recycled plastic tiles that mimic natural slate cloak a dormer extension at this terraced home in London, which has been updated and expanded by local practice YN Studio. Named Tile House, the Victori",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Andrea Ferro photographs Dakar's under-threat bubble houses",
+      "url": "https://www.dezeen.com/2026/07/20/dakar-bubble-houses-andrea-ferro/",
+      "excerpt": "Italian photographer Andrea Ferro has documented the remaining 1950s bubble houses in Dakar, Senegal, as they face increasing threats of demolition. Ferro decided to document the concrete-dome homes –",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -167,7 +215,7 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.20",
-      "title": "Vector Architects reject “white cube” design for Aranya Art Center Guangzhou",
+      "title": "Vector Architects rejects \"white cube\" design for Aranya Art Center Guangzhou",
       "url": "https://www.dezeen.com/2026/07/20/vector-architects-aranya-art-center-guangzhou/",
       "excerpt": "Architecture studio Vector Architects has arranged a cluster of art galleries around a preserved Banyan tree canopy near Guangzhou, China. Developed for Aranya Jiulong Lake, a holiday retreat near Jiu",
       "today": true
@@ -203,6 +251,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Limmattal Cantonal School / PENZISBETTINI Architekten",
+      "url": "https://www.archdaily.com/1148744/limmattal-cantonal-school-penzisbettini-architekten",
+      "excerpt": "The new extensions expand the existing school with an auditorium, sports halls, science classrooms, and a canteen. The new volumes read as \"pearls on a string\"—similar in form but varied in height, st",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/9274/2755/8a00/0164/ac24/large_jpg/260427_PBA_Urdorf_027_federicofarinatti.jpg?1784124047",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Reflections from UIA 2026 Barcelona about the Future of the Built Environment",
+      "url": "https://www.archdaily.com/1148799/reflections-from-uia-2026-barcelona-about-the-future-of-the-built-environment",
+      "excerpt": "As the UIA World Congress of Architects 2026 came to a close in Barcelona, one message resurfaced across debates, exhibitions, talks, and conversations alike: the future of architecture will depend le",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b96f/e6cb/4501/8871/261b/large_jpg/what-uia-2026-barcelona-revealed-about-the-future-of-the-built-environment_16.jpg?1784199542",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "The Architecture of the FIFA World Cup: Looking Back at 2026 and Ahead to 2030",
+      "url": "https://www.archdaily.com/1181248/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030",
+      "excerpt": "The conclusion of the FIFA World Cup 2026 marks the end of the tournament's largest edition to date. Hosted across Canada, Mexico, and the United States, the competition expanded to 48 national teams ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e774/e8f5/cb01/8987/a951/large_jpg/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030_1.jpg?1784539003",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Hotel Aurora /  feld72 Architekten ZT GmbH",
+      "url": "https://www.archdaily.com/1148864/hotel-aurora-feld72-architekten-zt-gmbh",
+      "excerpt": "Hotel Aurora stands in Merano, a nineteenth-century spa town shaped by hotels, villas, and promenades along the Passer River. Despite changing architectural languages, the city has preserved its disti",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/2887/3d21/f701/89c9/2c0e/large_jpg/hotel-aurora-feld72-architekten-zt-gmbh_35.jpg?1784293544",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -210,6 +298,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/in-london-play-mini-golf-designed-by-miranda-july-and-danielle-brathwaite-shirley",
       "excerpt": "'The Art of Mini Golf' at Battersea Arts Centre asks nine artists to interpret mini golf's subversive history",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nhanok3pZ4E4LE6qjA6fsG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Selldorf Architects Unveils Design for Clark Art Institute Extension in Massachusetts",
+      "url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
+      "excerpt": "The Clark Art Institute, a prominent art institution located in the Berkshires of western Massachusetts, United States, has unveiled images of the design for the extension of its current facilities. T",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/79db/3d21/f701/89c9/2e31/large_jpg/selldorf-architects-and-reed-hilderbrand-to-design-new-wing-for-the-clark-art-institute_4.jpg?1784314524",
       "today": true
     },
     {
@@ -232,110 +330,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "A Courtyard House / Office MI—JI",
-      "url": "https://www.archdaily.com/1148815/a-courtyard-house-office-mi-ji",
-      "excerpt": "A new house on a large block, this residence brings the garden inside. Through a planimetric arrangement that separates the differing living styles of its occupants and their loved ones, the house all",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/d38a/d58c/e001/8885/0061/large_jpg/a-courtyard-house-office-mi-ji_30.jpg?1784206308",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Splitscape Residence / SpaceDNA",
-      "url": "https://www.archdaily.com/1148884/splitscape-residence-spacedna",
-      "excerpt": "Splitscape Residence explores how section, rather than plan, can become the primary design tool for creating spatial generosity within the constraints of a compact urban site. Located in Coimbatore, I",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/0fca/895c/1800/0111/76e9/large_jpg/01_._Southern_Elevation.jpg?1784287267",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Green Heart Commercial Complex & A4X Art Center / E PLUS DESIGN",
-      "url": "https://www.archdaily.com/1148710/green-heart-commercial-complex-and-a4x-art-center-e-plus-design",
-      "excerpt": "At LUXERIVERS in Chongqing, the Green Heart commercial complex and the A4X Art Center, conceived by E+UV, emerges as an iconic park-integrated destination upon opening. Rooted in the concept of \"a bou",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/33f6/93aa/2d01/8c25/462d/large_jpg/green-heart-commercial-complex-and-a4x-art-center-e-plus-design_42.jpg?1784099840",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "A perfect pair of Range Rovers, old and new, showcases a commitment to bespoke design",
-      "url": "https://www.wallpaper.com/transportation/a-perfect-pair-of-range-rovers-old-and-new-showcases-a-commitment-to-bespoke-design",
-      "excerpt": "The Range Rover Classic Matched Pair combines a contemporary Range Rover SV Ultra with a thoroughly overhauled 1993 Range Rover County Edition. We take a look inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T7YgrVZTJtdYFUCdbvHGwX-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Urban Egg Mixed Use Facility / U.GA Architects",
-      "url": "https://www.archdaily.com/1148897/urban-egg-mixed-use-facility-uga-architects",
-      "excerpt": "Busan's Jeonpo-dong was once an industrial alley defined by the mechanical hum and the friction of metal. Over time, glass facades replaced steel shutters, and a new sentiment layered over the past, t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/5ae8/3d21/f701/89c9/2d8d/large_jpg/urban-egg-mixed-use-facility-uga-architects_20.jpg?1784306412",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "circular roof opening brings sunlight into casa óculo by OHLAB in palma",
-      "url": "https://www.designboom.com/architecture/circular-roof-opening-sunlight-casa-oculo-ohlab-palma/",
-      "excerpt": "the oblique oculus traces the movement of the sun across the residence’s interior.\nThe post circular roof opening brings sunlight into casa óculo by OHLAB in palma appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/circular-roof-opening-casa-oculo-ohlab-palma-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.19",
       "title": "Japanese port town regeneration among projects from Singapore University of Technology and Design",
       "url": "https://www.dezeen.com/2026/07/19/japanese-port-town-regeneration-singapore-university-technology-design-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal to reimagine the historic Japanese port town of Tomonoura is among the projects from the Singapore University of Technology and Design. Also featured is a project explo",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Suite Arquitetos installs rust-toned Casa Magma showroom in São Paulo",
-      "url": "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
-      "excerpt": "Brazilian studio Suite Arquitetos has used Portinari ceramic tiles to create a residential-style show space during Casacor São Paulo 2026. Based on the event's theme Mind and Heart, Suite Arquitetos d",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Thomas Residence / Embrace Architects",
-      "url": "https://www.archdaily.com/1148742/thomas-residence-embrace-architects",
-      "excerpt": "Thomas Street Residence by Embrace Architects is a refined private home in Melbourne, Australia, shaped by proportion, light, curved geometries and enduring materiality.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f5f0/e8f5/cb01/8987/a2b7/large_jpg/thomas-residence-embrace-architects_21.jpg?1784280575",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "It’ll be all white: the first-ever production Ferrari Luce goes up for sale at RM Sotheby’s",
-      "url": "https://www.wallpaper.com/transportation/ferrari-luce-chassis-0-rm-sothebys-sale",
-      "excerpt": "Ferrari Luce Chassis 0 has been given the Ferrari Tailor Made treatment, creating this uniquely sensual white-on-white car",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/okvFMDPpSazBLkvdcMujYK-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.19",
-      "title": "Tokyo Ballet House combines ballet studio and home",
-      "url": "https://www.dezeen.com/2026/07/19/tokyo-ballet-house-kenta-sano-associates-architects-japan-dance-studio/",
-      "excerpt": "Japanese studio Kenta Sano & Associates has completed a four-storey building in Tokyo that that has a glass-fronted dance studio on its lower floors and a house on top. Designed for owners who ran a b",
       "today": false
     },
     {
