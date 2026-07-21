@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  22:50",
+  "fetchedAt": "2026.07.21  23:52",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,49 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -144,6 +148,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.21",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Vanquish 25 celebrates a quarter century of Aston Martin’s flagship V12 GT",
+      "url": "https://www.wallpaper.com/transportation/vanquish-25-celebrates-a-quarter-century-of-aston-martins-flagship-v12-gt",
+      "excerpt": "Released in a strictly limited edition of 25 coupes and 25 convertibles, the new Aston Martin Vanquish 25 is pitched at car collectors with a passion for the marque’s most muscular model",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cwMd34CZHpLNRfn7qKkR6L-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -173,6 +197,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Martha Beatriz House / Atempo Arquitectura",
+      "url": "https://www.archdaily.com/1181404/martha-beatriz-house-atempo-arquitectura",
+      "excerpt": "Martha Beatriz House is a renovation and expansion project of a residence located in a residential neighborhood of the Historic Center of Cuenca. The house is named after Martha Beatriz Cardoso Faicán",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/b715/e8f5/cb01/8987/b2e3/large_jpg/casa-martha-beatriz-atempo-arquitectura_1.jpg?1784657706",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -198,6 +232,16 @@ window.LUMINO_DATA = {
       "title": "Rerucha Studio organises Seattle house as \"small village of connected spaces\"",
       "url": "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/",
       "excerpt": "Local architecture practice Rerucha Studio has arranged a cedar-clad house with detached elements around a central courtyard to function like a park in Seattle, Washington, USA. Aptly named Park House",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Ponta Fina House - Aiuruoca / Gil Mello Arquitetura",
+      "url": "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
+      "excerpt": "The design of Sítio da Ponta Fina, located in Aiuruoca, Minas Gerais, revives the occupation of a plateau on the slopes of the Serra do Papagaio, introducing a main house alongside complementary struc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/0e29/895c/1800/0111/7cd1/large_jpg/DJI_0929_copyright_manuel_sa.jpg?1784549134",
       "today": true
     },
     {
@@ -259,16 +303,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Tune in, turn on, and drop out of social media saturation with the new Light Phone Flip",
-      "url": "https://www.wallpaper.com/tech/light-phone-flip-review",
-      "excerpt": "The Light Phone company wants to rebuild the attention economy, one device at a time. Now it has switched its attention to a new format for a younger generation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zfA6tGMVUNb7kg9KUxoKr4-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -316,26 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/enzo-mari-16-animali-icon-learning-through-play/",
       "excerpt": "sixteen interlocking oak creatures turn a spatial puzzle into an open-ended tool for curiosity and storytelling.\nThe post how enzo mari’s 16 animali became an icon of learning through play appeared fi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/16-animali-enzo-mari-play-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Skylark House / House of EM",
-      "url": "https://www.archdaily.com/1181247/skylark-house-house-of-em",
-      "excerpt": "Placed on the edge of the historic market town of Ludlow, this new-build two-story house is surrounded by open countryside views.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4fe/895c/1800/0111/7b74/large_jpg/Skylark_-_hi-res-6.jpg?1784538516",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Fine Design: A Studio Guide to Remixing Design, Art, Craft, and Industry",
-      "url": "https://www.archdaily.com/1181353/fine-design-a-studio-guide-to-remixing-design-art-craft-and-industry",
-      "excerpt": "This book establishes Fine Design as a framework for contemporary studio practice, offering tools for designers working across art, craft, and industry. Fine Design defines a contemporary model of des",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/4640/895c/1800/0111/8140/large_jpg/SetMargins_FineDesign_007.jpg?1784628848",
       "today": true
     },
     {
