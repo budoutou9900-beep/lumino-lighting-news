@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  11:03",
+  "fetchedAt": "2026.07.21  13:26",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "遠藤照明": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -97,16 +93,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.21",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -138,13 +124,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.21",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -155,6 +141,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "burr wraps madrid apartment in yellow storage walls with a suspended pink spiral staircase",
+      "url": "https://www.designboom.com/architecture/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase/",
+      "excerpt": "yellow built-ins and a pink spiral staircase transform this madrid apartment into a home of hidden rooms and looping circulation.\nThe post burr wraps madrid apartment in yellow storage walls with a su",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase-designboom-0315.jpg",
       "today": true
     },
     {
@@ -243,6 +239,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Living Heritage: How Belgadia Palace Broadens Architectural Identity in Odisha",
+      "url": "https://www.archdaily.com/1181241/living-heritage-how-belgadia-palace-broadens-architectural-identity-in-odisha",
+      "excerpt": "Architecture often inherits a paradox. The buildings that come to define a place are rarely the only ones that shaped it. Instead, they become symbols, repeated through guidebooks, tourism campaigns, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/382d/e8f5/cb01/8987/ac90/large_jpg/living-heritage-how-belgadia-palace-broadens-architectural-identity-in-odisha_25.jpg?1784559671",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -250,6 +256,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ida-billy-hong-kong-campus-modernism-dormitory-gridded-facades-choi-kai-yau/",
       "excerpt": "the permeable, modernist-inspired framework harmonizes with challenging topography to foster a vibrant student community at the chinese university of hong kong.\nThe post ida & billy reinterprets hong ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/choi-kai-yau-hostel-ida-billy-architects-chinese-university-hong-kong-campus-dormitory-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Nereidas Homes / Studio Font",
+      "url": "https://www.archdaily.com/1181262/nereidas-homes-studio-font",
+      "excerpt": "Nereidas Design House is an architectural project located within the desert landscape of Baja California. Situated near Todos Santos, it occupies a six-hundred-square-meter site characterized by sculp",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/f63d/3d21/f701/89c9/30a7/large_jpg/nereidas-homes-studio-font_34.jpg?1784542796",
       "today": true
     },
     {
@@ -273,16 +289,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "when care learns to play: how design is reshaping pediatric healthcare",
-      "url": "https://www.designboom.com/design/care-play-design-pediatric-healthcare/",
-      "excerpt": "from sailboat-inspired IV stands to paintable sensors, designers are rethinking everyday medical devices across pediatric healthcare.\nThe post when care learns to play: how design is reshaping pediatr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/care-play-design-pediatric-healthcare-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -300,26 +306,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1164586/the-united-states-enacts-sweeping-housing-reform-legislation-to-expand-affordable-housing",
       "excerpt": "The 21st Century ROAD to Housing Act, a bipartisan United States Senate housing bill, automatically became law on 11 July 2026. Officially the \"Renewing Opportunity in the American Dream (ROAD) to Hou",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/aabe/e8f5/cb01/8987/a7b7/large_jpg/united-states-21st-century-road-to-housing-act_5.jpg?1784392392",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Caribbean Urbanism: From Garífuna Roots to the Layered City of La Ceiba, Honduras",
-      "url": "https://www.archdaily.com/1054044/caribbean-urbanism-from-garifuna-roots-to-the-layered-city-of-la-ceiba-honduras",
-      "excerpt": "On the Caribbean coast of Honduras, lies the Leán valley, a narrow coastal strip lined by the Nombre de Dios Mountain Range to the South and the Caribbean Sea to the North. For a long time, this was t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f08e/5f40/ed01/8c9f/2377/large_jpg/cities-from-the-banana-republic-migration-corporate-capital-and-the-urban-form-of-la-ceiba-in-honduras_12.jpg?1783689381",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Pamoja House / Project 51 A (h)",
-      "url": "https://www.archdaily.com/1181250/pamoja-house-project-51-a-h",
-      "excerpt": "House Pamoja emerged from an observation rather than a conventional brief: a family had outgrown the home they inhabited - not simply in area, but in its ability to accommodate changing patterns of li",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e8b7/895c/1800/0111/7bb2/large_jpg/01.jpg?1784539335",
       "today": true
     },
     {
