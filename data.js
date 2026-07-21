@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.20  23:53",
+  "fetchedAt": "2026.07.21  02:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -121,7 +121,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -140,7 +140,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -150,7 +150,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.20",
+      "date": "2026.07.21",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -165,7 +165,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/jello-lamp-freezes-the-soft-wobble-of-gelatin-desserts-into-3d-printed-sculptural-table-light/",
       "excerpt": "MAJU transforms the fleeting forms of jello and balloon sculptures into a sculptural table light with softly scalloped, translucent surfaces produced through plant-based 3D printing.\nThe post jello la",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jello-lamp-maju-3d-printed-sculptural-table-light-designboom-1200-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "Threshold House / David Macias",
+      "url": "https://www.archdaily.com/1181304/threshold-house-david-macias",
+      "excerpt": "Casa Umbral is a completely isolated residence set in the heart of a lush, humid tropical environment. Awarded first place in the single-family housing category at the recent Regional Salons of Archit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/4805/895c/1800/0111/7edc/large_jpg/Casa_Umbral_10_-_David_Macias.jpg?1784563865",
+      "today": false
     },
     {
       "source": "designboom",
@@ -175,7 +185,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/new-images-mecanoo-geological-natural-history-museum-abu-dhabi-uae/",
       "excerpt": "carved concrete volumes and deep skylights turn the saadiyat museum into an inhabitable extension of the surrounding terrain.\nThe post new images document mecanoo’s geological natural history museum a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mecanoo-natural-history-museum-abu-dhabi-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -185,7 +195,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148951/nana-house-daniel-fromer",
       "excerpt": "Located in southern Bahia, on a plot rich in native vegetation, the house integrates harmoniously into the landscape, shaped by the existing trees — such as almond, palm, and coconut trees. Its design",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/880b/e8f5/cb7b/7a8b/faae/large_jpg/casa-nana-daniel-fromer_3.jpg?1784317984",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -195,7 +205,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-madrid-university-francisco-vitoria-two-buildings-spain/",
       "excerpt": "bjarke ingels group / BIG designs two new buildings for universidad francisco de vitoria near madrid, spain.\nThe post BIG stacks classrooms and pitched roofs across two new madrid university buildings",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bjarke-ingels-group-two-buildings-francisco-de-vitoria-university-madrid-spain-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -205,7 +215,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/no-problemo-aries-collaboration-sneakers",
       "excerpt": "Converse is collaborating with London No Problemo – an offshoot of cult London streetwear brand Aries – on a pair of Chuck 70s featuring alien motifs and nods to  ‘The X-Files’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KGYg76EMnpwSdcDfqHGDZj-1799-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -214,7 +224,7 @@ window.LUMINO_DATA = {
       "title": "Hotel in former New York City train terminal among projects from Pratt Institute",
       "url": "https://www.dezeen.com/2026/07/20/hotel-new-york-city-train-terminal-projects-pratt-institute-schoolshows/",
       "excerpt": "Dezeen School Shows: a hotel located in a former railway station in New York City is among the projects from students at Pratt Institute. Also featured is a wellbeing space that highlights existing wa",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -224,7 +234,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181244/kul-nosara-qbo3-arquitectos",
       "excerpt": "Nestled within the mountainous landscape of Nosara, Costa Rica, KUL Nosara is a residential development composed of two contemporary tropical beach houses that carefully respond to the site's steep to",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/dce7/895c/1800/0111/7b38/large_jpg/KUL-DAILY___3_.jpg?1784536316",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -233,7 +243,7 @@ window.LUMINO_DATA = {
       "title": "Tottenham Hotspur Stadium by Populous \"democratised the stadium experience\"",
       "url": "https://www.dezeen.com/2026/07/20/tottenham-hotspur-stadium-populous/",
       "excerpt": "Continuing our Future Stadium series, we take a look at Tottenham Hotspur Stadium in London, where Populous aimed to innovate the stadium typology with a multifunctional design that prioritised the fa",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -243,7 +253,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/timber-curves-crafted-details-dhaus-spatial-narrative-nanjing-townhouse-mendong/",
       "excerpt": "DHaus blends craftsmanship, sculptural form, and spatial choreography into a contemporary home.\nThe post timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/timber-curves-crafted-details-dhaus-nanjing-townhouse-interior-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -253,7 +263,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/best-mallorca-hotels",
       "excerpt": "Mallorca is in the path of totality for the 2026 solar eclipse – and its hotels are ready with boats, rooftops and clifftop dinners",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VzZTgiWWyGztAL6y7VBX3c-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -263,7 +273,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148943/mercado-central-tadu-arquitetura",
       "excerpt": "Mercado Central: heritage, culture, and new uses in downtown Rio. Housed in a complex of five historic buildings that once home to the first Granado factory, opened in 1903, Mercado Central is born fr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/23d7/d425/1a00/01c4/bc00/large_jpg/Tadu_MercadoCentral_16.jpg?1784226816",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -273,7 +283,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181271/de-jonghe-residence-restoration-michel-architects",
       "excerpt": "Designed by Lloyd Wright in 1959, the De Jonghe Residence sits in the hills of Los Angeles with a quiet authority. Board-formed concrete, deep overhangs, and a landscape that was always intended to be",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1112/895c/1800/0111/7cf7/large_jpg/SeanHazen_1.jpg?1784549690",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -283,7 +293,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/contemporary-watches/breitling-top-time-b01-chronograph-41-tribute-to-aston-martin-db5",
       "excerpt": "An edition of three watches inspired by the Aston Martin DB5, the Top Time B01 Chronograph 41 bridges generations with a mix of classic style and contemporary technology",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eMNJJy4kByJLuc3y8n2HQn-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -293,7 +303,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/how-soft-geometrys-work-reflects-its-founders-indian-legacy",
       "excerpt": "Based in LA, design studio Soft-Geometry's work embodies its founders memories of home in India, at the same time 'uncovering the underlying philosophies and natural behaviours that inform subcultures",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PqQnkSFwMxAPocrMMJwnT9-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -303,7 +313,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/draw-me-a-face-childrens-imagination-playful-makeup/",
       "excerpt": "the collaborative experiment suggests that some of the most original ideas take shape before we learn the rules of beauty, proportion, or perfection.\nThe post children’s drawings turn into playful mak",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/draw-me-a-face-childrens-imagination-playful-makeup01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -312,7 +322,7 @@ window.LUMINO_DATA = {
       "title": "YN Studio extends London home around light-filled stairwell",
       "url": "https://www.dezeen.com/2026/07/20/yn-studio-tile-house/",
       "excerpt": "Recycled plastic tiles that mimic natural slate cloak a dormer extension at this terraced home in London, which has been updated and expanded by local practice YN Studio. Named Tile House, the Victori",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -321,17 +331,7 @@ window.LUMINO_DATA = {
       "title": "Andrea Ferro photographs Dakar's under-threat bubble houses",
       "url": "https://www.dezeen.com/2026/07/20/dakar-bubble-houses-andrea-ferro/",
       "excerpt": "Italian photographer Andrea Ferro has documented the remaining 1950s bubble houses in Dakar, Senegal, as they face increasing threats of demolition. Ferro decided to document the concrete-dome homes –",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Stadtforum in Dresden / Tchoban Voss Architekten",
-      "url": "https://www.archdaily.com/1148794/stadtforum-in-dresden-tchoban-voss-architekten",
-      "excerpt": "During redevelopment of the area around the historical Ferdinandplatz in the center of Dresden, the first prize in a design competition held for Stadtforum, the city's new administrative center, was w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/a38f/d425/1a00/01c4/b9df/large_jpg/6867_Stadtforum_Dresden_125119_c_Klemens_Renner.jpg?1784194083",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -340,7 +340,7 @@ window.LUMINO_DATA = {
       "title": "Vector Architects rejects \"white cube\" design for Aranya Art Center Guangzhou",
       "url": "https://www.dezeen.com/2026/07/20/vector-architects-aranya-art-center-guangzhou/",
       "excerpt": "Architecture studio Vector Architects has arranged a cluster of art galleries around a preserved Banyan tree canopy near Guangzhou, China. Developed for Aranya Jiulong Lake, a holiday retreat near Jiu",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -350,7 +350,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/1970s-apartment-athens-greece",
       "excerpt": "An apartment by Georgios Apostolopoulos Architects features a fluid interior shaped by movement and light, set within a landmark circular residential block to the north of the city",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K7KaBVVkXd2X6JytLMfZ56-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
