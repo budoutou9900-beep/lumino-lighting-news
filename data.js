@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  15:39",
+  "fetchedAt": "2026.07.21  17:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -161,10 +161,29 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.21",
+      "title": "Resembling Dutch flower paintings, Dominik Tarabański’s photographs sit at the cusp of ‘synthetic and organic’",
+      "url": "https://www.wallpaper.com/design-interiors/dominik-tarabanski-photographer-profile",
+      "excerpt": "The natural world is reinvented in the work of Polish-born, New York-based photographer Dominik Tarabański, part of our ‘American Dreams’ series of five US studios whose founders embody a new generati",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yidn67q3ncfh3fzRzx5Pd4-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.21",
       "title": "Why jazz and dance shoes are this summer’s most uplifting footwear",
       "url": "https://www.wallpaper.com/fashion-beauty/jazz-dance-and-ballet-inspired-shoes",
       "excerpt": "We pick the best jazz, dance and ballet-inspired shoes, a style that has become ubiquitous on the runway – most notably, at Michael Rider’s Celine",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/smcHtx93BKjhegvLMhcmGH-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "How stadiums are turning into entertainment districts",
+      "url": "https://www.dezeen.com/2026/07/21/future-stadium-sports-anchored-districts-development/",
+      "excerpt": "As developmental models for sports venues shift, architects and planners are being tasked with designing vast districts to support year-round activity. For our Future Stadium series, we look at the ri",
       "today": true
     },
     {
@@ -207,16 +226,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "MVRDV wins the open call for a new ‘Wonder of the World’ with its rocky design",
-      "url": "https://www.wallpaper.com/architecture/shift-international-competition-win-mvrdv-rotterdam-netherlands",
-      "excerpt": "The Rotterdam-based architecture firm wins The Shift International Architecture Competition with ‘Rotterdam Rocks!’, a sustainable landmark concept including a hotel, observation deck, embassy and mor",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rWbrqx2XpHhu8Jr64tqyqN-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -230,10 +239,10 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
-      "title": "BURR BURR transforms madrid apartment with yellow storage walls and suspended pink spiral staircase",
+      "title": "BURR renovates madrid apartment with yellow storage walls and pink spiral staircase",
       "url": "https://www.designboom.com/architecture/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase/",
-      "excerpt": "yellow built-ins and a pink spiral staircase reshape this Madrid apartment into a home of hidden rooms and looping circulation.\nThe post BURR BURR transforms madrid apartment with yellow storage walls",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase-designboom-0315.jpg",
+      "excerpt": "yellow built-ins and a pink spiral staircase reshape this Madrid apartment into a home of hidden rooms and looping circulation.\nThe post BURR renovates madrid apartment with yellow storage walls and p",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/Screenshot-2026-07-21-at-3.29.35-PM.png",
       "today": true
     },
     {
@@ -284,12 +293,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.21",
-      "title": "\"Women are living in a physical world that is too often designed without them in mind\"",
-      "url": "https://www.dezeen.com/2026/07/21/man-made-book-karen-korellis-reuther-opinion/",
-      "excerpt": "Product design desperately needs to drop the notion that things can be made based on an \"average-sized\" human being, writes Karen Korellis Reuther. Female firefighters arrive at the scene of a fire re",
+      "title": "Skylark House / House of EM",
+      "url": "https://www.archdaily.com/1181247/skylark-house-house-of-em",
+      "excerpt": "Placed on the edge of the historic market town of Ludlow, this new-build two-story house is surrounded by open countryside views.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4fe/895c/1800/0111/7b74/large_jpg/Skylark_-_hi-res-6.jpg?1784538516",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Fine Design: A Studio Guide to Remixing Design, Art, Craft, and Industry",
+      "url": "https://www.archdaily.com/1181353/fine-design-a-studio-guide-to-remixing-design-art-craft-and-industry",
+      "excerpt": "This book establishes Fine Design as a framework for contemporary studio practice, offering tools for designers working across art, craft, and industry. Fine Design defines a contemporary model of des",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/4640/895c/1800/0111/8140/large_jpg/SetMargins_FineDesign_007.jpg?1784628848",
       "today": true
     },
     {
@@ -330,26 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181341/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam",
       "excerpt": "MVRDV has won the international design competition organized by the social enterprise Shift to design the Shift Embassy, a new cultural destination planned for Rotterdam's developing Waterkant distric",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/21be/e8f5/cb01/8987/af78/large_jpg/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam_1.jpg?1784619514",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Engawa Sports facility / FAKT – Office for Architecture",
-      "url": "https://www.archdaily.com/1148871/engawa-sports-facility-fakt-office-for-architecture",
-      "excerpt": "The Sports Facility Ketzin is a compact, multi-use building positioned harmoniously between the city's existing sports fields. The building's design elegantly translates the traditional Japanese conce",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f541/895c/1800/0111/75f6/large_jpg/25-10_Engawa_Ketzin-FAKT_Simon_Menges_01.jpg?1784280477",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "The United States Enacts Sweeping Housing Reform Legislation to Expand Affordable Housing",
-      "url": "https://www.archdaily.com/1164586/the-united-states-enacts-sweeping-housing-reform-legislation-to-expand-affordable-housing",
-      "excerpt": "The 21st Century ROAD to Housing Act, a bipartisan United States Senate housing bill, automatically became law on 11 July 2026. Officially the \"Renewing Opportunity in the American Dream (ROAD) to Hou",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/aabe/e8f5/cb01/8987/a7b7/large_jpg/united-states-21st-century-road-to-housing-act_5.jpg?1784392392",
       "today": true
     },
     {
