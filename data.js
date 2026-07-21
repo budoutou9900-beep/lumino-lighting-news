@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  19:11",
+  "fetchedAt": "2026.07.21  21:01",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -161,6 +161,35 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
+      "title": "sliding timber frames and reused materials shape reversible pavilion within swiss meadow",
+      "url": "https://www.designboom.com/architecture/sliding-timber-frames-reused-materials-reversible-pavilion-swiss-meadow-piertzovanis-toews/",
+      "excerpt": "movable panels adapt the space to different uses, from a lounge and stage to an open-air theater.\nThe post sliding timber frames and reused materials shape reversible pavilion within swiss meadow appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sliding-timber-doors-reused-materials-reversible-pavilion-switzerland-piertzovanis-toews-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Maritime renewable energy centre among projects from Norwich University of the Arts",
+      "url": "https://www.dezeen.com/2026/07/21/maritime-renewable-energy-centre-projects-norwich-university-of-the-arts-schoolshows/",
+      "excerpt": "Dezeen School Shows: a renewable energy centre converting seaweed and flying-fish waste into biogas is among the projects from Norwich University of the Arts. Also featured is a subterranean architect",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "These 5 endangered sites designed by Black architects just received critical preservation grants",
+      "url": "https://www.wallpaper.com/architecture/consrving-black-modernism-grant-2026",
+      "excerpt": "Conserving Black Modernism, an initiative from the Getty Foundation and The National Trust for Historic Preservation, aims to protect sites that are integral to Black history and design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FYggyrBaGEd3iNE5ksQ2WL-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.21",
       "title": "cipherX applies painless permanent tattoos with dissolving microneedle patches",
       "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
       "excerpt": "a patch featuring dissolving microneedles turns digital designs into small permanent tattoos applied in fifteen minutes.\nThe post cipherX applies painless permanent tattoos with dissolving microneedle",
@@ -234,6 +263,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Casa Óculo / OHLAB",
+      "url": "https://www.archdaily.com/1148797/casa-culo-ohlab",
+      "excerpt": "Casa Óculo is a single-family house located in a residential neighborhood on the outskirts of Palma. Defined by a simple yet bold architectural gesture – a large flat roof that stretches from east to ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/adf1/d425/1a00/01c4/ba34/large_jpg/OHLAB_Casa_Oculo_Turixant_Photo_Hevia_25_-_copia.jpg?1784196607",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -241,16 +280,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/light-phone-flip-review",
       "excerpt": "The Light Phone company wants to rebuild the attention economy, one device at a time. Now it has switched its attention to a new format for a younger generation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zfA6tGMVUNb7kg9KUxoKr4-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "‘A rug helps ground a room’: Design Within Reach’s new collection is more central to a space than a piece of art",
-      "url": "https://www.wallpaper.com/design-interiors/design-within-reach-rugs-semita-little-wing-lee",
-      "excerpt": "Design Within Reach has collaborated with interior designer Little Wing Lee on a rug collection inspired by tradition and broken geometry",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5f5DjqqsbQEz5b2ML9aGUN-2560-80.jpg",
       "today": true
     },
     {
@@ -304,25 +333,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "experiments in love and revolution occupy malta pavilion at venice art biennale 2026",
-      "url": "https://www.designboom.com/art/malta-pavilion-at-venice-art-biennale-2026/",
-      "excerpt": "the exhibition ‘no need to sparkle; experiments in love and revolution’ explores how mythologies and historical narratives shape maltese society.\nThe post experiments in love and revolution occupy mal",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/malta-pavilion_designboom_facebook.jpg22.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Assemble turns former dairy warehouses into adaptable community hub",
-      "url": "https://www.dezeen.com/2026/07/21/lifeline-community-centre-assemble/",
-      "excerpt": "Architecture collective Assemble has converted a pair of former dairy warehouses into a \"robust and adaptable\" community centre and church on Becontree Estate in east London. Assemble completed the pr",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -340,16 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181353/fine-design-a-studio-guide-to-remixing-design-art-craft-and-industry",
       "excerpt": "This book establishes Fine Design as a framework for contemporary studio practice, offering tools for designers working across art, craft, and industry. Fine Design defines a contemporary model of des",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/4640/895c/1800/0111/8140/large_jpg/SetMargins_FineDesign_007.jpg?1784628848",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Living Heritage: How Belgadia Palace Broadens Architectural Identity in Odisha",
-      "url": "https://www.archdaily.com/1181241/living-heritage-how-belgadia-palace-broadens-architectural-identity-in-odisha",
-      "excerpt": "Architecture often inherits a paradox. The buildings that come to define a place are rarely the only ones that shaped it. Instead, they become symbols, repeated through guidebooks, tourism campaigns, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/382d/e8f5/cb01/8987/ac90/large_jpg/living-heritage-how-belgadia-palace-broadens-architectural-identity-in-odisha_25.jpg?1784559671",
       "today": true
     },
     {
