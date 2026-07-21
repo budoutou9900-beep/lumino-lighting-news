@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  02:07",
+  "fetchedAt": "2026.07.21  05:45",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -100,6 +100,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.07.21",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.21",
@@ -116,16 +126,6 @@ window.LUMINO_DATA = {
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.21",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -158,6 +158,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Can Craftsmanship Redefine Luxury?",
+      "url": "https://www.archdaily.com/1181285/can-craftsmanship-redefine-luxury",
+      "excerpt": "What does luxury mean when products are designed for quick obsolescence? Recorded live at Milan Design Week 2026 in cooperation with INDX|GLOBAL, the eighth episode of the Room For Dreams podcast brin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/3533/3d21/f701/89c9/331d/large_jpg/can-craftsmanship-redefine-luxury_6.jpg?1784558910",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "a 14-kilogram electric scooter disassembles for flights and rebuilds on arrival",
+      "url": "https://www.designboom.com/technology/electric-scooter-disassembles-for-flights-and-rebuilds-on-arrival-ivan-miranda/",
+      "excerpt": "ivan miranda transforms power-tool batteries and lawn mower tires into a portable scooter\nThe post a 14-kilogram electric scooter disassembles for flights and rebuilds on arrival appeared first on des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/electric-scooter-disassembles-for-flights-and-rebuilds-on-arrival-ivan-miranda-designboom-04-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Sugar House + / Atelier Guo",
+      "url": "https://www.archdaily.com/1148626/sugar-house-plus-atelier-guo",
+      "excerpt": "From 2013 to 2017, the old state‑owned sugar refinery in Yangshuo was restored by architect Zhao Chongxin, while Dong Gong completed the guestroom construction and overall layout, establishing the bas",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/7cd8/294b/f801/88a4/89a3/large_jpg/sugar-house-plus-atelier-guo_13.jpg?1783987434",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.20",
+      "title": "new images document mecanoo’s geological natural history museum abu dhabi",
+      "url": "https://www.designboom.com/architecture/new-images-mecanoo-geological-natural-history-museum-abu-dhabi-uae/",
+      "excerpt": "carved concrete volumes and deep skylights turn the saadiyat museum into an inhabitable extension of the surrounding terrain.\nThe post new images document mecanoo’s geological natural history museum a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mecanoo-natural-history-museum-abu-dhabi-designboom-FB.jpg",
+      "today": false
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -181,10 +221,10 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.20",
-      "title": "new images document mecanoo’s geological natural history museum abu dhabi",
-      "url": "https://www.designboom.com/architecture/new-images-mecanoo-geological-natural-history-museum-abu-dhabi-uae/",
-      "excerpt": "carved concrete volumes and deep skylights turn the saadiyat museum into an inhabitable extension of the surrounding terrain.\nThe post new images document mecanoo’s geological natural history museum a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mecanoo-natural-history-museum-abu-dhabi-designboom-FB.jpg",
+      "title": "gary the snail meows through a 3D-printed speaker built from a discarded alarm clock",
+      "url": "https://www.designboom.com/technology/gary-the-snail-3d-printed-speaker-shell-momandeum/",
+      "excerpt": "spongebob’s gary becomes a speaker with a turntable-inspired base designed by momandeum\nThe post gary the snail meows through a 3D-printed speaker built from a discarded alarm clock appeared first on ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gary-the-snail-3d-printed-speaker-shell-designboom-05.jpg",
       "today": false
     },
     {
@@ -246,16 +286,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse",
-      "url": "https://www.designboom.com/architecture/timber-curves-crafted-details-dhaus-spatial-narrative-nanjing-townhouse-mendong/",
-      "excerpt": "DHaus blends craftsmanship, sculptural form, and spatial choreography into a contemporary home.\nThe post timber, curves, and crafted details shape DHaus’ spatial narrative inside nanjing townhouse app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/timber-curves-crafted-details-dhaus-nanjing-townhouse-interior-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.20",
@@ -263,26 +293,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/best-mallorca-hotels",
       "excerpt": "Mallorca is in the path of totality for the 2026 solar eclipse – and its hotels are ready with boats, rooftops and clifftop dinners",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VzZTgiWWyGztAL6y7VBX3c-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Mercado Central / Tadu Arquitetura",
-      "url": "https://www.archdaily.com/1148943/mercado-central-tadu-arquitetura",
-      "excerpt": "Mercado Central: heritage, culture, and new uses in downtown Rio. Housed in a complex of five historic buildings that once home to the first Granado factory, opened in 1903, Mercado Central is born fr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/23d7/d425/1a00/01c4/bc00/large_jpg/Tadu_MercadoCentral_16.jpg?1784226816",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "De Jonghe Residence Restoration / Michel Architects",
-      "url": "https://www.archdaily.com/1181271/de-jonghe-residence-restoration-michel-architects",
-      "excerpt": "Designed by Lloyd Wright in 1959, the De Jonghe Residence sits in the hills of Los Angeles with a quiet authority. Board-formed concrete, deep overhangs, and a landscape that was always intended to be",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1112/895c/1800/0111/7cf7/large_jpg/SeanHazen_1.jpg?1784549690",
       "today": false
     },
     {
@@ -303,16 +313,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/how-soft-geometrys-work-reflects-its-founders-indian-legacy",
       "excerpt": "Based in LA, design studio Soft-Geometry's work embodies its founders memories of home in India, at the same time 'uncovering the underlying philosophies and natural behaviours that inform subcultures",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PqQnkSFwMxAPocrMMJwnT9-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "children’s drawings turn into playful makeup looks in ‘draw me a face’ project",
-      "url": "https://www.designboom.com/art/draw-me-a-face-childrens-imagination-playful-makeup/",
-      "excerpt": "the collaborative experiment suggests that some of the most original ideas take shape before we learn the rules of beauty, proportion, or perfection.\nThe post children’s drawings turn into playful mak",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/draw-me-a-face-childrens-imagination-playful-makeup01.jpg",
       "today": false
     },
     {
