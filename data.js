@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  17:11",
+  "fetchedAt": "2026.07.21  19:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -158,6 +158,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "cipherX applies painless permanent tattoos with dissolving microneedle patches",
+      "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
+      "excerpt": "a patch featuring dissolving microneedles turns digital designs into small permanent tattoos applied in fifteen minutes.\nThe post cipherX applies painless permanent tattoos with dissolving microneedle",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cipherx-microdot-tattoo-patch-permanent-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Dezeen Debate features \"tech-bro Death Star\"",
+      "url": "https://www.dezeen.com/2026/07/21/dezeen-debate-space-mirror-ffc-approval-reflect-orbital/",
+      "excerpt": "The latest Dezeen Debate newsletter features the news that the US has authorised the deployment of a giant space mirror to illuminate Earth after dark. Subscribe to Dezeen Debate now. Following approv",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Rerucha Studio organises Seattle house as \"small village of connected spaces\"",
+      "url": "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/",
+      "excerpt": "Local architecture practice Rerucha Studio has arranged a cedar-clad house with detached elements around a central courtyard to function like a park in Seattle, Washington, USA. Aptly named Park House",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -236,6 +264,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Knowledge Arena / SENAC São Paulo + Estudio Guto Requena",
+      "url": "https://www.archdaily.com/1181313/knowledge-arena-senac-sao-paulo-plus-estudio-guto-requena",
+      "excerpt": "Architecture, sustainability, and education come together to create an experience of welcoming, lingering, and exchange. Developed by faculty and students from the Architecture and Urbanism program at",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/27eb/895c/1800/0111/7843/large_jpg/joaopauloprado_estudiogutorequena_casacor2026_finaisalta-6.jpg?1784293390",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Racine Carrée Social Housing / rue royale architectes",
+      "url": "https://www.archdaily.com/1148879/racine-carree-social-housing-rue-royale-architectes",
+      "excerpt": "Racine Carrée draws its identity from the convergence of a structured approach – inspired by the spatial permutations of a Rubik's Cube – and a sensitive connection to the natural landscape. The proje",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/fbee/895c/1800/0111/76a0/large_jpg/2026_0420-RRA-UNES-Racine_Carree-_francoisbaudry-4618-web.jpg?1784282113",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -275,24 +323,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Omega and Swatch release gold MoonSwatch in limited edition of 1,969",
-      "url": "https://www.dezeen.com/2026/07/21/omega-swatch-gold-moonswatch-limited-edition-1969/",
-      "excerpt": "Watchmakers Swatch and Omega have collaborated to celebrate the anniversary of the first moon landing on 21 July 1969 with a limited run of 1,969 watches, made of gold from 1969. Titled Mission to the",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "MVRDV wins competition for \"new world wonder\" in the Netherlands",
-      "url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
-      "excerpt": "Architecture studio MVRDV has been revealed as the winner of social enterprise Shift's competition to design a €240 million landmark in Rotterdam, the Netherlands. The winning proposal, named Rotterda",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -313,16 +343,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "MVRDV wins competition for rotterdam’s ‘shift embassy’, a landmark for ecological change",
-      "url": "https://www.designboom.com/architecture/mvrdv-competition-rotterdam-shift-embassy-landmark-ecological-change/",
-      "excerpt": "a series of rounded rock-like forms rise as a vertical landscape of planted terraces, public routes, and immersive spaces designed to make climate action tangible.\nThe post MVRDV wins competition for ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mvrdv-competition-shift-embassy-rocky-landmark-ecological-change-rotterdam-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -330,26 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181241/living-heritage-how-belgadia-palace-broadens-architectural-identity-in-odisha",
       "excerpt": "Architecture often inherits a paradox. The buildings that come to define a place are rarely the only ones that shaped it. Instead, they become symbols, repeated through guidebooks, tourism campaigns, ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/382d/e8f5/cb01/8987/ac90/large_jpg/living-heritage-how-belgadia-palace-broadens-architectural-identity-in-odisha_25.jpg?1784559671",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Nereidas Homes / Studio Font",
-      "url": "https://www.archdaily.com/1181262/nereidas-homes-studio-font",
-      "excerpt": "Nereidas Design House is an architectural project located within the desert landscape of Baja California. Situated near Todos Santos, it occupies a six-hundred-square-meter site characterized by sculp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/f63d/3d21/f701/89c9/30a7/large_jpg/nereidas-homes-studio-font_34.jpg?1784542796",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "MVRDV Wins Competition to Design Shift Embassy in Rotterdam",
-      "url": "https://www.archdaily.com/1181341/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam",
-      "excerpt": "MVRDV has won the international design competition organized by the social enterprise Shift to design the Shift Embassy, a new cultural destination planned for Rotterdam's developing Waterkant distric",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/21be/e8f5/cb01/8987/af78/large_jpg/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam_1.jpg?1784619514",
       "today": true
     },
     {
