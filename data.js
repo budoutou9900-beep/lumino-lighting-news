@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  08:17",
+  "fetchedAt": "2026.07.21  11:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.21",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -166,6 +161,81 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
+      "title": "how enzo mari’s 16 animali became an icon of learning through play",
+      "url": "https://www.designboom.com/design/enzo-mari-16-animali-icon-learning-through-play/",
+      "excerpt": "sixteen interlocking oak creatures turn a spatial puzzle into an open-ended tool for curiosity and storytelling.\nThe post how enzo mari’s 16 animali became an icon of learning through play appeared fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/16-animali-enzo-mari-play-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "experiments in love and revolution occupy malta pavilion at venice art biennale 2026",
+      "url": "https://www.designboom.com/art/malta-pavilion-at-venice-art-biennale-2026/",
+      "excerpt": "the exhibition ‘no need to sparkle; experiments in love and revolution’ explores how mythologies and historical narratives shape maltese society.\nThe post experiments in love and revolution occupy mal",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/malta-pavilion_designboom_facebook.jpg22.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Assemble turns former dairy warehouses into adaptable community hub",
+      "url": "https://www.dezeen.com/2026/07/21/lifeline-community-centre-assemble/",
+      "excerpt": "Architecture collective Assemble has converted a pair of former dairy warehouses into a \"robust and adaptable\" community centre and church on Becontree Estate in east London. Assemble completed the pr",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Omega and Swatch release gold MoonSwatch in limited edition of 1,969",
+      "url": "https://www.dezeen.com/2026/07/21/omega-swatch-gold-moonswatch-limited-edition-1969/",
+      "excerpt": "Watchmakers Swatch and Omega have collaborated to celebrate the anniversary of the first moon landing on 21 July 1969 with a limited run of 1,969 watches, made of gold from 1969. Titled Mission to the",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "MVRDV wins competition for \"new world wonder\" in the Netherlands",
+      "url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
+      "excerpt": "Architecture studio MVRDV has been revealed as the winner of social enterprise Shift's competition to design a €240 million landmark in Rotterdam, the Netherlands. The winning proposal, named Rotterda",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Could Emirates’ new headrest finally make economy sleep bearable?",
+      "url": "https://www.wallpaper.com/travel/emirates-economy-class-u-dream-headrest-launch",
+      "excerpt": "A multi-way adjustable leather headrest is coming to Emirates Economy, designed to stop the mid-flight slump before it starts",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sY3fAzqVwu2dPzxTUvUJmg-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "\"Women are living in a physical world that is too often designed without them in mind\"",
+      "url": "https://www.dezeen.com/2026/07/21/man-made-book-karen-korellis-reuther-opinion/",
+      "excerpt": "Product design desperately needs to drop the notion that things can be made based on an \"average-sized\" human being, writes Karen Korellis Reuther. Female firefighters arrive at the scene of a fire re",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Sunflower Network opens modular children's hospital in Ukraine",
+      "url": "https://www.dezeen.com/2026/07/21/sunflower-network-project-horizon-hospital-ukraine/",
+      "excerpt": "Charity organisation Sunflower Network has opened a paediatric clinic in Brody, Ukraine, which it claims is the country's first healthcare infrastructure to open since Russia's invasion in 2022. Built",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.21",
       "title": "MVRDV wins competition for rotterdam’s ‘shift embassy’, a landmark for ecological change",
       "url": "https://www.designboom.com/architecture/mvrdv-competition-rotterdam-shift-embassy-landmark-ecological-change/",
       "excerpt": "a series of rounded rock-like forms rise as a vertical landscape of planted terraces, public routes, and immersive spaces designed to make climate action tangible.\nThe post MVRDV wins competition for ",
@@ -193,6 +263,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "MVRDV Wins Competition to Design Shift Embassy in Rotterdam",
+      "url": "https://www.archdaily.com/1181341/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam",
+      "excerpt": "MVRDV has won the international design competition organized by the social enterprise Shift to design the Shift Embassy, a new cultural destination planned for Rotterdam's developing Waterkant distric",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/21be/e8f5/cb01/8987/af78/large_jpg/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam_1.jpg?1784619514",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -206,71 +286,41 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.21",
+      "title": "Engawa Sports facility / FAKT – Office for Architecture",
+      "url": "https://www.archdaily.com/1148871/engawa-sports-facility-fakt-office-for-architecture",
+      "excerpt": "The Sports Facility Ketzin is a compact, multi-use building positioned harmoniously between the city's existing sports fields. The building's design elegantly translates the traditional Japanese conce",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/f541/895c/1800/0111/75f6/large_jpg/25-10_Engawa_Ketzin-FAKT_Simon_Menges_01.jpg?1784280477",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "The United States Enacts Sweeping Housing Reform Legislation to Expand Affordable Housing",
+      "url": "https://www.archdaily.com/1164586/the-united-states-enacts-sweeping-housing-reform-legislation-to-expand-affordable-housing",
+      "excerpt": "The 21st Century ROAD to Housing Act, a bipartisan United States Senate housing bill, automatically became law on 11 July 2026. Officially the \"Renewing Opportunity in the American Dream (ROAD) to Hou",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/aabe/e8f5/cb01/8987/a7b7/large_jpg/united-states-21st-century-road-to-housing-act_5.jpg?1784392392",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
+      "title": "Caribbean Urbanism: From Garífuna Roots to the Layered City of La Ceiba, Honduras",
+      "url": "https://www.archdaily.com/1054044/caribbean-urbanism-from-garifuna-roots-to-the-layered-city-of-la-ceiba-honduras",
+      "excerpt": "On the Caribbean coast of Honduras, lies the Leán valley, a narrow coastal strip lined by the Nombre de Dios Mountain Range to the South and the Caribbean Sea to the North. For a long time, this was t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f08e/5f40/ed01/8c9f/2377/large_jpg/cities-from-the-banana-republic-migration-corporate-capital-and-the-urban-form-of-la-ceiba-in-honduras_12.jpg?1783689381",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.21",
       "title": "Pamoja House / Project 51 A (h)",
       "url": "https://www.archdaily.com/1181250/pamoja-house-project-51-a-h",
       "excerpt": "House Pamoja emerged from an observation rather than a conventional brief: a family had outgrown the home they inhabited - not simply in area, but in its ability to accommodate changing patterns of li",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e8b7/895c/1800/0111/7bb2/large_jpg/01.jpg?1784539335",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Glade House / Ming Architects",
-      "url": "https://www.archdaily.com/1181249/glade-house-ming-architects",
-      "excerpt": "Glade House occupies a generous plot in central Singapore with a broad street frontage, using a layered façade to screen its family's lives from the public realm while maintaining a strong connection ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e7c8/895c/1800/0111/7b96/large_jpg/Ming_Architects_-_5_Jalan_Pasiran-1.jpg?1784539144",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Can Craftsmanship Redefine Luxury?",
-      "url": "https://www.archdaily.com/1181285/can-craftsmanship-redefine-luxury",
-      "excerpt": "What does luxury mean when products are designed for quick obsolescence? Recorded live at Milan Design Week 2026 in cooperation with INDX|GLOBAL, the eighth episode of the Room For Dreams podcast brin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/3533/3d21/f701/89c9/331d/large_jpg/can-craftsmanship-redefine-luxury_6.jpg?1784558910",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "a 14-kilogram electric scooter disassembles for flights and rebuilds on arrival",
-      "url": "https://www.designboom.com/technology/electric-scooter-disassembles-for-flights-and-rebuilds-on-arrival-ivan-miranda/",
-      "excerpt": "ivan miranda transforms power-tool batteries and lawn mower tires into a portable scooter.\nThe post a 14-kilogram electric scooter disassembles for flights and rebuilds on arrival appeared first on de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/electric-scooter-disassembles-for-flights-and-rebuilds-on-arrival-ivan-miranda-designboom-04-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Sugar House + / Atelier Guo",
-      "url": "https://www.archdaily.com/1148626/sugar-house-plus-atelier-guo",
-      "excerpt": "From 2013 to 2017, the old state‑owned sugar refinery in Yangshuo was restored by architect Zhao Chongxin, while Dong Gong completed the guestroom construction and overall layout, establishing the bas",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/7cd8/294b/f801/88a4/89a3/large_jpg/sugar-house-plus-atelier-guo_13.jpg?1783987434",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "new images document mecanoo’s geological natural history museum abu dhabi",
-      "url": "https://www.designboom.com/architecture/new-images-mecanoo-geological-natural-history-museum-abu-dhabi-uae/",
-      "excerpt": "carved concrete volumes and deep skylights turn the saadiyat museum into an inhabitable extension of the surrounding terrain.\nThe post new images document mecanoo’s geological natural history museum a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mecanoo-natural-history-museum-abu-dhabi-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Threshold House / David Macias",
-      "url": "https://www.archdaily.com/1181304/threshold-house-david-macias",
-      "excerpt": "Casa Umbral is a completely isolated residence set in the heart of a lush, humid tropical environment. Awarded first place in the single-family housing category at the recent Regional Salons of Archit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/4805/895c/1800/0111/7edc/large_jpg/Casa_Umbral_10_-_David_Macias.jpg?1784563865",
-      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -280,24 +330,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/no-problemo-aries-collaboration-sneakers",
       "excerpt": "Converse is collaborating with London No Problemo – an offshoot of cult London streetwear brand Aries – on a pair of Chuck 70s featuring alien motifs and nods to  ‘The X-Files’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KGYg76EMnpwSdcDfqHGDZj-1799-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Hotel in former New York City train terminal among projects from Pratt Institute",
-      "url": "https://www.dezeen.com/2026/07/20/hotel-new-york-city-train-terminal-projects-pratt-institute-schoolshows/",
-      "excerpt": "Dezeen School Shows: a hotel located in a former railway station in New York City is among the projects from students at Pratt Institute. Also featured is a wellbeing space that highlights existing wa",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Tottenham Hotspur Stadium by Populous \"democratised the stadium experience\"",
-      "url": "https://www.dezeen.com/2026/07/20/tottenham-hotspur-stadium-populous/",
-      "excerpt": "Continuing our Future Stadium series, we take a look at Tottenham Hotspur Stadium in London, where Populous aimed to innovate the stadium typology with a multifunctional design that prioritised the fa",
       "today": false
     },
     {
@@ -318,43 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/contemporary-watches/breitling-top-time-b01-chronograph-41-tribute-to-aston-martin-db5",
       "excerpt": "An edition of three watches inspired by the Aston Martin DB5, the Top Time B01 Chronograph 41 bridges generations with a mix of classic style and contemporary technology",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eMNJJy4kByJLuc3y8n2HQn-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "How Soft Geometry's work reflects its founders' Indian legacy",
-      "url": "https://www.wallpaper.com/design-interiors/how-soft-geometrys-work-reflects-its-founders-indian-legacy",
-      "excerpt": "Based in LA, design studio Soft-Geometry's work embodies its founders memories of home in India, at the same time 'uncovering the underlying philosophies and natural behaviours that inform subcultures",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PqQnkSFwMxAPocrMMJwnT9-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "YN Studio extends London home around light-filled stairwell",
-      "url": "https://www.dezeen.com/2026/07/20/yn-studio-tile-house/",
-      "excerpt": "Recycled plastic tiles that mimic natural slate cloak a dormer extension at this terraced home in London, which has been updated and expanded by local practice YN Studio. Named Tile House, the Victori",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Andrea Ferro photographs Dakar's under-threat bubble houses",
-      "url": "https://www.dezeen.com/2026/07/20/dakar-bubble-houses-andrea-ferro/",
-      "excerpt": "Italian photographer Andrea Ferro has documented the remaining 1950s bubble houses in Dakar, Senegal, as they face increasing threats of demolition. Ferro decided to document the concrete-dome homes –",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.20",
-      "title": "Vector Architects rejects \"white cube\" design for Aranya Art Center Guangzhou",
-      "url": "https://www.dezeen.com/2026/07/20/vector-architects-aranya-art-center-guangzhou/",
-      "excerpt": "Architecture studio Vector Architects has arranged a cluster of art galleries around a preserved Banyan tree canopy near Guangzhou, China. Developed for Aranya Jiulong Lake, a holiday retreat near Jiu",
       "today": false
     },
     {
@@ -458,6 +453,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -488,6 +493,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -495,6 +540,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -525,6 +580,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
