@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.21  23:52",
+  "fetchedAt": "2026.07.22  02:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "久留米ファン": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,48 +41,44 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -100,9 +96,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.22",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -112,7 +117,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -122,7 +127,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -131,7 +136,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -140,7 +145,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -150,11 +155,21 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.21",
+      "date": "2026.07.22",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "land art turns a greek beach into a scene of ancient hunters and modern extraction",
+      "url": "https://www.designboom.com/art/land-art-greek-beach-scene-ancient-hunters-modern-extraction-the-krank-the-hunt/",
+      "excerpt": "the krank turns a beach into a mythological battlefield over planned offshore drilling.\nThe post land art turns a greek beach into a scene of ancient hunters and modern extraction appeared first on de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/the-krank-the-hunt-temporary-land-art-installation-othonoi-island-greece-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -165,7 +180,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/vanquish-25-celebrates-a-quarter-century-of-aston-martins-flagship-v12-gt",
       "excerpt": "Released in a strictly limited edition of 25 coupes and 25 convertibles, the new Aston Martin Vanquish 25 is pitched at car collectors with a passion for the marque’s most muscular model",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cwMd34CZHpLNRfn7qKkR6L-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -175,7 +190,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/sliding-timber-frames-reused-materials-reversible-pavilion-swiss-meadow-piertzovanis-toews/",
       "excerpt": "movable panels adapt the space to different uses, from a lounge and stage to an open-air theater.\nThe post sliding timber frames and reused materials shape reversible pavilion within swiss meadow appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sliding-timber-doors-reused-materials-reversible-pavilion-switzerland-piertzovanis-toews-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -184,7 +199,7 @@ window.LUMINO_DATA = {
       "title": "Maritime renewable energy centre among projects from Norwich University of the Arts",
       "url": "https://www.dezeen.com/2026/07/21/maritime-renewable-energy-centre-projects-norwich-university-of-the-arts-schoolshows/",
       "excerpt": "Dezeen School Shows: a renewable energy centre converting seaweed and flying-fish waste into biogas is among the projects from Norwich University of the Arts. Also featured is a subterranean architect",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -194,7 +209,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/consrving-black-modernism-grant-2026",
       "excerpt": "Conserving Black Modernism, an initiative from the Getty Foundation and The National Trust for Historic Preservation, aims to protect sites that are integral to Black history and design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FYggyrBaGEd3iNE5ksQ2WL-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -204,7 +219,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181404/martha-beatriz-house-atempo-arquitectura",
       "excerpt": "Martha Beatriz House is a renovation and expansion project of a residence located in a residential neighborhood of the Historic Center of Cuenca. The house is named after Martha Beatriz Cardoso Faicán",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/b715/e8f5/cb01/8987/b2e3/large_jpg/casa-martha-beatriz-atempo-arquitectura_1.jpg?1784657706",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -214,7 +229,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
       "excerpt": "a patch featuring dissolving microneedles turns digital designs into small permanent tattoos applied in fifteen minutes.\nThe post cipherX applies painless permanent tattoos with dissolving microneedle",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cipherx-microdot-tattoo-patch-permanent-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -223,7 +238,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen Debate features \"tech-bro Death Star\"",
       "url": "https://www.dezeen.com/2026/07/21/dezeen-debate-space-mirror-ffc-approval-reflect-orbital/",
       "excerpt": "The latest Dezeen Debate newsletter features the news that the US has authorised the deployment of a giant space mirror to illuminate Earth after dark. Subscribe to Dezeen Debate now. Following approv",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -232,7 +247,7 @@ window.LUMINO_DATA = {
       "title": "Rerucha Studio organises Seattle house as \"small village of connected spaces\"",
       "url": "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/",
       "excerpt": "Local architecture practice Rerucha Studio has arranged a cedar-clad house with detached elements around a central courtyard to function like a park in Seattle, Washington, USA. Aptly named Park House",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -242,7 +257,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
       "excerpt": "The design of Sítio da Ponta Fina, located in Aiuruoca, Minas Gerais, revives the occupation of a plateau on the slopes of the Serra do Papagaio, introducing a main house alongside complementary struc",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/0e29/895c/1800/0111/7cd1/large_jpg/DJI_0929_copyright_manuel_sa.jpg?1784549134",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -252,7 +267,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/dominik-tarabanski-photographer-profile",
       "excerpt": "The natural world is reinvented in the work of Polish-born, New York-based photographer Dominik Tarabański, part of our ‘American Dreams’ series of five US studios whose founders embody a new generati",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yidn67q3ncfh3fzRzx5Pd4-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -262,7 +277,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/jazz-dance-and-ballet-inspired-shoes",
       "excerpt": "We pick the best jazz, dance and ballet-inspired shoes, a style that has become ubiquitous on the runway – most notably, at Michael Rider’s Celine",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/smcHtx93BKjhegvLMhcmGH-1540-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -271,7 +286,7 @@ window.LUMINO_DATA = {
       "title": "How stadiums are turning into entertainment districts",
       "url": "https://www.dezeen.com/2026/07/21/future-stadium-sports-anchored-districts-development/",
       "excerpt": "As developmental models for sports venues shift, architects and planners are being tasked with designing vast districts to support year-round activity. For our Future Stadium series, we look at the ri",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -281,7 +296,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/orior-foosball-table",
       "excerpt": "The Irish furniture house trades pub-tastic plastic for handcrafted luxury, turning a games room staple into a collectible design object",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -290,7 +305,7 @@ window.LUMINO_DATA = {
       "title": "Museum celebrating work of RNLI among projects from Lancaster University",
       "url": "https://www.dezeen.com/2026/07/21/museum-celebrating-work-of-rnli-lancaster-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a museum dedicated to celebrating the history of Folkestone, UK, and the work of the RNLI is among projects from Lancaster University. Also featured is a proposal for a textile re",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -300,7 +315,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148797/casa-culo-ohlab",
       "excerpt": "Casa Óculo is a single-family house located in a residential neighborhood on the outskirts of Palma. Defined by a simple yet bold architectural gesture – a large flat roof that stretches from east to ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/adf1/d425/1a00/01c4/ba34/large_jpg/OHLAB_Casa_Oculo_Turixant_Photo_Hevia_25_-_copia.jpg?1784196607",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -310,7 +325,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/surreal-mother-son-photo-series-narrates-lives-korean-women-humor-play/",
       "excerpt": "using starfish, red long underwear, and the buddhist ideas of rebirth, photographer daesung lee and his mother capture a moment in the history of korean women. \nThe post surreal mother and son photo s",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/nirvana-daesung-lee-designboom-15.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -320,7 +335,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181313/knowledge-arena-senac-sao-paulo-plus-estudio-guto-requena",
       "excerpt": "Architecture, sustainability, and education come together to create an experience of welcoming, lingering, and exchange. Developed by faculty and students from the Architecture and Urbanism program at",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/27eb/895c/1800/0111/7843/large_jpg/joaopauloprado_estudiogutorequena_casacor2026_finaisalta-6.jpg?1784293390",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -330,7 +345,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148879/racine-carree-social-housing-rue-royale-architectes",
       "excerpt": "Racine Carrée draws its identity from the convergence of a structured approach – inspired by the spatial permutations of a Rubik's Cube – and a sensitive connection to the natural landscape. The proje",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/fbee/895c/1800/0111/76a0/large_jpg/2026_0420-RRA-UNES-Racine_Carree-_francoisbaudry-4618-web.jpg?1784282113",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -340,17 +355,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase/",
       "excerpt": "yellow built-ins and a pink spiral staircase reshape this Madrid apartment into a home of hidden rooms and looping circulation.\nThe post BURR renovates madrid apartment with yellow storage walls and p",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/Screenshot-2026-07-21-at-3.29.35-PM.png",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "how enzo mari’s 16 animali became an icon of learning through play",
-      "url": "https://www.designboom.com/design/enzo-mari-16-animali-icon-learning-through-play/",
-      "excerpt": "sixteen interlocking oak creatures turn a spatial puzzle into an open-ended tool for curiosity and storytelling.\nThe post how enzo mari’s 16 animali became an icon of learning through play appeared fi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/16-animali-enzo-mari-play-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
@@ -453,16 +458,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -493,46 +488,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -540,16 +495,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -580,16 +525,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
