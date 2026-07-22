@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  22:08",
+  "fetchedAt": "2026.07.22  23:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,35 +17,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -100,25 +100,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.22",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.22",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.22",
@@ -167,6 +148,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.22",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "giant blue-green semicircular table by tato architects reorganizes kyoto apartment",
+      "url": "https://www.designboom.com/architecture/giant-blue-green-semicircular-table-tato-architects-yo-shimada-kyoto-apartment/",
+      "excerpt": "as part of a renovation initiative involving eight universities across kyoto, the project transforms vacant units into company housing for welfare-sector workers.\nThe post giant blue-green semicircula",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tato-architects-yo-shimada-large-semicircular-table-kyoto-living-space-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -183,6 +184,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/haus-der-kunst-history-for-children-stories-since-1968-play/",
       "excerpt": "interactive works trace how artists began treating children as collaborators with power over spaces and shared rules.\nThe post haus der kunst traces a playful art history written with children appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/haus-der-kunst-for-children-art-stories-1968-exhibition-play-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Veneciana Escalada Drive-Thru Ice Cream Shop / DRM Arquitectura",
+      "url": "https://www.archdaily.com/1181425/veneciana-escalada-drive-thru-ice-cream-shop-drm-arquitectura",
+      "excerpt": "The project involved the expansion of an existing commercial building to create a drive-through ice cream shop, a typology in which both pedestrians and vehicles enter, circulate, and remain within th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/5eb4/237b/e900/01c8/71cc/large_jpg/javier_agustin_rojas_veneciana_escalada_DSF0857_high.jpg?1784700612",
       "today": true
     },
     {
@@ -324,16 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "why does creativity need play? lidewij edelkoort & philip fimmano discuss their ‘inner child’",
-      "url": "https://www.designboom.com/design/creativity-play-lidewij-edelkoort-philip-fimmano-inner-child-artipelag-interview/",
-      "excerpt": "the curators behind the upcoming exhibition at artipelag reflect on why designers around the world are embracing emotional connection and experimentation as a new creative mindset.\nThe post why does c",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/creativity-play-lidewij-edelkoort-philip-fimmano-inner-child-artipelag-interview-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -349,16 +350,6 @@ window.LUMINO_DATA = {
       "title": "Kenta Hirayama clads House in Kinuta in steel-sheet facade",
       "url": "https://www.dezeen.com/2026/07/22/kenta-hirayama-house-in-kinuta/",
       "excerpt": "Architect Kenta Hirayama has designed an \"unpretentious house\" in Tokyo's Setagaya Ward, which features a metal facade and deliberately simple gabled roof. Called House in Kinuta, the detached home's ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "LifeLine Community Centre / Assemble",
-      "url": "https://www.archdaily.com/1181246/lifeline-community-centre-assemble",
-      "excerpt": "On East London's Becontree Estate, Assemble has converted a pair of former United Dairies warehouses into a new home for LifeLine Church and the charity Community Resources.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4f8/895c/1800/0111/7b61/large_jpg/LifeLineCommunity-JimStephenson-16.jpg?1784538571",
       "today": true
     },
     {
