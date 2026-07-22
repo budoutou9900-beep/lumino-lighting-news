@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  02:06",
+  "fetchedAt": "2026.07.22  05:43",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.22",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -166,10 +161,50 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
+      "title": "soho house begins transforming milan’s former cinema arti into six-level members’ club",
+      "url": "https://www.designboom.com/architecture/soho-house-transforming-milans-cinema-arti-members-club/",
+      "excerpt": "new club will feature more than 50 rooms, a rooftop pool, gym, courtyard, and interiors shaped by milanese craft and rationalist heritage.\nThe post soho house begins transforming milan’s former cinema",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/imgi_6_03_milan_34_1.jpeg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "A new portico and extension create a richly varied restoration of a popular Irish venue",
+      "url": "https://www.wallpaper.com/architecture/portico-and-extension-drumhalla-house-ireland",
+      "excerpt": "Drumhalla House, a popular event space, now features a new portico and more architectural interventions, bringing it closer to the landscape, and updating and enhancing its interiors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QMmhDSEGJbMcxboxrsTCEM-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Made to Measure: Herzog & de Meuron’s Architectural Approach to Furniture Design",
+      "url": "https://www.archdaily.com/1148656/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design",
+      "excerpt": "What allows a single architectural principle to generate many different outcomes? The answer lies in the systems that organize architecture: geometry, proportion, structure, and construction. Together",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/3d32/3bfa/3d01/8870/055d/large_jpg/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design_1.jpg?1784036677",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
       "title": "land art turns a greek beach into a scene of ancient hunters and modern extraction",
       "url": "https://www.designboom.com/art/land-art-greek-beach-scene-ancient-hunters-modern-extraction-the-krank-the-hunt/",
       "excerpt": "the krank turns a beach into a mythological battlefield over planned offshore drilling.\nThe post land art turns a greek beach into a scene of ancient hunters and modern extraction appeared first on de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/the-krank-the-hunt-temporary-land-art-installation-othonoi-island-greece-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "REDGE Contemporary Art Center  / Atelier Meadow",
+      "url": "https://www.archdaily.com/1148855/redge-contemporary-art-center-atelier-meadow",
+      "excerpt": "As contemporary buildings become obsolete faster than cities can regenerate them, REDGE Contemporary Art Center explores adaptive reuse as a strategy not only for retaining existing buildings, but for",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/a3ee/895c/1800/0111/74b5/large_jpg/05_-REDGE_-Contemporary-Art-Center-_Atelier-Meadow_-picture-_DONG____.jpg?1784259607",
       "today": true
     },
     {
@@ -289,16 +324,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Orior gives the humble foosball table a high-design makeover",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/orior-foosball-table",
-      "excerpt": "The Irish furniture house trades pub-tastic plastic for handcrafted luxury, turning a games room staple into a collectible design object",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -325,36 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/surreal-mother-son-photo-series-narrates-lives-korean-women-humor-play/",
       "excerpt": "using starfish, red long underwear, and the buddhist ideas of rebirth, photographer daesung lee and his mother capture a moment in the history of korean women. \nThe post surreal mother and son photo s",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/nirvana-daesung-lee-designboom-15.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Knowledge Arena / SENAC São Paulo + Estudio Guto Requena",
-      "url": "https://www.archdaily.com/1181313/knowledge-arena-senac-sao-paulo-plus-estudio-guto-requena",
-      "excerpt": "Architecture, sustainability, and education come together to create an experience of welcoming, lingering, and exchange. Developed by faculty and students from the Architecture and Urbanism program at",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/27eb/895c/1800/0111/7843/large_jpg/joaopauloprado_estudiogutorequena_casacor2026_finaisalta-6.jpg?1784293390",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Racine Carrée Social Housing / rue royale architectes",
-      "url": "https://www.archdaily.com/1148879/racine-carree-social-housing-rue-royale-architectes",
-      "excerpt": "Racine Carrée draws its identity from the convergence of a structured approach – inspired by the spatial permutations of a Rubik's Cube – and a sensitive connection to the natural landscape. The proje",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/fbee/895c/1800/0111/76a0/large_jpg/2026_0420-RRA-UNES-Racine_Carree-_francoisbaudry-4618-web.jpg?1784282113",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "BURR renovates madrid apartment with yellow storage walls and pink spiral staircase",
-      "url": "https://www.designboom.com/architecture/burr-madrid-apartment-yellow-storage-walls-pink-spiral-staircase/",
-      "excerpt": "yellow built-ins and a pink spiral staircase reshape this Madrid apartment into a home of hidden rooms and looping circulation.\nThe post BURR renovates madrid apartment with yellow storage walls and p",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/Screenshot-2026-07-21-at-3.29.35-PM.png",
       "today": false
     },
     {
@@ -458,6 +453,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -488,6 +493,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -495,6 +540,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -525,6 +580,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
