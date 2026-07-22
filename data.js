@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  20:59",
+  "fetchedAt": "2026.07.22  22:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,6 +97,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.22",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -190,6 +203,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/heat-pressed-artificial-wood-organic-joints-mocky-furniture-series-tact-inoue/",
       "excerpt": "the furniture process is closer to molding than conventional assembly.\nThe post heat-pressed artificial wood melts into organic joints for mocky furniture series appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mocky-furniture-series-tact-inoue-artificial-wood-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Light of Amazonia Chapel / Rogoski Arquitetura",
+      "url": "https://www.archdaily.com/1181321/light-of-amazonia-chapel-rogoski-arquitetura",
+      "excerpt": "The Amazon Light Chapel was born from the client's desire to create a space that would represent a \"point of light in the Amazon.\" Situated on the shores of a lake, amidst a remnant of native forest i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/756a/895c/1800/0111/7fb3/large_jpg/IMG_1534.jpg?1784575385",
       "today": true
     },
     {
@@ -336,16 +359,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181246/lifeline-community-centre-assemble",
       "excerpt": "On East London's Becontree Estate, Assemble has converted a pair of former United Dairies warehouses into a new home for LifeLine Church and the charity Community Resources.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4f8/895c/1800/0111/7b61/large_jpg/LifeLineCommunity-JimStephenson-16.jpg?1784538571",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "A Wooden Bench and the Geography of Materials",
-      "url": "https://www.archdaily.com/1148942/a-wooden-bench-and-the-geography-of-materials",
-      "excerpt": "Images of the benches at New York City's High Line Park spread around the world when the project opened in 2009. Emerging diagonally from the same material and modular pattern as the paving, they tran",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/650f/e8f5/cb01/8987/a720/large_jpg/a-wooden-bench-and-the-geography-of-materials_4.jpg?1784309028",
       "today": true
     },
     {
