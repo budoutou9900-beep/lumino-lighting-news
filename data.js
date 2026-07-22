@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  17:11",
+  "fetchedAt": "2026.07.22  19:05",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -154,6 +154,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Enrique Olvera's latest Los Angeles restaurant is summer's best spot for margaritas and mariscos",
+      "url": "https://www.wallpaper.com/travel/restaurants/san-damian-los-angeles-review",
+      "excerpt": "San Damián dishes up Michelin-level seafood just steps from the beach in Venice. Here's what we ate",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wUY7SXThTX5q8WwFGGB46g-2000-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -220,16 +230,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/vy-voi-steffany-tran-designer-profile",
       "excerpt": "Ancient cultural traditions are reinterpreted in the work of designer Steffany Tran of Vy Voi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fCzTJmEG3Tr2cDaqTtoWMN-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Japanese lanterns and fast-food branding inspire a nostalgic exhibition",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/empire-by-benjamin-slinger-london-exhibition",
-      "excerpt": "Rooted in millennial nostalgia, ‘Empire’ by Benjamin Slinger shines a light on global fast-food branding over the decades and questions ideas of value in design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HWuyXJZcsypCeQWri6MKWg-1920-80.png",
       "today": true
     },
     {
