@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  19:05",
+  "fetchedAt": "2026.07.22  20:59",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "\"Runaway train\" of massive file sizes causing issues for architecture projects says panel at HP talk",
+      "url": "https://www.dezeen.com/2026/07/22/file-sizes-hp-uia-congress/",
+      "excerpt": "Promotion: architects' designs are being contained within digital files so big they can take two hours to load, leading to delays and mix-ups on projects, experts warned in a talk hosted by HP at the ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "haus der kunst traces a playful art history written with children",
+      "url": "https://www.designboom.com/design/haus-der-kunst-history-for-children-stories-since-1968-play/",
+      "excerpt": "interactive works trace how artists began treating children as collaborators with power over spaces and shared rules.\nThe post haus der kunst traces a playful art history written with children appeare",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/haus-der-kunst-for-children-art-stories-1968-exhibition-play-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -184,6 +203,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "What will the future stadium look like?",
+      "url": "https://www.dezeen.com/2026/07/22/future-stadium-predictions-populous-hok-gmp-hks-big-zha/",
+      "excerpt": "For our Future Stadium series, we asked nine of the world's top stadium architects to predict the biggest shift in stadium design over the next 10 years. To determine how stadium design will shift ove",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -210,6 +238,16 @@ window.LUMINO_DATA = {
       "title": "Rehabilitative prison with crafting spaces among projects from Norwich University of the Arts",
       "url": "https://www.dezeen.com/2026/07/22/rehabilitative-womens-prison-crafting-spaces-projects-norwich-university-of-the-arts-schoolshows/",
       "excerpt": "Dezeen School Shows: a rehabilitative prison in a former mill with crafting and vocational spaces is among the projects from Norwich University of the Arts. Also featured is a project that explores ho",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Casa Para Ver La Peña / Tenter Studio",
+      "url": "https://www.archdaily.com/1181428/casa-para-ver-la-pena-tenter-studio",
+      "excerpt": "From the street, the house appears restrained and silent. The stone volumes are barely pronounced, avoiding any emphatic gesture. The architecture does not seek to announce itself; it holds back. It i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/5d9e/237b/e900/01c8/71b3/large_jpg/_S__TENTER_ESTUDIO_CASA_PARA_VER_LA_PEN_A_ZAICKZ_MOZ_18.jpg?1784701214",
       "today": true
     },
     {
@@ -243,6 +281,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Leblon Apartment / Pascali Semerdjian Arquitetos",
+      "url": "https://www.archdaily.com/1181325/leblon-apartment-pascali-semerdjian-arquitetos",
+      "excerpt": "Originally inhabited by a family, the Leblon apartment underwent a complete transformation to meet the needs of its new owner. The main objective of the project was to integrate and expand the social ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1062/895c/1800/0111/7ce3/large_jpg/9.jpg?1784549509",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Espace Ambroise Croizat / TAUTEM Architecture",
+      "url": "https://www.archdaily.com/1181403/espace-ambroise-croizat-tautem-architecture",
+      "excerpt": "Between the Arceaux and Figuerolles districts, TAUTEM transforms the Center for Social Experimentation and Innovation (CEIS) into an architecture of care and dignity, attentive to the Mediterranean cl",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/bac1/e8f5/cb01/8987/b349/large_jpg/espace-ambroise-croizat-tautem-architecture_1.jpg?1784659097",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -259,16 +317,6 @@ window.LUMINO_DATA = {
       "title": "Breezy louvre walls enclose restaurant in Thailand by Studio Locomotive",
       "url": "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/",
       "excerpt": "An external skin of timber louvres filters light and air into the double-height interiors of Waankarn, a restaurant and events space in Thailand designed by local architecture practice Studio Locomoti",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "20 winning projects spark submission for A’design award and competition 2027",
-      "url": "https://www.designboom.com/design/open-submission-a-design-award-and-competition-2027/",
-      "excerpt": "among an array of design disciplines, designboom shares a curated selection of past A' design award winners to fuel submissions for 2027.\nThe post 20 winning projects spark submission for A’design awa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/a-design-award_designboom-FB.jpg",
       "today": true
     },
     {
@@ -291,24 +339,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Marmoleum Cocoa flooring by Forbo Flooring",
-      "url": "https://www.dezeen.com/2026/07/22/marmoleum-cocoa-flooring-forbo-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: surface brand Forbo Flooring's Marmoleum Cocoa flooring makes use of unwanted cocoa shells – an oft-wasted by-product of the cocoa industry. Marmoleum Cocoa is an evolution of Forbo F",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "MVRDV wraps Beijing roof tiles around Chinese moon gates for fashion flagship store",
-      "url": "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
-      "excerpt": "Architecture studio MVRDV has designed a flagship store for Chinese fashion brand Urban Revivo in Beijing, China, with a dramatic facade informed by the roof tiles on the city's traditional houses. Lo",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -316,36 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148942/a-wooden-bench-and-the-geography-of-materials",
       "excerpt": "Images of the benches at New York City's High Line Park spread around the world when the project opened in 2009. Emerging diagonally from the same material and modular pattern as the paving, they tran",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/650f/e8f5/cb01/8987/a720/large_jpg/a-wooden-bench-and-the-geography-of-materials_4.jpg?1784309028",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Santuario De La Salle / CAZA Architects",
-      "url": "https://www.archdaily.com/1092506/santuario-de-la-salle-caza-architects",
-      "excerpt": "How can a church serve as an anchor for a broader community? This central question drove the conceptualization of Santuario de La Salle, an inclusive religious space designed by CAZA for the De La Sal",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f60c/e05c/0800/010e/136b/large_jpg/26_RoryGardiner1584c.jpg?1783690811",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "\"Design Is Inseparable from Activism\": In Conversation with Andrés Jaque at the UIA World Congress of Architects 2026",
-      "url": "https://www.archdaily.com/1181438/design-is-inseparable-from-activism-in-conversation-with-andres-jaque-at-the-uia-world-congress-of-architects-2026",
-      "excerpt": "At the UIA World Congress of Architects 2026 in Barcelona, the theme Becoming. Architectures for a Planet in Transition framed architecture as a discipline operating within environmental, political, a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/8d38/16b1/5001/8833/d6d9/large_jpg/design-is-inseparable-from-activism-in-conversation-with-andres-jaque-at-the-uia-world-congress-of-architects-2026_1.jpg?1784712528",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Urban Revivo Sanlitun Flagship Store / MVRDV",
-      "url": "https://www.archdaily.com/1181284/urban-revivo-sanlitun-flagship-store-mvrdv",
-      "excerpt": "MVRDV-designed Urban Revivo flagship store in Beijing blends local architecture with global aspirations.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/31cb/e8f5/cb01/8987/ac4e/large_jpg/urban-revivo-sanlitun-flagship-store-mvrdv_1.jpg?1784558060",
       "today": true
     },
     {
