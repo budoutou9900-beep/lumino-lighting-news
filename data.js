@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  13:30",
+  "fetchedAt": "2026.07.22  15:28",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,69 +17,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "久留米ファン": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -104,12 +96,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
       "date": "2026.07.22",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -161,13 +154,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "Crystal Palace Park’s dinosaur sculptures have been restored to their former glory",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/crystal-palace-park-dinosaur-sculptures",
+      "excerpt": "More than 170 years after they first thrilled Victorian visitors, Crystal Palace Park's prehistoric residents have been brought back from the brink – part of a sweeping restoration that has revived th",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8DVZkVS4f5xqbNXtaNYmeB-2481-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Rehabilitative prison with crafting spaces among projects from Norwich University of the Arts",
+      "url": "https://www.dezeen.com/2026/07/22/rehabilitative-womens-prison-crafting-spaces-projects-norwich-university-of-the-arts-schoolshows/",
+      "excerpt": "Dezeen School Shows: a rehabilitative prison in a former mill with crafting and vocational spaces is among the projects from Norwich University of the Arts. Also featured is a project that explores ho",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Toronto’s Shinji rethinks the Japanese steakhouse in shades of indigo",
+      "url": "https://www.wallpaper.com/travel/restaurants/shinji-toronto-canada-review",
+      "excerpt": "A modern Japanese steakhouse in Toronto’s Financial District pairs serious wagyu sourcing with raw dishes, nigiri and a chef’s counter",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2kibFw3We3YzabQrjcksGW-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "‘Like using a metal detector and finding nuggets in history’: meet New York design studio Vy Voi",
+      "url": "https://www.wallpaper.com/design-interiors/vy-voi-steffany-tran-designer-profile",
+      "excerpt": "Ancient cultural traditions are reinterpreted in the work of designer Steffany Tran of Vy Voi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fCzTJmEG3Tr2cDaqTtoWMN-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Japanese lanterns and fast-food branding inspire a nostalgic exhibition",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/empire-by-benjamin-slinger-london-exhibition",
+      "excerpt": "Rooted in millennial nostalgia, ‘Empire’ by Benjamin Slinger shines a light on global fast-food branding over the decades and questions ideas of value in design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HWuyXJZcsypCeQWri6MKWg-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "light’s nostalgic flip phone is ‘designed to be used as little as possible’",
+      "url": "https://www.designboom.com/technology/light-flip-reimagines-dumbphone-with-clamshell-design-and-no-social-media/",
+      "excerpt": "the device swaps addictive apps and touchscreens for physical keys, essential tools, and more intentional communication.\nThe post light’s nostalgic flip phone is ‘designed to be used as little as poss",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/imgi_26_YellowSite-1.jpg",
       "today": true
     },
     {
@@ -178,16 +220,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/range-rover-gt-unveiled",
       "excerpt": "The Range Rover GT is a luxury EV designed for long-distance, first-class travel. We take a look inside",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7my68J6baZ26S7ms76ykef-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Loewe Perfume’s pistachio-themed ice cream-bar takeover is deliciously whimsical",
-      "url": "https://www.wallpaper.com/entertaining/loewe-perfumes-ice-cream-bar-pop-up",
-      "excerpt": "The Spanish maison’s takeover of The Dreamery in north London is the perfect place to get a summer scoop",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sgunsSxbh9kMrD2Yda27TS-1920-80.png",
       "today": true
     },
     {
@@ -248,16 +280,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "New York was central to Keith Haring’s work. Now, it is a connection celebrated at 60 White",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/keith-haring-a-world-in-motion-60-white-new-york-review",
-      "excerpt": "‘Keith Haring: A World in Motion’ examines how the artist’s work served as a dialogue between New York and the rest of the world",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/s7gWbisv4R79FVTBXwdsiY-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -274,16 +296,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc/",
       "excerpt": "the proposal rethinks the tower podium by replacing it with a permeable landscape designed to absorb stormwater and support public life.\nThe post carlo ratti lifts seoul tower on ‘high heels’ to make ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "the architecture of optimism: treating friction as a catalyst for innovation",
-      "url": "https://www.designboom.com/architecture/optimism-friction-catalyst-innovation-room-for-dreams-podcast/",
-      "excerpt": "three leading architects detail why designing for the future requires a framework of active moral responsibility.\nThe post the architecture of optimism: treating friction as a catalyst for innovation ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-room-for-dreams-podcast-09-designboom-FB.jpg",
       "today": true
     },
     {
@@ -335,35 +347,6 @@ window.LUMINO_DATA = {
       "excerpt": "Public space is often understood as belonging to no one in particular, collectively accessible yet institutionally maintained, yet a growing number of initiatives are challenging this assumption by te",
       "thumbnailUrl": "https://images.adsttc.com/media/images/695b/0881/07c3/d11f/df5b/90e7/large_jpg/public-space-ownership_12.jpg?1767573651",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Algae \"biocells\" powered by photosynthesis could replace disposable batteries",
-      "url": "https://www.dezeen.com/2026/07/22/photosynthesis-powered-algae-biocells-e-pho/",
-      "excerpt": "Bio-designer Lucia Giron has worked with the University of Cambridge's Department of Biochemistry to develop prototypes of an algae-based battery alternative, which harnesses the power of photosynthes",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "A new portico and extension create a richly varied restoration of a popular Irish venue",
-      "url": "https://www.wallpaper.com/architecture/portico-and-extension-drumhalla-house-ireland",
-      "excerpt": "Drumhalla House, a popular event space, now features a new portico and more architectural interventions, bringing it closer to the landscape, and updating and enhancing its interiors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QMmhDSEGJbMcxboxrsTCEM-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Vanquish 25 celebrates a quarter century of Aston Martin’s flagship V12 GT",
-      "url": "https://www.wallpaper.com/transportation/vanquish-25-celebrates-a-quarter-century-of-aston-martins-flagship-v12-gt",
-      "excerpt": "Released in a strictly limited edition of 25 coupes and 25 convertibles, the new Aston Martin Vanquish 25 is pitched at car collectors with a passion for the marque’s most muscular model",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cwMd34CZHpLNRfn7qKkR6L-2560-80.jpg",
-      "today": false
     },
     {
       "source": "遠藤照明",
