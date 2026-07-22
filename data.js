@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  08:18",
+  "fetchedAt": "2026.07.22  11:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.22",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -166,6 +161,82 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
+      "title": "why does creativity need play? lidewij edelkoort & philip fimmano discuss their ‘inner child’",
+      "url": "https://www.designboom.com/design/creativity-play-lidewij-edelkoort-philip-fimmano-inner-child-artipelag-interview/",
+      "excerpt": "the curators behind the upcoming exhibition at artipelag reflect on why designers around the world are embracing emotional connection and experimentation as a new creative mindset.\nThe post why does c",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/creativity-play-lidewij-edelkoort-philip-fimmano-inner-child-artipelag-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Breezy louvre walls enclose restaurant in Thailand by Studio Locomotive",
+      "url": "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/",
+      "excerpt": "An external skin of timber louvres filters light and air into the double-height interiors of Waankarn, a restaurant and events space in Thailand designed by local architecture practice Studio Locomoti",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "20 winning projects spark submission for A’design award and competition 2027",
+      "url": "https://www.designboom.com/design/open-submission-a-design-award-and-competition-2027/",
+      "excerpt": "among an array of design disciplines, designboom shares a curated selection of past A' design award winners to fuel submissions for 2027.\nThe post 20 winning projects spark submission for A’design awa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/a-design-award_designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Kenta Hirayama clads House in Kinuta in steel-sheet facade",
+      "url": "https://www.dezeen.com/2026/07/22/kenta-hirayama-house-in-kinuta/",
+      "excerpt": "Architect Kenta Hirayama has designed an \"unpretentious house\" in Tokyo's Setagaya Ward, which features a metal facade and deliberately simple gabled roof. Called House in Kinuta, the detached home's ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "SANAA-led team wins ecuador national museum competition after revised selection process",
+      "url": "https://www.designboom.com/architecture/sanaa-team-ecuador-national-museum-muna-competition-revised-selection-process-estudioa0-caaporarq-jeromehaferdstudio/",
+      "excerpt": "designed as an extension of the landscape, 'estratos vivos' arranges galleries around planted courtyards, shaded terraces, and circular volumes.\nThe post SANAA-led team wins ecuador national museum co",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sanaa-team-ecuador-national-museum-muna-competition-revised-selection-process-estudioa0-caaporarq-jeromehaferdstudio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Marmoleum Cocoa flooring by Forbo Flooring",
+      "url": "https://www.dezeen.com/2026/07/22/marmoleum-cocoa-flooring-forbo-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: surface brand Forbo Flooring's Marmoleum Cocoa flooring makes use of unwanted cocoa shells – an oft-wasted by-product of the cocoa industry. Marmoleum Cocoa is an evolution of Forbo F",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "New York was central to Keith Haring’s work. Now, it is a connection celebrated at 60 White",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/keith-haring-a-world-in-motion-60-white-new-york-review",
+      "excerpt": "‘Keith Haring: A World in Motion’ examines how the artist’s work served as a dialogue between New York and the rest of the world",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/s7gWbisv4R79FVTBXwdsiY-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "MVRDV wraps Beijing roof tiles around Chinese moon gates for fashion flagship store",
+      "url": "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
+      "excerpt": "Architecture studio MVRDV has designed a flagship store for Chinese fashion brand Urban Revivo in Beijing, China, with a dramatic facade informed by the roof tiles on the city's traditional houses. Lo",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
       "title": "carlo ratti lifts seoul tower on ‘high heels’ to make room for water, trees and public life",
       "url": "https://www.designboom.com/architecture/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc/",
       "excerpt": "the proposal rethinks the tower podium by replacing it with a permeable landscape designed to absorb stormwater and support public life.\nThe post carlo ratti lifts seoul tower on ‘high heels’ to make ",
@@ -183,23 +254,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "anna & eugeni bach reframes house in fonolleres with wood and ochre ceramics",
-      "url": "https://www.designboom.com/architecture/anna-eugeni-bach-house-fonolleres-wood-ochre-ceramics/",
-      "excerpt": "the project uses porches, pergolas, and canopies to harness shade as a climate-responsive strategy for mediterranean living.\nThe post anna & eugeni bach reframes house in fonolleres with wood and ochr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/anna-eugeni-bach-house-fonolleres-wood-ochre-ceramics-designboom-1200-1-1.jpg",
+      "title": "Algae \"biocells\" powered by photosynthesis could replace disposable batteries",
+      "url": "https://www.dezeen.com/2026/07/22/photosynthesis-powered-algae-biocells-e-pho/",
+      "excerpt": "Bio-designer Lucia Giron has worked with the University of Cambridge's Department of Biochemistry to develop prototypes of an algae-based battery alternative, which harnesses the power of photosynthes",
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "soho house begins transforming milan’s former cinema arti into six-level members’ club",
-      "url": "https://www.designboom.com/architecture/soho-house-transforming-milans-cinema-arti-members-club/",
-      "excerpt": "new club will feature more than 50 rooms, a rooftop pool, gym, courtyard, and interiors shaped by milanese craft and rationalist heritage.\nThe post soho house begins transforming milan’s former cinema",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/imgi_6_03_milan_34_1.jpeg",
+      "title": "Neither Farm Nor Hotel: Why Agritourism Needs Its Own Architectural Typology",
+      "url": "https://www.archdaily.com/1171797/neither-farm-nor-hotel-why-agritourism-needs-its-own-architectural-typology",
+      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/cafe/3d21/f777/d245/603c/large_jpg/agrotourism_9.jpg?1784400647",
       "today": true
     },
     {
@@ -216,20 +286,30 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.22",
+      "title": "Museum of Humanity / studio apaaar",
+      "url": "https://www.archdaily.com/1181267/museum-of-humanity-studio-apaaar",
+      "excerpt": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'. An individual suddenly hands you a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/fd00/895c/1800/0111/7c8a/large_jpg/Museum_of_Humanity-pranit_bora-16.jpg?1784544613",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Forest of Knowledge Library / studio hinge",
+      "url": "https://www.archdaily.com/1181268/forest-of-knowledge-library-studio-hinge",
+      "excerpt": "Going beyond books, the library is reimagined as a forest of knowledge, bringing people together to foster learning in a space inspired by the canopy of foliage in the adjacent street, reminiscent of ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/fee3/895c/1800/0111/7ca2/large_jpg/CCI_StudioHinge-21.jpg?1784545282",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
       "title": "Made to Measure: Herzog & de Meuron’s Architectural Approach to Furniture Design",
       "url": "https://www.archdaily.com/1148656/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design",
       "excerpt": "What allows a single architectural principle to generate many different outcomes? The answer lies in the systems that organize architecture: geometry, proportion, structure, and construction. Together",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/3d32/3bfa/3d01/8870/055d/large_jpg/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design_1.jpg?1784036677",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "the krank turns greek beach into land art scene of ancient hunters and modern extraction",
-      "url": "https://www.designboom.com/art/land-art-greek-beach-scene-ancient-hunters-modern-extraction-the-krank-the-hunt/",
-      "excerpt": "the krank turns a beach into a mythological battlefield over planned offshore drilling.\nThe post the krank turns greek beach into land art scene of ancient hunters and modern extraction appeared first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/the-krank-the-hunt-temporary-land-art-installation-othonoi-island-greece-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -253,15 +333,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Maritime renewable energy centre among projects from Norwich University of the Arts",
-      "url": "https://www.dezeen.com/2026/07/21/maritime-renewable-energy-centre-projects-norwich-university-of-the-arts-schoolshows/",
-      "excerpt": "Dezeen School Shows: a renewable energy centre converting seaweed and flying-fish waste into biogas is among the projects from Norwich University of the Arts. Also featured is a subterranean architect",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -272,44 +343,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Martha Beatriz House / Atempo Arquitectura",
-      "url": "https://www.archdaily.com/1181404/martha-beatriz-house-atempo-arquitectura",
-      "excerpt": "Martha Beatriz House is a renovation and expansion project of a residence located in a residential neighborhood of the Historic Center of Cuenca. The house is named after Martha Beatriz Cardoso Faicán",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/b715/e8f5/cb01/8987/b2e3/large_jpg/casa-martha-beatriz-atempo-arquitectura_1.jpg?1784657706",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Dezeen Debate features \"tech-bro Death Star\"",
-      "url": "https://www.dezeen.com/2026/07/21/dezeen-debate-space-mirror-ffc-approval-reflect-orbital/",
-      "excerpt": "The latest Dezeen Debate newsletter features the news that the US has authorised the deployment of a giant space mirror to illuminate Earth after dark. Subscribe to Dezeen Debate now. Following approv",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Rerucha Studio organises Seattle house as \"small village of connected spaces\"",
-      "url": "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/",
-      "excerpt": "Local architecture practice Rerucha Studio has arranged a cedar-clad house with detached elements around a central courtyard to function like a park in Seattle, Washington, USA. Aptly named Park House",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Ponta Fina House - Aiuruoca / Gil Mello Arquitetura",
-      "url": "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
-      "excerpt": "The design of Sítio da Ponta Fina, located in Aiuruoca, Minas Gerais, revives the occupation of a plateau on the slopes of the Serra do Papagaio, introducing a main house alongside complementary struc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/0e29/895c/1800/0111/7cd1/large_jpg/DJI_0929_copyright_manuel_sa.jpg?1784549134",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -317,44 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/dominik-tarabanski-photographer-profile",
       "excerpt": "The natural world is reinvented in the work of Polish-born, New York-based photographer Dominik Tarabański, part of our ‘American Dreams’ series of five US studios whose founders embody a new generati",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yidn67q3ncfh3fzRzx5Pd4-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Why jazz and dance shoes are this summer’s most uplifting footwear",
-      "url": "https://www.wallpaper.com/fashion-beauty/jazz-dance-and-ballet-inspired-shoes",
-      "excerpt": "We pick the best jazz, dance and ballet-inspired shoes, a style that has become ubiquitous on the runway – most notably, at Michael Rider’s Celine",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/smcHtx93BKjhegvLMhcmGH-1540-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "How stadiums are turning into entertainment districts",
-      "url": "https://www.dezeen.com/2026/07/21/future-stadium-sports-anchored-districts-development/",
-      "excerpt": "As developmental models for sports venues shift, architects and planners are being tasked with designing vast districts to support year-round activity. For our Future Stadium series, we look at the ri",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Museum celebrating work of RNLI among projects from Lancaster University",
-      "url": "https://www.dezeen.com/2026/07/21/museum-celebrating-work-of-rnli-lancaster-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a museum dedicated to celebrating the history of Folkestone, UK, and the work of the RNLI is among projects from Lancaster University. Also featured is a proposal for a textile re",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Casa Óculo / OHLAB",
-      "url": "https://www.archdaily.com/1148797/casa-culo-ohlab",
-      "excerpt": "Casa Óculo is a single-family house located in a residential neighborhood on the outskirts of Palma. Defined by a simple yet bold architectural gesture – a large flat roof that stretches from east to ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/adf1/d425/1a00/01c4/ba34/large_jpg/OHLAB_Casa_Oculo_Turixant_Photo_Hevia_25_-_copia.jpg?1784196607",
       "today": false
     },
     {
@@ -458,6 +453,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -488,6 +493,46 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -495,6 +540,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -525,6 +580,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.08",
+      "title": "O-LIGHT designed by Keiji Takeuchi",
+      "url": "https://www.yamagiwa.co.jp/news/79075/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
