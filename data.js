@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  11:03",
+  "fetchedAt": "2026.07.22  13:30",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -97,6 +101,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.22",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -155,6 +168,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Meet the Range Rover GT, the company’s third EV and most car-like creation to date",
+      "url": "https://www.wallpaper.com/transportation/range-rover-gt-unveiled",
+      "excerpt": "The Range Rover GT is a luxury EV designed for long-distance, first-class travel. We take a look inside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7my68J6baZ26S7ms76ykef-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Loewe Perfume’s pistachio-themed ice cream-bar takeover is deliciously whimsical",
+      "url": "https://www.wallpaper.com/entertaining/loewe-perfumes-ice-cream-bar-pop-up",
+      "excerpt": "The Spanish maison’s takeover of The Dreamery in north London is the perfect place to get a summer scoop",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sgunsSxbh9kMrD2Yda27TS-1920-80.png",
       "today": true
     },
     {
@@ -254,22 +287,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "Algae \"biocells\" powered by photosynthesis could replace disposable batteries",
-      "url": "https://www.dezeen.com/2026/07/22/photosynthesis-powered-algae-biocells-e-pho/",
-      "excerpt": "Bio-designer Lucia Giron has worked with the University of Cambridge's Department of Biochemistry to develop prototypes of an algae-based battery alternative, which harnesses the power of photosynthes",
+      "title": "A Wooden Bench and the Geography of Materials",
+      "url": "https://www.archdaily.com/1148942/a-wooden-bench-and-the-geography-of-materials",
+      "excerpt": "Images of the benches at New York City's High Line Park spread around the world when the project opened in 2009. Emerging diagonally from the same material and modular pattern as the paving, they tran",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/650f/e8f5/cb01/8987/a720/large_jpg/a-wooden-bench-and-the-geography-of-materials_4.jpg?1784309028",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "Neither Farm Nor Hotel: Why Agritourism Needs Its Own Architectural Typology",
-      "url": "https://www.archdaily.com/1171797/neither-farm-nor-hotel-why-agritourism-needs-its-own-architectural-typology",
-      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/cafe/3d21/f777/d245/603c/large_jpg/agrotourism_9.jpg?1784400647",
+      "title": "Santuario De La Salle / CAZA Architects",
+      "url": "https://www.archdaily.com/1092506/santuario-de-la-salle-caza-architects",
+      "excerpt": "How can a church serve as an anchor for a broader community? This central question drove the conceptualization of Santuario de La Salle, an inclusive religious space designed by CAZA for the De La Sal",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/f60c/e05c/0800/010e/136b/large_jpg/26_RoryGardiner1584c.jpg?1783690811",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "\"Design Is Inseparable from Activism\": In Conversation with Andrés Jaque at the UIA World Congress of Architects 2026",
+      "url": "https://www.archdaily.com/1181438/design-is-inseparable-from-activism-in-conversation-with-andres-jaque-at-the-uia-world-congress-of-architects-2026",
+      "excerpt": "At the UIA World Congress of Architects 2026 in Barcelona, the theme Becoming. Architectures for a Planet in Transition framed architecture as a discipline operating within environmental, political, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/8d38/16b1/5001/8833/d6d9/large_jpg/design-is-inseparable-from-activism-in-conversation-with-andres-jaque-at-the-uia-world-congress-of-architects-2026_1.jpg?1784712528",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Urban Revivo Sanlitun Flagship Store / MVRDV",
+      "url": "https://www.archdaily.com/1181284/urban-revivo-sanlitun-flagship-store-mvrdv",
+      "excerpt": "MVRDV-designed Urban Revivo flagship store in Beijing blends local architecture with global aspirations.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/31cb/e8f5/cb01/8987/ac4e/large_jpg/urban-revivo-sanlitun-flagship-store-mvrdv_1.jpg?1784558060",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Who Owns Public Space? Three Active Models of Shared Management Shaping Urban Commons in Europe and New York",
+      "url": "https://www.archdaily.com/1037479/who-owns-public-space-three-active-models-of-shared-management-shaping-urban-commons-in-europe-and-new-york",
+      "excerpt": "Public space is often understood as belonging to no one in particular, collectively accessible yet institutionally maintained, yet a growing number of initiatives are challenging this assumption by te",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/695b/0881/07c3/d11f/df5b/90e7/large_jpg/public-space-ownership_12.jpg?1767573651",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Algae \"biocells\" powered by photosynthesis could replace disposable batteries",
+      "url": "https://www.dezeen.com/2026/07/22/photosynthesis-powered-algae-biocells-e-pho/",
+      "excerpt": "Bio-designer Lucia Giron has worked with the University of Cambridge's Department of Biochemistry to develop prototypes of an algae-based battery alternative, which harnesses the power of photosynthes",
       "today": true
     },
     {
@@ -283,46 +356,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Museum of Humanity / studio apaaar",
-      "url": "https://www.archdaily.com/1181267/museum-of-humanity-studio-apaaar",
-      "excerpt": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'. An individual suddenly hands you a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/fd00/895c/1800/0111/7c8a/large_jpg/Museum_of_Humanity-pranit_bora-16.jpg?1784544613",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Forest of Knowledge Library / studio hinge",
-      "url": "https://www.archdaily.com/1181268/forest-of-knowledge-library-studio-hinge",
-      "excerpt": "Going beyond books, the library is reimagined as a forest of knowledge, bringing people together to foster learning in a space inspired by the canopy of foliage in the adjacent street, reminiscent of ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/fee3/895c/1800/0111/7ca2/large_jpg/CCI_StudioHinge-21.jpg?1784545282",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Made to Measure: Herzog & de Meuron’s Architectural Approach to Furniture Design",
-      "url": "https://www.archdaily.com/1148656/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design",
-      "excerpt": "What allows a single architectural principle to generate many different outcomes? The answer lies in the systems that organize architecture: geometry, proportion, structure, and construction. Together",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/3d32/3bfa/3d01/8870/055d/large_jpg/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design_1.jpg?1784036677",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "REDGE Contemporary Art Center  / Atelier Meadow",
-      "url": "https://www.archdaily.com/1148855/redge-contemporary-art-center-atelier-meadow",
-      "excerpt": "As contemporary buildings become obsolete faster than cities can regenerate them, REDGE Contemporary Art Center explores adaptive reuse as a strategy not only for retaining existing buildings, but for",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/a3ee/895c/1800/0111/74b5/large_jpg/05_-REDGE_-Contemporary-Art-Center-_Atelier-Meadow_-picture-_DONG____.jpg?1784259607",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.21",
@@ -330,26 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/vanquish-25-celebrates-a-quarter-century-of-aston-martins-flagship-v12-gt",
       "excerpt": "Released in a strictly limited edition of 25 coupes and 25 convertibles, the new Aston Martin Vanquish 25 is pitched at car collectors with a passion for the marque’s most muscular model",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cwMd34CZHpLNRfn7qKkR6L-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "These 5 endangered sites designed by Black architects just received critical preservation grants",
-      "url": "https://www.wallpaper.com/architecture/consrving-black-modernism-grant-2026",
-      "excerpt": "Conserving Black Modernism, an initiative from the Getty Foundation and The National Trust for Historic Preservation, aims to protect sites that are integral to Black history and design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FYggyrBaGEd3iNE5ksQ2WL-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "Resembling Dutch flower paintings, Dominik Tarabański’s photographs sit at the cusp of ‘synthetic and organic’",
-      "url": "https://www.wallpaper.com/design-interiors/dominik-tarabanski-photographer-profile",
-      "excerpt": "The natural world is reinvented in the work of Polish-born, New York-based photographer Dominik Tarabański, part of our ‘American Dreams’ series of five US studios whose founders embody a new generati",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yidn67q3ncfh3fzRzx5Pd4-1920-80.png",
       "today": false
     },
     {
