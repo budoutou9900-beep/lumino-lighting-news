@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  15:28",
+  "fetchedAt": "2026.07.22  17:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "heat-pressed artificial wood melts into organic joints for mocky furniture series",
+      "url": "https://www.designboom.com/design/heat-pressed-artificial-wood-organic-joints-mocky-furniture-series-tact-inoue/",
+      "excerpt": "the furniture process is closer to molding than conventional assembly.\nThe post heat-pressed artificial wood melts into organic joints for mocky furniture series appeared first on designboom | archite",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mocky-furniture-series-tact-inoue-artificial-wood-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "Is this 3,000-year-old superfood the key to wellbeing?",
+      "url": "https://www.wallpaper.com/fashion-beauty/wellness/cacao-superfood-maria-cacao-mexico",
+      "excerpt": "María Cacao is the Mexico City-based brand hoping to make ceremonial-grade cacao a part of your everyday routine",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8YN8X9RFyckWpVJMvkZYcc-1800-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "topographic camouflage traces the low-slung form of range rover’s new electric GT",
+      "url": "https://www.designboom.com/technology/topographic-camouflage-range-rover-gt-electric-car/",
+      "excerpt": "range rover is stretching its familiar high-riding shape into a lower, sleeker grand tourer with this newly previews electric GT.\nThe post topographic camouflage traces the low-slung form of range rov",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/range-rover-gt-preview-designboom-01.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -213,16 +243,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Meet the Range Rover GT, the company’s third EV and most car-like creation to date",
-      "url": "https://www.wallpaper.com/transportation/range-rover-gt-unveiled",
-      "excerpt": "The Range Rover GT is a luxury EV designed for long-distance, first-class travel. We take a look inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7my68J6baZ26S7ms76ykef-1920-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -261,13 +281,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "SANAA-led team wins ecuador national museum competition after revised selection process",
-      "url": "https://www.designboom.com/architecture/sanaa-team-ecuador-national-museum-muna-competition-revised-selection-process-estudioa0-caaporarq-jeromehaferdstudio/",
-      "excerpt": "designed as an extension of the landscape, 'estratos vivos' arranges galleries around planted courtyards, shaded terraces, and circular volumes.\nThe post SANAA-led team wins ecuador national museum co",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sanaa-team-ecuador-national-museum-muna-competition-revised-selection-process-estudioa0-caaporarq-jeromehaferdstudio-designboom-1200.jpg",
+      "title": "LifeLine Community Centre / Assemble",
+      "url": "https://www.archdaily.com/1181246/lifeline-community-centre-assemble",
+      "excerpt": "On East London's Becontree Estate, Assemble has converted a pair of former United Dairies warehouses into a new home for LifeLine Church and the charity Community Resources.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4f8/895c/1800/0111/7b61/large_jpg/LifeLineCommunity-JimStephenson-16.jpg?1784538571",
       "today": true
     },
     {
@@ -286,16 +306,6 @@ window.LUMINO_DATA = {
       "title": "MVRDV wraps Beijing roof tiles around Chinese moon gates for fashion flagship store",
       "url": "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
       "excerpt": "Architecture studio MVRDV has designed a flagship store for Chinese fashion brand Urban Revivo in Beijing, China, with a dramatic facade informed by the roof tiles on the city's traditional houses. Lo",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "carlo ratti lifts seoul tower on ‘high heels’ to make room for water, trees and public life",
-      "url": "https://www.designboom.com/architecture/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc/",
-      "excerpt": "the proposal rethinks the tower podium by replacing it with a permeable landscape designed to absorb stormwater and support public life.\nThe post carlo ratti lifts seoul tower on ‘high heels’ to make ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc-designboom-1200.jpg",
       "today": true
     },
     {
@@ -336,16 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181284/urban-revivo-sanlitun-flagship-store-mvrdv",
       "excerpt": "MVRDV-designed Urban Revivo flagship store in Beijing blends local architecture with global aspirations.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/31cb/e8f5/cb01/8987/ac4e/large_jpg/urban-revivo-sanlitun-flagship-store-mvrdv_1.jpg?1784558060",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Who Owns Public Space? Three Active Models of Shared Management Shaping Urban Commons in Europe and New York",
-      "url": "https://www.archdaily.com/1037479/who-owns-public-space-three-active-models-of-shared-management-shaping-urban-commons-in-europe-and-new-york",
-      "excerpt": "Public space is often understood as belonging to no one in particular, collectively accessible yet institutionally maintained, yet a growing number of initiatives are challenging this assumption by te",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/695b/0881/07c3/d11f/df5b/90e7/large_jpg/public-space-ownership_12.jpg?1767573651",
       "today": true
     },
     {
