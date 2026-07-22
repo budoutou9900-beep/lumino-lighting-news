@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  05:43",
+  "fetchedAt": "2026.07.22  08:18",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "久留米ファン": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -97,6 +93,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.22",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -161,6 +166,36 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
+      "title": "carlo ratti lifts seoul tower on ‘high heels’ to make room for water, trees and public life",
+      "url": "https://www.designboom.com/architecture/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc/",
+      "excerpt": "the proposal rethinks the tower podium by replacing it with a permeable landscape designed to absorb stormwater and support public life.\nThe post carlo ratti lifts seoul tower on ‘high heels’ to make ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/carlorattiassociati-cra-seoul-tower-high-heels-room-water-trees-public-life-gsenc-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "the architecture of optimism: treating friction as a catalyst for innovation",
+      "url": "https://www.designboom.com/architecture/optimism-friction-catalyst-innovation-room-for-dreams-podcast/",
+      "excerpt": "three leading architects detail why designing for the future requires a framework of active moral responsibility.\nThe post the architecture of optimism: treating friction as a catalyst for innovation ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-room-for-dreams-podcast-09-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
+      "title": "anna & eugeni bach reframes house in fonolleres with wood and ochre ceramics",
+      "url": "https://www.designboom.com/architecture/anna-eugeni-bach-house-fonolleres-wood-ochre-ceramics/",
+      "excerpt": "the project uses porches, pergolas, and canopies to harness shade as a climate-responsive strategy for mediterranean living.\nThe post anna & eugeni bach reframes house in fonolleres with wood and ochr",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/anna-eugeni-bach-house-fonolleres-wood-ochre-ceramics-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.22",
       "title": "soho house begins transforming milan’s former cinema arti into six-level members’ club",
       "url": "https://www.designboom.com/architecture/soho-house-transforming-milans-cinema-arti-members-club/",
       "excerpt": "new club will feature more than 50 rooms, a rooftop pool, gym, courtyard, and interiors shaped by milanese craft and rationalist heritage.\nThe post soho house begins transforming milan’s former cinema",
@@ -191,9 +226,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.22",
-      "title": "land art turns a greek beach into a scene of ancient hunters and modern extraction",
+      "title": "the krank turns greek beach into land art scene of ancient hunters and modern extraction",
       "url": "https://www.designboom.com/art/land-art-greek-beach-scene-ancient-hunters-modern-extraction-the-krank-the-hunt/",
-      "excerpt": "the krank turns a beach into a mythological battlefield over planned offshore drilling.\nThe post land art turns a greek beach into a scene of ancient hunters and modern extraction appeared first on de",
+      "excerpt": "the krank turns a beach into a mythological battlefield over planned offshore drilling.\nThe post the krank turns greek beach into land art scene of ancient hunters and modern extraction appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/the-krank-the-hunt-temporary-land-art-installation-othonoi-island-greece-designboom-1200-1-1.jpg",
       "today": true
     },
@@ -215,16 +250,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/vanquish-25-celebrates-a-quarter-century-of-aston-martins-flagship-v12-gt",
       "excerpt": "Released in a strictly limited edition of 25 coupes and 25 convertibles, the new Aston Martin Vanquish 25 is pitched at car collectors with a passion for the marque’s most muscular model",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cwMd34CZHpLNRfn7qKkR6L-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "sliding timber frames and reused materials shape reversible pavilion within swiss meadow",
-      "url": "https://www.designboom.com/architecture/sliding-timber-frames-reused-materials-reversible-pavilion-swiss-meadow-piertzovanis-toews/",
-      "excerpt": "movable panels adapt the space to different uses, from a lounge and stage to an open-air theater.\nThe post sliding timber frames and reused materials shape reversible pavilion within swiss meadow appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sliding-timber-doors-reused-materials-reversible-pavilion-switzerland-piertzovanis-toews-designboom-1200-1.jpg",
       "today": false
     },
     {
@@ -254,16 +279,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181404/martha-beatriz-house-atempo-arquitectura",
       "excerpt": "Martha Beatriz House is a renovation and expansion project of a residence located in a residential neighborhood of the Historic Center of Cuenca. The house is named after Martha Beatriz Cardoso Faicán",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/b715/e8f5/cb01/8987/b2e3/large_jpg/casa-martha-beatriz-atempo-arquitectura_1.jpg?1784657706",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "cipherX applies painless permanent tattoos with dissolving microneedle patches",
-      "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
-      "excerpt": "a patch featuring dissolving microneedles turns digital designs into small permanent tattoos applied in fifteen minutes.\nThe post cipherX applies painless permanent tattoos with dissolving microneedle",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cipherx-microdot-tattoo-patch-permanent-designboom-01.jpg",
       "today": false
     },
     {
@@ -340,16 +355,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148797/casa-culo-ohlab",
       "excerpt": "Casa Óculo is a single-family house located in a residential neighborhood on the outskirts of Palma. Defined by a simple yet bold architectural gesture – a large flat roof that stretches from east to ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/adf1/d425/1a00/01c4/ba34/large_jpg/OHLAB_Casa_Oculo_Turixant_Photo_Hevia_25_-_copia.jpg?1784196607",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.21",
-      "title": "surreal mother and son photo series tells the lives of korean women through humor and play",
-      "url": "https://www.designboom.com/art/surreal-mother-son-photo-series-narrates-lives-korean-women-humor-play/",
-      "excerpt": "using starfish, red long underwear, and the buddhist ideas of rebirth, photographer daesung lee and his mother capture a moment in the history of korean women. \nThe post surreal mother and son photo s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/nirvana-daesung-lee-designboom-15.jpg",
       "today": false
     },
     {
@@ -453,16 +458,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -493,46 +488,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.12",
@@ -540,16 +495,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
@@ -580,16 +525,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
