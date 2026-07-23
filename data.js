@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  19:06",
+  "fetchedAt": "2026.07.23  20:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -96,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.23",
@@ -155,6 +145,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Theatre for refugees, asylum seekers and migrants among projects from Middlesex University",
+      "url": "https://www.dezeen.com/2026/07/23/theatre-for-refugees-asylum-seekers-and-migrants-among-projects-from-middlesex-university/",
+      "excerpt": "Dezeen School Shows: a theatre in London designed for international students, refugees, asylum seekers, early-career workers and first-generation migrants is among projects from Middlesex University. ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Dezeen Agenda features the stadiums hosting the 2030 World Cup",
+      "url": "https://www.dezeen.com/2026/07/23/dezeen-agenda-2030-world-cup-stadiums-future-stadium/",
+      "excerpt": "As part of our Future Stadium series, the latest edition of our weekly Dezeen Agenda newsletter features a roundup of all 23 stadiums set to host the 2030 World Cup. Subscribe to Dezeen Agenda now. Th",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -180,6 +188,16 @@ window.LUMINO_DATA = {
       "title": "Waterfront repair and craft hub among projects from University of Plymouth",
       "url": "https://www.dezeen.com/2026/07/23/waterfront-repair-craft-hub-university-of-plymouth-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal for a waterside repair and reuse hub exploring craft, material reuse and environmental stewardship is among projects from the University of Plymouth. Also featured is a",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Casa Diez Pies / Studio Font",
+      "url": "https://www.archdaily.com/1181260/casa-diez-pies-studio-font",
+      "excerpt": "Site and landscape - Casa Diez Pies is conceived as a puzzle resolved with a single piece: a module repeated four times and offset by 50 cm in plan and 50 cm in section, allowing the whole to adapt to",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/ec8c/e8f5/cb01/8987/a9b2/large_jpg/casa-diez-pies-studio-font_3.jpg?1784540320",
       "today": true
     },
     {
@@ -282,24 +300,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "HYAN renovates 70s home in Japan around \"single, continuous\" living space",
-      "url": "https://www.dezeen.com/2026/07/23/hyan-green-sandwich-house-renovation-japan/",
-      "excerpt": "Local architecture studio HYAN has renovated Green Sandwich House, a 1970s home in Japan, using a palette of timber, plaster and tiles to bring \"warmth and texture\" to a flexible, open living space. N",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "World's tallest timber tower tops out in Sydney",
-      "url": "https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/",
-      "excerpt": "The Atlassian Central skyscraper, designed by SHoP Architects and BVN Architecture, in Sydney, Australia, has become the world's tallest hybrid timber tower. Designed as the Sydney headquarters for te",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -347,16 +347,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181422/before-the-living-room-entry-thresholds-in-compact-urban-homes",
       "excerpt": "In many homes, the entry is treated as leftover space or a narrow strip transition before the living room begins. Yet in dense Asia-Pacific interiors, sometimes despite the small sizes, the entrance o",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/3de2/d7be/a801/8b1f/c862/large_jpg/before-the-living-room-entry-thresholds-in-apac-residential-interiors_12.jpg?1784692199",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Natural History Museum Abu Dhabi / Mecanoo",
-      "url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
-      "excerpt": "The concept for the Natural History Museum Abu Dhabi is rooted in the meeting of water and earth, recognizing this ever-changing boundary as a place of origin, movement and transformation. Rather than",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/8bb4/3d21/f701/89c9/3585/large_jpg/natural-history-museum-abu-dhabi-mecanoo_2.jpg?1784581086",
       "today": true
     },
     {
