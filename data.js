@@ -1,39 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  20:57",
+  "fetchedAt": "2026.07.23  22:03",
   "sourceColors": {
-    "axismag.jp": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -76,72 +48,13 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.23",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.07.23",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "reclaimed oak, cork, and cardboard build flexible furniture for cultural hub in NY",
+      "url": "https://www.designboom.com/architecture/reclaimed-oak-cork-cardboard-flexible-furniture-cultural-hub-ny-medina-triennial-hub-serweta-peck/",
+      "excerpt": "a big splash of teal unifies a family of bespoke furniture for the new headquarters of an inaugural art triennial in rural western new york.\nThe post reclaimed oak, cork, and cardboard build flexible ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/medina-triennial-hub-serweta-peck-adaptive-reuse-interior-renovation-new-york-designboom-1200.jpg",
       "today": true
     },
     {
@@ -317,16 +230,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181349/dak-coffee-roasters-barde-plus-vanvoltt",
       "excerpt": "Located in Amsterdam, DAK Coffee Roasters is a hybrid coffee destination that combines a specialty coffee bar, retail space, tasting room, and workplace within a single architectural concept. Designed",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/4168/895c/1800/0111/8115/large_jpg/15._Barde_vanVoltt_DAK_coffeeroasters_Sarah_Wijzenbeek.jpg?1784627631",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "sharmistha ray turns pittsburgh pickleball courts into playable geometric artwork",
-      "url": "https://www.designboom.com/art/sharmistha-ray-artist-pittsburgh-pickleball-courts-playable-geometric-artwork/",
-      "excerpt": "abstract painting, historic game boards, and community recreation come together at pittsburgh’s vibrant arts landing.\nThe post sharmistha ray turns pittsburgh pickleball courts into playable geometric",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sharmistha-ray-artist-pittsburgh-pickleball-courts-playable-geometric-artwork-designboom-02242.jpg",
       "today": true
     },
     {
