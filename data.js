@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  17:14",
+  "fetchedAt": "2026.07.23  19:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -222,6 +222,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Casa Arbo Residential Building / Perkins&Will",
+      "url": "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
+      "excerpt": "On a quiet, tree-lined street in a neighborhood that preserves a significant part of São Paulo's residential tradition, Casa Arbo emerges from a simple idea: to create a building capable of offering t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/6012/895c/1800/0111/8236/large_jpg/DJI_20260526171246_0883_D_copiar.jpg?1784635531",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -229,6 +239,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage",
       "excerpt": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HpigHWTDvKhmPV2cnrcque-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Carla Ridge House / Montalba Architects",
+      "url": "https://www.archdaily.com/1181419/carla-ridge-house-montalba-architects",
+      "excerpt": "Overlooking Beverly Hills, this single-story residence offers unique views of the hillside, valley and expanding city beyond. The home seamlessly blends interior and exterior spaces by intertwining se",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/d2f5/d7be/a801/8b1f/c7d7/large_jpg/carla-ridge-house-montalba-architects_6.jpg?1784664854",
       "today": true
     },
     {
@@ -337,26 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
       "excerpt": "The concept for the Natural History Museum Abu Dhabi is rooted in the meeting of water and earth, recognizing this ever-changing boundary as a place of origin, movement and transformation. Rather than",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/8bb4/3d21/f701/89c9/3585/large_jpg/natural-history-museum-abu-dhabi-mecanoo_2.jpg?1784581086",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "5 Design Strategies for Contemporary Bathrooms",
-      "url": "https://www.archdaily.com/1092229/5-design-strategies-for-contemporary-bathrooms",
-      "excerpt": "What defines the quality of a bathroom beyond its basic functions? As one of the most private spaces within the home, the bathroom is closely connected to everyday rituals and moments of pause. While ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/28ca/2be1/122a/b429/0cfa/large_jpg/the-bathroom-beyond-function-5-contemporary-design-strategies_3.jpg?1783507186",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Rike Park Music Theater in Tbilisi and CRA's Residential Tower in Seoul: This Week's Review",
-      "url": "https://www.archdaily.com/1181538/rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review",
-      "excerpt": "This week in architecture, discussions around the lifespan of buildings, the evolution of cultural institutions, and climate-responsive design highlighted how contemporary practice increasingly extend",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/dd00/230f/7701/8660/6319/large_jpg/studio-fuksas-rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review_4.jpg?1784798472",
       "today": true
     },
     {
