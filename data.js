@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  05:49",
+  "fetchedAt": "2026.07.23  08:21",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -100,6 +100,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.23",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.23",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.23",
@@ -117,15 +136,6 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
       "today": true
     },
     {
@@ -155,6 +165,93 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Dezeen Awards 2026 party to be held at London's Royal Opera House",
+      "url": "https://www.dezeen.com/2026/07/23/dezeen-awards-2026-party-royal-opera-house/",
+      "excerpt": "This year's Dezeen Awards party will take place on 16 November at London's historic Royal Opera House, with tickets going on sale on 18 August. The event will bring together everyone who entered this ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "OOIIO wraps reused madrid auto center in permeable skin of vertical metal slats",
+      "url": "https://www.designboom.com/architecture/ooiio-reused-madrid-auto-center-permeable-skin-vertical-metal-slats/",
+      "excerpt": "technical infrastructure becomes part of the architectural language.\nThe post OOIIO wraps reused madrid auto center in permeable skin of vertical metal slats appeared first on designboom | architectur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ooiio-reused-madrid-auto-center-permeable-skin-vertical-metal-slats-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Student grows fuzzy fridge from bacteria to challenge norms around cooling",
+      "url": "https://www.dezeen.com/2026/07/23/audrey-levy-xero-cool-fridge/",
+      "excerpt": "Designer Audrey Levy has reimagined a common household appliance with her project How to Grow a Refrigerator, applying sustainable insulating and cooling technologies that take advantage of the power ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Forbo incorporates discarded cocoa shells into Marmoleum flooring",
+      "url": "https://www.dezeen.com/2026/07/23/forbo-cacao-marmoleum-flooring/",
+      "excerpt": "Flooring manufacturer Forbo has revealed how agricultural waste from cacao production has been repurposed into flooring that supports cacao-growing communities in West Africa in this exclusive video p",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "South of Everything: Architecture and Territorial Presence in Antarctica",
+      "url": "https://www.archdaily.com/1092554/south-of-everything-architecture-and-territorial-presence-in-antarctica",
+      "excerpt": "Antarctica has no government, no permanent population, and no economy. It also, since 1959, has had no legally recognized owner as the Antarctic Treaty freezes every territorial claim on the continent",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a52/ad9e/a6cc/5601/89e4/e07f/large_jpg/south-of-everything-architecture-in-antarctica_7.jpg?1783803303",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "cristina iglesias grows luminous northern lights dome from stockholm’s forest bedrock",
+      "url": "https://www.designboom.com/art/cristina-iglesias-sculpture-northern-lights-dome-stockholm-forest-bedrock/",
+      "excerpt": "dome transforms stockholm’s historic hunting ground into a luminous sanctuary for contemplation.\nThe post cristina iglesias grows luminous northern lights dome from stockholm’s forest bedrock appeared",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cristina-iglesias-sculpture-northern-lights-dome-stockholm-forest-bedrock-designboom-0230.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Apartment in Uehara / ULTRA STUDIO",
+      "url": "https://www.archdaily.com/1181423/apartment-in-uehara-ultra-studio",
+      "excerpt": "Tokyo's streetscape is often criticized—or praised—for its lack of uniformity, as arbitrary buildings crowd each individual plot. This chaotic quality is frequently cited as the city's defining featur",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/550f/d7be/a879/b7b0/d07f/large_jpg/apartment-in-uehara-ultra-studio_4.jpg?1784698163",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "JA House / Ayoub Architects",
+      "url": "https://www.archdaily.com/1181368/ja-house-ayoub-architects",
+      "excerpt": "JA House is shaped by the unique character of its site in southern Amman, overlooking one of the city's largest public parks with uninterrupted panoramic views. The steep topography and the preserved ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/6c0d/895c/1800/0111/8263/large_jpg/_DSC9057_copy.jpg?1784638567",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "The Responsibility of Optimism",
+      "url": "https://www.archdaily.com/1181471/the-responsibility-of-optimism",
+      "excerpt": "Recorded live at Milan Design Week 2026 in cooperation with INDX|GLOBAL, the ninth episode of the Room For Dreams podcast brings together architects Rajiv Parekh of Red Architects, Hiren Patel of HPAD",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/c394/16b1/5001/8833/d916/large_jpg/the-responsibility-of-optimism_6.jpg?1784726433",
       "today": true
     },
     {
@@ -197,16 +294,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Veneciana Escalada Drive-Thru Ice Cream Shop / DRM Arquitectura",
-      "url": "https://www.archdaily.com/1181425/veneciana-escalada-drive-thru-ice-cream-shop-drm-arquitectura",
-      "excerpt": "The project involved the expansion of an existing commercial building to create a drive-through ice cream shop, a typology in which both pedestrians and vehicles enter, circulate, and remain within th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/5eb4/237b/e900/01c8/71cc/large_jpg/javier_agustin_rojas_veneciana_escalada_DSF0857_high.jpg?1784700612",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -224,16 +311,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/heat-pressed-artificial-wood-organic-joints-mocky-furniture-series-tact-inoue/",
       "excerpt": "the furniture process is closer to molding than conventional assembly.\nThe post heat-pressed artificial wood melts into organic joints for mocky furniture series appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mocky-furniture-series-tact-inoue-artificial-wood-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Light of Amazonia Chapel / Rogoski Arquitetura",
-      "url": "https://www.archdaily.com/1181321/light-of-amazonia-chapel-rogoski-arquitetura",
-      "excerpt": "The Amazon Light Chapel was born from the client's desire to create a space that would represent a \"point of light in the Amazon.\" Situated on the shores of a lake, amidst a remnant of native forest i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/756a/895c/1800/0111/7fb3/large_jpg/IMG_1534.jpg?1784575385",
       "today": false
     },
     {
@@ -256,16 +333,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "topographic camouflage traces the low-slung form of range rover’s new electric GT",
-      "url": "https://www.designboom.com/technology/topographic-camouflage-range-rover-gt-electric-car/",
-      "excerpt": "range rover is stretching its familiar high-riding shape into a lower, sleeker grand tourer with this newly previews electric GT.\nThe post topographic camouflage traces the low-slung form of range rov",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/range-rover-gt-preview-designboom-01.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.22",
@@ -273,25 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/crystal-palace-park-dinosaur-sculptures",
       "excerpt": "More than 170 years after they first thrilled Victorian visitors, Crystal Palace Park's prehistoric residents have been brought back from the brink – part of a sweeping restoration that has revived th",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8DVZkVS4f5xqbNXtaNYmeB-2481-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Rehabilitative prison with crafting spaces among projects from Norwich University of the Arts",
-      "url": "https://www.dezeen.com/2026/07/22/rehabilitative-womens-prison-crafting-spaces-projects-norwich-university-of-the-arts-schoolshows/",
-      "excerpt": "Dezeen School Shows: a rehabilitative prison in a former mill with crafting and vocational spaces is among the projects from Norwich University of the Arts. Also featured is a project that explores ho",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Casa Para Ver La Peña / Tenter Studio",
-      "url": "https://www.archdaily.com/1181428/casa-para-ver-la-pena-tenter-studio",
-      "excerpt": "From the street, the house appears restrained and silent. The stone volumes are barely pronounced, avoiding any emphatic gesture. The architecture does not seek to announce itself; it holds back. It i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/5d9e/237b/e900/01c8/71b3/large_jpg/_S__TENTER_ESTUDIO_CASA_PARA_VER_LA_PEN_A_ZAICKZ_MOZ_18.jpg?1784701214",
       "today": false
     },
     {
@@ -312,44 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/vy-voi-steffany-tran-designer-profile",
       "excerpt": "Ancient cultural traditions are reinterpreted in the work of designer Steffany Tran of Vy Voi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fCzTJmEG3Tr2cDaqTtoWMN-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "light’s nostalgic flip phone is ‘designed to be used as little as possible’",
-      "url": "https://www.designboom.com/technology/light-flip-reimagines-dumbphone-with-clamshell-design-and-no-social-media/",
-      "excerpt": "the device swaps addictive apps and touchscreens for physical keys, essential tools, and more intentional communication.\nThe post light’s nostalgic flip phone is ‘designed to be used as little as poss",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/imgi_26_YellowSite-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Leblon Apartment / Pascali Semerdjian Arquitetos",
-      "url": "https://www.archdaily.com/1181325/leblon-apartment-pascali-semerdjian-arquitetos",
-      "excerpt": "Originally inhabited by a family, the Leblon apartment underwent a complete transformation to meet the needs of its new owner. The main objective of the project was to integrate and expand the social ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1062/895c/1800/0111/7ce3/large_jpg/9.jpg?1784549509",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Breezy louvre walls enclose restaurant in Thailand by Studio Locomotive",
-      "url": "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/",
-      "excerpt": "An external skin of timber louvres filters light and air into the double-height interiors of Waankarn, a restaurant and events space in Thailand designed by local architecture practice Studio Locomoti",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Kenta Hirayama clads House in Kinuta in steel-sheet facade",
-      "url": "https://www.dezeen.com/2026/07/22/kenta-hirayama-house-in-kinuta/",
-      "excerpt": "Architect Kenta Hirayama has designed an \"unpretentious house\" in Tokyo's Setagaya Ward, which features a metal facade and deliberately simple gabled roof. Called House in Kinuta, the detached home's ",
       "today": false
     },
     {
@@ -580,16 +590,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260609-02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/06/kisokouza2-2560px-1.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.08",
-      "title": "O-LIGHT designed by Keiji Takeuchi",
-      "url": "https://www.yamagiwa.co.jp/news/79075/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/YAMAGIWA_O-LIGHT_COMPOSITION_2-1024x724.jpg",
       "today": false
     }
   ]
