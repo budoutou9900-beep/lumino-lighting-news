@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  15:51",
+  "fetchedAt": "2026.07.23  17:14",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -96,6 +96,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.23",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.23",
@@ -142,6 +152,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "EWE studio’s sculptural table combines hand-carved green marble with cast aluminum",
+      "url": "https://www.designboom.com/design/ewe-studio-sculptural-table-hand-carved-green-marble-cast-aluminum-exhuma/",
+      "excerpt": "the exhuma dining table draws on ancestral purépecha casting techniques.\nThe post EWE studio’s sculptural table combines hand-carved green marble with cast aluminum appeared first on designboom | arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exhuma-dining-table-three-meter-sculptural-ewe-studio-green-marble-aluminum-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Manica unveils Kansas City Chiefs stadium topped with transparent dome",
+      "url": "https://www.dezeen.com/2026/07/23/manica-kansas-city-chiefs-dome-stadium/",
+      "excerpt": "US studio Manica has unveiled the design for a 70,000-seat stadium for the Kansas City Chiefs NFL team, which will be topped with a transparent dome. The fully enclosed venue, which will replace the t",
       "today": true
     },
     {
@@ -261,15 +290,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Glasgow School of Art \"cannot rebuild\" Mackintosh Building",
-      "url": "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/",
-      "excerpt": "The Glasgow School of Art has announced that it cannot afford to rebuild the iconic Mackintosh Building without external funding, following the second fire that tore through the building in 2018. Acco",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -287,16 +307,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/sharmistha-ray-artist-pittsburgh-pickleball-courts-playable-geometric-artwork/",
       "excerpt": "abstract painting, historic game boards, and community recreation come together at pittsburgh’s vibrant arts landing.\nThe post sharmistha ray turns pittsburgh pickleball courts into playable geometric",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sharmistha-ray-artist-pittsburgh-pickleball-courts-playable-geometric-artwork-designboom-02242.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "lebanon’s devalued silver and gold coins turn into patterns upon collectible furniture",
-      "url": "https://www.designboom.com/design/lebanon-devalued-silver-gold-coins-patterns-collectible-furniture-frata-studio-majnoona/",
-      "excerpt": "repurposed 250 and 500 LBP coins form the basis of frata furniture collection.\nThe post lebanon’s devalued silver and gold coins turn into patterns upon collectible furniture appeared first on designb",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/frata-studio-majnoona-handcrafted-furniture-lebanon-devalued-coins-designboom-1200-1.jpg",
       "today": true
     },
     {
