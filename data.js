@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  13:43",
+  "fetchedAt": "2026.07.23  15:51",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,23 +29,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -145,6 +145,44 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Waterfront repair and craft hub among projects from University of Plymouth",
+      "url": "https://www.dezeen.com/2026/07/23/waterfront-repair-craft-hub-university-of-plymouth-schoolshows/",
+      "excerpt": "Dezeen School Shows: a proposal for a waterside repair and reuse hub exploring craft, material reuse and environmental stewardship is among projects from the University of Plymouth. Also featured is a",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "world’s tallest timber tower reaches full height in sydney with design by SHoP",
+      "url": "https://www.designboom.com/architecture/worlds-tallest-timber-tower-reaches-full-height-sydney-shop-bvn-australia/",
+      "excerpt": "the 39-story, 590 foot-tall tower is designed by SHoP architects and BVN with a hybrid timber structure which rises over sydney, australia.\nThe post world’s tallest timber tower reaches full height in",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/atlassian-shop-worlds-tallest-timber-tower-sydney-australia-topping-out-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "beneath a kite-filled sky in china, janice chan photographs tropical fish and noodle packets",
+      "url": "https://www.designboom.com/art/kite-filled-sky-china-janice-chan-photography-weifang-festival/",
+      "excerpt": "analog photographs capture the playful, temporary world that fills weifang’s skies during its annual kite festival each spring.\nThe post beneath a kite-filled sky in china, janice chan photographs tro",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/janice-chan-kites-photography-series-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "GMP Architekten renovated the Bernabéu for \"full-time use\"",
+      "url": "https://www.dezeen.com/2026/07/23/santiago-bernabeu-renovation-future-stadium-gmp-architekten/",
+      "excerpt": "Continuing our Future Stadium series, we look at the revamp of the Estadio Santiago Bernabéu in Madrid, Spain, which shows how an existing stadium can be future-proofed. Although numerous stadiums are",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -232,6 +270,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "DAK coffee roasters / Barde + vanVoltt",
+      "url": "https://www.archdaily.com/1181349/dak-coffee-roasters-barde-plus-vanvoltt",
+      "excerpt": "Located in Amsterdam, DAK Coffee Roasters is a hybrid coffee destination that combines a specialty coffee bar, retail space, tasting room, and workplace within a single architectural concept. Designed",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/4168/895c/1800/0111/8115/large_jpg/15._Barde_vanVoltt_DAK_coffeeroasters_Sarah_Wijzenbeek.jpg?1784627631",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -249,24 +297,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/lebanon-devalued-silver-gold-coins-patterns-collectible-furniture-frata-studio-majnoona/",
       "excerpt": "repurposed 250 and 500 LBP coins form the basis of frata furniture collection.\nThe post lebanon’s devalued silver and gold coins turn into patterns upon collectible furniture appeared first on designb",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/frata-studio-majnoona-handcrafted-furniture-lebanon-devalued-coins-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "\"If no one ever sits there, is a balcony still a balcony?\"",
-      "url": "https://www.dezeen.com/2026/07/23/tiny-balconies-jessica-furseth-opinion/",
-      "excerpt": "Our cities are full of apartment blocks dotted with pathetically sized balconies too small to be of any actual use, writes Jessica Furseth. If no one ever sits there, is a balcony still a balcony? I f",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "\"New York's largest kaleidoscope\" among immersive artworks at Edge NYC viewpoint",
-      "url": "https://www.dezeen.com/2026/07/23/edge-nyc-viewpoint-new-york-kaleidoscope-attraction/",
-      "excerpt": "Design studios Softlab and Moment Factory have created seven immersive installations for the 350-metre-high Edge NYC skyscraper viewpoint at Hudson Yards, including a massive kaleidoscope and a series",
       "today": true
     },
     {
@@ -317,36 +347,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181538/rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review",
       "excerpt": "This week in architecture, discussions around the lifespan of buildings, the evolution of cultural institutions, and climate-responsive design highlighted how contemporary practice increasingly extend",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/dd00/230f/7701/8660/6319/large_jpg/studio-fuksas-rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review_4.jpg?1784798472",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "OOIIO wraps reused madrid auto center in permeable skin of vertical metal slats",
-      "url": "https://www.designboom.com/architecture/ooiio-reused-madrid-auto-center-permeable-skin-vertical-metal-slats/",
-      "excerpt": "technical infrastructure becomes part of the architectural language.\nThe post OOIIO wraps reused madrid auto center in permeable skin of vertical metal slats appeared first on designboom | architectur",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ooiio-reused-madrid-auto-center-permeable-skin-vertical-metal-slats-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Green Lodge  / Stylus Architects",
-      "url": "https://www.archdaily.com/1148866/green-lodge-stylus-architects",
-      "excerpt": "Green Lodge began with a single instruction from a long-standing contractor client: \"Do whatever you want, but it has to be quick.\" The result is a house on the edge of Putney Heath in South West Lond",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/b7e2/d7be/a801/8b1f/cb4e/large_jpg/green-lodge-stylus-architects_28.jpg?1784723442",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "cristina iglesias grows luminous northern lights dome from stockholm’s forest bedrock",
-      "url": "https://www.designboom.com/art/cristina-iglesias-sculpture-northern-lights-dome-stockholm-forest-bedrock/",
-      "excerpt": "dome transforms stockholm’s historic hunting ground into a luminous sanctuary for contemplation.\nThe post cristina iglesias grows luminous northern lights dome from stockholm’s forest bedrock appeared",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cristina-iglesias-sculpture-northern-lights-dome-stockholm-forest-bedrock-designboom-0230.jpg",
       "today": true
     },
     {
