@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.22  23:58",
+  "fetchedAt": "2026.07.23  02:46",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,80 +9,84 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "久留米ファン": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +96,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -100,9 +104,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.23",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -112,7 +125,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -122,7 +135,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -131,7 +144,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -140,7 +153,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -150,7 +163,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.22",
+      "date": "2026.07.23",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -165,7 +178,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/giant-blue-green-semicircular-table-tato-architects-yo-shimada-kyoto-apartment/",
       "excerpt": "as part of a renovation initiative involving eight universities across kyoto, the project transforms vacant units into company housing for welfare-sector workers.\nThe post giant blue-green semicircula",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/tato-architects-yo-shimada-large-semicircular-table-kyoto-living-space-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -174,7 +187,7 @@ window.LUMINO_DATA = {
       "title": "\"Runaway train\" of massive file sizes causing issues for architecture projects says panel at HP talk",
       "url": "https://www.dezeen.com/2026/07/22/file-sizes-hp-uia-congress/",
       "excerpt": "Promotion: architects' designs are being contained within digital files so big they can take two hours to load, leading to delays and mix-ups on projects, experts warned in a talk hosted by HP at the ",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -184,7 +197,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/haus-der-kunst-history-for-children-stories-since-1968-play/",
       "excerpt": "interactive works trace how artists began treating children as collaborators with power over spaces and shared rules.\nThe post haus der kunst traces a playful art history written with children appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/haus-der-kunst-for-children-art-stories-1968-exhibition-play-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -194,7 +207,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181425/veneciana-escalada-drive-thru-ice-cream-shop-drm-arquitectura",
       "excerpt": "The project involved the expansion of an existing commercial building to create a drive-through ice cream shop, a typology in which both pedestrians and vehicles enter, circulate, and remain within th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/5eb4/237b/e900/01c8/71cc/large_jpg/javier_agustin_rojas_veneciana_escalada_DSF0857_high.jpg?1784700612",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -204,7 +217,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/san-damian-los-angeles-review",
       "excerpt": "San Damián dishes up Michelin-level seafood just steps from the beach in Venice. Here's what we ate",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wUY7SXThTX5q8WwFGGB46g-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -214,7 +227,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/heat-pressed-artificial-wood-organic-joints-mocky-furniture-series-tact-inoue/",
       "excerpt": "the furniture process is closer to molding than conventional assembly.\nThe post heat-pressed artificial wood melts into organic joints for mocky furniture series appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mocky-furniture-series-tact-inoue-artificial-wood-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -224,7 +237,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181321/light-of-amazonia-chapel-rogoski-arquitetura",
       "excerpt": "The Amazon Light Chapel was born from the client's desire to create a space that would represent a \"point of light in the Amazon.\" Situated on the shores of a lake, amidst a remnant of native forest i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/756a/895c/1800/0111/7fb3/large_jpg/IMG_1534.jpg?1784575385",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -234,7 +247,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/wellness/cacao-superfood-maria-cacao-mexico",
       "excerpt": "María Cacao is the Mexico City-based brand hoping to make ceremonial-grade cacao a part of your everyday routine",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8YN8X9RFyckWpVJMvkZYcc-1800-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -243,7 +256,7 @@ window.LUMINO_DATA = {
       "title": "What will the future stadium look like?",
       "url": "https://www.dezeen.com/2026/07/22/future-stadium-predictions-populous-hok-gmp-hks-big-zha/",
       "excerpt": "For our Future Stadium series, we asked nine of the world's top stadium architects to predict the biggest shift in stadium design over the next 10 years. To determine how stadium design will shift ove",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -253,7 +266,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/topographic-camouflage-range-rover-gt-electric-car/",
       "excerpt": "range rover is stretching its familiar high-riding shape into a lower, sleeker grand tourer with this newly previews electric GT.\nThe post topographic camouflage traces the low-slung form of range rov",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/range-rover-gt-preview-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -263,7 +276,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/crystal-palace-park-dinosaur-sculptures",
       "excerpt": "More than 170 years after they first thrilled Victorian visitors, Crystal Palace Park's prehistoric residents have been brought back from the brink – part of a sweeping restoration that has revived th",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8DVZkVS4f5xqbNXtaNYmeB-2481-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -272,7 +285,7 @@ window.LUMINO_DATA = {
       "title": "Rehabilitative prison with crafting spaces among projects from Norwich University of the Arts",
       "url": "https://www.dezeen.com/2026/07/22/rehabilitative-womens-prison-crafting-spaces-projects-norwich-university-of-the-arts-schoolshows/",
       "excerpt": "Dezeen School Shows: a rehabilitative prison in a former mill with crafting and vocational spaces is among the projects from Norwich University of the Arts. Also featured is a project that explores ho",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -282,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181428/casa-para-ver-la-pena-tenter-studio",
       "excerpt": "From the street, the house appears restrained and silent. The stone volumes are barely pronounced, avoiding any emphatic gesture. The architecture does not seek to announce itself; it holds back. It i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/5d9e/237b/e900/01c8/71b3/large_jpg/_S__TENTER_ESTUDIO_CASA_PARA_VER_LA_PEN_A_ZAICKZ_MOZ_18.jpg?1784701214",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -292,7 +305,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/shinji-toronto-canada-review",
       "excerpt": "A modern Japanese steakhouse in Toronto’s Financial District pairs serious wagyu sourcing with raw dishes, nigiri and a chef’s counter",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2kibFw3We3YzabQrjcksGW-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -302,7 +315,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/vy-voi-steffany-tran-designer-profile",
       "excerpt": "Ancient cultural traditions are reinterpreted in the work of designer Steffany Tran of Vy Voi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fCzTJmEG3Tr2cDaqTtoWMN-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -312,7 +325,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/light-flip-reimagines-dumbphone-with-clamshell-design-and-no-social-media/",
       "excerpt": "the device swaps addictive apps and touchscreens for physical keys, essential tools, and more intentional communication.\nThe post light’s nostalgic flip phone is ‘designed to be used as little as poss",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/imgi_26_YellowSite-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -322,7 +335,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181325/leblon-apartment-pascali-semerdjian-arquitetos",
       "excerpt": "Originally inhabited by a family, the Leblon apartment underwent a complete transformation to meet the needs of its new owner. The main objective of the project was to integrate and expand the social ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1062/895c/1800/0111/7ce3/large_jpg/9.jpg?1784549509",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -332,7 +345,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181403/espace-ambroise-croizat-tautem-architecture",
       "excerpt": "Between the Arceaux and Figuerolles districts, TAUTEM transforms the Center for Social Experimentation and Innovation (CEIS) into an architecture of care and dignity, attentive to the Mediterranean cl",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/bac1/e8f5/cb01/8987/b349/large_jpg/espace-ambroise-croizat-tautem-architecture_1.jpg?1784659097",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -341,7 +354,7 @@ window.LUMINO_DATA = {
       "title": "Breezy louvre walls enclose restaurant in Thailand by Studio Locomotive",
       "url": "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/",
       "excerpt": "An external skin of timber louvres filters light and air into the double-height interiors of Waankarn, a restaurant and events space in Thailand designed by local architecture practice Studio Locomoti",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -350,7 +363,7 @@ window.LUMINO_DATA = {
       "title": "Kenta Hirayama clads House in Kinuta in steel-sheet facade",
       "url": "https://www.dezeen.com/2026/07/22/kenta-hirayama-house-in-kinuta/",
       "excerpt": "Architect Kenta Hirayama has designed an \"unpretentious house\" in Tokyo's Setagaya Ward, which features a metal facade and deliberately simple gabled roof. Called House in Kinuta, the detached home's ",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
