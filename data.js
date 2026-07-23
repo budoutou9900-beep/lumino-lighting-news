@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.23  11:05",
+  "fetchedAt": "2026.07.23  13:43",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -96,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.23",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.23",
@@ -158,6 +148,46 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.23",
+      "title": "Cinematic Pre-Fall 2026 fashion shot in a John Lautner masterpiece in Los Angeles",
+      "url": "https://www.wallpaper.com/fashion-beauty/pre-fall-2026-fashion-john-lautner-los-angeles",
+      "excerpt": "The Sheats-Goldstein Residence provided the backdrop to our July 2026 fashion story, which unfolded on a rare rainy day in Los Angeles. Here’s the story behind the shoot",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ciSPWz6m83x52dhaE6zvne-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Alessandro Isola Studio creates a unique space for a client with a passion for Porsches",
+      "url": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage",
+      "excerpt": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HpigHWTDvKhmPV2cnrcque-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Meet Minjae Kim, the designer who makes tradition feel tantalisingly contemporary",
+      "url": "https://www.wallpaper.com/design-interiors/minjae-kim-design-studio-profile",
+      "excerpt": "Seoul-born, New York-based Minjae Kim has developed a practice that discreetly dips into his heritage to create a new contemporary language; he is part of our ‘American Dreams’ series of five US studi",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RajgZrD9vtMeG9bzJQ8oWM-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Ellen Gallagher is the latest artist featured in TfL’s Art on the Underground programme",
+      "url": "https://www.wallpaper.com/art/ellen-gallagher-art-on-the-underground",
+      "excerpt": "Transport for London’s pocketable art series has included works by David Shrigley, Tracey Emin, Rachel Whiteread and Mona Hatoum. Ellen Gallagher has now joined their ranks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BWHEpd6XSdyvz97ZBEBdHf-1966-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.23",
       "title": "The Sagrada Família’s final sculpture is lit by what ‘feels like pure magic’",
       "url": "https://www.wallpaper.com/design-interiors/sagrada-familia-agnus-dei-lamb-sculpture-andrea-mastrovito-moritz-waldemeyer",
       "excerpt": "As Andrea Mastrovito’s monumental ‘Agnus Dei’ installation at the Sagrada Família is unveiled, Studio Waldemeyer illuminates the sculpture through invisible technology",
@@ -183,16 +213,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "A redwood-clad Kendrick Bangs Kellogg remodel brings 1970s organic modernism to market",
-      "url": "https://www.wallpaper.com/architecture/residential/kendrick-bangs-kellogg-property-for-sale-chapman-residence",
-      "excerpt": "The Chapman Residence in California – a standard suburban house totally transformed by Kellogg and the artist couple who lived in it – has been listed for the first time",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uAMChQrWYyx5rFCAHybSwe-2500-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -209,16 +229,6 @@ window.LUMINO_DATA = {
       "title": "Glasgow School of Art \"cannot rebuild\" Mackintosh Building",
       "url": "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/",
       "excerpt": "The Glasgow School of Art has announced that it cannot afford to rebuild the iconic Mackintosh Building without external funding, following the second fire that tore through the building in 2018. Acco",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "‘Thinness isn’t a fad’: discover Konstantin Chaykin’s playful super-thin mechanical watch",
-      "url": "https://www.wallpaper.com/watches-jewellery/konstantin-chaykin-thinking-mystery-ultra-thin-watch",
-      "excerpt": "The ‘ThinKing Mystery’ is the thinnest mechanical watch ever made, at just 1.65mm deep, and its maker calls it an exercise in radical minimalism. Has horology reached peak thin?",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YvFM4qeyumm5BfFixVNxDe-2560-80.png",
       "today": true
     },
     {
@@ -239,16 +249,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/lebanon-devalued-silver-gold-coins-patterns-collectible-furniture-frata-studio-majnoona/",
       "excerpt": "repurposed 250 and 500 LBP coins form the basis of frata furniture collection.\nThe post lebanon’s devalued silver and gold coins turn into patterns upon collectible furniture appeared first on designb",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/frata-studio-majnoona-handcrafted-furniture-lebanon-devalued-coins-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "This Lisbon townhouse is a dream home for wellness fanatics",
-      "url": "https://www.wallpaper.com/architecture/residential/renovated-lisbon-townhouse-portugal",
-      "excerpt": "Designed by McLean Quinlan to create a sense of ‘instant tranquillity’, the house is equipped with a personal gym, a sauna, and a meditation space",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/22x9SYgHMSqQWWSC2Hgv3P-2000-80.jpg",
       "today": true
     },
     {
@@ -283,6 +283,36 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.23",
+      "title": "Before the Living Room: Entry Thresholds in Compact Urban Homes",
+      "url": "https://www.archdaily.com/1181422/before-the-living-room-entry-thresholds-in-compact-urban-homes",
+      "excerpt": "In many homes, the entry is treated as leftover space or a narrow strip transition before the living room begins. Yet in dense Asia-Pacific interiors, sometimes despite the small sizes, the entrance o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/3de2/d7be/a801/8b1f/c862/large_jpg/before-the-living-room-entry-thresholds-in-apac-residential-interiors_12.jpg?1784692199",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "Natural History Museum Abu Dhabi / Mecanoo",
+      "url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
+      "excerpt": "The concept for the Natural History Museum Abu Dhabi is rooted in the meeting of water and earth, recognizing this ever-changing boundary as a place of origin, movement and transformation. Rather than",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/8bb4/3d21/f701/89c9/3585/large_jpg/natural-history-museum-abu-dhabi-mecanoo_2.jpg?1784581086",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "5 Design Strategies for Contemporary Bathrooms",
+      "url": "https://www.archdaily.com/1092229/5-design-strategies-for-contemporary-bathrooms",
+      "excerpt": "What defines the quality of a bathroom beyond its basic functions? As one of the most private spaces within the home, the bathroom is closely connected to everyday rituals and moments of pause. While ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/28ca/2be1/122a/b429/0cfa/large_jpg/the-bathroom-beyond-function-5-contemporary-design-strategies_3.jpg?1783507186",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.23",
       "title": "Rike Park Music Theater in Tbilisi and CRA's Residential Tower in Seoul: This Week's Review",
       "url": "https://www.archdaily.com/1181538/rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review",
       "excerpt": "This week in architecture, discussions around the lifespan of buildings, the evolution of cultural institutions, and climate-responsive design highlighted how contemporary practice increasingly extend",
@@ -310,26 +340,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Dallas Evaluates Repair and Demolition Options for I.M. Pei’s Modernist City Hall",
-      "url": "https://www.archdaily.com/1036025/dallas-evaluates-repair-and-demolition-options-for-im-peis-modernist-city-hall",
-      "excerpt": "Since August 2025, debate has intensified in Dallas, United States, over the future of one of its modern landmarks: I.M. Pei & Partners' Dallas City Hall. As of today, the Dallas City Council will con",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6916/2a32/3d40/0501/800a/fa1f/large_jpg/dallas_1.jpg?1763060279",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "South of Everything: Architecture and Territorial Presence in Antarctica",
-      "url": "https://www.archdaily.com/1092554/south-of-everything-architecture-and-territorial-presence-in-antarctica",
-      "excerpt": "Antarctica has no government, no permanent population, and no economy. It also, since 1959, has had no legally recognized owner as the Antarctic Treaty freezes every territorial claim on the continent",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a52/ad9e/a6cc/5601/89e4/e07f/large_jpg/south-of-everything-architecture-in-antarctica_7.jpg?1783803303",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -338,26 +348,6 @@ window.LUMINO_DATA = {
       "excerpt": "dome transforms stockholm’s historic hunting ground into a luminous sanctuary for contemplation.\nThe post cristina iglesias grows luminous northern lights dome from stockholm’s forest bedrock appeared",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/cristina-iglesias-sculpture-northern-lights-dome-stockholm-forest-bedrock-designboom-0230.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Apartment in Uehara / ULTRA STUDIO",
-      "url": "https://www.archdaily.com/1181423/apartment-in-uehara-ultra-studio",
-      "excerpt": "Tokyo's streetscape is often criticized—or praised—for its lack of uniformity, as arbitrary buildings crowd each individual plot. This chaotic quality is frequently cited as the city's defining featur",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/550f/d7be/a879/b7b0/d07f/large_jpg/apartment-in-uehara-ultra-studio_4.jpg?1784698163",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.22",
-      "title": "Enrique Olvera’s latest Los Angeles restaurant is summer’s best spot for margaritas and mariscos",
-      "url": "https://www.wallpaper.com/travel/restaurants/san-damian-los-angeles-review",
-      "excerpt": "San Damián dishes up Michelin-level seafood just steps from the beach in Venice. Here’s what we ate",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wUY7SXThTX5q8WwFGGB46g-2000-80.jpg",
-      "today": false
     },
     {
       "source": "遠藤照明",
