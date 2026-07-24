@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  18:15",
+  "fetchedAt": "2026.07.24  20:16",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,65 +25,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "designboom": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ArchDaily": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "大光電機": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -108,12 +100,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
       "date": "2026.07.24",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -172,16 +165,6 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.24",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -259,6 +242,26 @@ window.LUMINO_DATA = {
       "title": "Linde table and chair by OUT",
       "url": "https://www.dezeen.com/2026/07/24/linde-table-chair-out-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: design brand OUT has released a Berlin-made chair and table set that aims to enhance the comfort and functionality of dining spaces. Berlin-based brand OUT – whose unabbreviated name ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Santo Antonio Apartment / Balaio Arquitetura",
+      "url": "https://www.archdaily.com/1181362/santo-antonio-apartment-balaio-arquitetura",
+      "excerpt": "The reasons for choosing an apartment are diverse and revolve around what can and cannot be transformed. Location, room dimensions, natural light, and existing spatial layouts require an eye on the pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/3d93/c5a3/6400/0147/070c/large_jpg/Leila_Viegas_Balaio-7317.jpg?1784233433",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Curtain House / Johnsen Schmaling Architects",
+      "url": "https://www.archdaily.com/1181278/curtain-house-johnsen-schmaling-architects",
+      "excerpt": "The Curtain House is a private residence on a long, vacant, narrow parcel embedded in Milwaukee's Lower East Side, a dense demographically diverse neighborhood known for affordable housing options and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1434/895c/1800/0111/7d47/large_jpg/CurtainHouse_001.jpg?1784550475",
       "today": true
     },
     {
@@ -347,26 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181601/design-competition-for-the-prishtina-city-cemetery",
       "excerpt": "The Municipality of Pristina / Capital City has initiated a comprehensive and inclusiveplanning process for the development of the Capital City Cemetery of Pristina,conceived as a contemporary civic, ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/563b/d4d6/cf00/0113/99bb/large_jpg/PHOTO-2026-07-17-19-23-57.jpg?1784895043",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Call to Makers – Furniture Design Workshop Opening Celebration",
-      "url": "https://www.archdaily.com/1181596/call-to-makers-furniture-design-workshop-opening-celebration",
-      "excerpt": "Call to Makers showcases original furniture created through reuse, upcycling, and inventive craftsmanship by the inaugural cohort of CO Architects’ Furniture Design Workshop. Over the course of nine m",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/52ba/d4d6/cf00/0113/9991/large_jpg/Call-to-Makers-Featured-Image-1.jpg?1784894155",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "The Association for Community Design: Enduring Optimism Conference",
-      "url": "https://www.archdaily.com/1181592/the-association-for-community-design-enduring-optimism-conference",
-      "excerpt": "Calling all community designers to join us for ACD49 in Bozeman, Montana!\nACD49: Enduring Optimism marks the return of the Association for Community Design’s annual conference with a two-day convening",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5236/d4d6/cf00/0113/996e/large_jpg/Logo_Enduring_Optimism_PNG_8.5x8.0.jpg?1784894034",
       "today": true
     },
     {
