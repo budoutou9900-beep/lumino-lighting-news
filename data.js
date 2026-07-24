@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  12:21",
+  "fetchedAt": "2026.07.24  14:50",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -168,6 +168,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "who has a right to play?",
+      "url": "https://www.designboom.com/architecture/the-right-to-play/",
+      "excerpt": "since 1989, children’s play is understood as a fundamental right alongside education, shelter, and care – explore what that means for our built environment.\nThe post who has a right to play? appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/playground-play-right-place-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Linde table and chair by OUT",
+      "url": "https://www.dezeen.com/2026/07/24/linde-table-chair-out-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: design brand OUT has released a Berlin-made chair and table set that aims to enhance the comfort and functionality of dining spaces. Berlin-based brand OUT – whose unabbreviated name ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -264,15 +283,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Light Phone goes clamshell with \"timeless\" Flip model",
-      "url": "https://www.dezeen.com/2026/07/24/light-phone-clamshell-flip-model/",
-      "excerpt": "Tech company Light has released a clamshell version of its popular minimalist phone, combining contemporary dumbphone functionality with retro appeal. A follow-up to 2025's all-black Light Phone 3, th",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -296,10 +306,50 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "Fundació Mies van der Rohe Presents “Transnational Narratives,” a Documentary on Six South Asian Women Architects",
-      "url": "https://www.archdaily.com/1040163/fundacio-mies-van-der-rohe-presents-transnational-narratives-a-documentary-on-six-south-asian-women-architects",
-      "excerpt": "\"Gender equity remains an ongoing problem in architecture. Women architects are roughly one-third of the profession or less worldwide.\" This is the opening statement of the documentary Transnational N",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69ca/d6e1/bacd/cd01/89fe/bb4c/large_jpg/the-fundacio-mies-van-der-rohe-presents-transnational-narratives-a-documentary-celebrating-south-asian-women-in-architecture_5.jpg?1774900984",
+      "title": "Beyond India’s Squares: Where Can Democracy Speak?",
+      "url": "https://www.archdaily.com/1181571/beyond-indias-squares-where-can-democracy-speak",
+      "excerpt": "Every democracy eventually confronts the same question: where can its citizens speak?",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/eccf/c073/3201/89bc/5ddd/large_jpg/beyond-indias-squares-where-can-democracy-speak_2.jpg?1784868077",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "When Mobility Becomes the Ground: Architecture, Adaptation, and the Search for Continuity",
+      "url": "https://www.archdaily.com/1181345/when-mobility-becomes-the-ground-architecture-adaptation-and-the-search-for-continuity",
+      "excerpt": "Few conditions have shaped contemporary architectural discourse as profoundly as uncertainty. Across international biennials, exhibitions, and forums, architecture increasingly imagines its relationsh",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/5ace/3d21/f701/89c9/372c/large_jpg/when-movement-becomes-the-model-architecture-belonging-and-the-search-for-place_7.jpg?1784634070",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Production and Office Building Dubrovčan / MVA Mikelić Vreš Arhitekti",
+      "url": "https://www.archdaily.com/1148922/production-and-office-building-dubrovcan-mva-mikelic-vres-arhitekti",
+      "excerpt": "The new production and office building is located in Dubrovčan, a village northwest of Zagreb, which is characterized by a rural, natural landscape. Situated in an area rapidly transforming into a sma",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/7a5b/e8f5/cb01/8987/b18d/large_jpg/production-and-office-building-dubrovcan-mva-mikelic-vres-arhitekti_20.jpg?1784642198",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "SANAA-Led Team Reveals Selected Design for Ecuador's New National Museum in Quito",
+      "url": "https://www.archdaily.com/1181574/sanaa-led-team-reveals-selected-design-for-ecuadors-new-national-museum-in-quito",
+      "excerpt": "An international team led by SANAA, in collaboration with Estudio A0, Caá Porá Arquitectura, Jerome Haferd Studio, and Taller Capital Landscape, has been selected to design the new Museo Nacional del ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/35a9/31d2/d057/a9fe/9e8e/large_jpg/_2.jpg?1784886707",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "House Malija / Raketa + Tria Studio",
+      "url": "https://www.archdaily.com/1148743/house-malija-raketa-plus-tria-studio",
+      "excerpt": "House Malija is conceived as a contemporary living environment that emerges from a unique panoramic location above Slovenian Istria, where views extend towards Croatia, the Sečovlje salt pans, and the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/907c/2755/8a00/0164/ac09/large_jpg/9-HOUSE_MALIJA_RAKETA.jpg?1784124139",
       "today": true
     },
     {
@@ -313,36 +363,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Casa Tramuntana / OHLAB",
-      "url": "https://www.archdaily.com/1148654/casa-tramuntana",
-      "excerpt": "OHLAB presents a house that retreats from the urban landscape to inhabit the mountain through a silent, fragmented, almost buried architecture. Rejecting protagonism, it proposes a way of living that ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/2448/6336/c000/010f/ba36/large_jpg/27_-_Casa-MJ_PS.jpg?1784030300",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "House off the Ground / nanometer architecture",
-      "url": "https://www.archdaily.com/1181367/house-off-the-ground-nanometer-architecture",
-      "excerpt": "The site lifts 5 meters from the front road toward the back, and the building coverage ratio is not large. The client's requests were specific, with room sizes and heights already determined. They sai",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/6716/895c/1800/0111/8240/large_jpg/_007SUB09631-Edit_ToLoLo_studio_3000px.jpg?1784637226",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "kinzo proposes 100-meter swimming lane through the heart of berlin",
-      "url": "https://www.designboom.com/architecture/kinzo-architekten-100-meter-swimming-pool-berlin-tilla-durieux-park/",
-      "excerpt": "a translucent canopy keeps the long outdoor pool open through winter as sports and trees fill the narrow lawn. \nThe post kinzo proposes 100-meter swimming lane through the heart of berlin appeared fir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kinzo-architekten-tilla-durieux-park-swimming-pool-berlin-germany-designboom-FB.jpg",
-      "today": true
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.07.24",
@@ -350,26 +370,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260724-1/",
       "excerpt": "",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Hangzhou LOFT49 Regeneration / line+ studio",
-      "url": "https://www.archdaily.com/1148709/hangzhou-loft49-regeneration-line-plus-studio",
-      "excerpt": "Hangzhou LOFT49 Regeneration is located along the Grand Canal in Hangzhou. Its history can be traced back to the Hangzhou Chemical Fiber Factory, founded in 1958, before the compound was transformed i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/3634/93aa/2d01/8c25/4647/large_jpg/hangzhou-loft49-regeneration-line-plus-studio_39.jpg?1784100417",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "René Schneider Park / CAW Arquitectos",
-      "url": "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
-      "excerpt": "René Schneider Park is located in the Las Brisas sector of Antofagasta, along the foothills of the Coast Range. The site is characterized by steep slopes, intense solar radiation, scarce rainfall, pre",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/e7c2/32e0/e900/0119/c772/large_jpg/13_CAW_SCHNEIDER_Fotograf_a.jpg?1784801284",
-      "today": false
     },
     {
       "source": "岩崎電気",
