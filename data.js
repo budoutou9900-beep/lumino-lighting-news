@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  22:00",
+  "fetchedAt": "2026.07.24  23:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "Newscast.jp": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "遠藤照明": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "岩崎電気": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "大光電機": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -96,6 +100,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.07.24",
@@ -105,13 +119,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.24",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -125,6 +139,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.07.24",
@@ -132,16 +165,6 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.24",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -160,6 +183,16 @@ window.LUMINO_DATA = {
       "title": "Eight products that weld thoughtful design with metal materiality",
       "url": "https://www.dezeen.com/2026/07/24/seating-storage-lighting-tables-aluminium-stainless-steel-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: whether colourfully anodised or powder-coated, or left in a brown- or silver-toned state, the following products are all made from metals. The selection includes tables, storage, seat",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Mel House / Francisco Lang Arquitetura",
+      "url": "https://www.archdaily.com/1181620/mel-house-francisco-lang-arquitetura",
+      "excerpt": "Located in the municipality of Cavalcante, in the heart of the Chapada dos Veadeiros, amidst the preserved Cerrado and with views of the Santana mountain range, Casa da Mel was conceived during the pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/54fe/d4d6/cf00/0113/97df/large_jpg/27_CasaDaMel_externo_4_Maur_cioAra_jo.jpg?1784829202",
       "today": true
     },
     {
@@ -317,16 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
       "excerpt": "It all began with an open letter to the local town council, which caused a small stir in the village of Nuglar–St. Pantaleon in Switzerland. Young people, full of energy and ideas, were looking for a ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/efc7/895c/1800/0111/75b7/large_jpg/PiertzovanisToews_Nuglar_003_federicofarinatti.jpg?1784279038",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Pan-African Biennale - Open Call: Short Film",
-      "url": "https://www.archdaily.com/1181605/pan-african-biennale-open-call-short-film",
-      "excerpt": "The Pan-African Biennale (PAB) is a continental platform dedicated to documenting, preserving, and projecting Africa's built environment, urbanism, and creative futures— across all 54 nations and the ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5731/d4d6/cf00/0113/99d9/large_jpg/PAB_Open-Call_Short-Film.jpg?1784895290",
       "today": true
     },
     {
