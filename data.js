@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  08:16",
+  "fetchedAt": "2026.07.24  10:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -65,9 +65,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -151,22 +159,50 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "Tour a reborn midcentury Pierre Koenig house in coastal California",
-      "url": "https://www.wallpaper.com/architecture/residential/midcentury-pierre-koenig-house-jamie-bush-usa",
-      "excerpt": "Designer Jamie Bush reimagined a house by the Case Study architect; the 1966 work now effortlessly blends interiors and architecture, and 'reads as one language'",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZngXskcjkKewP4nouPWuBb-1415-80.jpg",
+      "title": "six disassembled facade fragments turn into playable open-ended stage in lake forest",
+      "url": "https://www.designboom.com/art/six-disassembled-facade-fragments-playable-open-ended-stage-lake-forest-front-of-house-gluten/",
+      "excerpt": "gluten's front of house replaces the conventional stage with a distributed spatial field.\nThe post six disassembled facade fragments turn into playable open-ended stage in lake forest appeared first o",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/front-of-house-gluten-ragdale-ring-lake-forest-six-disassembled-facade-fragments-open-ended-stage-designboom-1200-1.jpg",
       "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "\"Is this the death certificate of architecture?\" says commenter",
-      "url": "https://www.dezeen.com/2026/07/24/mvrdv-rotterdam-rocks-shift-competition-comments/",
-      "excerpt": "In this week's comments update, readers are discussing MVRDV's winning proposal for social enterprise Shift's competition to design a €240 million landmark in Rotterdam, the Netherlands. Named Rotterd",
+      "title": "Cechvala Architects cloaks Bratislava home with corrugated raw aluminium",
+      "url": "https://www.dezeen.com/2026/07/24/rdh-cechvala-architects/",
+      "excerpt": "Slovakian studio Cechvala Architects has completed RDH, a contemporary family home in Bratislava composed of three stacked volumes clad in corrugated aluminium. Situated next to a horticultural centre",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "IFDA 2027 calls on global designers to return to the origins of wood",
+      "url": "https://www.designboom.com/design/ifda-2027-timber-wood-furniture-competition/",
+      "excerpt": "the 13th edition of IFDA challenges international creators to strip away ornamentation and explore the raw origin of wooden design.\nThe post IFDA 2027 calls on global designers to return to the origin",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/IFDA-2027-furniture-design-competition-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "CipherX launches world's first painless tattoo",
+      "url": "https://www.dezeen.com/2026/07/24/painless-tattoo-cipherx-launch-worlds-first/",
+      "excerpt": "London biotech company CipherX has created the world's first commercially available microdot tattoo, which is applied using a pain-free applicator. Launched yesterday, the permanent tattoos are create",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Has architecture become too boring?",
+      "url": "https://www.dezeen.com/2026/07/24/stirling-prize-space-mirror-dezeen-weekly-podcast/",
+      "excerpt": "Is this year's Stirling Prize shortlist the least interesting ever? And why are astronomers up in arms about a plan to launch a giant mirror into space? Listen to the latest episode of Dezeen Weekly n",
       "today": true
     },
     {
@@ -180,31 +216,61 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "new euro banknote designs ask europeans to pick portraits or plumage: the ballot is open",
+      "url": "https://www.designboom.com/design/new-euro-banknote-designs-europe-portraits-birds-vote/",
+      "excerpt": "ECB unveils ten proposals spanning cultural icons, rivers, birds, and European institutions for public feedback.\nThe post new euro banknote designs ask europeans to pick portraits or plumage: the ball",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/new-euro-banknote-designs-europe-portraits-birds-vote-designboom-01-1-818x423.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "Stone and lace details \"evoke the atmosphere of Cyprus\" at London restaurant Zylia",
-      "url": "https://www.dezeen.com/2026/07/24/zylia-restaurant-red-deer/",
-      "excerpt": "Architecture studio Red Deer sourced Gerolakkos stone and hand-crafted Lefkara lace from Cyprus, which it juxtaposed with stainless steel and oversized basket-like lamps at Zylia in Covent Garden. The",
+      "title": "SANAA proposal for National Museum of Ecuador selected after public backlash",
+      "url": "https://www.dezeen.com/2026/07/24/sanaa-design-for-national-museum-of-ecuador-selected/",
+      "excerpt": "A curved brick structure by architecture studio SANAA has been selected as the new design for the National Museum of Ecuador in Quito, following reports that locals had criticised the original winning",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Light Phone goes clamshell with \"timeless\" Flip model",
+      "url": "https://www.dezeen.com/2026/07/24/light-phone-clamshell-flip-model/",
+      "excerpt": "Tech company Light has released a clamshell version of its popular minimalist phone, combining contemporary dumbphone functionality with retro appeal. A follow-up to 2025's all-black Light Phone 3, th",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "Explore André Fu’s hotel and restaurant interiors around the world – now charted in a new book",
-      "url": "https://www.wallpaper.com/travel/andre-fu-new-assouline-book",
-      "excerpt": "From the St Regis in Hong Kong to the Waldorf Astoria Osaka, André Fu’s interiors have shaped some of the most notable hotels around the world. Discover his work in Assouline’s new book",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QJPpkGT4977xnvcbmmWTxj-1600-80.png",
+      "title": "Step inside Dataland, the museum of AI arts, in a Frank Gehry-designed building in LA",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/dataland-the-museum-of-ai-arts-los-angeles-review",
+      "excerpt": "Dataland in Los Angeles by Refik Anadol and Efsun Erkılıç is an immersive art experience with a difference",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jrkNWJuqEAmn8cjqU3BjJP-2560-80.png",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "Avoice launches \"world's first AI agents\" to run architecture studios",
-      "url": "https://www.dezeen.com/2026/07/24/avoice-ai-agents-architecture-studios/",
-      "excerpt": "Promotion: San Francisco and London-based start-up Avoice has created an AI agent designed to run the entire operational side of an architecture studio. While much of the focus on artificial intellige",
+      "title": "Tour a reborn midcentury Pierre Koenig house in coastal California",
+      "url": "https://www.wallpaper.com/architecture/residential/midcentury-pierre-koenig-house-jamie-bush-usa",
+      "excerpt": "Designer Jamie Bush reimagined a house by the Case Study architect; the 1966 work now effortlessly blends interiors and architecture, and 'reads as one language'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZngXskcjkKewP4nouPWuBb-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Fundació Mies van der Rohe Presents “Transnational Narratives,” a Documentary on Six South Asian Women Architects",
+      "url": "https://www.archdaily.com/1040163/fundacio-mies-van-der-rohe-presents-transnational-narratives-a-documentary-on-six-south-asian-women-architects",
+      "excerpt": "\"Gender equity remains an ongoing problem in architecture. Women architects are roughly one-third of the profession or less worldwide.\" This is the opening statement of the documentary Transnational N",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69ca/d6e1/bacd/cd01/89fe/bb4c/large_jpg/the-fundacio-mies-van-der-rohe-presents-transnational-narratives-a-documentary-celebrating-south-asian-women-in-architecture_5.jpg?1774900984",
       "today": true
     },
     {
@@ -215,6 +281,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/marseille-villa-sandrine-sarah-faivre",
       "excerpt": "On the Mediterranean coast, Sandrine Sarah Faivre reimagines a seaside villa built around the trees it refused to disturb",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xWhnyV9CyqfEz4FsS4cfe3-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Casa Tramuntana / OHLAB",
+      "url": "https://www.archdaily.com/1148654/casa-tramuntana",
+      "excerpt": "OHLAB presents a house that retreats from the urban landscape to inhabit the mountain through a silent, fragmented, almost buried architecture. Rejecting protagonism, it proposes a way of living that ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/2448/6336/c000/010f/ba36/large_jpg/27_-_Casa-MJ_PS.jpg?1784030300",
       "today": true
     },
     {
@@ -238,6 +314,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "遠藤照明",
+      "cat": "国内情報",
+      "date": "2026.07.24",
+      "title": "夏季休業のお知らせ",
+      "url": "https://www.endo-lighting.co.jp/news/20260724-1/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -248,35 +333,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "playful camera robot follows people and pets across any terrain while filming in 4K",
-      "url": "https://www.designboom.com/technology/camera-robot-4k-beni-mondo-robotics/",
-      "excerpt": "Mondo Robotics’ compact rover follows people and pets, capturing stabilized 4K footage across challenging terrain.\nThe post playful camera robot follows people and pets across any terrain while filmin",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/camera-robot-4k-beni-mondo-robotics-designboom-01-copy-21.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "reclaimed oak, cork, and cardboard build flexible furniture for cultural hub in NY",
-      "url": "https://www.designboom.com/architecture/reclaimed-oak-cork-cardboard-flexible-furniture-cultural-hub-ny-medina-triennial-hub-serweta-peck/",
-      "excerpt": "a big splash of teal unifies a family of bespoke furniture for the new headquarters of an inaugural art triennial in rural western new york.\nThe post reclaimed oak, cork, and cardboard build flexible ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/medina-triennial-hub-serweta-peck-adaptive-reuse-interior-renovation-new-york-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Theatre for refugees, asylum seekers and migrants among projects from Middlesex University",
-      "url": "https://www.dezeen.com/2026/07/23/theatre-for-refugees-asylum-seekers-and-migrants-among-projects-from-middlesex-university/",
-      "excerpt": "Dezeen School Shows: a theatre in London designed for international students, refugees, asylum seekers, early-career workers and first-generation migrants is among projects from Middlesex University. ",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -284,45 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
       "excerpt": "René Schneider Park is located in the Las Brisas sector of Antofagasta, along the foothills of the Coast Range. The site is characterized by steep slopes, intense solar radiation, scarce rainfall, pre",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/e7c2/32e0/e900/0119/c772/large_jpg/13_CAW_SCHNEIDER_Fotograf_a.jpg?1784801284",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Dezeen Agenda features the stadiums hosting the 2030 World Cup",
-      "url": "https://www.dezeen.com/2026/07/23/dezeen-agenda-2030-world-cup-stadiums-future-stadium/",
-      "excerpt": "As part of our Future Stadium series, the latest edition of our weekly Dezeen Agenda newsletter features a roundup of all 23 stadiums set to host the 2030 World Cup. Subscribe to Dezeen Agenda now. Th",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "EWE studio’s sculptural table combines hand-carved green marble with cast aluminum",
-      "url": "https://www.designboom.com/design/ewe-studio-sculptural-table-hand-carved-green-marble-cast-aluminum-exhuma/",
-      "excerpt": "the exhuma dining table draws on ancestral purépecha casting techniques.\nThe post EWE studio’s sculptural table combines hand-carved green marble with cast aluminum appeared first on designboom | arch",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exhuma-dining-table-three-meter-sculptural-ewe-studio-green-marble-aluminum-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Cinco House / Memola Estúdio",
-      "url": "https://www.archdaily.com/1181357/cinco-house-memola-estudio",
-      "excerpt": "Cinco House is a residential project in São Paulo conceived to respond to and reflect the personal transformations of its inhabitants. Located within a residential condominium in the heart of the city",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/5bce/895c/1800/0111/818c/large_jpg/_DSF1639.jpg?1784634410",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Casa Diez Pies / Studio Font",
-      "url": "https://www.archdaily.com/1181260/casa-diez-pies-studio-font",
-      "excerpt": "Site and landscape - Casa Diez Pies is conceived as a puzzle resolved with a single piece: a module repeated four times and offset by 50 cm in plan and 50 cm in section, allowing the whole to adapt to",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/ec8c/e8f5/cb01/8987/a9b2/large_jpg/casa-diez-pies-studio-font_3.jpg?1784540320",
       "today": false
     },
     {
@@ -456,6 +473,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -483,6 +510,56 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
