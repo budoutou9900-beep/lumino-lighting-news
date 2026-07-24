@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  16:34",
+  "fetchedAt": "2026.07.24  18:15",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,77 +9,81 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "久留米ファン": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "山陽新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -101,6 +105,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.24",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -169,6 +182,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Eight products that weld thoughtful design with metal materiality",
+      "url": "https://www.dezeen.com/2026/07/24/seating-storage-lighting-tables-aluminium-stainless-steel-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: whether colourfully anodised or powder-coated, or left in a brown- or silver-toned state, the following products are all made from metals. The selection includes tables, storage, seat",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "bandit9 combines hand-brushed aluminum and carbon fiber in ducati 821 motorcycle",
+      "url": "https://www.designboom.com/technology/bandit9-hand-brushed-aluminum-carbon-fiber-ducati-821-sculptural-motorcycle/",
+      "excerpt": "the motorcycle uses material rather than paint as a defining visual element.\nThe post bandit9 combines hand-brushed aluminum and carbon fiber in ducati 821 motorcycle appeared first on designboom | ar",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bandit9-ducati-821-hand-brushed-aluminum-carbon-fiber-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -295,25 +327,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
       "excerpt": "It all began with an open letter to the local town council, which caused a small stir in the village of Nuglar–St. Pantaleon in Switzerland. Young people, full of energy and ideas, were looking for a ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/efc7/895c/1800/0111/75b7/large_jpg/PiertzovanisToews_Nuglar_003_federicofarinatti.jpg?1784279038",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Has architecture become too boring?",
-      "url": "https://www.dezeen.com/2026/07/24/stirling-prize-space-mirror-dezeen-weekly-podcast/",
-      "excerpt": "Is this year's Stirling Prize shortlist the least interesting ever? And why are astronomers up in arms about a plan to launch a giant mirror into space? Listen to the latest episode of Dezeen Weekly n",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague",
-      "url": "https://www.designboom.com/architecture/blue-red-orange-interiors-seoul-visual-energy-the-kimchi-restaurant-prague-soa-architekti/",
-      "excerpt": "korean street food culture informs the new interior concept by soa architekti.\nThe post blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague appeared first on",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/blue-red-orange-interiors-seoul-prague-the-kimchi-restaurant-soa-architekti-designboom-1200-1.jpg",
       "today": true
     },
     {
