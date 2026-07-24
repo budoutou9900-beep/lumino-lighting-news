@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  05:45",
+  "fetchedAt": "2026.07.24  08:16",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -65,17 +65,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -97,6 +89,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -149,13 +151,41 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "Tour a reborn midcentury Pierre Koenig house in coastal California",
+      "url": "https://www.wallpaper.com/architecture/residential/midcentury-pierre-koenig-house-jamie-bush-usa",
+      "excerpt": "Designer Jamie Bush reimagined a house by the Case Study architect; the 1966 work now effortlessly blends interiors and architecture, and 'reads as one language'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZngXskcjkKewP4nouPWuBb-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "\"Is this the death certificate of architecture?\" says commenter",
+      "url": "https://www.dezeen.com/2026/07/24/mvrdv-rotterdam-rocks-shift-competition-comments/",
+      "excerpt": "In this week's comments update, readers are discussing MVRDV's winning proposal for social enterprise Shift's competition to design a €240 million landmark in Rotterdam, the Netherlands. Named Rotterd",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague",
+      "url": "https://www.designboom.com/architecture/blue-red-orange-interiors-seoul-visual-energy-the-kimchi-restaurant-prague-soa-architekti/",
+      "excerpt": "korean street food culture informs the new interior concept by soa architekti.\nThe post blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/blue-red-orange-interiors-seoul-prague-the-kimchi-restaurant-soa-architekti-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Stone and lace details \"evoke the atmosphere of Cyprus\" at London restaurant Zylia",
+      "url": "https://www.dezeen.com/2026/07/24/zylia-restaurant-red-deer/",
+      "excerpt": "Architecture studio Red Deer sourced Gerolakkos stone and hand-crafted Lefkara lace from Cyprus, which it juxtaposed with stainless steel and oversized basket-like lamps at Zylia in Covent Garden. The",
       "today": true
     },
     {
@@ -169,6 +199,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Avoice launches \"world's first AI agents\" to run architecture studios",
+      "url": "https://www.dezeen.com/2026/07/24/avoice-ai-agents-architecture-studios/",
+      "excerpt": "Promotion: San Francisco and London-based start-up Avoice has created an AI agent designed to run the entire operational side of an architecture studio. While much of the focus on artificial intellige",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -179,13 +218,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "House off the Ground / nanometer architecture",
+      "url": "https://www.archdaily.com/1181367/house-off-the-ground-nanometer-architecture",
+      "excerpt": "The site lifts 5 meters from the front road toward the back, and the building coverage ratio is not large. The client's requests were specific, with room sizes and heights already determined. They sai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/6716/895c/1800/0111/8240/large_jpg/_007SUB09631-Edit_ToLoLo_studio_3000px.jpg?1784637226",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "kinzo proposes 100-meter swimming lane through heart of berlin",
+      "title": "kinzo proposes 100-meter swimming lane through the heart of berlin",
       "url": "https://www.designboom.com/architecture/kinzo-architekten-100-meter-swimming-pool-berlin-tilla-durieux-park/",
-      "excerpt": "a translucent canopy keeps the long outdoor pool open through winter as sports and trees fill the narrow lawn. \nThe post kinzo proposes 100-meter swimming lane through heart of berlin appeared first o",
+      "excerpt": "a translucent canopy keeps the long outdoor pool open through winter as sports and trees fill the narrow lawn. \nThe post kinzo proposes 100-meter swimming lane through the heart of berlin appeared fir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kinzo-architekten-tilla-durieux-park-swimming-pool-berlin-germany-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Hangzhou LOFT49 Regeneration / line+ studio",
+      "url": "https://www.archdaily.com/1148709/hangzhou-loft49-regeneration-line-plus-studio",
+      "excerpt": "Hangzhou LOFT49 Regeneration is located along the Grand Canal in Hangzhou. Its history can be traced back to the Hangzhou Chemical Fiber Factory, founded in 1958, before the compound was transformed i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/3634/93aa/2d01/8c25/4647/large_jpg/hangzhou-loft49-regeneration-line-plus-studio_39.jpg?1784100417",
       "today": true
     },
     {
@@ -257,24 +316,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Manica unveils Kansas City Chiefs stadium topped with transparent dome",
-      "url": "https://www.dezeen.com/2026/07/23/manica-kansas-city-chiefs-dome-stadium/",
-      "excerpt": "US studio Manica has unveiled the design for a 70,000-seat stadium for the Kansas City Chiefs NFL team, which will be topped with a transparent dome. The fully enclosed venue, which will replace the t",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Waterfront repair and craft hub among projects from University of Plymouth",
-      "url": "https://www.dezeen.com/2026/07/23/waterfront-repair-craft-hub-university-of-plymouth-schoolshows/",
-      "excerpt": "Dezeen School Shows: a proposal for a waterside repair and reuse hub exploring craft, material reuse and environmental stewardship is among projects from the University of Plymouth. Also featured is a",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -282,25 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181260/casa-diez-pies-studio-font",
       "excerpt": "Site and landscape - Casa Diez Pies is conceived as a puzzle resolved with a single piece: a module repeated four times and offset by 50 cm in plan and 50 cm in section, allowing the whole to adapt to",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/ec8c/e8f5/cb01/8987/a9b2/large_jpg/casa-diez-pies-studio-font_3.jpg?1784540320",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "world’s tallest timber tower reaches full height in sydney with design by SHoP",
-      "url": "https://www.designboom.com/architecture/worlds-tallest-timber-tower-reaches-full-height-sydney-shop-bvn-australia/",
-      "excerpt": "the 39-story, 590 foot-tall tower is designed by SHoP architects and BVN with a hybrid timber structure which rises over sydney, australia.\nThe post world’s tallest timber tower reaches full height in",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/atlassian-shop-worlds-tallest-timber-tower-sydney-australia-topping-out-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "GMP Architekten renovated the Bernabéu for \"full-time use\"",
-      "url": "https://www.dezeen.com/2026/07/23/santiago-bernabeu-renovation-future-stadium-gmp-architekten/",
-      "excerpt": "Continuing our Future Stadium series, we look at the revamp of the Estadio Santiago Bernabéu in Madrid, Spain, which shows how an existing stadium can be future-proofed. Although numerous stadiums are",
       "today": false
     },
     {
@@ -314,16 +336,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Casa Arbo Residential Building / Perkins&Will",
-      "url": "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
-      "excerpt": "On a quiet, tree-lined street in a neighborhood that preserves a significant part of São Paulo's residential tradition, Casa Arbo emerges from a simple idea: to create a building capable of offering t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/6012/895c/1800/0111/8236/large_jpg/DJI_20260526171246_0883_D_copiar.jpg?1784635531",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -331,26 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage",
       "excerpt": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HpigHWTDvKhmPV2cnrcque-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Carla Ridge House / Montalba Architects",
-      "url": "https://www.archdaily.com/1181419/carla-ridge-house-montalba-architects",
-      "excerpt": "Overlooking Beverly Hills, this single-story residence offers unique views of the hillside, valley and expanding city beyond. The home seamlessly blends interior and exterior spaces by intertwining se",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/d2f5/d7be/a801/8b1f/c7d7/large_jpg/carla-ridge-house-montalba-architects_6.jpg?1784664854",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Meet Minjae Kim, the designer who makes tradition feel tantalisingly contemporary",
-      "url": "https://www.wallpaper.com/design-interiors/minjae-kim-design-studio-profile",
-      "excerpt": "Seoul-born, New York-based Minjae Kim has developed a practice that discreetly dips into his heritage to create a new contemporary language; he is part of our ‘American Dreams’ series of five US studi",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RajgZrD9vtMeG9bzJQ8oWM-1920-80.png",
       "today": false
     },
     {
@@ -464,16 +456,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -501,56 +483,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
