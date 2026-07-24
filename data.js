@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  02:08",
+  "fetchedAt": "2026.07.24  05:45",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -159,6 +159,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Explore André Fu’s hotel and restaurant interiors around the world – now charted in a new book",
+      "url": "https://www.wallpaper.com/travel/andre-fu-new-assouline-book",
+      "excerpt": "From the St Regis in Hong Kong to the Waldorf Astoria Osaka, André Fu’s interiors have shaped some of the most notable hotels around the world. Discover his work in Assouline’s new book",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QJPpkGT4977xnvcbmmWTxj-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "This pine-shrouded Marseille villa is Eurosummer distilled to its most stylish form",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/marseille-villa-sandrine-sarah-faivre",
+      "excerpt": "On the Mediterranean coast, Sandrine Sarah Faivre reimagines a seaside villa built around the trees it refused to disturb",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xWhnyV9CyqfEz4FsS4cfe3-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -167,6 +187,16 @@ window.LUMINO_DATA = {
       "excerpt": "a translucent canopy keeps the long outdoor pool open through winter as sports and trees fill the narrow lawn. \nThe post kinzo proposes 100-meter swimming lane through heart of berlin appeared first o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kinzo-architekten-tilla-durieux-park-swimming-pool-berlin-germany-designboom-FB.jpg",
       "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.23",
+      "title": "playful camera robot follows people and pets across any terrain while filming in 4K",
+      "url": "https://www.designboom.com/technology/camera-robot-4k-beni-mondo-robotics/",
+      "excerpt": "Mondo Robotics’ compact rover follows people and pets, capturing stabilized 4K footage across challenging terrain.\nThe post playful camera robot follows people and pets across any terrain while filmin",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/camera-robot-4k-beni-mondo-robotics-designboom-01-copy-21.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -265,16 +295,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "beneath a kite-filled sky in china, janice chan photographs tropical fish and noodle packets",
-      "url": "https://www.designboom.com/art/kite-filled-sky-china-janice-chan-photography-weifang-festival/",
-      "excerpt": "analog photographs capture the playful, temporary world that fills weifang’s skies during its annual kite festival each spring.\nThe post beneath a kite-filled sky in china, janice chan photographs tro",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/janice-chan-kites-photography-series-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.23",
@@ -331,26 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/minjae-kim-design-studio-profile",
       "excerpt": "Seoul-born, New York-based Minjae Kim has developed a practice that discreetly dips into his heritage to create a new contemporary language; he is part of our ‘American Dreams’ series of five US studi",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RajgZrD9vtMeG9bzJQ8oWM-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Ellen Gallagher is the latest artist featured in TfL’s Art on the Underground programme",
-      "url": "https://www.wallpaper.com/art/ellen-gallagher-art-on-the-underground",
-      "excerpt": "Transport for London’s pocketable art series has included works by David Shrigley, Tracey Emin, Rachel Whiteread and Mona Hatoum. Ellen Gallagher has now joined their ranks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BWHEpd6XSdyvz97ZBEBdHf-1966-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "The Sagrada Família’s final sculpture is lit by what ‘feels like pure magic’",
-      "url": "https://www.wallpaper.com/design-interiors/sagrada-familia-agnus-dei-lamb-sculpture-andrea-mastrovito-moritz-waldemeyer",
-      "excerpt": "As Andrea Mastrovito’s monumental ‘Agnus Dei’ installation at the Sagrada Família is unveiled, Studio Waldemeyer illuminates the sculpture through invisible technology",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hYkgHrdgKibvqsYWWX2L68-2560-80.jpg",
       "today": false
     },
     {
