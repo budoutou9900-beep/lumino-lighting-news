@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  20:16",
+  "fetchedAt": "2026.07.24  22:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "Newscast.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "Newscast.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -100,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.24",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.07.24",
@@ -119,13 +105,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Newscast.jp",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.07.24",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -139,25 +125,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.24",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.24",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.07.24",
@@ -165,6 +132,25 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Gómez Platero proposes four skyscrapers at former site of the Miami Herald",
+      "url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
+      "excerpt": "Uruguay architecture studio Gómez Platero has proposed \"four irregularly shaped towers\" as part of mixed-use development on the Miami waterfront at the former site of the city's historic Miami Herald ",
       "today": true
     },
     {
@@ -223,6 +209,16 @@ window.LUMINO_DATA = {
       "title": "Tiered skyscraper by SOM tops out on Chicago lakefront",
       "url": "https://www.dezeen.com/2026/07/24/north-tower-skyscraper-400-lake-shore-drive-chicago-som/",
       "excerpt": "A series of cascading terraces outline the North Tower skyscraper by architecture studio SOM, which has topped out on a waterfront site in Chicago. Rising 261 metres at the confluence of Lake Michigan",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "23 Living / Plan:b arquitectos",
+      "url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
+      "excerpt": "This commission consisted of the design of a residential building on a long plot with a steep slope. The Provenza neighborhood, located on the eastern hillside of the city of Medellín, features an irr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/large_jpg/23-living-plan-b-arquitectos_17.jpg?1784702859",
       "today": true
     },
     {
@@ -314,15 +310,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "CipherX launches world's first painless tattoo",
-      "url": "https://www.dezeen.com/2026/07/24/painless-tattoo-cipherx-launch-worlds-first/",
-      "excerpt": "London biotech company CipherX has created the world's first commercially available microdot tattoo, which is applied using a pain-free applicator. Launched yesterday, the permanent tattoos are create",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -340,16 +327,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181605/pan-african-biennale-open-call-short-film",
       "excerpt": "The Pan-African Biennale (PAB) is a continental platform dedicated to documenting, preserving, and projecting Africa's built environment, urbanism, and creative futures— across all 54 nations and the ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5731/d4d6/cf00/0113/99d9/large_jpg/PAB_Open-Call_Short-Film.jpg?1784895290",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Design Competition for the Prishtina City Cemetery",
-      "url": "https://www.archdaily.com/1181601/design-competition-for-the-prishtina-city-cemetery",
-      "excerpt": "The Municipality of Pristina / Capital City has initiated a comprehensive and inclusiveplanning process for the development of the Capital City Cemetery of Pristina,conceived as a contemporary civic, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/563b/d4d6/cf00/0113/99bb/large_jpg/PHOTO-2026-07-17-19-23-57.jpg?1784895043",
       "today": true
     },
     {
