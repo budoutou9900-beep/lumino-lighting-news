@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  14:50",
+  "fetchedAt": "2026.07.24  16:34",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Newscast.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,37 +45,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -97,16 +101,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.24",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -165,6 +159,55 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "CNC-cut timber modules shape SAGA’s compact summerhouse in denmark",
+      "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
+      "excerpt": "with EcoNeo, SAGA space architects brings space-habitat thinking back to earth, where every surface has a job.\nThe post CNC-cut timber modules shape SAGA’s compact summerhouse in denmark appeared firs",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/SAGA-space-architects-econeo-denmark-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Issey Miyake’s Satoshi Kondo is behind the colourful costumes for Némo Flouret’s latest dance piece",
+      "url": "https://www.wallpaper.com/fashion-beauty/satoshi-kondo-issey-miyake-nemo-flouret-dance",
+      "excerpt": "‘There is this sense of physicality, something sensuous, to [Némo Flouret’s] work,’ says Issey Miyake’s womenswear designer Satoshi Kondo, who has created a series of costumes for the contemporary dan",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VFb2ckbgpKUE3fwSTJ6t5Y-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Samsung flips its folding-phone ecosystem to include a new form factor, the Galaxy Z Fold8",
+      "url": "https://www.wallpaper.com/tech/samsung-galaxy-foldables-hubert-lee-interview",
+      "excerpt": "Samsung’s Hubert Lee talks folding phones, hardware futures and the shape and feel of the new Samsung Galaxy foldables",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QdTTbm663zp5uxhcbmHfoW-1440-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Tiered skyscraper by SOM tops out on Chicago lakefront",
+      "url": "https://www.dezeen.com/2026/07/24/north-tower-skyscraper-400-lake-shore-drive-chicago-som/",
+      "excerpt": "A series of cascading terraces outline the North Tower skyscraper by architecture studio SOM, which has topped out on a waterfront site in Chicago. Rising 261 metres at the confluence of Lake Michigan",
       "today": true
     },
     {
@@ -245,6 +288,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Pavillon of the Sliding Doors / Piertzovanis Toews",
+      "url": "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
+      "excerpt": "It all began with an open letter to the local town council, which caused a small stir in the village of Nuglar–St. Pantaleon in Switzerland. Young people, full of energy and ideas, were looking for a ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/efc7/895c/1800/0111/75b7/large_jpg/PiertzovanisToews_Nuglar_003_federicofarinatti.jpg?1784279038",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -264,22 +317,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "new euro banknote designs ask europeans to pick portraits or plumage: the ballot is open",
-      "url": "https://www.designboom.com/design/new-euro-banknote-designs-europe-portraits-birds-vote/",
-      "excerpt": "ECB unveils ten proposals spanning cultural icons, rivers, birds, and European institutions for public feedback.\nThe post new euro banknote designs ask europeans to pick portraits or plumage: the ball",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/new-euro-banknote-designs-europe-portraits-birds-vote-designboom-01-1-818x423.jpg",
+      "title": "Pan-African Biennale - Open Call: Short Film",
+      "url": "https://www.archdaily.com/1181605/pan-african-biennale-open-call-short-film",
+      "excerpt": "The Pan-African Biennale (PAB) is a continental platform dedicated to documenting, preserving, and projecting Africa's built environment, urbanism, and creative futures— across all 54 nations and the ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5731/d4d6/cf00/0113/99d9/large_jpg/PAB_Open-Call_Short-Film.jpg?1784895290",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "SANAA proposal for National Museum of Ecuador selected after public backlash",
-      "url": "https://www.dezeen.com/2026/07/24/sanaa-design-for-national-museum-of-ecuador-selected/",
-      "excerpt": "A curved brick structure by architecture studio SANAA has been selected as the new design for the National Museum of Ecuador in Quito, following reports that locals had criticised the original winning",
+      "title": "Design Competition for the Prishtina City Cemetery",
+      "url": "https://www.archdaily.com/1181601/design-competition-for-the-prishtina-city-cemetery",
+      "excerpt": "The Municipality of Pristina / Capital City has initiated a comprehensive and inclusiveplanning process for the development of the Capital City Cemetery of Pristina,conceived as a contemporary civic, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/563b/d4d6/cf00/0113/99bb/large_jpg/PHOTO-2026-07-17-19-23-57.jpg?1784895043",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Call to Makers – Furniture Design Workshop Opening Celebration",
+      "url": "https://www.archdaily.com/1181596/call-to-makers-furniture-design-workshop-opening-celebration",
+      "excerpt": "Call to Makers showcases original furniture created through reuse, upcycling, and inventive craftsmanship by the inaugural cohort of CO Architects’ Furniture Design Workshop. Over the course of nine m",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/52ba/d4d6/cf00/0113/9991/large_jpg/Call-to-Makers-Featured-Image-1.jpg?1784894155",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "The Association for Community Design: Enduring Optimism Conference",
+      "url": "https://www.archdaily.com/1181592/the-association-for-community-design-enduring-optimism-conference",
+      "excerpt": "Calling all community designers to join us for ACD49 in Bozeman, Montana!\nACD49: Enduring Optimism marks the return of the Association for Community Design’s annual conference with a two-day convening",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5236/d4d6/cf00/0113/996e/large_jpg/Logo_Enduring_Optimism_PNG_8.5x8.0.jpg?1784894034",
       "today": true
     },
     {
@@ -290,76 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/dataland-the-museum-of-ai-arts-los-angeles-review",
       "excerpt": "Dataland in Los Angeles by Refik Anadol and Efsun Erkılıç is an immersive art experience with a difference",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jrkNWJuqEAmn8cjqU3BjJP-2560-80.png",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Tour a reborn midcentury Pierre Koenig house in coastal California",
-      "url": "https://www.wallpaper.com/architecture/residential/midcentury-pierre-koenig-house-jamie-bush-usa",
-      "excerpt": "Designer Jamie Bush reimagined a house by the Case Study architect; the 1966 work now effortlessly blends interiors and architecture, and 'reads as one language'",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZngXskcjkKewP4nouPWuBb-1415-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Beyond India’s Squares: Where Can Democracy Speak?",
-      "url": "https://www.archdaily.com/1181571/beyond-indias-squares-where-can-democracy-speak",
-      "excerpt": "Every democracy eventually confronts the same question: where can its citizens speak?",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/eccf/c073/3201/89bc/5ddd/large_jpg/beyond-indias-squares-where-can-democracy-speak_2.jpg?1784868077",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "When Mobility Becomes the Ground: Architecture, Adaptation, and the Search for Continuity",
-      "url": "https://www.archdaily.com/1181345/when-mobility-becomes-the-ground-architecture-adaptation-and-the-search-for-continuity",
-      "excerpt": "Few conditions have shaped contemporary architectural discourse as profoundly as uncertainty. Across international biennials, exhibitions, and forums, architecture increasingly imagines its relationsh",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/5ace/3d21/f701/89c9/372c/large_jpg/when-movement-becomes-the-model-architecture-belonging-and-the-search-for-place_7.jpg?1784634070",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Production and Office Building Dubrovčan / MVA Mikelić Vreš Arhitekti",
-      "url": "https://www.archdaily.com/1148922/production-and-office-building-dubrovcan-mva-mikelic-vres-arhitekti",
-      "excerpt": "The new production and office building is located in Dubrovčan, a village northwest of Zagreb, which is characterized by a rural, natural landscape. Situated in an area rapidly transforming into a sma",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/7a5b/e8f5/cb01/8987/b18d/large_jpg/production-and-office-building-dubrovcan-mva-mikelic-vres-arhitekti_20.jpg?1784642198",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "SANAA-Led Team Reveals Selected Design for Ecuador's New National Museum in Quito",
-      "url": "https://www.archdaily.com/1181574/sanaa-led-team-reveals-selected-design-for-ecuadors-new-national-museum-in-quito",
-      "excerpt": "An international team led by SANAA, in collaboration with Estudio A0, Caá Porá Arquitectura, Jerome Haferd Studio, and Taller Capital Landscape, has been selected to design the new Museo Nacional del ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/35a9/31d2/d057/a9fe/9e8e/large_jpg/_2.jpg?1784886707",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "House Malija / Raketa + Tria Studio",
-      "url": "https://www.archdaily.com/1148743/house-malija-raketa-plus-tria-studio",
-      "excerpt": "House Malija is conceived as a contemporary living environment that emerges from a unique panoramic location above Slovenian Istria, where views extend towards Croatia, the Sečovlje salt pans, and the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/907c/2755/8a00/0164/ac09/large_jpg/9-HOUSE_MALIJA_RAKETA.jpg?1784124139",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "This pine-shrouded Marseille villa is Eurosummer distilled to its most stylish form",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/marseille-villa-sandrine-sarah-faivre",
-      "excerpt": "On the Mediterranean coast, Sandrine Sarah Faivre reimagines a seaside villa built around the trees it refused to disturb",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xWhnyV9CyqfEz4FsS4cfe3-2560-80.jpg",
       "today": true
     },
     {
