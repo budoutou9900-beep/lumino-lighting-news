@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  10:58",
+  "fetchedAt": "2026.07.24  12:21",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -100,6 +100,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.07.24",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.24",
@@ -149,13 +168,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.24",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "Design studio Kawabi’s lighting gives Chinese heritage a contemporary twist",
+      "url": "https://www.wallpaper.com/design-interiors/kawabi-design-studio-aaron-irisa-chan-kawabi-profile",
+      "excerpt": "Chinese folklore is reinterpreted in fresh takes on the lantern by New York studio Kawabi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global crea",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UuvGMVpfEcSv4apML5LasY-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Meet the extreme of high-end audiophilia: the Luna Series from Abbingdon Music Research",
+      "url": "https://www.wallpaper.com/tech/luna-series-audio-system-abbingdon-music-research-review",
+      "excerpt": "Only the finest componentry goes into AMR’s Luna Series luxury audio collection. We give this ultimate system a careful listen",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JoBQaNoDZ7pH4hxiacvxKP-2560-80.jpg",
       "today": true
     },
     {
@@ -340,26 +369,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
       "excerpt": "René Schneider Park is located in the Las Brisas sector of Antofagasta, along the foothills of the Coast Range. The site is characterized by steep slopes, intense solar radiation, scarce rainfall, pre",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/e7c2/32e0/e900/0119/c772/large_jpg/13_CAW_SCHNEIDER_Fotograf_a.jpg?1784801284",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Cinematic Pre-Fall 2026 fashion shot in a John Lautner masterpiece in Los Angeles",
-      "url": "https://www.wallpaper.com/fashion-beauty/pre-fall-2026-fashion-john-lautner-los-angeles",
-      "excerpt": "The Sheats-Goldstein Residence provided the backdrop to our July 2026 fashion story, which unfolded on a rare rainy day in Los Angeles. Here’s the story behind the shoot",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ciSPWz6m83x52dhaE6zvne-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.23",
-      "title": "Alessandro Isola Studio creates a unique space for a client with a passion for Porsches",
-      "url": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage",
-      "excerpt": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HpigHWTDvKhmPV2cnrcque-2560-80.jpg",
       "today": false
     },
     {
