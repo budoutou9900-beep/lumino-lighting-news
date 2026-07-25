@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.24  23:08",
+  "fetchedAt": "2026.07.25  02:07",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -121,7 +121,7 @@ window.LUMINO_DATA = {
     {
       "source": "Newscast.jp",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
       "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -141,7 +141,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -151,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -160,11 +160,21 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.07.24",
+      "date": "2026.07.25",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "red microcement pairs with onyx marble to reframe brutalist barcelona duplex",
+      "url": "https://www.designboom.com/architecture/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio/",
+      "excerpt": "vaulted precast slabs remain visible throughout the renovated interior.\nThe post red microcement pairs with onyx marble to reframe brutalist barcelona duplex appeared first on designboom | architectur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -174,7 +184,17 @@ window.LUMINO_DATA = {
       "title": "Gómez Platero proposes four skyscrapers at former site of the Miami Herald",
       "url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
       "excerpt": "Uruguay architecture studio Gómez Platero has proposed \"four irregularly shaped towers\" as part of mixed-use development on the Miami waterfront at the former site of the city's historic Miami Herald ",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.24",
+      "title": "Lomadas House / Grizzo Studio",
+      "url": "https://www.archdaily.com/1181572/lomadas-house-grizzo-studio",
+      "excerpt": "Casa Lomadas is set on a double plot opening onto more than one hundred meters of lagoon shoreline. The project is defined by a precise morphological operation: a folded bar of exposed concrete rests ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/268a/d4d6/cf00/0113/9828/large_jpg/GRIZZO_STUDIO-FOTOS_LOMADAS_PARA_DOSSIER-PH_FEDERICO_KULEKDJIAN-06-CIELO_2-2.jpg?1784882984",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -183,7 +203,7 @@ window.LUMINO_DATA = {
       "title": "Eight products that weld thoughtful design with metal materiality",
       "url": "https://www.dezeen.com/2026/07/24/seating-storage-lighting-tables-aluminium-stainless-steel-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: whether colourfully anodised or powder-coated, or left in a brown- or silver-toned state, the following products are all made from metals. The selection includes tables, storage, seat",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -193,7 +213,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181620/mel-house-francisco-lang-arquitetura",
       "excerpt": "Located in the municipality of Cavalcante, in the heart of the Chapada dos Veadeiros, amidst the preserved Cerrado and with views of the Santana mountain range, Casa da Mel was conceived during the pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/54fe/d4d6/cf00/0113/97df/large_jpg/27_CasaDaMel_externo_4_Maur_cioAra_jo.jpg?1784829202",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -203,7 +223,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/bandit9-hand-brushed-aluminum-carbon-fiber-ducati-821-sculptural-motorcycle/",
       "excerpt": "the motorcycle uses material rather than paint as a defining visual element.\nThe post bandit9 combines hand-brushed aluminum and carbon fiber in ducati 821 motorcycle appeared first on designboom | ar",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bandit9-ducati-821-hand-brushed-aluminum-carbon-fiber-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -213,7 +233,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
       "excerpt": "with EcoNeo, SAGA space architects brings space-habitat thinking back to earth, where every surface has a job.\nThe post CNC-cut timber modules shape SAGA’s compact summerhouse in denmark appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/SAGA-space-architects-econeo-denmark-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -223,7 +243,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/satoshi-kondo-issey-miyake-nemo-flouret-dance",
       "excerpt": "‘There is this sense of physicality, something sensuous, to [Némo Flouret’s] work,’ says Issey Miyake’s womenswear designer Satoshi Kondo, who has created a series of costumes for the contemporary dan",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VFb2ckbgpKUE3fwSTJ6t5Y-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -233,7 +253,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/samsung-galaxy-foldables-hubert-lee-interview",
       "excerpt": "Samsung’s Hubert Lee talks folding phones, hardware futures and the shape and feel of the new Samsung Galaxy foldables",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QdTTbm663zp5uxhcbmHfoW-1440-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -242,7 +262,7 @@ window.LUMINO_DATA = {
       "title": "Tiered skyscraper by SOM tops out on Chicago lakefront",
       "url": "https://www.dezeen.com/2026/07/24/north-tower-skyscraper-400-lake-shore-drive-chicago-som/",
       "excerpt": "A series of cascading terraces outline the North Tower skyscraper by architecture studio SOM, which has topped out on a waterfront site in Chicago. Rising 261 metres at the confluence of Lake Michigan",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -252,7 +272,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
       "excerpt": "This commission consisted of the design of a residential building on a long plot with a steep slope. The Provenza neighborhood, located on the eastern hillside of the city of Medellín, features an irr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/large_jpg/23-living-plan-b-arquitectos_17.jpg?1784702859",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -262,7 +282,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/the-right-to-play/",
       "excerpt": "since 1989, children’s play is understood as a fundamental right alongside education, shelter, and care – explore what that means for our built environment.\nThe post who has a right to play? appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/playground-play-right-place-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -271,7 +291,7 @@ window.LUMINO_DATA = {
       "title": "Linde table and chair by OUT",
       "url": "https://www.dezeen.com/2026/07/24/linde-table-chair-out-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: design brand OUT has released a Berlin-made chair and table set that aims to enhance the comfort and functionality of dining spaces. Berlin-based brand OUT – whose unabbreviated name ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -281,7 +301,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181362/santo-antonio-apartment-balaio-arquitetura",
       "excerpt": "The reasons for choosing an apartment are diverse and revolve around what can and cannot be transformed. Location, room dimensions, natural light, and existing spatial layouts require an eye on the pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/3d93/c5a3/6400/0147/070c/large_jpg/Leila_Viegas_Balaio-7317.jpg?1784233433",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -291,7 +311,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181278/curtain-house-johnsen-schmaling-architects",
       "excerpt": "The Curtain House is a private residence on a long, vacant, narrow parcel embedded in Milwaukee's Lower East Side, a dense demographically diverse neighborhood known for affordable housing options and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1434/895c/1800/0111/7d47/large_jpg/CurtainHouse_001.jpg?1784550475",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -301,7 +321,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/kawabi-design-studio-aaron-irisa-chan-kawabi-profile",
       "excerpt": "Chinese folklore is reinterpreted in fresh takes on the lantern by New York studio Kawabi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global crea",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UuvGMVpfEcSv4apML5LasY-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -311,7 +331,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/luna-series-audio-system-abbingdon-music-research-review",
       "excerpt": "Only the finest componentry goes into AMR’s Luna Series luxury audio collection. We give this ultimate system a careful listen",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JoBQaNoDZ7pH4hxiacvxKP-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -321,7 +341,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/six-disassembled-facade-fragments-playable-open-ended-stage-lake-forest-front-of-house-gluten/",
       "excerpt": "gluten's front of house replaces the conventional stage with a distributed spatial field.\nThe post six disassembled facade fragments turn into playable open-ended stage in lake forest appeared first o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/front-of-house-gluten-ragdale-ring-lake-forest-six-disassembled-facade-fragments-open-ended-stage-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -330,27 +350,7 @@ window.LUMINO_DATA = {
       "title": "Cechvala Architects cloaks Bratislava home with corrugated raw aluminium",
       "url": "https://www.dezeen.com/2026/07/24/rdh-cechvala-architects/",
       "excerpt": "Slovakian studio Cechvala Architects has completed RDH, a contemporary family home in Bratislava composed of three stacked volumes clad in corrugated aluminium. Situated next to a horticultural centre",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "IFDA 2027 calls on global designers to return to the origins of wood",
-      "url": "https://www.designboom.com/design/ifda-2027-timber-wood-furniture-competition/",
-      "excerpt": "the 13th edition of IFDA challenges international creators to strip away ornamentation and explore the raw origin of wooden design.\nThe post IFDA 2027 calls on global designers to return to the origin",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/IFDA-2027-furniture-design-competition-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Pavillon of the Sliding Doors / Piertzovanis Toews",
-      "url": "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
-      "excerpt": "It all began with an open letter to the local town council, which caused a small stir in the village of Nuglar–St. Pantaleon in Switzerland. Young people, full of energy and ideas, were looking for a ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/efc7/895c/1800/0111/75b7/large_jpg/PiertzovanisToews_Nuglar_003_federicofarinatti.jpg?1784279038",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -360,7 +360,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/dataland-the-museum-of-ai-arts-los-angeles-review",
       "excerpt": "Dataland in Los Angeles by Refik Anadol and Efsun Erkılıç is an immersive art experience with a difference",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jrkNWJuqEAmn8cjqU3BjJP-2560-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
@@ -369,7 +369,7 @@ window.LUMINO_DATA = {
       "title": "夏季休業のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20260724-1/",
       "excerpt": "",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
