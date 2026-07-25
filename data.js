@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  02:07",
+  "fetchedAt": "2026.07.25  05:38",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -165,6 +165,26 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Step inside Tomás Saraceno's playful world at Haus der Kunst in Munich",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/tomas-saraceno-ancestral-futures-haus-der-kunst-munich",
+      "excerpt": "At Haus der Kunst, the artist weaves immersive connections between the crucial elements of our ecosystem",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ufAqWfDKDnyrGtcaRrmx8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Whether you’re on a health kick or a diving trip, Samsung’s smartwatches are the ones to wear",
+      "url": "https://www.wallpaper.com/tech/samsung-galaxy-ultra2-watch9-review",
+      "excerpt": "The new Samsung Galaxy Watch Ultra2 and Galaxy Watch9 break cover with a host of upgrades, innovations and endurance qualifications",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QtVKK6hGrwjvAQbbydhFJe-1440-80.jpg",
       "today": true
     },
     {
@@ -324,16 +344,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Meet the extreme of high-end audiophilia: the Luna Series from Abbingdon Music Research",
-      "url": "https://www.wallpaper.com/tech/luna-series-audio-system-abbingdon-music-research-review",
-      "excerpt": "Only the finest componentry goes into AMR’s Luna Series luxury audio collection. We give this ultimate system a careful listen",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JoBQaNoDZ7pH4hxiacvxKP-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -350,16 +360,6 @@ window.LUMINO_DATA = {
       "title": "Cechvala Architects cloaks Bratislava home with corrugated raw aluminium",
       "url": "https://www.dezeen.com/2026/07/24/rdh-cechvala-architects/",
       "excerpt": "Slovakian studio Cechvala Architects has completed RDH, a contemporary family home in Bratislava composed of three stacked volumes clad in corrugated aluminium. Situated next to a horticultural centre",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Step inside Dataland, the museum of AI arts, in a Frank Gehry-designed building in LA",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/dataland-the-museum-of-ai-arts-los-angeles-review",
-      "excerpt": "Dataland in Los Angeles by Refik Anadol and Efsun Erkılıç is an immersive art experience with a difference",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jrkNWJuqEAmn8cjqU3BjJP-2560-80.png",
       "today": false
     },
     {
