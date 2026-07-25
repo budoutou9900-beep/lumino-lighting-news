@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  09:50",
+  "fetchedAt": "2026.07.25  11:05",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "Newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Newscast.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.25",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -173,6 +168,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Yano Aoyama Architecture Design tops public toilet in Japan with sweeping timber canopy",
+      "url": "https://www.dezeen.com/2026/07/25/yano-aoyama-architecture-design-tobe-zoo-toilet/",
+      "excerpt": "Japanese practice Yano Aoyama Architecture Design has completed a public toilet for the Tobe Zoological Park in Ehime Prefecture, creating two chiselled concrete blocks that are topped by a thin roof ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "‘first for mental workout and game’: how starck’s iconic lemon squeezer broke the mold",
+      "url": "https://www.designboom.com/design/game-philippe-starck-iconic-lemon-squeezer-juicy-salif-alessi/",
+      "excerpt": "more than 35 years after its debut, the aluminum citrus squeezer continues to spark debate, proving that the most influential designs are not always the most practical.\nThe post ‘first for mental work",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/juicy-salif-philippe-starck-lemon-squeezer-alessi-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Seven British dormer extensions that take design to another level",
+      "url": "https://www.dezeen.com/2026/07/25/british-dormer-extensions-design-another-level/",
+      "excerpt": "For our latest roundup, we've collected seven dormer extensions, from a design that takes cues from Italian palazzos and paintings to an extension clad in recycled plastic tiles designed to look like ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -213,6 +236,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Bentinck Apartment  / agence ontwerp",
+      "url": "https://www.archdaily.com/1148756/bentinck-agence-ontwerp",
+      "excerpt": "The project marks the beginning of agence ontwerp's work on highlighting 1960s heritage. It redesigns an apartment on the seventh floor of a gallery-flat building in Rotterdam, designed by Harry Nefke",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/db82/e6cb/4501/8871/2375/large_jpg/bentinck-agence-ontwerp_10.jpg?1784143039",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -230,6 +263,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/tomas-saraceno-ancestral-futures-haus-der-kunst-munich",
       "excerpt": "At Haus der Kunst, the artist weaves immersive connections between the crucial elements of our ecosystem",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ufAqWfDKDnyrGtcaRrmx8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "This week we looked ahead to the 2030 World Cup stadiums",
+      "url": "https://www.dezeen.com/2026/07/25/2030-world-cup-stadiums-this-week/",
+      "excerpt": "This week on Dezeen, we revealed all 23 stadiums that are set to host the 2030 World Cup, which will be played across three continents. The venues will be spread across six countries, with eleven venu",
       "today": true
     },
     {
@@ -311,15 +353,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Tiered skyscraper by SOM tops out on Chicago lakefront",
-      "url": "https://www.dezeen.com/2026/07/24/north-tower-skyscraper-400-lake-shore-drive-chicago-som/",
-      "excerpt": "A series of cascading terraces outline the North Tower skyscraper by architecture studio SOM, which has topped out on a waterfront site in Chicago. Rising 261 metres at the confluence of Lake Michigan",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -327,44 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
       "excerpt": "This commission consisted of the design of a residential building on a long plot with a steep slope. The Provenza neighborhood, located on the eastern hillside of the city of Medellín, features an irr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/large_jpg/23-living-plan-b-arquitectos_17.jpg?1784702859",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "who has a right to play?",
-      "url": "https://www.designboom.com/architecture/the-right-to-play/",
-      "excerpt": "since 1989, children’s play is understood as a fundamental right alongside education, shelter, and care – explore what that means for our built environment.\nThe post who has a right to play? appeared ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/playground-play-right-place-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Linde table and chair by OUT",
-      "url": "https://www.dezeen.com/2026/07/24/linde-table-chair-out-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: design brand OUT has released a Berlin-made chair and table set that aims to enhance the comfort and functionality of dining spaces. Berlin-based brand OUT – whose unabbreviated name ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Santo Antonio Apartment / Balaio Arquitetura",
-      "url": "https://www.archdaily.com/1181362/santo-antonio-apartment-balaio-arquitetura",
-      "excerpt": "The reasons for choosing an apartment are diverse and revolve around what can and cannot be transformed. Location, room dimensions, natural light, and existing spatial layouts require an eye on the pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/3d93/c5a3/6400/0147/070c/large_jpg/Leila_Viegas_Balaio-7317.jpg?1784233433",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Cechvala Architects cloaks Bratislava home with corrugated raw aluminium",
-      "url": "https://www.dezeen.com/2026/07/24/rdh-cechvala-architects/",
-      "excerpt": "Slovakian studio Cechvala Architects has completed RDH, a contemporary family home in Bratislava composed of three stacked volumes clad in corrugated aluminium. Situated next to a horticultural centre",
       "today": false
     },
     {
@@ -487,6 +482,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -514,6 +519,56 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.11",
+      "title": "カペラ京都開業",
+      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     },
     {
