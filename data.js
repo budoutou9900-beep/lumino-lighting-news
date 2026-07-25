@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  05:38",
+  "fetchedAt": "2026.07.25  07:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,37 +45,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -158,13 +154,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.07.25",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "title": "Squeeze into Buvette, Covent Garden’s latest French import, by way of New York",
+      "url": "https://www.wallpaper.com/travel/restaurants/buvette-london-review",
+      "excerpt": "Jody Williams’ cult New York haunt returns to London with croque-monsieur, Beaujolais and flea-market charm in Neal’s Yard",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/swPrrvHYEXS2sFBAS8vNpN-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "grid of arches wraps ODA’s newly completed POST tower in rotterdam",
+      "url": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
+      "excerpt": "a vaulted plinth lifts the tower above a century-old courtyard to continue the five-meter facade rhythm of rotterdam's historic post office.\nThe post grid of arches wraps ODA’s newly completed POST to",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ODA-post-rotterdam-tower-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "These five design studios embody a new kind of American Dream",
+      "url": "https://www.wallpaper.com/design-interiors/american-dream-five-usa-designers-with-global-roots",
+      "excerpt": "Hailing from India, Vietnam, Korea, China and Poland, these creatives represent a new generation of global creatives that consider the US a meeting point of creative minds",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MGmR6u76fJpQohnm9Hhj8g-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "With a wild urban garden, this Dutch painter’s studio feels like a rural idyll",
+      "url": "https://www.wallpaper.com/architecture/residential/dp6s-painters-studio-delft-netherlands",
+      "excerpt": "This refurbishment and update of a traditional Delft house places a painter’s studio within a richly planted town garden",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YbsoqKbFwNxzTMc5YJqDSB-1920-80.jpg",
       "today": true
     },
     {
@@ -185,6 +211,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/samsung-galaxy-ultra2-watch9-review",
       "excerpt": "The new Samsung Galaxy Watch Ultra2 and Galaxy Watch9 break cover with a host of upgrades, innovations and endurance qualifications",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QtVKK6hGrwjvAQbbydhFJe-1440-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "D+dd Friendship Bay Store / Sò Studio",
+      "url": "https://www.archdaily.com/1148762/d-plus-dd-friendship-bay-store-so-studio",
+      "excerpt": "D+dd occupies a compact building at the corner of a community square, surrounded by an auditorium, residential blocks and other structures from different periods. Originally used as a back-of-house su",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/e27d/d58c/e001/8884/fd71/large_jpg/d-plus-dd-friendship-bay-store-so-studio_10.jpg?1784144689",
       "today": true
     },
     {
@@ -256,26 +292,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Issey Miyake’s Satoshi Kondo is behind the colourful costumes for Némo Flouret’s latest dance piece",
-      "url": "https://www.wallpaper.com/fashion-beauty/satoshi-kondo-issey-miyake-nemo-flouret-dance",
-      "excerpt": "‘There is this sense of physicality, something sensuous, to [Némo Flouret’s] work,’ says Issey Miyake’s womenswear designer Satoshi Kondo, who has created a series of costumes for the contemporary dan",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VFb2ckbgpKUE3fwSTJ6t5Y-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Samsung flips its folding-phone ecosystem to include a new form factor, the Galaxy Z Fold8",
-      "url": "https://www.wallpaper.com/tech/samsung-galaxy-foldables-hubert-lee-interview",
-      "excerpt": "Samsung’s Hubert Lee talks folding phones, hardware futures and the shape and feel of the new Samsung Galaxy foldables",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QdTTbm663zp5uxhcbmHfoW-1440-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -321,36 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181362/santo-antonio-apartment-balaio-arquitetura",
       "excerpt": "The reasons for choosing an apartment are diverse and revolve around what can and cannot be transformed. Location, room dimensions, natural light, and existing spatial layouts require an eye on the pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/3d93/c5a3/6400/0147/070c/large_jpg/Leila_Viegas_Balaio-7317.jpg?1784233433",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Curtain House / Johnsen Schmaling Architects",
-      "url": "https://www.archdaily.com/1181278/curtain-house-johnsen-schmaling-architects",
-      "excerpt": "The Curtain House is a private residence on a long, vacant, narrow parcel embedded in Milwaukee's Lower East Side, a dense demographically diverse neighborhood known for affordable housing options and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/1434/895c/1800/0111/7d47/large_jpg/CurtainHouse_001.jpg?1784550475",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Design studio Kawabi’s lighting gives Chinese heritage a contemporary twist",
-      "url": "https://www.wallpaper.com/design-interiors/kawabi-design-studio-aaron-irisa-chan-kawabi-profile",
-      "excerpt": "Chinese folklore is reinterpreted in fresh takes on the lantern by New York studio Kawabi, part of our ‘American Dreams’ series of five US studios whose founders embody a new generation of global crea",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UuvGMVpfEcSv4apML5LasY-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "six disassembled facade fragments turn into playable open-ended stage in lake forest",
-      "url": "https://www.designboom.com/art/six-disassembled-facade-fragments-playable-open-ended-stage-lake-forest-front-of-house-gluten/",
-      "excerpt": "gluten's front of house replaces the conventional stage with a distributed spatial field.\nThe post six disassembled facade fragments turn into playable open-ended stage in lake forest appeared first o",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/front-of-house-gluten-ragdale-ring-lake-forest-six-disassembled-facade-fragments-open-ended-stage-designboom-1200-1.jpg",
       "today": false
     },
     {
