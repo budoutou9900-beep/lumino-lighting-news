@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  14:59",
+  "fetchedAt": "2026.07.25  16:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -170,6 +170,16 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "rummy card game inspires a playful sculptural furniture collection",
+      "url": "https://www.designboom.com/design/rummy-card-game-playful-sculptural-furniture-collection-ramino-series-atelier-arunika/",
+      "excerpt": "from bar cabinet to chest of drawers, the ramino series by atelier arunika shapes five furniture sculptural characters.\nThe post rummy card game inspires a playful sculptural furniture collection appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/rummy-card-game-sculptural-furniture-collection-ramino-series-atelier-arunika-designboom-1200.jpg",
       "today": true
     },
     {
@@ -355,16 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/bandit9-hand-brushed-aluminum-carbon-fiber-ducati-821-sculptural-motorcycle/",
       "excerpt": "the motorcycle uses material rather than paint as a defining visual element.\nThe post bandit9 combines hand-brushed aluminum and carbon fiber in ducati 821 motorcycle appeared first on designboom | ar",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/bandit9-ducati-821-hand-brushed-aluminum-carbon-fiber-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "CNC-cut timber modules shape SAGA’s compact summerhouse in denmark",
-      "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
-      "excerpt": "with EcoNeo, SAGA space architects brings space-habitat thinking back to earth, where every surface has a job.\nThe post CNC-cut timber modules shape SAGA’s compact summerhouse in denmark appeared firs",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/SAGA-space-architects-econeo-denmark-designboom-FB.jpg",
       "today": false
     },
     {
