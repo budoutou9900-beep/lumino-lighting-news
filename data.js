@@ -1,172 +1,52 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  17:54",
+  "fetchedAt": "2026.07.25  19:00",
   "sourceColors": {
-    "axismag.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "山陽新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "久留米ファン": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Newscast.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
     "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "遠藤照明": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "岩崎電気": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "DNライティング": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.07.25",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.07.25",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
     {
       "source": "designboom",
       "cat": "デザイン",
