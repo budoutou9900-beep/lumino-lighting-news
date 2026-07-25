@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  22:48",
+  "fetchedAt": "2026.07.25  23:55",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,57 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ウェザーニュース": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "LPA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -153,16 +149,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウェザーニュース",
-      "cat": "国内情報",
-      "date": "2026.07.25",
-      "title": "ミライトいずも2025",
-      "url": "https://weathernews.jp/illumi/spot/9009845/",
-      "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.25",
@@ -170,6 +156,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Wildcoast Residence / Studio Kennon",
+      "url": "https://www.archdaily.com/1181479/wildcoast-residence-studio-kennon",
+      "excerpt": "A house that does not resist the coast so much as negotiate with it. Positioned at the southern edge of the Mornington Peninsula, where the land yields to Bass Strait, the house inhabits a landscape o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/c484/237b/e900/01c8/7483/large_jpg/260312_-_KENNON_-_WILD_COAST-346-blue_sky_COPY_TIGHT.jpg?1784726673",
       "today": true
     },
     {
@@ -258,16 +254,6 @@ window.LUMINO_DATA = {
       "title": "Seven British dormer extensions that take design to another level",
       "url": "https://www.dezeen.com/2026/07/25/british-dormer-extensions-design-another-level/",
       "excerpt": "For our latest roundup, we've collected seven dormer extensions, from a design that takes cues from Italian palazzos and paintings to an extension clad in recycled plastic tiles designed to look like ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Park of the Reggia di Rivalta / Openfabric + caarpa + FM Ingegneria",
-      "url": "https://www.archdaily.com/1148724/reggia-di-rivalta-openfabric-plus-caarpa-plus-fm-ingegneria",
-      "excerpt": "The Park of the Reggia di Rivalta, inaugurated in June 2025, marks the transformation of a historic site into a new ecological and cultural infrastructure.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/69fd/7c22/c800/01aa/6564/large_jpg/22_Ph._Jacopo_Gennari_Feslikenian_83_150dpi.jpg?1784113680",
       "today": true
     },
     {
