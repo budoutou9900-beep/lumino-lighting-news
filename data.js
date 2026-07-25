@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.25  13:12",
+  "fetchedAt": "2026.07.25  14:59",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "久留米ファン": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Newscast.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "Newscast.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -97,6 +93,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.25",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -206,6 +211,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Reggia di Rivalta / Openfabric + caarpa + FM Ingegneria",
+      "url": "https://www.archdaily.com/1148724/reggia-di-rivalta-openfabric-plus-caarpa-plus-fm-ingegneria",
+      "excerpt": "The Park of the Reggia di Rivalta, inaugurated in June 2025, marks the transformation of a historic site into a new ecological and cultural infrastructure.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/69fd/7c22/c800/01aa/6564/large_jpg/22_Ph._Jacopo_Gennari_Feslikenian_83_150dpi.jpg?1784113680",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -213,6 +228,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/range-rover-evs-2026",
       "excerpt": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FKtY9q8dxxFMNHsbvcSXa6-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Neither Farm Nor Hotel: Why Agritourism Needs Its Own Architectural Typology",
+      "url": "https://www.archdaily.com/1171797/neither-farm-nor-hotel-why-agritourism-needs-its-own-architectural-typology",
+      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/cafe/3d21/f777/d245/603c/large_jpg/agrotourism_9.jpg?1784400647",
       "today": true
     },
     {
@@ -323,16 +348,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Mel House / Francisco Lang Arquitetura",
-      "url": "https://www.archdaily.com/1181620/mel-house-francisco-lang-arquitetura",
-      "excerpt": "Located in the municipality of Cavalcante, in the heart of the Chapada dos Veadeiros, amidst the preserved Cerrado and with views of the Santana mountain range, Casa da Mel was conceived during the pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/54fe/d4d6/cf00/0113/97df/large_jpg/27_CasaDaMel_externo_4_Maur_cioAra_jo.jpg?1784829202",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.24",
@@ -350,16 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
       "excerpt": "with EcoNeo, SAGA space architects brings space-habitat thinking back to earth, where every surface has a job.\nThe post CNC-cut timber modules shape SAGA’s compact summerhouse in denmark appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/SAGA-space-architects-econeo-denmark-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "23 Living / Plan:b arquitectos",
-      "url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
-      "excerpt": "This commission consisted of the design of a residential building on a long plot with a steep slope. The Provenza neighborhood, located on the eastern hillside of the city of Medellín, features an irr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/large_jpg/23-living-plan-b-arquitectos_17.jpg?1784702859",
       "today": false
     },
     {
@@ -482,16 +487,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -519,56 +514,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     }
   ]
