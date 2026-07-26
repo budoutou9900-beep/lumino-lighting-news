@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  20:53",
+  "fetchedAt": "2026.07.26  21:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -33,45 +33,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
     "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -96,12 +100,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
       "date": "2026.07.26",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -154,16 +159,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.07.26",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -191,6 +186,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/artist-designed-ping-pong-tables-rockaway-beach-new-york-between-tides/",
       "excerpt": "six ping-pong tables rise from the sand at new york's rockaway beach, though each one interferes with the game it appears ready to host.\nThe post artist-designed ping-pong tables make everyone a begin",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ping-pong-tables-rockaway-beach-new-york-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "forget the mouse: augmental’s mouthpad lets the tongue control the cursor",
+      "url": "https://www.designboom.com/technology/mouse-augmental-mouthpad-tongue-control/",
+      "excerpt": "the public launch arrives alongside vox, a wearable microphone designed as its voice-powered keyboard\nThe post forget the mouse: augmental’s mouthpad lets the tongue control the cursor appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mouse-augmental-mouthpad-tongue-control-designboom-06.jpg",
       "today": true
     },
     {
@@ -223,22 +228,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "cultivated cellulose and layered ash shape series of horizon-inspired lighting",
-      "url": "https://www.designboom.com/design/cultivated-cellulose-layered-ash-horizon-inspired-lighting-polybion-natural-urbano-cenit/",
-      "excerpt": "natural ash, stainless steel, and celium manto define the cenit collection.\nThe post cultivated cellulose and layered ash shape series of horizon-inspired lighting appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/polybion-natural-urbano-cenit-lighting-objects-cellium-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.26",
       "title": "Lenka Milerová Architektka transforms stone pigsty in Czech Republic into holiday home",
       "url": "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/",
       "excerpt": "Local studio Lenka Milerová Architektka has converted a former pigsty in the Czech Republic into Panoší Újezd Summer House, complementing its rough stone walls with additions in exposed concrete. The ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "GridType vol.—1 explores how digital tools generate new typographic forms",
+      "url": "https://www.designboom.com/design/gridtype-vol-1-digital-tools-new-typographic-forms-slanted-publishers/",
+      "excerpt": "ten designers use the GridType tool to develop distinct typographic languages.\nThe post GridType vol.—1 explores how digital tools generate new typographic forms appeared first on designboom | archite",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gridtype-vol-1-type-tools-type-design-digital-tools-slanted-publishers-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -333,10 +338,10 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.26",
-      "title": "GridType vol.—1 explores how digital tools generate new typographic forms",
-      "url": "https://www.designboom.com/design/gridtype-vol-1-digital-tools-new-typographic-forms-slanted-publishers/",
-      "excerpt": "ten designers use the GridType tool to develop distinct typographic languages.\nThe post GridType vol.—1 explores how digital tools generate new typographic forms appeared first on designboom | archite",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gridtype-vol-1-type-tools-type-design-digital-tools-slanted-publishers-designboom-1200-1.jpg",
+      "title": "cultivated cellulose and layered ash shape series of horizon-inspired lighting",
+      "url": "https://www.designboom.com/design/cultivated-cellulose-layered-ash-horizon-inspired-lighting-polybion-natural-urbano-cenit/",
+      "excerpt": "natural ash, stainless steel, and celium manto define the cenit collection.\nThe post cultivated cellulose and layered ash shape series of horizon-inspired lighting appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/polybion-natural-urbano-cenit-lighting-objects-cellium-designboom-1200.jpg",
       "today": true
     },
     {
@@ -346,16 +351,6 @@ window.LUMINO_DATA = {
       "title": "Exhibition highlighting women's uncredited work among projects from EMMA Creative Centre Pforzheim",
       "url": "https://www.dezeen.com/2026/07/25/exhibition-highlights-uncredited-emma-creative-centre-pforzheim-schoolshows/",
       "excerpt": "Dezeen School Shows: a woven exhibition that seeks to spotlight uncredited labour by women is among the projects from EMMA Creative Centre Pforzheim. Also featured are knitted garments informed by the",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "rummy card game inspires a playful sculptural furniture collection",
-      "url": "https://www.designboom.com/design/rummy-card-game-playful-sculptural-furniture-collection-ramino-series-atelier-arunika/",
-      "excerpt": "from bar cabinet to chest of drawers, the ramino series by atelier arunika shapes five furniture sculptural characters.\nThe post rummy card game inspires a playful sculptural furniture collection appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/rummy-card-game-sculptural-furniture-collection-ramino-series-atelier-arunika-designboom-1200.jpg",
       "today": false
     },
     {
@@ -478,6 +473,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -505,6 +510,46 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
