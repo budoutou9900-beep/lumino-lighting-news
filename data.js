@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  16:08",
+  "fetchedAt": "2026.07.26  17:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,77 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ウェザーニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Yahoo!ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "岩崎電気": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "大光電機": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -101,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.26",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -169,6 +156,35 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "When Renault took to the sky: revisiting the elegant 1930s Caudron Rafale racing plane",
+      "url": "https://www.wallpaper.com/transportation/renault-1930s-caudron-rafale-racing-plane",
+      "excerpt": "Renault’s history includes this superb piece of aviation design, the 1934 Caudron Rafale C.460, a name that's gone on to grace a contemporary car",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yL2oETG9qL5TEDjkrzrwHo-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "artist-designed ping-pong tables make everyone a beginner at rockaway beach",
+      "url": "https://www.designboom.com/art/artist-designed-ping-pong-tables-rockaway-beach-new-york-between-tides/",
+      "excerpt": "six ping-pong tables rise from the sand at new york's rockaway beach, though each one interferes with the game it appears ready to host.\nThe post artist-designed ping-pong tables make everyone a begin",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ping-pong-tables-rockaway-beach-new-york-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Public Art Company gives its LA studio a \"muppets on acid\" interior",
+      "url": "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
+      "excerpt": "A system of curtains divides areas filled with collectible furniture within this compact office, which LA-based Public Art Company has designed for its own team. Public Art Company's studio on Hyperio",
       "today": true
     },
     {
@@ -279,16 +295,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "The new beauty launches to see you through the rest of the summer",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-beauty-launches-summer-2026",
-      "excerpt": "From restorative night creams to combat sun damage to chic clips to keep your hair dry in the pool, this is our edit of the best new launches to pack in your suitcase",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N99Bznk9sDfNKiQEFiHwVQ-1539-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -328,15 +334,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Unfold Projects returns mid-century California residence to a \"light-filled, organic oasis\"",
-      "url": "https://www.dezeen.com/2026/07/25/encinitas-residence-mid-century-renovation-california-unfold-projects/",
-      "excerpt": "American studio Unfold Projects has renovated a modernist home in Encinitas, California, that will serve as a base for an artist residency program. Defined by soaring arched roofs, the 1970s property ",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -354,16 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/game-philippe-starck-iconic-lemon-squeezer-juicy-salif-alessi/",
       "excerpt": "more than 35 years after its debut, the aluminum citrus squeezer continues to spark debate, proving that the most influential designs are not always the most practical.\nThe post ‘first for mental work",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/juicy-salif-philippe-starck-lemon-squeezer-alessi-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "grid of arches wraps ODA’s newly completed POST tower in rotterdam",
-      "url": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
-      "excerpt": "a vaulted plinth lifts the tower above a century-old courtyard to continue the five-meter facade rhythm of rotterdam's historic post office.\nThe post grid of arches wraps ODA’s newly completed POST to",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ODA-post-rotterdam-tower-designboom-FB.jpg",
       "today": false
     },
     {
