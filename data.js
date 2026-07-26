@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  05:55",
+  "fetchedAt": "2026.07.26  08:16",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -162,10 +162,50 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.26",
+      "title": "Richard Lareau's 1961 Bone Residence, a landmark of San Diego modernism, is for sale",
+      "url": "https://www.wallpaper.com/architecture/residential/richard-lareau-bone-residence-san-diego-modernism",
+      "excerpt": "Set in the canyons of Mission Hills, this post-and-beam residence – with its cedar walls and glass expanses framing views to the Pacific – is one of the finest-preserved works from the architect's car",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5HDgnqgusEXC8cV8PHtgzP-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "The Rug Company founders on turning their home into the hotel of their dreams",
+      "url": "https://www.wallpaper.com/travel/hotels/casa-bonavita-attard-malta",
+      "excerpt": "One of the year’s most anticipated openings, Casa Bonavita is the culmination of Suzanne and Christopher Sharp’s lifelong dream to create a hotel that feels like home",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BUv3bYbCv4ba8LfAFzTggm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Architect Carlo Ratti on why the Telepass equals freedom with every beep",
+      "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-telepass",
+      "excerpt": "The sixth instalment of the architect's series, 'Objectify', investigates how the Telepass brought freedom to the motorway",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U94G4U6kYRovFaVmM9chVc-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.26",
       "title": "The new beauty launches to see you through the rest of the summer",
       "url": "https://www.wallpaper.com/fashion-beauty/best-beauty-launches-summer-2026",
       "excerpt": "From restorative night creams to combat sun damage to chic clips to keep your hair dry in the pool, this is our edit of the best new launches to pack in your suitcase",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/N99Bznk9sDfNKiQEFiHwVQ-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "The Nanshan Affiliated School of Beijing Normal University / Z&Z STUDIO",
+      "url": "https://www.archdaily.com/1181339/the-nanshan-affiliated-school-of-beijing-normal-university-z-and-z-studio",
+      "excerpt": "Located in the coastal city of Shenzhen, the campus is envisioned as a \"terraced courtyard campus\" that harmoniously integrates mountain, park, and harbor landscapes. Built along a gentle slope overlo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/1913/895c/1800/0111/806f/large_jpg/8___________.jpg?1784617257",
       "today": true
     },
     {
@@ -229,16 +269,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Sanduteca – Sandwich Library / Estúdio Cajalima",
-      "url": "https://www.archdaily.com/1181310/sanduteca-sandwich-library-estudio-cajalima",
-      "excerpt": "The design of Sanduteca, located in Galeria Metrópole, grew out of the idea of creating a space that functions as a \"library of flavors\"—forming a small archive of tastes and seasonings from around th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/674f/895c/1800/0111/7a00/large_jpg/_08A4231-Pano_copyright_manuel_sa.jpg?1784309709",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -277,26 +307,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Range Rover is readying a trio of EVs, all with a fresh focus on refined interior luxury",
-      "url": "https://www.wallpaper.com/transportation/range-rover-evs-2026",
-      "excerpt": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FKtY9q8dxxFMNHsbvcSXa6-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Squeeze into Buvette, Covent Garden’s latest French import, by way of New York",
-      "url": "https://www.wallpaper.com/travel/restaurants/buvette-london-review",
-      "excerpt": "Jody Williams’ cult New York haunt returns to London with croque-monsieur, Beaujolais and flea-market charm in Neal’s Yard",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/swPrrvHYEXS2sFBAS8vNpN-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -304,16 +314,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
       "excerpt": "a vaulted plinth lifts the tower above a century-old courtyard to continue the five-meter facade rhythm of rotterdam's historic post office.\nThe post grid of arches wraps ODA’s newly completed POST to",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ODA-post-rotterdam-tower-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "These five design studios embody a new kind of American Dream",
-      "url": "https://www.wallpaper.com/design-interiors/american-dream-five-usa-designers-with-global-roots",
-      "excerpt": "Hailing from India, Vietnam, Korea, China and Poland, these creatives represent a new generation of global creatives that consider the US a meeting point of creative minds",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MGmR6u76fJpQohnm9Hhj8g-1920-80.png",
       "today": false
     },
     {
