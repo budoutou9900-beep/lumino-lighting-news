@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  11:58",
+  "fetchedAt": "2026.07.26  13:27",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -156,6 +156,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "This private art collection offers a chronicle of queer life across two centuries",
+      "url": "https://www.wallpaper.com/design-interiors/ron-zuckerman-private-art-collection-san-francisco-nudes",
+      "excerpt": "Much of the work in Ron Zuckerman’s San Francisco flat was illegal in midcentury America, so was created, printed and distributed privately, only existing to this day thanks to a host of tenacious and",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hGwqSVhuCbA8ntRkNmyp8K-2560-80.jpg",
       "today": true
     },
     {
@@ -321,16 +331,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/rummy-card-game-playful-sculptural-furniture-collection-ramino-series-atelier-arunika/",
       "excerpt": "from bar cabinet to chest of drawers, the ramino series by atelier arunika shapes five furniture sculptural characters.\nThe post rummy card game inspires a playful sculptural furniture collection appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/rummy-card-game-sculptural-furniture-collection-ramino-series-atelier-arunika-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Emilia Wickstead on celebrating the every day: ‘Why wait for a special occasion?'",
-      "url": "https://www.wallpaper.com/entertaining/how-we-host-emilia-wickstead",
-      "excerpt": "On the heels of her expanded homeware collection, the celebrated fashion designer shares how to transform the ordinary into something spectacular, from homemade pavlova or heirloom cocktail napkins",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9UfTSrRrDekX7fZuu8NRtW-1920-80.png",
       "today": false
     },
     {
