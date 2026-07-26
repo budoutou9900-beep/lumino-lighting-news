@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  21:54",
+  "fetchedAt": "2026.07.26  22:55",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -189,6 +189,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Mami Dan Temple of Toligbé Cultural Center / Maison Bignon Sossou",
+      "url": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
+      "excerpt": "Architecture as a Vessel for Living Heritage - The Mami Dan Temple of Toligbé reflects Maison Bignon Sossou's conviction that architecture can become a powerful medium for preserving, transmitting, an",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/b330/3d21/f756/bc3b/d03b/large_jpg/the-mami-dan-temple-of-toligbe-maison-bignon-sossou_17.jpg?1784656733",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -205,6 +215,16 @@ window.LUMINO_DATA = {
       "title": "Public Art Company gives its LA studio a \"muppets on acid\" interior",
       "url": "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
       "excerpt": "A system of curtains divides areas filled with collectible furniture within this compact office, which LA-based Public Art Company has designed for its own team. Public Art Company's studio on Hyperio",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Mimado Restaurant / García de Alba + Ponce Arquitectos",
+      "url": "https://www.archdaily.com/1181627/mimado-restaurant-garcia-de-alba-plus-ponce-arquitectos",
+      "excerpt": "Mimado is a restaurant in Temozón Norte, Mérida, where the interior carries the core identity of the project. The design transforms a double-height commercial space into a warm, layered environment de",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/8452/d865/3d00/014d/0457/large_jpg/MIMADO_GAP_STUDIO_010.jpg?1784906978",
       "today": true
     },
     {
@@ -296,16 +316,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Macchiato Pocket Park / OUT Architecture",
-      "url": "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
-      "excerpt": "Macchiato is a public space designed by OUT Architecture for the London Festival of Architecture 2026, located in front of The Colombian Coffee Company along Petticoat Lane, one of London's most vibra",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/abe7/237b/e900/01c8/738c/large_jpg/174_260608_OUT_MAC_02_FEDERICOFARINATTI_archdaily.jpg?1784720379",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -322,16 +332,6 @@ window.LUMINO_DATA = {
       "title": "Athens apartment features \"fluid layout\" that adapts to houseguests",
       "url": "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
       "excerpt": "Sliding walls, hidden doors and a fold-down bed allow this minimalist apartment in Athens, designed by Greek architect Georgios Apostolopoulos, to be completely reconfigured when friends come to stay.",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "The Nanshan Affiliated School of Beijing Normal University / Z&Z STUDIO",
-      "url": "https://www.archdaily.com/1181339/the-nanshan-affiliated-school-of-beijing-normal-university-z-and-z-studio",
-      "excerpt": "Located in the coastal city of Shenzhen, the campus is envisioned as a \"terraced courtyard campus\" that harmoniously integrates mountain, park, and harbor landscapes. Built along a gentle slope overlo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/1913/895c/1800/0111/806f/large_jpg/8___________.jpg?1784617257",
       "today": true
     },
     {
