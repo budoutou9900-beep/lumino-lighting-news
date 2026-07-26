@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  17:58",
+  "fetchedAt": "2026.07.26  19:14",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -188,6 +188,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Cença Pizza Bar / IN arq+design",
+      "url": "https://www.archdaily.com/1181328/cenca-pizza-bar-in-arq-plus-design",
+      "excerpt": "Located in downtown Curitiba, the design of Cença Pizza Bar repurposes a previously underutilized historic building into a vibrant, welcoming, and character-filled bar — an environment that invites pe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/7a26/895c/1800/0111/7fe2/large_jpg/IMG_0892-HDR_copiar.jpg?1784576618",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -313,16 +323,6 @@ window.LUMINO_DATA = {
       "excerpt": "ten designers use the GridType tool to develop distinct typographic languages.\nThe post GridType vol.—1 explores how digital tools generate new typographic forms appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gridtype-vol-1-type-tools-type-design-digital-tools-slanted-publishers-designboom-1200-1.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Ochre Residence / Thought Parallels",
-      "url": "https://www.archdaily.com/1181279/ochre-residence-thought-parallels",
-      "excerpt": "Project Ochre, this residence draws its identity directly from the earth. The name perfectly encapsulates the home's grounding material palette defined by baked terracotta, rich timber, coconut wood r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/27f1/3d21/f756/1291/f753/large_jpg/ochre-residence-thought-parallels_2.jpg?1784555517",
-      "today": false
     },
     {
       "source": "Dezeen",
