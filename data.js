@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  08:16",
+  "fetchedAt": "2026.07.26  10:40",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Newscast.jp": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ウェザーニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ウェザーニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -97,6 +101,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.26",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -159,6 +172,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Lenka Milerová Architektka transforms stone pigsty in Czech Republic into holiday home",
+      "url": "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/",
+      "excerpt": "Local studio Lenka Milerová Architektka has converted a former pigsty in the Czech Republic into Panoší Újezd Summer House, complementing its rough stone walls with additions in exposed concrete. The ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Eight unique patios that beckon to the outdoors",
+      "url": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
+      "excerpt": "For our most recent lookbook, we look at homes where the threshold between indoor and outdoor spaces is thin, thanks to their sprawling patios that create the perfect place to kick back and relax outs",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -186,6 +217,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-telepass",
       "excerpt": "The sixth instalment of the architect's series, 'Objectify', investigates how the Telepass brought freedom to the motorway",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U94G4U6kYRovFaVmM9chVc-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Athens apartment features \"fluid layout\" that adapts to houseguests",
+      "url": "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
+      "excerpt": "Sliding walls, hidden doors and a fold-down bed allow this minimalist apartment in Athens, designed by Greek architect Georgios Apostolopoulos, to be completely reconfigured when friends come to stay.",
       "today": true
     },
     {
@@ -226,6 +266,24 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181279/ochre-residence-thought-parallels",
       "excerpt": "Project Ochre, this residence draws its identity directly from the earth. The name perfectly encapsulates the home's grounding material palette defined by baked terracotta, rich timber, coconut wood r",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/27f1/3d21/f756/1291/f753/large_jpg/ochre-residence-thought-parallels_2.jpg?1784555517",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Exhibition highlighting women's uncredited work among projects from EMMA Creative Centre Pforzheim",
+      "url": "https://www.dezeen.com/2026/07/25/exhibition-highlights-uncredited-emma-creative-centre-pforzheim-schoolshows/",
+      "excerpt": "Dezeen School Shows: a woven exhibition that seeks to spotlight uncredited labour by women is among the projects from EMMA Creative Centre Pforzheim. Also featured are knitted garments informed by the",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.25",
+      "title": "Unfold Projects returns mid-century California residence to a \"light-filled, organic oasis\"",
+      "url": "https://www.dezeen.com/2026/07/25/encinitas-residence-mid-century-renovation-california-unfold-projects/",
+      "excerpt": "American studio Unfold Projects has renovated a modernist home in Encinitas, California, that will serve as a base for an artist residency program. Defined by soaring arched roofs, the 1970s property ",
       "today": false
     },
     {
@@ -279,15 +337,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Yano Aoyama Architecture Design tops public toilet in Japan with sweeping timber canopy",
-      "url": "https://www.dezeen.com/2026/07/25/yano-aoyama-architecture-design-tobe-zoo-toilet/",
-      "excerpt": "Japanese practice Yano Aoyama Architecture Design has completed a public toilet for the Tobe Zoological Park in Ehime Prefecture, creating two chiselled concrete blocks that are topped by a thin roof ",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -295,15 +344,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/game-philippe-starck-iconic-lemon-squeezer-juicy-salif-alessi/",
       "excerpt": "more than 35 years after its debut, the aluminum citrus squeezer continues to spark debate, proving that the most influential designs are not always the most practical.\nThe post ‘first for mental work",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/juicy-salif-philippe-starck-lemon-squeezer-alessi-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Seven British dormer extensions that take design to another level",
-      "url": "https://www.dezeen.com/2026/07/25/british-dormer-extensions-design-another-level/",
-      "excerpt": "For our latest roundup, we've collected seven dormer extensions, from a design that takes cues from Italian palazzos and paintings to an extension clad in recycled plastic tiles designed to look like ",
       "today": false
     },
     {
@@ -317,15 +357,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "This week we looked ahead to the 2030 World Cup stadiums",
-      "url": "https://www.dezeen.com/2026/07/25/2030-world-cup-stadiums-this-week/",
-      "excerpt": "This week on Dezeen, we revealed all 23 stadiums that are set to host the 2030 World Cup, which will be played across three continents. The venues will be spread across six countries, with eleven venu",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -333,24 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio/",
       "excerpt": "vaulted precast slabs remain visible throughout the renovated interior.\nThe post red microcement pairs with onyx marble to reframe brutalist barcelona duplex appeared first on designboom | architectur",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Gómez Platero proposes four skyscrapers at former site of the Miami Herald",
-      "url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
-      "excerpt": "Uruguay architecture studio Gómez Platero has proposed \"four irregularly shaped towers\" as part of mixed-use development on the Miami waterfront at the former site of the city's historic Miami Herald ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.24",
-      "title": "Eight products that weld thoughtful design with metal materiality",
-      "url": "https://www.dezeen.com/2026/07/24/seating-storage-lighting-tables-aluminium-stainless-steel-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: whether colourfully anodised or powder-coated, or left in a brown- or silver-toned state, the following products are all made from metals. The selection includes tables, storage, seat",
       "today": false
     },
     {
@@ -550,16 +563,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79362/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.11",
-      "title": "カペラ京都開業",
-      "url": "https://www.lighting.co.jp/2026/06/11/capella-kyoto/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/05/DSC6054-300x200.jpg",
       "today": false
     }
   ]
