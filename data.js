@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  10:40",
+  "fetchedAt": "2026.07.26  11:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "ウェザーニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウェザーニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -49,37 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "LPA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -101,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.26",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -143,16 +130,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.07.26",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.26",
@@ -169,6 +146,26 @@ window.LUMINO_DATA = {
       "url": "https://weathernews.jp/illumi/spot/9009845/",
       "excerpt": "",
       "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.26",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "cultivated cellulose and layered ash shape series of horizon-inspired lighting",
+      "url": "https://www.designboom.com/design/cultivated-cellulose-layered-ash-horizon-inspired-lighting-polybion-natural-urbano-cenit/",
+      "excerpt": "natural ash, stainless steel, and celium manto define the cenit collection.\nThe post cultivated cellulose and layered ash shape series of horizon-inspired lighting appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/polybion-natural-urbano-cenit-lighting-objects-cellium-designboom-1200.jpg",
       "today": true
     },
     {
@@ -200,6 +197,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "A Wooden Bench and the Geography of Materials",
+      "url": "https://www.archdaily.com/1148942/a-wooden-bench-and-the-geography-of-materials",
+      "excerpt": "Images of the benches at New York City's High Line Park spread around the world when the project opened in 2009. Emerging diagonally from the same material and modular pattern as the paving, they tran",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/650f/e8f5/cb01/8987/a720/large_jpg/a-wooden-bench-and-the-geography-of-materials_4.jpg?1784309028",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -207,6 +214,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/casa-bonavita-attard-malta",
       "excerpt": "One of the year’s most anticipated openings, Casa Bonavita is the culmination of Suzanne and Christopher Sharp’s lifelong dream to create a hotel that feels like home",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BUv3bYbCv4ba8LfAFzTggm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Macchiato Pocket Park / OUT Architecture",
+      "url": "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
+      "excerpt": "Macchiato is a public space designed by OUT Architecture for the London Festival of Architecture 2026, located in front of The Colombian Coffee Company along Petticoat Lane, one of London's most vibra",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/abe7/237b/e900/01c8/738c/large_jpg/174_260608_OUT_MAC_02_FEDERICOFARINATTI_archdaily.jpg?1784720379",
       "today": true
     },
     {
@@ -297,16 +314,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "O House / YES! Architects",
-      "url": "https://www.archdaily.com/1181636/o-house-yes-architects",
-      "excerpt": "Casa O sits on a corner lot in a traditional neighborhood of Pilar. The project is conceived from a contrast between its south and north façades: one that builds hermeticism, the other that dematerial",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/8fdf/d865/3d00/014d/04d0/large_jpg/casa_O_0139_B.jpg?1784909854",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.25",
@@ -314,16 +321,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/rummy-card-game-playful-sculptural-furniture-collection-ramino-series-atelier-arunika/",
       "excerpt": "from bar cabinet to chest of drawers, the ramino series by atelier arunika shapes five furniture sculptural characters.\nThe post rummy card game inspires a playful sculptural furniture collection appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/rummy-card-game-sculptural-furniture-collection-ramino-series-atelier-arunika-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Casa Baruk Restaurant / Memola Estúdio",
-      "url": "https://www.archdaily.com/1181641/casa-baruk-restaurant-memola-estudio",
-      "excerpt": "Upon crossing the threshold of Casa Baruk in Higienópolis, São Paulo, the architecture reveals a meeting of traditions. The spatial sequence leads the visitor through an immersive experience, in which",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/5bf4/895c/1800/0111/81ac/large_jpg/Leila_Viegas_Memola_Baruk-0733.jpg?1784634409",
       "today": false
     },
     {
@@ -354,16 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
       "excerpt": "a vaulted plinth lifts the tower above a century-old courtyard to continue the five-meter facade rhythm of rotterdam's historic post office.\nThe post grid of arches wraps ODA’s newly completed POST to",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ODA-post-rotterdam-tower-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "red microcement pairs with onyx marble to reframe brutalist barcelona duplex",
-      "url": "https://www.designboom.com/architecture/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio/",
-      "excerpt": "vaulted precast slabs remain visible throughout the renovated interior.\nThe post red microcement pairs with onyx marble to reframe brutalist barcelona duplex appeared first on designboom | architectur",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio-designboom-1200-1.jpg",
       "today": false
     },
     {
