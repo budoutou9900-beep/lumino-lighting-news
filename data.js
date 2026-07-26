@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.26  13:27",
+  "fetchedAt": "2026.07.26  15:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -197,6 +197,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.26",
+      "title": "Apartment Interior within Poznań's Łazarz District / LBWA",
+      "url": "https://www.archdaily.com/1148723/a-play-of-color-in-an-apartment-interior-within-poznans-lazarz-district-lbwa",
+      "excerpt": "Designed by the LBWA studio, the apartment, located in a historic tenement building in the Łazarz district of Poznań, not only reflects the character of the historic structure but also introduces fres",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/69f0/7c22/c800/01aa/654e/large_jpg/ZASOBY-0022-Z1004606-V1.jpg?1784113829",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -311,16 +321,6 @@ window.LUMINO_DATA = {
       "title": "Unfold Projects returns mid-century California residence to a \"light-filled, organic oasis\"",
       "url": "https://www.dezeen.com/2026/07/25/encinitas-residence-mid-century-renovation-california-unfold-projects/",
       "excerpt": "American studio Unfold Projects has renovated a modernist home in Encinitas, California, that will serve as a base for an artist residency program. Defined by soaring arched roofs, the 1970s property ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Wildcoast Residence / Studio Kennon",
-      "url": "https://www.archdaily.com/1181479/wildcoast-residence-studio-kennon",
-      "excerpt": "A house that does not resist the coast so much as negotiate with it. Positioned at the southern edge of the Mornington Peninsula, where the land yields to Bass Strait, the house inhabits a landscape o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/c484/237b/e900/01c8/7483/large_jpg/260312_-_KENNON_-_WILD_COAST-346-blue_sky_COPY_TIGHT.jpg?1784726673",
       "today": false
     },
     {
