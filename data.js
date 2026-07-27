@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.27  10:37",
+  "fetchedAt": "2026.07.27  13:35",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ウェザーニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ウェザーニュース": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -100,16 +100,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.27",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.27",
@@ -159,6 +149,64 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.07.27",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "The Gulbenkian Museum in Lisbon is restored to its original, modernist glory",
+      "url": "https://www.wallpaper.com/architecture/gulbenkian-museum-portugal",
+      "excerpt": "The Gulbenkian Museum reopens following an extensive, sensitive restoration of its 20th-century building; tour its refreshed home in the Portuguese capital",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jkP6TGfx8NDfnZJMgmmvwY-1414-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "A new in-depth architectural history of Broadcasting House explores the BBC's origins",
+      "url": "https://www.wallpaper.com/architecture/palace-of-ether-bbc-broadcasting-house-book-uk",
+      "excerpt": "Elizabeth Darling’s 'Palace of the Ether' is a rich history of Broadcasting House and the BBC's first decade, a time of electronic, aesthetic and social innovation writ large",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ecNApyHV2UooX3QYnpTBUU-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "the fun palace: cedric price’s 1960s visionary project that (kind of) never came to be",
+      "url": "https://www.designboom.com/architecture/fun-palace-cedric-price-visionary-project-laboratory-never-came-to-be/",
+      "excerpt": "conceived as a constantly evolving space for performance, learning and collective experimentation, cedric price’s radical vision challenged conventional ideas of what architecture could be — despite n",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/price-fun-palace-designboom-03.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "CTA shelters annexe in Vietnam beneath curved roof to \"evoke the sensation of being in a cave\"",
+      "url": "https://www.dezeen.com/2026/07/27/cta-casa-mac-annexe-vietnam/",
+      "excerpt": "Scale-shaped shingles cover the sweeping, canopy-like roof of Casa Mac, an annexe in Vietnam designed by local architecture studio CTA. Serving as an annexe to the client's existing home in Phu My nea",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "\"Human refrigerator\" provides escape from deadly heatwaves",
+      "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
+      "excerpt": "Japanese vending machine manufacturer SDRS has developed a human-sized, stainless-steel fridge to stave off heatstroke amid the increasingly sweltering summers brought on by climate change. The Do Hie",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -176,6 +224,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/chip-motors-tiny-electric-luv-drive-microcar-remote-driving/",
       "excerpt": "built for school runs and beach days, the cheerful microcar leaves highways and parking stress to larger machines.\nThe post chip motors’ tiny electric LUV can drive itself home — with a little human h",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/chip-motors-tiny-electric-luv-drive-microcar-remote-driving-designboom-09.jpeg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Manchester Digital Campus slated to become No 10 North",
+      "url": "https://www.dezeen.com/2026/07/27/no-10-north-manchester-digital-campus/",
+      "excerpt": "An office campus in central Manchester, designed by infrastructure company AtkinsRéalis, is tipped to become the future home of No 10 North – the northern outpost of 10 Downing Street. Named the Manch",
       "today": true
     },
     {
@@ -218,6 +275,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Where Is the Border? How Architecture Controls and Reimagines Mobility",
+      "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
+      "excerpt": "Imagine a corridor. Concrete walls two meters apart, a low ceiling, artificial lighting with neither shadow nor gradation. At the far end, a bulletproof glass window, and on the other side, a uniforme",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/451b/3d21/f701/89c9/2cf4/large_jpg/onde-fica-a-fronteira-o-papel-da-arquitetura-no-controle-da-mobilidade_10.jpg?1784300879",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Casa Macahuite / Studio Font",
+      "url": "https://www.archdaily.com/1181251/casa-macahuite-studio-font",
+      "excerpt": "Site and Landscape - Casa Macahuite is conceived as a composition of five planes (four vertical walls and a floating pergola) arranged in direct relationship with the landscape: sea and mountains. The",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4f2/3d21/f701/89c9/2fc1/large_jpg/casa-macahuite-studio-font_4.jpg?1784538388",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -225,6 +302,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/eugenia-skvarska-unofficial",
       "excerpt": "Ben McLaughlin's new publishing series, Unofficial, will spotlight where an artist grew up each issue. First up, Eugenia Skvarska",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yjvBNc5bTesj2tePopoUmV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "\"Promoting Another Way of Living Together\": In Conversation with Cristina Gamboa of Lacol",
+      "url": "https://www.archdaily.com/1181647/promoting-another-way-of-living-together-in-conversation-with-cristina-gamboa-of-lacol",
+      "excerpt": "At the UIA World Congress of Architects 2026 in Barcelona, discussions surrounding the future of housing frequently extended beyond questions of design to include governance, ownership, and long-term ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/1f72/f4d2/6d01/88b1/6aaa/large_jpg/promoting-another-way-of-living-together-in-conversation-with-cristina-gamboa-of-lacol_1.jpg?1785143180",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Cork House / Polysmiths",
+      "url": "https://www.archdaily.com/1181472/cork-house-polysmiths",
+      "excerpt": "Architecture studio Polysmiths built a three-bedroom house on an infill plot in East London, using cork and other sustainable materials that remained readily available during the pandemic.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ba7f/237b/e900/01c8/7427/large_jpg/F_T-TMH-_-CORK-HOUSE-1-WEB.jpg?1784724113",
       "today": true
     },
     {
@@ -247,55 +344,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Sander seating island encourages reclining from all angles",
-      "url": "https://www.dezeen.com/2026/07/27/sander-seating-island-central-backrest/",
-      "excerpt": "Promotion: Berlin furniture brand Objekte Unserer Tage has released the Sander seating island, the flexible younger sibling of its marshmallowy sofa model, which was designed with a central backrest t",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "An Architectural Language of Artificial Cooling: Shade, Mist, and Autonomy",
-      "url": "https://www.archdaily.com/1181537/an-architectural-language-of-artificial-cooling-shade-mist-and-autonomy",
-      "excerpt": "Concéntrico returned to Logroño for its 12th edition in June and transformed the city into a working site for architecture. Since its founding in 2015, the festival has built an identity on resisting ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/d23a/230f/7701/8660/62f8/large_jpg/an-architectural-language-of-artificial-cooling-shade-mist-and-autonomy_1.jpg?1784795767",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Gabonsa Pavilion / Hochschule Kaiserslautern University of Applied Sciences",
-      "url": "https://www.archdaily.com/1148793/gabonsa-pavilion-hochschule-kaiserslautern-university-of-applied-sciences",
-      "excerpt": "The project was developed through a collaboration between students from Kaiserslautern University of Applied Sciences and the Innsbruck-based collectives Gans Anders and Bonanza. As part of the Gabons",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/a28f/d425/1a00/01c4/b9a8/large_jpg/Horizontal_image_Toni_Schade.jpg?1784193731",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "The House of Green Court / andblack design studio",
-      "url": "https://www.archdaily.com/1181504/the-house-of-green-court-andblack-design-studio",
-      "excerpt": "Set within the climatic and cultural context of Ahmedabad, the House of Green Court draws from the courtyard typology to organize a three-generational family into an individualized yet cohesive whole.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/f41c/16b1/5001/8833/da81/large_jpg/the-house-of-green-court-andblack-design-studio_33.jpg?1784738913",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Luohu Library and Youth Activity Center  / Shenzhen Huahui Design + iDEA",
-      "url": "https://www.archdaily.com/1181518/luohu-library-and-youth-activity-center-shenzhen-huahui-design-plus-idea",
-      "excerpt": "In Luohu, where landscape and city are held in close balance, expansive mountains and water are interwoven with a dense, fine-grained urban fabric. Located at the threshold between natural terrain and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/5d06/184b/c647/bf10/4936/large_jpg/luohu-library-and-youth-activity-center-shenzhen-huahui-design_3.jpg?1784765786",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.26",
@@ -303,54 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/sculptural-exhibition-design-antiquity-poland-krakow/",
       "excerpt": "an exhibition in wawel royal castle in krakow frames antiquity through light, color, and texture\nThe post sculptural exhibition design traces a glowing path through antiquity in poland appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/450883/2026-07-09/spatial-foldings-at-the-antiquity-exhibition-designed-by-narchitektura-3-6a4ffdf56b580.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "When Renault took to the sky: revisiting the elegant 1930s Caudron Rafale racing plane",
-      "url": "https://www.wallpaper.com/transportation/renault-1930s-caudron-rafale-racing-plane",
-      "excerpt": "Renault’s history includes this superb piece of aviation design, the 1934 Caudron Rafale C.460, a name that's gone on to grace a contemporary car",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yL2oETG9qL5TEDjkrzrwHo-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "artist-designed ping-pong tables make everyone a beginner at rockaway beach",
-      "url": "https://www.designboom.com/art/artist-designed-ping-pong-tables-rockaway-beach-new-york-between-tides/",
-      "excerpt": "six ping-pong tables rise from the sand at new york's rockaway beach, though each one interferes with the game it appears ready to host.\nThe post artist-designed ping-pong tables make everyone a begin",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ping-pong-tables-rockaway-beach-new-york-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Public Art Company gives its LA studio a \"muppets on acid\" interior",
-      "url": "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
-      "excerpt": "A system of curtains divides areas filled with collectible furniture within this compact office, which LA-based Public Art Company has designed for its own team. Public Art Company's studio on Hyperio",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "This private art collection offers a chronicle of queer life across two centuries",
-      "url": "https://www.wallpaper.com/design-interiors/ron-zuckerman-private-art-collection-san-francisco-nudes",
-      "excerpt": "Much of the work in Ron Zuckerman’s San Francisco flat was illegal in midcentury America, so was created, printed and distributed privately, only existing to this day thanks to a host of tenacious and",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hGwqSVhuCbA8ntRkNmyp8K-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Lenka Milerová Architektka transforms stone pigsty in Czech Republic into holiday home",
-      "url": "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/",
-      "excerpt": "Local studio Lenka Milerová Architektka has converted a former pigsty in the Czech Republic into Panoší Újezd Summer House, complementing its rough stone walls with additions in exposed concrete. The ",
       "today": false
     },
     {
