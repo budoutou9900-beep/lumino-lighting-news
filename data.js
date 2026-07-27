@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.27  13:35",
+  "fetchedAt": "2026.07.27  16:12",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウェザーニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ウェザーニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,41 +41,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -97,6 +101,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.27",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -156,6 +169,46 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "aalto works, rock-cut mosques and modernist cities join UNESCO’s 2026 world heritage list",
+      "url": "https://www.designboom.com/architecture/aalto-works-mosques-modernist-cities-join-unesco-2026-world-heritage-list/",
+      "excerpt": "in july 2026, the UNESCO world heritage committee added twenty-five sites during its 48th session in busan, south korea.\nThe post aalto works, rock-cut mosques and modernist cities join UNESCO’s 2026 ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/unesco-world-heritage-sites-2026-additions-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Women’s Fashion Week S/S 2027 is coming. Here’s what to expect",
+      "url": "https://www.wallpaper.com/fashion-beauty/womens-fashion-week-ss-2027-what-to-expect-schedule-calendar",
+      "excerpt": "The schedules have been released for the upcoming fashion weeks in New York, London, Milan and Paris. Here, we break down the moments to look out for in each city",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T6LDZVbJjjPRpQT6p5nR2H-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "fredrik paulsen creates limited-edition chair for helsinki’s DIY skateboarding festival",
+      "url": "https://www.designboom.com/design/fredrik-paulsen-limited-edition-chair-helsinki-diy-skateboarding-festival-vauhtikisat-chair-one/",
+      "excerpt": "vauhtikisat chair one brings together furniture, graphics, community, and skate culture.\nThe post fredrik paulsen creates limited-edition chair for helsinki’s DIY skateboarding festival appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vauhtikisat-chair-one-Fredrik-Paulsen-skateboarding-designboom-1200-1.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "The Mah Jong sofa has officially entered pop culture",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon",
+      "excerpt": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/shMozsJUgVmE8DXyEqLzs4-2560-80.jpg",
       "today": true
     },
     {
@@ -246,13 +299,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.27",
-      "title": "beyond the blueprint: breaking rigid structures to embrace fluid spatial evolution",
-      "url": "https://www.designboom.com/architecture/fluid-spatial-evolution-room-for-dreams-podcast/",
-      "excerpt": "tune in to episode 10 of the room for dreams podcast to hear why the best spaces are intentionally left open to interpretation.\nThe post beyond the blueprint: breaking rigid structures to embrace flui",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-room-for-dreams-podcast-10-designboom-FB.jpg",
+      "title": "Vergalderie - Alpine Guesthouse and Gallery / Christian Tonko",
+      "url": "https://www.archdaily.com/1181539/vergalderie-alpine-guesthouse-and-gallery-christian-tonko",
+      "excerpt": "The Vergalderie is located in the small mountain village of Gargellen, nestled in a side valley of the Montafon region at an altitude of 1,530 meters. The tranquil, minimalist structure, topped with a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/dbe8/32e0/e900/0119/c6f2/large_jpg/01_Christian_Tonko_Arch_Gargellen_IMG_1180_GW.jpg?1784798225",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Mycology for Architecture",
+      "url": "https://www.archdaily.com/1181678/mycology-for-architecture",
+      "excerpt": "Mycology for Architecture explores how mycelium – the root network of fungi – as a living material is transforming architecture into a discipline that is not only sustainable but regenerative, adaptiv",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4d4f/d865/3d00/014d/07ae/large_jpg/Mycology_for_Architecture_-_front_cover.jpg?1785154908",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "ONRAMP 8 SCI-ARC",
+      "url": "https://www.archdaily.com/1181674/onramp-8-sci-arc",
+      "excerpt": "ONRAMP 8 captures the culminating thesis work and final projects of SCI-Arc’s Undergraduate, Graduate, and Postgraduate programs for the 2024–25 academic year. Edited by Marcelyn Gow under the editori",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4cc5/d865/3d00/014d/0785/large_jpg/grid.jpg?1785154786",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Claying Architecture",
+      "url": "https://www.archdaily.com/1181670/claying-architecture",
+      "excerpt": "Claying Architecture: Making Machine and Material Kin presents a curated collection of essays, interviews, and projects from leading architects, designers, and researchers who are analyzing the role o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4bd2/d865/3d00/014d/0739/large_jpg/grid.jpg?1785154519",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "CDM Digi Fab Competition 2026 by CAINZ × KOKUYO × VUILD",
+      "url": "https://www.archdaily.com/1181665/cdm-digi-fab-competition-2026-by-cainz-x-kokuyo-x-vuild",
+      "excerpt": "Theme“Living with Children”\nWe are looking for proposals such as:・Furniture or woodwork products that ignite children's creativity and encourage independence.・Designs that help children experience the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/49e9/d865/3d00/014d/06ff/large_jpg/LP_RGB__1_.jpg?1785154048",
       "today": true
     },
     {
@@ -265,76 +358,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Art fans will be gripped by one of the USA’s most significant jewellery collections",
-      "url": "https://www.wallpaper.com/watches-jewellery/constellations-exhibition-of-artist-designed-jewellery-chryseler-museum-of-art-usa",
-      "excerpt": "A rare chance to see more than 350 pieces of artist-designed jewellery at the Chrysler Museum of Art in Virginia",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U2qgV2YFtWTtsZpb46ZFnZ.gif",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Where Is the Border? How Architecture Controls and Reimagines Mobility",
-      "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
-      "excerpt": "Imagine a corridor. Concrete walls two meters apart, a low ceiling, artificial lighting with neither shadow nor gradation. At the far end, a bulletproof glass window, and on the other side, a uniforme",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/451b/3d21/f701/89c9/2cf4/large_jpg/onde-fica-a-fronteira-o-papel-da-arquitetura-no-controle-da-mobilidade_10.jpg?1784300879",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Casa Macahuite / Studio Font",
-      "url": "https://www.archdaily.com/1181251/casa-macahuite-studio-font",
-      "excerpt": "Site and Landscape - Casa Macahuite is conceived as a composition of five planes (four vertical walls and a floating pergola) arranged in direct relationship with the landscape: sea and mountains. The",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5d/e4f2/3d21/f701/89c9/2fc1/large_jpg/casa-macahuite-studio-font_4.jpg?1784538388",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Ukrainian art director Eugenia Skvarska shares her world for an intimate new publishing series",
-      "url": "https://www.wallpaper.com/art/photography/eugenia-skvarska-unofficial",
-      "excerpt": "Ben McLaughlin's new publishing series, Unofficial, will spotlight where an artist grew up each issue. First up, Eugenia Skvarska",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yjvBNc5bTesj2tePopoUmV-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "\"Promoting Another Way of Living Together\": In Conversation with Cristina Gamboa of Lacol",
-      "url": "https://www.archdaily.com/1181647/promoting-another-way-of-living-together-in-conversation-with-cristina-gamboa-of-lacol",
-      "excerpt": "At the UIA World Congress of Architects 2026 in Barcelona, discussions surrounding the future of housing frequently extended beyond questions of design to include governance, ownership, and long-term ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/1f72/f4d2/6d01/88b1/6aaa/large_jpg/promoting-another-way-of-living-together-in-conversation-with-cristina-gamboa-of-lacol_1.jpg?1785143180",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Cork House / Polysmiths",
-      "url": "https://www.archdaily.com/1181472/cork-house-polysmiths",
-      "excerpt": "Architecture studio Polysmiths built a three-bedroom house on an infill plot in East London, using cork and other sustainable materials that remained readily available during the pandemic.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ba7f/237b/e900/01c8/7427/large_jpg/F_T-TMH-_-CORK-HOUSE-1-WEB.jpg?1784724113",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "From Data to Digital Twins: Japan’s PLATEAU Project Offers Open-Access Models of More Than 250 Cities",
-      "url": "https://www.archdaily.com/1040412/from-data-to-digital-twins-japans-plateau-project-offers-open-access-models-of-more-than-250-cities",
-      "excerpt": "\"Map the New World\" is the motto of Project PLATEAU, led by Japan's Ministry of Land, Infrastructure, Transport and Tourism (MLIT), to develop and expand access to 3D models representing the diversity",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69d5/bb5a/7950/3078/1b56/5b31/large_jpg/japanese-government-initiative-to-develop-200-open-source-3d-city-models_3.jpg?1775614817",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -342,16 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/07/27/fsb-1138-door-handle-dieter-rams/",
       "excerpt": "German hardware specialist Franz Schneider Brakel has updated and relaunched a door handle designed 40 years ago by influential industrial designer Dieter Rams, replacing its plastic parts with an all",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "sculptural exhibition design traces a glowing path through antiquity in poland",
-      "url": "https://www.designboom.com/art/sculptural-exhibition-design-antiquity-poland-krakow/",
-      "excerpt": "an exhibition in wawel royal castle in krakow frames antiquity through light, color, and texture\nThe post sculptural exhibition design traces a glowing path through antiquity in poland appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/450883/2026-07-09/spatial-foldings-at-the-antiquity-exhibition-designed-by-narchitektura-3-6a4ffdf56b580.jpg",
-      "today": false
     },
     {
       "source": "遠藤照明",
