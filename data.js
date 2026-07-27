@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.27  18:21",
+  "fetchedAt": "2026.07.27  20:18",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "ウェザーニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -97,6 +101,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.07.27",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -159,6 +172,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Renovation of problematic Montreal Olympic Stadium roof keeps \"original intention\" in mind",
+      "url": "https://www.dezeen.com/2026/07/27/montreal-olympic-stadium-gmp-arcitekten-construction/",
+      "excerpt": "German architecture studio GMP Architekten is part of a team renovating the Olympic Stadium in Montreal. The work includes replacing a membrane roof that caused problems for decades with a steel deck ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "snøhetta’s unbuilt banpo playscape reconnects seoul with the hangang river",
+      "url": "https://www.designboom.com/architecture/snohetta-unbuilt-banpo-playscape-seoul-hangang-river-architecture/",
+      "excerpt": "although never selected for construction, the riverside scheme explores how ecology and play might repair an infrastructural divide.\nThe post snøhetta’s unbuilt banpo playscape reconnects seoul with t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/snohetta-unbuilt-banpo-playscape-seoul-hangang-river-architecture-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
+      "url": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/",
+      "excerpt": "American studio Elizabeth Herrmann Architecture + Design has used burnt-cedar cladding to help the Milo House blend with the wooded terrain in rural Vermont. Located in the town of Cornwall, the house",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -176,6 +217,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/womens-fashion-week-ss-2027-what-to-expect-schedule-calendar",
       "excerpt": "The schedules have been released for the upcoming fashion weeks in New York, London, Milan and Paris. Here, we break down the moments to look out for in each city",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T6LDZVbJjjPRpQT6p5nR2H-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Radikal Klassisk / PUNTOFILIPINO",
+      "url": "https://www.archdaily.com/999576/radikal-klassisk-puntofilipino",
+      "excerpt": "The style is characterized by eclectic, bolt and vibrant designs, and an explicit need to imbue a more sophisticated identity to those who wish to distinguish themselves by transcending fashion bounda",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/643b/7033/4d5c/4615/e3ac/cff4/large_jpg/radikal-klassisk-puntofilipino_17.jpg?1681616982",
       "today": true
     },
     {
@@ -199,6 +250,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Colors Apartment / Lucas Jimeno Dualde",
+      "url": "https://www.archdaily.com/1181509/colors-apartment-lucas-jimeno-dualde",
+      "excerpt": "In a mid-20th-century building in Higienópolis, Lucas Jimeno Dualde transforms a 280-square-meter apartment into something akin to a domestic temple. Its frugal architecture eliminates visual and mate",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/fd05/237b/e900/01c8/7179/large_jpg/lucasjdualde.higienopolis_0103.jpg?1784675622",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -206,6 +267,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/gulbenkian-museum-portugal",
       "excerpt": "The Gulbenkian Museum reopens following an extensive, sensitive restoration of its 20th-century building; tour its refreshed home in the Portuguese capital",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jkP6TGfx8NDfnZJMgmmvwY-1414-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "C+C House / Studio Maignan Architects",
+      "url": "https://www.archdaily.com/1181365/c-plus-c-house-studio-maignan-architects",
+      "excerpt": "The C+C House reimagines a 1930s brick house in Toronto's Humewood Cedarvale neighbourhood. Conceived as an exercise in adaptive reuse, the project transforms a compartmentalized urban home into a con",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/5f19/895c/1800/0111/820d/large_jpg/Humewood-09-Kitchen_Garden_-_MaximeBrouillet.jpg?1784635191",
       "today": true
     },
     {
@@ -257,16 +328,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "chip motors’ tiny electric LUV can drive itself home — with a little human help",
-      "url": "https://www.designboom.com/technology/chip-motors-tiny-electric-luv-drive-microcar-remote-driving/",
-      "excerpt": "built for school runs and beach days, the cheerful microcar leaves highways and parking stress to larger machines.\nThe post chip motors’ tiny electric LUV can drive itself home — with a little human h",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/chip-motors-tiny-electric-luv-drive-microcar-remote-driving-designboom-09.jpeg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -303,54 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181678/mycology-for-architecture",
       "excerpt": "Mycology for Architecture explores how mycelium – the root network of fungi – as a living material is transforming architecture into a discipline that is not only sustainable but regenerative, adaptiv",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4d4f/d865/3d00/014d/07ae/large_jpg/Mycology_for_Architecture_-_front_cover.jpg?1785154908",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "ONRAMP 8 SCI-ARC",
-      "url": "https://www.archdaily.com/1181674/onramp-8-sci-arc",
-      "excerpt": "ONRAMP 8 captures the culminating thesis work and final projects of SCI-Arc’s Undergraduate, Graduate, and Postgraduate programs for the 2024–25 academic year. Edited by Marcelyn Gow under the editori",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4cc5/d865/3d00/014d/0785/large_jpg/grid.jpg?1785154786",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Claying Architecture",
-      "url": "https://www.archdaily.com/1181670/claying-architecture",
-      "excerpt": "Claying Architecture: Making Machine and Material Kin presents a curated collection of essays, interviews, and projects from leading architects, designers, and researchers who are analyzing the role o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4bd2/d865/3d00/014d/0739/large_jpg/grid.jpg?1785154519",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "CDM Digi Fab Competition 2026 by CAINZ × KOKUYO × VUILD",
-      "url": "https://www.archdaily.com/1181665/cdm-digi-fab-competition-2026-by-cainz-x-kokuyo-x-vuild",
-      "excerpt": "Theme“Living with Children”\nWe are looking for proposals such as:・Furniture or woodwork products that ignite children's creativity and encourage independence.・Designs that help children experience the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/49e9/d865/3d00/014d/06ff/large_jpg/LP_RGB__1_.jpg?1785154048",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "RSHP unveils tripartite Shanghai skyscraper informed by historical laneways",
-      "url": "https://www.dezeen.com/2026/07/27/rshps-one-shanghai-tower/",
-      "excerpt": "British architecture studio RSHP has completed One Shanghai, an 186-metre mixed-use skyscraper in central Shanghai, China, informed by the city's historical laneway network. Located on Shimen First Ro",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "FSB relaunches 1986 Dieter Rams door handle with \"effortless grip\"",
-      "url": "https://www.dezeen.com/2026/07/27/fsb-1138-door-handle-dieter-rams/",
-      "excerpt": "German hardware specialist Franz Schneider Brakel has updated and relaunched a door handle designed 40 years ago by influential industrial designer Dieter Rams, replacing its plastic parts with an all",
       "today": true
     },
     {
