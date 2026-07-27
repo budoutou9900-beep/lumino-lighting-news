@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.27  22:01",
+  "fetchedAt": "2026.07.27  23:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウェザーニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ウェザーニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -100,6 +100,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.27",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.27",
@@ -149,13 +159,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.27",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "why love hultén keeps building sound machines we want to interact with",
+      "url": "https://www.designboom.com/technology/love-hulten-sound-machines-interaction/",
+      "excerpt": "the swedish artist combines woodworking and electronics to create tactile synthesizers, sound sculptures, and interactive objects.\nThe post why love hultén keeps building sound machines we want to int",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/11/guitar-ferrofluid-noise-machine-biodata-synth-love-hulten-book-works-ii-designboom-05.jpg",
       "today": true
     },
     {
@@ -194,6 +204,16 @@ window.LUMINO_DATA = {
       "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
       "url": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/",
       "excerpt": "American studio Elizabeth Herrmann Architecture + Design has used burnt-cedar cladding to help the Milo House blend with the wooded terrain in rural Vermont. Located in the town of Cornwall, the house",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Muda L11 House / Pereira Miguel Arquitectos",
+      "url": "https://www.archdaily.com/1181645/muda-l11-pereira-miguel-arquitectos",
+      "excerpt": "The project is located on an agricultural plot defined by the Muda Detailed Plan, in the Rural Intervention Zone – South, in the municipality of Grândola, Portugal. The land area is generous, with app",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/d66e/d865/3d00/014d/0561/large_jpg/MudaL11_PMArq_foto_Fernando_Guerra_FG_SG_87.jpg?1784927879",
       "today": true
     },
     {
@@ -287,16 +307,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "the fun palace: cedric price’s 1960s visionary project that (kind of) never came to be",
-      "url": "https://www.designboom.com/architecture/fun-palace-cedric-price-visionary-project-laboratory-never-came-to-be/",
-      "excerpt": "conceived as a constantly evolving space for performance, learning and collective experimentation, cedric price’s radical vision challenged conventional ideas of what architecture could be — despite n",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/price-fun-palace-designboom-03.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -341,16 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181539/vergalderie-alpine-guesthouse-and-gallery-christian-tonko",
       "excerpt": "The Vergalderie is located in the small mountain village of Gargellen, nestled in a side valley of the Montafon region at an altitude of 1,530 meters. The tranquil, minimalist structure, topped with a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/dbe8/32e0/e900/0119/c6f2/large_jpg/01_Christian_Tonko_Arch_Gargellen_IMG_1180_GW.jpg?1784798225",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Mycology for Architecture",
-      "url": "https://www.archdaily.com/1181678/mycology-for-architecture",
-      "excerpt": "Mycology for Architecture explores how mycelium – the root network of fungi – as a living material is transforming architecture into a discipline that is not only sustainable but regenerative, adaptiv",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4d4f/d865/3d00/014d/07ae/large_jpg/Mycology_for_Architecture_-_front_cover.jpg?1785154908",
       "today": true
     },
     {
