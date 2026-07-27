@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.27  06:23",
+  "fetchedAt": "2026.07.27  10:37",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,77 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "Newscast.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "ウェザーニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "岩崎電気": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "大光電機": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -101,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.27",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -172,14 +159,141 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "the stillness of sri lankan temples translates into handcrafted ceramic lighting",
+      "url": "https://www.designboom.com/design/sri-lankan-temples-handcrafted-ceramic-lighting-bouti-studio/",
+      "excerpt": "integrated openings reveal the lighting objects’ carefully considered details.\nThe post the stillness of sri lankan temples translates into handcrafted ceramic lighting appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sri-lankan-temples-temple-lighting-ceramic-collection-bouti-studio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "chip motors’ tiny electric LUV can drive itself home — with a little human help",
+      "url": "https://www.designboom.com/technology/chip-motors-tiny-electric-luv-drive-microcar-remote-driving/",
+      "excerpt": "built for school runs and beach days, the cheerful microcar leaves highways and parking stress to larger machines.\nThe post chip motors’ tiny electric LUV can drive itself home — with a little human h",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/chip-motors-tiny-electric-luv-drive-microcar-remote-driving-designboom-09.jpeg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Pirajean Lees’ Formentera retreat is designed for barefoot living",
+      "url": "https://www.wallpaper.com/design-interiors/pirajean-lees-formentera-retreat",
+      "excerpt": "The husband and wife founders of London design studio Pirajean Lees have transformed a neglected 1960s house in Formentera into their own relaxed island home",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oshAUQ4ENcT9pYPYVhiXpb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "beyond the blueprint: breaking rigid structures to embrace fluid spatial evolution",
+      "url": "https://www.designboom.com/architecture/fluid-spatial-evolution-room-for-dreams-podcast/",
+      "excerpt": "tune in to episode 10 of the room for dreams podcast to hear why the best spaces are intentionally left open to interpretation.\nThe post beyond the blueprint: breaking rigid structures to embrace flui",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-room-for-dreams-podcast-10-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "RSHP unveils tripartite Shanghai skyscraper informed by historical laneways",
+      "url": "https://www.dezeen.com/2026/07/27/rshps-one-shanghai-tower/",
+      "excerpt": "British architecture studio RSHP has completed One Shanghai, an 186-metre mixed-use skyscraper in central Shanghai, China, informed by the city's historical laneway network. Located on Shimen First Ro",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Art fans will be gripped by one of the USA’s most significant jewellery collections",
+      "url": "https://www.wallpaper.com/watches-jewellery/constellations-exhibition-of-artist-designed-jewellery-chryseler-museum-of-art-usa",
+      "excerpt": "A rare chance to see more than 350 pieces of artist-designed jewellery at the Chrysler Museum of Art in Virginia",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U2qgV2YFtWTtsZpb46ZFnZ.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Ukrainian art director Eugenia Skvarska shares her world for an intimate new publishing series",
+      "url": "https://www.wallpaper.com/art/photography/eugenia-skvarska-unofficial",
+      "excerpt": "Ben McLaughlin's new publishing series, Unofficial, will spotlight where an artist grew up each issue. First up, Eugenia Skvarska",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yjvBNc5bTesj2tePopoUmV-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Blue Bottle Coffee Harajuku Cafe / TEKI Design",
-      "url": "https://www.archdaily.com/1181503/blue-bottle-coffee-harajuku-cafe-teki-design",
-      "excerpt": "Keeping pace with the ever-evolving landscape and culture of Harajuku through a new passage and creating a slice of sky between the buildings.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/e60c/d7be/a80e/e610/49cd/large_jpg/blue-bottle-coffee-harajuku-teki-design_2.jpg?1784735262",
-      "today": false
+      "date": "2026.07.27",
+      "title": "From Data to Digital Twins: Japan’s PLATEAU Project Offers Open-Access Models of More Than 250 Cities",
+      "url": "https://www.archdaily.com/1040412/from-data-to-digital-twins-japans-plateau-project-offers-open-access-models-of-more-than-250-cities",
+      "excerpt": "\"Map the New World\" is the motto of Project PLATEAU, led by Japan's Ministry of Land, Infrastructure, Transport and Tourism (MLIT), to develop and expand access to 3D models representing the diversity",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69d5/bb5a/7950/3078/1b56/5b31/large_jpg/japanese-government-initiative-to-develop-200-open-source-3d-city-models_3.jpg?1775614817",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "FSB relaunches 1986 Dieter Rams door handle with \"effortless grip\"",
+      "url": "https://www.dezeen.com/2026/07/27/fsb-1138-door-handle-dieter-rams/",
+      "excerpt": "German hardware specialist Franz Schneider Brakel has updated and relaunched a door handle designed 40 years ago by influential industrial designer Dieter Rams, replacing its plastic parts with an all",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Sander seating island encourages reclining from all angles",
+      "url": "https://www.dezeen.com/2026/07/27/sander-seating-island-central-backrest/",
+      "excerpt": "Promotion: Berlin furniture brand Objekte Unserer Tage has released the Sander seating island, the flexible younger sibling of its marshmallowy sofa model, which was designed with a central backrest t",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "An Architectural Language of Artificial Cooling: Shade, Mist, and Autonomy",
+      "url": "https://www.archdaily.com/1181537/an-architectural-language-of-artificial-cooling-shade-mist-and-autonomy",
+      "excerpt": "Concéntrico returned to Logroño for its 12th edition in June and transformed the city into a working site for architecture. Since its founding in 2015, the festival has built an identity on resisting ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/d23a/230f/7701/8660/62f8/large_jpg/an-architectural-language-of-artificial-cooling-shade-mist-and-autonomy_1.jpg?1784795767",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Gabonsa Pavilion / Hochschule Kaiserslautern University of Applied Sciences",
+      "url": "https://www.archdaily.com/1148793/gabonsa-pavilion-hochschule-kaiserslautern-university-of-applied-sciences",
+      "excerpt": "The project was developed through a collaboration between students from Kaiserslautern University of Applied Sciences and the Innsbruck-based collectives Gans Anders and Bonanza. As part of the Gabons",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/a28f/d425/1a00/01c4/b9a8/large_jpg/Horizontal_image_Toni_Schade.jpg?1784193731",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "The House of Green Court / andblack design studio",
+      "url": "https://www.archdaily.com/1181504/the-house-of-green-court-andblack-design-studio",
+      "excerpt": "Set within the climatic and cultural context of Ahmedabad, the House of Green Court draws from the courtyard typology to organize a three-generational family into an individualized yet cohesive whole.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/f41c/16b1/5001/8833/da81/large_jpg/the-house-of-green-court-andblack-design-studio_33.jpg?1784738913",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "Luohu Library and Youth Activity Center  / Shenzhen Huahui Design + iDEA",
+      "url": "https://www.archdaily.com/1181518/luohu-library-and-youth-activity-center-shenzhen-huahui-design-plus-idea",
+      "excerpt": "In Luohu, where landscape and city are held in close balance, expansive mountains and water are interwoven with a dense, fine-grained urban fabric. Located at the threshold between natural terrain and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a61/5d06/184b/c647/bf10/4936/large_jpg/luohu-library-and-youth-activity-center-shenzhen-huahui-design_3.jpg?1784765786",
+      "today": true
     },
     {
       "source": "designboom",
@@ -212,52 +326,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Mami Dan Temple of Toligbé Cultural Center / Maison Bignon Sossou",
-      "url": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
-      "excerpt": "Architecture as a Vessel for Living Heritage - The Mami Dan Temple of Toligbé reflects Maison Bignon Sossou's conviction that architecture can become a powerful medium for preserving, transmitting, an",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/b330/3d21/f756/bc3b/d03b/large_jpg/the-mami-dan-temple-of-toligbe-maison-bignon-sossou_17.jpg?1784656733",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "forget the mouse: augmental’s mouthpad lets the tongue control the cursor",
-      "url": "https://www.designboom.com/technology/mouse-augmental-mouthpad-tongue-control/",
-      "excerpt": "the public launch arrives alongside vox, a wearable microphone designed as its voice-powered keyboard\nThe post forget the mouse: augmental’s mouthpad lets the tongue control the cursor appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mouse-augmental-mouthpad-tongue-control-designboom-06.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.26",
       "title": "Public Art Company gives its LA studio a \"muppets on acid\" interior",
       "url": "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
       "excerpt": "A system of curtains divides areas filled with collectible furniture within this compact office, which LA-based Public Art Company has designed for its own team. Public Art Company's studio on Hyperio",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Mimado Restaurant / García de Alba + Ponce Arquitectos",
-      "url": "https://www.archdaily.com/1181627/mimado-restaurant-garcia-de-alba-plus-ponce-arquitectos",
-      "excerpt": "Mimado is a restaurant in Temozón Norte, Mérida, where the interior carries the core identity of the project. The design transforms a double-height commercial space into a warm, layered environment de",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/8452/d865/3d00/014d/0457/large_jpg/MIMADO_GAP_STUDIO_010.jpg?1784906978",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Cença Pizza Bar / IN arq+design",
-      "url": "https://www.archdaily.com/1181328/cenca-pizza-bar-in-arq-plus-design",
-      "excerpt": "Located in downtown Curitiba, the design of Cença Pizza Bar repurposes a previously underutilized historic building into a vibrant, welcoming, and character-filled bar — an environment that invites pe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/7a26/895c/1800/0111/7fe2/large_jpg/IMG_0892-HDR_copiar.jpg?1784576618",
       "today": false
     },
     {
@@ -277,93 +351,6 @@ window.LUMINO_DATA = {
       "title": "Lenka Milerová Architektka transforms stone pigsty in Czech Republic into holiday home",
       "url": "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/",
       "excerpt": "Local studio Lenka Milerová Architektka has converted a former pigsty in the Czech Republic into Panoší Újezd Summer House, complementing its rough stone walls with additions in exposed concrete. The ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "GridType vol.—1 explores how digital tools generate new typographic forms",
-      "url": "https://www.designboom.com/design/gridtype-vol-1-digital-tools-new-typographic-forms-slanted-publishers/",
-      "excerpt": "ten designers use the GridType tool to develop distinct typographic languages.\nThe post GridType vol.—1 explores how digital tools generate new typographic forms appeared first on designboom | archite",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gridtype-vol-1-type-tools-type-design-digital-tools-slanted-publishers-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Eight unique patios that beckon to the outdoors",
-      "url": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
-      "excerpt": "For our most recent lookbook, we look at homes where the threshold between indoor and outdoor spaces is thin, thanks to their sprawling patios that create the perfect place to kick back and relax outs",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Apartment Interior within Poznań's Łazarz District / LBWA",
-      "url": "https://www.archdaily.com/1148723/a-play-of-color-in-an-apartment-interior-within-poznans-lazarz-district-lbwa",
-      "excerpt": "Designed by the LBWA studio, the apartment, located in a historic tenement building in the Łazarz district of Poznań, not only reflects the character of the historic structure but also introduces fres",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a57/69f0/7c22/c800/01aa/654e/large_jpg/ZASOBY-0022-Z1004606-V1.jpg?1784113829",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Richard Lareau's 1961 Bone Residence, a landmark of San Diego modernism, is for sale",
-      "url": "https://www.wallpaper.com/architecture/residential/richard-lareau-bone-residence-san-diego-modernism",
-      "excerpt": "Set in the canyons of Mission Hills, this post-and-beam residence – with its cedar walls and glass expanses framing views to the Pacific – is one of the finest-preserved works from the architect's car",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5HDgnqgusEXC8cV8PHtgzP-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "The Rug Company founders on turning their home into the hotel of their dreams",
-      "url": "https://www.wallpaper.com/travel/hotels/casa-bonavita-attard-malta",
-      "excerpt": "One of the year’s most anticipated openings, Casa Bonavita is the culmination of Suzanne and Christopher Sharp’s lifelong dream to create a hotel that feels like home",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BUv3bYbCv4ba8LfAFzTggm-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Architect Carlo Ratti on why the Telepass equals freedom with every beep",
-      "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-telepass",
-      "excerpt": "The sixth instalment of the architect's series, 'Objectify', investigates how the Telepass brought freedom to the motorway",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U94G4U6kYRovFaVmM9chVc-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "Athens apartment features \"fluid layout\" that adapts to houseguests",
-      "url": "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
-      "excerpt": "Sliding walls, hidden doors and a fold-down bed allow this minimalist apartment in Athens, designed by Greek architect Georgios Apostolopoulos, to be completely reconfigured when friends come to stay.",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.26",
-      "title": "cultivated cellulose and layered ash shape series of horizon-inspired lighting",
-      "url": "https://www.designboom.com/design/cultivated-cellulose-layered-ash-horizon-inspired-lighting-polybion-natural-urbano-cenit/",
-      "excerpt": "natural ash, stainless steel, and celium manto define the cenit collection.\nThe post cultivated cellulose and layered ash shape series of horizon-inspired lighting appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/polybion-natural-urbano-cenit-lighting-objects-cellium-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.25",
-      "title": "Exhibition highlighting women's uncredited work among projects from EMMA Creative Centre Pforzheim",
-      "url": "https://www.dezeen.com/2026/07/25/exhibition-highlights-uncredited-emma-creative-centre-pforzheim-schoolshows/",
-      "excerpt": "Dezeen School Shows: a woven exhibition that seeks to spotlight uncredited labour by women is among the projects from EMMA Creative Centre Pforzheim. Also featured are knitted garments informed by the",
       "today": false
     },
     {
