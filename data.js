@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.27  20:18",
+  "fetchedAt": "2026.07.27  22:01",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ウェザーニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ウェザーニュース": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,45 +41,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "LPA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -101,15 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.27",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -169,6 +156,16 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.27",
+      "title": "open patios and white geometric terraces extend casa blajot along catalan coast",
+      "url": "https://www.designboom.com/architecture/open-patios-white-geometric-terraces-casa-blajot-catalan-coast-exitprojectes-josep-lluis-sert/",
+      "excerpt": "exitprojectes rehabilitates casa blajot, a late work by josep lluís sert on the catalan coast, extending the house without disturbing the architectural intelligence that defines it.\nThe post open pati",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exitprojectes-casa-blajot-josep-lluis-sert-barcelona-catalan-coast-designboom-1200.jpg",
       "today": true
     },
     {
@@ -315,16 +312,6 @@ window.LUMINO_DATA = {
       "title": "\"Human refrigerator\" provides escape from deadly heatwaves",
       "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
       "excerpt": "Japanese vending machine manufacturer SDRS has developed a human-sized, stainless-steel fridge to stave off heatstroke amid the increasingly sweltering summers brought on by climate change. The Do Hie",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "the stillness of sri lankan temples translates into handcrafted ceramic lighting",
-      "url": "https://www.designboom.com/design/sri-lankan-temples-handcrafted-ceramic-lighting-bouti-studio/",
-      "excerpt": "integrated openings reveal the lighting objects’ carefully considered details.\nThe post the stillness of sri lankan temples translates into handcrafted ceramic lighting appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sri-lankan-temples-temple-lighting-ceramic-collection-bouti-studio-designboom-1200.jpg",
       "today": true
     },
     {
