@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  05:41",
+  "fetchedAt": "2026.07.28  08:25",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,27 +13,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Newscast.jp": {
+    "なびたび北東北": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Yahoo!ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ウェザーニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,45 +41,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "IGNANT": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "LPA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -113,13 +101,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Newscast.jp",
+      "source": "なびたび北東北",
       "cat": "展示・アート",
       "date": "2026.07.28",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
       "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.28",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -133,13 +130,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.07.28",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
       "today": true
     },
     {
@@ -152,23 +149,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウェザーニュース",
-      "cat": "国内情報",
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
       "date": "2026.07.28",
-      "title": "ミライトいずも2025",
-      "url": "https://weathernews.jp/illumi/spot/9009845/",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "shenzhen natural history museum in china emerges as a granite-covered terrain",
+      "url": "https://www.designboom.com/architecture/shenzhen-natural-history-museum-china-granite-terrain-3xn/",
+      "excerpt": "the 105,300-square-meter museum rises beside yanzi lake as a geological form visitors can climb, cross and explore\nThe post shenzhen natural history museum in china emerges as a granite-covered terrai",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/shenzhen-natural-history-museum-china-granite-terrain-3xn-designboom-05.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "flexible bicycle stabilizers let children learn balance before losing the training wheels",
+      "url": "https://www.designboom.com/design/flexible-bicycle-stabilizers-children-balance-training-wheels-baswil/",
+      "excerpt": "the patented support system introduces controlled leaning, aiming to make the transition to independent cycling more intuitive.\nThe post flexible bicycle stabilizers let children learn balance before ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/flexible-bicycle-stabilizers-children-balance-training-wheels-Baswil-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Blue Green Works experiments with Murano glass",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/blue-green-works-garden-lighting-collection-murano-glass",
+      "excerpt": "The latest lighting collection from Blue Green Works, sculpted in Murano glass, is an emotional ode to heartbreak, loss and vulnerability",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2JqGEExBrxaExL7wMHRscD-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Elide dewrinkler allows users to smooth out clothes while wearing them",
+      "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
+      "excerpt": "De Montfort University design graduate Safaa Fojdar has developed a prototype for a portable device that uses suction to remove wrinkles from garments on the go. The cordless device, called Elide, fea",
       "today": true
     },
     {
@@ -199,6 +225,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/exhibition-biomaterials-mexican-ancestral-design-museo-franz-mayer-biodiseno-mx-territorios-vivos/",
       "excerpt": "from oaxacan clay to bacterial cellulose, biodiseño mx: territorios vivos explores design with living systems.\nThe post exhibition brings biomaterials and mexican ancestral design together at museo fr",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/biodiseno-mx-territorios-exhibition-biodesign-vivos-mexico-city-museo-franz-mayer-taina-campos-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "The Melody House / MODO Designs",
+      "url": "https://www.archdaily.com/1148661/the-melody-house-modo-designs",
+      "excerpt": "The Melody House, designed by Ar. Arpan Shah, is a residence designed for a Gujarati family whose lives are deeply intertwined with art and music. Located on the outskirts of Ahmedabad, the house draw",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/42c3/25a7/5001/8825/b158/large_jpg/the-melody-house-modo-designs_30.jpg?1784038148",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Architecture as an Ongoing Conversation",
+      "url": "https://www.archdaily.com/1181682/architecture-as-an-ongoing-conversation",
+      "excerpt": "Recorded live at Milan Design Week 2026 in partnership with INDX|GLOBAL, the tenth episode of the Room For Dreams podcast looks at how buildings outgrow their original blueprints. Architects Parvez Al",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/55d0/f4d2/6d01/88b1/6b3b/large_jpg/beyond-the-rigidity-of-static-residential-design_5.jpg?1785157081",
       "today": true
     },
     {
@@ -271,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "snøhetta’s unbuilt banpo playscape reconnects seoul with the hangang river",
-      "url": "https://www.designboom.com/architecture/snohetta-unbuilt-banpo-playscape-seoul-hangang-river-architecture/",
-      "excerpt": "although never selected for construction, the riverside scheme explores how ecology and play might repair an infrastructural divide.\nThe post snøhetta’s unbuilt banpo playscape reconnects seoul with t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/snohetta-unbuilt-banpo-playscape-seoul-hangang-river-architecture-01.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -300,16 +336,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "aalto works, rock-cut mosques and modernist cities join UNESCO’s 2026 world heritage list",
-      "url": "https://www.designboom.com/architecture/aalto-works-mosques-modernist-cities-join-unesco-2026-world-heritage-list/",
-      "excerpt": "in july 2026, the UNESCO world heritage committee added twenty-five sites during its 48th session in busan, south korea.\nThe post aalto works, rock-cut mosques and modernist cities join UNESCO’s 2026 ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/unesco-world-heritage-sites-2026-additions-designboom-01.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -320,16 +346,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Radikal Klassisk / PUNTOFILIPINO",
-      "url": "https://www.archdaily.com/999576/radikal-klassisk-puntofilipino",
-      "excerpt": "The style is characterized by eclectic, bolt and vibrant designs, and an explicit need to imbue a more sophisticated identity to those who wish to distinguish themselves by transcending fashion bounda",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/643b/7033/4d5c/4615/e3ac/cff4/large_jpg/radikal-klassisk-puntofilipino_17.jpg?1681616982",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -337,26 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon",
       "excerpt": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/shMozsJUgVmE8DXyEqLzs4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Colors Apartment / Lucas Jimeno Dualde",
-      "url": "https://www.archdaily.com/1181509/colors-apartment-lucas-jimeno-dualde",
-      "excerpt": "In a mid-20th-century building in Higienópolis, Lucas Jimeno Dualde transforms a 280-square-meter apartment into something akin to a domestic temple. Its frugal architecture eliminates visual and mate",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/fd05/237b/e900/01c8/7179/large_jpg/lucasjdualde.higienopolis_0103.jpg?1784675622",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "The Gulbenkian Museum in Lisbon is restored to its original, modernist glory",
-      "url": "https://www.wallpaper.com/architecture/gulbenkian-museum-portugal",
-      "excerpt": "The Gulbenkian Museum reopens following an extensive, sensitive restoration of its 20th-century building; tour its refreshed home in the Portuguese capital",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jkP6TGfx8NDfnZJMgmmvwY-1414-80.jpg",
       "today": false
     },
     {
@@ -375,15 +371,6 @@ window.LUMINO_DATA = {
       "title": "\"Human refrigerator\" provides escape from deadly heatwaves",
       "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
       "excerpt": "Japanese vending machine manufacturer SDRS has developed a human-sized, stainless-steel fridge to stave off heatstroke amid the increasingly sweltering summers brought on by climate change. The Do Hie",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Manchester Digital Campus slated to become No 10 North",
-      "url": "https://www.dezeen.com/2026/07/27/no-10-north-manchester-digital-campus/",
-      "excerpt": "An office campus in central Manchester, designed by infrastructure company AtkinsRéalis, is tipped to become the future home of No 10 North – the northern outpost of 10 Downing Street. Named the Manch",
       "today": false
     },
     {
@@ -506,16 +493,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -543,46 +520,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
