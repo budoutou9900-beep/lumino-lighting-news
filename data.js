@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  16:02",
+  "fetchedAt": "2026.07.28  18:09",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -159,6 +159,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Why stadium design is getting more outlandish",
+      "url": "https://www.dezeen.com/2026/07/28/stadium-design-outlandish-heatherwick-foster-gmp-populous/",
+      "excerpt": "Stadiums are becoming more distinctive with clubs and countries using them to attract attention. As part of our Future Stadium series, we look at why stadium design is becoming more icon-focused. UK-b",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "GM reveals Winn Morton’s costume designs from the golden age of industrial musicals",
+      "url": "https://www.wallpaper.com/transportation/general-motors-winn-morton-industrial-musical-costume-designs",
+      "excerpt": "Once upon a time, General Motors was responsible for big-ticket, Broadway-style musicals to promote its products. Legendary costume designer Winn Morton was just one of the talents it tapped",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yuVh7dJ8TEKMV44tWqbYiQ-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -218,6 +237,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Ridge Residence / Hsu McCullough",
+      "url": "https://www.archdaily.com/1181644/ridge-residence-hsu-mccullough",
+      "excerpt": "There was an old house and beyond it, the much older Fossil Ridge Park. Alive with lizards, deer, snakes, coyotes, birds, butterflies, bees, moths, dragonflies, and more. Don't forget the heritage tre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/9bd3/d865/3d00/014d/054a/large_jpg/Ridge_Residence_HSU_MCCULLOUGH-08-street_facade-DAN_ARNOLD.jpg?1784912868",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -225,16 +254,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
       "excerpt": "This south London architect’s house by Draper Studio is a true labour of love, exploring new thinking about design and construction, and executing it with care and precision",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eWV5A8QcdhRPxqwLtXGtJH-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Navier’s all-electric carbon-fibre hydrofoils will bring zero-carbon sea travel to the Maldives",
-      "url": "https://www.wallpaper.com/transportation/navier-all-electic-hydrofoils-maldives",
-      "excerpt": "Island nations like the Maldives need to move on from fossil fuels. US-based electric hydrofoil manufacturer Navier wants to be in on these new nautical networks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yxrih2StVHwPW7J9YK4L4B-1448-80.jpg",
       "today": true
     },
     {
@@ -275,15 +294,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "\"The Mackintosh Building should be rebuilt without the Glasgow School of Art\"",
-      "url": "https://www.dezeen.com/2026/07/28/mackintosh-building-glasgow-school-of-art-fire-rebuild-rory-olcayto-opinion/",
-      "excerpt": "If the Glasgow School of Art cannot afford to rebuild the twice-destroyed Mackintosh Building it should transfer ownership to a trust that would enable a faithful restoration, writes Rory Olcayto. For",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -311,16 +321,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/nike-hyperice-recovery-slide-heat-vibration-massage-athletes-feet/",
       "excerpt": "combining NIKE’s air zoom cushioning with built-in heat and vibration massage, the recovery slide reflects a growing shift toward wearable wellness technologies.\nThe post NIKE’s hyperslide uses heat a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/nike-hyperice-recovery-slide-heat-vibration-massage-athletes-feet-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "25 casas argentinas",
-      "url": "https://www.archdaily.com/1181758/25-casas-argentinas",
-      "excerpt": "Esta muestra reúne la producción reciente de viviendas unifamiliares proyectadas por estudios jóvenes argentinos que han encontrado en la casa un campo privilegiado de exploración disciplinar.  Lejos ",
-      "thumbnailUrl": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
       "today": true
     },
     {
