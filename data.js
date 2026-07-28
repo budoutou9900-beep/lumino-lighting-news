@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  18:09",
+  "fetchedAt": "2026.07.28  20:13",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -162,6 +162,44 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.28",
+      "title": "\"Gently curving\" Gordie Howe International Bridge opens between US and Canada",
+      "url": "https://www.dezeen.com/2026/07/28/gordie-howe-international-bridge-opens-traffic/",
+      "excerpt": "A bridge with towers informed by a hockey slapshot has opened to public traffic between the United States and Canada after more than seven years of construction, decades of planning and a contentious ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Frank Gehry's Guggenheim Abu Dhabi finally has an opening date",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/guggenheim-abu-dhabi-opening-date",
+      "excerpt": "Following years of delays and controversies, the building is (almost) ready for its big reveal. Here's what to know",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iGsufaDDGZtfxX25v2zSM-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "thornley kelham hand-shapes porsche 356 body in aluminum over 2,000 hours",
+      "url": "https://www.designboom.com/technology/thornley-kelham-porsche-356-aluminum-car-restomod/",
+      "excerpt": "thornley kelham begins its porsche 356 european SL with a familiar silhouette, then draws out the lightness of porsche’s early racing cars.\nThe post thornley kelham hand-shapes porsche 356 body in alu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/thornley-kelham-porsche-356-european-sl-restomod-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Dezeen Debate features \"bad acid trip\" building proposal",
+      "url": "https://www.dezeen.com/2026/07/28/dezeen-debate-mvrdv-rotterdam-rocks-shift-competition/",
+      "excerpt": "The latest Dezeen Debate newsletter features MVRDV's winning proposal to design a \"new world wonder\" in Rotterdam, the Netherlands. Subscribe to Dezeen Debate now. The architectural studio's proposal,",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
       "title": "Why stadium design is getting more outlandish",
       "url": "https://www.dezeen.com/2026/07/28/stadium-design-outlandish-heatherwick-foster-gmp-populous/",
       "excerpt": "Stadiums are becoming more distinctive with clubs and countries using them to attract attention. As part of our Future Stadium series, we look at why stadium design is becoming more icon-focused. UK-b",
@@ -195,6 +233,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/trone-toilets-hugo-volpei",
       "excerpt": "The toilet is design’s last taboo. Trone founder Hugo Volpei is on a mission to change that – turning this most overlooked of objects into an object of desire",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3AZPBvGNT6bPiyKME9cEFj-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Guggenheim Abu Dhabi by Frank Gehry To Open in December",
+      "url": "https://www.archdaily.com/1181770/guggenheim-abu-dhabi-by-frank-gehry-to-open-in-december",
+      "excerpt": "Abu Dhabi's Department of Culture and Tourism has announced that Guggenheim Abu Dhabi will open to the public on December 11, 2026, on Saadiyat Island. The museum, designed by the late Frank Gehry, be",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/ff90/ae3a/0b01/8910/b49b/large_jpg/guggenheim-abu-dhabi-by-frank-gehry-to-open-in-december_4.jpg?1785266077",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "La Negrilla House / Croxatto y Opazo Arquitectos",
+      "url": "https://www.archdaily.com/1181581/la-negrilla-house-croxatto-y-opazo-arquitectos",
+      "excerpt": "La Negrilla House is a vacation home located in Matanzas, Chile, approximately two and a half hours south of Santiago. Situated 164 feet (50 meters) above sea level, the house overlooks the Pacific Oc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/317c/c073/3201/89bc/5e10/large_jpg/casa-la-negrilla-croxatto-y-opazo-arquitectos_10.jpg?1784885669",
       "today": true
     },
     {
@@ -240,20 +298,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
+      "title": "Territory-Park / MACh Architects + Connatural",
+      "url": "https://www.archdaily.com/1151371/territory-park-mach-architects-plus-connatural",
+      "excerpt": "Território-Parque ProjectThe Território-Parque (Park-Territory) project stems from the immense challenge of re-establishing and creating the urban, architectural, and landscape conditions for the comm",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/686f/f27e/9445/0103/24aa/574b/large_jpg/territorio-parque-mach-arquitetos-plus-connatural_5.jpg?1752167058",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
       "title": "Ridge Residence / Hsu McCullough",
       "url": "https://www.archdaily.com/1181644/ridge-residence-hsu-mccullough",
       "excerpt": "There was an old house and beyond it, the much older Fossil Ridge Park. Alive with lizards, deer, snakes, coyotes, birds, butterflies, bees, moths, dragonflies, and more. Don't forget the heritage tre",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/9bd3/d865/3d00/014d/054a/large_jpg/Ridge_Residence_HSU_MCCULLOUGH-08-street_facade-DAN_ARNOLD.jpg?1784912868",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "A London architect’s house becomes a testbed for new thinking about waste, material and structure",
-      "url": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
-      "excerpt": "This south London architect’s house by Draper Studio is a true labour of love, exploring new thinking about design and construction, and executing it with care and precision",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eWV5A8QcdhRPxqwLtXGtJH-2560-80.jpg",
       "today": true
     },
     {
@@ -273,24 +331,6 @@ window.LUMINO_DATA = {
       "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
       "url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
       "excerpt": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Frank Gehry's Guggenheim Abu Dhabi set to open in December",
-      "url": "https://www.dezeen.com/2026/07/28/frank-gehry-guggenheim-abu-dhabi-december-opening/",
-      "excerpt": "The long-awaited Guggenheim Abu Dhabi, designed by the late architect Frank Gehry, is set to open its doors in December. In a statement released today, Abu Dhabi's department of culture and tourism sa",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "UNESCO adds works of Aino, Elissa and Alvar Aalto to World Heritage List",
-      "url": "https://www.dezeen.com/2026/07/28/aalto-modernist-finland-unesco-world-heritage-list/",
-      "excerpt": "UNESCO has updated its World Heritage List with 13 modernist buildings in Finland designed by architects Aino, Elissa, and Alvar Aalto. Collectively known as Aalto Works, the group of buildings is one",
       "today": true
     },
     {
@@ -314,26 +354,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "NIKE’s hyperslide uses heat and vibration to massage your feet after workouts",
-      "url": "https://www.designboom.com/technology/nike-hyperice-recovery-slide-heat-vibration-massage-athletes-feet/",
-      "excerpt": "combining NIKE’s air zoom cushioning with built-in heat and vibration massage, the recovery slide reflects a growing shift toward wearable wellness technologies.\nThe post NIKE’s hyperslide uses heat a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/nike-hyperice-recovery-slide-heat-vibration-massage-athletes-feet-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Responding to Displacement: Architectural Strategies Across Latin America",
-      "url": "https://www.archdaily.com/1181505/responding-to-displacement-architectural-strategies-across-latin-america",
-      "excerpt": "Displacement is usually understood through movement: the moment people are forced to move from one place to another. Yet from an architectural perspective, that movement is only the beginning of what ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ffbd/16b1/5001/8833/db32/large_jpg/architecture-for-displaced-communities-designing-for-resilience-and-adaptation-in-latin-america_2.jpg?1784741829",
-      "today": true
-    },
-    {
       "source": "LPA",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -341,26 +361,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "MOM House / Supra-Simplicities",
-      "url": "https://www.archdaily.com/1181648/mom-house-supra-simplicities",
-      "excerpt": "Located in Kaohsiung, southern Taiwan, the project occupies the terminus of a narrow dead-end alley, enclosed on three sides by neighboring residences and a school. With only a single point of access,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/21fb/d865/3d00/014d/05aa/large_jpg/Exterior_View_night.jpg?1785143861",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "International Design Competition Launched for Sydney's Newest Waterfront Neighbourhood",
-      "url": "https://www.archdaily.com/1181548/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood",
-      "excerpt": "The White Bay Power Station precinct and Glebe Island, two key sites in one of the last major redevelopment sites on Sydney's inner harbour, are the focus of a new international design competition lau",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/0553/184b/c601/896f/a1aa/large_jpg/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood_2.jpg?1784808830",
       "today": true
     },
     {
