@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  13:52",
+  "fetchedAt": "2026.07.28  16:02",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,25 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -151,6 +159,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "bagel-inspired details and flexible furniture shape seoul bakery’s open interior",
+      "url": "https://www.designboom.com/architecture/bagel-inspired-details-flexible-furniture-seoul-bakery-open-interior-jojoworkshop-achime-bagel/",
+      "excerpt": "jojoworkshop translates the daily rhythm of baking into a warm interior, with an open kitchen, custom furniture, and bagel-inspired details.\nThe post bagel-inspired details and flexible furniture shap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jojoworkshop-achime-bagel-bakery-seoul-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Meet Trone, the brand creating sculptural toilets worth spending a penny on",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/trone-toilets-hugo-volpei",
+      "excerpt": "The toilet is design’s last taboo. Trone founder Hugo Volpei is on a mission to change that – turning this most overlooked of objects into an object of desire",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3AZPBvGNT6bPiyKME9cEFj-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Harris Elliott’s metamorphosing London ‘social salon’ begins with a marketplace of white shirts",
+      "url": "https://www.wallpaper.com/fashion-beauty/harris-elliott-le-parlour-installation-london",
+      "excerpt": "The multi-hyphenate creative director, stylist and artist’s latest project is ‘Le Parlour’, an evolving social salon in central London that will host a rolling programme of events and installations un",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mkFqDMpmoBwXnUGW2FmbyV-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "‘bomb scars bring the wall back to rock’: artist pavel rotts maps war through climbing",
+      "url": "https://www.designboom.com/art/bomb-scars-wall-rock-artist-pavel-rotts-war-climbing-play/",
+      "excerpt": "bright resin holds turn fragments of wartime architecture into a climbable map of collective loss.\nThe post ‘bomb scars bring the wall back to rock’: artist pavel rotts maps war through climbing appea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pavel-rotts-climbing-a-memory-helsinki-designboom-FB1.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -158,6 +206,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/thornley-kelham-porsche-356-european-sl-restomod",
       "excerpt": "The Thornley Kelham Porsche 356 European SL is an expression of the art of hand-crafted aluminium car-making, inspired by a motorsport legend and engineered for modern-day driving",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JVaTkfDTKddRJSpS7xF7Yj-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Linde chair and table by OUT among five new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/07/28/linde-chair-table-out-furnishings-flooring-seating-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a matching chair-and-table set that share graphic, playful shapes is among five new products featured on Dezeen Showroom. Linde table and chair by OUT Design brand OUT's Linde table a",
       "today": true
     },
     {
@@ -188,16 +245,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/frank-gehry-guggenheim-abu-dhabi-saadiyat-island-december-2026/",
       "excerpt": "after years of planning and construction, the frank gehry-designed museum opens on december 11th, 2026.\nThe post frank gehry’s guggenheim abu dhabi to open december 2026 on saadiyat island appeared fi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/frank-gehry-guggenheim-abu-dhabi-saadiyat-island-december-2026-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Step into Yabu Pushelberg’s Amagansett beach house, ‘designed around the dunes’",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/yabu-pushelberg-amagansett-home-tribu-outdoor-furniture-collections",
-      "excerpt": "Designers Glenn Pushelberg and George Yabu invite us into their beachfront Amagansett home: take a tour, and discover what they love about the East Hampton location",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NMJzc8vjyqAPEjqURq8fzX-2560-80.jpg",
       "today": true
     },
     {
@@ -247,22 +294,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "Care to crowdfund an ultra-compact Android phone? Check out the new device from Aeros",
-      "url": "https://www.wallpaper.com/tech/aeros-ultra-compact-android-smartphone-crowdfunding",
-      "excerpt": "What if your online footprint was smaller, less insistent and intrusive and therefore didn’t soak up so much of your time? That’s the thinking behind Aeros’ proposed super-minimal smartphone, where sm",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tKhhYSYxYxbNZ7cMHk7Shk-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Ten UNESCO-listed Soviet modernist buildings in Tashkent",
-      "url": "https://www.dezeen.com/2026/07/28/tashkent-modernism-unesco-world-heritage-site-soviet-architecture-uzbekistan-unesco/",
-      "excerpt": "Tashkent's key modernist buildings from the 1960s, 70s and 80s have been listed by UNESCO as World Heritage Sites. Here, we round up the 10 buildings in Uzbekistan's capital that are now protected. Th",
+      "title": "Enfants Rouges Apartment / Studio Carré",
+      "url": "https://www.archdaily.com/1181717/enfants-rouges-apartment-studio-carre",
+      "excerpt": "Enfants Rouges area is the starting point and centerpiece of this Parisian apartment.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/dfac/ae3a/0b39/b59b/f2f9/large_jpg/enfants-rouges-apartment-studio-carre_48.jpg?1785192404",
       "today": true
     },
     {
@@ -276,13 +314,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "first look: shenzhen natural history museum opens to the public",
-      "url": "https://www.designboom.com/architecture/shenzhen-natural-history-museum-3xn-bh-architects-zhubo-design-china/",
-      "excerpt": "the 105,300-square-meter museum rises beside yanzi lake as a geological form visitors can climb, cross and explore\nThe post first look: shenzhen natural history museum opens to the public appeared fir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/shenzhen-natural-history-museum-china-granite-terrain-3xn-designboom-05.jpg",
+      "title": "25 casas argentinas",
+      "url": "https://www.archdaily.com/1181758/25-casas-argentinas",
+      "excerpt": "Esta muestra reúne la producción reciente de viviendas unifamiliares proyectadas por estudios jóvenes argentinos que han encontrado en la casa un campo privilegiado de exploración disciplinar.  Lejos ",
+      "thumbnailUrl": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
       "today": true
     },
     {
@@ -293,6 +331,16 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181505/responding-to-displacement-architectural-strategies-across-latin-america",
       "excerpt": "Displacement is usually understood through movement: the moment people are forced to move from one place to another. Yet from an architectural perspective, that movement is only the beginning of what ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ffbd/16b1/5001/8833/db32/large_jpg/architecture-for-displaced-communities-designing-for-resilience-and-adaptation-in-latin-america_2.jpg?1784741829",
+      "today": true
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": true
     },
     {
@@ -309,40 +357,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "UNESCO Inscribes 13 Aalto Works on the World Heritage List",
-      "url": "https://www.archdaily.com/1181723/unesco-inscribes-13-aalto-works-on-the-world-heritage-list",
-      "excerpt": "The UNESCO World Heritage Committee has inscribed Aalto Works, a collection of thirteen buildings and architectural ensembles across Finland designed by Aino Marsio-Aalto, Elissa Aalto, and Alvar Aalt",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/7111/f4d2/6d01/88b1/6e1e/large_jpg/unesco-inscribes-13-aalto-works-on-the-world-heritage-list_4.jpg?1785229591",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "flexible bicycle stabilizers let children learn balance before losing the training wheels",
-      "url": "https://www.designboom.com/design/flexible-bicycle-stabilizers-children-balance-training-wheels-baswil/",
-      "excerpt": "the patented support system introduces controlled leaning, aiming to make the transition to independent cycling more intuitive.\nThe post flexible bicycle stabilizers let children learn balance before ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/flexible-bicycle-stabilizers-children-balance-training-wheels-Baswil-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "206 La Fayette - Transformation of a Parisian Block / DATA architectes + THINK TANK architecture",
-      "url": "https://www.archdaily.com/1181619/206-la-fayette-transformation-of-a-parisian-block-data-architectes-plus-think-tank-architecture",
-      "excerpt": "Where the Haussmannian and Faubourg urban fabrics meet, the project at 206 Rue Lafayette transforms a diverse site comprising eight buildings arranged around a central courtyard.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5ec4/d4d6/cf00/0113/9a9f/large_jpg/Lafayette_002.jpg?1784897306",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "The ECC Awards Shortlist Explores Memory, Identity and Technology in Venice",
-      "url": "https://www.archdaily.com/1181697/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice",
-      "excerpt": "The European Cultural Centre Italy has announced the finalists of the ECC Awards, presented as part of Personal Structures – Confluences, the eighth edition of its international contemporary exhibitio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/5dfe/ae3a/0b01/8910/b0b5/large_jpg/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice_29.jpg?1785224735",
+      "title": "International Design Competition Launched for Sydney's Newest Waterfront Neighbourhood",
+      "url": "https://www.archdaily.com/1181548/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood",
+      "excerpt": "The White Bay Power Station precinct and Glebe Island, two key sites in one of the last major redevelopment sites on Sydney's inner harbour, are the focus of a new international design competition lau",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/0553/184b/c601/896f/a1aa/large_jpg/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood_2.jpg?1784808830",
       "today": true
     },
     {
@@ -485,6 +503,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -512,6 +540,46 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
