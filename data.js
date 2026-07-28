@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  08:25",
+  "fetchedAt": "2026.07.28  11:12",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "なびたび北東北": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "なびたび北東北": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Yahoo!ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "レッツエンジョイ東京": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -65,9 +65,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -89,15 +93,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.28",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -162,10 +157,115 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "shenzhen natural history museum in china emerges as a granite-covered terrain",
-      "url": "https://www.designboom.com/architecture/shenzhen-natural-history-museum-china-granite-terrain-3xn/",
-      "excerpt": "the 105,300-square-meter museum rises beside yanzi lake as a geological form visitors can climb, cross and explore\nThe post shenzhen natural history museum in china emerges as a granite-covered terrai",
+      "title": "frank gehry’s guggenheim abu dhabi to open december 2026 on saadiyat island",
+      "url": "https://www.designboom.com/architecture/frank-gehry-guggenheim-abu-dhabi-saadiyat-island-december-2026/",
+      "excerpt": "after years of planning and construction, the frank gehry-designed museum opens on december 11th, 2026.\nThe post frank gehry’s guggenheim abu dhabi to open december 2026 on saadiyat island appeared fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/frank-gehry-guggenheim-abu-dhabi-saadiyat-island-december-2026-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Step into Yabu Pushelberg’s Amagansett beach house, ‘designed around the dunes’",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/yabu-pushelberg-amagansett-home-tribu-outdoor-furniture-collections",
+      "excerpt": "Designers Glenn Pushelberg and George Yabu invite us into their beachfront Amagansett home: take a tour, and discover what they love about the East Hampton location",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NMJzc8vjyqAPEjqURq8fzX-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
+      "url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
+      "excerpt": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Frank Gehry's Guggenheim Abu Dhabi set to open in December",
+      "url": "https://www.dezeen.com/2026/07/28/frank-gehry-guggenheim-abu-dhabi-december-opening/",
+      "excerpt": "The long-awaited Guggenheim Abu Dhabi, designed by the late architect Frank Gehry, is set to open its doors in December. In a statement released today, Abu Dhabi's department of culture and tourism sa",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "UNESCO adds works of Aino, Elissa and Alvar Aalto to World Heritage List",
+      "url": "https://www.dezeen.com/2026/07/28/aalto-modernist-finland-unesco-world-heritage-list/",
+      "excerpt": "UNESCO has updated its World Heritage List with 13 modernist buildings in Finland designed by architects Aino, Elissa, and Alvar Aalto. Collectively known as Aalto Works, the group of buildings is one",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "\"The Mackintosh Building should be rebuilt without the Glasgow School of Art\"",
+      "url": "https://www.dezeen.com/2026/07/28/mackintosh-building-glasgow-school-of-art-fire-rebuild-rory-olcayto-opinion/",
+      "excerpt": "If the Glasgow School of Art cannot afford to rebuild the twice-destroyed Mackintosh Building it should transfer ownership to a trust that would enable a faithful restoration, writes Rory Olcayto. For",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "sutyo’s form-first sunglasses shift lens color and tint with single swipe",
+      "url": "https://www.designboom.com/design/sutyo-smart-sunglasses/",
+      "excerpt": "tailored for quiet fashion, the eyewear features a touch-controlled temple that allows users to actively shift their perspective. \nThe post sutyo’s form-first sunglasses shift lens color and tint with",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sutyo_designboom_facebook.jpg2_.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Care to crowdfund an ultra-compact Android phone? Check out the new device from Aeros",
+      "url": "https://www.wallpaper.com/tech/aeros-ultra-compact-android-smartphone-crowdfunding",
+      "excerpt": "What if your online footprint was smaller, less insistent and intrusive and therefore didn’t soak up so much of your time? That’s the thinking behind Aeros’ proposed super-minimal smartphone, where sm",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tKhhYSYxYxbNZ7cMHk7Shk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Ten UNESCO-listed Soviet modernist buildings in Tashkent",
+      "url": "https://www.dezeen.com/2026/07/28/tashkent-modernism-unesco-world-heritage-site-soviet-architecture-uzbekistan-unesco/",
+      "excerpt": "Tashkent's key modernist buildings from the 1960s, 70s and 80s have been listed by UNESCO as World Heritage Sites. Here, we round up the 10 buildings in Uzbekistan's capital that are now protected. Th",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "NIKE’s hyperslide uses heat and vibration to massage your feet after workouts",
+      "url": "https://www.designboom.com/technology/nike-hyperice-recovery-slide-heat-vibration-massage-athletes-feet/",
+      "excerpt": "combining NIKE’s air zoom cushioning with built-in heat and vibration massage, the recovery slide reflects a growing shift toward wearable wellness technologies.\nThe post NIKE’s hyperslide uses heat a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/nike-hyperice-recovery-slide-heat-vibration-massage-athletes-feet-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "first look: shenzhen natural history museum opens to the public",
+      "url": "https://www.designboom.com/architecture/shenzhen-natural-history-museum-3xn-bh-architects-zhubo-design-china/",
+      "excerpt": "the 105,300-square-meter museum rises beside yanzi lake as a geological form visitors can climb, cross and explore\nThe post first look: shenzhen natural history museum opens to the public appeared fir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/shenzhen-natural-history-museum-china-granite-terrain-3xn-designboom-05.jpg",
+      "today": true
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": true
     },
     {
@@ -179,6 +279,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "206 La Fayette - Transformation of a Parisian Block / DATA architectes + THINK TANK architecture",
+      "url": "https://www.archdaily.com/1181619/206-la-fayette-transformation-of-a-parisian-block-data-architectes-plus-think-tank-architecture",
+      "excerpt": "Where the Haussmannian and Faubourg urban fabrics meet, the project at 206 Rue Lafayette transforms a diverse site comprising eight buildings arranged around a central courtyard.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/5ec4/d4d6/cf00/0113/9a9f/large_jpg/Lafayette_002.jpg?1784897306",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -189,12 +299,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "Elide dewrinkler allows users to smooth out clothes while wearing them",
-      "url": "https://www.dezeen.com/2026/07/28/elide-dewrinkler-safaa-fojdar/",
-      "excerpt": "De Montfort University design graduate Safaa Fojdar has developed a prototype for a portable device that uses suction to remove wrinkles from garments on the go. The cordless device, called Elide, fea",
+      "title": "The ECC Awards Shortlist Explores Memory, Identity and Technology in Venice",
+      "url": "https://www.archdaily.com/1181697/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice",
+      "excerpt": "The European Cultural Centre Italy has announced the finalists of the ECC Awards, presented as part of Personal Structures – Confluences, the eighth edition of its international contemporary exhibitio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/5dfe/ae3a/0b01/8910/b0b5/large_jpg/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice_29.jpg?1785224735",
       "today": true
     },
     {
@@ -208,6 +319,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Ground Truth: How the BCIE Headquarters in Honduras Spoke Through Local Stone",
+      "url": "https://www.archdaily.com/1175660/ground-truth-how-the-bcie-headquarters-in-honduras-spoke-through-local-stone",
+      "excerpt": "Central America's nations occupy a narrow land bridge between Mexico and Colombia, but they were not born as separate countries. They emerged from a single entity: the Federal Republic of Central Amer",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/e096/e8f5/cb01/8987/a846/large_jpg/the-architecture-of-central-american-integration-how-stone-became-the-material-language-of-the-bcie-headquarters-in-honduras_2.jpg?1784406175",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -218,13 +339,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "exhibition brings biomaterials and mexican ancestral design together at museo franz mayer",
-      "url": "https://www.designboom.com/design/exhibition-biomaterials-mexican-ancestral-design-museo-franz-mayer-biodiseno-mx-territorios-vivos/",
-      "excerpt": "from oaxacan clay to bacterial cellulose, biodiseño mx: territorios vivos explores design with living systems.\nThe post exhibition brings biomaterials and mexican ancestral design together at museo fr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/biodiseno-mx-territorios-exhibition-biodesign-vivos-mexico-city-museo-franz-mayer-taina-campos-designboom-1200-1.jpg",
+      "title": "The Orb House / Chiasmus Partners",
+      "url": "https://www.archdaily.com/1181690/the-orb-house-chiasmus-partners",
+      "excerpt": "Hyangrindongsan in Dongbaek-dong, Yongin, is an established residential enclave where detached houses are scattered along the edge of forested slopes. Positioned according to the natural topography, t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/6e82/ae3a/0b01/8910/aece/large_jpg/the-orb-house-chiasmus-partners_30.jpg?1785163429",
       "today": true
     },
     {
@@ -235,16 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148661/the-melody-house-modo-designs",
       "excerpt": "The Melody House, designed by Ar. Arpan Shah, is a residence designed for a Gujarati family whose lives are deeply intertwined with art and music. Located on the outskirts of Ahmedabad, the house draw",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/42c3/25a7/5001/8825/b158/large_jpg/the-melody-house-modo-designs_30.jpg?1784038148",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Architecture as an Ongoing Conversation",
-      "url": "https://www.archdaily.com/1181682/architecture-as-an-ongoing-conversation",
-      "excerpt": "Recorded live at Milan Design Week 2026 in partnership with INDX|GLOBAL, the tenth episode of the Room For Dreams podcast looks at how buildings outgrow their original blueprints. Architects Parvez Al",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/55d0/f4d2/6d01/88b1/6b3b/large_jpg/beyond-the-rigidity-of-static-residential-design_5.jpg?1785157081",
       "today": true
     },
     {
@@ -266,112 +377,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "MOLSION Concept Store / Some Thoughts",
-      "url": "https://www.archdaily.com/1181426/molsion-concept-store-some-thoughts",
-      "excerpt": "This project centers on an innovative interplay between two contrasting materials: felt and metal. Connected by custom triangular fasteners, these disparate materials are integrated and recontextualiz",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/605a/237b/e900/01c8/71fd/large_jpg/019.jpg?1784701071",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "why love hultén keeps building sound machines we want to interact with",
-      "url": "https://www.designboom.com/technology/love-hulten-sound-machines-interaction/",
-      "excerpt": "the swedish artist combines woodworking and electronics to create tactile synthesizers, sound sculptures, and interactive objects.\nThe post why love hultén keeps building sound machines we want to int",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/11/guitar-ferrofluid-noise-machine-biodata-synth-love-hulten-book-works-ii-designboom-05.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "open patios and white geometric terraces extend casa blajot along catalan coast",
-      "url": "https://www.designboom.com/architecture/open-patios-white-geometric-terraces-casa-blajot-catalan-coast-exitprojectes-josep-lluis-sert/",
-      "excerpt": "exitprojectes rehabilitates casa blajot, a late work by josep lluís sert on the catalan coast, extending the house without disturbing the architectural intelligence that defines it.\nThe post open pati",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exitprojectes-casa-blajot-josep-lluis-sert-barcelona-catalan-coast-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Renovation of problematic Montreal Olympic Stadium roof keeps \"original intention\" in mind",
-      "url": "https://www.dezeen.com/2026/07/27/montreal-olympic-stadium-gmp-arcitekten-construction/",
-      "excerpt": "German architecture studio GMP Architekten is part of a team renovating the Olympic Stadium in Montreal. The work includes replacing a membrane roof that caused problems for decades with a steel deck ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Sabina I House / Atempo Arquitectura",
-      "url": "https://www.archdaily.com/1181713/sabina-i-house-atempo-arquitectura",
-      "excerpt": "Casa Sabina transforms a family home into a residential complex that preserves the memory of an existing house while adapting it to new ways of living.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/b35c/d865/3d00/014d/0975/large_jpg/13_CASA_SABINA.jpg?1785181276",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
-      "url": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/",
-      "excerpt": "American studio Elizabeth Herrmann Architecture + Design has used burnt-cedar cladding to help the Milo House blend with the wooded terrain in rural Vermont. Located in the town of Cornwall, the house",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Muda L11 House / Pereira Miguel Arquitectos",
-      "url": "https://www.archdaily.com/1181645/muda-l11-pereira-miguel-arquitectos",
-      "excerpt": "The project is located on an agricultural plot defined by the Muda Detailed Plan, in the Rural Intervention Zone – South, in the municipality of Grândola, Portugal. The land area is generous, with app",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/d66e/d865/3d00/014d/0561/large_jpg/MudaL11_PMArq_foto_Fernando_Guerra_FG_SG_87.jpg?1784927879",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Women’s Fashion Week S/S 2027 is coming. Here’s what to expect",
-      "url": "https://www.wallpaper.com/fashion-beauty/womens-fashion-week-ss-2027-what-to-expect-schedule-calendar",
-      "excerpt": "The schedules have been released for the upcoming fashion weeks in New York, London, Milan and Paris. Here, we break down the moments to look out for in each city",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T6LDZVbJjjPRpQT6p5nR2H-1800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "The Mah Jong sofa has officially entered pop culture",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon",
-      "excerpt": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/shMozsJUgVmE8DXyEqLzs4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "CTA shelters annexe in Vietnam beneath curved roof to \"evoke the sensation of being in a cave\"",
-      "url": "https://www.dezeen.com/2026/07/27/cta-casa-mac-annexe-vietnam/",
-      "excerpt": "Scale-shaped shingles cover the sweeping, canopy-like roof of Casa Mac, an annexe in Vietnam designed by local architecture studio CTA. Serving as an annexe to the client's existing home in Phu My nea",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "\"Human refrigerator\" provides escape from deadly heatwaves",
-      "url": "https://www.dezeen.com/2026/07/27/human-refrigerator-sdrs-trusco-nakayama/",
-      "excerpt": "Japanese vending machine manufacturer SDRS has developed a human-sized, stainless-steel fridge to stave off heatstroke amid the increasingly sweltering summers brought on by climate change. The Do Hie",
-      "today": false
     },
     {
       "source": "遠藤照明",
@@ -493,6 +498,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -520,6 +535,46 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
