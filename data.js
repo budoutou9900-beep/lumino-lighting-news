@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  21:58",
+  "fetchedAt": "2026.07.28  23:01",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -159,6 +159,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "PollenNav mobile app maps the city by what you can breathe, not just where you can walk",
+      "url": "https://www.designboom.com/readers/pollennav-mobile-app-city-routes-allergies-yani-shi/",
+      "excerpt": "a billion people navigate their cities without ever accounting for the one thing that can leave them gasping: the air; PollenNav redraws the map around what you can breathe.\nThe post PollenNav mobile ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/yani-shi-pollennav-mobile-application-routes-allergies-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -203,6 +213,16 @@ window.LUMINO_DATA = {
       "title": "Why stadium design is getting more outlandish",
       "url": "https://www.dezeen.com/2026/07/28/stadium-design-outlandish-heatherwick-foster-gmp-populous/",
       "excerpt": "Stadiums are becoming more distinctive with clubs and countries using them to attract attention. As part of our Future Stadium series, we look at why stadium design is becoming more icon-focused. UK-b",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Tear House / Felipe Caboclo Arquitetura",
+      "url": "https://www.archdaily.com/1181705/tear-house-felipe-caboclo-arquitetura",
+      "excerpt": "Developed by Felipe Caboclo Arquitetura alongside interior designer Nildo José and landscape architect Alex Hanazaki, Casa Tear is conceived as a spatial grid where structural elements, curated interi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/af49/d865/3d00/014d/0923/large_jpg/1.1.jpg?1785180083",
       "today": true
     },
     {
@@ -331,26 +351,6 @@ window.LUMINO_DATA = {
       "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
       "url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
       "excerpt": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the ",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "sutyo’s form-first sunglasses shift lens color and tint with single swipe",
-      "url": "https://www.designboom.com/design/sutyo-smart-sunglasses/",
-      "excerpt": "tailored for quiet fashion, the eyewear features a touch-controlled temple that allows users to actively shift their perspective. \nThe post sutyo’s form-first sunglasses shift lens color and tint with",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/sutyo_designboom_facebook.jpg2_.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Enfants Rouges Apartment / Studio Carré",
-      "url": "https://www.archdaily.com/1181717/enfants-rouges-apartment-studio-carre",
-      "excerpt": "Enfants Rouges area is the starting point and centerpiece of this Parisian apartment.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/dfac/ae3a/0b39/b59b/f2f9/large_jpg/enfants-rouges-apartment-studio-carre_48.jpg?1785192404",
       "today": true
     },
     {
