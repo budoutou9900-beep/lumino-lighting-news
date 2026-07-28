@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  11:12",
+  "fetchedAt": "2026.07.28  13:52",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "なびたび北東北": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "レッツエンジョイ東京": {
+    "ウェザーニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -65,13 +65,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -96,22 +92,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "なびたび北東北",
+      "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.28",
-      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
-      "url": "https://www.navitabi.jp/article/10479",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
       "excerpt": "",
-      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.28",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -125,13 +112,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.07.28",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -144,13 +131,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "ウェザーニュース",
+      "cat": "国内情報",
+      "date": "2026.07.28",
+      "title": "ミライトいずも2025",
+      "url": "https://weathernews.jp/illumi/spot/9009845/",
+      "excerpt": "",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.28",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Inspired by the OG Porsche racing car, the 356 European SL is lithe and lightweight",
+      "url": "https://www.wallpaper.com/transportation/thornley-kelham-porsche-356-european-sl-restomod",
+      "excerpt": "The Thornley Kelham Porsche 356 European SL is an expression of the art of hand-crafted aluminium car-making, inspired by a motorsport legend and engineered for modern-day driving",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JVaTkfDTKddRJSpS7xF7Yj-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "A London architect’s house becomes a testbed for new thinking about waste, material and structure",
+      "url": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
+      "excerpt": "This south London architect’s house by Draper Studio is a true labour of love, exploring new thinking about design and construction, and executing it with care and precision",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eWV5A8QcdhRPxqwLtXGtJH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Navier’s all-electric carbon-fibre hydrofoils will bring zero-carbon sea travel to the Maldives",
+      "url": "https://www.wallpaper.com/transportation/navier-all-electic-hydrofoils-maldives",
+      "excerpt": "Island nations like the Maldives need to move on from fossil fuels. US-based electric hydrofoil manufacturer Navier wants to be in on these new nautical networks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yxrih2StVHwPW7J9YK4L4B-1448-80.jpg",
       "today": true
     },
     {
@@ -259,13 +286,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "LPA",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
+      "title": "Responding to Displacement: Architectural Strategies Across Latin America",
+      "url": "https://www.archdaily.com/1181505/responding-to-displacement-architectural-strategies-across-latin-america",
+      "excerpt": "Displacement is usually understood through movement: the moment people are forced to move from one place to another. Yet from an architectural perspective, that movement is only the beginning of what ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ffbd/16b1/5001/8833/db32/large_jpg/architecture-for-displaced-communities-designing-for-resilience-and-adaptation-in-latin-america_2.jpg?1784741829",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "MOM House / Supra-Simplicities",
+      "url": "https://www.archdaily.com/1181648/mom-house-supra-simplicities",
+      "excerpt": "Located in Kaohsiung, southern Taiwan, the project occupies the terminus of a narrow dead-end alley, enclosed on three sides by neighboring residences and a school. With only a single point of access,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/21fb/d865/3d00/014d/05aa/large_jpg/Exterior_View_night.jpg?1785143861",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "UNESCO Inscribes 13 Aalto Works on the World Heritage List",
+      "url": "https://www.archdaily.com/1181723/unesco-inscribes-13-aalto-works-on-the-world-heritage-list",
+      "excerpt": "The UNESCO World Heritage Committee has inscribed Aalto Works, a collection of thirteen buildings and architectural ensembles across Finland designed by Aino Marsio-Aalto, Elissa Aalto, and Alvar Aalt",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/7111/f4d2/6d01/88b1/6e1e/large_jpg/unesco-inscribes-13-aalto-works-on-the-world-heritage-list_4.jpg?1785229591",
       "today": true
     },
     {
@@ -289,16 +336,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Blue Green Works experiments with Murano glass",
-      "url": "https://www.wallpaper.com/design-interiors/lighting/blue-green-works-garden-lighting-collection-murano-glass",
-      "excerpt": "The latest lighting collection from Blue Green Works, sculpted in Murano glass, is an emotional ode to heartbreak, loss and vulnerability",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2JqGEExBrxaExL7wMHRscD-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -306,56 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181697/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice",
       "excerpt": "The European Cultural Centre Italy has announced the finalists of the ECC Awards, presented as part of Personal Structures – Confluences, the eighth edition of its international contemporary exhibitio",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/5dfe/ae3a/0b01/8910/b0b5/large_jpg/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice_29.jpg?1785224735",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Live out a Georgian-inspired fantasy at The Zetter Bloomsbury",
-      "url": "https://www.wallpaper.com/travel/hotels/the-zetter-bloomsbury-london-review",
-      "excerpt": "The Zetter Group brings its signature residential feel to Bloomsbury, with thoughtfully curated interiors set across six Georgian townhouses beside the British Museum",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F5PZ66wH9DiPefTmPX5HaE-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Ground Truth: How the BCIE Headquarters in Honduras Spoke Through Local Stone",
-      "url": "https://www.archdaily.com/1175660/ground-truth-how-the-bcie-headquarters-in-honduras-spoke-through-local-stone",
-      "excerpt": "Central America's nations occupy a narrow land bridge between Mexico and Colombia, but they were not born as separate countries. They emerged from a single entity: the Federal Republic of Central Amer",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/e096/e8f5/cb01/8987/a846/large_jpg/the-architecture-of-central-american-integration-how-stone-became-the-material-language-of-the-bcie-headquarters-in-honduras_2.jpg?1784406175",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Step inside a Cornish eco-cabin resort and its new luscious landscape by Darren Hawkes",
-      "url": "https://www.wallpaper.com/architecture/cornish-eco-cabin-resort-landscape-darren-hawkes-uk",
-      "excerpt": "Now established and teeming with wildlife and wildflowers, a Cornish eco-cabin resort is an immersive, sustainability-focused landscape; we tour a new addition to The Point",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aRBq8wtyVSaDJmcE6nV6tP-1024-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "The Orb House / Chiasmus Partners",
-      "url": "https://www.archdaily.com/1181690/the-orb-house-chiasmus-partners",
-      "excerpt": "Hyangrindongsan in Dongbaek-dong, Yongin, is an established residential enclave where detached houses are scattered along the edge of forested slopes. Positioned according to the natural topography, t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/6e82/ae3a/0b01/8910/aece/large_jpg/the-orb-house-chiasmus-partners_30.jpg?1785163429",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "The Melody House / MODO Designs",
-      "url": "https://www.archdaily.com/1148661/the-melody-house-modo-designs",
-      "excerpt": "The Melody House, designed by Ar. Arpan Shah, is a residence designed for a Gujarati family whose lives are deeply intertwined with art and music. Located on the outskirts of Ahmedabad, the house draw",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a56/42c3/25a7/5001/8825/b158/large_jpg/the-melody-house-modo-designs_30.jpg?1784038148",
       "today": true
     },
     {
@@ -498,16 +485,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -535,46 +512,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
