@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.28  02:36",
+  "fetchedAt": "2026.07.28  05:41",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,7 +53,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -69,9 +69,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -164,6 +172,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Live out a Georgian-inspired fantasy at The Zetter Bloomsbury",
+      "url": "https://www.wallpaper.com/travel/hotels/the-zetter-bloomsbury-london-review",
+      "excerpt": "The Zetter Group brings its signature residential feel to Bloomsbury, with thoughtfully curated interiors set across six Georgian townhouses beside the British Museum",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F5PZ66wH9DiPefTmPX5HaE-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "Step inside a Cornish eco-cabin resort and its new luscious landscape by Darren Hawkes",
+      "url": "https://www.wallpaper.com/architecture/cornish-eco-cabin-resort-landscape-darren-hawkes-uk",
+      "excerpt": "Now established and teeming with wildlife and wildflowers, a Cornish eco-cabin resort is an immersive, sustainability-focused landscape; we tour a new addition to The Point",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aRBq8wtyVSaDJmcE6nV6tP-1024-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -191,6 +219,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol52.html",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "MOLSION Concept Store / Some Thoughts",
+      "url": "https://www.archdaily.com/1181426/molsion-concept-store-some-thoughts",
+      "excerpt": "This project centers on an innovative interplay between two contrasting materials: felt and metal. Connected by custom triangular fasteners, these disparate materials are integrated and recontextualiz",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/605a/237b/e900/01c8/71fd/large_jpg/019.jpg?1784701071",
       "today": true
     },
     {
@@ -322,26 +360,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "C+C House / Studio Maignan Architects",
-      "url": "https://www.archdaily.com/1181365/c-plus-c-house-studio-maignan-architects",
-      "excerpt": "The C+C House reimagines a 1930s brick house in Toronto's Humewood Cedarvale neighbourhood. Conceived as an exercise in adaptive reuse, the project transforms a compartmentalized urban home into a con",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5f/5f19/895c/1800/0111/820d/large_jpg/Humewood-09-Kitchen_Garden_-_MaximeBrouillet.jpg?1784635191",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "A new in-depth architectural history of Broadcasting House explores the BBC's origins",
-      "url": "https://www.wallpaper.com/architecture/palace-of-ether-bbc-broadcasting-house-book-uk",
-      "excerpt": "Elizabeth Darling’s 'Palace of the Ether' is a rich history of Broadcasting House and the BBC's first decade, a time of electronic, aesthetic and social innovation writ large",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ecNApyHV2UooX3QYnpTBUU-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.27",
@@ -366,16 +384,6 @@ window.LUMINO_DATA = {
       "title": "Manchester Digital Campus slated to become No 10 North",
       "url": "https://www.dezeen.com/2026/07/27/no-10-north-manchester-digital-campus/",
       "excerpt": "An office campus in central Manchester, designed by infrastructure company AtkinsRéalis, is tipped to become the future home of No 10 North – the northern outpost of 10 Downing Street. Named the Manch",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.27",
-      "title": "Pirajean Lees’ Formentera retreat is designed for barefoot living",
-      "url": "https://www.wallpaper.com/design-interiors/pirajean-lees-formentera-retreat",
-      "excerpt": "The husband and wife founders of London design studio Pirajean Lees have transformed a neglected 1960s house in Formentera into their own relaxed island home",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oshAUQ4ENcT9pYPYVhiXpb-2560-80.jpg",
       "today": false
     },
     {
@@ -498,6 +506,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -525,6 +543,46 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
