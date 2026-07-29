@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  15:49",
+  "fetchedAt": "2026.07.29  17:09",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "sortiraparis.com": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -125,7 +125,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.07.29",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -151,6 +151,25 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Refik Anadol’s first monograph traces the process and evolution of his digital art",
+      "url": "https://www.wallpaper.com/art/refik-anadol-book-review",
+      "excerpt": "Published to accompany a new exhibition of the artist’s work, the book explores the painterly side of working with data and artificial intelligence",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KKRfgknhZ78uv6E7EVceQG-1422-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Desire to \"make the stadium lighter\" drove design of Hangzhou Sports Center",
+      "url": "https://www.dezeen.com/2026/07/29/nbbj-hangzhou-sports-center-stadium-case-study/",
+      "excerpt": "Next up in our Future Stadium series, we take a look at Hangzhou Sports Center in China, a flower-like stadium designed by American studio NBBJ to use less steel and complement the surrounding city's ",
       "today": true
     },
     {
@@ -213,6 +232,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "SONO House / Atelier Carle",
+      "url": "https://www.archdaily.com/1181702/sono-atelier-carle",
+      "excerpt": "This residence organically articulates a unified composition, oriented toward northern light, framing landscapes found within a vast panorama that opens onto the site. Three long concrete walls of var",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/ae9a/d865/3d00/014d/08fd/large_jpg/SONO_by_Atelier_Carle__Felix_Michaud_02.jpg?1785179828",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -261,6 +290,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "WPP Headquarters Mizal / Eller + Eller Architekten GmbH",
+      "url": "https://www.archdaily.com/1181666/wpp-headquarters-mizal-eller-plus-eller-architekten-gmbh",
+      "excerpt": "The MIZAL office campus, designed by Eller + Eller Architekten, is characterized by Germany's largest closed-cavity facade (CCF) and a sophisticated sustainability concept featuring extensive roof gar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4a1e/d865/3d00/014d/0704/large_jpg/1.Eller-Eller-Architekten_WPP_MIZAL_drone_view_Photo_MarcelKusch.jpg?1785154165",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -271,13 +310,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
-      "title": "This finely crafted bookstand by Marc Newson is the ultimate showcase for heftier tomes",
-      "url": "https://www.wallpaper.com/design-interiors/interior-accessories/bookstand-taschen-marc-newson",
-      "excerpt": "The designer and longstanding Taschen collaborator’s bookstand weighs 14 kg and is the perfect tool to display the publisher’s oversized volumes",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MEdUxeRrdvEM3G4wERoUo9-2084-80.jpg",
+      "title": "Nature & Architecture Ambasz's Vision",
+      "url": "https://www.archdaily.com/1181810/nature-and-architecture-ambaszs-vision",
+      "excerpt": "Fulvio Irace's Nature & Architecture: Ambasz's Vision published in English by Electa/RizzoliNew York, July 2026 — Electa/Rizzoli has published the English edition of Nature & Architecture: Ambasz's Vi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/f926/d865/3d00/014d/1101/large_jpg/cover_Nature___Architecture_Ambasz_s_Vision_LR.jpg?1785329961",
       "today": true
     },
     {
@@ -307,45 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181686/redhill-early-learning-centre-hubo-studio",
       "excerpt": "The Redhill Early Learning Centre reimagines the school as a child-scaled city: a protected and nurturing environment that reflects the energy of Johannesburg while adapting it to the sensory and deve",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b0c2/f4d2/6d01/88b1/6fc6/large_jpg/redhill-early-learning-centre-hubo-studio_5.jpg?1785245900",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "International Design Competition Launched for Sydney's Newest Waterfront Neighbourhood",
-      "url": "https://www.archdaily.com/1181548/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood",
-      "excerpt": "The White Bay Power Station precinct and Glebe Island, two key sites in one of the last major redevelopment sites on Sydney's inner harbour, are the focus of a new international design competition lau",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/0553/184b/c601/896f/a1aa/large_jpg/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood_2.jpg?1784808830",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "From Aalto Works to Tashkent Modernism: Discover the 19 New Cultural Sites Added to the UNESCO World Heritage List in 2026",
-      "url": "https://www.archdaily.com/1181787/from-aalto-works-to-tashkent-modernism-discover-the-19-new-cultural-sites-added-to-the-unesco-world-heritage-list-in-2026",
-      "excerpt": "The UNESCO World Heritage Committee has announced 25 new inscriptions to the World Heritage List during its 48th session, expanding the international register with sites that reflect a wide range of a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/ce44/f4d2/6d01/88b1/7305/large_jpg/from-aalto-works-to-tashkent-modernism-discover-the-19-new-cultural-sites-added-to-the-unesco-world-heritage-list-in-2026_12.jpg?1785319048",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "CNC & Active Offices / Studio Reaktor",
-      "url": "https://www.archdaily.com/1181716/cnc-and-active-offices-studio-reaktor",
-      "excerpt": "The new office spaces of Czech News Center and Active Radio were built within the new Hagibor administrative complex on the border of the Vinohrady, Strašnice, and Žižkov districts, directly connected",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/d62e/f4d2/6d01/88b1/6d7d/large_jpg/cnc-and-active-offices-studio-reaktor_5.jpg?1785189956",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Ænsemble adds \"contemporary layers\" to century-old country home near Berlin",
-      "url": "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
-      "excerpt": "Distinctly modern features stand out among the aged interiors of this Wilhelminian period home in Brandenburg, Germany, which has been revamped by architecture studio Ænsemble. The sprawling 700-squar",
       "today": true
     },
     {
