@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  22:56",
+  "fetchedAt": "2026.07.29  23:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "newscast.jp": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "sortiraparis.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -96,7 +96,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.29",
       "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
@@ -116,7 +116,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.07.29",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -199,6 +199,16 @@ window.LUMINO_DATA = {
       "title": "Two colours of brick give Quebec apartment building \"painterly dimension\"",
       "url": "https://www.dezeen.com/2026/07/29/acdf-architecture-completes-red-white-quebec-apartment-building/",
       "excerpt": "Montreal-based studio ACDF Architecture has rounded select corners of an apartment building in Quebec, Canada, and used a two-tone brick cladding system to create an interesting optical effect. Known ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Caju Apartment / CODA Arquitetura",
+      "url": "https://www.archdaily.com/1181847/caju-apartment-coda-arquitetura",
+      "excerpt": "The project was initially conceived for a client looking to build her first home, with the capacity to host occasional guests and welcome family and friends in a spacious social area. Due to personal ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/de73/d865/3d00/014d/0e1b/large_jpg/5I0A6480-corrigida.jpg?1785257610",
       "today": true
     },
     {
@@ -336,16 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181666/wpp-headquarters-mizal-eller-plus-eller-architekten-gmbh",
       "excerpt": "The MIZAL office campus, designed by Eller + Eller Architekten, is characterized by Germany's largest closed-cavity facade (CCF) and a sophisticated sustainability concept featuring extensive roof gar",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/4a1e/d865/3d00/014d/0704/large_jpg/1.Eller-Eller-Architekten_WPP_MIZAL_drone_view_Photo_MarcelKusch.jpg?1785154165",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Nature & Architecture Ambasz's Vision",
-      "url": "https://www.archdaily.com/1181810/nature-and-architecture-ambaszs-vision",
-      "excerpt": "Fulvio Irace's Nature & Architecture: Ambasz's Vision published in English by Electa/RizzoliNew York, July 2026 — Electa/Rizzoli has published the English edition of Nature & Architecture: Ambasz's Vi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/f926/d865/3d00/014d/1101/large_jpg/cover_Nature___Architecture_Ambasz_s_Vision_LR.jpg?1785329961",
       "today": true
     },
     {
