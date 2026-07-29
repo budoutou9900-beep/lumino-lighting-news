@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  08:31",
+  "fetchedAt": "2026.07.29  11:20",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "adfwebmagazine.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -57,17 +57,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -92,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
+      "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
       "date": "2026.07.29",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -159,6 +167,103 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "ayumi tsuchiya’s wooden sculptures are made for touching, playing, and listening",
+      "url": "https://www.designboom.com/art/ayumi-tsuchiya-wooden-sculptures-touching-playing-listening-interview/",
+      "excerpt": "the japanese artist discusses why children instinctively understand her work, creating spaces for people to connect, and her commitment to building every piece by hand.\nThe post ayumi tsuchiya’s woode",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ayumi-tsuchiya-wooden-sculptures-touching-playing-listening-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "London’s Olympia has been under renovation for years. Now we can step inside",
+      "url": "https://www.wallpaper.com/architecture/inside-olympia-london-uk",
+      "excerpt": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UphyWQaXW7Jx63LDsLLCWg-1500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Bricolage uses salvaged bricks for self-build home in London",
+      "url": "https://www.dezeen.com/2026/07/29/bricolage-castlands-road-self-build/",
+      "excerpt": "London studio Bricolage has self-built Castlands Road, a house in Lewisham defined by a budget-friendly palette of salvaged bricks and clay blocks. The three-bedroom home was designed and built by Bri",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Nike unveils warming and vibrating \"recovery slider\"",
+      "url": "https://www.dezeen.com/2026/07/29/nike-hyperice-heat-and-vibration-recovery-slider/",
+      "excerpt": "Sportswear brand Nike and health technology company Hyperice have created a slider that uses heat and vibration to help athlete's feet recover. Named Nike Air Zoom Hyperslide, it is the latest product",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "habits design transforms dining into a synchronized light performance",
+      "url": "https://www.designboom.com/design/habits-design-light-bites-tableware-synchronized-performance/",
+      "excerpt": "habits design demonstrates how technology enriches human connection at the table, establishing an interactive food culture.\nThe post habits design transforms dining into a synchronized light performan",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/habits_designboom_facebook-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "kengo kuma crowns cultural center in switzerland with wing-like timber roofs",
+      "url": "https://www.designboom.com/architecture/kengo-kuma-cultural-center-switzerland-verbier-timber-roofs/",
+      "excerpt": "wood, glass and sweeping canopies shape a new setting for performance, culture and collective life.\nThe post kengo kuma crowns cultural center in switzerland with wing-like timber roofs appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kengo-kuma-cultural-center-switzerland-verbier-timber-roofs-designboom-6.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "This finely crafted bookstand by Marc Newson is the ultimate showcase for heftier tomes",
+      "url": "https://www.wallpaper.com/design-interiors/interior-accessories/bookstand-taschen-marc-newson",
+      "excerpt": "The designer and longstanding Taschen collaborator’s bookstand weighs 14 kg and is the perfect tool to display the publisher’s oversized volumes",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MEdUxeRrdvEM3G4wERoUo9-2084-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "ai weiwei on why a dying tree inspires his first drawing in more than 50 years",
+      "url": "https://www.designboom.com/art/ai-weiwei-drawing-50-years-dying-tree-circa-interview/",
+      "excerpt": "in conversation with designboom, the artist reflects on aging, history, and why the death of a 1,200-year-old oak compelled him to draw again.\nThe post ai weiwei on why a dying tree inspires his first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ai-weiwei-drawing-50-years-dying-tree-circa-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Relive raving in the 1990s, and the ‘sense that living life differently was actually possible’",
+      "url": "https://www.wallpaper.com/art/photography/never-alone-1997-2004-raving-in-europe-photobook-review",
+      "excerpt": "Rave culture's ‘Euro summer’ golden age is captured in a new photobook, ‘Never Alone: 1997–2004 Raving in Europe’; here, its photographers look back",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rPtUNgjMx29e6qPCrGdt5N-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Bio-based community garden by Jan Kattein Architects opens in London",
+      "url": "https://www.dezeen.com/2026/07/29/jan-kattein-architects-global-generation-community-garden-london/",
+      "excerpt": "Handmade bricks, wooden shakes and a cob wall enclose a trio of buildings at this community garden in London, which has been designed by local studio Jan Kattein Architects. Nestled on a triangular pl",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -189,16 +294,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "willem de haan stacks twelve tents vertically to question density and the way we occupy space",
-      "url": "https://www.designboom.com/art/twelve-tents-vertically-density-occupy-space-willem-de-haan/",
-      "excerpt": "willem de haan’s eleven-metre structure turns a peaceful riverside campsite into a quiet reflection on the competition for space.\nThe post willem de haan stacks twelve tents vertically to question den",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/twelve-tents-vertically-density-occupy-space-willem-de-haan-designboom-05.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -211,20 +306,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
+      "title": "Inside Hostels: How Shared Spaces Reshape the Rhythm of Nomads' Lives",
+      "url": "https://www.archdaily.com/1148958/inside-hostels-how-shared-spaces-reshape-the-rhythm-of-nomads-lives",
+      "excerpt": "Examining the evolution of dwelling throughout history reveals that concepts of space, time, identity, and home extend far beyond architecture itself. From the early twentieth century to the present, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/75bb/e8f5/cb01/8987/ae9c/large_jpg/inside-hostels-how-shared-spaces-reshape-the-rhythm-of-nomads-lives_14.jpg?1784575427",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
       "title": "Tokyo Ballet House / Kenta SANO & Associates, Architects",
       "url": "https://www.archdaily.com/1181727/tokyo-ballet-house-kenta-sano-and-associates-architects",
       "excerpt": "Kenta SANO & Associates reimagines the ballet studio as an urban stage, opening the hall toward the street and turning everyday passersby into an informal audience. Tokyo Ballet House brings together ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/7c1e/d865/3d00/014d/0b67/large_jpg/12_Tokyo_Ballet_House_credit_Motoharu_Yagi.jpg?1785232609",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "fiberglass shells and bronze skeletal forms shape sculptural light and furniture collection",
-      "url": "https://www.designboom.com/design/fiberglass-shells-bronze-skeletal-forms-sculptural-light-furniture-collection-salina-federico-stefanovich/",
-      "excerpt": "the salina collection by federico stefanovich draws on the morphology of marine organisms.\nThe post fiberglass shells and bronze skeletal forms shape sculptural light and furniture collection appeared",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fiberglass-shells-bronze-skeletal-forms-light-furniture-federico-stefanovich-salina-collection-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -268,26 +363,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "black asphalt and birch plywood shape compact retreat within czech barn",
-      "url": "https://www.designboom.com/architecture/black-asphalt-birch-plywood-compact-retreat-czech-barn-facha-architekti/",
-      "excerpt": "the box in the barn creates a seasonal retreat within a rural family homestead.\nThe post black asphalt and birch plywood shape compact retreat within czech barn appeared first on designboom | architec",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/box-barn-retreat-home-black-asphalt-birch-plywood-czech-republic-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "PollenNav mobile app maps the city by what you can breathe, not just where you can walk",
-      "url": "https://www.designboom.com/readers/pollennav-mobile-app-city-routes-allergies-yani-shi/",
-      "excerpt": "a billion people navigate their cities without ever accounting for the one thing that can leave them gasping: the air; PollenNav redraws the map around what you can breathe.\nThe post PollenNav mobile ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/yani-shi-pollennav-mobile-application-routes-allergies-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -307,70 +382,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
+      "source": "LPA",
       "cat": "デザイン",
       "date": "2026.07.28",
-      "title": "Frank Gehry's Guggenheim Abu Dhabi finally has an opening date",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/guggenheim-abu-dhabi-opening-date",
-      "excerpt": "Following years of delays and controversies, the building is (almost) ready for its big reveal. Here's what to know",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iGsufaDDGZtfxX25v2zSM-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Dezeen Debate features \"bad acid trip\" building proposal",
-      "url": "https://www.dezeen.com/2026/07/28/dezeen-debate-mvrdv-rotterdam-rocks-shift-competition/",
-      "excerpt": "The latest Dezeen Debate newsletter features MVRDV's winning proposal to design a \"new world wonder\" in Rotterdam, the Netherlands. Subscribe to Dezeen Debate now. The architectural studio's proposal,",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Why stadium design is getting more outlandish",
-      "url": "https://www.dezeen.com/2026/07/28/stadium-design-outlandish-heatherwick-foster-gmp-populous/",
-      "excerpt": "Stadiums are becoming more distinctive with clubs and countries using them to attract attention. As part of our Future Stadium series, we look at why stadium design is becoming more icon-focused. UK-b",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Tear House / Felipe Caboclo Arquitetura",
-      "url": "https://www.archdaily.com/1181705/tear-house-felipe-caboclo-arquitetura",
-      "excerpt": "Developed by Felipe Caboclo Arquitetura alongside interior designer Nildo José and landscape architect Alex Hanazaki, Casa Tear is conceived as a spatial grid where structural elements, curated interi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/af49/d865/3d00/014d/0923/large_jpg/1.1.jpg?1785180083",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "GM reveals Winn Morton’s costume designs from the golden age of industrial musicals",
-      "url": "https://www.wallpaper.com/transportation/general-motors-winn-morton-industrial-musical-costume-designs",
-      "excerpt": "Once upon a time, General Motors was responsible for big-ticket, Broadway-style musicals to promote its products. Legendary costume designer Winn Morton was just one of the talents it tapped",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yuVh7dJ8TEKMV44tWqbYiQ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Meet Trone, the brand creating sculptural toilets worth spending a penny on",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/trone-toilets-hugo-volpei",
-      "excerpt": "The toilet is design’s last taboo. Trone founder Hugo Volpei is on a mission to change that – turning this most overlooked of objects into an object of desire",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3AZPBvGNT6bPiyKME9cEFj-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Linde chair and table by OUT among five new products on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/07/28/linde-chair-table-out-furnishings-flooring-seating-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: a matching chair-and-table set that share graphic, playful shapes is among five new products featured on Dezeen Showroom. Linde table and chair by OUT Design brand OUT's Linde table a",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -513,6 +531,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -540,6 +568,46 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.15",
+      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
+      "url": "https://www.yamagiwa.co.jp/news/79362/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
