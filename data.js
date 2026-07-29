@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  17:09",
+  "fetchedAt": "2026.07.29  19:05",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -157,6 +157,44 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.29",
+      "title": "From Venice to Sicily, these are Italy’s most exciting new hotels",
+      "url": "https://www.wallpaper.com/travel/hotels/best-new-hotels-italy",
+      "excerpt": "Italy’s best new hotels for 2026 include revived palazzi, mountain hideaways, beachside takeovers and grand names entering a new chapter",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yPkfDuy7Hpw2KWsrF7xSt9-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Images show near-complete prototype of pool designed to float in New York river",
+      "url": "https://www.dezeen.com/2026/07/29/floating-plus-pool-pilot-nearing-completion-construction/",
+      "excerpt": "The first phase of a floating pool planned for the East River is nearing completion in Brooklyn, with a barge and an infiltration system designed to clean river water as it flows into the structure. T",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "aalto works, rock-cut mosques and modernist cities join UNESCO’s 2026 world heritage list",
+      "url": "https://www.designboom.com/architecture/aalto-works-mosques-modernist-cities-join-unesco-2026-world-heritage-list/",
+      "excerpt": "UNESCO expands its world heritage list with landscapes and built space, and includes three african nations for the first time.\nThe post aalto works, rock-cut mosques and modernist cities join UNESCO’s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/unesco-world-heritage-sites-2026-additions-designboom-FB1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Two colours of brick give Quebec apartment building \"painterly dimension\"",
+      "url": "https://www.dezeen.com/2026/07/29/acdf-architecture-completes-red-white-quebec-apartment-building/",
+      "excerpt": "Montreal-based studio ACDF Architecture has rounded select corners of an apartment building in Quebec, Canada, and used a two-tone brick cladding system to create an interesting optical effect. Known ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
       "title": "Refik Anadol’s first monograph traces the process and evolution of his digital art",
       "url": "https://www.wallpaper.com/art/refik-anadol-book-review",
       "excerpt": "Published to accompany a new exhibition of the artist’s work, the book explores the painterly side of working with data and artificial intelligence",
@@ -235,6 +273,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
+      "title": "Mooca House / André Guerra Arquitetos",
+      "url": "https://www.archdaily.com/1181767/mooca-house-andre-guerra-arquitetos",
+      "excerpt": "The renovation of the Mooca House is based on respect for the existing structure, proposing a contemporary reading without erasing the past, but rather revealing and reinterpreting elements already pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/d74e/d865/3d00/014d/0d51/large_jpg/03_Vista_posterior__manuel_sa.jpg?1785255802",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
       "title": "SONO House / Atelier Carle",
       "url": "https://www.archdaily.com/1181702/sono-atelier-carle",
       "excerpt": "This residence organically articulates a unified composition, oriented toward northern light, framing landscapes found within a vast panorama that opens onto the site. Three long concrete walls of var",
@@ -252,31 +300,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "London’s Olympia has been under renovation for years. Now we can step inside",
-      "url": "https://www.wallpaper.com/architecture/inside-olympia-london-uk",
-      "excerpt": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UphyWQaXW7Jx63LDsLLCWg-1500-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.29",
       "title": "Bricolage uses salvaged bricks for self-build home in London",
       "url": "https://www.dezeen.com/2026/07/29/bricolage-castlands-road-self-build/",
       "excerpt": "London studio Bricolage has self-built Castlands Road, a house in Lewisham defined by a budget-friendly palette of salvaged bricks and clay blocks. The three-bedroom home was designed and built by Bri",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Nike unveils warming and vibrating \"recovery slider\"",
-      "url": "https://www.dezeen.com/2026/07/29/nike-hyperice-heat-and-vibration-recovery-slider/",
-      "excerpt": "Sportswear brand Nike and health technology company Hyperice have created a slider that uses heat and vibration to help athlete's feet recover. Named Nike Air Zoom Hyperslide, it is the latest product",
       "today": true
     },
     {
@@ -300,16 +329,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "kengo kuma crowns cultural center in switzerland with wing-like timber roofs",
-      "url": "https://www.designboom.com/architecture/kengo-kuma-cultural-center-switzerland-verbier-timber-roofs/",
-      "excerpt": "wood, glass and sweeping canopies shape a new setting for performance, culture and collective life.\nThe post kengo kuma crowns cultural center in switzerland with wing-like timber roofs appeared first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/kengo-kuma-cultural-center-switzerland-verbier-timber-roofs-designboom-6.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -320,15 +339,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Bio-based community garden by Jan Kattein Architects opens in London",
-      "url": "https://www.dezeen.com/2026/07/29/jan-kattein-architects-global-generation-community-garden-london/",
-      "excerpt": "Handmade bricks, wooden shakes and a cob wall enclose a trio of buildings at this community garden in London, which has been designed by local studio Jan Kattein Architects. Nestled on a triangular pl",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -336,16 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181646/the-oasis-is-not-a-destination-architecture-along-the-routes-of-the-desert",
       "excerpt": "Architecture has long been defined by permanence. Buildings are celebrated because they endure, cities because they establish permanence against uncertainty, and monuments because they resist the pass",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/01f9/f4d2/6d01/88b1/6aa2/large_jpg/the-oasis-is-not-a-destination-architecture-along-the-routes-of-the-desert_5.jpg?1785135621",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Redhill Early Learning Centre /  Hubo Studio",
-      "url": "https://www.archdaily.com/1181686/redhill-early-learning-centre-hubo-studio",
-      "excerpt": "The Redhill Early Learning Centre reimagines the school as a child-scaled city: a protected and nurturing environment that reflects the energy of Johannesburg while adapting it to the sensory and deve",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b0c2/f4d2/6d01/88b1/6fc6/large_jpg/redhill-early-learning-centre-hubo-studio_5.jpg?1785245900",
       "today": true
     },
     {
