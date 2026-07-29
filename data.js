@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  05:46",
+  "fetchedAt": "2026.07.29  08:31",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -65,13 +65,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -93,6 +89,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "adfwebmagazine.jp",
+      "cat": "賞・コンペ",
+      "date": "2026.07.29",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -154,6 +159,65 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "A Goa villa mesmerises with its crisp white form engulfed in lush Indian nature",
+      "url": "https://www.wallpaper.com/architecture/residential/goa-villa-jma-mumbai-india",
+      "excerpt": "This striking villa on Goa’s border with Maharashtra celebrates its untamed coastal hillside setting in a design courtesy of JMA Mumbai",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/z9kMsdvcHU4Bys7JyXW3Eb-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "three monolithic volumes by not a number architects reinterpret greek stone house typology",
+      "url": "https://www.designboom.com/architecture/three-monolithic-volumes-not-a-number-architects-greek-stone-house-typology-treelithon/",
+      "excerpt": "exposed stone walls and concrete slabs define the interior material palette, while timber furniture, staircases, and doors introduce warmth.\nThe post three monolithic volumes by not a number architect",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treelithon-three-monolithic-volumes-not-a-number-architects-greek-stone-house-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Bigger, bolder and stuffed to the gills with technology: meet the new Zeekr 9X",
+      "url": "https://www.wallpaper.com/transportation/bigger-bolder-and-stuffed-to-the-gills-with-technology-meet-the-new-zeekr-9x",
+      "excerpt": "If Zeekr get their way, this is the new shape of luxury European automotive design. The 9X is a full-sized SUV with private jet levels of comfort and a data centre's worth of onboard tech. Will it tak",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xmoH8pM94Gr2FQaa69Fh6j-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "willem de haan stacks twelve tents vertically to question density and the way we occupy space",
+      "url": "https://www.designboom.com/art/twelve-tents-vertically-density-occupy-space-willem-de-haan/",
+      "excerpt": "willem de haan’s eleven-metre structure turns a peaceful riverside campsite into a quiet reflection on the competition for space.\nThe post willem de haan stacks twelve tents vertically to question den",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/twelve-tents-vertically-density-occupy-space-willem-de-haan-designboom-05.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Ænsemble adds \"contemporary layers\" to century-old country home near Berlin",
+      "url": "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
+      "excerpt": "Distinctly modern features stand out among the aged interiors of this Wilhelminian period home in Brandenburg, Germany, which has been revamped by architecture studio Ænsemble. The sprawling 700-squar",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Tokyo Ballet House / Kenta SANO & Associates, Architects",
+      "url": "https://www.archdaily.com/1181727/tokyo-ballet-house-kenta-sano-and-associates-architects",
+      "excerpt": "Kenta SANO & Associates reimagines the ballet studio as an urban stage, opening the hall toward the street and turning everyday passersby into an informal audience. Tokyo Ballet House brings together ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/7c1e/d865/3d00/014d/0b67/large_jpg/12_Tokyo_Ballet_House_credit_Motoharu_Yagi.jpg?1785232609",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -161,6 +225,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/fiberglass-shells-bronze-skeletal-forms-sculptural-light-furniture-collection-salina-federico-stefanovich/",
       "excerpt": "the salina collection by federico stefanovich draws on the morphology of marine organisms.\nThe post fiberglass shells and bronze skeletal forms shape sculptural light and furniture collection appeared",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/fiberglass-shells-bronze-skeletal-forms-light-furniture-federico-stefanovich-salina-collection-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Vĩnh Long House / NAQ Architecture",
+      "url": "https://www.archdaily.com/1181718/vinh-long-house-naq-architecture",
+      "excerpt": "Located in Vĩnh Long, where a hot and humid tropical climate prevails throughout most of the year, this house demonstrates how bioclimatic architecture can achieve optimal thermal comfort through pass",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/3e02/d865/3d00/014d/09d0/large_jpg/Paul_Phan_-_Building_facade_1.jpg?1785216580",
       "today": true
     },
     {
@@ -181,6 +255,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260729",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Rangunia Residence / Moofer Architecture",
+      "url": "https://www.archdaily.com/1181719/rangunia-residence-moofer-architecture",
+      "excerpt": "Rangunia Residence reinterprets the spatial and environmental principles of rural Bangladeshi architecture through a contemporary home shaped by climate, landscape, and everyday life. Located within t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/41a6/d865/3d00/014d/0a18/large_jpg/Rangunia_Residence-Prantography47.jpg?1785217713",
       "today": true
     },
     {
@@ -233,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "thornley kelham hand-shapes porsche 356 body in aluminum over 2,000 hours",
-      "url": "https://www.designboom.com/technology/thornley-kelham-porsche-356-aluminum-car-restomod/",
-      "excerpt": "thornley kelham begins its porsche 356 european SL with a familiar silhouette, then draws out the lightness of porsche’s early racing cars.\nThe post thornley kelham hand-shapes porsche 356 body in alu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/thornley-kelham-porsche-356-european-sl-restomod-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -281,16 +355,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "bagel-inspired details and flexible furniture shape seoul bakery’s open interior",
-      "url": "https://www.designboom.com/architecture/bagel-inspired-details-flexible-furniture-seoul-bakery-open-interior-jojoworkshop-achime-bagel/",
-      "excerpt": "jojoworkshop translates the daily rhythm of baking into a warm interior, with an open kitchen, custom furniture, and bagel-inspired details.\nThe post bagel-inspired details and flexible furniture shap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/jojoworkshop-achime-bagel-bakery-seoul-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.28",
@@ -301,81 +365,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Guggenheim Abu Dhabi by Frank Gehry To Open in December",
-      "url": "https://www.archdaily.com/1181770/guggenheim-abu-dhabi-by-frank-gehry-to-open-in-december",
-      "excerpt": "Abu Dhabi's Department of Culture and Tourism has announced that Guggenheim Abu Dhabi will open to the public on December 11, 2026, on Saadiyat Island. The museum, designed by the late Frank Gehry, be",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/ff90/ae3a/0b01/8910/b49b/large_jpg/guggenheim-abu-dhabi-by-frank-gehry-to-open-in-december_4.jpg?1785266077",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "La Negrilla House / Croxatto y Opazo Arquitectos",
-      "url": "https://www.archdaily.com/1181581/la-negrilla-house-croxatto-y-opazo-arquitectos",
-      "excerpt": "La Negrilla House is a vacation home located in Matanzas, Chile, approximately two and a half hours south of Santiago. Situated 164 feet (50 meters) above sea level, the house overlooks the Pacific Oc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a63/317c/c073/3201/89bc/5e10/large_jpg/casa-la-negrilla-croxatto-y-opazo-arquitectos_10.jpg?1784885669",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Harris Elliott’s metamorphosing London ‘social salon’ begins with a marketplace of white shirts",
-      "url": "https://www.wallpaper.com/fashion-beauty/harris-elliott-le-parlour-installation-london",
-      "excerpt": "The multi-hyphenate creative director, stylist and artist’s latest project is ‘Le Parlour’, an evolving social salon in central London that will host a rolling programme of events and installations un",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mkFqDMpmoBwXnUGW2FmbyV-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Inspired by the OG Porsche racing car, the 356 European SL is lithe and lightweight",
-      "url": "https://www.wallpaper.com/transportation/thornley-kelham-porsche-356-european-sl-restomod",
-      "excerpt": "The Thornley Kelham Porsche 356 European SL is an expression of the art of hand-crafted aluminium car-making, inspired by a motorsport legend and engineered for modern-day driving",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JVaTkfDTKddRJSpS7xF7Yj-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.28",
       "title": "Linde chair and table by OUT among five new products on Dezeen Showroom",
       "url": "https://www.dezeen.com/2026/07/28/linde-chair-table-out-furnishings-flooring-seating-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: a matching chair-and-table set that share graphic, playful shapes is among five new products featured on Dezeen Showroom. Linde table and chair by OUT Design brand OUT's Linde table a",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Territory-Park / MACh Architects + Connatural",
-      "url": "https://www.archdaily.com/1151371/territory-park-mach-architects-plus-connatural",
-      "excerpt": "Território-Parque ProjectThe Território-Parque (Park-Territory) project stems from the immense challenge of re-establishing and creating the urban, architectural, and landscape conditions for the comm",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/686f/f27e/9445/0103/24aa/574b/large_jpg/territorio-parque-mach-arquitetos-plus-connatural_5.jpg?1752167058",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
-      "url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
-      "excerpt": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the ",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -518,16 +513,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -555,46 +540,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
