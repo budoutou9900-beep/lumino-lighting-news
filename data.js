@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  13:56",
+  "fetchedAt": "2026.07.29  15:49",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -112,6 +112,7 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -150,6 +151,55 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "vollebak prepares for the end times with its yellow trench coat made from protective rubber",
+      "url": "https://www.designboom.com/technology/vollebak-yellow-trench-coat-protective-rubber-fwahbl-jacket/",
+      "excerpt": "the limited-edition yellow trench coat uses double-faced polychloroprene rubber engineered to resist chemicals, oils, ozone, flame and weathering.\nThe post vollebak prepares for the end times with its",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vollebak-yellow-trench-coat-protective-rubber-fwahbl-jacket-designboom-7.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Interior designed to support autistic children among Canadian University Dubai projects",
+      "url": "https://www.dezeen.com/2026/07/29/adaptable-learning-environments-inclusive-canadian-university-dubai-schoolshows/",
+      "excerpt": "Dezeen School Shows: an interior project that provides an encouraging space to foster the talent and growth of autistic children is among the projects by Canadian University Dubai. Also featured is an",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "‘Cinephiles are the best storytellers’: inside the LA offices of Neon Rated, designed to capture the ethos of filmmaking",
+      "url": "https://www.wallpaper.com/design-interiors/neon-rated-offices-los-angeles-studio-muka",
+      "excerpt": "The offices of boundary-pushing LA film production company Neon Rated by Studio Muka reference old Hollywood and cinematic storytelling through a design lens",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YQCgBmqhCF78rFfJWzmhKZ-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "The Design Drop: 12 launches we love this month",
+      "url": "https://www.wallpaper.com/design-interiors/best-design-launches-july-2026",
+      "excerpt": "From a redressed 1970s sofa to the scent of the summer, we round up the design objects we couldn’t stop thinking about this month",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zZgesQXqeu55BGyg3q8CQ-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "curved curtain and modular furniture reshape shanghai interior workshop and pop-up",
+      "url": "https://www.designboom.com/architecture/curved-curtain-modular-furniture-shanghai-interior-workshop-pop-up-atelier-siyu/",
+      "excerpt": "alternating conditions of enclosure and openness shape the interior sequence.\nThe post curved curtain and modular furniture reshape shanghai interior workshop and pop-up appeared first on designboom |",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/atelier-siyu-society-of-home-workshop-pop-up-shanghai-designboom-1200.jpg",
       "today": true
     },
     {
@@ -231,52 +281,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "ai weiwei on why a dying tree inspired his first drawing in more than 50 years",
-      "url": "https://www.designboom.com/art/ai-weiwei-drawing-50-years-dying-tree-circa-interview/",
-      "excerpt": "in conversation with designboom, the artist reflects on aging, history, and why the death of a 1,200-year-old oak compelled him to draw again.\nThe post ai weiwei on why a dying tree inspired his first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ai-weiwei-drawing-50-years-dying-tree-circa-interview-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Relive raving in the 1990s, and the ‘sense that living life differently was actually possible’",
-      "url": "https://www.wallpaper.com/art/photography/never-alone-1997-2004-raving-in-europe-photobook-review",
-      "excerpt": "Rave culture's ‘Euro summer’ golden age is captured in a new photobook, ‘Never Alone: 1997–2004 Raving in Europe’; here, its photographers look back",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rPtUNgjMx29e6qPCrGdt5N-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.29",
       "title": "Bio-based community garden by Jan Kattein Architects opens in London",
       "url": "https://www.dezeen.com/2026/07/29/jan-kattein-architects-global-generation-community-garden-london/",
       "excerpt": "Handmade bricks, wooden shakes and a cob wall enclose a trio of buildings at this community garden in London, which has been designed by local studio Jan Kattein Architects. Nestled on a triangular pl",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "A Goa villa mesmerises with its crisp white form engulfed in lush Indian nature",
-      "url": "https://www.wallpaper.com/architecture/residential/goa-villa-jma-mumbai-india",
-      "excerpt": "This striking villa on Goa’s border with Maharashtra celebrates its untamed coastal hillside setting in a design courtesy of JMA Mumbai",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/z9kMsdvcHU4Bys7JyXW3Eb-1416-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "three monolithic volumes by not a number architects reinterpret greek stone house typology",
-      "url": "https://www.designboom.com/architecture/three-monolithic-volumes-not-a-number-architects-greek-stone-house-typology-treelithon/",
-      "excerpt": "exposed stone walls and concrete slabs define the interior material palette, while timber furniture, staircases, and doors introduce warmth.\nThe post three monolithic volumes by not a number architect",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/treelithon-three-monolithic-volumes-not-a-number-architects-greek-stone-house-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -357,15 +367,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "\"Gently curving\" Gordie Howe International Bridge opens between US and Canada",
-      "url": "https://www.dezeen.com/2026/07/28/gordie-howe-international-bridge-opens-traffic/",
-      "excerpt": "A bridge with towers informed by a hockey slapshot has opened to public traffic between the United States and Canada after more than seven years of construction, decades of planning and a contentious ",
-      "today": false
     },
     {
       "source": "LPA",
