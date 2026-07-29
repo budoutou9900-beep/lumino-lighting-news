@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.29  11:20",
+  "fetchedAt": "2026.07.29  13:56",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,45 +37,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "IGNANT": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -100,15 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.29",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Newscast.jp",
       "cat": "展示・アート",
       "date": "2026.07.29",
@@ -125,7 +112,6 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -164,6 +150,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Three modernist icons have been added to Unesco’s World Heritage List",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/unesco-world-heritage-list-modernist-additions",
+      "excerpt": "Unesco’s World Heritage Committee has added 25 new sites to its prestigious list – among them, modernist landmarks in Finland, Poland and Uzbekistan mark a growing shift towards recognising 20th-centu",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CxS26fvUjJKiLUDzZVef2P-800-80.jpg",
       "today": true
     },
     {
@@ -238,9 +234,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.29",
-      "title": "ai weiwei on why a dying tree inspires his first drawing in more than 50 years",
+      "title": "ai weiwei on why a dying tree inspired his first drawing in more than 50 years",
       "url": "https://www.designboom.com/art/ai-weiwei-drawing-50-years-dying-tree-circa-interview/",
-      "excerpt": "in conversation with designboom, the artist reflects on aging, history, and why the death of a 1,200-year-old oak compelled him to draw again.\nThe post ai weiwei on why a dying tree inspires his first",
+      "excerpt": "in conversation with designboom, the artist reflects on aging, history, and why the death of a 1,200-year-old oak compelled him to draw again.\nThe post ai weiwei on why a dying tree inspired his first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ai-weiwei-drawing-50-years-dying-tree-circa-interview-designboom-1200.jpg",
       "today": true
     },
@@ -284,13 +280,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
-      "title": "Bigger, bolder and stuffed to the gills with technology: meet the new Zeekr 9X",
-      "url": "https://www.wallpaper.com/transportation/bigger-bolder-and-stuffed-to-the-gills-with-technology-meet-the-new-zeekr-9x",
-      "excerpt": "If Zeekr get their way, this is the new shape of luxury European automotive design. The 9X is a full-sized SUV with private jet levels of comfort and a data centre's worth of onboard tech. Will it tak",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xmoH8pM94Gr2FQaa69Fh6j-2560-80.jpg",
+      "title": "The Oasis Is Not a Destination: Architecture Along the Routes of the Desert",
+      "url": "https://www.archdaily.com/1181646/the-oasis-is-not-a-destination-architecture-along-the-routes-of-the-desert",
+      "excerpt": "Architecture has long been defined by permanence. Buildings are celebrated because they endure, cities because they establish permanence against uncertainty, and monuments because they resist the pass",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/01f9/f4d2/6d01/88b1/6aa2/large_jpg/the-oasis-is-not-a-destination-architecture-along-the-routes-of-the-desert_5.jpg?1785135621",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "Redhill Early Learning Centre /  Hubo Studio",
+      "url": "https://www.archdaily.com/1181686/redhill-early-learning-centre-hubo-studio",
+      "excerpt": "The Redhill Early Learning Centre reimagines the school as a child-scaled city: a protected and nurturing environment that reflects the energy of Johannesburg while adapting it to the sensory and deve",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b0c2/f4d2/6d01/88b1/6fc6/large_jpg/redhill-early-learning-centre-hubo-studio_5.jpg?1785245900",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "International Design Competition Launched for Sydney's Newest Waterfront Neighbourhood",
+      "url": "https://www.archdaily.com/1181548/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood",
+      "excerpt": "The White Bay Power Station precinct and Glebe Island, two key sites in one of the last major redevelopment sites on Sydney's inner harbour, are the focus of a new international design competition lau",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/0553/184b/c601/896f/a1aa/large_jpg/international-design-competition-launched-for-sydneys-newest-waterfront-neighbourhood_2.jpg?1784808830",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "From Aalto Works to Tashkent Modernism: Discover the 19 New Cultural Sites Added to the UNESCO World Heritage List in 2026",
+      "url": "https://www.archdaily.com/1181787/from-aalto-works-to-tashkent-modernism-discover-the-19-new-cultural-sites-added-to-the-unesco-world-heritage-list-in-2026",
+      "excerpt": "The UNESCO World Heritage Committee has announced 25 new inscriptions to the World Heritage List during its 48th session, expanding the international register with sites that reflect a wide range of a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/ce44/f4d2/6d01/88b1/7305/large_jpg/from-aalto-works-to-tashkent-modernism-discover-the-19-new-cultural-sites-added-to-the-unesco-world-heritage-list-in-2026_12.jpg?1785319048",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "CNC & Active Offices / Studio Reaktor",
+      "url": "https://www.archdaily.com/1181716/cnc-and-active-offices-studio-reaktor",
+      "excerpt": "The new office spaces of Czech News Center and Active Radio were built within the new Hagibor administrative complex on the border of the Vinohrady, Strašnice, and Žižkov districts, directly connected",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/d62e/f4d2/6d01/88b1/6d7d/large_jpg/cnc-and-active-offices-studio-reaktor_5.jpg?1785189956",
       "today": true
     },
     {
@@ -300,36 +336,6 @@ window.LUMINO_DATA = {
       "title": "Ænsemble adds \"contemporary layers\" to century-old country home near Berlin",
       "url": "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
       "excerpt": "Distinctly modern features stand out among the aged interiors of this Wilhelminian period home in Brandenburg, Germany, which has been revamped by architecture studio Ænsemble. The sprawling 700-squar",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Inside Hostels: How Shared Spaces Reshape the Rhythm of Nomads' Lives",
-      "url": "https://www.archdaily.com/1148958/inside-hostels-how-shared-spaces-reshape-the-rhythm-of-nomads-lives",
-      "excerpt": "Examining the evolution of dwelling throughout history reveals that concepts of space, time, identity, and home extend far beyond architecture itself. From the early twentieth century to the present, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/75bb/e8f5/cb01/8987/ae9c/large_jpg/inside-hostels-how-shared-spaces-reshape-the-rhythm-of-nomads-lives_14.jpg?1784575427",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Tokyo Ballet House / Kenta SANO & Associates, Architects",
-      "url": "https://www.archdaily.com/1181727/tokyo-ballet-house-kenta-sano-and-associates-architects",
-      "excerpt": "Kenta SANO & Associates reimagines the ballet studio as an urban stage, opening the hall toward the street and turning everyday passersby into an informal audience. Tokyo Ballet House brings together ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/7c1e/d865/3d00/014d/0b67/large_jpg/12_Tokyo_Ballet_House_credit_Motoharu_Yagi.jpg?1785232609",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Vĩnh Long House / NAQ Architecture",
-      "url": "https://www.archdaily.com/1181718/vinh-long-house-naq-architecture",
-      "excerpt": "Located in Vĩnh Long, where a hot and humid tropical climate prevails throughout most of the year, this house demonstrates how bioclimatic architecture can achieve optimal thermal comfort through pass",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/3e02/d865/3d00/014d/09d0/large_jpg/Paul_Phan_-_Building_facade_1.jpg?1785216580",
       "today": true
     },
     {
@@ -353,32 +359,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Rangunia Residence / Moofer Architecture",
-      "url": "https://www.archdaily.com/1181719/rangunia-residence-moofer-architecture",
-      "excerpt": "Rangunia Residence reinterprets the spatial and environmental principles of rural Bangladeshi architecture through a contemporary home shaped by climate, landscape, and everyday life. Located within t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/41a6/d865/3d00/014d/0a18/large_jpg/Rangunia_Residence-Prantography47.jpg?1785217713",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.28",
       "title": "\"Gently curving\" Gordie Howe International Bridge opens between US and Canada",
       "url": "https://www.dezeen.com/2026/07/28/gordie-howe-international-bridge-opens-traffic/",
       "excerpt": "A bridge with towers informed by a hockey slapshot has opened to public traffic between the United States and Canada after more than seven years of construction, decades of planning and a contentious ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "La Pecera Studios / Massív Studio",
-      "url": "https://www.archdaily.com/1181564/la-pecera-massiv-studio",
-      "excerpt": "La Pecera is conceived as a reflection on how architecture can be inserted into an environmentally sensitive landscape without compromising its natural condition. The project responds to a question th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/4fca/d4d6/cf00/0113/97ac/large_jpg/La_Pecera-16.Courtney_Chlouber_jpg.jpg?1784827919",
       "today": false
     },
     {
