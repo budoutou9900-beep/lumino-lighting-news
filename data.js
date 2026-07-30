@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  17:22",
+  "fetchedAt": "2026.07.30  19:17",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -137,6 +137,25 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Dezeen Agenda features Guggenheim Abu Dhabi opening date",
+      "url": "https://www.dezeen.com/2026/07/30/dezeen-agenda-features-guggenheim-abu-dhabi-opening-date/",
+      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features news that the much-anticipated Guggenheim Abu Dhabi, designed by the late architect Frank Gehry, is set to open in December. Subscrib",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "ADDI rethinks sauté pan’s geometry through octagonal raw aluminum form designed to last",
+      "url": "https://www.designboom.com/design/addi-saute-pan-geometry-octagonal-raw-aluminum-form-steka-mozambique/",
+      "excerpt": "addi's octagonal steka sauté pan for mozambique swaps a round pan's easy geometry for a shape designed to be repaired, maintained, and kept for decades.\nThe post ADDI rethinks sauté pan’s geometry thr",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/addi-octagonal-steka-saute-pan-mozambique-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -246,15 +265,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "Eight record-breaking stadiums from the biggest to the most expensive",
-      "url": "https://www.dezeen.com/2026/07/30/record-breaking-stadiums-future-stadium-roundup/",
-      "excerpt": "Stadiums are often vying to be record-breaking structures. To conclude our Future Stadium series, we look at those that top the lists, from the biggest and tallest to the most expensive. Biggest by ca",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -282,16 +292,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/mcdonalds-china-backpack-dedicated-side-pockets-fries/",
       "excerpt": "inspired by mcdonald’s takeaway packaging, the oversized backpack features fries-carton side pockets, a ketchup compartment, and an oversized receipt.\nThe post this mcdonald’s backpack comes with dedi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mcdonalds-china-backpack-dedicated-side-pockets-fries-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "plastic ice cream traces the contrasting timelines of fleeting pleasure and material decay",
-      "url": "https://www.designboom.com/art/plastic-400-year-ice-cream-contrasting-timelines-fleeting-pleasure-material-decay-joll/",
-      "excerpt": "joll replaces a temporary pleasure with a pvc replica designed to endure.\nThe post plastic ice cream traces the contrasting timelines of fleeting pleasure and material decay appeared first on designbo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/joll-400-year-ice-cream-pvc-plastic-material-decay-designboom-1200-1.jpg",
       "today": true
     },
     {
