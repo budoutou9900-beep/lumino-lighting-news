@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  13:47",
+  "fetchedAt": "2026.07.30  15:48",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "sortiraparis.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,19 +37,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -61,9 +61,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -88,15 +92,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.07.30",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.30",
@@ -107,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.07.30",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -148,6 +143,35 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.30",
+      "title": "A new collaboration sees Ralph Lauren unite with the quilters of Gee’s Bend, Alabama",
+      "url": "https://www.wallpaper.com/fashion-beauty/ralph-lauren-gees-bend-quilt-collaboration",
+      "excerpt": "Part of the brand’s ‘Artist in Residence’ programme, which celebrates traditional American craft, the collaboration sees two original quilts reimagined as clothing and homeware",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HvXTWC3WgWJEMPShobX2DQ-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Streetwear informed by hip-hop among projects from the Lebanese American University",
+      "url": "https://www.dezeen.com/2026/07/30/streetwear-hip-hop-projects-lebanese-american-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a clothing line informed by hip-hop music and the work of fashion designer Dapper Dan is among projects from the Lebanese American University. Also featured are handover pieces de",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "studio frank havermans frames 500-year-old dutch house with timber scaffolding structures",
+      "url": "https://www.designboom.com/art/studio-frank-havermans-500-year-old-dutch-house-timber-scaffolding-structures-besiendershuis-nijmegen/",
+      "excerpt": "a temporary architectural installation embraces the historic structure of a 500-year-old heritage house in the netherlands is brought into focus by a temporary architectural installation that embraces",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/studio-frank-havermans-500-year-old-besiendershuis-nijmegen-netherlands-timber-scaffolding-installations-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
       "title": "‘Precision with soul’: Cubitts sets up shop in Manchester with a store that celebrates the city",
       "url": "https://www.wallpaper.com/design-interiors/cubitts-manchester-store-opening-youth-studio",
       "excerpt": "The eyewear company collaborates with Manchester design studio Youth to create a shop that respects the building’s past while reflecting the city’s future",
@@ -170,7 +194,7 @@ window.LUMINO_DATA = {
       "date": "2026.07.30",
       "title": "‘The Nue Black Aesthetic’ maps the diasporic voices shaping design today",
       "url": "https://www.wallpaper.com/design-interiors/design-events/the-nue-black-aesthetic-maps-the-diasporic-voices-shaping-design-today",
-      "excerpt": "London Design Museum announces a new exhibition (6 November 2026 to 8 August 2027) bringing together 16 contemporary Black designers; guest curator Charlene Prempeh tells us about exploring identity, ",
+      "excerpt": "The Design Museum in London announces a new exhibition (6 November 2026 to 8 August 2027) bringing together 16 contemporary Black designers; guest curator Charlene Prempeh tells us about exploring ide",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wpe4uVFNLPtnupbFVmRLb8-1920-80.jpg",
       "today": true
     },
@@ -223,6 +247,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "NYMA Water Tower / Eek en Dekkers",
+      "url": "https://www.archdaily.com/1181656/nyma-water-tower-eek-en-dekkers",
+      "excerpt": "The adaptive reuse of the NYMA Water Tower demonstrates how industrial heritage can be transformed into a vibrant destination while preserving its unique historical identity. Once an essential part of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/2c22/d865/3d00/014d/0639/large_jpg/260605_Eek_Dekkers_Nyma-7.jpg?1785146529",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -241,16 +275,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "The new Audi Q9 is a flagship SUV that’s betting big on scale, comfort and technology",
-      "url": "https://www.wallpaper.com/transportation/audi-q9-suv",
-      "excerpt": "Is bigger better? Audi certainly seems to think so. The company’s new Q9 SUV is the largest model it has ever built, with interior accommodation and equipment to match",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5J9EPB4MGj8Aip8Fv4vuhW-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -258,15 +282,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/mcdonalds-china-backpack-dedicated-side-pockets-fries/",
       "excerpt": "inspired by mcdonald’s takeaway packaging, the oversized backpack features fries-carton side pockets, a ketchup compartment, and an oversized receipt.\nThe post this mcdonald’s backpack comes with dedi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mcdonalds-china-backpack-dedicated-side-pockets-fries-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "Industrial-style technology museum set to be built in Bengaluru",
-      "url": "https://www.dezeen.com/2026/07/30/bengaluru-museum-innovation-startup-technology/",
-      "excerpt": "Plans have been announced for a technology and innovation museum in Bengaluru, India, designed by a consortium of architects led by Dublin-based Heneghan Peng Architects. Designed by Heneghan Peng Arc",
       "today": true
     },
     {
@@ -320,26 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "19 New UNESCO World Heritage Sites and the Restoration of Hollywood's Cinerama Dome: This Week's Review",
-      "url": "https://www.archdaily.com/1181852/19-new-unesco-world-heritage-sites-and-the-restoration-of-hollywoods-cinerama-dome-this-weeks-review",
-      "excerpt": "This week was marked by recognition and major announcements for the cultural industry. Amid international reports of both deliberate and natural destruction, UNESCO added 25 new sites of Outstanding U",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/94d7/0364/d201/89e9/6ec6/large_jpg/this-weeks-review_6.jpg?1785369826",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "black resin, glass, and steel shape alessandro isola’s automotive sanctuary in italy",
-      "url": "https://www.designboom.com/architecture/black-resin-glass-steel-alessandro-isola-automotive-sanctuary-italy/",
-      "excerpt": "displayed cars gradually appear and disappear along the circulation sequence.\nThe post black resin, glass, and steel shape alessandro isola’s automotive sanctuary in italy appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/alessandro-isola-automotive-collection-silence-speed-italy-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -357,6 +352,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260729",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -499,6 +504,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -526,6 +541,36 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     }
   ]
