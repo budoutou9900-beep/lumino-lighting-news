@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  02:27",
+  "fetchedAt": "2026.07.30  05:35",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,45 +33,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -93,16 +89,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.30",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
       "today": true
     },
     {
@@ -154,6 +140,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Yinka Ilori’s new book gives his celebrated chairs a voice",
+      "url": "https://www.wallpaper.com/design-interiors/yinka-ilori-chairman-book-review",
+      "excerpt": "‘Chairman’ reveals how one of design’s most familiar objects became the starting point for more than a decade of work",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hyyL9CeH5ehudcgXx5UBnJ-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Island Records and EMI’s London HQ is designed like an art museum",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/island-records-emi-offices-london-interiors",
+      "excerpt": "At the new Island Records and EMI King’s Cross office, works by Annie Leibovitz, Thierry Noir, Jeremy Deller, Corbin Shaw, and Anton Corbijn are housed in a space by Interesting Projects",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FMNVSPUSr7Vss4GjbL56uS-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "black resin, glass, and steel shape alessandro isola’s automotive sanctuary in italy",
+      "url": "https://www.designboom.com/architecture/black-resin-glass-steel-alessandro-isola-automotive-sanctuary-italy/",
+      "excerpt": "displayed cars gradually appear and disappear along the circulation sequence.\nThe post black resin, glass, and steel shape alessandro isola’s automotive sanctuary in italy appeared first on designboom",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/alessandro-isola-automotive-collection-silence-speed-italy-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -171,6 +187,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/perforated-terracotta-screens-naq-architecture-breezy-vinh-long-house-vietnam/",
       "excerpt": "screens of recycled terracotta bricks draw shade and air through this narrow vietnamese vacation house.\nThe post perforated terracotta screens cool NAQ architecture’s breezy vĩnh long house appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vinh-long-house-NAQ-architecture-vietnam-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.29",
+      "title": "JDD creates customisable British-made office furniture using Autodesk Fusion",
+      "url": "https://www.dezeen.com/2026/07/29/autodesk-fusion/",
+      "excerpt": "Promotion: British furniture maker Joint Design Direction has used Autodesk's Fusion software to help expand its offering of homegrown workplace furniture, including a sleep pod that hides a full-size",
       "today": false
     },
     {
@@ -290,36 +315,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "The Design Drop: 12 launches we love this month",
-      "url": "https://www.wallpaper.com/design-interiors/best-design-launches-july-2026",
-      "excerpt": "From a redressed 1970s sofa to the scent of the summer, we round up the design objects we couldn’t stop thinking about this month",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zZgesQXqeu55BGyg3q8CQ-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "curved curtain and modular furniture reshape shanghai interior workshop and pop-up",
-      "url": "https://www.designboom.com/architecture/curved-curtain-modular-furniture-shanghai-interior-workshop-pop-up-atelier-siyu/",
-      "excerpt": "alternating conditions of enclosure and openness shape the interior sequence.\nThe post curved curtain and modular furniture reshape shanghai interior workshop and pop-up appeared first on designboom |",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/atelier-siyu-society-of-home-workshop-pop-up-shanghai-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Three modernist icons have been added to Unesco’s World Heritage List",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/unesco-world-heritage-list-modernist-additions",
-      "excerpt": "Unesco’s World Heritage Committee has added 25 new sites to its prestigious list – among them, modernist landmarks in Finland, Poland and Uzbekistan mark a growing shift towards recognising 20th-centu",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CxS26fvUjJKiLUDzZVef2P-800-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -337,15 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181702/sono-atelier-carle",
       "excerpt": "This residence organically articulates a unified composition, oriented toward northern light, framing landscapes found within a vast panorama that opens onto the site. Three long concrete walls of var",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/ae9a/d865/3d00/014d/08fd/large_jpg/SONO_by_Atelier_Carle__Felix_Michaud_02.jpg?1785179828",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Bricolage uses salvaged bricks for self-build home in London",
-      "url": "https://www.dezeen.com/2026/07/29/bricolage-castlands-road-self-build/",
-      "excerpt": "London studio Bricolage has self-built Castlands Road, a house in Lewisham defined by a budget-friendly palette of salvaged bricks and clay blocks. The three-bedroom home was designed and built by Bri",
       "today": false
     },
     {
@@ -585,16 +571,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79548/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.15",
-      "title": "「JAKOBSSON PORTABLE NIGHT EDITION」オンラインストアにて限定発売",
-      "url": "https://www.yamagiwa.co.jp/news/79362/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/JAKOBSSON-PORTABLE-NIGHT-EDITION.jpg",
       "today": false
     }
   ]
