@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  21:02",
+  "fetchedAt": "2026.07.30  23:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Newscast.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "ozmall.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "DNライティング": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -96,16 +92,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Newscast.jp",
-      "cat": "展示・アート",
-      "date": "2026.07.30",
-      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
-      "url": "https://newscast.jp/smart/news/3771574",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.30",
@@ -116,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.07.30",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -145,6 +131,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.30",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -152,6 +147,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/3d-printed-cloak-infrared-cameras-redirected-heat/",
       "excerpt": "free-form aluminum lattice hides irregular objects without leaving suspicious thermal gaps behind.\nThe post 3D printed cloak tricks infrared cameras through carefully redirected heat appeared first on",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/3d-printed-cloak-infrared-cameras-redirected-heat-designboom-1-818x545.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "rhythmic timber and glass pavilion unfolds beneath pecan tree canopy in argentina",
+      "url": "https://www.designboom.com/architecture/rhythmic-timber-glass-pavilion-pecan-tree-canopy-argentina-pabellon-los-troncos-galetto-estudio/",
+      "excerpt": "the open plan shifts between enclosed and landscape-connected configurations.\nThe post rhythmic timber and glass pavilion unfolds beneath pecan tree canopy in argentina appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/pabellon-los-troncos-galetto-estudio-pavilion-tree-canopy-argentina-designboom-1200.jpg",
       "today": true
     },
     {
@@ -277,16 +282,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/the-nue-black-aesthetic-maps-the-diasporic-voices-shaping-design-today",
       "excerpt": "The Design Museum in London announces a new exhibition (6 November 2026 to 8 August 2027) bringing together 16 contemporary Black designers; guest curator Charlene Prempeh tells us about exploring ide",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wpe4uVFNLPtnupbFVmRLb8-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "dan ortiz leizman adds strings to the monobloc chair, turning it into a playable instrument",
-      "url": "https://www.designboom.com/art/dan-ortiz-leizman-strings-monobloc-chair-playable-instrument-interview/",
-      "excerpt": "MONOBLOC HARPS reimagines the familiar plastic chair as a string instrument to explore collective memory, grief, and the unexpected lives of everyday objects.\nThe post dan ortiz leizman adds strings t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/dan-ortiz-leizman-strings-monobloc-chair-playable-instrument-interview-designboom-1200.jpg",
       "today": true
     },
     {
