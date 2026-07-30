@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  08:14",
+  "fetchedAt": "2026.07.30  11:03",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -143,10 +143,106 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.30",
-      "title": "Discover this upstate São Paulo home where the landscape design isn’t an afterthought",
-      "url": "https://www.wallpaper.com/architecture/residential/sl-house-upstate-sao-paulo-home-padovani-brazil",
-      "excerpt": "SL House by Padovani Arquitetos boasts a harmonious relationship between architecture, nature, and wellbeing",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/v9EK9sRsoqfdHZ2bwjx93W-2560-80.jpg",
+      "title": "‘The Nue Black Aesthetic’ maps the diasporic voices shaping design today",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/the-nue-black-aesthetic-maps-the-diasporic-voices-shaping-design-today",
+      "excerpt": "At London’s Design Museum, guest curator Charlene Prempeh brings together 16 contemporary Black designers in an exhibition exploring identity, the diaspora and who gets to shape the design canon",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wpe4uVFNLPtnupbFVmRLb8-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "dan ortiz leizman adds strings to the monobloc chair, turning it into a playable instrument",
+      "url": "https://www.designboom.com/art/dan-ortiz-leizman-strings-monobloc-chair-playable-instrument-interview/",
+      "excerpt": "MONOBLOC HARPS reimagines the familiar plastic chair as a string instrument to explore collective memory, grief, and the unexpected lives of everyday objects.\nThe post dan ortiz leizman adds strings t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/dan-ortiz-leizman-strings-monobloc-chair-playable-instrument-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Rearrangeable cedar logs fill walls of Nanhai Buddha Pavilion in China by DoDesign",
+      "url": "https://www.dezeen.com/2026/07/30/nanhai-buddha-pavilion-dodesign/",
+      "excerpt": "﻿Local architecture studio DoDesign has completed the Nanhai Buddha Pavilion in Chongqing, China, creating a shelter with gridded metal walls that are filled with thousands of loose cedar logs. The or",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Check into Hôtel de Crillon, Paris’ timeless palace hotel",
+      "url": "https://www.wallpaper.com/travel/hotels/hotel-de-crillon-paris-review",
+      "excerpt": "Paris’ luxury hotel scene has evolved dramatically over the past decade, but Hôtel de Crillon remains one of the French capital’s defining addresses",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MSxChXcB9RpHvBWLb9Kern-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "subconscious spaces: tracking the invisible energy that gives architecture its soul",
+      "url": "https://www.designboom.com/architecture/subconscious-spaces-invisible-energy-room-for-dreams-podcast/",
+      "excerpt": "tune in to the series finale of the room for dreams podcast to explore the unseen atmospheric energy that give architecture emotional weight.\nThe post subconscious spaces: tracking the invisible energ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-room-for-dreams-podcast-11-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Girlguiding redesigns uniform \"to be styled any way the girls want\"",
+      "url": "https://www.dezeen.com/2026/07/30/girlguiding-redesigns-uniform-styled-any-way/",
+      "excerpt": "British youth organisation Girlguiding has unveiled the first update to its formerly regimented uniform in 30 years, intended to allow more freedom of expression. Completed in collaboration with Londo",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Flo wall light by Soktas",
+      "url": "https://www.dezeen.com/2026/07/30/flo-wall-light-soktas-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Australian design brand Soktas has released a sculptural wall lamp with a fluid glass shade mounted onto a metal plate. Flo is intended for use in bedrooms, bathrooms and living areas",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "The new Audi Q9 is a flagship SUV that’s betting big on scale, comfort and technology",
+      "url": "https://www.wallpaper.com/transportation/audi-q9-suv",
+      "excerpt": "Is bigger better? Audi certainly seems to think so. The company’s new Q9 SUV is the largest model it has ever built, with interior accommodation and equipment to match",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5J9EPB4MGj8Aip8Fv4vuhW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "this mcdonald’s backpack comes with dedicated side pockets to carry your fries",
+      "url": "https://www.designboom.com/design/mcdonalds-china-backpack-dedicated-side-pockets-fries/",
+      "excerpt": "inspired by mcdonald’s takeaway packaging, the oversized backpack features fries-carton side pockets, a ketchup compartment, and an oversized receipt.\nThe post this mcdonald’s backpack comes with dedi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mcdonalds-china-backpack-dedicated-side-pockets-fries-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Industrial-style technology museum set to be built in Bengaluru",
+      "url": "https://www.dezeen.com/2026/07/30/bengaluru-museum-innovation-startup-technology/",
+      "excerpt": "Plans have been announced for a technology and innovation museum in Bengaluru, India, designed by a consortium of architects led by Dublin-based Heneghan Peng Architects. Designed by Heneghan Peng Arc",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "TAG Heuer nods to vintage Japanese motorsports with the new Carrera Chronograph x Team Ikuzawa",
+      "url": "https://www.wallpaper.com/watches-jewellery/tag-heuer-carrera-chronograph-x-team-ikuzawa",
+      "excerpt": "TAG Heuer unveils its second collaboration with Team Ikuzawa and Bamford Watch Department, taking cues from a vintage Roadster stopwatch",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/h3yq3naT2AsWy8JcdwLHxY-2560-80.jpg",
       "today": true
     },
     {
@@ -155,18 +251,8 @@ window.LUMINO_DATA = {
       "date": "2026.07.30",
       "title": "The New Balance factory is updated with a restorative outdoor space for workers",
       "url": "https://www.wallpaper.com/design-interiors/new-balance-factory-graden--bleue-burnham",
-      "excerpt": "New Balance and jewellery designer Bleue Burnham collaborate on a new horticultural project for its factory in Cumbria,  a reflection of the footwear brand's belief that exceptional craftsmanship begi",
+      "excerpt": "New Balance and jewellery designer Bleue Burnham collaborate on a new horticultural project for its factory in Cumbria, a reflection of the footwear brand’s belief that exceptional craftsmanship begin",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yvQ4GbWMYYJkwZYTXzsvDk-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "KEF’s new LS LUXE speakers feature the trademark fluid forms of Ross Lovegrove",
-      "url": "https://www.wallpaper.com/tech/kefs-new-ls-luxe-speakers-feature-the-trademark-fluid-forms-of-ross-lovegrove",
-      "excerpt": "The new LS LUXE wireless speakers from KEF are a clear expression of Lovegrove’s school of emotive, sculptural design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6EZQ8STw6sToP9gx4tZEF6-2560-80.jpg",
       "today": true
     },
     {
@@ -180,23 +266,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.30",
-      "title": "Yinka Ilori’s new book gives his celebrated chairs a voice",
-      "url": "https://www.wallpaper.com/design-interiors/yinka-ilori-chairman-book-review",
-      "excerpt": "‘Chairman’ reveals how one of design’s most familiar objects became the starting point for more than a decade of work",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hyyL9CeH5ehudcgXx5UBnJ-1920-80.jpg",
+      "title": "Sawtooth House / Francesco Pierazzi Architects",
+      "url": "https://www.archdaily.com/1181754/sawtooth-house-francesco-pierazzi-architects",
+      "excerpt": "Sawtooth House transforms a Victorian terrace in Kingston upon Thames through the replacement of an outdated rear extension with a contemporary addition inspired by the town's industrial heritage. Rat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/ba69/d865/3d00/014d/0d0a/large_jpg/_DSF5688.jpg?1785248420",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.30",
-      "title": "Island Records and EMI’s London HQ is designed like an art museum",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/island-records-emi-offices-london-interiors",
-      "excerpt": "At the new Island Records and EMI King’s Cross office, works by Annie Leibovitz, Thierry Noir, Jeremy Deller, Corbin Shaw, and Anton Corbijn are housed in a space by Interesting Projects",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FMNVSPUSr7Vss4GjbL56uS-2560-80.jpg",
+      "title": "19 New UNESCO World Heritage Sites and the Restoration of Hollywood's Cinerama Dome: This Week's Review",
+      "url": "https://www.archdaily.com/1181852/19-new-unesco-world-heritage-sites-and-the-restoration-of-hollywoods-cinerama-dome-this-weeks-review",
+      "excerpt": "This week was marked by recognition and major announcements for the cultural industry. Amid international reports of both deliberate and natural destruction, UNESCO added 25 new sites of Outstanding U",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/94d7/0364/d201/89e9/6ec6/large_jpg/this-weeks-review_6.jpg?1785369826",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Wing-See Yau designs Tamagotchi-like toy to help make reading fun",
+      "url": "https://www.dezeen.com/2026/07/30/wing-see-yau-tamagotchi-like-toy-make-reading-fun/",
+      "excerpt": "Brunel University graduate Wing-See Yau has designed Yomi, a device that encourages children to read by linking their progress to the growth of digital pets. Yomi is a compact device that converts rea",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "What Is Metamodern Architecture? Between Postmodern Irony and a New Sincerity",
+      "url": "https://www.archdaily.com/1181280/what-is-metamodern-architecture-between-postmodern-irony-and-a-new-sincerity",
+      "excerpt": "In a slim volume with a yellow-edged cover, recently published by the Porto-based imprint Circo de Ideias, the architect Paulo Martins Barata (a founding partner of Promontório) makes a deceptively bo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/2adf/3d21/f756/1291/f759/large_jpg/what-is-metamodern-architecture-between-postmodern-irony-and-a-new-sincerity_3.jpg?1784556264",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Bring Up Midori Children’s Development Center / OOOarchitecture",
+      "url": "https://www.archdaily.com/1181781/bring-up-midori-childrens-development-center-oooarchitecture",
+      "excerpt": "The Bring Up Midori Children's Development Center reimagines therapeutic architecture as a landscape of discovery, where children with developmental disabilities are invited to engage with the world t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/83f9/d865/3d00/014d/0ef7/large_jpg/Midori-CDC_01.jpg?1785300000",
       "today": true
     },
     {
@@ -218,121 +333,6 @@ window.LUMINO_DATA = {
       "excerpt": "This project is a small hideaway house harmoniously integrated into its natural surroundings of woods and streams. The location, just an hour away from Seoul, offers a unique opportunity to experience",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/1dd6/f4d2/6d01/88b1/7662/large_jpg/mueonga-house-snow-aide_18.jpg?1785339359",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "the right to rest: how cities make room for play",
-      "url": "https://www.designboom.com/architecture/right-rest-room-play-architecture-leisure/",
-      "excerpt": "public pools and playful landscapes give rest a permanent place within cities often shaped to prioritize work and consumption.\nThe post the right to rest: how cities make room for play appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/architecture-leisure-play-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "perforated terracotta screens cool NAQ architecture’s breezy vĩnh long house",
-      "url": "https://www.designboom.com/architecture/perforated-terracotta-screens-naq-architecture-breezy-vinh-long-house-vietnam/",
-      "excerpt": "screens of recycled terracotta bricks draw shade and air through this narrow vietnamese vacation house.\nThe post perforated terracotta screens cool NAQ architecture’s breezy vĩnh long house appeared f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vinh-long-house-NAQ-architecture-vietnam-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "JDD creates customisable British-made office furniture using Autodesk Fusion",
-      "url": "https://www.dezeen.com/2026/07/29/autodesk-fusion/",
-      "excerpt": "Promotion: British furniture maker Joint Design Direction has used Autodesk's Fusion software to help expand its offering of homegrown workplace furniture, including a sleep pod that hides a full-size",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Catalejo / Tololo Ugarte",
-      "url": "https://www.archdaily.com/1023045/catalejo-tololo-ugarte",
-      "excerpt": "Catalejo is a work of architecture that arises from its context. Upon first encountering the land, a point of interest was immediately evident: a kind of oasis of four trees over 300 years old. The re",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6724/0ba9/3dfd/b406/b9cb/79cd/large_jpg/catalejo-tololo-ugarte_1.jpg?1730415552",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Images show near-complete prototype of swimming pool designed to float in New York river",
-      "url": "https://www.dezeen.com/2026/07/29/floating-plus-pool-pilot-nearing-completion-construction/",
-      "excerpt": "The first phase of a floating pool planned for the East River is nearing completion in Brooklyn, with a barge and an infiltration system designed to clean river water as it flows into the structure. T",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "aalto works, rock-cut mosques and modernist cities join UNESCO’s 2026 world heritage list",
-      "url": "https://www.designboom.com/architecture/aalto-works-mosques-modernist-cities-join-unesco-2026-world-heritage-list/",
-      "excerpt": "UNESCO expands its world heritage list with landscapes and built space, and includes three african nations for the first time.\nThe post aalto works, rock-cut mosques and modernist cities join UNESCO’s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/unesco-world-heritage-sites-2026-additions-designboom-FB1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Two colours of brick give Quebec apartment building \"painterly dimension\"",
-      "url": "https://www.dezeen.com/2026/07/29/acdf-architecture-completes-red-white-quebec-apartment-building/",
-      "excerpt": "Montreal-based studio ACDF Architecture has rounded select corners of an apartment building in Quebec, Canada, and used a two-tone brick cladding system to create an interesting optical effect. Known ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Caju Apartment / CODA Arquitetura",
-      "url": "https://www.archdaily.com/1181847/caju-apartment-coda-arquitetura",
-      "excerpt": "The project was initially conceived for a client looking to build her first home, with the capacity to host occasional guests and welcome family and friends in a spacious social area. Due to personal ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/de73/d865/3d00/014d/0e1b/large_jpg/5I0A6480-corrigida.jpg?1785257610",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Desire to \"make the stadium lighter\" drove design of Hangzhou Sports Center",
-      "url": "https://www.dezeen.com/2026/07/29/nbbj-hangzhou-sports-center-stadium-case-study/",
-      "excerpt": "Next up in our Future Stadium series, we take a look at Hangzhou Sports Center in China, a flower-like stadium designed by American studio NBBJ to use less steel and complement the surrounding city's ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Interior designed to support autistic children among Canadian University Dubai projects",
-      "url": "https://www.dezeen.com/2026/07/29/adaptable-learning-environments-inclusive-canadian-university-dubai-schoolshows/",
-      "excerpt": "Dezeen School Shows: an interior project that provides an encouraging space to foster the talent and growth of autistic children is among the projects by Canadian University Dubai. Also featured is an",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "RB Tapalpa Cabin / ALMA de Arquitectos",
-      "url": "https://www.archdaily.com/1181843/rb-tapalpa-cabin-alma-de-arquitectos",
-      "excerpt": "On a steeply sloping plot of 38,750 square feet (3,600 m²), surrounded by the Tapalpa forest and offering privileged views of the Tapalpa valley, lies a vacation cabin with a building footprint of onl",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/b3cf/d865/3d00/014d/099a/large_jpg/CESAR_BELIO_13.jpg?1785181181",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Mooca House / André Guerra Arquitetos",
-      "url": "https://www.archdaily.com/1181767/mooca-house-andre-guerra-arquitetos",
-      "excerpt": "The renovation of the Mooca House is based on respect for the existing structure, proposing a contemporary reading without erasing the past, but rather revealing and reinterpreting elements already pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/d74e/d865/3d00/014d/0d51/large_jpg/03_Vista_posterior__manuel_sa.jpg?1785255802",
-      "today": false
     },
     {
       "source": "大光電機",
