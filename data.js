@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  05:35",
+  "fetchedAt": "2026.07.30  08:14",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -143,6 +143,46 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.30",
+      "title": "Discover this upstate São Paulo home where the landscape design isn’t an afterthought",
+      "url": "https://www.wallpaper.com/architecture/residential/sl-house-upstate-sao-paulo-home-padovani-brazil",
+      "excerpt": "SL House by Padovani Arquitetos boasts a harmonious relationship between architecture, nature, and wellbeing",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/v9EK9sRsoqfdHZ2bwjx93W-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "The New Balance factory is updated with a restorative outdoor space for workers",
+      "url": "https://www.wallpaper.com/design-interiors/new-balance-factory-graden--bleue-burnham",
+      "excerpt": "New Balance and jewellery designer Bleue Burnham collaborate on a new horticultural project for its factory in Cumbria,  a reflection of the footwear brand's belief that exceptional craftsmanship begi",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yvQ4GbWMYYJkwZYTXzsvDk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "KEF’s new LS LUXE speakers feature the trademark fluid forms of Ross Lovegrove",
+      "url": "https://www.wallpaper.com/tech/kefs-new-ls-luxe-speakers-feature-the-trademark-fluid-forms-of-ross-lovegrove",
+      "excerpt": "The new LS LUXE wireless speakers from KEF are a clear expression of Lovegrove’s school of emotive, sculptural design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6EZQ8STw6sToP9gx4tZEF6-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "plastic ice cream traces the contrasting timelines of fleeting pleasure and material decay",
+      "url": "https://www.designboom.com/art/plastic-400-year-ice-cream-contrasting-timelines-fleeting-pleasure-material-decay-joll/",
+      "excerpt": "joll replaces a temporary pleasure with a pvc replica designed to endure.\nThe post plastic ice cream traces the contrasting timelines of fleeting pleasure and material decay appeared first on designbo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/joll-400-year-ice-cream-pvc-plastic-material-decay-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.30",
       "title": "Yinka Ilori’s new book gives his celebrated chairs a voice",
       "url": "https://www.wallpaper.com/design-interiors/yinka-ilori-chairman-book-review",
       "excerpt": "‘Chairman’ reveals how one of design’s most familiar objects became the starting point for more than a decade of work",
@@ -167,6 +207,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/black-resin-glass-steel-alessandro-isola-automotive-sanctuary-italy/",
       "excerpt": "displayed cars gradually appear and disappear along the circulation sequence.\nThe post black resin, glass, and steel shape alessandro isola’s automotive sanctuary in italy appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/alessandro-isola-automotive-collection-silence-speed-italy-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "Mueonga House  / Snow AIDe",
+      "url": "https://www.archdaily.com/1181835/mueonga-house-snow-aide",
+      "excerpt": "This project is a small hideaway house harmoniously integrated into its natural surroundings of woods and streams. The location, just an hour away from Seoul, offers a unique opportunity to experience",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/1dd6/f4d2/6d01/88b1/7662/large_jpg/mueonga-house-snow-aide_18.jpg?1785339359",
       "today": true
     },
     {
@@ -209,16 +259,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "From Venice to Sicily, these are Italy’s most exciting new hotels",
-      "url": "https://www.wallpaper.com/travel/hotels/best-new-hotels-italy",
-      "excerpt": "Italy’s best new hotels for 2026 include revived palazzi, mountain hideaways, beachside takeovers and grand names entering a new chapter",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yPkfDuy7Hpw2KWsrF7xSt9-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -257,32 +297,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "Refik Anadol’s first monograph traces the process and evolution of his digital art",
-      "url": "https://www.wallpaper.com/art/refik-anadol-book-review",
-      "excerpt": "Published to accompany a new exhibition of the artist’s work, the book explores the painterly side of working with data and artificial intelligence",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KKRfgknhZ78uv6E7EVceQG-1422-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.29",
       "title": "Desire to \"make the stadium lighter\" drove design of Hangzhou Sports Center",
       "url": "https://www.dezeen.com/2026/07/29/nbbj-hangzhou-sports-center-stadium-case-study/",
       "excerpt": "Next up in our Future Stadium series, we take a look at Hangzhou Sports Center in China, a flower-like stadium designed by American studio NBBJ to use less steel and complement the surrounding city's ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "vollebak prepares for the end times with its yellow trench coat made from protective rubber",
-      "url": "https://www.designboom.com/technology/vollebak-yellow-trench-coat-protective-rubber-fwahbl-jacket/",
-      "excerpt": "the limited-edition yellow trench coat uses double-faced polychloroprene rubber engineered to resist chemicals, oils, ozone, flame and weathering.\nThe post vollebak prepares for the end times with its",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vollebak-yellow-trench-coat-protective-rubber-fwahbl-jacket-designboom-7.jpg",
       "today": false
     },
     {
@@ -305,16 +325,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "‘Cinephiles are the best storytellers’: inside the LA offices of Neon Rated, designed to capture the ethos of filmmaking",
-      "url": "https://www.wallpaper.com/design-interiors/neon-rated-offices-los-angeles-studio-muka",
-      "excerpt": "The offices of boundary-pushing LA film production company Neon Rated by Studio Muka reference old Hollywood and cinematic storytelling through a design lens",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YQCgBmqhCF78rFfJWzmhKZ-1920-80.png",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.29",
@@ -322,16 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181767/mooca-house-andre-guerra-arquitetos",
       "excerpt": "The renovation of the Mooca House is based on respect for the existing structure, proposing a contemporary reading without erasing the past, but rather revealing and reinterpreting elements already pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/d74e/d865/3d00/014d/0d51/large_jpg/03_Vista_posterior__manuel_sa.jpg?1785255802",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.29",
-      "title": "SONO House / Atelier Carle",
-      "url": "https://www.archdaily.com/1181702/sono-atelier-carle",
-      "excerpt": "This residence organically articulates a unified composition, oriented toward northern light, framing landscapes found within a vast panorama that opens onto the site. Three long concrete walls of var",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/ae9a/d865/3d00/014d/08fd/large_jpg/SONO_by_Atelier_Carle__Felix_Michaud_02.jpg?1785179828",
       "today": false
     },
     {
