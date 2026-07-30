@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.30  19:17",
+  "fetchedAt": "2026.07.30  21:02",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Newscast.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,41 +33,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,6 +96,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Newscast.jp",
+      "cat": "展示・アート",
+      "date": "2026.07.30",
+      "title": "紅葉×クリスマスがコラボする唯一の場所「神戸布引ハーブ園」 今年は『布引の紅葉』のライトアップを大規模に開催！ 【開催期間：11月8日(土)～12月上旬】",
+      "url": "https://newscast.jp/smart/news/3771574",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.atpress.ne.jp/attachments/DSR3ysoMIVqI1zF7A5EV.jpg",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.30",
@@ -99,6 +113,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.30",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -112,15 +135,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.07.30",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.30",
@@ -131,12 +145,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.30",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "3D printed cloak tricks infrared cameras through carefully redirected heat",
+      "url": "https://www.designboom.com/technology/3d-printed-cloak-infrared-cameras-redirected-heat/",
+      "excerpt": "free-form aluminum lattice hides irregular objects without leaving suspicious thermal gaps behind.\nThe post 3D printed cloak tricks infrared cameras through carefully redirected heat appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/3d-printed-cloak-infrared-cameras-redirected-heat-designboom-1-818x545.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "officina82 reimagines traditional italian hay barn as timber treetop retreat in ligurian alps",
+      "url": "https://www.designboom.com/architecture/officina82-traditional-italian-hay-barn-timber-treetop-retreat-ligurian-alps/",
+      "excerpt": "full-height glazing, suspended net and compact sleeping platform shape treeBOX above selucente’s restored alpine hamlet.\nThe post officina82 reimagines traditional italian hay barn as timber treetop r",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/officina82-traditional-italian-hay-barn-timber-treetop-retreat-ligurian-alps-designboom-0233.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "SPF Architects wraps Los Angeles house in asphalt shingles for fire protection",
+      "url": "https://www.dezeen.com/2026/07/30/mountain-residence-california-spf-architects/",
+      "excerpt": "The husband-and-wife founders of California studio SPF Architects have renovated their octagonal house in the Santa Monica Mountains and added elements to protect it against wildfire. Called the Mount",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.30",
+      "title": "studio frank havermans frames 500-year-old dutch house with timber scaffolding structures",
+      "url": "https://www.designboom.com/art/studio-frank-havermans-500-year-old-dutch-house-timber-scaffolding-structures-besiendershuis-nijmegen/",
+      "excerpt": "a temporary architectural installation embraces the historic structure of a 500-year-old heritage house in the netherlands is brought into focus by a temporary architectural installation that embraces",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/studio-frank-havermans-500-year-old-besiendershuis-nijmegen-netherlands-timber-scaffolding-installations-designboom-1200.jpg",
       "today": true
     },
     {
@@ -206,16 +250,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "studio frank havermans frames 500-year-old dutch house with timber scaffolding structures",
-      "url": "https://www.designboom.com/art/studio-frank-havermans-500-year-old-dutch-house-timber-scaffolding-structures-besiendershuis-nijmegen/",
-      "excerpt": "a temporary architectural installation embraces the historic structure of a 500-year-old heritage house in the netherlands is brought into focus by a temporary architectural installation that embraces",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/studio-frank-havermans-500-year-old-besiendershuis-nijmegen-netherlands-timber-scaffolding-installations-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -256,25 +290,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "Rearrangeable cedar logs fill walls of Nanhai Buddha Pavilion in China by DoDesign",
-      "url": "https://www.dezeen.com/2026/07/30/nanhai-buddha-pavilion-dodesign/",
-      "excerpt": "﻿Local architecture studio DoDesign has completed the Nanhai Buddha Pavilion in Chongqing, China, creating a shelter with gridded metal walls that are filled with thousands of loose cedar logs. The or",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "subconscious spaces: tracking the invisible energy that gives architecture its soul",
-      "url": "https://www.designboom.com/architecture/subconscious-spaces-invisible-energy-room-for-dreams-podcast/",
-      "excerpt": "tune in to the series finale of the room for dreams podcast to explore the unseen atmospheric energy that give architecture emotional weight.\nThe post subconscious spaces: tracking the invisible energ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/indx-room-for-dreams-podcast-11-designboom-FB.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.30",
@@ -282,16 +297,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181656/nyma-water-tower-eek-en-dekkers",
       "excerpt": "The adaptive reuse of the NYMA Water Tower demonstrates how industrial heritage can be transformed into a vibrant destination while preserving its unique historical identity. Once an essential part of",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/2c22/d865/3d00/014d/0639/large_jpg/260605_Eek_Dekkers_Nyma-7.jpg?1785146529",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "this mcdonald’s backpack comes with dedicated side pockets to carry your fries",
-      "url": "https://www.designboom.com/design/mcdonalds-china-backpack-dedicated-side-pockets-fries/",
-      "excerpt": "inspired by mcdonald’s takeaway packaging, the oversized backpack features fries-carton side pockets, a ketchup compartment, and an oversized receipt.\nThe post this mcdonald’s backpack comes with dedi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/mcdonalds-china-backpack-dedicated-side-pockets-fries-designboom-1200.jpg",
       "today": true
     },
     {
