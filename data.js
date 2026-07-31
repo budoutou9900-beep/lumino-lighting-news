@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.31  19:17",
+  "fetchedAt": "2026.07.31  20:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,59 +9,59 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "adfwebmagazine.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "レッツエンジョイ東京": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -92,15 +92,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
-      "cat": "賞・コンペ",
-      "date": "2026.07.31",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.07.31",
@@ -121,22 +112,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.31",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.07.31",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
@@ -147,6 +128,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.07.31",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "ukyo X blends café, listening bar, and co-working inside restored historic interior in romania",
+      "url": "https://www.designboom.com/architecture/ukyo-x-cafe-listening-bar-co-working-restored-historic-interior-romania-in-still/",
+      "excerpt": "a modular furniture system supports the program’s flexibility, enabling the layout to accommodate different group sizes and patterns of occupation.\nThe post ukyo X blends café, listening bar, and co-w",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ukyo-x-in-still-cluj-napoca-romania-hybrid-cafe-listening-bar-cultural-space-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -166,6 +166,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
       "excerpt": "public comments will help shape a shortlist for two monumental commissions planned for 2029 and 2030.\nThe post from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/high-line-plinth-artist-commissions-competition-fall-2027-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "R.I. House / Infante Poblete Montt",
+      "url": "https://www.archdaily.com/1181869/ri-house-infante-poblete-montt",
+      "excerpt": "From the top of El Morro hill, this house acts as a suspended lookout, peering over the trees and rocks to capture the majestic view of the entire Zapallar bay in a single gesture.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/225e/1801/ca00/0176/e00f/large_jpg/CA_RI_IPM_06.jpg?1785406306",
       "today": true
     },
     {
@@ -195,6 +205,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/sao-paulo-apartment-clara-nahas",
       "excerpt": "Designer Clara Nahas transforms a studio space into a tribute to her late pianist mother – built, like a semibreve note, to resonate",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MZgYvKcBiN8jVWNgbk3r2R-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Raconte-moi un secret Installation / coletivo 624",
+      "url": "https://www.archdaily.com/1182027/raconte-moi-un-secret-installation-coletivo-624",
+      "excerpt": "\"Raconte-moi un secret\" is an interactive sound installation that invites the public to share and listen to anonymous confessions, transforming individual experiences into a collective, ever-evolving ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/523a/1801/ca00/0176/e13a/large_jpg/raconte-moi_un_secret_06_Paul_Kozlowski_.jpg?1785418321",
       "today": true
     },
     {
@@ -305,36 +325,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Glideology Deliberations on Traffic and Reimagining Urban Space",
-      "url": "https://www.archdaily.com/1181981/glideology-deliberations-on-traffic-and-reimagining-urban-space",
-      "excerpt": "This is a book about the amenity that we call streets and how we choose to use them to move about. What makes the street so vitally important today is that it has the capacity to allow for many differ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8d10/1801/ca00/0176/e800/large_jpg/grid.jpg?1785498901",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "casio turns its ring watch into smart wearable with health tracking and notifications",
-      "url": "https://www.designboom.com/technology/casio-ring-watch-smart-wearable-health-tracking-notifications/",
-      "excerpt": "the CRW-H001 combines digital timekeeping with biometric sensors and smartphone connectivity in a finger-sized device.\nThe post casio turns its ring watch into smart wearable with health tracking and ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/casio-ring-watch-smart-wearable-health-tracking-notifications-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Schools at the Border: How Architecture Supports Learning in Conditions of Displacement",
-      "url": "https://www.archdaily.com/1181846/schools-at-the-border-how-architecture-supports-learning-in-conditions-of-displacement",
-      "excerpt": "For millions of displaced children and young people, education unfolds amid conditions of forced mobility, administrative uncertainty, and prolonged precarity. Schools situated in borderlands, refugee",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/3fea/4ea2/e401/8926/6061/large_jpg/architecture-for-learning-at-borders-materiality-participation-and-belonging-in-conditions-of-displacement_1.jpg?1785348087",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -362,6 +352,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260729",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -504,6 +504,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -531,6 +541,36 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "デザイン",
+      "date": "2026.06.19",
+      "title": "「3daysofdesign 2026」初出展レポート",
+      "url": "https://www.yamagiwa.co.jp/news/79548/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     }
   ]
