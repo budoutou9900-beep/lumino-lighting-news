@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.31  12:52",
+  "fetchedAt": "2026.07.31  15:15",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "レッツエンジョイ東京": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,41 +37,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -135,13 +131,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.07.31",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "reclaimed materials and handcrafted finishes reshape historic townhouse in czech republic",
+      "url": "https://www.designboom.com/architecture/reclaimed-materials-handcrafted-finishes-historic-townhouse-czech-republic-obloukova-171-ora/",
+      "excerpt": "the renovated house’s mixed-use program combines guest accommodations, a family retreat, and a craft beer taproom.\nThe post reclaimed materials and handcrafted finishes reshape historic townhouse in c",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/obloukova-171-ora-zatec-czech-republicrenovation-townhouse-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "São Paulo skyscrapers by Königsberger Vannucchi linked by glass skybridge",
+      "url": "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/",
+      "excerpt": "A horizontal glass skybridge connects residential and office skyscrapers at this project by Königsberger Vannucchi Arquitetos Associados in São Paulo to preserve the \"individual reading of each tower ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "In this São Paulo apartment, memories of the designer’s mother encourage lingering and contemplation",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/sao-paulo-apartment-clara-nahas",
+      "excerpt": "Designer Clara Nahas transforms a studio space into a tribute to her late pianist mother – built, like a semibreve note, to resonate",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MZgYvKcBiN8jVWNgbk3r2R-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "This summer’s shield sunglasses block out the sun – and the world",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-shield-sunglasses-ss-2026",
+      "excerpt": "When it comes to sunglasses, bigger is better this summer, with face-shielding styles dominating the runways. We pick eight of the best",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JhrVbwu9LjLbwYP6eHW3UP-1540-80.jpg",
       "today": true
     },
     {
@@ -193,6 +227,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "TreeBOX Cabin / Studio Officina82",
+      "url": "https://www.archdaily.com/1181796/treebox",
+      "excerpt": "TreeBOX – Casa sull'Albero, designed by Studio Officina82, is part of Selucente, an innovative hospitality project centered on the recovery of the alpine hamlet of Alpisella in the Ligurian-Piedmontes",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/e1d1/d865/3d00/014d/1058/large_jpg/TreeBOX_-_Officina82_-_1.jpg?1785324122",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -209,6 +253,26 @@ window.LUMINO_DATA = {
       "title": "Are timber skyscrapers the future?",
       "url": "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
       "excerpt": "Is building tall with timber more than an architectural gimmick? Why is a new robotic hand a big step towards sci-fi becoming reality? And what's special about Dezeen's editor's new tattoo? Listen to ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Coastal MHK Architecture Works From 2009-2014",
+      "url": "https://www.archdaily.com/1181985/coastal-mhk-architecture-works-from-2009-2014",
+      "excerpt": "Coastal is an inspiring exploration of Flonda’s most exquisite high-end and boutique homes where architecture, design, and the spirit of the sea come together. Through stunning photography and captiva",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8d7e/1801/ca00/0176/e830/large_jpg/grid.jpg?1785499011",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Glideology Deliberations on Traffic and Reimagining Urban Space",
+      "url": "https://www.archdaily.com/1181981/glideology-deliberations-on-traffic-and-reimagining-urban-space",
+      "excerpt": "This is a book about the amenity that we call streets and how we choose to use them to move about. What makes the street so vitally important today is that it has the capacity to allow for many differ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8d10/1801/ca00/0176/e800/large_jpg/grid.jpg?1785498901",
       "today": true
     },
     {
@@ -231,12 +295,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.31",
-      "title": "Decoy Font protects messages from being read by AI",
-      "url": "https://www.dezeen.com/2026/07/31/decoy-font-ai-mixfont/",
-      "excerpt": "One message for humans and another for artificial intelligence are contained in the letters of Decoy Font, made by the company Mixfont for those who want to avoid having their data scraped. Decoy Font",
+      "title": "Schools at the Border: How Architecture Supports Learning in Conditions of Displacement",
+      "url": "https://www.archdaily.com/1181846/schools-at-the-border-how-architecture-supports-learning-in-conditions-of-displacement",
+      "excerpt": "For millions of displaced children and young people, education unfolds amid conditions of forced mobility, administrative uncertainty, and prolonged precarity. Schools situated in borderlands, refugee",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/3fea/4ea2/e401/8926/6061/large_jpg/architecture-for-learning-at-borders-materiality-participation-and-belonging-in-conditions-of-displacement_1.jpg?1785348087",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Sotheby’s Global Headquarters at the Breuer / Herzog & de Meuron + PBDW Architects",
+      "url": "https://www.archdaily.com/1181780/sothebys-global-headquarters-at-the-breuer-herzog-and-de-meuron-plus-pbdw-architects",
+      "excerpt": "The restoration of the Breuer building follows a light-touch approach, preserving defining features while introducing subtle upgrades to meet Sotheby's functional and operational needs while honoring ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/69a7/f4d2/6d01/88b1/721c/large_jpg/sothebys-global-headquarter-herzog-and-de-meuron_1.jpg?1785293320",
       "today": true
     },
     {
@@ -250,26 +325,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Aion V is another new Chinese car, this time with a strong Milanese design influence",
-      "url": "https://www.wallpaper.com/transportation/aion-v-review",
-      "excerpt": "Aion is the latest brand to emerge from China’s massive EV market and arrive on European shores",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/osHbosfqNe3ZtJAWTxfQRA-2140-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Drama and minimalism meet in this Osaka house – where all is not what it seems",
-      "url": "https://www.wallpaper.com/architecture/residential/osaka-house-apollo-architects-associates-japan",
-      "excerpt": "Titled ‘Moment’, this house by Apollo Architects & Associates appears modest from the street, but opens up to double-height spatial drama inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MHWCcc99BU2Lnszn7FqKQo-2000-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -278,66 +333,6 @@ window.LUMINO_DATA = {
       "excerpt": "pachapasa studio retains the original house while opening its interior into one continuous dining room.\nThe post lantern-like pavilion and recycled brick bar reshape bangkok house into arvie restauran",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/glowing-lanterns-recycled-brick-arvie-bangkok-restaurant-pachapasa-studio-designboom-1200.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "3D printed cloak tricks infrared cameras through carefully redirected heat",
-      "url": "https://www.designboom.com/technology/3d-printed-cloak-infrared-cameras-redirected-heat/",
-      "excerpt": "free-form aluminum lattice hides irregular objects without leaving suspicious thermal gaps behind.\nThe post 3D printed cloak tricks infrared cameras through carefully redirected heat appeared first on",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/3d-printed-cloak-infrared-cameras-redirected-heat-designboom-1-818x545.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "NYMA Water Tower / Eek en Dekkers",
-      "url": "https://www.archdaily.com/1181656/nyma-water-tower-eek-en-dekkers",
-      "excerpt": "The adaptive reuse of the NYMA Water Tower demonstrates how industrial heritage can be transformed into a vibrant destination while preserving its unique historical identity. Once an essential part of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/2c22/d865/3d00/014d/0639/large_jpg/260605_Eek_Dekkers_Nyma-7.jpg?1785146529",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "“Building a Swiss Watch Out of Concrete”: Clark Construction on LACMA’s David Geffen Galleries",
-      "url": "https://www.archdaily.com/1148587/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries",
-      "excerpt": "The recently opened David Geffen Galleries at LACMA are the result of more than a decade of effort across many fronts: the city, the county, the public, the architect, the engineers, the general contr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a54/ec26/a6cc/5601/89e4/e3c3/large_jpg/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries_6.jpg?1783950381",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "Maida Hill Public Toilet / Studio Weave",
-      "url": "https://www.archdaily.com/1181775/maida-hill-public-toilet-studio-weave",
-      "excerpt": "In Maida Hill, North Paddington, Studio Weave has completed a distinctive building: a small public toilet pavilion composed of reclaimed stone taken from a demolished office building at Broadgate in t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/42a2/f4d2/6d01/88b1/71c3/large_jpg/maida-hill-public-toilet-studio-weave_2.jpg?1785283262",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "Australian Pavilion Explores Multi-Dwelling Housing Through \"Lived In\" at the 2027 Venice Architecture Biennale",
-      "url": "https://www.archdaily.com/1181857/australian-pavilion-explores-multi-dwelling-housing-through-lived-in-at-the-2027-venice-architecture-biennale",
-      "excerpt": "The Australian Institute of Architects has announced \"Lived In\" as Australia's official contribution to the 20th Venice Architecture Biennale, to be held in Venice, Italy, from May 8 to November 21, 2",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/169e/0364/d201/89e9/6f5a/large_jpg/australian-pavilion-explores-multi-dwelling-housing-through-lived-in-at-the-2027-venice-architecture-biennale_1.jpg?1785403047",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.30",
-      "title": "Sawtooth House / Francesco Pierazzi Architects",
-      "url": "https://www.archdaily.com/1181754/sawtooth-house-francesco-pierazzi-architects",
-      "excerpt": "Sawtooth House transforms a Victorian terrace in Kingston upon Thames through the replacement of an outdated rear extension with a contemporary addition inspired by the town's industrial heritage. Rat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/ba69/d865/3d00/014d/0d0a/large_jpg/_DSF5688.jpg?1785248420",
-      "today": false
     },
     {
       "source": "大光電機",
