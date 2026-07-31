@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.31  15:15",
+  "fetchedAt": "2026.07.31  17:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,53 +21,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -121,6 +125,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.07.31",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.07.31",
@@ -131,12 +145,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.07.31",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture",
+      "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
+      "excerpt": "public comments will help shape a shortlist for two monumental commissions planned for 2029 and 2030.\nThe post from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/high-line-plinth-artist-commissions-competition-fall-2027-designboom-FB.jpg",
       "today": true
     },
     {
@@ -176,6 +191,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-shield-sunglasses-ss-2026",
       "excerpt": "When it comes to sunglasses, bigger is better this summer, with face-shielding styles dominating the runways. We pick eight of the best",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JhrVbwu9LjLbwYP6eHW3UP-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Meadow House / Mark English Architects",
+      "url": "https://www.archdaily.com/1181907/meadow-house-mark-english-architects",
+      "excerpt": "Meadow House presented us with an opportunity to work within the exceptional Santa Lucia Preserve in the Carmel Valley. Both the site and brief paved the way for a challenging and, ultimately, deeply ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/6861/1801/ca00/0176/e263/large_jpg/23.jpg?1785424007",
       "today": true
     },
     {
@@ -305,16 +330,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Sotheby’s Global Headquarters at the Breuer / Herzog & de Meuron + PBDW Architects",
-      "url": "https://www.archdaily.com/1181780/sothebys-global-headquarters-at-the-breuer-herzog-and-de-meuron-plus-pbdw-architects",
-      "excerpt": "The restoration of the Breuer building follows a light-touch approach, preserving defining features while introducing subtle upgrades to meet Sotheby's functional and operational needs while honoring ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/69a7/f4d2/6d01/88b1/721c/large_jpg/sothebys-global-headquarter-herzog-and-de-meuron_1.jpg?1785293320",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -322,16 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/interior-accessories/dior-maison-godron-collection-tableware",
       "excerpt": "Dior Maison's new ‘Godron’ collection reimagines a classic decorative motif to celebrate the elegant geometry of art deco style",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hpAHrfFtEnL6ABRpGHyEtj-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "lantern-like pavilion and recycled brick bar reshape bangkok house into arvie restaurant",
-      "url": "https://www.designboom.com/architecture/lantern-pavilion-recycled-brick-bar-bangkok-house-arvie-restaurant-pachapasa-studio/",
-      "excerpt": "pachapasa studio retains the original house while opening its interior into one continuous dining room.\nThe post lantern-like pavilion and recycled brick bar reshape bangkok house into arvie restauran",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/glowing-lanterns-recycled-brick-arvie-bangkok-restaurant-pachapasa-studio-designboom-1200.jpg",
       "today": true
     },
     {
