@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.31  22:08",
+  "fetchedAt": "2026.07.31  23:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -140,6 +140,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "steel and hanji weave into porous vessel of memory inside cold war bunker in seoul",
+      "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
+      "excerpt": "eotieum vessel is formed from a welded steel framework covered with thousands of hand-torn hanji fragments.\nThe post steel and hanji weave into porous vessel of memory inside cold war bunker in seoul ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/steel-hanji-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -157,6 +167,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ukyo-x-cafe-listening-bar-co-working-restored-historic-interior-romania-in-still/",
       "excerpt": "a modular furniture system supports the program’s flexibility, enabling the layout to accommodate different group sizes and patterns of occupation.\nThe post ukyo X blends café, listening bar, and co-w",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ukyo-x-in-still-cluj-napoca-romania-hybrid-cafe-listening-bar-cultural-space-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Casa Mezcal / Barde + vanVoltt",
+      "url": "https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt",
+      "excerpt": "Located in the heart of La Condesa, Mexico City, Casa Mezcal is the transformation of a former mezcal tasting facility into a contemporary family residence that celebrates Mexican architecture, crafts",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b499/d865/3d00/014d/0c6d/large_jpg/13_CasaMezcal_BardevanVoltt_AlejandroRamirezOrozco.jpg?1785246950",
       "today": true
     },
     {
@@ -303,26 +323,6 @@ window.LUMINO_DATA = {
       "title": "Net zero verification scheme launched for UK buildings",
       "url": "https://www.dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas/",
       "excerpt": "Certification company Bureau Veritas has launched the UK Net Zero Carbon Buildings Standard, a voluntary verification scheme that determines a building's carbon performance. Now open for submissions, ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "TreeBOX Cabin / Studio Officina82",
-      "url": "https://www.archdaily.com/1181796/treebox",
-      "excerpt": "TreeBOX – Casa sull'Albero, designed by Studio Officina82, is part of Selucente, an innovative hospitality project centered on the recovery of the alpine hamlet of Alpisella in the Ligurian-Piedmontes",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/e1d1/d865/3d00/014d/1058/large_jpg/TreeBOX_-_Officina82_-_1.jpg?1785324122",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "lightfoot solar cargo scooter stores sunlight for everyday errands",
-      "url": "https://www.designboom.com/technology/lightfoot-solar-cargo-scooter-sunlight-everyday-errands/",
-      "excerpt": "otherlab’s two-seat electric scooter combines 240w solar array, lockable cargo storage and dual hub motors.\nThe post lightfoot solar cargo scooter stores sunlight for everyday errands appeared first o",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/lightfoot-solar-cargo-scooter-sunlight-everyday-errands-designboom-4.jpeg",
       "today": true
     },
     {
