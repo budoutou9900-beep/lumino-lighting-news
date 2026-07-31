@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.31  20:58",
+  "fetchedAt": "2026.07.31  22:08",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -140,6 +140,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Get up close and personal with icons of Italian design at Nilufar's summery New York residency",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/nilufar-galerie56-grand-hotel-vista-mare",
+      "excerpt": "Works by Gabriella Crespi, Carlo Mollino and more congregate to create a design lover's beach scene at New York's Galerie56",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EuLhuMmXgknCPHecoPgucL-2000-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -156,6 +166,16 @@ window.LUMINO_DATA = {
       "title": "Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York",
       "url": "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
       "excerpt": "New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.07.31",
+      "title": "Jabuticabeiras House / STUDIO ANDRE LENZA",
+      "url": "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza",
+      "excerpt": "Located in the eastern region of Goiânia, Brazil, the Jabuticabeiras House is a 361-square-meter residence born from a couple's desire to downsize and optimize their lifestyle. After their children mo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/d7ed/4ea2/e401/8926/6cf8/large_jpg/jabuticabeiras-house-studio-andre-lenza_47.jpg?1785518077",
       "today": true
     },
     {
@@ -312,26 +332,6 @@ window.LUMINO_DATA = {
       "title": "Are timber skyscrapers the future?",
       "url": "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
       "excerpt": "Is building tall with timber more than an architectural gimmick? Why is a new robotic hand a big step towards sci-fi becoming reality? And what's special about Dezeen's editor's new tattoo? Listen to ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Coastal MHK Architecture Works From 2009-2014",
-      "url": "https://www.archdaily.com/1181985/coastal-mhk-architecture-works-from-2009-2014",
-      "excerpt": "Coastal is an inspiring exploration of Flonda’s most exquisite high-end and boutique homes where architecture, design, and the spirit of the sea come together. Through stunning photography and captiva",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8d7e/1801/ca00/0176/e830/large_jpg/grid.jpg?1785499011",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Change your stripes with Dior’s art deco tableware",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/interior-accessories/dior-maison-godron-collection-tableware",
-      "excerpt": "Dior Maison's new ‘Godron’ collection reimagines a classic decorative motif to celebrate the elegant geometry of art deco style",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hpAHrfFtEnL6ABRpGHyEtj-1600-80.png",
       "today": true
     },
     {
