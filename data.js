@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  05:50",
+  "fetchedAt": "2026.08.01  08:11",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -140,6 +140,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "designboom radar: exhibitions to see around the world this august",
+      "url": "https://www.designboom.com/art/radar-exhibitions-august/",
+      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this august appeared fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/august-exhibition-radar-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Get to know Del LaGrace Volcano, the legendary photographer who's defined –and revolutionised – LGBTQI+ visual culture",
+      "url": "https://www.wallpaper.com/art/photography/del-lagrace-volcano-exhibition",
+      "excerpt": "Their photographs is the subject of two new shows on view in London and Scotland.  'My life and the people I draw into my orbit are all part of my work,' they say",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VoGvHDzLEvcnuqNtbCSj9h-1920-80.png",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -167,6 +187,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
       "excerpt": "equihero is an anatomical inhalation mask designed for horses undergoing respiratory treatments.\nThe post 2s.design’s horse inhalation mask merges veterinary technology with natural form language appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2s-design-horse-inhalation-mask-equihero-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Luxe Lakes CPI Island / Vari Architects",
+      "url": "https://www.archdaily.com/1018806/luxe-lakes-cpi-island-vari-architects",
+      "excerpt": "The Luxe Lakes CPI Island Commercial Renewal Project is a collection of villa models located on the east side of Luke Island in the \"Luxe Lakes Ecological City\" of Chengdu. More than 20 former Luxe La",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6696/14f3/c8b7/c801/7cdd/becb/large_jpg/luxe-lakes-cpi-island-vari-architects_8.jpg?1721111805",
       "today": true
     },
     {
@@ -249,16 +279,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "reclaimed materials and handcrafted finishes reshape historic townhouse in czech republic",
-      "url": "https://www.designboom.com/architecture/reclaimed-materials-handcrafted-finishes-historic-townhouse-czech-republic-obloukova-171-ora/",
-      "excerpt": "the renovated house’s mixed-use program combines guest accommodations, a family retreat, and a craft beer taproom.\nThe post reclaimed materials and handcrafted finishes reshape historic townhouse in c",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/obloukova-171-ora-zatec-czech-republicrenovation-townhouse-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -285,26 +305,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182027/raconte-moi-un-secret-installation-coletivo-624",
       "excerpt": "\"Raconte-moi un secret\" is an interactive sound installation that invites the public to share and listen to anonymous confessions, transforming individual experiences into a collective, ever-evolving ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/523a/1801/ca00/0176/e13a/large_jpg/raconte-moi_un_secret_06_Paul_Kozlowski_.jpg?1785418321",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "This summer’s shield sunglasses block out the sun – and the world",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-shield-sunglasses-ss-2026",
-      "excerpt": "When it comes to sunglasses, bigger is better this summer, with face-shielding styles dominating the runways. We pick eight of the best",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JhrVbwu9LjLbwYP6eHW3UP-1540-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Meadow House / Mark English Architects",
-      "url": "https://www.archdaily.com/1181907/meadow-house-mark-english-architects",
-      "excerpt": "Meadow House presented us with an opportunity to work within the exceptional Santa Lucia Preserve in the Carmel Valley. Both the site and brief paved the way for a challenging and, ultimately, deeply ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/6861/1801/ca00/0176/e263/large_jpg/23.jpg?1785424007",
       "today": false
     },
     {
