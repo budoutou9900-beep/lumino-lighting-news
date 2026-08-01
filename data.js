@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  02:39",
+  "fetchedAt": "2026.08.01  05:50",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -137,6 +137,26 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "‘I hope the craft outlasts my name’: Ashiesh Shah’s global vision for India’s living handmade traditions",
+      "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
+      "excerpt": "The Mumbai-based architect, designer and artist talks about his lifelong dialogue with Indian craft, from quietly expressive interiors to collectible design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFmzpau538zB6KsWWTMCV8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "A dark and ‘stealthy’ Welsh cottage reimagines life and architecture by the Irish Sea",
+      "url": "https://www.wallpaper.com/architecture/residential/welsh-cottage-white-breakers-unknown-works-uk",
+      "excerpt": "White Breakers is a Pembrokeshire Coast National Park holiday home, refitted by Unknown Works to improve flow, looks and sustainability",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cT79DK7fEZDEdUCTYCu2qK-2560-80.jpg",
       "today": true
     },
     {
@@ -294,26 +314,6 @@ window.LUMINO_DATA = {
       "title": "Charles Gillespie Architecture completes Somerset house with wildlife-friendly colonnade",
       "url": "https://www.dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture/",
       "excerpt": "British studio Charles Gillespie Architecture has completed The Linhay, a family house in rural Somerset wrapped by a deep concrete colonnade that provides sheltered nesting spaces for birds. Designed",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Mandarin Oriental The Landmark leads the evolution of luxury in Central, Hong Kong",
-      "url": "https://www.wallpaper.com/travel/hotels/mandarin-oriental-the-landmark-hong-kong-review",
-      "excerpt": "Designed by Joyce Wang Studio, the property honours Hong Kong’s historic architecture and the city’s skyline",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Njzt6nizUeYjuNZtyhenPU-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "In Venice, a show of provocative works ‘between art and film’ raises the temperature",
-      "url": "https://www.wallpaper.com/art/film/fondazione-between-art-and-film-venice-canicula-review",
-      "excerpt": "‘Canicula’ at the Fondazione In Between Art and Film showcases a series of commissioned works that are unflinching responses to world events",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nt595xny8akA3AJcLg7LCc-2560-80.jpg",
       "today": false
     },
     {
