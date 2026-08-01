@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.07.31  23:57",
+  "fetchedAt": "2026.08.01  02:39",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -94,7 +94,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -104,7 +104,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -114,7 +114,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -123,7 +123,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -133,10 +133,20 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.07.31",
+      "date": "2026.08.01",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "2s.design’s horse inhalation mask merges veterinary technology with natural form language",
+      "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
+      "excerpt": "equihero is an anatomical inhalation mask designed for horses undergoing respiratory treatments.\nThe post 2s.design’s horse inhalation mask merges veterinary technology with natural form language appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2s-design-horse-inhalation-mask-equihero-designboom-1200.jpg",
       "today": true
     },
     {
@@ -147,7 +157,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
       "excerpt": "eotieum vessel is formed from a welded steel framework covered with thousands of hand-torn hanji fragments.\nThe post steel and hanji weave into porous vessel of memory inside cold war bunker in seoul ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/steel-hanji-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -157,7 +167,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/nilufar-galerie56-grand-hotel-vista-mare",
       "excerpt": "Works by Gabriella Crespi, Carlo Mollino and more congregate to create a design lover's beach scene at New York's Galerie56",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EuLhuMmXgknCPHecoPgucL-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -167,7 +177,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ukyo-x-cafe-listening-bar-co-working-restored-historic-interior-romania-in-still/",
       "excerpt": "a modular furniture system supports the program’s flexibility, enabling the layout to accommodate different group sizes and patterns of occupation.\nThe post ukyo X blends café, listening bar, and co-w",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ukyo-x-in-still-cluj-napoca-romania-hybrid-cafe-listening-bar-cultural-space-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -177,7 +187,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt",
       "excerpt": "Located in the heart of La Condesa, Mexico City, Casa Mezcal is the transformation of a former mezcal tasting facility into a contemporary family residence that celebrates Mexican architecture, crafts",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b499/d865/3d00/014d/0c6d/large_jpg/13_CasaMezcal_BardevanVoltt_AlejandroRamirezOrozco.jpg?1785246950",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -186,7 +196,7 @@ window.LUMINO_DATA = {
       "title": "Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York",
       "url": "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
       "excerpt": "New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -196,7 +206,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza",
       "excerpt": "Located in the eastern region of Goiânia, Brazil, the Jabuticabeiras House is a 361-square-meter residence born from a couple's desire to downsize and optimize their lifestyle. After their children mo",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/d7ed/4ea2/e401/8926/6cf8/large_jpg/jabuticabeiras-house-studio-andre-lenza_47.jpg?1785518077",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -206,7 +216,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
       "excerpt": "public comments will help shape a shortlist for two monumental commissions planned for 2029 and 2030.\nThe post from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/high-line-plinth-artist-commissions-competition-fall-2027-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -216,7 +226,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181869/ri-house-infante-poblete-montt",
       "excerpt": "From the top of El Morro hill, this house acts as a suspended lookout, peering over the trees and rocks to capture the majestic view of the entire Zapallar bay in a single gesture.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/225e/1801/ca00/0176/e00f/large_jpg/CA_RI_IPM_06.jpg?1785406306",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -226,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/reclaimed-materials-handcrafted-finishes-historic-townhouse-czech-republic-obloukova-171-ora/",
       "excerpt": "the renovated house’s mixed-use program combines guest accommodations, a family retreat, and a craft beer taproom.\nThe post reclaimed materials and handcrafted finishes reshape historic townhouse in c",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/obloukova-171-ora-zatec-czech-republicrenovation-townhouse-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -235,7 +245,7 @@ window.LUMINO_DATA = {
       "title": "São Paulo skyscrapers by Königsberger Vannucchi linked by glass skybridge",
       "url": "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/",
       "excerpt": "A horizontal glass skybridge connects residential and office skyscrapers at this project by Königsberger Vannucchi Arquitetos Associados in São Paulo to preserve the \"individual reading of each tower ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -245,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/sao-paulo-apartment-clara-nahas",
       "excerpt": "Designer Clara Nahas transforms a studio space into a tribute to her late pianist mother – built, like a semibreve note, to resonate",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MZgYvKcBiN8jVWNgbk3r2R-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -255,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182027/raconte-moi-un-secret-installation-coletivo-624",
       "excerpt": "\"Raconte-moi un secret\" is an interactive sound installation that invites the public to share and listen to anonymous confessions, transforming individual experiences into a collective, ever-evolving ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/523a/1801/ca00/0176/e13a/large_jpg/raconte-moi_un_secret_06_Paul_Kozlowski_.jpg?1785418321",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -265,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-shield-sunglasses-ss-2026",
       "excerpt": "When it comes to sunglasses, bigger is better this summer, with face-shielding styles dominating the runways. We pick eight of the best",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JhrVbwu9LjLbwYP6eHW3UP-1540-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -275,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181907/meadow-house-mark-english-architects",
       "excerpt": "Meadow House presented us with an opportunity to work within the exceptional Santa Lucia Preserve in the Carmel Valley. Both the site and brief paved the way for a challenging and, ultimately, deeply ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/6861/1801/ca00/0176/e263/large_jpg/23.jpg?1785424007",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -284,7 +294,7 @@ window.LUMINO_DATA = {
       "title": "Charles Gillespie Architecture completes Somerset house with wildlife-friendly colonnade",
       "url": "https://www.dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture/",
       "excerpt": "British studio Charles Gillespie Architecture has completed The Linhay, a family house in rural Somerset wrapped by a deep concrete colonnade that provides sheltered nesting spaces for birds. Designed",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -294,17 +304,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/mandarin-oriental-the-landmark-hong-kong-review",
       "excerpt": "Designed by Joyce Wang Studio, the property honours Hong Kong’s historic architecture and the city’s skyline",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Njzt6nizUeYjuNZtyhenPU-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "tearing paper and wrestling mud, gutai played with creative freedom in postwar japan",
-      "url": "https://www.designboom.com/art/tearing-paper-wrestling-mud-gutai-play-creative-freedom-postwar-japan/",
-      "excerpt": "in postwar japan, artists used unruly media and playful, audience-involving performances to practice a new form of creative freedom.\nThe post tearing paper and wrestling mud, gutai played with creativ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/gutai-art-association-japanese-postwar-performance-play-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -314,7 +314,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/film/fondazione-between-art-and-film-venice-canicula-review",
       "excerpt": "‘Canicula’ at the Fondazione In Between Art and Film showcases a series of commissioned works that are unflinching responses to world events",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nt595xny8akA3AJcLg7LCc-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -323,7 +323,7 @@ window.LUMINO_DATA = {
       "title": "Net zero verification scheme launched for UK buildings",
       "url": "https://www.dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas/",
       "excerpt": "Certification company Bureau Veritas has launched the UK Net Zero Carbon Buildings Standard, a voluntary verification scheme that determines a building's carbon performance. Now open for submissions, ",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -332,7 +332,7 @@ window.LUMINO_DATA = {
       "title": "Are timber skyscrapers the future?",
       "url": "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
       "excerpt": "Is building tall with timber more than an architectural gimmick? Why is a new robotic hand a big step towards sci-fi becoming reality? And what's special about Dezeen's editor's new tattoo? Listen to ",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
