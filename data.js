@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  13:36",
+  "fetchedAt": "2026.08.01  14:55",
   "sourceColors": {
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "sortiraparis.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -72,6 +72,16 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.01",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
       "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.01",
@@ -92,22 +102,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.08.01",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.01",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "sortiraparis.com",
+      "cat": "展示・アート",
+      "date": "2026.08.01",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -130,13 +140,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.01",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "ippolito pestellini laparelli and erica petrillo of 2050+ on ‘the parking lot that forgot itself’",
+      "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
+      "excerpt": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons.\nThe post ippolito pestellini lapa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
       "today": true
     },
     {
@@ -175,16 +185,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/appalachia-london-review",
       "excerpt": "Drawing on the culinary traditions of America’s eastern mountain range, Appalachia is the latest restaurant to conquer north London",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Hqd3zJfdYzdqY9Ex6YtYhQ-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "The surprising design history of the Campari Soda bottle",
-      "url": "https://www.wallpaper.com/architecture/campari-soda-bottle-design-history",
-      "excerpt": "Architect Carlo Ratti investigates how the Campari Soda bottle became a part of everyone's favourite summer ritual –and explores its secret Fascist design origins",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4MDaMUm7BLGWovJn6STvcA-1600-80.jpg",
       "today": true
     },
     {
@@ -244,6 +244,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
       "excerpt": "The Mumbai-based architect, designer and artist talks about his lifelong dialogue with Indian craft, from quietly expressive interiors to collectible design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFmzpau538zB6KsWWTMCV8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "A dark and ‘stealthy’ Welsh cottage reimagines life and architecture by the Irish Sea",
+      "url": "https://www.wallpaper.com/architecture/residential/welsh-cottage-white-breakers-unknown-works-uk",
+      "excerpt": "White Breakers is a Pembrokeshire Coast National Park holiday home, refitted by Unknown Works to improve flow, looks and sustainability",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cT79DK7fEZDEdUCTYCu2qK-2560-80.jpg",
       "today": true
     },
     {
@@ -313,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza",
       "excerpt": "Located in the eastern region of Goiânia, Brazil, the Jabuticabeiras House is a 361-square-meter residence born from a couple's desire to downsize and optimize their lifestyle. After their children mo",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/d7ed/4ea2/e401/8926/6cf8/large_jpg/jabuticabeiras-house-studio-andre-lenza_47.jpg?1785518077",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture",
-      "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
-      "excerpt": "public comments will help shape a shortlist for two monumental commissions planned for 2029 and 2030.\nThe post from jewel-covered apples to frozen clocks: 62 ideas for the high line’s next sculpture a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/high-line-plinth-artist-commissions-competition-fall-2027-designboom-FB.jpg",
       "today": false
     },
     {
