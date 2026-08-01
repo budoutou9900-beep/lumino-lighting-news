@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  14:55",
+  "fetchedAt": "2026.08.01  15:57",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "sortiraparis.com": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -89,6 +93,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.01",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -133,7 +146,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.01",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -150,12 +163,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Riera Renovation / LABLANCA",
+      "url": "https://www.archdaily.com/1148798/riera",
+      "excerpt": "Riera is the renovation of a flat in a 1960s building, located along the former course of the Riera de Matamoros, in the historic centre of Badalona. The plot has elongated proportions, and the depth ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/af49/d425/1a00/01c4/ba55/large_jpg/LABLANCA_Riera_09.jpg?1784196957",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.01",
       "title": "Catalan farmhouse designed as \"a passage through the land\"",
       "url": "https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/",
       "excerpt": "Spanish studio NUA Arquitectures has completed Casa Juià, a farmhouse in Catalonia that draws on the craftsmanship of the surrounding region. Located in the village of Juià, at the foot of the Gavarre",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Lecomte Apartment / Atelier Orzan",
+      "url": "https://www.archdaily.com/1181752/lecomte-apartment-atelier-orzan",
+      "excerpt": "Located in the residential Costière district of Le Havre, France, Lecomte Apartment transforms the ground floor of a former family house into a calm and contemporary 55-square-meter home.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b740/d865/3d00/014d/0cdf/large_jpg/ORZAN_HAVRE_JBT-12.jpg?1785247623",
       "today": true
     },
     {
@@ -297,32 +330,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Casa Mezcal / Barde + vanVoltt",
-      "url": "https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt",
-      "excerpt": "Located in the heart of La Condesa, Mexico City, Casa Mezcal is the transformation of a former mezcal tasting facility into a contemporary family residence that celebrates Mexican architecture, crafts",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b499/d865/3d00/014d/0c6d/large_jpg/13_CasaMezcal_BardevanVoltt_AlejandroRamirezOrozco.jpg?1785246950",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.07.31",
       "title": "Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York",
       "url": "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
       "excerpt": "New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Jabuticabeiras House / STUDIO ANDRE LENZA",
-      "url": "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza",
-      "excerpt": "Located in the eastern region of Goiânia, Brazil, the Jabuticabeiras House is a 361-square-meter residence born from a couple's desire to downsize and optimize their lifestyle. After their children mo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/d7ed/4ea2/e401/8926/6cf8/large_jpg/jabuticabeiras-house-studio-andre-lenza_47.jpg?1785518077",
       "today": false
     },
     {
