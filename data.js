@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  10:36",
+  "fetchedAt": "2026.08.01  12:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,47 +9,47 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ozmall.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -61,13 +61,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -92,6 +88,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.01",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.01",
@@ -112,20 +117,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.01",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.01",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
     },
@@ -137,6 +133,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.01",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -355,16 +360,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -504,16 +499,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -541,36 +526,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     }
   ]
