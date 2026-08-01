@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  21:49",
+  "fetchedAt": "2026.08.01  22:48",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "news.yahoo.co.jp": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -68,22 +68,13 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.01",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.01",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -100,6 +91,15 @@ window.LUMINO_DATA = {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.01",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.01",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -109,14 +109,14 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.01",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.01",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
@@ -133,6 +133,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/the-exploratorium-scientific-learning-stems-play/",
       "excerpt": "from geysers and colored shadows to fog and DNA, interactive exhibits invite curious minds of all ages to test how the world works.\nThe post san francisco’s exploratorium turns STEM learning into hand",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exploratorium-intro-designboom-03.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Cafe N+ / Horibe Associates",
+      "url": "https://www.archdaily.com/1181882/cafe-n-plus-horibe-associates",
+      "excerpt": "Cafe N+ was designed as a new vibrant hub connecting a historic shrine with a newly built performing arts theater in Takatsuki City, aiming to create an architecture that seamlessly harmonizes with th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/53a0/0364/d201/89e9/717e/large_jpg/cafe-n-plus-horibe-associates_2.jpg?1785418734",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Looking South House / PLUG arquitectura modular",
+      "url": "https://www.archdaily.com/1182021/looking-south-house-plug-arquitectura-modular",
+      "excerpt": "Chapadmalal is a coastal town located in the southeast of the Buenos Aires province, halfway between Mar del Plata and Miramar. It is a popular Argentine destination for water sports enthusiasts, part",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/bc8c/1801/ca00/0176/e9d0/large_jpg/PLUG_-16_RET.jpg?1785511081",
       "today": true
     },
     {
@@ -234,16 +254,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Modernist Harmony in a Historic Villa / LBWA",
-      "url": "https://www.archdaily.com/1181460/modernist-harmony-in-a-historic-villa-lbwa",
-      "excerpt": "In the historic part of Poznań's Grunwald district, adjacent to the renowned Abisynia housing estate, stands an interwar villa distinguished by its modernist character. A quintessential example of 193",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/a974/237b/e900/01c8/736e/large_jpg/ZASOBY-0017-Z1003308-V1.jpg?1784719763",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -280,16 +290,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
       "excerpt": "equihero is an anatomical inhalation mask designed for horses undergoing respiratory treatments.\nThe post 2s.design’s horse inhalation mask merges veterinary technology with natural form language appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2s-design-horse-inhalation-mask-equihero-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Luxe Lakes CPI Island / Vari Architects",
-      "url": "https://www.archdaily.com/1018806/luxe-lakes-cpi-island-vari-architects",
-      "excerpt": "The Luxe Lakes CPI Island Commercial Renewal Project is a collection of villa models located on the east side of Luke Island in the \"Luxe Lakes Ecological City\" of Chengdu. More than 20 former Luxe La",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6696/14f3/c8b7/c801/7cdd/becb/large_jpg/luxe-lakes-cpi-island-vari-architects_8.jpg?1721111805",
       "today": true
     },
     {
