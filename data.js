@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  08:11",
+  "fetchedAt": "2026.08.01  10:36",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -121,6 +121,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.01",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.01",
@@ -131,12 +140,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.01",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "Catalan farmhouse designed as \"a passage through the land\"",
+      "url": "https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/",
+      "excerpt": "Spanish studio NUA Arquitectures has completed Casa Juià, a farmhouse in Catalonia that draws on the craftsmanship of the surrounding region. Located in the village of Juià, at the foot of the Gavarre",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Ikea’s new portable furniture is designed to grab and go – perfect for Generation Rent",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/ikea-kompishang-collection-portable-furniture",
+      "excerpt": "The new ‘Kompishäng’ collection includes foldable, stackable, multifunctional and lightweight furniture and accessories, designed for the realities of renting and moving in the city",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7AJgN9NRt6ED4tfcboYkok-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Dezeen's top five houses of July 2026",
+      "url": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/",
+      "excerpt": "A large multi-generational home in India and a low-lying stone farmhouse in rural Scotland are among the mix of residences in this eclectic edition of Dezeen's houses of the month. Also on the list of",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Embrace the spirit of Appalachia at this new London restaurant",
+      "url": "https://www.wallpaper.com/travel/restaurants/appalachia-london-review",
+      "excerpt": "Drawing on the culinary traditions of America’s eastern mountain range, Appalachia is the latest restaurant to conquer north London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Hqd3zJfdYzdqY9Ex6YtYhQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "The surprising design history of the Campari Soda bottle",
+      "url": "https://www.wallpaper.com/architecture/campari-soda-bottle-design-history",
+      "excerpt": "Architect Carlo Ratti investigates how the Campari Soda bottle became a part of everyone's favourite summer ritual –and explores its secret Fascist design origins",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4MDaMUm7BLGWovJn6STvcA-1600-80.jpg",
       "today": true
     },
     {
@@ -160,6 +208,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "This week we revealed heated Nike slides",
+      "url": "https://www.dezeen.com/2026/08/01/nike-heated-slide-this-week/",
+      "excerpt": "This week on Dezeen, we unveiled a pair of slides that heat up and vibrate feet to help athlete's recover. Created by sportswear company Nike and health technology company Hyperice, the slides contain",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -167,16 +224,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
       "excerpt": "The Mumbai-based architect, designer and artist talks about his lifelong dialogue with Indian craft, from quietly expressive interiors to collectible design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFmzpau538zB6KsWWTMCV8-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "A dark and ‘stealthy’ Welsh cottage reimagines life and architecture by the Irish Sea",
-      "url": "https://www.wallpaper.com/architecture/residential/welsh-cottage-white-breakers-unknown-works-uk",
-      "excerpt": "White Breakers is a Pembrokeshire Coast National Park holiday home, refitted by Unknown Works to improve flow, looks and sustainability",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cT79DK7fEZDEdUCTYCu2qK-2560-80.jpg",
       "today": true
     },
     {
@@ -207,16 +254,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
       "excerpt": "eotieum vessel is formed from a welded steel framework covered with thousands of hand-torn hanji fragments.\nThe post steel and hanji weave into porous vessel of memory inside cold war bunker in seoul ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/steel-hanji-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Get up close and personal with icons of Italian design at Nilufar's summery New York residency",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/nilufar-galerie56-grand-hotel-vista-mare",
-      "excerpt": "Works by Gabriella Crespi, Carlo Mollino and more congregate to create a design lover's beach scene at New York's Galerie56",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EuLhuMmXgknCPHecoPgucL-2000-80.jpg",
       "today": false
     },
     {
@@ -288,16 +325,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "In this São Paulo apartment, memories of the designer’s mother encourage lingering and contemplation",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/sao-paulo-apartment-clara-nahas",
-      "excerpt": "Designer Clara Nahas transforms a studio space into a tribute to her late pianist mother – built, like a semibreve note, to resonate",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MZgYvKcBiN8jVWNgbk3r2R-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.07.31",
@@ -305,33 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182027/raconte-moi-un-secret-installation-coletivo-624",
       "excerpt": "\"Raconte-moi un secret\" is an interactive sound installation that invites the public to share and listen to anonymous confessions, transforming individual experiences into a collective, ever-evolving ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/523a/1801/ca00/0176/e13a/large_jpg/raconte-moi_un_secret_06_Paul_Kozlowski_.jpg?1785418321",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Charles Gillespie Architecture completes Somerset house with wildlife-friendly colonnade",
-      "url": "https://www.dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture/",
-      "excerpt": "British studio Charles Gillespie Architecture has completed The Linhay, a family house in rural Somerset wrapped by a deep concrete colonnade that provides sheltered nesting spaces for birds. Designed",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Net zero verification scheme launched for UK buildings",
-      "url": "https://www.dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas/",
-      "excerpt": "Certification company Bureau Veritas has launched the UK Net Zero Carbon Buildings Standard, a voluntary verification scheme that determines a building's carbon performance. Now open for submissions, ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Are timber skyscrapers the future?",
-      "url": "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
-      "excerpt": "Is building tall with timber more than an architectural gimmick? Why is a new robotic hand a big step towards sci-fi becoming reality? And what's special about Dezeen's editor's new tattoo? Listen to ",
       "today": false
     },
     {
