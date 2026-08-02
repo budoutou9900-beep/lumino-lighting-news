@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.01  23:52",
+  "fetchedAt": "2026.08.02  02:11",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "sortiraparis.com": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,64 +13,68 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.01",
+      "date": "2026.08.02",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -78,9 +82,27 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.02",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.01",
+      "date": "2026.08.02",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.08.02",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -90,16 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.01",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.01",
+      "date": "2026.08.02",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -108,7 +121,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.01",
+      "date": "2026.08.02",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -118,11 +131,21 @@ window.LUMINO_DATA = {
     {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.01",
+      "date": "2026.08.02",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "The surprising design history of the Campari Soda bottle",
+      "url": "https://www.wallpaper.com/architecture/campari-soda-bottle-design-history",
+      "excerpt": "Architect Carlo Ratti investigates how the Campari Soda bottle became a part of everyone's favourite summer ritual –and explores its secret Fascist design origins",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4MDaMUm7BLGWovJn6STvcA-1600-80.jpg",
       "today": true
     },
     {
@@ -133,7 +156,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/the-exploratorium-scientific-learning-stems-play/",
       "excerpt": "from geysers and colored shadows to fog and DNA, interactive exhibits invite curious minds of all ages to test how the world works.\nThe post san francisco’s exploratorium turns STEM learning into hand",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exploratorium-intro-designboom-03.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -143,7 +166,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181882/cafe-n-plus-horibe-associates",
       "excerpt": "Cafe N+ was designed as a new vibrant hub connecting a historic shrine with a newly built performing arts theater in Takatsuki City, aiming to create an architecture that seamlessly harmonizes with th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/53a0/0364/d201/89e9/717e/large_jpg/cafe-n-plus-horibe-associates_2.jpg?1785418734",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -153,7 +176,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182021/looking-south-house-plug-arquitectura-modular",
       "excerpt": "Chapadmalal is a coastal town located in the southeast of the Buenos Aires province, halfway between Mar del Plata and Miramar. It is a popular Argentine destination for water sports enthusiasts, part",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/bc8c/1801/ca00/0176/e9d0/large_jpg/PLUG_-16_RET.jpg?1785511081",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -163,7 +186,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
       "excerpt": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons.\nThe post ippolito pestellini lapa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -173,7 +196,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148798/riera",
       "excerpt": "Riera is the renovation of a flat in a 1960s building, located along the former course of the Riera de Matamoros, in the historic centre of Badalona. The plot has elongated proportions, and the depth ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/af49/d425/1a00/01c4/ba55/large_jpg/LABLANCA_Riera_09.jpg?1784196957",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -182,7 +205,7 @@ window.LUMINO_DATA = {
       "title": "Catalan farmhouse designed as \"a passage through the land\"",
       "url": "https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/",
       "excerpt": "Spanish studio NUA Arquitectures has completed Casa Juià, a farmhouse in Catalonia that draws on the craftsmanship of the surrounding region. Located in the village of Juià, at the foot of the Gavarre",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -192,7 +215,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181752/lecomte-apartment-atelier-orzan",
       "excerpt": "Located in the residential Costière district of Le Havre, France, Lecomte Apartment transforms the ground floor of a former family house into a calm and contemporary 55-square-meter home.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b740/d865/3d00/014d/0cdf/large_jpg/ORZAN_HAVRE_JBT-12.jpg?1785247623",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -202,7 +225,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/ikea-kompishang-collection-portable-furniture",
       "excerpt": "The new ‘Kompishäng’ collection includes foldable, stackable, multifunctional and lightweight furniture and accessories, designed for the realities of renting and moving in the city",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7AJgN9NRt6ED4tfcboYkok-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -211,7 +234,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen's top five houses of July 2026",
       "url": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/",
       "excerpt": "A large multi-generational home in India and a low-lying stone farmhouse in rural Scotland are among the mix of residences in this eclectic edition of Dezeen's houses of the month. Also on the list of",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -221,7 +244,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/appalachia-london-review",
       "excerpt": "Drawing on the culinary traditions of America’s eastern mountain range, Appalachia is the latest restaurant to conquer north London",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Hqd3zJfdYzdqY9Ex6YtYhQ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -231,7 +254,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/radar-exhibitions-august/",
       "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this august appeared fi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/august-exhibition-radar-designboom-FB-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -241,7 +264,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
       "excerpt": "Imagine a corridor. Concrete walls two meters apart, a low ceiling, artificial lighting with neither shadow nor gradation. At the far end, a bulletproof glass window, and on the other side, a uniforme",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/451b/3d21/f701/89c9/2cf4/large_jpg/onde-fica-a-fronteira-o-papel-da-arquitetura-no-controle-da-mobilidade_10.jpg?1784300879",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -251,7 +274,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/del-lagrace-volcano-exhibition",
       "excerpt": "Their photographs is the subject of two new shows on view in London and Scotland.  'My life and the people I draw into my orbit are all part of my work,' they say",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VoGvHDzLEvcnuqNtbCSj9h-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -260,7 +283,7 @@ window.LUMINO_DATA = {
       "title": "This week we revealed heated Nike slides",
       "url": "https://www.dezeen.com/2026/08/01/nike-heated-slide-this-week/",
       "excerpt": "This week on Dezeen, we unveiled a pair of slides that heat up and vibrate feet to help athlete's recover. Created by sportswear company Nike and health technology company Hyperice, the slides contain",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -270,17 +293,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
       "excerpt": "The Mumbai-based architect, designer and artist talks about his lifelong dialogue with Indian craft, from quietly expressive interiors to collectible design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFmzpau538zB6KsWWTMCV8-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "A dark and ‘stealthy’ Welsh cottage reimagines life and architecture by the Irish Sea",
-      "url": "https://www.wallpaper.com/architecture/residential/welsh-cottage-white-breakers-unknown-works-uk",
-      "excerpt": "White Breakers is a Pembrokeshire Coast National Park holiday home, refitted by Unknown Works to improve flow, looks and sustainability",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cT79DK7fEZDEdUCTYCu2qK-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -290,7 +303,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
       "excerpt": "equihero is an anatomical inhalation mask designed for horses undergoing respiratory treatments.\nThe post 2s.design’s horse inhalation mask merges veterinary technology with natural form language appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2s-design-horse-inhalation-mask-equihero-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
