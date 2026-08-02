@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  20:47",
+  "fetchedAt": "2026.08.02  21:50",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "news.yahoo.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -130,7 +130,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.02",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
@@ -149,6 +149,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Marivan Medical Building / AsNow Design & Construct",
+      "url": "https://www.archdaily.com/1181953/marivan-medical-building-asnow-design-and-construct",
+      "excerpt": "Marivan Medical Building, with a total area of approximately 1,050 square meters, is located on one of the main boulevards of Marivan, Iran.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7269/1801/ca00/0176/e625/large_jpg/D__1_.jpg?1785492105",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Bell House / BILBAO | LOPEZ",
+      "url": "https://www.archdaily.com/1182005/bell-house-bilbao-lopez",
+      "excerpt": "The house is located in a gated community in the suburban area of City Bell, on the outskirts of La Plata—an environment that combines the natural character of the periphery with an ongoing process of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8eac/1801/ca00/0176/e875/large_jpg/058A7639.jpg?1785499407",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.02",
@@ -156,6 +176,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/paivi-raivios-basic-forms-barbican-london-movable-urban-playground/",
       "excerpt": "visitors can rearrange the colorful plywood pieces — and quietly reconsider who gets to shape public space.\nThe post päivi raivio’s basic forms turns the barbican into a movable urban playground appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/paivi-raivios-basic-forms-barbican-london-movable-urban-playground-designboom-5-818x643.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Resonancia Installation / PPAA",
+      "url": "https://www.archdaily.com/1181998/resonancia-ppaa",
+      "excerpt": "Logroño City Hall, designed by Rafael Moneo, was conceived as a fragment of the city rather than as an autonomous object. Its architecture not only houses a public institution but also defines an open",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/large_jpg/resonancia-ppaa_14.jpg?1785505760",
       "today": true
     },
     {
@@ -195,16 +225,6 @@ window.LUMINO_DATA = {
       "title": "Acoustics shape design of copper-clad concert hall in Evian",
       "url": "https://www.dezeen.com/2026/08/02/pca-stream-la-source-vive/",
       "excerpt": "French studio PCA-Stream has completed La Source Vive, a domed copper-clad concert hall in Évian, France, designed \"as a musical instrument\". Nestled into a sloping woodland site overlooking Lake Gene",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "The Gígur Visitor Center in Iceland / SP(R)INT STUDIO + Nissen Richards Studio",
-      "url": "https://www.archdaily.com/1181834/the-gigur-visitor-center-in-iceland-sp-r-int-studio-plus-nissen-richards-studio",
-      "excerpt": "SP(R)INT STUDIO, together with London-based design partner Nissen Richards Studio, has created the permanent exhibition, interior, and graphic design for Gígur Visitor Centre in North Iceland, along w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/0e65/d865/3d00/014d/12d2/large_jpg/1_-_The_G_gur_Visitor_Centre__Iceland.jpg?1785335549",
       "today": true
     },
     {
@@ -254,26 +274,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
       "excerpt": "time meets structure in our drop. discover limited timepieces and sculptural jewelry curated by designboom shop.\nThe post designboom shop drop: limited release of watches and architectural jewelry app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Responding to Displacement: Architectural Strategies Across Latin America",
-      "url": "https://www.archdaily.com/1181505/responding-to-displacement-architectural-strategies-across-latin-america",
-      "excerpt": "Displacement is usually understood through movement: the moment people are forced to move from one place to another. Yet from an architectural perspective, that movement is only the beginning of what ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ffbd/16b1/5001/8833/db32/large_jpg/architecture-for-displaced-communities-designing-for-resilience-and-adaptation-in-latin-america_2.jpg?1784741829",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "041BÖT Apartment / Christopher Sitzler",
-      "url": "https://www.archdaily.com/1181753/041bot-apartment-christopher-sitzler",
-      "excerpt": "In a 76-square-meter attic apartment dating from the 1990s, a radical reorganization of space transforms a fragmented, dated layout into a single, light-filled continuum.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a68/b766/d865/3d00/014d/0ceb/large_jpg/250428_christopher-sitzler_lhs33_0017_1_Kopie.jpg?1785247670",
       "today": true
     },
     {
