@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  17:08",
+  "fetchedAt": "2026.08.02  19:01",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.02",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -156,6 +156,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/paivi-raivios-basic-forms-barbican-london-movable-urban-playground/",
       "excerpt": "visitors can rearrange the colorful plywood pieces — and quietly reconsider who gets to shape public space.\nThe post päivi raivio’s basic forms turns the barbican into a movable urban playground appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/paivi-raivios-basic-forms-barbican-london-movable-urban-playground-designboom-5-818x643.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Pisçude House / Revvero Arq + Mariana Bet Arquitetura",
+      "url": "https://www.archdaily.com/1182049/piscude-house-revvero-arq-plus-mariana-bet-arquitetura",
+      "excerpt": "Located in the Vale dos Vinhedos, in Garibaldi, Rio Grande do Sul, Casa Pisçude was born from a rare and peculiar feature of its site: the only plot in the gated community with a natural pond, left by",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8b7d/1801/ca00/0176/e7ca/large_jpg/Revvero_Arq___Obra_-_5.jpg?1785498512",
       "today": true
     },
     {
@@ -284,16 +294,6 @@ window.LUMINO_DATA = {
       "excerpt": "Part audio workshop, part concert hall, listening room, and family home – enter the custom-built woodland hideaway where Listude speakers come to life",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HLWcyBGXG4JhuYMbjcvQk7-2000-80.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "EA House / Bokey Grant",
-      "url": "https://www.archdaily.com/1182004/ea-house-bokey-grant",
-      "excerpt": "EA House is a family home carefully crafted onto a sensitive rock cliff face escarpment in the southern highlands. A simple elemental gesture testing emotional responses on a difficult and unique site",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/ae24/4ea2/e401/8926/69bb/large_jpg/ea-house-bokey-grant_17.jpg?1785507446",
-      "today": false
     },
     {
       "source": "designboom",
