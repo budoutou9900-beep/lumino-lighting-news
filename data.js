@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  21:50",
+  "fetchedAt": "2026.08.02  22:51",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,19 +21,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "news.yahoo.co.jp": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -130,13 +130,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.02",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "timber and wave-like metal reshape lakeside pavilion into family restaurant in china",
+      "url": "https://www.designboom.com/architecture/timber-wave-like-metal-lakeside-pavilion-family-restaurant-china-lago-italian-family-kitchen-vari-architects/",
+      "excerpt": "lago italian family kitchen occupies an existing pavilion beside yihe park's lake.\nThe post timber and wave-like metal reshape lakeside pavilion into family restaurant in china appeared first on desig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lago-italian-family-kitchen-vari-architects-designboom-1200.jpg",
       "today": true
     },
     {
@@ -322,16 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
       "excerpt": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons.\nThe post ippolito pestellini lapa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "designboom radar: exhibitions to see around the world this august",
-      "url": "https://www.designboom.com/art/radar-exhibitions-august/",
-      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this august appeared fi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/august-exhibition-radar-designboom-FB-1.jpg",
       "today": false
     },
     {
