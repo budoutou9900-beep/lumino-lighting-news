@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  02:11",
+  "fetchedAt": "2026.08.02  05:57",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,19 +13,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,41 +33,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -82,12 +78,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
       "date": "2026.08.02",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -97,16 +94,6 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.08.02",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -142,11 +129,31 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.02",
+      "title": "Japanese speaker brand Listude hits a harmonious note with its multifunctional HQ in the woods",
+      "url": "https://www.wallpaper.com/tech/listude-audio-brand-home-japan",
+      "excerpt": "Part audio workshop, part concert hall, listening room, and family home – enter the custom-built woodland hideaway where Listude speakers come to life",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HLWcyBGXG4JhuYMbjcvQk7-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.02",
       "title": "The surprising design history of the Campari Soda bottle",
       "url": "https://www.wallpaper.com/architecture/campari-soda-bottle-design-history",
       "excerpt": "Architect Carlo Ratti investigates how the Campari Soda bottle became a part of everyone's favourite summer ritual –and explores its secret Fascist design origins",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4MDaMUm7BLGWovJn6STvcA-1600-80.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "EA House / Bokey Grant",
+      "url": "https://www.archdaily.com/1182004/ea-house-bokey-grant",
+      "excerpt": "EA House is a family home carefully crafted onto a sensitive rock cliff face escarpment in the southern highlands. A simple elemental gesture testing emotional responses on a difficult and unique site",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/ae24/4ea2/e401/8926/69bb/large_jpg/ea-house-bokey-grant_17.jpg?1785507446",
+      "today": false
     },
     {
       "source": "designboom",
@@ -156,6 +163,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/the-exploratorium-scientific-learning-stems-play/",
       "excerpt": "from geysers and colored shadows to fog and DNA, interactive exhibits invite curious minds of all ages to test how the world works.\nThe post san francisco’s exploratorium turns STEM learning into hand",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exploratorium-intro-designboom-03.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.01",
+      "title": "Montreal restaurant Minnibar by Ivy Studio \"embraces its raw shell\"",
+      "url": "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
+      "excerpt": "Japanese minimalism has informed the interiors of this light-filled Italian restaurant in Montreal, designed by locally based Ivy Studio with its first in-house designed chairs. Located on the ground ",
       "today": false
     },
     {
@@ -257,16 +273,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Where Is the Border? How Architecture Controls and Reimagines Mobility",
-      "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
-      "excerpt": "Imagine a corridor. Concrete walls two meters apart, a low ceiling, artificial lighting with neither shadow nor gradation. At the far end, a bulletproof glass window, and on the other side, a uniforme",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5a/451b/3d21/f701/89c9/2cf4/large_jpg/onde-fica-a-fronteira-o-papel-da-arquitetura-no-controle-da-mobilidade_10.jpg?1784300879",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -283,16 +289,6 @@ window.LUMINO_DATA = {
       "title": "This week we revealed heated Nike slides",
       "url": "https://www.dezeen.com/2026/08/01/nike-heated-slide-this-week/",
       "excerpt": "This week on Dezeen, we unveiled a pair of slides that heat up and vibrate feet to help athlete's recover. Created by sportswear company Nike and health technology company Hyperice, the slides contain",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "‘I hope the craft outlasts my name’: Ashiesh Shah’s global vision for India’s living handmade traditions",
-      "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
-      "excerpt": "The Mumbai-based architect, designer and artist talks about his lifelong dialogue with Indian craft, from quietly expressive interiors to collectible design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sFmzpau538zB6KsWWTMCV8-2560-80.jpg",
       "today": false
     },
     {
@@ -322,15 +318,6 @@ window.LUMINO_DATA = {
       "title": "Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York",
       "url": "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
       "excerpt": "New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "São Paulo skyscrapers by Königsberger Vannucchi linked by glass skybridge",
-      "url": "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/",
-      "excerpt": "A horizontal glass skybridge connects residential and office skyscrapers at this project by Königsberger Vannucchi Arquitetos Associados in São Paulo to preserve the \"individual reading of each tower ",
       "today": false
     },
     {
