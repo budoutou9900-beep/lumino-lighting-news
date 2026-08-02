@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  08:12",
+  "fetchedAt": "2026.08.02  10:29",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ozmall.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,37 +41,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -86,15 +82,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.02",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.02",
@@ -105,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.02",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -114,7 +101,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.02",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -156,6 +143,36 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.02",
+      "title": "Sweden’s classic car community has its own high-end event, The Aurora, now in its third year",
+      "url": "https://www.wallpaper.com/transportation/the-aurora-sweden-2026-highlights",
+      "excerpt": "Wallpaper* took a trip to the Swedish summer resort of Båstad to soak up the atmosphere at the third edition of The Aurora Concours",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HRj8D6EjPodENRSXW2dW33-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "The fold and the beautiful: will 2026 finally be the year of the folding smartphone?",
+      "url": "https://www.wallpaper.com/tech/five-folding-smartphones",
+      "excerpt": "With rumours of big things to come in the world of flexible screens, we take a look at the current state of play in foldable smartphones",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UL7DkVPVwWXo4YXgLgZypC-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "A monumentally minimalist Miami house elevates luxury living",
+      "url": "https://www.wallpaper.com/architecture/residential/miami-house-studiokp2-usa",
+      "excerpt": "This Miami house, designed by StudioKP2, gives little away from the street, but opens up to geometric drama and a careful balance of shelter and 21st-century luxury",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uyEHrG6qQvrkphUvf8tn65-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.02",
       "title": "Saving a design legacy: Dansk begins again",
       "url": "https://www.wallpaper.com/design-interiors/dansk-design-brand-rebirth-form-portfolios",
       "excerpt": "After rescuing Dansk from bankruptcy, Form Portfolios is returning the beloved Danish-American brand to its roots",
@@ -173,6 +190,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Meld skincare dispenser allows users to mix their own preservative-free formulas",
+      "url": "https://www.dezeen.com/2026/08/02/meld-skincare-dispenser-mix-own-formulas/",
+      "excerpt": "British designer Beth Morgan Lundie has developed a refillable skincare dispenser that lets users combine different ingredients to create a bespoke formula at home and \"bypass the need for toxic addit",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.02",
@@ -180,16 +206,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/listude-audio-brand-home-japan",
       "excerpt": "Part audio workshop, part concert hall, listening room, and family home – enter the custom-built woodland hideaway where Listude speakers come to life",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HLWcyBGXG4JhuYMbjcvQk7-2000-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "The surprising design history of the Campari Soda bottle",
-      "url": "https://www.wallpaper.com/architecture/campari-soda-bottle-design-history",
-      "excerpt": "Architect Carlo Ratti investigates how the Campari Soda bottle became a part of everyone's favourite summer ritual –and explores its secret Fascist design origins",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4MDaMUm7BLGWovJn6STvcA-1600-80.jpg",
       "today": true
     },
     {
@@ -281,32 +297,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Ikea’s new portable furniture is designed to grab and go – perfect for Generation Rent",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/ikea-kompishang-collection-portable-furniture",
-      "excerpt": "The new ‘Kompishäng’ collection includes foldable, stackable, multifunctional and lightweight furniture and accessories, designed for the realities of renting and moving in the city",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7AJgN9NRt6ED4tfcboYkok-1920-80.png",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.01",
       "title": "Dezeen's top five houses of July 2026",
       "url": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/",
       "excerpt": "A large multi-generational home in India and a low-lying stone farmhouse in rural Scotland are among the mix of residences in this eclectic edition of Dezeen's houses of the month. Also on the list of",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Embrace the spirit of Appalachia at this new London restaurant",
-      "url": "https://www.wallpaper.com/travel/restaurants/appalachia-london-review",
-      "excerpt": "Drawing on the culinary traditions of America’s eastern mountain range, Appalachia is the latest restaurant to conquer north London",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Hqd3zJfdYzdqY9Ex6YtYhQ-2560-80.jpg",
       "today": false
     },
     {
@@ -336,15 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
       "excerpt": "equihero is an anatomical inhalation mask designed for horses undergoing respiratory treatments.\nThe post 2s.design’s horse inhalation mask merges veterinary technology with natural form language appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2s-design-horse-inhalation-mask-equihero-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York",
-      "url": "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
-      "excerpt": "New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget",
       "today": false
     },
     {
