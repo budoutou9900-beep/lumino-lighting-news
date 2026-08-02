@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  13:23",
+  "fetchedAt": "2026.08.02  14:57",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "sortiraparis.com": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.02",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -91,7 +91,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.02",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -159,6 +159,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "The Gígur Visitor Center in Iceland / SP(R)INT STUDIO + Nissen Richards Studio",
+      "url": "https://www.archdaily.com/1181834/the-gigur-visitor-center-in-iceland-sp-r-int-studio-plus-nissen-richards-studio",
+      "excerpt": "SP(R)INT STUDIO, together with London-based design partner Nissen Richards Studio, has created the permanent exhibition, interior, and graphic design for Gígur Visitor Centre in North Iceland, along w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/0e65/d865/3d00/014d/12d2/large_jpg/1_-_The_G_gur_Visitor_Centre__Iceland.jpg?1785335549",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.02",
@@ -205,6 +215,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
       "excerpt": "time meets structure in our drop. discover limited timepieces and sculptural jewelry curated by designboom shop.\nThe post designboom shop drop: limited release of watches and architectural jewelry app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Responding to Displacement: Architectural Strategies Across Latin America",
+      "url": "https://www.archdaily.com/1181505/responding-to-displacement-architectural-strategies-across-latin-america",
+      "excerpt": "Displacement is usually understood through movement: the moment people are forced to move from one place to another. Yet from an architectural perspective, that movement is only the beginning of what ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a60/ffbd/16b1/5001/8833/db32/large_jpg/architecture-for-displaced-communities-designing-for-resilience-and-adaptation-in-latin-america_2.jpg?1784741829",
       "today": true
     },
     {
@@ -276,16 +296,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Looking South House / PLUG arquitectura modular",
-      "url": "https://www.archdaily.com/1182021/looking-south-house-plug-arquitectura-modular",
-      "excerpt": "Chapadmalal is a coastal town located in the southeast of the Buenos Aires province, halfway between Mar del Plata and Miramar. It is a popular Argentine destination for water sports enthusiasts, part",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/bc8c/1801/ca00/0176/e9d0/large_jpg/PLUG_-16_RET.jpg?1785511081",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -293,16 +303,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
       "excerpt": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons.\nThe post ippolito pestellini lapa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Riera Renovation / LABLANCA",
-      "url": "https://www.archdaily.com/1148798/riera",
-      "excerpt": "Riera is the renovation of a flat in a 1960s building, located along the former course of the Riera de Matamoros, in the historic centre of Badalona. The plot has elongated proportions, and the depth ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/af49/d425/1a00/01c4/ba55/large_jpg/LABLANCA_Riera_09.jpg?1784196957",
       "today": false
     },
     {
