@@ -1,69 +1,77 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  05:57",
+  "fetchedAt": "2026.08.02  08:12",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "Sortir à Paris": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "オズモール": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -75,6 +83,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.02",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -123,6 +140,36 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.02",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "Saving a design legacy: Dansk begins again",
+      "url": "https://www.wallpaper.com/design-interiors/dansk-design-brand-rebirth-form-portfolios",
+      "excerpt": "After rescuing Dansk from bankruptcy, Form Portfolios is returning the beloved Danish-American brand to its roots",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vowda9kCcNH3VwhmHHiWSB-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "designboom shop drop: limited release of watches and architectural jewelry",
+      "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
+      "excerpt": "time meets structure in our drop. discover limited timepieces and sculptural jewelry curated by designboom shop.\nThe post designboom shop drop: limited release of watches and architectural jewelry app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry-1200.jpg",
       "today": true
     },
     {
@@ -273,16 +320,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Get to know Del LaGrace Volcano, the legendary photographer who's defined –and revolutionised – LGBTQI+ visual culture",
-      "url": "https://www.wallpaper.com/art/photography/del-lagrace-volcano-exhibition",
-      "excerpt": "Their photographs is the subject of two new shows on view in London and Scotland.  'My life and the people I draw into my orbit are all part of my work,' they say",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VoGvHDzLEvcnuqNtbCSj9h-1920-80.png",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -299,16 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
       "excerpt": "equihero is an anatomical inhalation mask designed for horses undergoing respiratory treatments.\nThe post 2s.design’s horse inhalation mask merges veterinary technology with natural form language appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2s-design-horse-inhalation-mask-equihero-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.07.31",
-      "title": "steel and hanji weave into porous vessel of memory inside cold war bunker in seoul",
-      "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
-      "excerpt": "eotieum vessel is formed from a welded steel framework covered with thousands of hand-torn hanji fragments.\nThe post steel and hanji weave into porous vessel of memory inside cold war bunker in seoul ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/steel-hanji-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing-designboom-1200.jpg",
       "today": false
     },
     {
