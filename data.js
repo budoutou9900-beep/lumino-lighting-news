@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.03  02:13",
+  "fetchedAt": "2026.08.03  06:16",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ozmall.co.jp": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "news.yahoo.co.jp": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -82,7 +82,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.03",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.03",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -101,7 +111,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.03",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -130,13 +140,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "news.yahoo.co.jp",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "A local’s guide to Tallinn by artist Merike Estna and curator Natalia Sielewicz",
+      "url": "https://www.wallpaper.com/travel/a-locals-guide-to-tallinn-estonia",
+      "excerpt": "The artful duo, representing Estonia at the Venice Biennale 2026, share their picks for the perfect Tallinn city break",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uAZ4EcYoi28PNEHi3Dapkc-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Every detail has a purpose in MGAO’s compact, but considered cabin",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/matt-goodman-architecture-office-australia",
+      "excerpt": "Matt Goodman Architecture Office joins the Wallpaper* Architects’ Directory 2026 with a bushfire-proof cabin in Australia",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Rx6jHFHomF6a9akpSvuUkD-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "digital camouflage turns computational noise into wearable shield against AI surveillance",
+      "url": "https://www.designboom.com/technology/digital-camouflage-computational-noise-wearable-shield-ai-surveillance-simon-weckert/",
+      "excerpt": "the garments feature a continuous pattern that manipulates visual data to challenge machine-based recognition.\nThe post digital camouflage turns computational noise into wearable shield against AI sur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/digital-camouflage-conceptual-garment-collection-simon-weckert-digital-surveillance-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "In Edinburgh, discover the unique craft of 11 special jewellers",
+      "url": "https://www.wallpaper.com/watches-jewellery/terrane-exhibition-aetla-gallery-edinburgh-festival-fringe",
+      "excerpt": "New exhibition ‘Terrane’, opening at Ætla gallery during the Edinburgh Festival Fringe, unites jewellery defined by a considered craftsmanship",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GF9smBSAN9ze4tSrP8PdL5-2560-80.jpg",
       "today": true
     },
     {
@@ -257,26 +297,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "A monumentally minimalist Miami house elevates luxury living",
-      "url": "https://www.wallpaper.com/architecture/residential/miami-house-studiokp2-usa",
-      "excerpt": "This Miami house, designed by StudioKP2, gives little away from the street, but opens up to geometric drama and a careful balance of shelter and 21st-century luxury",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uyEHrG6qQvrkphUvf8tn65-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Saving a design legacy: Dansk begins again",
-      "url": "https://www.wallpaper.com/design-interiors/dansk-design-brand-rebirth-form-portfolios",
-      "excerpt": "After rescuing Dansk from bankruptcy, Form Portfolios is returning the beloved Danish-American brand to its roots",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vowda9kCcNH3VwhmHHiWSB-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.02",
@@ -296,16 +316,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Japanese speaker brand Listude hits a harmonious note with its multifunctional HQ in the woods",
-      "url": "https://www.wallpaper.com/tech/listude-audio-brand-home-japan",
-      "excerpt": "Part audio workshop, part concert hall, listening room, and family home – enter the custom-built woodland hideaway where Listude speakers come to life",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HLWcyBGXG4JhuYMbjcvQk7-2000-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.01",
@@ -322,16 +332,6 @@ window.LUMINO_DATA = {
       "title": "Montreal restaurant Minnibar by Ivy Studio \"embraces its raw shell\"",
       "url": "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
       "excerpt": "Japanese minimalism has informed the interiors of this light-filled Italian restaurant in Montreal, designed by locally based Ivy Studio with its first in-house designed chairs. Located on the ground ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "ippolito pestellini laparelli and erica petrillo of 2050+ on ‘the parking lot that forgot itself’",
-      "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
-      "excerpt": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons.\nThe post ippolito pestellini lapa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
       "today": false
     },
     {
