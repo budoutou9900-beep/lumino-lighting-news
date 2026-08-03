@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.02  23:53",
+  "fetchedAt": "2026.08.03  02:13",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "adfwebmagazine.jp": {
+    "ozmall.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "news.yahoo.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Yahoo!ニュース": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,48 +37,44 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -86,18 +82,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
-      "cat": "賞・コンペ",
-      "date": "2026.08.02",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -106,7 +93,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -114,9 +101,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -125,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -135,7 +122,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -143,14 +130,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "cat": "展示・アート",
-      "date": "2026.08.02",
+      "date": "2026.08.03",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.02",
+      "title": "The Saffron Verandah House / HabitArt Architecture Studio",
+      "url": "https://www.archdaily.com/1181979/the-saffron-verandah-house-habitart-architecture-studio",
+      "excerpt": "Some homes begin with a drawing, and The Saffron Verandah began with an orchard. In the mango-growing landscapes of Shoolagiri, a quiet hamlet in northern Tamil Nadu, the land has settled into its own",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/87c7/1801/ca00/0176/e7b7/large_jpg/DSC_8918.jpg?1785497641",
+      "today": false
     },
     {
       "source": "designboom",
@@ -160,7 +157,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/timber-wave-like-metal-lakeside-pavilion-family-restaurant-china-lago-italian-family-kitchen-vari-architects/",
       "excerpt": "lago italian family kitchen occupies an existing pavilion beside yihe park's lake.\nThe post timber and wave-like metal reshape lakeside pavilion into family restaurant in china appeared first on desig",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lago-italian-family-kitchen-vari-architects-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -169,7 +166,7 @@ window.LUMINO_DATA = {
       "title": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
       "url": "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
       "excerpt": "Brooklyn-based Studio Vural has renovated a loft apartment inside a former herring canning factory in New York's West Village, adding tonal green accents throughout. Studio Vural overhauled the loft w",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -179,7 +176,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181953/marivan-medical-building-asnow-design-and-construct",
       "excerpt": "Marivan Medical Building, with a total area of approximately 1,050 square meters, is located on one of the main boulevards of Marivan, Iran.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7269/1801/ca00/0176/e625/large_jpg/D__1_.jpg?1785492105",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -189,7 +186,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182005/bell-house-bilbao-lopez",
       "excerpt": "The house is located in a gated community in the suburban area of City Bell, on the outskirts of La Plata—an environment that combines the natural character of the periphery with an ongoing process of",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8eac/1801/ca00/0176/e875/large_jpg/058A7639.jpg?1785499407",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -199,7 +196,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/paivi-raivios-basic-forms-barbican-london-movable-urban-playground/",
       "excerpt": "visitors can rearrange the colorful plywood pieces — and quietly reconsider who gets to shape public space.\nThe post päivi raivio’s basic forms turns the barbican into a movable urban playground appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/paivi-raivios-basic-forms-barbican-london-movable-urban-playground-designboom-5-818x643.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -209,7 +206,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181998/resonancia-ppaa",
       "excerpt": "Logroño City Hall, designed by Rafael Moneo, was conceived as a fragment of the city rather than as an autonomous object. Its architecture not only houses a public institution but also defines an open",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/large_jpg/resonancia-ppaa_14.jpg?1785505760",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -219,17 +216,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182049/piscude-house-revvero-arq-plus-mariana-bet-arquitetura",
       "excerpt": "Located in the Vale dos Vinhedos, in Garibaldi, Rio Grande do Sul, Casa Pisçude was born from a rare and peculiar feature of its site: the only plot in the gated community with a natural pond, left by",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8b7d/1801/ca00/0176/e7ca/large_jpg/Revvero_Arq___Obra_-_5.jpg?1785498512",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Casa Nido / Iterare arquitectos",
-      "url": "https://www.archdaily.com/1181865/casa-nido-nesting-within-heritage-iterare-arquitectos",
-      "excerpt": "Occupying a corner plot in Torrefiel—one of Valencia's most humble neighborhoods—Casa Nido is conceived as an exercise in protecting and highlighting the scarce and valuable built heritage still prese",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/313c/1801/ca00/0176/e062/large_jpg/ITERARE_ARQUITECTOS_NESTED_HOUSE_1.jpg?1785409887",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -239,7 +226,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/the-aurora-sweden-2026-highlights",
       "excerpt": "Wallpaper* took a trip to the Swedish summer resort of Båstad to soak up the atmosphere at the third edition of The Aurora Concours",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HRj8D6EjPodENRSXW2dW33-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -248,7 +235,7 @@ window.LUMINO_DATA = {
       "title": "Acoustics shape design of copper-clad concert hall in Evian",
       "url": "https://www.dezeen.com/2026/08/02/pca-stream-la-source-vive/",
       "excerpt": "French studio PCA-Stream has completed La Source Vive, a domed copper-clad concert hall in Évian, France, designed \"as a musical instrument\". Nestled into a sloping woodland site overlooking Lake Gene",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -258,7 +245,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/five-folding-smartphones",
       "excerpt": "With rumours of big things to come in the world of flexible screens, we take a look at the current state of play in foldable smartphones",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UL7DkVPVwWXo4YXgLgZypC-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -267,7 +254,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen's favourite furniture and lighting from July",
       "url": "https://www.dezeen.com/2026/08/02/dezeens-favourite-furniture-lighting-july/",
       "excerpt": "A flat-pack wardrobe that can be assembled with a single Allen key and a concrete bench made of clam shells feature in this roundup of furniture and lighting, spotted by Dezeen's design team over the ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -277,7 +264,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/miami-house-studiokp2-usa",
       "excerpt": "This Miami house, designed by StudioKP2, gives little away from the street, but opens up to geometric drama and a careful balance of shelter and 21st-century luxury",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uyEHrG6qQvrkphUvf8tn65-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -287,7 +274,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/dansk-design-brand-rebirth-form-portfolios",
       "excerpt": "After rescuing Dansk from bankruptcy, Form Portfolios is returning the beloved Danish-American brand to its roots",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vowda9kCcNH3VwhmHHiWSB-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -297,7 +284,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
       "excerpt": "time meets structure in our drop. discover limited timepieces and sculptural jewelry curated by designboom shop.\nThe post designboom shop drop: limited release of watches and architectural jewelry app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -306,7 +293,7 @@ window.LUMINO_DATA = {
       "title": "Meld skincare dispenser allows users to mix their own preservative-free formulas",
       "url": "https://www.dezeen.com/2026/08/02/meld-skincare-dispenser-mix-own-formulas/",
       "excerpt": "British designer Beth Morgan Lundie has developed a refillable skincare dispenser that lets users combine different ingredients to create a bespoke formula at home and \"bypass the need for toxic addit",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -316,7 +303,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/listude-audio-brand-home-japan",
       "excerpt": "Part audio workshop, part concert hall, listening room, and family home – enter the custom-built woodland hideaway where Listude speakers come to life",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HLWcyBGXG4JhuYMbjcvQk7-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
