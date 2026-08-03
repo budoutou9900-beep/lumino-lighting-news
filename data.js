@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.03  16:18",
+  "fetchedAt": "2026.08.03  18:47",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -79,6 +79,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.03",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -130,13 +140,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
+      "url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
+      "excerpt": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architect",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Before Palm Springs, there was Corbin Palms – now one of its original mid-century homes is for sale",
+      "url": "https://www.wallpaper.com/architecture/residential/palmer-and-krisel-home-corbin-palms",
+      "excerpt": "A rare 1954 Palmer & Krisel residence in Corbin Palms – the overlooked Woodland Hills enclave where the architects first tested the ideas that would define California’s desert modernism – is on the ma",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Fp7zEiv5gLYBYwGvy4PX7-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "FGMF’s new São Paulo house is cleverly arranged around a sub-tropical garden",
+      "url": "https://www.wallpaper.com/architecture/residential/sao-paolo-house-fgmf-architecture",
+      "excerpt": "Casa da rua Escócia brings the outside in thanks to clever planning, angled walls and a richly planted courtyard garden",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3zqzkmum8DNZ4SdL2r6TtA-2160-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "A Pierre Paulin design icon becomes the backdrop for Fred Again.. and Latin Mafia's latest collaboration",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/fred-again-latin-mafia-9-months-and-50-hours-lago-algo-paulin-paulin-paulin",
+      "excerpt": "Conceived in 1970, Pierre Paulin's Dune seating landscape is part of Fred Again.. and Latin Mafia's collaborative mixtape, '9 months & 50 hours', recorded at LagoAlgo in Mexico City, with a spatial in",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qQxMSkct2k8R8C9gxNh4N7-2524-80.png",
       "today": true
     },
     {
@@ -189,13 +228,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "Discover New York through its movie locations with A24’s new book",
-      "url": "https://www.wallpaper.com/travel/on-location-new-york-city-a24-book",
-      "excerpt": "Relive movie moments with ‘On Location in New York City’, which maps 179 restaurants, shops, parks, bars and landmarks across the five boroughs that have conquered the silver screen",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fuPCfJAQEUKaxSpcMpMJmn-1924-80.jpg",
+      "title": "Architectural Design Competition for the Facade of the Bajopontina S.A. Distribution Center",
+      "url": "https://www.archdaily.com/1182073/architectural-design-competition-for-the-facade-of-the-bajopontina-sa-distribution-center",
+      "excerpt": "BAJOPONTINA S.A., a strategic partner of Arca Continental (the exclusive bottler and marketer of Coca-Cola Peru brands) with a presence in East and Central Lima and key provinces such as Huancayo, Hua",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5137/1801/ca00/0176/ecbb/large_jpg/BANNER_CONCURSO_BAJOPONTINA.jpg?1785745727",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Snider House / Giannone Petricone Associates Inc. Architects",
+      "url": "https://www.archdaily.com/1181851/snider-house-giannone-petricone-associates-inc-architects",
+      "excerpt": "Snider House, an 1828 heritage property and North Toronto's oldest surviving structure, was originally constructed as a brick Regency Cottage farmhouse at the heart of sprawling pastures and orchards.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/71b0/1801/ca00/0176/df05/large_jpg/04_GPA_Snider_House_credit_Scott_Norsworthy.jpg?1785360991",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Screening of the documentary \"Amarar\"",
+      "url": "https://www.archdaily.com/1182078/screening-of-the-documentary-amarar",
+      "excerpt": "Arquitectura en Corto invites you to Espacio Arquia in Madrid (16 Tutor St.) on Thursday, September 17, at 7:00 PM for the screening of the short film Amarar. The title refers to a traditional Mallorc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/62d8/1801/ca00/0176/ed63/large_jpg/AeC_Aulets_1920x1080.jpg?1785750240",
       "today": true
     },
     {
@@ -266,55 +325,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Living Places – Simon Architecture Prize 6th edition: 2026",
-      "url": "https://www.archdaily.com/1182097/living-places-simon-architecture-prize-6th-edition-2026",
-      "excerpt": "The Living Places - Simon Architecture Prize, an initiative of Simon developed by Fundació Mies van der Rohe, has the aim of distinguishing excellent architecture that enhance spaces’ capacity for ada",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/7de8/1801/ca00/0176/ee7e/large_jpg/Living_Places_Simon.jpg?1785757167",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "\"Plants on a building doesn't make it sustainable, any more than a basil leaf on a steak makes it vegan\"",
-      "url": "https://www.dezeen.com/2026/08/03/rotterdam-rocks-shift-barnabas-calder-opinion/",
-      "excerpt": "Plans for a large new building in Rotterdam intended to encourage people to lead more environmentally friendly lifestyles are wrong-headed and should be scrapped in a blaze of publicity, writes Barnab",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "The most elegant Lego storage system ever made? Meet the Brickle",
-      "url": "https://www.wallpaper.com/design-interiors/brickle-lego-storage-system",
-      "excerpt": "The handcrafted Brickle promises to stash and sort even the largest collection of Lego bricks, streamlining piece selection, creative play and keeping floors clear of painful hazards",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mkTsHjYcpLHtoKSxotmGFj-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Vicky Lau’s new Tate opens in Hong Kong with an elegant flourish – step inside",
-      "url": "https://www.wallpaper.com/travel/restaurants/vicky-lau-tate-hong-kong",
-      "excerpt": "The chef and restaurateur continues to redefine fine dining in Hong Kong, bringing her take on French-Chinese cuisine to a new space intended to feel like a particularly ‘elegant private home’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MhPaYV2hKmTzqFPBqLV4Ya-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "The Architecture of Craft: ArchDaily's August Editorial Focus",
-      "url": "https://www.archdaily.com/1182030/the-architecture-of-craft-archdailys-august-editorial-focus",
-      "excerpt": "When Francis Kéré set out to build a school in his home village of Gando, Burkina Faso, he chose clay, a material his own community associated with scarcity, not architecture. To prove it could hold, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/cd63/4ea2/e401/8926/6c5d/large_jpg/the-architecture-of-craft-archdailys-august-editorial-focus_1.jpg?1785515372",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.03",
@@ -322,16 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/atelier-guo-stream-restaurant-sweeping-concrete-roof-china/",
       "excerpt": "a found boulder, an open kitchen and bamboo-imprinted concrete turn dinner into a landscape encounter.\nThe post atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/atelier-guo-stream-restaurant-sweeping-concrete-roof-china-designboom-10.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "The Art of Ice Cream Shop Design",
-      "url": "https://www.archdaily.com/1164587/the-art-of-ice-cream-shop-design",
-      "excerpt": "The ice cream shop functions as an exercise in branding through playfulness in retail and commercial spaces, a small architectural gesture designed to draw people in off the street or across the park.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/ba73/e8f5/cb01/8987/a7ec/large_jpg/ice-cream_1.jpg?1784396409",
       "today": true
     },
     {
