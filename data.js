@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.03  06:16",
+  "fetchedAt": "2026.08.03  10:37",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -25,49 +25,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -82,13 +90,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.08.03",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -140,6 +147,131 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.03",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.03",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Inrestudio uses double-layered envelope to create \"in-between spaces\" for Vietnamese home",
+      "url": "https://www.dezeen.com/2026/08/03/100-windows-inrestudio-multi-generational-house-vietnam/",
+      "excerpt": "Irregularly placed and mismatched openings puncture the terracotta-toned, double-layered exterior of 100 Windows, a multigenerational home in Vietnam designed by local architecture practice Inrestudio",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Demolition of Studio Fuksas concert hall underway in Tbilisi",
+      "url": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/",
+      "excerpt": "Work has begun on the demolition of the never-opened Rike Concert Hall in Tbilisi, which was designed by Italian practice Studio Fuksas. Local news organisation TV Pirveli filmed the cladding being re",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Scottish architect launches campaign for Glasgow School of Art to be rebuilt",
+      "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
+      "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Glasgow School of Art, calling on \"an independent body to own and take forward the project\". The campaign calls for th",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "franck bohbot captures the vienna state opera before the curtain rises",
+      "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
+      "excerpt": "the photographer captures how marble, ornament, and empty auditoriums preserve centuries of cultural memory long before the first note is played.\nThe post franck bohbot captures the vienna state opera",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/franck-bohbot-vienna-state-opera-curtain-rises-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "\"Plants on a building doesn't make it sustainable, any more than a basil leaf on a steak makes it vegan\"",
+      "url": "https://www.dezeen.com/2026/08/03/rotterdam-rocks-shift-barnabas-calder-opinion/",
+      "excerpt": "Plans for a large new building in Rotterdam intended to encourage people to lead more environmentally friendly lifestyles are wrong-headed and should be scrapped in a blaze of publicity, writes Barnab",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "The most elegant Lego storage system ever made? Meet the Brickle",
+      "url": "https://www.wallpaper.com/design-interiors/brickle-lego-storage-system",
+      "excerpt": "The handcrafted Brickle promises to stash and sort even the largest collection of Lego bricks, streamlining piece selection, creative play and keeping floors clear of painful hazards",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mkTsHjYcpLHtoKSxotmGFj-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Vicky Lau’s new Tate opens in Hong Kong with an elegant flourish – step inside",
+      "url": "https://www.wallpaper.com/travel/restaurants/vicky-lau-tate-hong-kong",
+      "excerpt": "The chef and restaurateur continues to redefine fine dining in Hong Kong, bringing her take on French-Chinese cuisine to a new space intended to feel like a particularly ‘elegant private home’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MhPaYV2hKmTzqFPBqLV4Ya-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof",
+      "url": "https://www.designboom.com/architecture/atelier-guo-stream-restaurant-sweeping-concrete-roof-china/",
+      "excerpt": "a found boulder, an open kitchen and bamboo-imprinted concrete turn dinner into a landscape encounter.\nThe post atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/atelier-guo-stream-restaurant-sweeping-concrete-roof-china-designboom-10.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Six architecture and design events in August from Dezeen Events Guide",
+      "url": "https://www.dezeen.com/2026/08/03/six-architecture-design-events-august-dezeen-events-guide-2026/",
+      "excerpt": "Exhibitions Architecture's Inscriptions, Maggie's: Architecture That Cares and Wellbeing in the City are among the architecture and design events featured in Dezeen Events Guide this August. Other eve",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "unopiù brings traditional ironwork back to the modern patio setting",
+      "url": "https://www.designboom.com/design/unopiu-igea-iron-outdoor-furniture-collection/",
+      "excerpt": "UNOPIÙ CRAFTS OUTDOOR SERIES FROM WROUGHT IRON   Unopiù reinterprets classic wrought iron with IGEA, an ultra-light outdoor collection created in collaboration with designers Matteo Thun and Benedetto",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/unopiu_designboom_linkedin.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Step inside Andreas Angelidakis’ strobe-lit escape room in Venice",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/andreas-angelidakis-escape-room-greek-pavilion-venice-biennale-review",
+      "excerpt": "‘Dear Visitor, we regret to inform you that Greece has escaped.’ At the Venice Biennale 2026, Andreas Angelidakis gives the Greek Pavilion a surprising twist",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/42esy8SmixamCSJFvvYKGe-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.03",
@@ -170,13 +302,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "In Edinburgh, discover the unique craft of 11 special jewellers",
-      "url": "https://www.wallpaper.com/watches-jewellery/terrane-exhibition-aetla-gallery-edinburgh-festival-fringe",
-      "excerpt": "New exhibition ‘Terrane’, opening at Ætla gallery during the Edinburgh Festival Fringe, unites jewellery defined by a considered craftsmanship",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GF9smBSAN9ze4tSrP8PdL5-2560-80.jpg",
+      "title": "Soviet Modernism in Central Asia: The Dilemma of Recent Heritage",
+      "url": "https://www.archdaily.com/1148580/soviet-modernism-in-central-asia-the-dilemma-of-recent-heritage",
+      "excerpt": "Over the last decade, Uzbekistan has done what most post-Soviet countries still hesitate to do: it formally included dozens of modernist buildings constructed between 1960 and 1980 on its national cul",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/1730/5f40/ed01/8c9f/1d4d/large_jpg/o-modernismo-sovietico-da-asia-central-e-o-dilema-legal-da-preservacao-recente_11.jpg?1783633733",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Machida Station Area Community Hub “Hatmachida” / Nikken Sekkei",
+      "url": "https://www.archdaily.com/1181947/machida-station-area-community-hub-hatmachida-nikken-sekkei",
+      "excerpt": "As the importance of walkable urban environments continues to gain global attention, 'hatmachida' represents a practical urban strategy that inserts a compact 22.7 m² architectural intervention into a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/713b/1801/ca00/0176/e584/large_jpg/hatmachida_03_nikken_Photo_by_Shota_Hiyoshi.jpg?1785491797",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Reborn House / DARE – Design Arena + Research",
+      "url": "https://www.archdaily.com/1181954/reborn-house-dare-design-arena-plus-research",
+      "excerpt": "Located in a suburban area of Bangkok, this project sits in a village split by a new public road, transforming a serene area into a busy district. The 30-year-old house, influenced by Thailand's early",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/ce5a/4ea2/e401/8926/6c75/large_jpg/reborn-house-dare-design-arena-plus-research_20.jpg?1785515615",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "納入事例に「格子天井と伝統意匠の家」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/183",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/183/_DSF8202.jpg",
       "today": true
     },
     {
@@ -200,15 +362,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
-      "url": "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
-      "excerpt": "Brooklyn-based Studio Vural has renovated a loft apartment inside a former herring canning factory in New York's West Village, adding tonal green accents throughout. Studio Vural overhauled the loft w",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.02",
@@ -216,122 +369,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181953/marivan-medical-building-asnow-design-and-construct",
       "excerpt": "Marivan Medical Building, with a total area of approximately 1,050 square meters, is located on one of the main boulevards of Marivan, Iran.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7269/1801/ca00/0176/e625/large_jpg/D__1_.jpg?1785492105",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Bell House / BILBAO | LOPEZ",
-      "url": "https://www.archdaily.com/1182005/bell-house-bilbao-lopez",
-      "excerpt": "The house is located in a gated community in the suburban area of City Bell, on the outskirts of La Plata—an environment that combines the natural character of the periphery with an ongoing process of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8eac/1801/ca00/0176/e875/large_jpg/058A7639.jpg?1785499407",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "päivi raivio’s basic forms turns the barbican into a movable urban playground",
-      "url": "https://www.designboom.com/design/paivi-raivios-basic-forms-barbican-london-movable-urban-playground/",
-      "excerpt": "visitors can rearrange the colorful plywood pieces — and quietly reconsider who gets to shape public space.\nThe post päivi raivio’s basic forms turns the barbican into a movable urban playground appea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/paivi-raivios-basic-forms-barbican-london-movable-urban-playground-designboom-5-818x643.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Resonancia Installation / PPAA",
-      "url": "https://www.archdaily.com/1181998/resonancia-ppaa",
-      "excerpt": "Logroño City Hall, designed by Rafael Moneo, was conceived as a fragment of the city rather than as an autonomous object. Its architecture not only houses a public institution but also defines an open",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/large_jpg/resonancia-ppaa_14.jpg?1785505760",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Pisçude House / Revvero Arq + Mariana Bet Arquitetura",
-      "url": "https://www.archdaily.com/1182049/piscude-house-revvero-arq-plus-mariana-bet-arquitetura",
-      "excerpt": "Located in the Vale dos Vinhedos, in Garibaldi, Rio Grande do Sul, Casa Pisçude was born from a rare and peculiar feature of its site: the only plot in the gated community with a natural pond, left by",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/8b7d/1801/ca00/0176/e7ca/large_jpg/Revvero_Arq___Obra_-_5.jpg?1785498512",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Sweden’s classic car community has its own high-end event, The Aurora, now in its third year",
-      "url": "https://www.wallpaper.com/transportation/the-aurora-sweden-2026-highlights",
-      "excerpt": "Wallpaper* took a trip to the Swedish summer resort of Båstad to soak up the atmosphere at the third edition of The Aurora Concours",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HRj8D6EjPodENRSXW2dW33-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Acoustics shape design of copper-clad concert hall in Evian",
-      "url": "https://www.dezeen.com/2026/08/02/pca-stream-la-source-vive/",
-      "excerpt": "French studio PCA-Stream has completed La Source Vive, a domed copper-clad concert hall in Évian, France, designed \"as a musical instrument\". Nestled into a sloping woodland site overlooking Lake Gene",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "The fold and the beautiful: will 2026 finally be the year of the folding smartphone?",
-      "url": "https://www.wallpaper.com/tech/five-folding-smartphones",
-      "excerpt": "With rumours of big things to come in the world of flexible screens, we take a look at the current state of play in foldable smartphones",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UL7DkVPVwWXo4YXgLgZypC-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Dezeen's favourite furniture and lighting from July",
-      "url": "https://www.dezeen.com/2026/08/02/dezeens-favourite-furniture-lighting-july/",
-      "excerpt": "A flat-pack wardrobe that can be assembled with a single Allen key and a concrete bench made of clam shells feature in this roundup of furniture and lighting, spotted by Dezeen's design team over the ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "designboom shop drop: limited release of watches and architectural jewelry",
-      "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
-      "excerpt": "time meets structure in our drop. discover limited timepieces and sculptural jewelry curated by designboom shop.\nThe post designboom shop drop: limited release of watches and architectural jewelry app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Meld skincare dispenser allows users to mix their own preservative-free formulas",
-      "url": "https://www.dezeen.com/2026/08/02/meld-skincare-dispenser-mix-own-formulas/",
-      "excerpt": "British designer Beth Morgan Lundie has developed a refillable skincare dispenser that lets users combine different ingredients to create a bespoke formula at home and \"bypass the need for toxic addit",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "san francisco’s exploratorium turns STEM learning into hands-on play",
-      "url": "https://www.designboom.com/design/the-exploratorium-scientific-learning-stems-play/",
-      "excerpt": "from geysers and colored shadows to fog and DNA, interactive exhibits invite curious minds of all ages to test how the world works.\nThe post san francisco’s exploratorium turns STEM learning into hand",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/exploratorium-intro-designboom-03.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.01",
-      "title": "Montreal restaurant Minnibar by Ivy Studio \"embraces its raw shell\"",
-      "url": "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
-      "excerpt": "Japanese minimalism has informed the interiors of this light-filled Italian restaurant in Montreal, designed by locally based Ivy Studio with its first in-house designed chairs. Located on the ground ",
       "today": false
     },
     {
@@ -494,16 +531,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.07.01",
-      "title": "納入事例に「JWマリオット・ホテル東京」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/170",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/170/132A3612_300dpi.jpg",
-      "today": false
-    },
-    {
       "source": "YAMAGIWA",
       "cat": "新製品",
       "date": "2026.06.29",
@@ -561,16 +588,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "デザイン",
-      "date": "2026.06.19",
-      "title": "「3daysofdesign 2026」初出展レポート",
-      "url": "https://www.yamagiwa.co.jp/news/79548/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/06/3dd_yamagiwa_1-1024x683.jpg",
       "today": false
     }
   ]
