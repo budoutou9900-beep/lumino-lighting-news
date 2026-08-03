@@ -1,81 +1,73 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.03  10:37",
+  "fetchedAt": "2026.08.03  13:36",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "オズモール": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Yahoo!ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -87,15 +79,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.03",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -188,19 +171,9 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "Scottish architect launches campaign for Glasgow School of Art to be rebuilt",
+      "title": "Scottish architect launches campaign to rebuild Mackintosh Building",
       "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
-      "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Glasgow School of Art, calling on \"an independent body to own and take forward the project\". The campaign calls for th",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "franck bohbot captures the vienna state opera before the curtain rises",
-      "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
-      "excerpt": "the photographer captures how marble, ornament, and empty auditoriums preserve centuries of cultural memory long before the first note is played.\nThe post franck bohbot captures the vienna state opera",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/franck-bohbot-vienna-state-opera-curtain-rises-designboom-1200.jpg",
+      "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Mackintosh Building at the Glasgow School of Art, calling on \"an independent body to own and take forward the project\"",
       "today": true
     },
     {
@@ -233,13 +206,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof",
-      "url": "https://www.designboom.com/architecture/atelier-guo-stream-restaurant-sweeping-concrete-roof-china/",
-      "excerpt": "a found boulder, an open kitchen and bamboo-imprinted concrete turn dinner into a landscape encounter.\nThe post atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/atelier-guo-stream-restaurant-sweeping-concrete-roof-china-designboom-10.jpg",
+      "title": "The Architecture of Craft: ArchDaily's August Editorial Focus",
+      "url": "https://www.archdaily.com/1182030/the-architecture-of-craft-archdailys-august-editorial-focus",
+      "excerpt": "When Francis Kéré set out to build a school in his home village of Gando, Burkina Faso, he chose clay, a material his own community associated with scarcity, not architecture. To prove it could hold, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/cd63/4ea2/e401/8926/6c5d/large_jpg/the-architecture-of-craft-archdailys-august-editorial-focus_1.jpg?1785515372",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "The Art of Ice Cream Shop Design",
+      "url": "https://www.archdaily.com/1164587/the-art-of-ice-cream-shop-design",
+      "excerpt": "The ice cream shop functions as an exercise in branding through playfulness in retail and commercial spaces, a small architectural gesture designed to draw people in off the street or across the park.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/ba73/e8f5/cb01/8987/a7ec/large_jpg/ice-cream_1.jpg?1784396409",
       "today": true
     },
     {
@@ -252,13 +235,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "unopiù brings traditional ironwork back to the modern patio setting",
-      "url": "https://www.designboom.com/design/unopiu-igea-iron-outdoor-furniture-collection/",
-      "excerpt": "UNOPIÙ CRAFTS OUTDOOR SERIES FROM WROUGHT IRON   Unopiù reinterprets classic wrought iron with IGEA, an ultra-light outdoor collection created in collaboration with designers Matteo Thun and Benedetto",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/unopiu_designboom_linkedin.jpg",
+      "title": "The Martin Residential Building  / OMA",
+      "url": "https://www.archdaily.com/1181924/the-martin-residential-building-oma",
+      "excerpt": "Designed by OMA / David Gianotten and Mariano Sagasta, The Martin consists of four interlocking volumes and is defined by a layered, permeable facade with continuous balconies along its perimeter. It ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/c809/0364/d201/89e9/7459/large_jpg/the-martin-oma_15.jpg?1785448690",
       "today": true
     },
     {
@@ -269,6 +252,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/andreas-angelidakis-escape-room-greek-pavilion-venice-biennale-review",
       "excerpt": "‘Dear Visitor, we regret to inform you that Greece has escaped.’ At the Venice Biennale 2026, Andreas Angelidakis gives the Greek Pavilion a surprising twist",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/42esy8SmixamCSJFvvYKGe-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Museum of Art Pudong Presents \"Jean Nouvel: Without the Artist, Architecture Disappears\" in Shanghai",
+      "url": "https://www.archdaily.com/1182085/museum-of-art-pudong-presents-jean-nouvel-without-the-artist-architecture-disappears-in-shanghai",
+      "excerpt": "Museum of Art Pudong (MAP) in Shanghai is presenting \"Jean Nouvel: Without the Artist, Architecture Disappears\" until August 31, 2026. Marking the museum's fifth anniversary, the exhibition is dedicat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/694a/0364/d201/89e9/7ddb/large_jpg/museum-of-art-pudong-in-shanghai-presents-jean-nouvel-exhibition-exploring-five-decades-of-architectural-practice_13.jpg?1785751985",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "The Fun House / alto design studio",
+      "url": "https://www.archdaily.com/1181839/the-fun-house-alto-design-studio",
+      "excerpt": "The project was immediately labeled as \"fun,\" as the clients displayed their openness to bold design choices and a need for a lounge or game room.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/228f/1801/ca00/0176/de6e/large_jpg/1_Ana_Skobe.jpg?1785340670",
       "today": true
     },
     {
@@ -292,46 +295,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "digital camouflage turns computational noise into wearable shield against AI surveillance",
-      "url": "https://www.designboom.com/technology/digital-camouflage-computational-noise-wearable-shield-ai-surveillance-simon-weckert/",
-      "excerpt": "the garments feature a continuous pattern that manipulates visual data to challenge machine-based recognition.\nThe post digital camouflage turns computational noise into wearable shield against AI sur",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/digital-camouflage-conceptual-garment-collection-simon-weckert-digital-surveillance-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Soviet Modernism in Central Asia: The Dilemma of Recent Heritage",
-      "url": "https://www.archdaily.com/1148580/soviet-modernism-in-central-asia-the-dilemma-of-recent-heritage",
-      "excerpt": "Over the last decade, Uzbekistan has done what most post-Soviet countries still hesitate to do: it formally included dozens of modernist buildings constructed between 1960 and 1980 on its national cul",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a50/1730/5f40/ed01/8c9f/1d4d/large_jpg/o-modernismo-sovietico-da-asia-central-e-o-dilema-legal-da-preservacao-recente_11.jpg?1783633733",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Machida Station Area Community Hub “Hatmachida” / Nikken Sekkei",
-      "url": "https://www.archdaily.com/1181947/machida-station-area-community-hub-hatmachida-nikken-sekkei",
-      "excerpt": "As the importance of walkable urban environments continues to gain global attention, 'hatmachida' represents a practical urban strategy that inserts a compact 22.7 m² architectural intervention into a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/713b/1801/ca00/0176/e584/large_jpg/hatmachida_03_nikken_Photo_by_Shota_Hiyoshi.jpg?1785491797",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Reborn House / DARE – Design Arena + Research",
-      "url": "https://www.archdaily.com/1181954/reborn-house-dare-design-arena-plus-research",
-      "excerpt": "Located in a suburban area of Bangkok, this project sits in a village split by a new public road, transforming a serene area into a busy district. The 30-year-old house, influenced by Thailand's early",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/ce5a/4ea2/e401/8926/6c75/large_jpg/reborn-house-dare-design-arena-plus-research_20.jpg?1785515615",
-      "today": true
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.03",
@@ -340,36 +303,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/183/_DSF8202.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "The Saffron Verandah House / HabitArt Architecture Studio",
-      "url": "https://www.archdaily.com/1181979/the-saffron-verandah-house-habitart-architecture-studio",
-      "excerpt": "Some homes begin with a drawing, and The Saffron Verandah began with an orchard. In the mango-growing landscapes of Shoolagiri, a quiet hamlet in northern Tamil Nadu, the land has settled into its own",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/87c7/1801/ca00/0176/e7b7/large_jpg/DSC_8918.jpg?1785497641",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "timber and wave-like metal reshape lakeside pavilion into family restaurant in china",
-      "url": "https://www.designboom.com/architecture/timber-wave-like-metal-lakeside-pavilion-family-restaurant-china-lago-italian-family-kitchen-vari-architects/",
-      "excerpt": "lago italian family kitchen occupies an existing pavilion beside yihe park's lake.\nThe post timber and wave-like metal reshape lakeside pavilion into family restaurant in china appeared first on desig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lago-italian-family-kitchen-vari-architects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.02",
-      "title": "Marivan Medical Building / AsNow Design & Construct",
-      "url": "https://www.archdaily.com/1181953/marivan-medical-building-asnow-design-and-construct",
-      "excerpt": "Marivan Medical Building, with a total area of approximately 1,050 square meters, is located on one of the main boulevards of Marivan, Iran.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7269/1801/ca00/0176/e625/large_jpg/D__1_.jpg?1785492105",
-      "today": false
     },
     {
       "source": "大光電機",
