@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.03  13:36",
+  "fetchedAt": "2026.08.03  16:18",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -140,13 +140,72 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "augment 360: this folding electric moped can follow its rider into the elevator",
+      "url": "https://www.designboom.com/technology/augment-360-folding-electric-moped-compact-ev/",
+      "excerpt": "single-sided forks draw both wheels inward, shrinking the seated vehicle to 35 centimeters wide for indoor storage.\nThe post augment 360: this folding electric moped can follow its rider into the elev",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/augment-360-foldable-e-moped-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "John Galliano to the Burberry trench: these are the upcoming fashion exhibitions to add to your calendar",
+      "url": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
+      "excerpt": "The golden age of the fashion exhibition looks set to continue over the next twelve months, with blockbuster displays spanning a John Galliano retrospective at The Met and a deep dive into the Burberr",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gNK9tUqFYrtqPi3V3FZdd6-1803-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Data centre approved as part of Truman Brewery masterplan in east London",
+      "url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
+      "excerpt": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, t",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "recycled aerospace steel and rammed earth shape homeware collection for life on mars",
+      "url": "https://www.designboom.com/design/recycled-aerospace-steel-rammed-earth-homeware-collection-life-mars-roc-h-biel-martian-relics/",
+      "excerpt": "martian relics uses domestic design to reflect on environmental responsibility and material scarcity.\nThe post recycled aerospace steel and rammed earth shape homeware collection for life on mars appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/roc-h-biel-martian-relics-collection-mars-recycled-aerospace-steel-rammed-earth-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Out of office: What the Wallpaper* editors are looking forward to in August",
+      "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-august-2026",
+      "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UWXG73XFXQaeFgTagbYMrg-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Discover New York through its movie locations with A24’s new book",
+      "url": "https://www.wallpaper.com/travel/on-location-new-york-city-a24-book",
+      "excerpt": "Relive movie moments with ‘On Location in New York City’, which maps 179 restaurants, shops, parks, bars and landmarks across the five boroughs that have conquered the silver screen",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fuPCfJAQEUKaxSpcMpMJmn-1924-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "inside the hand-painted animations bringing isamu noguchi’s unrealized playgrounds to life",
+      "url": "https://www.designboom.com/art/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview/",
+      "excerpt": "designboom speaks with eastend western and curator kate wiener about imagining isamu noguchi’s unrealized playgrounds through five hand-painted animated films.\nThe post inside the hand-painted animati",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview-designboom-1200.jpg",
       "today": true
     },
     {
@@ -168,12 +227,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "'Circulating' Garden for the Circular Economy Innovation Center (CIEC) / gaSSz arquitectos",
+      "url": "https://www.archdaily.com/1182008/circulating-garden-for-the-circular-economy-innovation-center-ciec-gassz-arquitectos",
+      "excerpt": "An innovative pilot project for a circular, vegetated public space. This new urban setting for Vicálvaro has an impact that transcends the local level, benefiting the entire city of Madrid. The garden",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/1a1d/d425/1a00/01c4/bba7/large_jpg/CIECVicalvaroS2-85b.jpg?1784224350",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.03",
       "title": "Scottish architect launches campaign to rebuild Mackintosh Building",
       "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
       "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Mackintosh Building at the Glasgow School of Art, calling on \"an independent body to own and take forward the project\"",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "franck bohbot captures the vienna state opera before the curtain rises",
+      "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
+      "excerpt": "the photographer captures how marble, ornament, and empty auditoriums preserve centuries of cultural memory long before the first note is played.\nThe post franck bohbot captures the vienna state opera",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/franck-bohbot-vienna-state-opera-curtain-rises-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "The Fundació Mies van der Rohe opens the call for entries  for the 5th Lilly Reich Grant for Equality in Architecture",
+      "url": "https://www.archdaily.com/1182098/the-fundacio-mies-van-der-rohe-opens-the-call-for-entries-for-the-5th-lilly-reich-grant-for-equality-in-architecture",
+      "excerpt": "The Fundació Mies van der Rohe launches the call for the 5th Lilly Reich Grant for Equality in Architecture with the aim of continuing to generate research and debate on modern and contemporary archit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/7df3/1801/ca00/0176/ee81/large_jpg/ENG_5a_Beca.jpg?1785757180",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Living Places – Simon Architecture Prize 6th edition: 2026",
+      "url": "https://www.archdaily.com/1182097/living-places-simon-architecture-prize-6th-edition-2026",
+      "excerpt": "The Living Places - Simon Architecture Prize, an initiative of Simon developed by Fundació Mies van der Rohe, has the aim of distinguishing excellent architecture that enhance spaces’ capacity for ada",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/7de8/1801/ca00/0176/ee7e/large_jpg/Living_Places_Simon.jpg?1785757167",
       "today": true
     },
     {
@@ -216,6 +315,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof",
+      "url": "https://www.designboom.com/architecture/atelier-guo-stream-restaurant-sweeping-concrete-roof-china/",
+      "excerpt": "a found boulder, an open kitchen and bamboo-imprinted concrete turn dinner into a landscape encounter.\nThe post atelier guo frames yangshuo’s mountain landscape beneath a sweeping roof appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/atelier-guo-stream-restaurant-sweeping-concrete-roof-china-designboom-10.jpg",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.03",
@@ -223,75 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1164587/the-art-of-ice-cream-shop-design",
       "excerpt": "The ice cream shop functions as an exercise in branding through playfulness in retail and commercial spaces, a small architectural gesture designed to draw people in off the street or across the park.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5b/ba73/e8f5/cb01/8987/a7ec/large_jpg/ice-cream_1.jpg?1784396409",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Six architecture and design events in August from Dezeen Events Guide",
-      "url": "https://www.dezeen.com/2026/08/03/six-architecture-design-events-august-dezeen-events-guide-2026/",
-      "excerpt": "Exhibitions Architecture's Inscriptions, Maggie's: Architecture That Cares and Wellbeing in the City are among the architecture and design events featured in Dezeen Events Guide this August. Other eve",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "The Martin Residential Building  / OMA",
-      "url": "https://www.archdaily.com/1181924/the-martin-residential-building-oma",
-      "excerpt": "Designed by OMA / David Gianotten and Mariano Sagasta, The Martin consists of four interlocking volumes and is defined by a layered, permeable facade with continuous balconies along its perimeter. It ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/c809/0364/d201/89e9/7459/large_jpg/the-martin-oma_15.jpg?1785448690",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Step inside Andreas Angelidakis’ strobe-lit escape room in Venice",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/andreas-angelidakis-escape-room-greek-pavilion-venice-biennale-review",
-      "excerpt": "‘Dear Visitor, we regret to inform you that Greece has escaped.’ At the Venice Biennale 2026, Andreas Angelidakis gives the Greek Pavilion a surprising twist",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/42esy8SmixamCSJFvvYKGe-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Museum of Art Pudong Presents \"Jean Nouvel: Without the Artist, Architecture Disappears\" in Shanghai",
-      "url": "https://www.archdaily.com/1182085/museum-of-art-pudong-presents-jean-nouvel-without-the-artist-architecture-disappears-in-shanghai",
-      "excerpt": "Museum of Art Pudong (MAP) in Shanghai is presenting \"Jean Nouvel: Without the Artist, Architecture Disappears\" until August 31, 2026. Marking the museum's fifth anniversary, the exhibition is dedicat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/694a/0364/d201/89e9/7ddb/large_jpg/museum-of-art-pudong-in-shanghai-presents-jean-nouvel-exhibition-exploring-five-decades-of-architectural-practice_13.jpg?1785751985",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "The Fun House / alto design studio",
-      "url": "https://www.archdaily.com/1181839/the-fun-house-alto-design-studio",
-      "excerpt": "The project was immediately labeled as \"fun,\" as the clients displayed their openness to bold design choices and a need for a lounge or game room.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/228f/1801/ca00/0176/de6e/large_jpg/1_Ana_Skobe.jpg?1785340670",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "A local’s guide to Tallinn by artist Merike Estna and curator Natalia Sielewicz",
-      "url": "https://www.wallpaper.com/travel/a-locals-guide-to-tallinn-estonia",
-      "excerpt": "The artful duo, representing Estonia at the Venice Biennale 2026, share their picks for the perfect Tallinn city break",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uAZ4EcYoi28PNEHi3Dapkc-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Every detail has a purpose in MGAO’s compact, but considered cabin",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/matt-goodman-architecture-office-australia",
-      "excerpt": "Matt Goodman Architecture Office joins the Wallpaper* Architects’ Directory 2026 with a bushfire-proof cabin in Australia",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Rx6jHFHomF6a9akpSvuUkD-2560-80.jpg",
       "today": true
     },
     {
