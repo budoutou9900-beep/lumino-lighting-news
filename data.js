@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  00:03",
+  "fetchedAt": "2026.08.04  04:08",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -82,22 +82,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.04",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -113,20 +113,10 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
       "today": true
     },
     {
@@ -140,6 +130,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "sliced open and rebuilt, discarded tennis balls become wearable shoes",
+      "url": "https://www.designboom.com/design/slice-discarded-tennis-balls-wearable-shoes-soroosh-riazi-isfahani/",
+      "excerpt": "3D-printed cutting guides open discarded tennis balls into curved components that wrap the foot while preserving their familiar felt surface.\nThe post sliced open and rebuilt, discarded tennis balls b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/soroosh-riazi-isfahani-slice-tennis-ball-shoes-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.03",
@@ -147,6 +157,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/concrete-wood-greenery-perkins-will-residential-tower-sao-paulo-casa-arbo/",
       "excerpt": "the combination of a rational structure, integration with the landscape, and a domestic scale aims to challenge conventional models of high-end housing.\nThe post wrapped in concrete, wood, and greener",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-arbo-perkins-will-residential-building-sao-paulo-landscape-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Alamos House / En Obra Arquitectos",
+      "url": "https://www.archdaily.com/1182111/alamos-house-en-obra-arquitectos",
+      "excerpt": "All architecture begins with a decision. In Casa Álamos, that decision was to build a boundary toward the city in order to open up completely to the landscape.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/68a0/1801/ca00/0176/edff/large_jpg/imperialfotografia.jpg?1785751732",
       "today": false
     },
     {
@@ -261,30 +281,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.03",
-      "title": "Snider House / Giannone Petricone Associates Inc. Architects",
-      "url": "https://www.archdaily.com/1181851/snider-house-giannone-petricone-associates-inc-architects",
-      "excerpt": "Snider House, an 1828 heritage property and North Toronto's oldest surviving structure, was originally constructed as a brick Regency Cottage farmhouse at the heart of sprawling pastures and orchards.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/71b0/1801/ca00/0176/df05/large_jpg/04_GPA_Snider_House_credit_Scott_Norsworthy.jpg?1785360991",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Screening of the documentary \"Amarar\"",
-      "url": "https://www.archdaily.com/1182078/screening-of-the-documentary-amarar",
-      "excerpt": "Arquitectura en Corto invites you to Espacio Arquia in Madrid (16 Tutor St.) on Thursday, September 17, at 7:00 PM for the screening of the short film Amarar. The title refers to a traditional Mallorc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/62d8/1801/ca00/0176/ed63/large_jpg/AeC_Aulets_1920x1080.jpg?1785750240",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
       "title": "Architectural Design Competition for the Facade of the Bajopontina S.A. Distribution Center",
       "url": "https://www.archdaily.com/1182073/architectural-design-competition-for-the-facade-of-the-bajopontina-sa-distribution-center",
       "excerpt": "BAJOPONTINA S.A., a strategic partner of Arca Continental (the exclusive bottler and marketer of Coca-Cola Peru brands) with a presence in East and Central Lima and key provinces such as Huancayo, Hua",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5137/1801/ca00/0176/ecbb/large_jpg/BANNER_CONCURSO_BAJOPONTINA.jpg?1785745727",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Snider House / Giannone Petricone Associates Inc. Architects",
+      "url": "https://www.archdaily.com/1181851/snider-house-giannone-petricone-associates-inc-architects",
+      "excerpt": "Snider House, an 1828 heritage property and North Toronto's oldest surviving structure, was originally constructed as a brick Regency Cottage farmhouse at the heart of sprawling pastures and orchards.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/71b0/1801/ca00/0176/df05/large_jpg/04_GPA_Snider_House_credit_Scott_Norsworthy.jpg?1785360991",
       "today": false
     },
     {
@@ -322,16 +332,6 @@ window.LUMINO_DATA = {
       "title": "Scottish architect launches campaign to rebuild Mackintosh Building",
       "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
       "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Mackintosh Building at the Glasgow School of Art, calling on \"an independent body to own and take forward the project\"",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "franck bohbot captures the vienna state opera before the curtain rises",
-      "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
-      "excerpt": "the photographer captures how marble, ornament, and empty auditoriums preserve centuries of cultural memory long before the first note is played.\nThe post franck bohbot captures the vienna state opera",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/franck-bohbot-vienna-state-opera-curtain-rises-designboom-1200.jpg",
       "today": false
     },
     {
