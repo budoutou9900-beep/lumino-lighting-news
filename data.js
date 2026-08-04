@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  15:22",
+  "fetchedAt": "2026.08.04  17:40",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Yahoo!ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.04",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -120,6 +120,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
@@ -130,13 +140,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.04",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "Want to master the art of matcha? Let this calming Williamsburg café guide you",
+      "url": "https://www.wallpaper.com/travel/restaurants/matchaful-ritual-bar-brooklyn",
+      "excerpt": "Matchaful's new Brooklyn Ritual Bar invites guests to pause and discover the craft of Japanese tea",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AweYSi6DDQB5ytEnDWpock-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "MAD’s stone-like museum completes across shenzhen bay’s green shoreline",
+      "url": "https://www.designboom.com/architecture/mad-stone-museum-shenzhen-bay-culture-square-plaza-china-completion/",
+      "excerpt": "white granite volumes and walkable green roofs turn shenzhen’s newest design museum into a piece of coastal terrain. \nThe post MAD’s stone-like museum completes across shenzhen bay’s green shoreline a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/MAD-shenzhen-bay-culture-square-china-completion-designboom-FB.jpg",
       "today": true
     },
     {
@@ -166,6 +186,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon/",
       "excerpt": "the woven construction connects nitinol wires with fabric cords and PLA joints.\nThe post hand-woven nitinol sofa can flat-pack and self-deploy in a single motion appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-flat-pack-sofa-foldable-furniture-system-jisu-yoon-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Granada Echo Park House / Granada Form",
+      "url": "https://www.archdaily.com/1181928/granada-echo-park-granada-form",
+      "excerpt": "A compelling 25' white cubic ADU, punctuated by crisp rectilinear cutouts across the façade, becomes the newest trending neighborhood locus in Angelino Heights, widely embraced by coffee aficionados. ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/f567/1801/ca00/0176/e44f/large_jpg/Living_Room_2243_HR.jpg?1785460178",
       "today": true
     },
     {
@@ -266,16 +296,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "yinka ilori’s new book explores the chair as a vessel for memory and identity",
-      "url": "https://www.designboom.com/design/yinka-ilori-book-chair-vessel-memory-identity-oro-editions-chairman/",
-      "excerpt": "the publication traces more than a decade of chair design through new photography, archival material, and essays.\nThe post yinka ilori’s new book explores the chair as a vessel for memory and identity",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yinka-ilori-book-chair-vessel-memory-identity-oro-editions-chairman-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -283,16 +303,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
       "excerpt": "A war can erase a skyline overnight. Roofs collapse, streets become impassable, and landmarks that once oriented everyday life are reduced to rubble. The most profound loss often remains invisible. Bu",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/32c0/4ea2/e401/8926/6e55/large_jpg/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge_1.jpg?1785737927",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Thomas Ingenlath returns to Volvo with fresh experience of the industry’s challenges",
-      "url": "https://www.wallpaper.com/transportation/thomas-ingenlath-returns-to-volvo-with-fresh-experience-of-the-industrys-challenges",
-      "excerpt": "Volvo’s Chief Design Officer Thomas Ingenlath discusses the ins and outs of contemporary car design and the wider auto industry, and hints at how Volvo plans to celebrate its centenary",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dMaid8ij9UfSfqzCs9VzcV-2560-80.jpg",
       "today": true
     },
     {
@@ -313,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182164/paul-clemences-new-photo-series-explores-light-and-materiality-at-le-corbusiers-ronchamp-chapel",
       "excerpt": "Photographer Paul Clemence has unveiled a new photo series documenting Le Corbusier's Notre Dame du Haut in Ronchamp, France. The collection revisits one of the 20th century's most influential works o",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b2e8/4460/054e/9ecc/a466/large_jpg/paul-clemences-new-photo-series-explores-light-and-materiality-at-le-corbusiers-ronchamp-chapel_1.jpg?1785836286",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "The Vertical Playgarden / Studio KRAFT",
-      "url": "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft",
-      "excerpt": "The Vertical Playgarden was built in the courtyard of the Bajza Street Primary School in Budapest's 6th district, one of the densest inner-city areas of the Hungarian capital. More than 500 children u",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/22bb/1801/ca00/0176/de91/large_jpg/08_Bajza_Vertical_Playgarden_-_The_Whole_Schoole_Yard.jpg?1785340641",
       "today": true
     },
     {
