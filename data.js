@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  07:33",
+  "fetchedAt": "2026.08.04  10:32",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,23 +25,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -140,6 +140,84 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "SUPERFLEX and mudam visitors build a bank for ideas in luxembourg",
+      "url": "https://www.designboom.com/art/luxembourg-mudam-superflex-build-new-bank/",
+      "excerpt": "the bank is a collaborative project that asks children and curious adults to look at all the forms a bank can take: a place to hold ideas, store food, or even preserve cultural objects.\nThe post SUPER",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mudam-the-bank-designboom-13.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "from the classroom to the dream architecture practice: yacademy’s placement at chipperfield, BIG & snøhetta",
+      "url": "https://www.designboom.com/architecture/yacademy-placement-program/",
+      "excerpt": "yacademy’s 2026/2027 placement program offers scholarships to accelerate emerging architects directly into top global practices. \nThe post from the classroom to the dream architecture practice: yacade",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yac_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Wallpaper* checks into La Réserve Paris, an intimate escape in the heart of Paris",
+      "url": "https://www.wallpaper.com/travel/hotels/la-reserve-paris-review",
+      "excerpt": "Behind a Haussmann façade, an elegant mansion with just 40 rooms and suites offers a refreshingly personal take on Parisian luxury",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gxEEPdMVHnbnfVg34tqPmW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Joyce Wang draws on \"colonial country manors\" for Hong Kong hotel interior",
+      "url": "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
+      "excerpt": "Designer Joyce Wang has completed an interior renovation at the Mandarin Oriental The Landmark hotel in Hong Kong, designed to evoke the feel of living in a colonial mansion. Located on Queen's Road i",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "A Gulf house by Civil Architecture brings the courtyard typology to the 21st century",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/civil-architecture-bahrain-kuwait",
+      "excerpt": "Wallpaper* Architects' Directory 2026 spotlights 30 of the world's most exciting emerging studios. Here, we meet Civil Architecture, whose work rethinks Gulf domestic architecture through research and",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YwHnfwCifiT2mzG5Aror7N-2400-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Norm Architects designs Dynaudio showroom to resemble \"speaker components unfolded\"",
+      "url": "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
+      "excerpt": "Wood, aluminium and artworks made from reused textiles were used to create speaker brand Dynaudio's new showroom in Copenhagen, which local studio Norm Architects has filled with wooden furniture by J",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Matteo Thun and Antonio Rodriguez shape Azimut’s new flagship yacht, Seadeck 9",
+      "url": "https://www.wallpaper.com/transportation/azimut-seadeck-9",
+      "excerpt": "Azimut handed its new 25m flagship to two designers who'd never built a boat. This is the result",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8zwN5MFqku3rJkiVMfeCEG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "yinka ilori’s new book explores the chair as a vessel for memory and identity",
+      "url": "https://www.designboom.com/design/yinka-ilori-book-chair-vessel-memory-identity-oro-editions-chairman/",
+      "excerpt": "the publication traces more than a decade of chair design through new photography, archival material, and essays.\nThe post yinka ilori’s new book explores the chair as a vessel for memory and identity",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yinka-ilori-book-chair-vessel-memory-identity-oro-editions-chairman-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -157,6 +235,35 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/restockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen/",
       "excerpt": "re:stockholm explores how cities can treat construction waste not as a disposal problem, but as a valuable resource for public space.\nThe post re:stockholm converts leftover construction waste into ro",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-stockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
+      "url": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors",
+      "excerpt": "The idea of a \"Great Green Wall\" designates a large-scale reforestation initiative undertaken specifically to halt desertification. Currently underway in Africa to prevent the advancement of the Sahar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/0bcd/4460/0501/896c/fd86/large_jpg/great-green-walls_5.jpg?1785793501",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Taylor Knights designs responsible Melbourne coffee roastery to \"reveal rather than replace\"",
+      "url": "https://www.dezeen.com/2026/08/04/contraband-coffee-melbourne-cafe-interiors-taylor-knights/",
+      "excerpt": "A stripped-back interior of concrete surfaces and timber joinery lets sustainable production practices take centre stage at Melbourne's Contraband Coffee cafe and roastery, designed by architecture st",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Living in a Pyramid: 6 Projects  Adapting a Classic Shape to Residential Design",
+      "url": "https://www.archdaily.com/1181570/living-in-a-pyramid-6-projects-adapting-a-classic-shape-to-residential-design",
+      "excerpt": "While pyramidal geometry appears in monumental historical structures, its contemporary application remains limited. The primary constraint is the sloping envelope, which contracts the building's floor",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/6859/31d2/d001/8a22/8947/large_jpg/living-in-a-pyramid-6-projects-that-adapt-this-classic-shape-to-residential-design_9.jpg?1784834148",
       "today": true
     },
     {
@@ -210,36 +317,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "domestic archipelago of nine houses unfolds across portugal’s cork-oak landscape",
-      "url": "https://www.designboom.com/architecture/domestic-archipelago-nine-houses-portugal-cork-oak-landscape-apaulinha/",
-      "excerpt": "the project explores residential living through landscape continuity and architectural variation.\nThe post domestic archipelago of nine houses unfolds across portugal’s cork-oak landscape appeared fir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/apaulinha-portugal-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "wrapped in concrete, wood, and greenery, perkins&will’s residential tower rises in são paulo",
-      "url": "https://www.designboom.com/architecture/concrete-wood-greenery-perkins-will-residential-tower-sao-paulo-casa-arbo/",
-      "excerpt": "the combination of a rational structure, integration with the landscape, and a domestic scale aims to challenge conventional models of high-end housing.\nThe post wrapped in concrete, wood, and greener",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-arbo-perkins-will-residential-building-sao-paulo-landscape-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Alamos House / En Obra Arquitectos",
-      "url": "https://www.archdaily.com/1182111/alamos-house-en-obra-arquitectos",
-      "excerpt": "All architecture begins with a decision. In Casa Álamos, that decision was to build a boundary toward the city in order to open up completely to the landscape.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/68a0/1801/ca00/0176/edff/large_jpg/imperialfotografia.jpg?1785751732",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.03",
@@ -259,89 +336,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "FGMF’s new São Paulo house is cleverly arranged around a sub-tropical garden",
-      "url": "https://www.wallpaper.com/architecture/residential/sao-paolo-house-fgmf-architecture",
-      "excerpt": "Casa da rua Escócia brings the outside in thanks to clever planning, angled walls and a richly planted courtyard garden",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3zqzkmum8DNZ4SdL2r6TtA-2160-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "A Pierre Paulin design icon becomes the backdrop for Fred Again.. and Latin Mafia's latest collaboration",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/fred-again-latin-mafia-9-months-and-50-hours-lago-algo-paulin-paulin-paulin",
-      "excerpt": "Conceived in 1970, Pierre Paulin's Dune seating landscape is part of Fred Again.. and Latin Mafia's collaborative mixtape, '9 months & 50 hours', recorded at LagoAlgo in Mexico City, with a spatial in",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qQxMSkct2k8R8C9gxNh4N7-2524-80.png",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Aroeira House / FGMF",
-      "url": "https://www.archdaily.com/1182130/aroeira-house-fgmf",
-      "excerpt": "The design for the Aroeira House begins with an analysis of the sloping, corner lot inside a gated community in the countryside of São Paulo, which faces an exuberant view, to find the best orientatio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/bd53/1801/ca00/0176/f0a3/large_jpg/_DSF1570-Pano.jpg?1785773412",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "augment 360: this folding electric moped can follow its rider into the elevator",
-      "url": "https://www.designboom.com/technology/augment-360-folding-electric-moped-compact-ev/",
-      "excerpt": "single-sided forks draw both wheels inward, shrinking the seated vehicle to 35 centimeters wide for indoor storage.\nThe post augment 360: this folding electric moped can follow its rider into the elev",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/augment-360-foldable-e-moped-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "John Galliano to the Burberry trench: these are the upcoming fashion exhibitions to add to your calendar",
-      "url": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
-      "excerpt": "The golden age of the fashion exhibition looks set to continue over the next twelve months, with blockbuster displays spanning a John Galliano retrospective at The Met and a deep dive into the Burberr",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gNK9tUqFYrtqPi3V3FZdd6-1803-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.03",
       "title": "Data centre approved as part of Truman Brewery masterplan in east London",
       "url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
       "excerpt": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, t",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Inrestudio uses double-layered envelope to create \"in-between spaces\" for Vietnamese home",
-      "url": "https://www.dezeen.com/2026/08/03/100-windows-inrestudio-multi-generational-house-vietnam/",
-      "excerpt": "Irregularly placed and mismatched openings puncture the terracotta-toned, double-layered exterior of 100 Windows, a multigenerational home in Vietnam designed by local architecture practice Inrestudio",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Demolition of Studio Fuksas concert hall underway in Tbilisi",
-      "url": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/",
-      "excerpt": "Work has begun on the demolition of the never-opened Rike Concert Hall in Tbilisi, which was designed by Italian practice Studio Fuksas. Local news organisation TV Pirveli filmed the cladding being re",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Scottish architect launches campaign to rebuild Mackintosh Building",
-      "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
-      "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Mackintosh Building at the Glasgow School of Art, calling on \"an independent body to own and take forward the project\"",
       "today": false
     },
     {
