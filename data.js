@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  19:23",
+  "fetchedAt": "2026.08.04  21:06",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,71 +33,48 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.04",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.04",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -129,6 +106,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
@@ -136,6 +123,16 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "japan’s fruit-shaped bus stops offer travelers a sweeter shelter",
+      "url": "https://www.designboom.com/architecture/japan-fruit-shaped-bus-stops-play-konagai-nagasaki/",
+      "excerpt": "along nagasaki’s coastal highway, oversized strawberries and melons turn a roadside wait into a playful encounter with public transit.\nThe post japan’s fruit-shaped bus stops offer travelers a sweeter",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/fruit-bus-stops-konagai-nagasaki-japan-designboom-FB.jpg",
       "today": true
     },
     {
@@ -184,6 +181,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica/",
       "excerpt": "the sculpture brings ancestry, industry and several generations of collaborators together — before briefly taking flight above the rooftops.\nThe post luna paiva installs 300-kilogram stainless steel t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica-designboom-61.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Casa Tertulia / Marcela Carranza Arquitectura",
+      "url": "https://www.archdaily.com/1182176/casa-tertulia-marcela-carranza-arquitectura",
+      "excerpt": "Casa en el Aire is a single-family home located in San Mateo de Alajuela, Costa Rica, on a steeply sloping site with dominant landscape views. Its primary strategy is to address housing through minima",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/50f7/1801/ca00/0176/ec99/large_jpg/01.jpg?1785745690",
       "today": true
     },
     {
@@ -255,16 +262,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "from the classroom to the dream architecture practice: yacademy’s placement at chipperfield, BIG & snøhetta",
-      "url": "https://www.designboom.com/architecture/yacademy-placement-program/",
-      "excerpt": "yacademy’s 2026/2027 placement program offers scholarships to accelerate emerging architects directly into top global practices. \nThe post from the classroom to the dream architecture practice: yacade",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yac_designboom_facebook.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -321,16 +318,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
       "excerpt": "A war can erase a skyline overnight. Roofs collapse, streets become impassable, and landmarks that once oriented everyday life are reduced to rubble. The most profound loss often remains invisible. Bu",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/32c0/4ea2/e401/8926/6e55/large_jpg/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge_1.jpg?1785737927",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Shenzhen Natural History Museum / 3XN + B+H Architects + ZHUBO Design",
-      "url": "https://www.archdaily.com/1181841/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design",
-      "excerpt": "Shenzhen Natural History Museum is one of the world's largest new natural history museums and the largest in South China.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/cae3/0364/d201/89e9/6efa/large_jpg/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design_6.jpg?1785383691",
       "today": true
     },
     {
