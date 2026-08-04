@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  12:57",
+  "fetchedAt": "2026.08.04  15:22",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,15 +17,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Yahoo!ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -49,17 +49,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -112,16 +120,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
@@ -129,6 +127,45 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "luna paiva installs 300-kilogram stainless steel totem at bofill’s la fábrica",
+      "url": "https://www.designboom.com/art/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica/",
+      "excerpt": "the sculpture brings ancestry, industry and several generations of collaborators together — before briefly taking flight above the rooftops.\nThe post luna paiva installs 300-kilogram stainless steel t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica-designboom-61.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "SBP and Snøhetta cantilever bridge between rock faces in Upstate New York",
+      "url": "https://www.dezeen.com/2026/08/04/sentry-bridge-watkins-glen-gorge-snohetta-sbp/",
+      "excerpt": "New York studios Schlaich Bergermann Partner and Snøhetta have replaced an ageing bridge in Upstate New York with a steel half-arch span that is mounted on one side of a gorge and cantilevers across t",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "hand-woven nitinol sofa can flat-pack and self-deploy in a single motion",
+      "url": "https://www.designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon/",
+      "excerpt": "the woven construction connects nitinol wires with fabric cords and PLA joints.\nThe post hand-woven nitinol sofa can flat-pack and self-deploy in a single motion appeared first on designboom | archite",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-flat-pack-sofa-foldable-furniture-system-jisu-yoon-designboom-1200.jpg",
       "today": true
     },
     {
@@ -154,7 +191,7 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.04",
-      "title": "SUPERFLEX and mudam visitors build a bank for ideas in luxembourg",
+      "title": "SUPERFLEX and mudam invite community to rethink the bank",
       "url": "https://www.designboom.com/art/luxembourg-mudam-superflex-build-new-bank/",
       "excerpt": "the bank is a collaborative project that asks children and curious adults to look at all the forms a bank can take: a place to hold ideas, store food, or even preserve cultural objects.\nThe post SUPER",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mudam-the-bank-designboom-13.jpg",
@@ -168,6 +205,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/yacademy-placement-program/",
       "excerpt": "yacademy’s 2026/2027 placement program offers scholarships to accelerate emerging architects directly into top global practices. \nThe post from the classroom to the dream architecture practice: yacade",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yac_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Cultural Center La Tuilerie in Limoux / Ferrier Marchetti Studio",
+      "url": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
+      "excerpt": "The project involved the transformation of an industrial site in the small town of Limoux in the Aude department, and at the heart of a community of municipalities with 30,000 inhabitants. It is a thr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/5f1e/0364/d201/89e9/6e9e/large_jpg/cultural-centre-la-tuilerie-in-limoux-ferrier-marchetti-studio_17.jpg?1785356105",
       "today": true
     },
     {
@@ -193,7 +240,7 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.04",
-      "title": "A Gulf house by Civil Architecture brings the courtyard typology to the 21st century",
+      "title": "Architects' Directory: a Gulf house by Civil Architecture brings the courtyard typology to the 21st century",
       "url": "https://www.wallpaper.com/architecture/architects-directory/civil-architecture-bahrain-kuwait",
       "excerpt": "Wallpaper* Architects' Directory 2026 spotlights 30 of the world's most exciting emerging studios. Here, we meet Civil Architecture, whose work rethinks Gulf domestic architecture through research and",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YwHnfwCifiT2mzG5Aror7N-2400-80.jpg",
@@ -269,16 +316,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "re:stockholm converts leftover construction waste into robust public furniture",
-      "url": "https://www.designboom.com/design/restockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen/",
-      "excerpt": "re:stockholm explores how cities can treat construction waste not as a disposal problem, but as a valuable resource for public space.\nThe post re:stockholm converts leftover construction waste into ro",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-stockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -286,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft",
       "excerpt": "The Vertical Playgarden was built in the courtyard of the Bajza Street Primary School in Budapest's 6th district, one of the densest inner-city areas of the Hungarian capital. More than 500 children u",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/22bb/1801/ca00/0176/de91/large_jpg/08_Bajza_Vertical_Playgarden_-_The_Whole_Schoole_Yard.jpg?1785340641",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
-      "url": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors",
-      "excerpt": "The idea of a \"Great Green Wall\" designates a large-scale reforestation initiative undertaken specifically to halt desertification. Currently underway in Africa to prevent the advancement of the Sahar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/0bcd/4460/0501/896c/fd86/large_jpg/great-green-walls_5.jpg?1785793501",
       "today": true
     },
     {
@@ -308,16 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "sliced open and rebuilt, discarded tennis balls become wearable shoes",
-      "url": "https://www.designboom.com/design/slice-discarded-tennis-balls-wearable-shoes-soroosh-riazi-isfahani/",
-      "excerpt": "3D-printed cutting guides open discarded tennis balls into curved components that wrap the foot while preserving their familiar felt surface.\nThe post sliced open and rebuilt, discarded tennis balls b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/soroosh-riazi-isfahani-slice-tennis-ball-shoes-designboom-FB.jpg",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.04",
@@ -326,15 +343,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
-      "url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
-      "excerpt": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architect",
-      "today": false
     },
     {
       "source": "DNライティング",
@@ -364,6 +372,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260729",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -486,6 +504,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -513,6 +541,26 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
       "today": false
     }
   ]
