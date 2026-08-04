@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  10:32",
+  "fetchedAt": "2026.08.04  12:57",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Yahoo!ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Yahoo!ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -49,25 +49,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "IGNANT": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -120,6 +112,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
@@ -130,13 +132,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.04",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "An ‘elegantly austere’ Arizona home celebrates its site and an unexpected, humble material",
+      "url": "https://www.wallpaper.com/architecture/residential/arizona-home-shifted-horizon-usa",
+      "excerpt": "At this Arizona home by architecture studio A-I-R, light, shadow, and form interplay in a minimalist elegance constructed using simple concrete masonry units and stucco",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aR8mYraPgHhpLRRsVNHdkM-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Farmsteads inform corrugated metal-clad home in Sussex",
+      "url": "https://www.dezeen.com/2026/08/04/house-in-a-clearing-sussex-uk-taylorhare-architects/",
+      "excerpt": "Agricultural barns and sheds informed the corrugated metal-clad volumes of House in a Clearing, a house in East Sussex completed by UK studio TaylorHare Architects. When the clients purchased the site",
       "today": true
     },
     {
@@ -218,6 +229,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Craft After Conflict: Why Rebuilding Cities Begins with Rebuilding Knowledge",
+      "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
+      "excerpt": "A war can erase a skyline overnight. Roofs collapse, streets become impassable, and landmarks that once oriented everyday life are reduced to rubble. The most profound loss often remains invisible. Bu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/32c0/4ea2/e401/8926/6e55/large_jpg/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge_1.jpg?1785737927",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -228,6 +249,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Shenzhen Natural History Museum / 3XN + B+H Architects + ZHUBO Design",
+      "url": "https://www.archdaily.com/1181841/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design",
+      "excerpt": "Shenzhen Natural History Museum is one of the world's largest new natural history museums and the largest in South China.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/cae3/0364/d201/89e9/6efa/large_jpg/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design_6.jpg?1785383691",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Paul Clemence's New Photo Series Explores Light and Materiality at Le Corbusier's Ronchamp Chapel",
+      "url": "https://www.archdaily.com/1182164/paul-clemences-new-photo-series-explores-light-and-materiality-at-le-corbusiers-ronchamp-chapel",
+      "excerpt": "Photographer Paul Clemence has unveiled a new photo series documenting Le Corbusier's Notre Dame du Haut in Ronchamp, France. The collection revisits one of the 20th century's most influential works o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b2e8/4460/054e/9ecc/a466/large_jpg/paul-clemences-new-photo-series-explores-light-and-materiality-at-le-corbusiers-ronchamp-chapel_1.jpg?1785836286",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -235,6 +276,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/restockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen/",
       "excerpt": "re:stockholm explores how cities can treat construction waste not as a disposal problem, but as a valuable resource for public space.\nThe post re:stockholm converts leftover construction waste into ro",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-stockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "The Vertical Playgarden / Studio KRAFT",
+      "url": "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft",
+      "excerpt": "The Vertical Playgarden was built in the courtyard of the Bajza Street Primary School in Budapest's 6th district, one of the densest inner-city areas of the Hungarian capital. More than 500 children u",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/22bb/1801/ca00/0176/de91/large_jpg/08_Bajza_Vertical_Playgarden_-_The_Whole_Schoole_Yard.jpg?1785340641",
       "today": true
     },
     {
@@ -257,26 +308,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Living in a Pyramid: 6 Projects  Adapting a Classic Shape to Residential Design",
-      "url": "https://www.archdaily.com/1181570/living-in-a-pyramid-6-projects-adapting-a-classic-shape-to-residential-design",
-      "excerpt": "While pyramidal geometry appears in monumental historical structures, its contemporary application remains limited. The primary constraint is the sloping envelope, which contracts the building's floor",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a62/6859/31d2/d001/8a22/8947/large_jpg/living-in-a-pyramid-6-projects-that-adapt-this-classic-shape-to-residential-design_9.jpg?1784834148",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "House in Harmony / Golchin Studio",
-      "url": "https://www.archdaily.com/1182076/house-in-harmony-golchin-studio",
-      "excerpt": "Located in Esfahan's dense Dolatabad neighborhood, House in Harmony establishes a quiet, introverted sanctuary that reconciles multi-generational living with an intensely heterogeneous urban edge. The",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/60bf/1801/ca00/0176/ed40/large_jpg/01.jpg?1785749715",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -284,16 +315,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/slice-discarded-tennis-balls-wearable-shoes-soroosh-riazi-isfahani/",
       "excerpt": "3D-printed cutting guides open discarded tennis balls into curved components that wrap the foot while preserving their familiar felt surface.\nThe post sliced open and rebuilt, discarded tennis balls b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/soroosh-riazi-isfahani-slice-tennis-ball-shoes-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Western Valley House / STO.M.P",
-      "url": "https://www.archdaily.com/1182086/western-valley-house-st-p",
-      "excerpt": "Inspirations and key concepts – The house is conceived as a metaphor for the valley it inhabits. The design borrows the language of a bustling street skyline, stretching the home along a corner site s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/655d/1801/ca00/0176/eda6/large_jpg/Western_facade_edit.jpg?1785750923",
       "today": true
     },
     {
@@ -307,41 +328,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Dynaudio Lounge / cold lab",
-      "url": "https://www.archdaily.com/1182062/dynaudio-lounge-cold-lab",
-      "excerpt": "Concert halls typically operate around formal performances. Performance times, programmes and seating are fixed in advance, making a concert something that must be planned ahead. Beyond this clear ord",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/3333/1801/ca00/0176/ec53/large_jpg/09_02___04___.jpg?1785738124",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.03",
       "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
       "url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
       "excerpt": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architect",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Before Palm Springs, there was Corbin Palms – now one of its original mid-century homes is for sale",
-      "url": "https://www.wallpaper.com/architecture/residential/palmer-and-krisel-home-corbin-palms",
-      "excerpt": "A rare 1954 Palmer & Krisel residence in Corbin Palms – the overlooked Woodland Hills enclave where the architects first tested the ideas that would define California’s desert modernism – is on the ma",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Fp7zEiv5gLYBYwGvy4PX7-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Data centre approved as part of Truman Brewery masterplan in east London",
-      "url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
-      "excerpt": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, t",
       "today": false
     },
     {
@@ -372,16 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260729",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -504,16 +486,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -541,26 +513,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
       "today": false
     }
   ]
