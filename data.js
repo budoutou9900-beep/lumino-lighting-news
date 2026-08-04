@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.03  22:03",
+  "fetchedAt": "2026.08.04  00:03",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -94,7 +94,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -103,7 +103,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -132,7 +132,7 @@ window.LUMINO_DATA = {
     {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.03",
+      "date": "2026.08.04",
       "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
@@ -147,7 +147,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/concrete-wood-greenery-perkins-will-residential-tower-sao-paulo-casa-arbo/",
       "excerpt": "the combination of a rational structure, integration with the landscape, and a domestic scale aims to challenge conventional models of high-end housing.\nThe post wrapped in concrete, wood, and greener",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-arbo-perkins-will-residential-building-sao-paulo-landscape-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -156,7 +156,7 @@ window.LUMINO_DATA = {
       "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
       "url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
       "excerpt": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architect",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -166,7 +166,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/palmer-and-krisel-home-corbin-palms",
       "excerpt": "A rare 1954 Palmer & Krisel residence in Corbin Palms – the overlooked Woodland Hills enclave where the architects first tested the ideas that would define California’s desert modernism – is on the ma",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Fp7zEiv5gLYBYwGvy4PX7-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -176,7 +176,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/sao-paolo-house-fgmf-architecture",
       "excerpt": "Casa da rua Escócia brings the outside in thanks to clever planning, angled walls and a richly planted courtyard garden",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3zqzkmum8DNZ4SdL2r6TtA-2160-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -186,7 +186,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/fred-again-latin-mafia-9-months-and-50-hours-lago-algo-paulin-paulin-paulin",
       "excerpt": "Conceived in 1970, Pierre Paulin's Dune seating landscape is part of Fred Again.. and Latin Mafia's collaborative mixtape, '9 months & 50 hours', recorded at LagoAlgo in Mexico City, with a spatial in",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qQxMSkct2k8R8C9gxNh4N7-2524-80.png",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Aroeira House / FGMF",
+      "url": "https://www.archdaily.com/1182130/aroeira-house-fgmf",
+      "excerpt": "The design for the Aroeira House begins with an analysis of the sloping, corner lot inside a gated community in the countryside of São Paulo, which faces an exuberant view, to find the best orientatio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/bd53/1801/ca00/0176/f0a3/large_jpg/_DSF1570-Pano.jpg?1785773412",
+      "today": false
     },
     {
       "source": "designboom",
@@ -196,7 +206,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/augment-360-folding-electric-moped-compact-ev/",
       "excerpt": "single-sided forks draw both wheels inward, shrinking the seated vehicle to 35 centimeters wide for indoor storage.\nThe post augment 360: this folding electric moped can follow its rider into the elev",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/augment-360-foldable-e-moped-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -206,7 +216,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
       "excerpt": "The golden age of the fashion exhibition looks set to continue over the next twelve months, with blockbuster displays spanning a John Galliano retrospective at The Met and a deep dive into the Burberr",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gNK9tUqFYrtqPi3V3FZdd6-1803-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -215,7 +225,17 @@ window.LUMINO_DATA = {
       "title": "Data centre approved as part of Truman Brewery masterplan in east London",
       "url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
       "excerpt": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, t",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "Casa Akíga  / Studio Saxe",
+      "url": "https://www.archdaily.com/1182002/casa-akiga-studio-saxe",
+      "excerpt": "Set within a sloping site that descends toward a ravine, with ocean views beyond, this residence is approached as a gradual discovery. The house does not reveal itself immediately. Instead, it remains",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/aeb9/0364/d201/89e9/78a8/large_jpg/casa-akiga-studio-saxe_3.jpg?1785507529",
+      "today": false
     },
     {
       "source": "designboom",
@@ -225,7 +245,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/recycled-aerospace-steel-rammed-earth-homeware-collection-life-mars-roc-h-biel-martian-relics/",
       "excerpt": "martian relics uses domestic design to reflect on environmental responsibility and material scarcity.\nThe post recycled aerospace steel and rammed earth shape homeware collection for life on mars appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/roc-h-biel-martian-relics-collection-mars-recycled-aerospace-steel-rammed-earth-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -235,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-august-2026",
       "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UWXG73XFXQaeFgTagbYMrg-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -245,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181851/snider-house-giannone-petricone-associates-inc-architects",
       "excerpt": "Snider House, an 1828 heritage property and North Toronto's oldest surviving structure, was originally constructed as a brick Regency Cottage farmhouse at the heart of sprawling pastures and orchards.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/71b0/1801/ca00/0176/df05/large_jpg/04_GPA_Snider_House_credit_Scott_Norsworthy.jpg?1785360991",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -255,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182078/screening-of-the-documentary-amarar",
       "excerpt": "Arquitectura en Corto invites you to Espacio Arquia in Madrid (16 Tutor St.) on Thursday, September 17, at 7:00 PM for the screening of the short film Amarar. The title refers to a traditional Mallorc",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/62d8/1801/ca00/0176/ed63/large_jpg/AeC_Aulets_1920x1080.jpg?1785750240",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -265,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182073/architectural-design-competition-for-the-facade-of-the-bajopontina-sa-distribution-center",
       "excerpt": "BAJOPONTINA S.A., a strategic partner of Arca Continental (the exclusive bottler and marketer of Coca-Cola Peru brands) with a presence in East and Central Lima and key provinces such as Huancayo, Hua",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5137/1801/ca00/0176/ecbb/large_jpg/BANNER_CONCURSO_BAJOPONTINA.jpg?1785745727",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -275,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview/",
       "excerpt": "designboom speaks with eastend western and curator kate wiener about imagining isamu noguchi’s unrealized playgrounds through five hand-painted animated films.\nThe post inside the hand-painted animati",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -284,7 +304,7 @@ window.LUMINO_DATA = {
       "title": "Inrestudio uses double-layered envelope to create \"in-between spaces\" for Vietnamese home",
       "url": "https://www.dezeen.com/2026/08/03/100-windows-inrestudio-multi-generational-house-vietnam/",
       "excerpt": "Irregularly placed and mismatched openings puncture the terracotta-toned, double-layered exterior of 100 Windows, a multigenerational home in Vietnam designed by local architecture practice Inrestudio",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -293,17 +313,7 @@ window.LUMINO_DATA = {
       "title": "Demolition of Studio Fuksas concert hall underway in Tbilisi",
       "url": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/",
       "excerpt": "Work has begun on the demolition of the never-opened Rike Concert Hall in Tbilisi, which was designed by Italian practice Studio Fuksas. Local news organisation TV Pirveli filmed the cladding being re",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "'Circulating' Garden for the Circular Economy Innovation Center (CIEC) / gaSSz arquitectos",
-      "url": "https://www.archdaily.com/1182008/circulating-garden-for-the-circular-economy-innovation-center-ciec-gassz-arquitectos",
-      "excerpt": "An innovative pilot project for a circular, vegetated public space. This new urban setting for Vicálvaro has an impact that transcends the local level, benefiting the entire city of Madrid. The garden",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a59/1a1d/d425/1a00/01c4/bba7/large_jpg/CIECVicalvaroS2-85b.jpg?1784224350",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -312,7 +322,7 @@ window.LUMINO_DATA = {
       "title": "Scottish architect launches campaign to rebuild Mackintosh Building",
       "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
       "excerpt": "Scottish architect Ruairidh Moir has launched a campaign to rebuild the fire-torn Mackintosh Building at the Glasgow School of Art, calling on \"an independent body to own and take forward the project\"",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -322,17 +332,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
       "excerpt": "the photographer captures how marble, ornament, and empty auditoriums preserve centuries of cultural memory long before the first note is played.\nThe post franck bohbot captures the vienna state opera",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/franck-bohbot-vienna-state-opera-curtain-rises-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "The Fundació Mies van der Rohe opens the call for entries  for the 5th Lilly Reich Grant for Equality in Architecture",
-      "url": "https://www.archdaily.com/1182098/the-fundacio-mies-van-der-rohe-opens-the-call-for-entries-for-the-5th-lilly-reich-grant-for-equality-in-architecture",
-      "excerpt": "The Fundació Mies van der Rohe launches the call for the 5th Lilly Reich Grant for Equality in Architecture with the aim of continuing to generate research and debate on modern and contemporary archit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/7df3/1801/ca00/0176/ee81/large_jpg/ENG_5a_Beca.jpg?1785757180",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -342,7 +342,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/183",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/183/_DSF8202.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
