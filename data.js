@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  04:08",
+  "fetchedAt": "2026.08.04  07:33",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,27 +25,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -82,22 +82,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.04",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -140,6 +140,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Thomas Ingenlath returns to Volvo with fresh experience of the industry’s challenges",
+      "url": "https://www.wallpaper.com/transportation/thomas-ingenlath-returns-to-volvo-with-fresh-experience-of-the-industrys-challenges",
+      "excerpt": "Volvo’s Chief Design Officer Thomas Ingenlath discusses the ins and outs of contemporary car design and the wider auto industry, and hints at how Volvo plans to celebrate its centenary",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dMaid8ij9UfSfqzCs9VzcV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "re:stockholm converts leftover construction waste into robust public furniture",
+      "url": "https://www.designboom.com/design/restockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen/",
+      "excerpt": "re:stockholm explores how cities can treat construction waste not as a disposal problem, but as a valuable resource for public space.\nThe post re:stockholm converts leftover construction waste into ro",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-stockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "House in Harmony / Golchin Studio",
+      "url": "https://www.archdaily.com/1182076/house-in-harmony-golchin-studio",
+      "excerpt": "Located in Esfahan's dense Dolatabad neighborhood, House in Harmony establishes a quiet, introverted sanctuary that reconciles multi-generational living with an intensely heterogeneous urban edge. The",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/60bf/1801/ca00/0176/ed40/large_jpg/01.jpg?1785749715",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -148,6 +178,46 @@ window.LUMINO_DATA = {
       "excerpt": "3D-printed cutting guides open discarded tennis balls into curved components that wrap the foot while preserving their familiar felt surface.\nThe post sliced open and rebuilt, discarded tennis balls b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/soroosh-riazi-isfahani-slice-tennis-ball-shoes-designboom-FB.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Western Valley House / STO.M.P",
+      "url": "https://www.archdaily.com/1182086/western-valley-house-st-p",
+      "excerpt": "Inspirations and key concepts – The house is conceived as a metaphor for the valley it inhabits. The design borrows the language of a bustling street skyline, stretching the home along a corner site s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/655d/1801/ca00/0176/eda6/large_jpg/Western_facade_edit.jpg?1785750923",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.08.04",
+      "title": "納入事例に冠婚葬祭物件、ホテル・旅館物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Dynaudio Lounge / cold lab",
+      "url": "https://www.archdaily.com/1182062/dynaudio-lounge-cold-lab",
+      "excerpt": "Concert halls typically operate around formal performances. Performance times, programmes and seating are fixed in advance, making a concert something that must be planned ahead. Beyond this clear ord",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/3333/1801/ca00/0176/ec53/large_jpg/09_02___04___.jpg?1785738124",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.03",
+      "title": "domestic archipelago of nine houses unfolds across portugal’s cork-oak landscape",
+      "url": "https://www.designboom.com/architecture/domestic-archipelago-nine-houses-portugal-cork-oak-landscape-apaulinha/",
+      "excerpt": "the project explores residential living through landscape continuity and architectural variation.\nThe post domestic archipelago of nine houses unfolds across portugal’s cork-oak landscape appeared fir",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/apaulinha-portugal-designboom-1200.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -245,66 +315,6 @@ window.LUMINO_DATA = {
       "title": "Data centre approved as part of Truman Brewery masterplan in east London",
       "url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
       "excerpt": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, t",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Casa Akíga  / Studio Saxe",
-      "url": "https://www.archdaily.com/1182002/casa-akiga-studio-saxe",
-      "excerpt": "Set within a sloping site that descends toward a ravine, with ocean views beyond, this residence is approached as a gradual discovery. The house does not reveal itself immediately. Instead, it remains",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/aeb9/0364/d201/89e9/78a8/large_jpg/casa-akiga-studio-saxe_3.jpg?1785507529",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "recycled aerospace steel and rammed earth shape homeware collection for life on mars",
-      "url": "https://www.designboom.com/design/recycled-aerospace-steel-rammed-earth-homeware-collection-life-mars-roc-h-biel-martian-relics/",
-      "excerpt": "martian relics uses domestic design to reflect on environmental responsibility and material scarcity.\nThe post recycled aerospace steel and rammed earth shape homeware collection for life on mars appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/roc-h-biel-martian-relics-collection-mars-recycled-aerospace-steel-rammed-earth-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Out of office: What the Wallpaper* editors are looking forward to in August",
-      "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-august-2026",
-      "excerpt": "Our editors highlight what’s new, noteworthy and not-to-be-missed in design, culture and beyond this month",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UWXG73XFXQaeFgTagbYMrg-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Architectural Design Competition for the Facade of the Bajopontina S.A. Distribution Center",
-      "url": "https://www.archdaily.com/1182073/architectural-design-competition-for-the-facade-of-the-bajopontina-sa-distribution-center",
-      "excerpt": "BAJOPONTINA S.A., a strategic partner of Arca Continental (the exclusive bottler and marketer of Coca-Cola Peru brands) with a presence in East and Central Lima and key provinces such as Huancayo, Hua",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5137/1801/ca00/0176/ecbb/large_jpg/BANNER_CONCURSO_BAJOPONTINA.jpg?1785745727",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "Snider House / Giannone Petricone Associates Inc. Architects",
-      "url": "https://www.archdaily.com/1181851/snider-house-giannone-petricone-associates-inc-architects",
-      "excerpt": "Snider House, an 1828 heritage property and North Toronto's oldest surviving structure, was originally constructed as a brick Regency Cottage farmhouse at the heart of sprawling pastures and orchards.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/71b0/1801/ca00/0176/df05/large_jpg/04_GPA_Snider_House_credit_Scott_Norsworthy.jpg?1785360991",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.03",
-      "title": "inside the hand-painted animations bringing isamu noguchi’s unrealized playgrounds to life",
-      "url": "https://www.designboom.com/art/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview/",
-      "excerpt": "designboom speaks with eastend western and curator kate wiener about imagining isamu noguchi’s unrealized playgrounds through five hand-painted animated films.\nThe post inside the hand-painted animati",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview-designboom-1200.jpg",
       "today": false
     },
     {
@@ -461,16 +471,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260709",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "展示・アート",
-      "date": "2026.07.08",
-      "title": "納入事例に美術館・博物館・スポーツ物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
