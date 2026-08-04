@@ -1,74 +1,70 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  21:06",
+  "fetchedAt": "2026.08.04  22:57",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "ozmall.co.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "Yahoo!ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "designboom": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Dezeen": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "大光電機": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "DNライティング": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "IGNANT": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.04",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -78,7 +74,27 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.04",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.04",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -87,7 +103,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.04",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -103,26 +119,6 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
       "today": true
     },
     {
