@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.04  17:40",
+  "fetchedAt": "2026.08.04  19:23",
   "sourceColors": {
     "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -82,6 +82,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.04",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.04",
@@ -120,16 +129,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.08.04",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "Yahoo!ニュース",
       "cat": "展示・アート",
       "date": "2026.08.04",
@@ -137,6 +136,24 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Dezeen Debate features \"shameless\" proposal for Dulles airport",
+      "url": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
+      "excerpt": "The latest Dezeen Debate newsletter features the Donald Trump-backed plans to extend Eero Saarinen's terminal at Dulles airport. Subscribe to Dezeen Debate now. The US Department of Transportation ann",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "River Architects replaces Hudson Valley structure with gabled Passive House",
+      "url": "https://www.dezeen.com/2026/08/04/river-architects-china-pond-passive-house/",
+      "excerpt": "Local studio River Architects has designed a wood-clad structure to Passive House standards, orienting gabled volumes around a pond in New York's Hudson Valley. Known as the China Pond Passive House, ",
       "today": true
     },
     {
@@ -186,6 +203,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon/",
       "excerpt": "the woven construction connects nitinol wires with fabric cords and PLA joints.\nThe post hand-woven nitinol sofa can flat-pack and self-deploy in a single motion appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-flat-pack-sofa-foldable-furniture-system-jisu-yoon-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Tamarindo Apartment / Estúdio Minke",
+      "url": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
+      "excerpt": "Located in Higienópolis, one of the most traditional neighborhoods in São Paulo, Apê Tamarindo was born from a couple's desire to create an authentic home connected to their own history and far from s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/e37d/4460/0501/896d/017a/large_jpg/apartamento-tamarindo-estudio-minke_9.jpg?1785848779",
       "today": true
     },
     {
@@ -277,15 +304,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Norm Architects designs Dynaudio showroom to resemble \"speaker components unfolded\"",
-      "url": "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
-      "excerpt": "Wood, aluminium and artworks made from reused textiles were used to create speaker brand Dynaudio's new showroom in Copenhagen, which local studio Norm Architects has filled with wooden furniture by J",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -313,25 +331,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181841/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design",
       "excerpt": "Shenzhen Natural History Museum is one of the world's largest new natural history museums and the largest in South China.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/cae3/0364/d201/89e9/6efa/large_jpg/shenzhen-natural-history-museum-3xn-plus-b-plus-h-architects-plus-zhubo-design_6.jpg?1785383691",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Paul Clemence's New Photo Series Explores Light and Materiality at Le Corbusier's Ronchamp Chapel",
-      "url": "https://www.archdaily.com/1182164/paul-clemences-new-photo-series-explores-light-and-materiality-at-le-corbusiers-ronchamp-chapel",
-      "excerpt": "Photographer Paul Clemence has unveiled a new photo series documenting Le Corbusier's Notre Dame du Haut in Ronchamp, France. The collection revisits one of the 20th century's most influential works o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b2e8/4460/054e/9ecc/a466/large_jpg/paul-clemences-new-photo-series-explores-light-and-materiality-at-le-corbusiers-ronchamp-chapel_1.jpg?1785836286",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Taylor Knights designs responsible Melbourne coffee roastery to \"reveal rather than replace\"",
-      "url": "https://www.dezeen.com/2026/08/04/contraband-coffee-melbourne-cafe-interiors-taylor-knights/",
-      "excerpt": "A stripped-back interior of concrete surfaces and timber joinery lets sustainable production practices take centre stage at Melbourne's Contraband Coffee cafe and roastery, designed by architecture st",
       "today": true
     },
     {
