@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  06:23",
+  "fetchedAt": "2026.08.05  09:32",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "sanyonews.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -84,13 +84,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -113,15 +122,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.05",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.05",
@@ -129,6 +129,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Ómós guesthouse designed to \"feel like nothing else in Ireland\"",
+      "url": "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
+      "excerpt": "Asca Studio and Relief Gallery joined forces to create the interiors of the Ómós guesthouse outside Abbeyleix, Ireland, which they have converted from a ruin into a welcoming space filled with tactile",
       "today": true
     },
     {
@@ -162,6 +171,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Dress made of living mycelium can renew and repair itself",
+      "url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/",
+      "excerpt": "Researchers in China have created a textile from living mycelium that is self-cleaning, near self-repairing and can be coloured or made UV protective through \"plug-and-play\" add-ons of different fungi",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "The Center as Strategy: 8 Projects Built Around a Void",
+      "url": "https://www.archdaily.com/1182003/the-center-as-strategy-8-projects-built-around-a-void",
+      "excerpt": "The center of a plan is never simply empty space. Once rooms and routes begin to organize around it, the center starts to structure the entire plan. It may contain a courtyard, a stair, a garden, or a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/adf6/0364/d201/89e9/7892/large_jpg/what-architecture-places-at-the-center-8-projects-that-use-the-center-as-an-architectural-strategy_1.jpg?1785507324",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "CMM (H)Office / Gets Architects",
+      "url": "https://www.archdaily.com/1182108/cmm-h-office-gets-architects",
+      "excerpt": "CMM (H)Office unifies three distinct architectural programs into a single, cohesive headquarters for CMM, a telecommunications and security company based in South Jakarta. Conceived as a direct respon",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/9790/1801/ca00/0176/ef40/large_jpg/CMM__2_.jpg?1785763742",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -169,6 +207,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-harper-avenue-apartments/",
       "excerpt": "folded metal surfaces reflect the internal organization of the apartments.\nThe post bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood appeared first on designboom | a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Exalt Mausoleum / Jim Caumeron Design",
+      "url": "https://www.archdaily.com/1182074/exalt-mausoleum-jim-caumeron-design",
+      "excerpt": "Most funerary architecture asks visitors to look down. Exalt does the opposite. Commissioned while the family patriarch was still alive, this private mausoleum in the Philippines transforms a place of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/8410/4ea2/e401/8926/6f6f/large_jpg/exalt-mausoleum-jim-caumeron-design_19.jpg?1785758846",
       "today": true
     },
     {
@@ -250,16 +298,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Architecture Studio in Vila do Conde / Raulino Silva Arquitecto",
-      "url": "https://www.archdaily.com/1182124/architecture-studio-in-vila-do-conde-raulino-silva-arquitecto",
-      "excerpt": "The small house dated 1936 was built by my grandparents, in the place of Santagões, in a very rural area of Vila do Conde, where I am from. The architecture studio operated for ten years in the origin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/bdda/1801/ca00/0176/f0c0/large_jpg/Atelier_Raulino_Silva_-_photo_Jos__Campos__35_.jpg?1785773596",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -280,50 +318,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Casa Tertulia / Marcela Carranza Arquitectura",
-      "url": "https://www.archdaily.com/1182176/casa-tertulia-marcela-carranza-arquitectura",
-      "excerpt": "Casa en el Aire is a single-family home located in San Mateo de Alajuela, Costa Rica, on a steeply sloping site with dominant landscape views. Its primary strategy is to address housing through minima",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/50f7/1801/ca00/0176/ec99/large_jpg/01.jpg?1785745690",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.04",
       "title": "SBP and Snøhetta cantilever bridge between rock faces in Upstate New York",
       "url": "https://www.dezeen.com/2026/08/04/sentry-bridge-watkins-glen-gorge-snohetta-sbp/",
       "excerpt": "New York studios Schlaich Bergermann Partner and Snøhetta have replaced an ageing bridge in Upstate New York with a steel half-arch span that is mounted on one side of a gorge and cantilevers across t",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Tamarindo Apartment / Estúdio Minke",
-      "url": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
-      "excerpt": "Located in Higienópolis, one of the most traditional neighborhoods in São Paulo, Apê Tamarindo was born from a couple's desire to create an authentic home connected to their own history and far from s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/e37d/4460/0501/896d/017a/large_jpg/apartamento-tamarindo-estudio-minke_9.jpg?1785848779",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Farmsteads inform corrugated metal-clad home in Sussex",
-      "url": "https://www.dezeen.com/2026/08/04/house-in-a-clearing-sussex-uk-taylorhare-architects/",
-      "excerpt": "Agricultural barns and sheds informed the corrugated metal-clad volumes of House in a Clearing, a house in East Sussex completed by UK studio TaylorHare Architects. When the clients purchased the site",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Joyce Wang draws on \"colonial country manors\" for Hong Kong hotel interior",
-      "url": "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
-      "excerpt": "Designer Joyce Wang has completed an interior renovation at the Mandarin Oriental The Landmark hotel in Hong Kong, designed to evoke the feel of living in a colonial mansion. Located on Queen's Road i",
       "today": false
     },
     {
