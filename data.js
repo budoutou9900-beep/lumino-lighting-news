@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  13:54",
+  "fetchedAt": "2026.08.05  15:59",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,15 +21,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -135,6 +135,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Is Hope Lodge the future of Scottish luxury travel?",
+      "url": "https://www.wallpaper.com/travel/hotels/hope-lodge-wildland-scotland-review",
+      "excerpt": "At the mouth of Loch Hope, a restored Victorian shooting lodge delivers safari-style immersion and a 200-year view of conservation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nCStUeWrEPKyT6EABFaxWN-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "SOM designs \"vertical data center\" for Downtown Kansas City",
+      "url": "https://www.dezeen.com/2026/08/05/data-center-skyscraper-kansas-city-som/",
+      "excerpt": "International architecture studio SOM has released designs of the 20-storey 934 Central Street data centre in Kansas City, USA, with a facade configured to \"feel at home within its downtown context\". ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Vollebak’s 'For When All Hell Breaks Loose' jacket gives catastrophe the brush-off",
+      "url": "https://www.wallpaper.com/tech/vollebak-fwahbl-jacket",
+      "excerpt": "Dodge disasters and AI-generated antagonists with the FWAHBL jacket from Vollebak, transforming high-tech, chemical-resistant rubber into stylish and eye-catching outerwear",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5F98LMZveiRHKwMPS4bSBR-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "digitally fabricated plywood pavilion creates shaded curved refuge in chihuahua",
+      "url": "https://www.designboom.com/architecture/digitally-fabricated-plywood-pavilion-shaded-curved-refuge-chihuahua-instituto-superior-arquitectura-diseno-isad-paso-nara/",
+      "excerpt": "the intervention was developed as a student project at the instituto superior de arquitectura y diseño (ISAD).\nThe post digitally fabricated plywood pavilion creates shaded curved refuge in chihuahua ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/student-instituto-superior-arquitectura-diseno-isad-paso-nara-temporary-pavilion-chihuahua-mexico-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -196,6 +235,36 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.05",
+      "title": "RDH House / Čechvala Architects",
+      "url": "https://www.archdaily.com/1181952/rdh-house-cechvala-architects",
+      "excerpt": "The site sits in Bratislava's Sihoť district along Devínska Road, at a rare meeting point of two contrasting landscapes: the wooded rise of the Carpathian massif on one side and a quiet arm of the Dan",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/71e0/1801/ca00/0176/e611/large_jpg/C_ECHVALA_ARCHITECTS_RDH_-_photo_by_alex_shoots_buildings__7_of_20_.jpg?1785491953",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "TraMod AWARDS 2026 | The Fourth Year | The World's First International Award on Interactions between Tradition & Modernity in Architecture & Design",
+      "url": "https://www.archdaily.com/1182267/tramod-awards-2026-the-fourth-year-the-worlds-first-international-award-on-interactions-between-tradition-and-modernity-in-architecture-and-design",
+      "excerpt": "TraMod AWARDS 2026 | The Fourth YearThe World`s First International Award on Interactions betweenTradition & Modernityin Architecture & Design\nCALL FOR SUBMISSIONS! | OPEN NOWAfter three years, TraMod",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/35d0/5b21/b900/0199/2f05/large_jpg/01_TraMod_AWARDS_2026_CALL_FOR_SUBMISSIONS.jpg?1785935321",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "International Sustainable Building Competition",
+      "url": "https://www.archdaily.com/1182263/international-sustainable-building-competition",
+      "excerpt": "The International Sustainable Building Competition will be held at COP31 and will be open to participants from all countries, with the aim to promote energy-efficient, low-carbon, climate-resilient, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/31a1/5b21/b900/0199/2eda/large_jpg/COP31-Sustainable_Building_Competition.jpg?1785934249",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
       "title": "Futurebuild Queensland",
       "url": "https://www.archdaily.com/1182259/futurebuild-queensland",
       "excerpt": "Futurebuild Queensland is the state's only dedicated trade exhibition for the building, design and development sectors. Held annually, it brings together the entire state’s design and build ecosystem ",
@@ -232,46 +301,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Escaping Demolition: The Preservation of the A. Conger Goodyear House",
-      "url": "https://www.archdaily.com/1181916/escaping-demolition-the-preservation-of-the-a-conger-goodyear-house",
-      "excerpt": "As pillars of our cultural landscape, many masterpieces of the Modern Movement are often demolished, abandoned, or altered regardless of the context in which they are located. Preserving this architec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/a293/0364/d201/89e9/736f/large_jpg/saving-the-legacy-of-modern-architecture-the-story-behind-the-a-conger-goodyear-house_1.jpg?1785438876",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "UCAD Dakar Student Housing / Hardel Le Bihan Architectes",
-      "url": "https://www.archdaily.com/1181926/ucad-dakar-student-housing-hardel-le-bihan-architectes",
-      "excerpt": "Since 2015, in response to growing demand and to improve living conditions on the campus of Cheikh Anta Diop University, the Senegalese state has relied on AMSA Realty SA (the real-estate arm of the i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/e6ed/0364/d201/89e9/74a4/large_jpg/ucad-dakar-student-housing-hardel-le-bihan-architectes_1.jpg?1785456387",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Buildner's 3rd Architect's Stair Competition Winners Explore the Stair as a Form of Architectural Expression",
-      "url": "https://www.archdaily.com/1181786/buildners-3rd-architects-stair-competition-winners-explore-the-stair-as-a-form-of-architectural-expression",
-      "excerpt": "Buildner has announced the results of its third edition Architect's Stair international architecture ideas competition. The event invited designers to reflect on one of architecture's oldest and most ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/c6cd/ae3a/0b01/8910/b572/large_jpg/buildner-announces-results-of-its-architects-stair-competition-3rd-edition_3.jpg?1785317127",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "AI smart glasses connect perception, memory, and accessibility to support low-vision users",
-      "url": "https://www.designboom.com/readers/ai-smart-glasses-perception-memory-accessibility-low-vision-users-yue-fan-lumo/",
-      "excerpt": "lumo adapts guidance for central vision loss, peripheral vision loss, and blurred vision.\nThe post AI smart glasses connect perception, memory, and accessibility to support low-vision users appeared f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lumo-ai-smart-glasses-low-vision-adaptive-visual-guidance-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -299,35 +328,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/",
       "excerpt": "Researchers in China have created a textile from living mycelium that is self-cleaning, near self-repairing and can be coloured or made UV protective through \"plug-and-play\" add-ons of different fungi",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "The new CMF Clip Pro make light work of the ear clip approach to listening on the move",
-      "url": "https://www.wallpaper.com/tech/cmf-clip-pro-review",
-      "excerpt": "CMF have launched the Clip Pro, a new entry into the open, clip-style earbuds that let the outside in without compromising on sound or call quality. We gave them a listen",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KjZwoXfbtv49RcXSLPuPFU-2414-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "The intriguing Staempfli House on Costa Brava was once home to a Surrealist art dealer",
-      "url": "https://www.wallpaper.com/architecture/residential/costa-brava-staempfli-house",
-      "excerpt": "Once host to Dalí, Bertoia, Noguchi and more, this elegant Spanish seaside villa was a meeting point for post-war artistic movements. Now it’s on the market",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TiyryPaSkuYmAaXSjt462V-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Dezeen Debate features \"shameless\" proposal for Dulles airport",
-      "url": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
-      "excerpt": "The latest Dezeen Debate newsletter features the Donald Trump-backed plans to extend Eero Saarinen's terminal at Dulles airport. Subscribe to Dezeen Debate now. The US Department of Transportation ann",
-      "today": false
     },
     {
       "source": "大光電機",
