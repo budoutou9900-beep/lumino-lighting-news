@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  11:54",
+  "fetchedAt": "2026.08.05  13:54",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "kurumefan.com": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -88,7 +88,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurumefan.com",
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
@@ -104,6 +104,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -126,12 +135,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.05",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "spolia brings glass-block glow and sharp color to a rural house in spain",
+      "url": "https://www.designboom.com/architecture/spolia-brings-glass-block-glow-and-sharp-color-to-a-rural-house-in-spain/",
+      "excerpt": "among apple trees and morning clouds, an old mountain house discovers that rural living need not be beige.\nThe post spolia brings glass-block glow and sharp color to a rural house in spain appeared fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/spolia-glass-block-glow-sharp-color-renovation-rural-spain-designboom-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "How the Royal Academy of Fine Arts Antwerp turned the Belgian city into a fashion capital",
+      "url": "https://www.wallpaper.com/fashion-beauty/looks-looks-looks-momu-antwerp-royal-academy-of-fine-arts-exhibition",
+      "excerpt": "Zoe Whitfield explores the impact of the radical fashion institution as a new exhibition at MoMu, ‘Looks, Looks, Looks’, goes behind the scenes with the current class of students",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BdkeH4AZop2Xr5tLPAvGiS-1680-80.jpg",
       "today": true
     },
     {
@@ -173,6 +193,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Futurebuild Queensland",
+      "url": "https://www.archdaily.com/1182259/futurebuild-queensland",
+      "excerpt": "Futurebuild Queensland is the state's only dedicated trade exhibition for the building, design and development sectors. Held annually, it brings together the entire state’s design and build ecosystem ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/301f/5b21/b900/0199/2eb7/large_jpg/Event_Listings_QLD.jpg?1785933862",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "La Feria De Diseño Medellín",
+      "url": "https://www.archdaily.com/1182258/la-feria-de-diseno-medellin",
+      "excerpt": "La Feria De Diseño Medellín powered by idd cologne is a professional platform connecting Latin American design with international markets.\nFrom September 10–12, 2026, the event will bring together bra",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/2df3/5b21/b900/0199/2eb2/large_jpg/ChatGPT_Image_4_ago_2026__10_16_01_a.m..jpg?1785933307",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -192,6 +232,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Escaping Demolition: The Preservation of the A. Conger Goodyear House",
+      "url": "https://www.archdaily.com/1181916/escaping-demolition-the-preservation-of-the-a-conger-goodyear-house",
+      "excerpt": "As pillars of our cultural landscape, many masterpieces of the Modern Movement are often demolished, abandoned, or altered regardless of the context in which they are located. Preserving this architec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/a293/0364/d201/89e9/736f/large_jpg/saving-the-legacy-of-modern-architecture-the-story-behind-the-a-conger-goodyear-house_1.jpg?1785438876",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "UCAD Dakar Student Housing / Hardel Le Bihan Architectes",
+      "url": "https://www.archdaily.com/1181926/ucad-dakar-student-housing-hardel-le-bihan-architectes",
+      "excerpt": "Since 2015, in response to growing demand and to improve living conditions on the campus of Cheikh Anta Diop University, the Senegalese state has relied on AMSA Realty SA (the real-estate arm of the i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/e6ed/0364/d201/89e9/74a4/large_jpg/ucad-dakar-student-housing-hardel-le-bihan-architectes_1.jpg?1785456387",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Buildner's 3rd Architect's Stair Competition Winners Explore the Stair as a Form of Architectural Expression",
+      "url": "https://www.archdaily.com/1181786/buildners-3rd-architects-stair-competition-winners-explore-the-stair-as-a-form-of-architectural-expression",
+      "excerpt": "Buildner has announced the results of its third edition Architect's Stair international architecture ideas competition. The event invited designers to reflect on one of architecture's oldest and most ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/c6cd/ae3a/0b01/8910/b572/large_jpg/buildner-announces-results-of-its-architects-stair-competition-3rd-edition_3.jpg?1785317127",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -202,16 +272,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Treelithon - A countryside retreat  / Not a Number Architects",
-      "url": "https://www.archdaily.com/1181856/treelithon-a-countryside-retreat-not-a-number-architects",
-      "excerpt": "Treelithon reimagines the archetype of the rural stone house of Chalkidiki, set within a long, slender plot where the land descends in a quiet, gentle slope beneath a canopy of mature pines and ancien",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/1007/1801/ca00/0176/df94/large_jpg/Stone_houses_-_Not_a_number_architects_-_photo_alex_shoots_buildings__27_.jpg?1785401371",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -219,16 +279,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/atelier-ko-benin",
       "excerpt": "Emerging Benin-based studio Atelier Ko features in the Wallpaper* Architects Directory 2026 - here, we flag their Maison Itan, a contemporary restoration",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PSs7BNTjs9GZw6NdmoChaX-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "MAD Completes Shenzhen Bay Culture Square, a Coastal Design Museum and Public Park in China",
-      "url": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china",
-      "excerpt": "MAD / Ma Yansong's Shenzhen Bay Culture Square exhibition hall and park project began in 2018, with the project completed in 2020. The 188,000 m² building sits on a site area of approximately 51,000 m",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/5db6/4460/0501/896d/02d9/large_jpg/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china_27.jpg?1785880006",
       "today": true
     },
     {
@@ -248,46 +298,6 @@ window.LUMINO_DATA = {
       "title": "Dress made of living mycelium can renew and repair itself",
       "url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/",
       "excerpt": "Researchers in China have created a textile from living mycelium that is self-cleaning, near self-repairing and can be coloured or made UV protective through \"plug-and-play\" add-ons of different fungi",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "The Center as Strategy: 8 Projects Built Around a Void",
-      "url": "https://www.archdaily.com/1182003/the-center-as-strategy-8-projects-built-around-a-void",
-      "excerpt": "The center of a plan is never simply empty space. Once rooms and routes begin to organize around it, the center starts to structure the entire plan. It may contain a courtyard, a stair, a garden, or a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/adf6/0364/d201/89e9/7892/large_jpg/what-architecture-places-at-the-center-8-projects-that-use-the-center-as-an-architectural-strategy_1.jpg?1785507324",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "CMM (H)Office / Gets Architects",
-      "url": "https://www.archdaily.com/1182108/cmm-h-office-gets-architects",
-      "excerpt": "CMM (H)Office unifies three distinct architectural programs into a single, cohesive headquarters for CMM, a telecommunications and security company based in South Jakarta. Conceived as a direct respon",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/9790/1801/ca00/0176/ef40/large_jpg/CMM__2_.jpg?1785763742",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood",
-      "url": "https://www.designboom.com/architecture/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-harper-avenue-apartments/",
-      "excerpt": "folded metal surfaces reflect the internal organization of the apartments.\nThe post bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood appeared first on designboom | a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Exalt Mausoleum / Jim Caumeron Design",
-      "url": "https://www.archdaily.com/1182074/exalt-mausoleum-jim-caumeron-design",
-      "excerpt": "Most funerary architecture asks visitors to look down. Exalt does the opposite. Commissioned while the family patriarch was still alive, this private mausoleum in the Philippines transforms a place of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/8410/4ea2/e401/8926/6f6f/large_jpg/exalt-mausoleum-jim-caumeron-design_19.jpg?1785758846",
       "today": true
     },
     {
@@ -317,16 +327,6 @@ window.LUMINO_DATA = {
       "title": "Dezeen Debate features \"shameless\" proposal for Dulles airport",
       "url": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
       "excerpt": "The latest Dezeen Debate newsletter features the Donald Trump-backed plans to extend Eero Saarinen's terminal at Dulles airport. Subscribe to Dezeen Debate now. The US Department of Transportation ann",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Want to master the art of matcha? Let this calming Williamsburg café guide you",
-      "url": "https://www.wallpaper.com/travel/restaurants/matchaful-ritual-bar-brooklyn",
-      "excerpt": "Matchaful's new Brooklyn Ritual Bar invites guests to pause and discover the craft of Japanese tea",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AweYSi6DDQB5ytEnDWpock-2000-80.jpg",
       "today": false
     },
     {
