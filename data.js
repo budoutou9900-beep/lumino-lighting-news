@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  00:01",
+  "fetchedAt": "2026.08.05  03:56",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Yahoo!ニュース": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -57,13 +57,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "IGNANT": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -75,6 +71,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.05",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -107,6 +112,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.05",
@@ -126,13 +141,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.05",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood",
+      "url": "https://www.designboom.com/architecture/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-harper-avenue-apartments/",
+      "excerpt": "folded metal surfaces reflect the internal organization of the apartments.\nThe post bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood appeared first on designboom | a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "The new CMF Clip Pro make light work of the ear clip approach to listening on the move",
+      "url": "https://www.wallpaper.com/tech/cmf-clip-pro-review",
+      "excerpt": "CMF have launched the Clip Pro, a new entry into the open, clip-style earbuds that let the outside in without compromising on sound or call quality. We gave them a listen",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KjZwoXfbtv49RcXSLPuPFU-2414-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "The intriguing Staempfli House on Costa Brava was once home to a Surrealist art dealer",
+      "url": "https://www.wallpaper.com/architecture/residential/costa-brava-staempfli-house",
+      "excerpt": "Once host to Dalí, Bertoia, Noguchi and more, this elegant Spanish seaside villa was a meeting point for post-war artistic movements. Now it’s on the market",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TiyryPaSkuYmAaXSjt462V-2560-80.jpg",
       "today": true
     },
     {
@@ -156,6 +191,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Atalaya House / Refugio Outdoor",
+      "url": "https://www.archdaily.com/1182202/atalaya-house-refugio-outdoor",
+      "excerpt": "A watchtower, or atalaya, is a construction in a privileged position from which to observe or analyze something. In architecture, this privileged position implies the need for openings at higher level",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/c2f7/5b21/b900/0199/29c8/large_jpg/Copia_de_Exterior__9-2_.jpg?1785840409",
+      "today": false
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -171,6 +216,16 @@ window.LUMINO_DATA = {
       "title": "River Architects replaces Hudson Valley structure with gabled Passive House",
       "url": "https://www.dezeen.com/2026/08/04/river-architects-china-pond-passive-house/",
       "excerpt": "Local studio River Architects has designed a wood-clad structure to Passive House standards, orienting gabled volumes around a pond in New York's Hudson Valley. Known as the China Pond Passive House, ",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.04",
+      "title": "Architecture Studio in Vila do Conde / Raulino Silva Arquitecto",
+      "url": "https://www.archdaily.com/1182124/architecture-studio-in-vila-do-conde-raulino-silva-arquitecto",
+      "excerpt": "The small house dated 1936 was built by my grandparents, in the place of Santagões, in a very rural area of Vila do Conde, where I am from. The architecture studio operated for ten years in the origin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/bdda/1801/ca00/0176/f0c0/large_jpg/Atelier_Raulino_Silva_-_photo_Jos__Campos__35_.jpg?1785773596",
       "today": false
     },
     {
@@ -223,16 +278,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "hand-woven nitinol sofa can flat-pack and self-deploy in a single motion",
-      "url": "https://www.designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon/",
-      "excerpt": "the woven construction connects nitinol wires with fabric cords and PLA joints.\nThe post hand-woven nitinol sofa can flat-pack and self-deploy in a single motion appeared first on designboom | archite",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/re-flat-pack-sofa-foldable-furniture-system-jisu-yoon-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -272,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Cultural Center La Tuilerie in Limoux / Ferrier Marchetti Studio",
-      "url": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
-      "excerpt": "The project involved the transformation of an industrial site in the small town of Limoux in the Aude department, and at the heart of a community of municipalities with 30,000 inhabitants. It is a thr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/5f1e/0364/d201/89e9/6e9e/large_jpg/cultural-centre-la-tuilerie-in-limoux-ferrier-marchetti-studio_17.jpg?1785356105",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -298,36 +333,6 @@ window.LUMINO_DATA = {
       "title": "Joyce Wang draws on \"colonial country manors\" for Hong Kong hotel interior",
       "url": "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
       "excerpt": "Designer Joyce Wang has completed an interior renovation at the Mandarin Oriental The Landmark hotel in Hong Kong, designed to evoke the feel of living in a colonial mansion. Located on Queen's Road i",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Architects' Directory: a Gulf house by Civil Architecture brings the courtyard typology to the 21st century",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/civil-architecture-bahrain-kuwait",
-      "excerpt": "Wallpaper* Architects' Directory 2026 spotlights 30 of the world's most exciting emerging studios. Here, we meet Civil Architecture, whose work rethinks Gulf domestic architecture through research and",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YwHnfwCifiT2mzG5Aror7N-2400-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Matteo Thun and Antonio Rodriguez shape Azimut’s new flagship yacht, Seadeck 9",
-      "url": "https://www.wallpaper.com/transportation/azimut-seadeck-9",
-      "excerpt": "Azimut handed its new 25m flagship to two designers who'd never built a boat. This is the result",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8zwN5MFqku3rJkiVMfeCEG-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Craft After Conflict: Why Rebuilding Cities Begins with Rebuilding Knowledge",
-      "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
-      "excerpt": "A war can erase a skyline overnight. Roofs collapse, streets become impassable, and landmarks that once oriented everyday life are reduced to rubble. The most profound loss often remains invisible. Bu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/32c0/4ea2/e401/8926/6e55/large_jpg/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge_1.jpg?1785737927",
       "today": false
     },
     {
@@ -500,16 +505,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -537,16 +532,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
