@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  17:44",
+  "fetchedAt": "2026.08.05  19:22",
   "sourceColors": {
-    "PR TIMES": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "sortiraparis.com": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,23 +29,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -57,30 +57,16 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
-    {
-      "source": "PR TIMES",
-      "cat": "賞・コンペ",
-      "date": "2026.08.05",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://prtimes.jp/main/html/rd/p/000000014.000026058.html",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "展示・アート",
-      "date": "2026.08.05",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://prtimes.jp/main/html/rd/p/000001627.000005794.html",
-      "excerpt": "",
-      "today": true
-    },
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
@@ -92,7 +78,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -140,21 +126,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
-      "cat": "展示・アート",
-      "date": "2026.08.05",
-      "title": "【東京・多摩】秋の瞬間を一句、小平で「フォト五七五コンテスト」開催、立川では紅葉ライトアップ＆イルミネーション",
-      "url": "https://prtimes.jp/main/html/rd/p/000000017.000132649.html",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "inflated orange volumes adorn smash burger restaurant’s interior by da bureau in armenia",
+      "url": "https://www.designboom.com/architecture/inflated-orange-volumes-smash-burger-restaurant-interior-da-bureau-armenia-yerevan-iykyk/",
+      "excerpt": "branding, furniture, lighting, and architecture form a unified modular system for iykyk.\nThe post inflated orange volumes adorn smash burger restaurant’s interior by da bureau in armenia appeared firs",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/da-bureau-interior-iykyk-smash-burger-restaurant-yerevan-armenia-designboom-1200.jpg",
       "today": true
     },
     {
@@ -253,16 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/looks-looks-looks-momu-antwerp-royal-academy-of-fine-arts-exhibition",
       "excerpt": "Zoe Whitfield explores the impact of the radical fashion institution as a new exhibition at MoMu, ‘Looks, Looks, Looks’, goes behind the scenes with the current class of students",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BdkeH4AZop2Xr5tLPAvGiS-1680-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "madkids empire makes playful synthesizers that invite anyone to explore sound",
-      "url": "https://www.designboom.com/technology/madkids-empire-playful-synthesizers-anyone-sound-interview/",
-      "excerpt": "analogue circuitry, graphic design, and metaphors drawn from nature shape synthesizers that reward curiosity and experimentation.\nThe post madkids empire makes playful synthesizers that invite anyone ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/madkids-empire-playful-synthesizers-anyone-sound-interview-designboom-1200.jpg",
       "today": true
     },
     {
@@ -393,6 +370,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -512,6 +499,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -539,6 +536,26 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.06.22",
+      "title": "面出薫/照明デザイン塾　参加者募集",
+      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
       "today": false
     }
   ]
