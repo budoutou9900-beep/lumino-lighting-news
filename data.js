@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  15:59",
+  "fetchedAt": "2026.08.05  17:44",
   "sourceColors": {
-    "中日新聞Web": {
+    "PR TIMES": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "sortiraparis.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -57,16 +57,30 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "IGNANT": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
+    {
+      "source": "PR TIMES",
+      "cat": "賞・コンペ",
+      "date": "2026.08.05",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000026058.html",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
+      "url": "https://prtimes.jp/main/html/rd/p/000001627.000005794.html",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
@@ -78,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -126,12 +140,50 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "【東京・多摩】秋の瞬間を一句、小平で「フォト五七五コンテスト」開催、立川では紅葉ライトアップ＆イルミネーション",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000132649.html",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Eleven architecture preservation battles across the US",
+      "url": "https://www.dezeen.com/2026/08/05/eleven-architecture-preservation-battles-roundup/",
+      "excerpt": "With the recent release of plans to build on top of Eero Saarinen's terminal building at Dulles International Airport, we take a look at old and new controversies surrounding significant works of arch",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "transparent CD player by SYITREN puts album artwork back in motion",
+      "url": "https://www.designboom.com/technology/transparent-cd-player-syitren-album-artwork-motion-rm1/",
+      "excerpt": "the square acrylic player reveals its circuitry while sending sound to external speakers through bluetooth or AUX.\nThe post transparent CD player by SYITREN puts album artwork back in motion appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/syitren-rm1-transparent-cd-player-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "second white’s VtoV 2000 concept gives the electric scooter a more grown-up role",
+      "url": "https://www.designboom.com/technology/second-whites-vtov-2000-concept-gives-the-electric-scooter-a-more-grown-up-role/",
+      "excerpt": "south korean design agency develops an electric scooter concept around safer and more responsible urban mobility.\nThe post second white’s VtoV 2000 concept gives the electric scooter a more grown-up r",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/second-whites-vtov-2000-concept-electric-scooter-designboom-4.jpg",
       "today": true
     },
     {
@@ -184,6 +236,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Paraiso Remodel / Austin Sandy Architects",
+      "url": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
+      "excerpt": "The Paraiso Remodel transforms a ranch house in a hilly East Bay neighborhood into a light-filled family home. Originally a T-shaped structure with a piecemeal 1960s addition, the house had grown dark",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/5e23/1801/ca00/0176/e1f1/large_jpg/Mahya-Salehi_Paraiso_16.jpg?1785421578",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -210,16 +272,6 @@ window.LUMINO_DATA = {
       "title": "Red scaffolding surrounds temporary pavilion in India",
       "url": "https://www.dezeen.com/2026/08/05/reclaimed-pavilion-kanan-modi-associates-india/",
       "excerpt": "A vast grid of red scaffolding surrounds The Reclaimed Pavilion, a temporary events space in India designed by local studio Kanan Modi Associates using materials that were salvaged from local construc",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub",
-      "url": "https://www.designboom.com/architecture/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub/",
-      "excerpt": "the mixed-use cultural center revisits a fifteen-year-old urban idea, breaking a conventional commercial complex into a stack of individually scaled volumes.\nThe post MVRDV brings its vertical village",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub-designboom-1200.jpg",
       "today": true
     },
     {
@@ -272,26 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "La Feria De Diseño Medellín",
-      "url": "https://www.archdaily.com/1182258/la-feria-de-diseno-medellin",
-      "excerpt": "La Feria De Diseño Medellín powered by idd cologne is a professional platform connecting Latin American design with international markets.\nFrom September 10–12, 2026, the event will bring together bra",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/2df3/5b21/b900/0199/2eb2/large_jpg/ChatGPT_Image_4_ago_2026__10_16_01_a.m..jpg?1785933307",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "storefront canopies leave the streets behind to become sculptures of urban identity",
-      "url": "https://www.designboom.com/art/storefront-canopies-streets-sculptures-urban-identity-egon-van-herreweghe-footnote-gallery/",
-      "excerpt": "by relocating four storefront canopies into the gallery, the artist explores how architecture becomes a language of identity. \nThe post storefront canopies leave the streets behind to become sculpture",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/storefront-canopies-streets-sculptures-urban-identity-egon-van-herreweghe-footnote-gallery-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -318,15 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/music/secret-7-inch-2026",
       "excerpt": "700 artists have designed record sleeves for War Child's annual auction, Secret 7”. See the results in London",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n3qzmixfefVmph3AXum6aj.gif",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Dress made of living mycelium can renew and repair itself",
-      "url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/",
-      "excerpt": "Researchers in China have created a textile from living mycelium that is self-cleaning, near self-repairing and can be coloured or made UV protective through \"plug-and-play\" add-ons of different fungi",
       "today": true
     },
     {
@@ -367,16 +390,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260729",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -499,16 +512,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -536,26 +539,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
       "today": false
     }
   ]
