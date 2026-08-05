@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  09:32",
+  "fetchedAt": "2026.08.05  11:54",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "sanyonews.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "kurumefan.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,33 +33,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "IGNANT": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -74,7 +78,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "kurumefan.com",
+      "cat": "展示・アート",
+      "date": "2026.08.05",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -84,7 +107,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.05",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -112,23 +135,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.05",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "title": "madkids empire makes playful synthesizers that invite anyone to explore sound",
+      "url": "https://www.designboom.com/technology/madkids-empire-playful-synthesizers-anyone-sound-interview/",
+      "excerpt": "analogue circuitry, graphic design, and metaphors drawn from nature shape synthesizers that reward curiosity and experimentation.\nThe post madkids empire makes playful synthesizers that invite anyone ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/madkids-empire-playful-synthesizers-anyone-sound-interview-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.05",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "Red scaffolding surrounds temporary pavilion in India",
+      "url": "https://www.dezeen.com/2026/08/05/reclaimed-pavilion-kanan-modi-associates-india/",
+      "excerpt": "A vast grid of red scaffolding surrounds The Reclaimed Pavilion, a temporary events space in India designed by local studio Kanan Modi Associates using materials that were salvaged from local construc",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub",
+      "url": "https://www.designboom.com/architecture/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub/",
+      "excerpt": "the mixed-use cultural center revisits a fifteen-year-old urban idea, breaking a conventional commercial complex into a stack of individually scaled volumes.\nThe post MVRDV brings its vertical village",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "MAD scatters boulder-like galleries across green-roofed museum in Shenzhen",
+      "url": "https://www.dezeen.com/2026/08/05/shenzhen-bay-culture-square-mad/",
+      "excerpt": "Architecture studio MAD has unveiled Shenzhen Bay Culture Square in China, a design museum formed of stone-like volumes perched atop an undulating green roof. Situated in Houhai in Shenzhen's Nanshan ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "storefront canopies leave the streets behind to become sculptures of urban identity",
+      "url": "https://www.designboom.com/art/storefront-canopies-streets-sculptures-urban-identity-egon-van-herreweghe-footnote-gallery/",
+      "excerpt": "by relocating four storefront canopies into the gallery, the artist explores how architecture becomes a language of identity. \nThe post storefront canopies leave the streets behind to become sculpture",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/storefront-canopies-streets-sculptures-urban-identity-egon-van-herreweghe-footnote-gallery-designboom-1200.jpg",
       "today": true
     },
     {
@@ -137,7 +188,7 @@ window.LUMINO_DATA = {
       "date": "2026.08.05",
       "title": "Ómós guesthouse designed to \"feel like nothing else in Ireland\"",
       "url": "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
-      "excerpt": "Asca Studio and Relief Gallery joined forces to create the interiors of the Ómós guesthouse outside Abbeyleix, Ireland, which they have converted from a ruin into a welcoming space filled with tactile",
+      "excerpt": "Asca Studio and Relief Gallery joined forces to create the interiors of the Ómós guesthouse outside Abbeyleix, Ireland, which was converted from a ruin into a welcoming space filled with tactile mater",
       "today": true
     },
     {
@@ -151,6 +202,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Treelithon - A countryside retreat  / Not a Number Architects",
+      "url": "https://www.archdaily.com/1181856/treelithon-a-countryside-retreat-not-a-number-architects",
+      "excerpt": "Treelithon reimagines the archetype of the rural stone house of Chalkidiki, set within a long, slender plot where the land descends in a quiet, gentle slope beneath a canopy of mature pines and ancien",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/1007/1801/ca00/0176/df94/large_jpg/Stone_houses_-_Not_a_number_architects_-_photo_alex_shoots_buildings__27_.jpg?1785401371",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -158,6 +219,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/atelier-ko-benin",
       "excerpt": "Emerging Benin-based studio Atelier Ko features in the Wallpaper* Architects Directory 2026 - here, we flag their Maison Itan, a contemporary restoration",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PSs7BNTjs9GZw6NdmoChaX-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "MAD Completes Shenzhen Bay Culture Square, a Coastal Design Museum and Public Park in China",
+      "url": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china",
+      "excerpt": "MAD / Ma Yansong's Shenzhen Bay Culture Square exhibition hall and park project began in 2018, with the project completed in 2020. The 188,000 m² building sits on a site area of approximately 51,000 m",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/5db6/4460/0501/896d/02d9/large_jpg/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china_27.jpg?1785880006",
       "today": true
     },
     {
@@ -240,61 +311,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Minzu Lane Coffee / Modum Atelier",
-      "url": "https://www.archdaily.com/1182067/minzu-lane-coffee-modum-atelier",
-      "excerpt": "Minzu Lane Coffee is located on Minzu Road, a historic street in Zhongshan layered with urban memory. The existing building is a traditional qilou dating back to the Jiaqing period of the Qing Dynasty",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/3c13/1801/ca00/0176/ec88/large_jpg/11Second_Floor___Liu_Guowei.jpg?1785740441",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "modular glue-free sneakers connect 3D printing with traditional asian craftsmanship",
-      "url": "https://www.designboom.com/design/modular-glue-free-sneakers-3d-printing-traditional-asian-craftsmanship-udrb-daniyar-uderbekov/",
-      "excerpt": "the design combines a 3D printed TPU sole, a leather inner boot inspired by traditional central asian makhsi and ichigi footwear, and a rope-based fastening system.\nThe post modular glue-free sneakers",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/modular-glue-free-sneakers-udrb-daniyar-uderbekov-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "japan’s fruit-shaped bus stops offer travelers a sweeter shelter",
-      "url": "https://www.designboom.com/architecture/japan-fruit-shaped-bus-stops-play-konagai-nagasaki/",
-      "excerpt": "along nagasaki’s coastal highway, oversized strawberries and melons turn a roadside wait into a playful encounter with public transit.\nThe post japan’s fruit-shaped bus stops offer travelers a sweeter",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/fruit-bus-stops-konagai-nagasaki-japan-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Atalaya House / Refugio Outdoor",
-      "url": "https://www.archdaily.com/1182202/atalaya-house-refugio-outdoor",
-      "excerpt": "A watchtower, or atalaya, is a construction in a privileged position from which to observe or analyze something. In architecture, this privileged position implies the need for openings at higher level",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/c2f7/5b21/b900/0199/29c8/large_jpg/Copia_de_Exterior__9-2_.jpg?1785840409",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.04",
       "title": "Dezeen Debate features \"shameless\" proposal for Dulles airport",
       "url": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
       "excerpt": "The latest Dezeen Debate newsletter features the Donald Trump-backed plans to extend Eero Saarinen's terminal at Dulles airport. Subscribe to Dezeen Debate now. The US Department of Transportation ann",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "River Architects replaces Hudson Valley structure with gabled Passive House",
-      "url": "https://www.dezeen.com/2026/08/04/river-architects-china-pond-passive-house/",
-      "excerpt": "Local studio River Architects has designed a wood-clad structure to Passive House standards, orienting gabled volumes around a pond in New York's Hudson Valley. Known as the China Pond Passive House, ",
       "today": false
     },
     {
@@ -305,25 +327,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/matchaful-ritual-bar-brooklyn",
       "excerpt": "Matchaful's new Brooklyn Ritual Bar invites guests to pause and discover the craft of Japanese tea",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AweYSi6DDQB5ytEnDWpock-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "MAD’s stone-like museum completes across shenzhen bay’s green shoreline",
-      "url": "https://www.designboom.com/architecture/mad-stone-museum-shenzhen-bay-culture-square-plaza-china-completion/",
-      "excerpt": "white granite volumes and walkable green roofs turn shenzhen’s newest design museum into a piece of coastal terrain. \nThe post MAD’s stone-like museum completes across shenzhen bay’s green shoreline a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/MAD-shenzhen-bay-culture-square-china-completion-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "SBP and Snøhetta cantilever bridge between rock faces in Upstate New York",
-      "url": "https://www.dezeen.com/2026/08/04/sentry-bridge-watkins-glen-gorge-snohetta-sbp/",
-      "excerpt": "New York studios Schlaich Bergermann Partner and Snøhetta have replaced an ageing bridge in Upstate New York with a steel half-arch span that is mounted on one side of a gorge and cantilevers across t",
       "today": false
     },
     {
