@@ -1,59 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.05  03:56",
+  "fetchedAt": "2026.08.05  06:23",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -71,15 +71,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.05",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -144,6 +135,36 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.05",
+      "title": "AI smart glasses connect perception, memory, and accessibility to support low-vision users",
+      "url": "https://www.designboom.com/readers/ai-smart-glasses-perception-memory-accessibility-low-vision-users-yue-fan-lumo/",
+      "excerpt": "lumo adapts guidance for central vision loss, peripheral vision loss, and blurred vision.\nThe post AI smart glasses connect perception, memory, and accessibility to support low-vision users appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lumo-ai-smart-glasses-low-vision-adaptive-visual-guidance-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Architects' Directory: Through the restoration of an Afro-Brazilian house in Benin, shines the work of Atelier Ko",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/atelier-ko-benin",
+      "excerpt": "Emerging Benin-based studio Atelier Ko features in the Wallpaper* Architects Directory 2026 - here, we flag their Maison Itan, a contemporary restoration",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PSs7BNTjs9GZw6NdmoChaX-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Bid on artist-designed record sleeve artwork for War Child",
+      "url": "https://www.wallpaper.com/art/music/secret-7-inch-2026",
+      "excerpt": "700 artists have designed record sleeves for War Child's annual auction, Secret 7”. See the results in London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n3qzmixfefVmph3AXum6aj.gif",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.05",
       "title": "bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood",
       "url": "https://www.designboom.com/architecture/bronze-corrugated-metal-spf-architects-multifamily-housing-west-hollywood-harper-avenue-apartments/",
       "excerpt": "folded metal surfaces reflect the internal organization of the apartments.\nThe post bronze corrugated metal wraps spf:architects’ multifamily housing in west hollywood appeared first on designboom | a",
@@ -168,6 +189,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/costa-brava-staempfli-house",
       "excerpt": "Once host to Dalí, Bertoia, Noguchi and more, this elegant Spanish seaside villa was a meeting point for post-war artistic movements. Now it’s on the market",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TiyryPaSkuYmAaXSjt462V-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Minzu Lane Coffee / Modum Atelier",
+      "url": "https://www.archdaily.com/1182067/minzu-lane-coffee-modum-atelier",
+      "excerpt": "Minzu Lane Coffee is located on Minzu Road, a historic street in Zhongshan layered with urban memory. The existing building is a traditional qilou dating back to the Jiaqing period of the Qing Dynasty",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/3c13/1801/ca00/0176/ec88/large_jpg/11Second_Floor___Liu_Guowei.jpg?1785740441",
       "today": true
     },
     {
@@ -249,16 +280,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "luna paiva installs 300-kilogram stainless steel totem at bofill’s la fábrica",
-      "url": "https://www.designboom.com/art/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica/",
-      "excerpt": "the sculpture brings ancestry, industry and several generations of collaborators together — before briefly taking flight above the rooftops.\nThe post luna paiva installs 300-kilogram stainless steel t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica-designboom-61.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.04",
@@ -288,42 +309,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Granada Echo Park House / Granada Form",
-      "url": "https://www.archdaily.com/1181928/granada-echo-park-granada-form",
-      "excerpt": "A compelling 25' white cubic ADU, punctuated by crisp rectilinear cutouts across the façade, becomes the newest trending neighborhood locus in Angelino Heights, widely embraced by coffee aficionados. ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/f567/1801/ca00/0176/e44f/large_jpg/Living_Room_2243_HR.jpg?1785460178",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "An ‘elegantly austere’ Arizona home celebrates its site and an unexpected, humble material",
-      "url": "https://www.wallpaper.com/architecture/residential/arizona-home-shifted-horizon-usa",
-      "excerpt": "At this Arizona home by architecture studio A-I-R, light, shadow, and form interplay in a minimalist elegance constructed using simple concrete masonry units and stucco",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aR8mYraPgHhpLRRsVNHdkM-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.04",
       "title": "Farmsteads inform corrugated metal-clad home in Sussex",
       "url": "https://www.dezeen.com/2026/08/04/house-in-a-clearing-sussex-uk-taylorhare-architects/",
       "excerpt": "Agricultural barns and sheds informed the corrugated metal-clad volumes of House in a Clearing, a house in East Sussex completed by UK studio TaylorHare Architects. When the clients purchased the site",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.04",
-      "title": "Wallpaper* checks into La Réserve Paris, an intimate escape in the heart of Paris",
-      "url": "https://www.wallpaper.com/travel/hotels/la-reserve-paris-review",
-      "excerpt": "Behind a Haussmann façade, an elegant mansion with just 40 rooms and suites offers a refreshingly personal take on Parisian luxury",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gxEEPdMVHnbnfVg34tqPmW-2560-80.jpg",
       "today": false
     },
     {
@@ -505,6 +496,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -532,6 +533,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.23",
+      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
+      "url": "https://www.yamagiwa.co.jp/news/79613/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
