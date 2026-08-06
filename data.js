@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.06  02:02",
+  "fetchedAt": "2026.08.06  05:43",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "enjoytokyo.jp": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -25,23 +25,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "enjoytokyo.jp",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.06",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -146,6 +146,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "納入事例に「ISHIYA G 大井町トラックス」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/187",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/187/_5027232.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "納入事例に「白い恋人~ Hakodate Bay Museum ~」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/188",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/188/_5029938.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -202,6 +222,16 @@ window.LUMINO_DATA = {
       "title": "Eleven architecture preservation battles across the US",
       "url": "https://www.dezeen.com/2026/08/05/eleven-architecture-preservation-battles-roundup/",
       "excerpt": "With the recent release of plans to build on top of Eero Saarinen's terminal building at Dulles International Airport, we take a look at old and new controversies surrounding significant works of arch",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
+      "title": "Praça House / Felipe Hess Arquitetos",
+      "url": "https://www.archdaily.com/1033066/praca-house-felipe-hess-arquitetos",
+      "excerpt": "Implanted on a narrow and deep plot of 10 x 60 meters in Jardim Paulistano, Casa Praça is organized into three blocks interspersed with patios. This configuration takes advantage of the lot's geometry",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6899/e204/a805/bb5c/ec3d/f4e3/large_jpg/casa-praca-felipe-hess-arquitetos_29.jpg?1754915345",
       "today": false
     },
     {
@@ -267,6 +297,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.05",
+      "title": "HD House / Desvão Atelier",
+      "url": "https://www.archdaily.com/1032288/hd-house-desvao-atelier",
+      "excerpt": "Casa HD is located within a residential enclave between Sesimbra and the village of Azeitão, occupying a trapezoidal plot bounded by the access road to the east and adjacent buildings to the north and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/687a/7b78/30ea/9701/57f7/09be/large_jpg/casa-hd-desvao-atelier_1.jpg?1752857491",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.05",
       "title": "Paraiso Remodel / Austin Sandy Architects",
       "url": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
       "excerpt": "The Paraiso Remodel transforms a ranch house in a hilly East Bay neighborhood into a light-filled family home. Originally a T-shaped structure with a piecemeal 1960s addition, the house had grown dark",
@@ -299,26 +339,6 @@ window.LUMINO_DATA = {
       "title": "MAD scatters boulder-like galleries across green-roofed museum in Shenzhen",
       "url": "https://www.dezeen.com/2026/08/05/shenzhen-bay-culture-square-mad/",
       "excerpt": "Architecture studio MAD has unveiled Shenzhen Bay Culture Square in China, a design museum formed of stone-like volumes perched atop an undulating green roof. Situated in Houhai in Shenzhen's Nanshan ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "RDH House / Čechvala Architects",
-      "url": "https://www.archdaily.com/1181952/rdh-house-cechvala-architects",
-      "excerpt": "The site sits in Bratislava's Sihoť district along Devínska Road, at a rare meeting point of two contrasting landscapes: the wooded rise of the Carpathian massif on one side and a quiet arm of the Dan",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/71e0/1801/ca00/0176/e611/large_jpg/C_ECHVALA_ARCHITECTS_RDH_-_photo_by_alex_shoots_buildings__7_of_20_.jpg?1785491953",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "TraMod AWARDS 2026 | The Fourth Year | The World's First International Award on Interactions between Tradition & Modernity in Architecture & Design",
-      "url": "https://www.archdaily.com/1182267/tramod-awards-2026-the-fourth-year-the-worlds-first-international-award-on-interactions-between-tradition-and-modernity-in-architecture-and-design",
-      "excerpt": "TraMod AWARDS 2026 | The Fourth YearThe World`s First International Award on Interactions betweenTradition & Modernityin Architecture & Design\nCALL FOR SUBMISSIONS! | OPEN NOWAfter three years, TraMod",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/35d0/5b21/b900/0199/2f05/large_jpg/01_TraMod_AWARDS_2026_CALL_FOR_SUBMISSIONS.jpg?1785935321",
       "today": false
     },
     {
@@ -477,26 +497,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.07.06",
-      "title": "夏季休業のご案内",
-      "url": "https://www.dnlighting.co.jp/media/news/260706",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.07.03",
-      "title": "納入事例に「あいは歯科クリニック西新院」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/175",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/175/296A8523-1.jpg",
       "today": false
     },
     {
