@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.06  05:43",
+  "fetchedAt": "2026.08.06  08:25",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -129,10 +129,48 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.06",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Mumbai apartment designed to feel like \"arriving at the edge of a still body of water\"",
+      "url": "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
+      "excerpt": "The lily pads that float on the Kerala backwaters were the inspiration for this multi-generational apartment renovation in Mumbai by local studio The Act of Quad. Poetically named A Borrowed Memory, t",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "carlo ratti associati previews a kinetic canopy for modena’s former hospital",
+      "url": "https://www.designboom.com/architecture/cra-carlo-ratti-associati-kinetic-canopy-modena-former-hospital-italy/",
+      "excerpt": "a public scale model previews the folding canopy that will transform AGO Modena’s historic courtyard throughout the year.\nThe post carlo ratti associati previews a kinetic canopy for modena’s former h",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/origami-roof-CRA-carlo-ratti-associati-modena-italy-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Harvest Moon table fabricated with materials and tools from within a 40 mile radius",
+      "url": "https://www.dezeen.com/2026/08/06/harvest-moon-table-charles-holland-cat-rossi-local-works/",
+      "excerpt": "Architect Charles Holland, academic Catharine Rossi and design studio Local Works have fabricated a table from materials harvested within a 40-mile radius of Canterbury, UK. Named Harvest Moon, the ta",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Entwined Wall Residence / IGArchitects",
+      "url": "https://www.archdaily.com/1182163/wrapped-wall-residence-igarchitects",
+      "excerpt": "This project is the renovation of a single floor within a commercial tenant building into a restaurant. Rather than dividing the program into a conventional relationship of front-of-house and back-of-",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/0063/eb02/9f01/882a/20ad/large_jpg/wrapped-wall-residence-igarchitects_17.jpg?1785856107",
       "today": true
     },
     {
@@ -163,6 +201,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/188",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/188/_5029938.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "aa Market / Vari Architects",
+      "url": "https://www.archdaily.com/1182219/aa-market-vari-architects",
+      "excerpt": "aa market is a rooftop lifestyle market initiated, designed, and operated by vari architects in Chongqing. Rather than beginning as a conventional commercial commission, the project grew out of the ar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/c996/eb02/9f01/882a/2267/large_jpg/aa-market-vari-architects_11.jpg?1785907648",
       "today": true
     },
     {
@@ -245,16 +293,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "second white’s VtoV 2000 concept gives the electric scooter a more grown-up role",
-      "url": "https://www.designboom.com/technology/second-whites-vtov-2000-concept-gives-the-electric-scooter-a-more-grown-up-role/",
-      "excerpt": "south korean design agency develops an electric scooter concept around safer and more responsible urban mobility.\nThe post second white’s VtoV 2000 concept gives the electric scooter a more grown-up r",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/second-whites-vtov-2000-concept-electric-scooter-designboom-4.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -294,26 +332,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "HD House / Desvão Atelier",
-      "url": "https://www.archdaily.com/1032288/hd-house-desvao-atelier",
-      "excerpt": "Casa HD is located within a residential enclave between Sesimbra and the village of Azeitão, occupying a trapezoidal plot bounded by the access road to the east and adjacent buildings to the north and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/687a/7b78/30ea/9701/57f7/09be/large_jpg/casa-hd-desvao-atelier_1.jpg?1752857491",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Paraiso Remodel / Austin Sandy Architects",
-      "url": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
-      "excerpt": "The Paraiso Remodel transforms a ranch house in a hilly East Bay neighborhood into a light-filled family home. Originally a T-shaped structure with a piecemeal 1960s addition, the house had grown dark",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6b/5e23/1801/ca00/0176/e1f1/large_jpg/Mahya-Salehi_Paraiso_16.jpg?1785421578",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.05",
@@ -330,24 +348,6 @@ window.LUMINO_DATA = {
       "title": "Red scaffolding surrounds temporary pavilion in India",
       "url": "https://www.dezeen.com/2026/08/05/reclaimed-pavilion-kanan-modi-associates-india/",
       "excerpt": "A vast grid of red scaffolding surrounds The Reclaimed Pavilion, a temporary events space in India designed by local studio Kanan Modi Associates using materials that were salvaged from local construc",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "MAD scatters boulder-like galleries across green-roofed museum in Shenzhen",
-      "url": "https://www.dezeen.com/2026/08/05/shenzhen-bay-culture-square-mad/",
-      "excerpt": "Architecture studio MAD has unveiled Shenzhen Bay Culture Square in China, a design museum formed of stone-like volumes perched atop an undulating green roof. Situated in Houhai in Shenzhen's Nanshan ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Ómós guesthouse designed to \"feel like nothing else in Ireland\"",
-      "url": "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
-      "excerpt": "Asca Studio and Relief Gallery joined forces to create the interiors of the Ómós guesthouse outside Abbeyleix, Ireland, which was converted from a ruin into a welcoming space filled with tactile mater",
       "today": false
     },
     {
@@ -547,16 +547,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79613/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.06.22",
-      "title": "面出薫/照明デザイン塾　参加者募集",
-      "url": "https://www.lighting.co.jp/2026/06/22/lightingdesignworkshop2026/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/06/QR_2026申し込み.png",
       "today": false
     }
   ]
