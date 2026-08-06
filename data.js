@@ -1,73 +1,65 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.06  11:16",
+  "fetchedAt": "2026.08.06  13:51",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "レッツエンジョイ東京": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Google ニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "IGNANT": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -79,26 +71,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.08.06",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.08.06",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
@@ -197,6 +169,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Has Architecture Ever Been Entirely Human? Beatriz Colomina and Mark Wigley on the Microbial Nature of Architecture",
+      "url": "https://www.archdaily.com/1181842/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture",
+      "excerpt": "Architecture has long been understood as a discipline created by humans and for humans. But in We the Bacteria: Notes Toward Biotic Architecture, Beatriz Colomina and Mark Wigley challenge that assump",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/2d41/4ea2/e401/8926/602e/large_jpg/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture_17.jpg?1785343331",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.06",
@@ -204,6 +186,36 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest/",
       "excerpt": "the project introduces climbing structures, outdoor classrooms, and planted play spaces that rethink how limited schoolyards can serve students throughout the day.\nThe post studio KRAFT reclaims limit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Rooms That Appear: Sliding Partitions and Conditional Domestic Space",
+      "url": "https://www.archdaily.com/1182161/rooms-that-appear-sliding-partitions-and-conditional-domestic-space",
+      "excerpt": "Sliding doors are often discussed through efficiency. They save the swing radius of a conventional door, allow compact rooms to function more easily, and help small apartments borrow a few extra centi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/9dc5/eb02/9f01/882a/1e0f/large_jpg/rooms-that-appear-sliding-partitions-and-conditional-domestic-space-in-apac-interiors_2.jpg?1785830860",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Chengdu Pavilion / IwamotoScott Architecture",
+      "url": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture",
+      "excerpt": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design. It serves both as an iconic symbol of the ethos and purpose of the adjac",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/db95/1801/ca00/0176/eb50/large_jpg/Chengdu_Pavilion_1a_DSC1591m_2880p.jpg?1785519021",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "MAD’s Shenzhen Bay Culture Square and Dorte Mandrup’s PLACE Exhibition: This Week’s Review",
+      "url": "https://www.archdaily.com/1182303/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review",
+      "excerpt": "This week, architecture's relationship with culture took center stage through exhibitions, public projects, and new cultural infrastructure that extend architectural discourse beyond the building itse",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/4487/5c0b/ae01/8ae4/b571/large_jpg/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review_3.jpg?1786004627",
       "today": true
     },
     {
@@ -220,10 +232,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.06",
-      "title": "Grand Paris Express Advances Urban Renewal Through 68 Architect-Designed Stations",
-      "url": "https://www.archdaily.com/1182298/grand-paris-express-advances-urban-renewal-through-68-architect-designed-stations",
-      "excerpt": "The Grand Paris Express project consists of 200 kilometers of new, fully automated metro lines, 68 new stations, and four new orbital lines (15, 16, 17, and 18), in addition to the extension of Line 1",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/f608/ff86/6b01/8bf0/df20/large_jpg/grand-paris-express-advances-urban-renewal-through-68-architect-designed-stations_5.jpg?1785984528",
+      "title": "Masseria Ficazzella / Valari Studio",
+      "url": "https://www.archdaily.com/1181918/masseria-ficazzella-valari-studio",
+      "excerpt": "Nestled in the Fasano countryside among olive trees and distant views of the Adriatic, Masseria Ficazzella is a restoration by Valari Studio that reimagines a historic Puglian farmhouse as a contempor",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/ce58/4460/0501/896d/00c6/large_jpg/masseria-ficazzella-valari-studio_15.jpg?1785843432",
       "today": true
     },
     {
@@ -233,36 +245,6 @@ window.LUMINO_DATA = {
       "title": "Harvest Moon table fabricated with materials and tools from within a 40 mile radius",
       "url": "https://www.dezeen.com/2026/08/06/harvest-moon-table-charles-holland-cat-rossi-local-works/",
       "excerpt": "Architect Charles Holland, academic Catharine Rossi and design studio Local Works have fabricated a table from materials harvested within a 40-mile radius of Canterbury, UK. Named Harvest Moon, the ta",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Workmanship and Imperfection: 10 Projects Between Hand and Machine",
-      "url": "https://www.archdaily.com/1182048/workmanship-and-imperfection-10-projects-between-hand-and-machine",
-      "excerpt": "In 1968, the furniture designer and RCA professor David Pye published The Nature and Art of Workmanship, a book built around a distinction between \"workmanship of risk\" and the \"workmanship of certain",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6f/bca0/0364/d201/89e9/7c9b/large_jpg/imperfection-as-infrastructure-10-projects-that-reveal-tolerance-and-value_11.jpg?1785707690",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "The Plinth House / Cambra Buró",
-      "url": "https://www.archdaily.com/1181864/the-plinth-house-cambra-buro",
-      "excerpt": "The Plinth House is a 3,000 sqm private villa on the coast of Abu Alhusaniya, Kuwait, completed in 2025. Designed by Cambra Buró under a full architectural, interior, and landscape scope, the house is",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/05f7/eb02/9f01/882a/2334/large_jpg/the-plinth-house-cambra-buro_18.jpg?1785923080",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Entwined Wall Residence / IGArchitects",
-      "url": "https://www.archdaily.com/1182163/wrapped-wall-residence-igarchitects",
-      "excerpt": "This project is the renovation of a single floor within a commercial tenant building into a restaurant. Rather than dividing the program into a conventional relationship of front-of-house and back-of-",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/0063/eb02/9f01/882a/20ad/large_jpg/wrapped-wall-residence-igarchitects_17.jpg?1785856107",
       "today": true
     },
     {
@@ -293,16 +275,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/188",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/188/_5029938.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "aa Market / Vari Architects",
-      "url": "https://www.archdaily.com/1182219/aa-market-vari-architects",
-      "excerpt": "aa market is a rooftop lifestyle market initiated, designed, and operated by vari architects in Chongqing. Rather than beginning as a conventional commercial commission, the project grew out of the ar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/c996/eb02/9f01/882a/2267/large_jpg/aa-market-vari-architects_11.jpg?1785907648",
       "today": true
     },
     {
