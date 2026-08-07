@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  12:50",
+  "fetchedAt": "2026.08.07  14:09",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,41 +37,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -83,16 +79,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -164,6 +150,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "The VW T-Roc sticks firmly to the middle of the road, a best-seller that’s short on surprises",
+      "url": "https://www.wallpaper.com/transportation/vw-troc-review",
+      "excerpt": "We try the Volkswagen T-Roc R-Line, a compact SUV / crossover that tries hard to be all things to all people and mostly succeeds",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JjRFKq89UD3qcgQoFiFqig-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "fashion in motion: clideo video editor transforms fashion films into visual stories",
+      "url": "https://www.designboom.com/readers/clideo-video-editor-fashion-films-visual-stories/",
+      "excerpt": "fashion films extend collections beyond the physical runway.\nThe post fashion in motion: clideo video editor transforms fashion films into visual stories appeared first on designboom | architecture & ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clideo-video-editor-contemporary-fashion-films-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -209,6 +215,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/a-pq-31-37-suspended-open-baffle-loudspeaker-system-concrete-canvas-hagar-guri/",
       "excerpt": "the speaker's concrete canvas curved shell shapes a concave front and convex back.\nThe post A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas appeared first on designboo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hagar-guri-a-pq-31-37-suspended-open-baffle-loudspeaker-system-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Formafantasma",
+      "url": "https://www.archdaily.com/1182397/formafantasma",
+      "excerpt": "**The first comprehensive monograph on multidisciplinary design studio Formafantasma, one of the most creative and innovative design duos working today**Formafantasma is a research-driven design studi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/c7cd/3cf9/6c00/0177/fd0d/large_jpg/9781837290994__1_.jpg?1786103767",
       "today": true
     },
     {
@@ -299,26 +315,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "lamborghini revuelto dresses in miura colors for a 99-car tribute",
-      "url": "https://www.designboom.com/technology/lamborghini-revuelto-dresses-in-miura-colors-for-a-99-car-tribute/",
-      "excerpt": "sixty years later, the miura lends its wardrobe to lamborghini’s electrified flagship.\nThe post lamborghini revuelto dresses in miura colors for a 99-car tribute appeared first on designboom | archite",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lamborghini-revuelto-miura-colors-99-car-tribute-DESIGNBOOM-4.jpeg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "De-Vice Kinetic Meditaiton Space  / Studio Caspar Schols",
-      "url": "https://www.archdaily.com/1182107/de-vice-studio-caspar-schols",
-      "excerpt": "Standing seven meters tall, De-Vice is a kinetic meditation space in which participants gradually open an enclosed space to the landscape through their own movement.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/e2ee/4460/0501/896d/0161/large_jpg/de-vice-studio-caspar-schols_20.jpg?1785848575",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -376,16 +372,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/marilia-pellegrini-brazil",
       "excerpt": "Meet Marilia Pellegrini, an emerging Brazilian architect whose studio features in the Wallpaper* Architects Directory for 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bASN2W5T3sWZupLwu8aqtQ-1259-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Racing lines and classic graphics in the paddock at the 2026 Goodwood Festival of Speed",
-      "url": "https://www.wallpaper.com/transportation/goodwood-festival-of-speed-2026",
-      "excerpt": "In the days before blanket sponsorship, racing car liveries and colour schemes gave additional shape to some of the most iconic machines of the era. Wallpaper* walked the paddock at this year’s Festiv",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C6T3UMy2sTyxKNCWFhhK79-2560-80.jpg",
       "today": false
     },
     {
