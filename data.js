@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  20:34",
+  "fetchedAt": "2026.08.07  21:33",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -76,7 +76,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.07",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -201,6 +201,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/madrid-apartment-archive-for-space",
       "excerpt": "Restored terracotta and polished stainless steel meet in this Malasaña apartment by Archive for Space – ‘grandmotherly’ heritage and industrial edge, perfectly balanced",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T5UMYnafuFRH9BUctpYqxR-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Olson Kundig crowns Sky View house with retractable roof",
+      "url": "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
+      "excerpt": "US studio Olson Kundig Architects has completed a house in the mountains of Idaho with large spans of concrete, steel and glass, topped with a retractable roof. Known as Sky View, the 7,190-square-foo",
       "today": true
     },
     {
@@ -347,15 +356,6 @@ window.LUMINO_DATA = {
       "title": "\"A hodgepodge of ideas\" says commenter",
       "url": "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/",
       "excerpt": "In this week's comments update, readers are discussing The Linhay, a family house in the Somerset countryside designed by studio Charles Gillespie Architecture. Wrapped by a concrete colonnade, the ho",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "RIBA reveals four-strong shortlist for UK's best affordable housing for 2026",
-      "url": "https://www.dezeen.com/2026/08/07/riba-neave-brown-award-shortlist-2026-news/",
-      "excerpt": "The Royal Institute of British Architects has announced its shortlist for the Neave Brown Award for Housing 2026, which includes the expansion of a 1970s housing estate with 46 homes for social rent i",
       "today": true
     },
     {
