@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  10:47",
+  "fetchedAt": "2026.08.07  11:41",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -153,6 +153,34 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
+      "title": "Cj hendry fills a new york gallery with beads and lets visitors invent the game",
+      "url": "https://www.designboom.com/art/cj-hendry-new-york-gallery-beads-pastel-installation/",
+      "excerpt": "a search-and-find installation invites visitors to build their own keepsakes, revealing how simple acts of collecting can spark unexpected social encounters.\nThe post Cj hendry fills a new york galler",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cj-hendry-pastel-beads-installation-nyc-play-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Kuryłowicz + Architects designs Antarctic research station as \"home at the end of the world\"",
+      "url": "https://www.dezeen.com/2026/08/07/antarctic-arctowski-station-kurylowicz-architects/",
+      "excerpt": "Architecture studio Kuryłowicz + Architects has revealed photos of the timber Arctowski Station nearing completion on King George Island in Antarctica. Currently under construction, the three-pronged ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Foster + Partners found not guilty over window fall death",
+      "url": "https://www.dezeen.com/2026/08/07/foster-partners-corniche-window-death-not-guilty/",
+      "excerpt": "British architecture studio Foster + Partners has been cleared over the death of a man killed by a window that fell from one of its buildings in London, following a five-week criminal trial. The case ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
       "title": "pac-man ghosts meet otamatone for pocket-sized musical crossover",
       "url": "https://www.designboom.com/technology/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover/",
       "excerpt": "two japanese characters built around opening mouths finally discover they have quite a lot in common.\nThe post pac-man ghosts meet otamatone for pocket-sized musical crossover appeared first on design",
@@ -227,6 +255,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "De-Vice Kinetic Meditaiton Space  / Studio Caspar Schols",
+      "url": "https://www.archdaily.com/1182107/de-vice-studio-caspar-schols",
+      "excerpt": "Standing seven meters tall, De-Vice is a kinetic meditation space in which participants gradually open an enclosed space to the landscape through their own movement.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/e2ee/4460/0501/896d/0161/large_jpg/de-vice-studio-caspar-schols_20.jpg?1785848575",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -244,15 +282,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182356/beijing-named-world-capital-of-architecture-2029-by-unesco-uia",
       "excerpt": "UNESCO-UIA World Capital of Architecture is a title created jointly by UNESCO and the International Union of Architects (UIA). On 5 August 2026, Beijing was named World Capital of Architecture for 202",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/887b/ab59/ca01/8994/3a3e/large_jpg/beijing-named-world-capital-of-architecture-2029-by-unesco-uia_9.jpg?1786087670",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Crissy Zhang creates Melbourne home shaped by \"modern Parisian sensibility\"",
-      "url": "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
-      "excerpt": "Local interior studio Crissy Zhang Design has transformed the interior of the Parkhill residence in Melbourne, Australia, using arched forms and tactile materials to create a soft, calming space. As p",
       "today": true
     },
     {
@@ -283,16 +312,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182241/cn-house-idin-architects",
       "excerpt": "CN House is a residence designed for a family entering their retirement years, set within a long and narrow site in Khao Yai that stretches from the public road to the foothills beyond. Surrounded by ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/13f6/5b21/b900/0199/2ddf/large_jpg/CNKY_RESIZE-217.jpg?1785926727",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "tiny vinyl player spins four-inch records on a miniature turntable",
-      "url": "https://www.designboom.com/technology/tiny-vinyl-player-turntable-four-inch-records/",
-      "excerpt": "miniature belt-drive turntable plays four-inch records through built-in speakers and bluetooth.\nThe post tiny vinyl player spins four-inch records on a miniature turntable appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tiny-vinyl-player-turntable-four-inch-records-designboom-5.jpeg",
       "today": true
     },
     {
@@ -336,16 +355,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "School of Mathematical Sciences, Peking University / FEI Architects",
-      "url": "https://www.archdaily.com/1182205/school-of-mathematical-sciences-peking-university-fei-architects",
-      "excerpt": "Eight Years of Dedication to Preserving a Chapter of History at Peking University's Yanyuan Campus — In 2015, the architects visited the Educational Technology Building along Wusi Road at Peking Unive",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/4e98/eb02/9f01/882a/216f/large_jpg/school-of-mathematical-sciences-peking-university-fei-architects_5.jpg?1785876235",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.06",
@@ -363,15 +372,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/goodwood-festival-of-speed-2026",
       "excerpt": "In the days before blanket sponsorship, racing car liveries and colour schemes gave additional shape to some of the most iconic machines of the era. Wallpaper* walked the paddock at this year’s Festiv",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C6T3UMy2sTyxKNCWFhhK79-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Dezeen Agenda features Decoy Font designed to trick AI",
-      "url": "https://www.dezeen.com/2026/08/06/dezeen-agenda-decoy-font-ai-mixfont/",
-      "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features an optical illusion font designed to trick artificial intelligence chatbots into misreading messages. Subscribe to Dezeen Agenda now.",
       "today": false
     },
     {
