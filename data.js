@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  21:33",
+  "fetchedAt": "2026.08.07  22:29",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -76,7 +76,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.07",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -136,7 +136,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.07",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -145,7 +145,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.07",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -157,10 +157,20 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.07",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Construction on the White House ballroom must stop, a federal appeals court rules",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/white-house-ballroom-court-ruling",
+      "excerpt": "According to a decision handed down Friday, Congress must approve alterations to the White House: ‘Each President is a temporary tenant, not the owner’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JMyZiYhgAD5dTa88PiSrWK-1024-80.jpg",
       "today": true
     },
     {
@@ -213,6 +223,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Collective Housing in Vila do Conde / Raulino Silva Arquitecto",
+      "url": "https://www.archdaily.com/1182435/collective-housing-in-vila-do-conde-raulino-silva-arquitecto",
+      "excerpt": "The project in Vila do Conde, north of Portugal, has as its brief the construction of a single-family house and a collective housing building, to be put up for rent, with two apartment and a store for",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/06c7/3cf9/6c00/0177/ff82/large_jpg/V.Conde_-_Raulino_Arch_-_photo_Santos-D_ez_01.jpg?1786119933",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -223,6 +243,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Weekend House in Krámy / Anna Koukolová architekti",
+      "url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
+      "excerpt": "Located in the Czech village of Krámy, near the Brdy Highlands, a weekend house designed by Anna Koukolová architekti has been built on a sloping site bordered by a grove and a stream. Clad in charred",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/large_jpg/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -230,16 +260,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fragrance/reservation-parfums-california-scents-francesco-ragazzi",
       "excerpt": "Founded by Palm Angels’ Francesco Ragazzi, Réservation aims to bottle the sunlit glamour of California with a series of transporting scents",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tcDJgipYgh289yrYcPzbCR-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "The VW T-Roc sticks firmly to the middle of the road, a best-seller that’s short on surprises",
-      "url": "https://www.wallpaper.com/transportation/vw-troc-review",
-      "excerpt": "We try the Volkswagen T-Roc R-Line, a compact SUV / crossover that tries hard to be all things to all people and mostly succeeds",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JjRFKq89UD3qcgQoFiFqig-2560-80.jpg",
       "today": true
     },
     {
@@ -318,26 +338,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover/",
       "excerpt": "two japanese characters built around opening mouths finally discover they have quite a lot in common.\nThe post pac-man ghosts meet otamatone for pocket-sized musical crossover appeared first on design",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover-designboom-4.jpeg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Erieta Attali: Archipelago of Memory | From Delos to the Aegean",
-      "url": "https://www.archdaily.com/1182405/erieta-attali-archipelago-of-memory-from-delos-to-the-aegean",
-      "excerpt": "In collaboration with the Municipality of Mykonos, Ephorate of Antiquities of the Cyclades of the Hellenic Ministry of Culture and the Aegean Maritime Museum.Internationally renowned photographer of l",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/165f/ac8b/af01/892c/b54b/large_jpg/erieta-attali-archipelago-of-memory-from-delos-to-the-aegean_2.jpg?1786123879",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Palimpsest of African Cities: Dig Where You Stand",
-      "url": "https://www.archdaily.com/1182401/palimpsest-of-african-cities-dig-where-you-stand",
-      "excerpt": "Presented as part of the OFF Programme of the 2026 Dakar Biennale and Partcours, Palimpsest of African Cities is the latest edition of the DIG WHERE YOU STAND programme initiated by the African Artist",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/c885/3cf9/6c00/0177/fd30/large_jpg/DWYS_V3-01.jpg?1786103949",
       "today": true
     },
     {
