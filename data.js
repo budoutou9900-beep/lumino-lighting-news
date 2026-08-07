@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  08:52",
+  "fetchedAt": "2026.08.07  09:56",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -150,6 +150,44 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "pac-man ghosts meet otamatone for pocket-sized musical crossover",
+      "url": "https://www.designboom.com/technology/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover/",
+      "excerpt": "two japanese characters built around opening mouths finally discover they have quite a lot in common.\nThe post pac-man ghosts meet otamatone for pocket-sized musical crossover appeared first on design",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover-designboom-4.jpeg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas",
+      "url": "https://www.designboom.com/technology/a-pq-31-37-suspended-open-baffle-loudspeaker-system-concrete-canvas-hagar-guri/",
+      "excerpt": "the speaker's concrete canvas curved shell shapes a concave front and convex back.\nThe post A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas appeared first on designboo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hagar-guri-a-pq-31-37-suspended-open-baffle-loudspeaker-system-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Gothic romance and 1980s slasher films informed sets of Teenage Sex and Death at Camp Miasma",
+      "url": "https://www.dezeen.com/2026/08/07/slasher-films-set-teenage-sex-and-death-at-camp-miasma/",
+      "excerpt": "Production designers Brandon Tonner-Connolly and Matt Hyland constructed sets including a \"flesh palace\" and a taxidermy-filled gas station to create a dreamlike world for this horror film starring Gi",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "\"A hodgepodge of ideas\" says commenter",
+      "url": "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/",
+      "excerpt": "In this week's comments update, readers are discussing The Linhay, a family house in the Somerset countryside designed by studio Charles Gillespie Architecture. Wrapped by a concrete colonnade, the ho",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -196,6 +234,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/michele-de-lucchi-triennale-creative-director-interview",
       "excerpt": "Wallpaper* speaks to Michele De Lucchi, newly appointed Creative Director of the Triennale Milano, on his vision for the future of the institution, and the key role of design in a rapidly changing wor",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HaoJB8c7CHz28BinuayJBE-1890-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Beijing Named World Capital of Architecture 2029 by UNESCO-UIA",
+      "url": "https://www.archdaily.com/1182356/beijing-named-world-capital-of-architecture-2029-by-unesco-uia",
+      "excerpt": "UNESCO-UIA World Capital of Architecture is a title created jointly by UNESCO and the International Union of Architects (UIA). On 5 August 2026, Beijing was named World Capital of Architecture for 202",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/887b/ab59/ca01/8994/3a3e/large_jpg/beijing-named-world-capital-of-architecture-2029-by-unesco-uia_9.jpg?1786087670",
       "today": true
     },
     {
@@ -298,16 +346,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "triangulated steel lattice redefines new gateway to barcelona’s logistics park",
-      "url": "https://www.designboom.com/architecture/triangulated-steel-lattice-gateway-barcelona-logistics-park-mias-architects/",
-      "excerpt": "mias architects reinterprets the entrance as an architectural threshold, framing the everyday choreography of movement.\nThe post triangulated steel lattice redefines new gateway to barcelona’s logisti",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mias-architects-new-access-gateway-zona-franca-logistics-park-barcelona-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.06",
@@ -315,16 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/marilia-pellegrini-brazil",
       "excerpt": "Meet Marilia Pellegrini, an emerging Brazilian architect whose studio features in the Wallpaper* Architects Directory for 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bASN2W5T3sWZupLwu8aqtQ-1259-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "water glasses turn colorful frameless eyewear into wearable sculpture",
-      "url": "https://www.designboom.com/design/water-glasses-colorful-frameless-eyewear-wearable-sculpture-xyz/",
-      "excerpt": "frameless lenses and colorful paracord turn water-ready eyewear into wearable objects.\nThe post water glasses turn colorful frameless eyewear into wearable sculpture appeared first on designboom | arc",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/water-glasses-colorful-frameless-eyewear-wearable-sculpture-xyz-designboom-2.jpeg",
       "today": false
     },
     {
@@ -338,40 +366,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Esh Hotel and Spa / FAMM Arquitectura + Sulkin Askenazi",
-      "url": "https://www.archdaily.com/1182302/esh-hotel-and-spa-famm-arquitectura",
-      "excerpt": "ESH Hotel & Spa is a 29-key hospitality development located on a sloping site in Nosara, Costa Rica. The project began with a central challenge: how to create a destination hotel on a property with li",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/40f1/eee6/f800/0125/f627/large_jpg/FAMM-Esh_Hotel_34.jpg?1786003979",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.06",
       "title": "Dezeen Agenda features Decoy Font designed to trick AI",
       "url": "https://www.dezeen.com/2026/08/06/dezeen-agenda-decoy-font-ai-mixfont/",
       "excerpt": "The latest edition of our weekly Dezeen Agenda newsletter features an optical illusion font designed to trick artificial intelligence chatbots into misreading messages. Subscribe to Dezeen Agenda now.",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Leckie Studio tucks house clad in \"silvered wood\" into forested Vancouver site",
-      "url": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/",
-      "excerpt": "Canadian practice Leckie Studio has completed Twin Peaks House, which features an asymmetrical roof and silvery wood cladding that helps the building \"recede among the trees\". Located in North Vancouv",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Tan France launches debut furniture collection with Castlery",
-      "url": "https://www.dezeen.com/2026/08/06/tan-france-debuts-furniture-collection-castlery/",
-      "excerpt": "Media personality and former Queer Eye host Tan France has released an 18-piece homeware collection with Singapore brand Castlery, which marks his first foray into furniture design. France, who former",
       "today": false
     },
     {
