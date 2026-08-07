@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  03:46",
+  "fetchedAt": "2026.08.07  05:35",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ADF Web Magazine": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "レッツエンジョイ東京": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -41,37 +41,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -83,15 +79,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.07",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -163,6 +150,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Kim Kardashian on sculpting an architectural universe for Skims: ‘I want people to feel like this is their safe space’",
+      "url": "https://www.wallpaper.com/fashion-beauty/kim-kardashian-interview-skims-architecture-london-store-rafael-de-cardenas",
+      "excerpt": "As the first standalone Skims store opens in the UK, Osman Ahmed talks to Kim Kardashian and her longtime collaborator Rafael de Cárdenas about creating ‘comfortable, safe and sexy’ spaces for the app",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CpLdVBh9MxBNevJdYGjHnh-1539-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -200,6 +197,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/180",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/180/05 南東側外観(夜景).jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "School of Mathematical Sciences, Peking University / FEI Architects",
+      "url": "https://www.archdaily.com/1182205/school-of-mathematical-sciences-peking-university-fei-architects",
+      "excerpt": "Eight Years of Dedication to Preserving a Chapter of History at Peking University's Yanyuan Campus — In 2015, the architects visited the Educational Technology Building along Wusi Road at Peking Unive",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/4e98/eb02/9f01/882a/216f/large_jpg/school-of-mathematical-sciences-peking-university-fei-architects_5.jpg?1785876235",
       "today": true
     },
     {
@@ -321,16 +328,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "As watches increasingly look to solar power, here are some of the best",
-      "url": "https://www.wallpaper.com/watches-jewellery/best-solar-watches",
-      "excerpt": "Last year LVMH bought La Joux-Perret, a pioneer in solar tech for watches. Are major brands finally waking up to the potential of solar tech?",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Q3WR9BEsZcnuzw7YDEmQbL-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.06",
@@ -357,16 +354,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
       "excerpt": "Coral, the official paint and sponsor of CASACOR São Paulo, alongside Nildo José and NJ+ Arquitetura, in their seventh participation in the event, presents Casa Coral Celeiro Alvorada, a tribute to Br",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/large_jpg/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Helix Residence / SAOTA",
-      "url": "https://www.archdaily.com/1041737/helix-residence-saota",
-      "excerpt": "Set in the Los Angeles Bird Streets above Sunset Boulevard, this private residence draws on the city's modernist tradition of hillside living, where architecture and landscape merge to celebrate light",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0f/0884/35eb/2400/01f0/419e/large_jpg/R17099_N16_lr.jpg?1779370155",
       "today": false
     },
     {
@@ -564,16 +551,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.23",
-      "title": "ショップ・ショールーム 夏季休業のお知らせ（8/9～8/16）",
-      "url": "https://www.yamagiwa.co.jp/news/79613/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
