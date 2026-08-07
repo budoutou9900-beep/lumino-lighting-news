@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  17:44",
+  "fetchedAt": "2026.08.07  18:47",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,51 +9,51 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "ウェザーニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "なびたび北東北": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "KYOTO SIDE": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -65,13 +65,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -96,51 +92,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.08.07",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
       "today": true
     },
@@ -154,13 +110,72 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ウェザーニュース",
+      "cat": "国内情報",
+      "date": "2026.08.07",
+      "title": "ミライトいずも2025",
+      "url": "https://weathernews.jp/illumi/spot/9009845/",
+      "excerpt": "",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.07",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "なびたび北東北",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "冬の盛岡彩るライトアップ もりおかイルミネーションブライト始まる",
+      "url": "https://www.navitabi.jp/article/10479",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.navitabi.jp/data/img/2025/1121/104790100MA11023173.jpg",
+      "today": true
+    },
+    {
+      "source": "KYOTO SIDE",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "【2026】京都の桜ライトアップ｜幻想的な夜桜散策を楽しもう",
+      "url": "https://www.kyotoside.jp/entry/2026-kyoto-sakura-light-up/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "planted terraces outline vertically organized house by anonym studio in bangkok",
+      "url": "https://www.designboom.com/architecture/planted-terraces-vertically-organized-house-anonym-studio-bangkok/",
+      "excerpt": "water and planting strengthen the connection between the interior and landscape.\nThe post planted terraces outline vertically organized house by anonym studio in bangkok appeared first on designboom |",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anonym-studio-pridi41-house-bangkok-thailand-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "On a romantic Scottish island, an old Victorian schoolhouse has been transformed",
+      "url": "https://www.wallpaper.com/architecture/residential/victorian-schoolhouse-turned-cottage-scotland-uk",
+      "excerpt": "Dress for the Weather has created a cute Scottish cottage from the bones of a Victorian schoolhouse, blending its old stone exterior with a fresh contemporary flair",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XwKcATnbczHziRNKQ6yGBi-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "This bijou Madrid apartment is practically perfect",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/madrid-apartment-archive-for-space",
+      "excerpt": "Restored terracotta and polished stainless steel meet in this Malasaña apartment by Archive for Space – ‘grandmotherly’ heritage and industrial edge, perfectly balanced",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T5UMYnafuFRH9BUctpYqxR-2560-80.jpg",
       "today": true
     },
     {
@@ -252,23 +267,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas",
-      "url": "https://www.designboom.com/technology/a-pq-31-37-suspended-open-baffle-loudspeaker-system-concrete-canvas-hagar-guri/",
-      "excerpt": "the speaker's concrete canvas curved shell shapes a concave front and convex back.\nThe post A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas appeared first on designboo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hagar-guri-a-pq-31-37-suspended-open-baffle-loudspeaker-system-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.07",
       "title": "Erieta Attali: Archipelago of Memory | From Delos to the Aegean",
       "url": "https://www.archdaily.com/1182405/erieta-attali-archipelago-of-memory-from-delos-to-the-aegean",
       "excerpt": "In collaboration with the Municipality of Mykonos, Ephorate of Antiquities of the Cyclades of the Hellenic Ministry of Culture and the Aegean Maritime Museum.Internationally renowned photographer of l",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/cc42/3cf9/6c00/0177/fd53/large_jpg/4.jpg?1786104910",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/165f/ac8b/af01/892c/b54b/large_jpg/erieta-attali-archipelago-of-memory-from-delos-to-the-aegean_2.jpg?1786123879",
       "today": true
     },
     {
@@ -339,26 +344,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "'It is about being active drivers of change': Michele de Lucchi on a new chapter at Triennale Milano",
-      "url": "https://www.wallpaper.com/design-interiors/michele-de-lucchi-triennale-creative-director-interview",
-      "excerpt": "Wallpaper* speaks to Michele De Lucchi, newly appointed Creative Director of the Triennale Milano, on his vision for the future of the institution, and the key role of design in a rapidly changing wor",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HaoJB8c7CHz28BinuayJBE-1890-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Kim Kardashian on sculpting an architectural universe for Skims: ‘I want people to feel like this is their safe space’",
-      "url": "https://www.wallpaper.com/fashion-beauty/kim-kardashian-interview-skims-architecture-london-store-rafael-de-cardenas",
-      "excerpt": "As the first standalone Skims store opens in the UK, Osman Ahmed talks to Kim Kardashian and her longtime collaborator Rafael de Cárdenas about creating ‘comfortable, safe and sexy’ spaces for the app",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CpLdVBh9MxBNevJdYGjHnh-1539-80.jpg",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.07",
@@ -426,16 +411,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -525,16 +500,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
