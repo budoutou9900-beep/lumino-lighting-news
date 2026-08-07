@@ -1,73 +1,77 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  11:41",
+  "fetchedAt": "2026.08.07  12:50",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "山陽新聞": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Sortir à Paris": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -79,6 +83,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -245,6 +259,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Micro-Ecosystems: South Korea's Answer to High-Density Mixed-Use Living",
+      "url": "https://www.archdaily.com/1182297/micro-ecosystems-south-koreas-answer-to-high-density-mixed-use-living",
+      "excerpt": "With over 80% of its population living in urban centers and a national density exceeding 500 people per square kilometer — soaring to over 15,000 in Seoul — South Korea faces intense competition for u",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/e611/ff86/6b01/8bf0/def7/large_jpg/micro-ecosystems-the-evolution-of-south-koreas-high-density-mixed-use-architecture_2.jpg?1785980445",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Casa Eva / S-AR",
+      "url": "https://www.archdaily.com/1182293/casa-eva-s-ar",
+      "excerpt": "The project consists of a three-story building with one apartment per level, where the open social areas—conceived as covered terraces—become the central spatial protagonists.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/8fab/eb02/9f01/882a/2666/large_jpg/casa-eva-s-ar_3.jpg?1785958329",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Designing with Light and Shadow: Buildner Reveals the Results of Its 4th Home of Shadows Competition",
+      "url": "https://www.archdaily.com/1181814/designing-with-light-and-shadow-buildner-reveals-the-results-of-its-4th-home-of-shadows-competition",
+      "excerpt": "Buildner has announced the results of its fourth annual Home of Shadows international architecture ideas competition. The competition series is designed to focus on the vital interplay between light a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/fc15/ae3a/0b01/8910/b776/large_jpg/buildner-announces-results-of-its-fourth-annual-home-of-shadows-competition_2.jpg?1785330772",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "CCA Presents New Exhibition Exploring Álvaro Siza's Approach to City-Making",
+      "url": "https://www.archdaily.com/1182366/cca-presents-new-exhibition-exploring-alvaro-sizas-approach-to-city-making",
+      "excerpt": "The Canadian Centre for Architecture (CCA) is presenting \"The fortune of the city is that it has never been perfect,\" an exhibition dedicated to the urban work of Portuguese architect Álvaro Siza. On ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/9802/ab59/ca01/8994/3a5d/large_jpg/cca-presents-new-exhibition-exploring-alvaro-sizas-approach-to-city-making_9.jpg?1786091539",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -275,16 +329,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Beijing Named World Capital of Architecture 2029 by UNESCO-UIA",
-      "url": "https://www.archdaily.com/1182356/beijing-named-world-capital-of-architecture-2029-by-unesco-uia",
-      "excerpt": "UNESCO-UIA World Capital of Architecture is a title created jointly by UNESCO and the International Union of Architects (UIA). On 5 August 2026, Beijing was named World Capital of Architecture for 202",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/887b/ab59/ca01/8994/3a3e/large_jpg/beijing-named-world-capital-of-architecture-2029-by-unesco-uia_9.jpg?1786087670",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -292,36 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/kim-kardashian-interview-skims-architecture-london-store-rafael-de-cardenas",
       "excerpt": "As the first standalone Skims store opens in the UK, Osman Ahmed talks to Kim Kardashian and her longtime collaborator Rafael de Cárdenas about creating ‘comfortable, safe and sexy’ spaces for the app",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CpLdVBh9MxBNevJdYGjHnh-1539-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Birmingham Architecture City Guide: Industrial Splendor and Modern Experimentation",
-      "url": "https://www.archdaily.com/1042947/birmingham-architecture-city-guide-industrial-splendor-and-modern-experimentation",
-      "excerpt": "The architecture of Birmingham reflects the city's history as one of the first industrial centers of England. The wealth generated in the city and the surrounding region led to the grandeur of the Vic",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/f7ed/cbaa/8c01/8a6e/d42b/large_jpg/birmingham-city-guide-industrial-splendor-and-modern-experimentation_1.jpg?1782970357",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "CN House / IDIN Architects",
-      "url": "https://www.archdaily.com/1182241/cn-house-idin-architects",
-      "excerpt": "CN House is a residence designed for a family entering their retirement years, set within a long and narrow site in Khao Yai that stretches from the public road to the foothills beyond. Surrounded by ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/13f6/5b21/b900/0199/2ddf/large_jpg/CNKY_RESIZE-217.jpg?1785926727",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Novolife Headquarters Office / Studio Krubka",
-      "url": "https://www.archdaily.com/1182246/novolife-headquarters-office-studio-krubka",
-      "excerpt": "A gently curving roof organizes offices, landscape, and climate into a workplace where rainwater, daylight, and everyday movement become part of the architectural experience.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/1553/5b21/b900/0199/2e30/large_jpg/02_NOVOLIFE-001.jpg?1785927029",
       "today": true
     },
     {
