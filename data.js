@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  07:06",
+  "fetchedAt": "2026.08.07  08:52",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "レッツエンジョイ東京": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "sortiraparis.com": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -92,17 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
-      "today": true
-    },
-    {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.07",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -119,6 +109,16 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
@@ -150,6 +150,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "RIBA reveals four-strong shortlist for UK's best affordable housing for 2026",
+      "url": "https://www.dezeen.com/2026/08/07/riba-neave-brown-award-shortlist-2026-news/",
+      "excerpt": "The Royal Institute of British Architects has announced its shortlist for the Neave Brown Award for Housing 2026, which includes the expansion of a 1970s housing estate with 46 homes for social rent i",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "In the fictional Department of Euterpe, artists and DJs mark 100 years of the library",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/department-of-euterpe-warburg-institute",
+      "excerpt": "The Department of Euterpe at the Warburg Institute is a fictional archive that celebrates a century of Aby Warburg's first purpose-built library in Hamburg. We meet its creators",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QdVMv3VwF7Eeki7cq7oq4A-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "ole müller gives flowers room to spread with bag-like stainless steel vase",
+      "url": "https://www.designboom.com/design/ole-muller-flowers-room-bag-stainless-steel-vase/",
+      "excerpt": "looking more like a brushed stainless steel bag than a vase, the object exposes the mechanics of flower arranging by leaving every stem on display.\nThe post ole müller gives flowers room to spread wit",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bag-stainless-steel-vase-ole-muller-flowers-space-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -170,6 +199,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Crissy Zhang creates Melbourne home shaped by \"modern Parisian sensibility\"",
+      "url": "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
+      "excerpt": "Local interior studio Crissy Zhang Design has transformed the interior of the Parkhill residence in Melbourne, Australia, using arched forms and tactile materials to create a soft, calming space. As p",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -180,6 +218,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Birmingham Architecture City Guide: Industrial Splendor and Modern Experimentation",
+      "url": "https://www.archdaily.com/1042947/birmingham-architecture-city-guide-industrial-splendor-and-modern-experimentation",
+      "excerpt": "The architecture of Birmingham reflects the city's history as one of the first industrial centers of England. The wealth generated in the city and the surrounding region led to the grandeur of the Vic",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/f7ed/cbaa/8c01/8a6e/d42b/large_jpg/birmingham-city-guide-industrial-splendor-and-modern-experimentation_1.jpg?1782970357",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "CN House / IDIN Architects",
+      "url": "https://www.archdaily.com/1182241/cn-house-idin-architects",
+      "excerpt": "CN House is a residence designed for a family entering their retirement years, set within a long and narrow site in Khao Yai that stretches from the public road to the foothills beyond. Surrounded by ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/13f6/5b21/b900/0199/2ddf/large_jpg/CNKY_RESIZE-217.jpg?1785926727",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -187,6 +245,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/tiny-vinyl-player-turntable-four-inch-records/",
       "excerpt": "miniature belt-drive turntable plays four-inch records through built-in speakers and bluetooth.\nThe post tiny vinyl player spins four-inch records on a miniature turntable appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tiny-vinyl-player-turntable-four-inch-records-designboom-5.jpeg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Novolife Headquarters Office / Studio Krubka",
+      "url": "https://www.archdaily.com/1182246/novolife-headquarters-office-studio-krubka",
+      "excerpt": "A gently curving roof organizes offices, landscape, and climate into a workplace where rainwater, daylight, and everyday movement become part of the architectural experience.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/1553/5b21/b900/0199/2e30/large_jpg/02_NOVOLIFE-001.jpg?1785927029",
       "today": true
     },
     {
@@ -270,16 +338,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Bar Kap gives Tan Yeok Nee’s 1885 mansion a spirited new chapter",
-      "url": "https://www.wallpaper.com/travel/bars/bar-kap-singapore-review",
-      "excerpt": "The new Singapore cocktail bar takes over the ground floor of a restored heritage mansion, with drinks inspired by six chapters of its past",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XyzwsbGHD45CRyMEZPdFv3-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.06",
@@ -308,70 +366,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Paquetá House / Zebulun Arquitetura",
-      "url": "https://www.archdaily.com/1182295/paqueta-house-zebulun-arquitetura",
-      "excerpt": "The site is surrounded by four adjacent lots, with no direct view of the street. The design therefore stems from the intention to expand the house’s program while ensuring environmental quality and co",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/9b84/eb02/9f01/882a/269d/large_jpg/casa-paqueta-zebulun-arquitetura_1.jpg?1785961376",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "bamboo pier brings a new public waterfront to the fishermen of pattani, thailand",
-      "url": "https://www.designboom.com/architecture/bamboo-pier-pattani-fishermen-community-hub-thailand-has/",
-      "excerpt": "shrouded in bamboo, an elevated steel deck lets fishermen and aquatic species share the same waterfront in pattani, thailand.\nThe post bamboo pier brings a new public waterfront to the fishermen of pa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/HAS-pattani-fishermen-community-hub-thailand-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Feliza Bursztyn School / AR-AR (Martínez Arquitectura)",
-      "url": "https://www.archdaily.com/1182339/feliza-bursztyn-school-ar-ar-martinez-arquitectura",
-      "excerpt": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/6cb1/eee6/f800/0125/f755/large_jpg/5._Aeral_view_of_the_staircase_Teodoro_Posada.jpg?1786014940",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.06",
       "title": "Tan France launches debut furniture collection with Castlery",
       "url": "https://www.dezeen.com/2026/08/06/tan-france-debuts-furniture-collection-castlery/",
       "excerpt": "Media personality and former Queer Eye host Tan France has released an 18-piece homeware collection with Singapore brand Castlery, which marks his first foray into furniture design. France, who former",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Coral Barn Alvorada House / Nildo José Arquitetos",
-      "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
-      "excerpt": "Coral, the official paint and sponsor of CASACOR São Paulo, alongside Nildo José and NJ+ Arquitetura, in their seventh participation in the event, presents Casa Coral Celeiro Alvorada, a tribute to Br",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/large_jpg/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Multi-generational LJ House in Ahmedabad prioritises shared living",
-      "url": "https://www.dezeen.com/2026/08/06/lj-house-studio-saransh-iksoi-studio/",
-      "excerpt": "Gently curving rooflines and an asymmetrical heart-shaped stairwell characterise this multi-generational home in Ahmedabad, designed by local practices Studio Saransh and Iksoi Studio. Named LJ House,",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "MVRDV designs colourful stacked volumes for Shenzhen cultural complex",
-      "url": "https://www.dezeen.com/2026/08/06/mvrdv-bihailou-art-village-shenzhen/",
-      "excerpt": "Dutch studio MVRDV has revealed designs for the Bihailou Art Village, a cultural development in Shenzhen, China, set to comprise a stack of colourful volumes. Currently under construction in the Shato",
       "today": false
     },
     {
