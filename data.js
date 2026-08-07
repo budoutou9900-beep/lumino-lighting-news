@@ -1,72 +1,80 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.06  13:51",
+  "fetchedAt": "2026.08.07  00:38",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "山陽新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "オズモール": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "designboom": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ArchDaily": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "Yahoo!ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "IGNANT": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "Dezeen": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "ArchDaily": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "DNライティング": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "岩崎電気": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "IGNANT": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
-      "date": "2026.08.06",
+      "date": "2026.08.07",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -74,19 +82,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.06",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
+      "date": "2026.08.07",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.06",
+      "date": "2026.08.07",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -94,32 +119,182 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Yahoo!ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.06",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "date": "2026.08.07",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.06",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "date": "2026.08.07",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.06",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
+      "title": "triangulated steel lattice redefines new gateway to barcelona’s logistics park",
+      "url": "https://www.designboom.com/architecture/triangulated-steel-lattice-gateway-barcelona-logistics-park-mias-architects/",
+      "excerpt": "mias architects reinterprets the entrance as an architectural threshold, framing the everyday choreography of movement.\nThe post triangulated steel lattice redefines new gateway to barcelona’s logisti",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mias-architects-new-access-gateway-zona-franca-logistics-park-barcelona-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "A palm tree-engulfed home by Marilia Pellegrini is a sanctuary in the heart of São Paulo",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/marilia-pellegrini-brazil",
+      "excerpt": "Meet Marilia Pellegrini, an emerging Brazilian architect whose studio features in the Wallpaper* Architects Directory for 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bASN2W5T3sWZupLwu8aqtQ-1259-80.jpg",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "water glasses turn colorful frameless eyewear into wearable sculpture",
+      "url": "https://www.designboom.com/design/water-glasses-colorful-frameless-eyewear-wearable-sculpture-xyz/",
+      "excerpt": "frameless lenses and colorful paracord turn water-ready eyewear into wearable objects.\nThe post water glasses turn colorful frameless eyewear into wearable sculpture appeared first on designboom | arc",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/water-glasses-colorful-frameless-eyewear-wearable-sculpture-xyz-designboom-2.jpeg",
+      "today": false
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Racing lines and classic graphics in the paddock at the 2026 Goodwood Festival of Speed",
+      "url": "https://www.wallpaper.com/transportation/goodwood-festival-of-speed-2026",
+      "excerpt": "In the days before blanket sponsorship, racing car liveries and colour schemes gave additional shape to some of the most iconic machines of the era. Wallpaper* walked the paddock at this year’s Festiv",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C6T3UMy2sTyxKNCWFhhK79-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Bar Kap gives Tan Yeok Nee’s 1885 mansion a spirited new chapter",
+      "url": "https://www.wallpaper.com/travel/bars/bar-kap-singapore-review",
+      "excerpt": "The new Singapore cocktail bar takes over the ground floor of a restored heritage mansion, with drinks inspired by six chapters of its past",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XyzwsbGHD45CRyMEZPdFv3-1600-80.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Leckie Studio tucks house clad in \"silvered wood\" into forested Vancouver site",
+      "url": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/",
+      "excerpt": "Canadian practice Leckie Studio has completed Twin Peaks House, which features an asymmetrical roof and silvery wood cladding that helps the building \"recede among the trees\". Located in North Vancouv",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Paquetá House / Zebulun Arquitetura",
+      "url": "https://www.archdaily.com/1182295/paqueta-house-zebulun-arquitetura",
+      "excerpt": "The site is surrounded by four adjacent lots, with no direct view of the street. The design therefore stems from the intention to expand the house’s program while ensuring environmental quality and co",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/9b84/eb02/9f01/882a/269d/large_jpg/casa-paqueta-zebulun-arquitetura_1.jpg?1785961376",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "bamboo pier brings a new public waterfront to the fishermen of pattani, thailand",
+      "url": "https://www.designboom.com/architecture/bamboo-pier-pattani-fishermen-community-hub-thailand-has/",
+      "excerpt": "shrouded in bamboo, an elevated steel deck lets fishermen and aquatic species share the same waterfront in pattani, thailand.\nThe post bamboo pier brings a new public waterfront to the fishermen of pa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/HAS-pattani-fishermen-community-hub-thailand-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Feliza Bursztyn School / AR-AR (Martínez Arquitectura)",
+      "url": "https://www.archdaily.com/1182339/feliza-bursztyn-school-ar-ar-martinez-arquitectura",
+      "excerpt": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/6cb1/eee6/f800/0125/f755/large_jpg/5._Aeral_view_of_the_staircase_Teodoro_Posada.jpg?1786014940",
+      "today": false
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Unplugged’s first coastal cabins make going offline even more desirable",
+      "url": "https://www.wallpaper.com/travel/unplugged-wilfred-barclay-somertset-cabins",
+      "excerpt": "The UK’s original digital detox cabin brand heads to the coast, with two Somerset stays designed around phones away and eyes up",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pGRMjF4rVyfQZk5wLeC8cQ-1600-80.jpg",
+      "today": false
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "As watches increasingly look to solar power, here are some of the best",
+      "url": "https://www.wallpaper.com/watches-jewellery/best-solar-watches",
+      "excerpt": "Last year LVMH bought La Joux-Perret, a pioneer in solar tech for watches. Are major brands finally waking up to the potential of solar tech?",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Q3WR9BEsZcnuzw7YDEmQbL-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "three conical timber roofs crown open community cabin in south london",
+      "url": "https://www.designboom.com/architecture/three-conical-timber-roofs-open-community-cabin-south-london-burgess-architects/",
+      "excerpt": "the flexible vaulted interior accommodates workshops, meetings, and community events.\nThe post three conical timber roofs crown open community cabin in south london appeared first on designboom | arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/burgess-architects-feltham-green-cabin-london-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Tan France launches debut furniture collection with Castlery",
+      "url": "https://www.dezeen.com/2026/08/06/tan-france-debuts-furniture-collection-castlery/",
+      "excerpt": "Media personality and former Queer Eye host Tan France has released an 18-piece homeware collection with Singapore brand Castlery, which marks his first foray into furniture design. France, who former",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Coral Barn Alvorada House / Nildo José Arquitetos",
+      "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
+      "excerpt": "Coral, the official paint and sponsor of CASACOR São Paulo, alongside Nildo José and NJ+ Arquitetura, in their seventh participation in the event, presents Casa Coral Celeiro Alvorada, a tribute to Br",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/large_jpg/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "Helix Residence / SAOTA",
+      "url": "https://www.archdaily.com/1041737/helix-residence-saota",
+      "excerpt": "Set in the Los Angeles Bird Streets above Sunset Boulevard, this private residence draws on the city's modernist tradition of hillside living, where architecture and landscape merge to celebrate light",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0f/0884/35eb/2400/01f0/419e/large_jpg/R17099_N16_lr.jpg?1779370155",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.06",
+      "title": "The XVII Spanish Biennial of Architecture and Urbanism (BEAU) opens its first international tour in Tokyo",
+      "url": "https://www.archdaily.com/1182325/the-xvii-spanish-biennial-of-architecture-and-urbanism-beau-opens-its-first-international-tour-in-tokyo",
+      "excerpt": "The exhibition of the 17th Spanish Biennial of Architecture and Urbanism (BEAU) will arrive at the Embassy of Spain in Tokyo, Japan, on September 4, marking its first international venue following its",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/6dd3/eee6/f800/0125/f761/large_jpg/BEAU.jpg?1786015242",
+      "today": false
     },
     {
       "source": "designboom",
@@ -129,7 +304,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/sidelined-sport-winners-losers-gabriel-fontana-amanda-pinatih-nieuwe-instituut/",
       "excerpt": "the experimental sports project returns as a public installation at rotterdam’s nieuwe instituut, asking whether redesigning the rules of sport can open new ways of living together.\nThe post SIDELINED",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sidelined-sport-winners-losers-gabriel-fontana-amanda-pinatih-nieuwe-instituut-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -138,17 +313,7 @@ window.LUMINO_DATA = {
       "title": "Multi-generational LJ House in Ahmedabad prioritises shared living",
       "url": "https://www.dezeen.com/2026/08/06/lj-house-studio-saransh-iksoi-studio/",
       "excerpt": "Gently curving rooflines and an asymmetrical heart-shaped stairwell characterise this multi-generational home in Ahmedabad, designed by local practices Studio Saransh and Iksoi Studio. Named LJ House,",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Forge a new persona with the September Style Issue of Wallpaper* – out now",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-read-more",
-      "excerpt": "Tilda Swinton, Kim Kardashian, Paul Smith and Simone Bellotti of Jil Sander all feature in the A/W 2026 Style Issue of Wallpaper* – an exploration of the act of dressing and how we use clothing to cre",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vxqgJ33s3w9PnueXpCM4eA-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -157,7 +322,7 @@ window.LUMINO_DATA = {
       "title": "MVRDV designs colourful stacked volumes for Shenzhen cultural complex",
       "url": "https://www.dezeen.com/2026/08/06/mvrdv-bihailou-art-village-shenzhen/",
       "excerpt": "Dutch studio MVRDV has revealed designs for the Bihailou Art Village, a cultural development in Shenzhen, China, set to comprise a stack of colourful volumes. Currently under construction in the Shato",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -166,96 +331,7 @@ window.LUMINO_DATA = {
       "title": "Mumbai apartment designed to feel like \"arriving at the edge of a still body of water\"",
       "url": "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
       "excerpt": "The lily pads that float on the Kerala backwaters were the inspiration for this multi-generational apartment renovation in Mumbai by local studio The Act of Quad. Poetically named A Borrowed Memory, t",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Has Architecture Ever Been Entirely Human? Beatriz Colomina and Mark Wigley on the Microbial Nature of Architecture",
-      "url": "https://www.archdaily.com/1181842/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture",
-      "excerpt": "Architecture has long been understood as a discipline created by humans and for humans. But in We the Bacteria: Notes Toward Biotic Architecture, Beatriz Colomina and Mark Wigley challenge that assump",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/2d41/4ea2/e401/8926/602e/large_jpg/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture_17.jpg?1785343331",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "studio KRAFT reclaims limited schoolyard space with vertical play garden in budapest",
-      "url": "https://www.designboom.com/architecture/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest/",
-      "excerpt": "the project introduces climbing structures, outdoor classrooms, and planted play spaces that rethink how limited schoolyards can serve students throughout the day.\nThe post studio KRAFT reclaims limit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Rooms That Appear: Sliding Partitions and Conditional Domestic Space",
-      "url": "https://www.archdaily.com/1182161/rooms-that-appear-sliding-partitions-and-conditional-domestic-space",
-      "excerpt": "Sliding doors are often discussed through efficiency. They save the swing radius of a conventional door, allow compact rooms to function more easily, and help small apartments borrow a few extra centi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/9dc5/eb02/9f01/882a/1e0f/large_jpg/rooms-that-appear-sliding-partitions-and-conditional-domestic-space-in-apac-interiors_2.jpg?1785830860",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Chengdu Pavilion / IwamotoScott Architecture",
-      "url": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture",
-      "excerpt": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design. It serves both as an iconic symbol of the ethos and purpose of the adjac",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/db95/1801/ca00/0176/eb50/large_jpg/Chengdu_Pavilion_1a_DSC1591m_2880p.jpg?1785519021",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "MAD’s Shenzhen Bay Culture Square and Dorte Mandrup’s PLACE Exhibition: This Week’s Review",
-      "url": "https://www.archdaily.com/1182303/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review",
-      "excerpt": "This week, architecture's relationship with culture took center stage through exhibitions, public projects, and new cultural infrastructure that extend architectural discourse beyond the building itse",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/4487/5c0b/ae01/8ae4/b571/large_jpg/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review_3.jpg?1786004627",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "carlo ratti associati previews a kinetic canopy for modena’s former hospital",
-      "url": "https://www.designboom.com/architecture/cra-carlo-ratti-associati-kinetic-canopy-modena-former-hospital-italy/",
-      "excerpt": "a public scale model previews the folding canopy that will transform AGO Modena’s historic courtyard throughout the year.\nThe post carlo ratti associati previews a kinetic canopy for modena’s former h",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/origami-roof-CRA-carlo-ratti-associati-modena-italy-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Masseria Ficazzella / Valari Studio",
-      "url": "https://www.archdaily.com/1181918/masseria-ficazzella-valari-studio",
-      "excerpt": "Nestled in the Fasano countryside among olive trees and distant views of the Adriatic, Masseria Ficazzella is a restoration by Valari Studio that reimagines a historic Puglian farmhouse as a contempor",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/ce58/4460/0501/896d/00c6/large_jpg/masseria-ficazzella-valari-studio_15.jpg?1785843432",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "Harvest Moon table fabricated with materials and tools from within a 40 mile radius",
-      "url": "https://www.dezeen.com/2026/08/06/harvest-moon-table-charles-holland-cat-rossi-local-works/",
-      "excerpt": "Architect Charles Holland, academic Catharine Rossi and design studio Local Works have fabricated a table from materials harvested within a 40-mile radius of Canterbury, UK. Named Harvest Moon, the ta",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "sawtooth roof and textured brick facade reimagine victorian home in the uk",
-      "url": "https://www.designboom.com/architecture/sawtooth-roof-textured-brick-facade-victorian-home-uk-francesco-pierazzi-architects/",
-      "excerpt": "soft pastel tones and terrazzo surfaces add color and texture to the home’s interior.\nThe post sawtooth roof and textured brick facade reimagine victorian home in the uk appeared first on designboom |",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/francesco-pierazz-architects-sawtooth-house-renovation-victorian-home-kingston-upon-thames-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -265,7 +341,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/187",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/187/_5027232.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -275,65 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/188",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/188/_5029938.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Norton Motorcycles team up with Foster + Partners to showcase their new products",
-      "url": "https://www.wallpaper.com/transportation/norton-motorcycles-team-up-with-foster-partners-to-showcase-their-new-products",
-      "excerpt": "The resurgence of the Norton brand continues with a contemporary display for the company’s high-end motorcycles courtesy of Foster + Partners",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/epbhajjepDgtZ73N5fignU-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Berlin's sleeping architectural giant, the ICC conference centre, is about to awake",
-      "url": "https://www.wallpaper.com/architecture/icc-berlin-germany",
-      "excerpt": "Berlin’s ICC once offered a vision for the future. Years after its failure, a revival might turn it into a symbol for an open society",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sfgPWUeFFvWEG6v4LHpTFi-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "when drawings take flight: the art and design of kites",
-      "url": "https://www.designboom.com/design/drawings-take-flight-art-kites-play/",
-      "excerpt": "artists and kite makers turn the open sky into a museum without a ceiling, where images move with the wind.\nThe post when drawings take flight: the art and design of kites appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kites-play-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Eleven architecture preservation battles across the US",
-      "url": "https://www.dezeen.com/2026/08/05/eleven-architecture-preservation-battles-roundup/",
-      "excerpt": "With the recent release of plans to build on top of Eero Saarinen's terminal building at Dulles International Airport, we take a look at old and new controversies surrounding significant works of arch",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Is Hope Lodge the future of Scottish luxury travel?",
-      "url": "https://www.wallpaper.com/travel/hotels/hope-lodge-wildland-scotland-review",
-      "excerpt": "At the mouth of Loch Hope, a restored Victorian shooting lodge delivers safari-style immersion and a 200-year view of conservation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nCStUeWrEPKyT6EABFaxWN-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.05",
-      "title": "Vollebak’s 'For When All Hell Breaks Loose' jacket gives catastrophe the brush-off",
-      "url": "https://www.wallpaper.com/tech/vollebak-fwahbl-jacket",
-      "excerpt": "Dodge disasters and AI-generated antagonists with the FWAHBL jacket from Vollebak, transforming high-tech, chemical-resistant rubber into stylish and eye-catching outerwear",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5F98LMZveiRHKwMPS4bSBR-2560-80.jpg",
       "today": false
     },
     {
