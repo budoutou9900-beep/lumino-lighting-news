@@ -1,69 +1,81 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  15:51",
+  "fetchedAt": "2026.08.07  16:47",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "IGNANT": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -75,6 +87,25 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.07",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -146,6 +177,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "wrapped in a photovoltaic skin, this student-designed EV creates more energy than it uses",
+      "url": "https://www.designboom.com/art/photovoltaic-skin-ev-creates-more-energy-deep-orange-17-car-luminetta-clemson-bmw/",
+      "excerpt": "a skin of 1,781 photovoltaic cells turns deep orange 17's exterior into an active energy-harvesting surface.\nThe post wrapped in a photovoltaic skin, this student-designed EV creates more energy than ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clemson-university-deep-orange-17-car-solar-energy-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -163,6 +204,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/vw-troc-review",
       "excerpt": "We try the Volkswagen T-Roc R-Line, a compact SUV / crossover that tries hard to be all things to all people and mostly succeeds",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JjRFKq89UD3qcgQoFiFqig-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "fashion in motion: clideo video editor transforms fashion films into visual stories",
+      "url": "https://www.designboom.com/readers/clideo-video-editor-fashion-films-visual-stories/",
+      "excerpt": "fashion films extend collections beyond the physical runway.\nThe post fashion in motion: clideo video editor transforms fashion films into visual stories appeared first on designboom | architecture & ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clideo-video-editor-contemporary-fashion-films-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Cj hendry fills a new york gallery with beads and lets visitors invent the game",
+      "url": "https://www.designboom.com/art/cj-hendry-new-york-gallery-beads-pastel-installation/",
+      "excerpt": "a search-and-find installation invites visitors to build their own keepsakes, revealing how simple acts of collecting can spark unexpected social encounters.\nThe post Cj hendry fills a new york galler",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cj-hendry-pastel-beads-installation-nyc-play-designboom-FB.jpg",
       "today": true
     },
     {
@@ -191,6 +252,26 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182106/rue-pavee-renovation-project-for-a-complex-of-historic-buildings-in-paris-mars-architectes",
       "excerpt": "In the heart of Paris's famous Marais district, the \"Rue Pavée\" project crosses an urban fabric shaped not by a single historical vision but by centuries of continuous transformation.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/9669/1801/ca00/0176/ef0c/large_jpg/21---MARS-Architectes--Rue-Pav_e-_-Maris-Mezulis.jpg?1785763653",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "pac-man ghosts meet otamatone for pocket-sized musical crossover",
+      "url": "https://www.designboom.com/technology/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover/",
+      "excerpt": "two japanese characters built around opening mouths finally discover they have quite a lot in common.\nThe post pac-man ghosts meet otamatone for pocket-sized musical crossover appeared first on design",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover-designboom-4.jpeg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas",
+      "url": "https://www.designboom.com/technology/a-pq-31-37-suspended-open-baffle-loudspeaker-system-concrete-canvas-hagar-guri/",
+      "excerpt": "the speaker's concrete canvas curved shell shapes a concave front and convex back.\nThe post A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas appeared first on designboo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hagar-guri-a-pq-31-37-suspended-open-baffle-loudspeaker-system-designboom-1200.jpg",
       "today": true
     },
     {
