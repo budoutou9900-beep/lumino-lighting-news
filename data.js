@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  14:09",
+  "fetchedAt": "2026.08.07  15:51",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,45 +29,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "IGNANT": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -102,16 +98,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
       "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.07",
@@ -119,6 +105,16 @@ window.LUMINO_DATA = {
       "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
       "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.07",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -153,30 +149,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.07",
+      "title": "Réservation is the perfume brand inspired by an imaginary California hotel",
+      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/reservation-parfums-california-scents-francesco-ragazzi",
+      "excerpt": "Founded by Palm Angels’ Francesco Ragazzi, Réservation aims to bottle the sunlit glamour of California with a series of transporting scents",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tcDJgipYgh289yrYcPzbCR-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.07",
       "title": "The VW T-Roc sticks firmly to the middle of the road, a best-seller that’s short on surprises",
       "url": "https://www.wallpaper.com/transportation/vw-troc-review",
       "excerpt": "We try the Volkswagen T-Roc R-Line, a compact SUV / crossover that tries hard to be all things to all people and mostly succeeds",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JjRFKq89UD3qcgQoFiFqig-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "fashion in motion: clideo video editor transforms fashion films into visual stories",
-      "url": "https://www.designboom.com/readers/clideo-video-editor-fashion-films-visual-stories/",
-      "excerpt": "fashion films extend collections beyond the physical runway.\nThe post fashion in motion: clideo video editor transforms fashion films into visual stories appeared first on designboom | architecture & ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clideo-video-editor-contemporary-fashion-films-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Cj hendry fills a new york gallery with beads and lets visitors invent the game",
-      "url": "https://www.designboom.com/art/cj-hendry-new-york-gallery-beads-pastel-installation/",
-      "excerpt": "a search-and-find installation invites visitors to build their own keepsakes, revealing how simple acts of collecting can spark unexpected social encounters.\nThe post Cj hendry fills a new york galler",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cj-hendry-pastel-beads-installation-nyc-play-designboom-FB.jpg",
       "today": true
     },
     {
@@ -198,23 +184,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.07",
-      "title": "pac-man ghosts meet otamatone for pocket-sized musical crossover",
-      "url": "https://www.designboom.com/technology/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover/",
-      "excerpt": "two japanese characters built around opening mouths finally discover they have quite a lot in common.\nThe post pac-man ghosts meet otamatone for pocket-sized musical crossover appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover-designboom-4.jpeg",
+      "title": "Rue Pavée, renovation project for a complex of historic buildings in Paris / MARS Architectes",
+      "url": "https://www.archdaily.com/1182106/rue-pavee-renovation-project-for-a-complex-of-historic-buildings-in-paris-mars-architectes",
+      "excerpt": "In the heart of Paris's famous Marais district, the \"Rue Pavée\" project crosses an urban fabric shaped not by a single historical vision but by centuries of continuous transformation.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/9669/1801/ca00/0176/ef0c/large_jpg/21---MARS-Architectes--Rue-Pav_e-_-Maris-Mezulis.jpg?1785763653",
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.07",
-      "title": "A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas",
-      "url": "https://www.designboom.com/technology/a-pq-31-37-suspended-open-baffle-loudspeaker-system-concrete-canvas-hagar-guri/",
-      "excerpt": "the speaker's concrete canvas curved shell shapes a concave front and convex back.\nThe post A-PQ 31.37: a suspended open-baffle loudspeaker system made from concrete canvas appeared first on designboo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hagar-guri-a-pq-31-37-suspended-open-baffle-loudspeaker-system-designboom-1200.jpg",
+      "title": "Erieta Attali: Archipelago of Memory | From Delos to the Aegean",
+      "url": "https://www.archdaily.com/1182405/erieta-attali-archipelago-of-memory-from-delos-to-the-aegean",
+      "excerpt": "In collaboration with the Municipality of Mykonos, Ephorate of Antiquities of the Cyclades of the Hellenic Ministry of Culture and the Aegean Maritime Museum.Internationally renowned photographer of l",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/cc42/3cf9/6c00/0177/fd53/large_jpg/4.jpg?1786104910",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "Palimpsest of African Cities: Dig Where You Stand",
+      "url": "https://www.archdaily.com/1182401/palimpsest-of-african-cities-dig-where-you-stand",
+      "excerpt": "Presented as part of the OFF Programme of the 2026 Dakar Biennale and Partcours, Palimpsest of African Cities is the latest edition of the DIG WHERE YOU STAND programme initiated by the African Artist",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/c885/3cf9/6c00/0177/fd30/large_jpg/DWYS_V3-01.jpg?1786103949",
       "today": true
     },
     {
@@ -265,16 +261,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "ole müller gives flowers room to spread with bag-like stainless steel vase",
-      "url": "https://www.designboom.com/design/ole-muller-flowers-room-bag-stainless-steel-vase/",
-      "excerpt": "looking more like a brushed stainless steel bag than a vase, the object exposes the mechanics of flower arranging by leaving every stem on display.\nThe post ole müller gives flowers room to spread wit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bag-stainless-steel-vase-ole-muller-flowers-space-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -282,36 +268,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182297/micro-ecosystems-south-koreas-answer-to-high-density-mixed-use-living",
       "excerpt": "With over 80% of its population living in urban centers and a national density exceeding 500 people per square kilometer — soaring to over 15,000 in Seoul — South Korea faces intense competition for u",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/e611/ff86/6b01/8bf0/def7/large_jpg/micro-ecosystems-the-evolution-of-south-koreas-high-density-mixed-use-architecture_2.jpg?1785980445",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Casa Eva / S-AR",
-      "url": "https://www.archdaily.com/1182293/casa-eva-s-ar",
-      "excerpt": "The project consists of a three-story building with one apartment per level, where the open social areas—conceived as covered terraces—become the central spatial protagonists.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/8fab/eb02/9f01/882a/2666/large_jpg/casa-eva-s-ar_3.jpg?1785958329",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Designing with Light and Shadow: Buildner Reveals the Results of Its 4th Home of Shadows Competition",
-      "url": "https://www.archdaily.com/1181814/designing-with-light-and-shadow-buildner-reveals-the-results-of-its-4th-home-of-shadows-competition",
-      "excerpt": "Buildner has announced the results of its fourth annual Home of Shadows international architecture ideas competition. The competition series is designed to focus on the vital interplay between light a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/fc15/ae3a/0b01/8910/b776/large_jpg/buildner-announces-results-of-its-fourth-annual-home-of-shadows-competition_2.jpg?1785330772",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "CCA Presents New Exhibition Exploring Álvaro Siza's Approach to City-Making",
-      "url": "https://www.archdaily.com/1182366/cca-presents-new-exhibition-exploring-alvaro-sizas-approach-to-city-making",
-      "excerpt": "The Canadian Centre for Architecture (CCA) is presenting \"The fortune of the city is that it has never been perfect,\" an exhibition dedicated to the urban work of Portuguese architect Álvaro Siza. On ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/9802/ab59/ca01/8994/3a5d/large_jpg/cca-presents-new-exhibition-exploring-alvaro-sizas-approach-to-city-making_9.jpg?1786091539",
       "today": true
     },
     {
@@ -363,16 +319,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/180/05 南東側外観(夜景).jpg",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "A palm tree-engulfed home by Marilia Pellegrini is a sanctuary in the heart of São Paulo",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/marilia-pellegrini-brazil",
-      "excerpt": "Meet Marilia Pellegrini, an emerging Brazilian architect whose studio features in the Wallpaper* Architects Directory for 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bASN2W5T3sWZupLwu8aqtQ-1259-80.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
