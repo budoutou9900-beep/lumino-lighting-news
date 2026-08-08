@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  10:25",
+  "fetchedAt": "2026.08.08  11:23",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,65 +17,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -90,31 +86,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.08",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.08",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
       "today": true
     },
     {
@@ -134,6 +112,7 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -178,6 +157,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.08",
+      "title": "In Chile, Dharq Arquitecto’s pavilion-style home comprises twenty-two sliding doors",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/dharq-arquitectos-chile",
+      "excerpt": "Dharq Arquitectos joins the Wallpaper* Architects’ Directory 2026 with a forest cabin that touches lightly on its natural setting",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gdJEj23VhZJduUwaY3tTqh-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.08",
       "title": "Fall in love with the strange beauty of artist Gwen John",
       "url": "https://www.wallpaper.com/art/exhibitions-shows/gwen-john-scottish-national-gallery-of-modern-art",
       "excerpt": "150 years after her birth, Welsh artist Gwen John has her first major retrospective at the Scottish National Gallery of Modern Art",
@@ -214,6 +203,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "House with Reflective Furniture / Set Architects",
+      "url": "https://www.archdaily.com/1181657/house-with-reflective-furniture-set-architects",
+      "excerpt": "Set Architects has completed the renovation of an early 20th-century apartment in Rome's Nomentano district, reinterpreting its traditional layout through a contemporary lens.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/00e8/f4d2/6d01/88b1/7507/large_jpg/house-with-reflective-furniture-set-architects_16.jpg?1785331971",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -240,16 +239,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/riviera-hotel-menorca-review",
       "excerpt": "Ilmiodesign brings 1970s Italian Riviera spirit to Ciutadella with a 14-room hotel of curves, colour, and poolside fun",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QpnDXZm6vaEQAdWdeW3GSU-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Urn Studios reimagines memorial objects into expressive celebrations of life",
-      "url": "https://www.wallpaper.com/design-interiors/urn-studios-us-collection",
-      "excerpt": "UK-based Urn Studios releases its first US collection, which saw seven artists reinterpret the urn as an object of identity, intimacy and enduring design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SbbvtAVZXokWPoEm57kApA-1920-80.png",
       "today": true
     },
     {
@@ -339,16 +328,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
       "excerpt": "Located in the Czech village of Krámy, near the Brdy Highlands, a weekend house designed by Anna Koukolová architekti has been built on a sloping site bordered by a grove and a stream. Clad in charred",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/large_jpg/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Coral Barn Alvorada House / Nildo José Arquitetos",
-      "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
-      "excerpt": "Coral, the official paint and sponsor of CASACOR São Paulo, alongside Nildo José and NJ+ Arquitetura, in their seventh participation in the event, presents Casa Coral Celeiro Alvorada, a tribute to Br",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/large_jpg/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
       "today": false
     },
     {
