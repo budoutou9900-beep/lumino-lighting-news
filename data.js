@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  07:43",
+  "fetchedAt": "2026.08.08  08:33",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -151,6 +151,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "‘play is itself a function’: luca boscardin on designing toys, cities, and spaces for imagination",
+      "url": "https://www.designboom.com/design/play-function-luca-boscardin-toys-cities-spaces-imagination-interview/",
+      "excerpt": "the designer reflects on playful design, open-ended objects, and why curiosity should shape cities, schools, and everyday life.\nThe post ‘play is itself a function’: luca boscardin on designing toys, ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/play-function-luca-boscardin-toys-cities-spaces-imagination-interview-designboom-1200.jpg",
       "today": true
     },
     {
@@ -299,16 +309,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
       "excerpt": "Located in the Czech village of Krámy, near the Brdy Highlands, a weekend house designed by Anna Koukolová architekti has been built on a sloping site bordered by a grove and a stream. Clad in charred",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/large_jpg/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "fashion in motion: clideo video editor transforms fashion films into visual stories",
-      "url": "https://www.designboom.com/readers/clideo-video-editor-fashion-films-visual-stories/",
-      "excerpt": "fashion films extend collections beyond the physical runway.\nThe post fashion in motion: clideo video editor transforms fashion films into visual stories appeared first on designboom | architecture & ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clideo-video-editor-contemporary-fashion-films-designboom-1200.jpg",
       "today": false
     },
     {
