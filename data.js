@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  14:26",
+  "fetchedAt": "2026.08.08  15:23",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "レッツエンジョイ東京": {
+    "enjoytokyo.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -136,7 +136,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -145,7 +145,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "enjoytokyo.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -155,12 +155,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "red craft collection reworks four japanese traditional techniques into sculptural domestic objects",
+      "url": "https://www.designboom.com/design/red-craft-collection-four-japanese-traditional-techniques-sculptural-domestic-objects-kenta-yoshizawa/",
+      "excerpt": "kenta yoshizawa reimagines traditional japanese crafts like bamboo fencing, kumihimo braiding, washi paper art, and urushi lacquering.\nThe post red craft collection reworks four japanese traditional t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/red-craft-collection-kenta-yoshizawa-four-japanese-craft-traditions-domestic-objects-designboom-1200.jpg",
       "today": true
     },
     {
@@ -328,16 +338,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182435/collective-housing-in-vila-do-conde-raulino-silva-arquitecto",
       "excerpt": "The project in Vila do Conde, north of Portugal, has as its brief the construction of a single-family house and a collective housing building, to be put up for rent, with two apartment and a store for",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/06c7/3cf9/6c00/0177/ff82/large_jpg/V.Conde_-_Raulino_Arch_-_photo_Santos-D_ez_01.jpg?1786119933",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "wrapped in a photovoltaic skin, this student-designed EV creates more energy than it uses",
-      "url": "https://www.designboom.com/art/photovoltaic-skin-ev-creates-more-energy-deep-orange-17-car-luminetta-clemson-bmw/",
-      "excerpt": "a skin of 1,781 photovoltaic cells turns deep orange 17's exterior into an active energy-harvesting surface.\nThe post wrapped in a photovoltaic skin, this student-designed EV creates more energy than ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clemson-university-deep-orange-17-car-solar-energy-designboom-FB.jpg",
       "today": false
     },
     {
