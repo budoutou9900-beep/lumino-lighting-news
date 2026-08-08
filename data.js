@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  20:22",
+  "fetchedAt": "2026.08.08  21:24",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "sanyonews.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,45 +33,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -86,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -96,16 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.08",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -115,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -160,6 +147,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "before calder’s mobiles, this mini circus brought his wire figures to life in paris",
+      "url": "https://www.designboom.com/art/before-mobiles-calder-circus-brought-wire-figures-to-life/",
+      "excerpt": "lions, tigers, acrobats and balloons, costumed and created to fit in a suitcase, make up one of alexander calder's foundational works in play and wire. \nThe post before calder’s mobiles, this mini cir",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/calder-circus-flv-designboom-07.jpg",
       "today": true
     },
     {
@@ -327,16 +324,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/urban-living-library-fragmented-city-spaces-biodiverse-ecological-corridors-fengyi-wu/",
       "excerpt": "the proposal uses the hedgehog as a flagship species to reconnect fragmented urban landscapes and create spaces where biodiversity, learning and everyday public life can coexist.\nThe post urban living",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/urban-living-library-reclaiming-hedgehog-habitat-fengyi-wu-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "planted terraces outline vertically organized house by anonym studio in bangkok",
-      "url": "https://www.designboom.com/architecture/planted-terraces-vertically-organized-house-anonym-studio-bangkok/",
-      "excerpt": "water and planting strengthen the connection between the interior and landscape.\nThe post planted terraces outline vertically organized house by anonym studio in bangkok appeared first on designboom |",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anonym-studio-pridi41-house-bangkok-thailand-designboom-1200-1.jpg",
       "today": false
     },
     {
