@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  06:41",
+  "fetchedAt": "2026.08.08  07:43",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "sanyonews.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -96,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.08",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.08",
@@ -116,7 +106,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -126,7 +116,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -145,7 +135,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -184,6 +174,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "This week on Dezeen we reported on the demolition of Rike Concert Hall",
+      "url": "https://www.dezeen.com/2026/08/08/this-week-dezeen-rike-concert-hall/",
+      "excerpt": "This week on Dezeen, we reported on the demolition of a never-opened concert hall by Studio Fuksas, which is now underway in Tbilisi, Georgia. Footage shared by local news organisation TV Pirveli capt",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -211,6 +210,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
       "excerpt": "shaped by the existing trees, terrain, and changing seasons, the home is designed to feel less like an object in the landscape and more like a natural part of it.\nThe post dark timber A&A house reinte",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/dark-timber-a-ahouse-barn-poland-pine-forest-rasztawicki-bielinski-architects-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "THE SEED Pavilion / REAL Architects + Challenge Design",
+      "url": "https://www.archdaily.com/1182160/the-seed-pavilion-real-architects-plus-challenge-design",
+      "excerpt": "Located at West Bund Central Phase II in Shanghai, \"THE SEED,\" designed by REAL Architects for Hongkong Land, sits at the geometric center of a terraced landscape. Echoing the West Bund Orbit to its s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/8df7/5b21/b900/0199/28f6/large_jpg/Day_View_5_XIRU_IMAGERY.jpg?1785826826",
       "today": true
     },
     {
@@ -313,16 +322,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Four Roof House / TW Ryan Architecture",
-      "url": "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture",
-      "excerpt": "Located on a bluff above Seeley Lake in central Montana, Four Roof House is conceived as a single-story, age-in-place residence designed for durability, low maintenance and long-term habitation in a r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/7fa0/1801/ca00/0176/ee97/large_jpg/TWRYAN_MONTANA_50S0676.jpg?1785757672",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -347,15 +346,6 @@ window.LUMINO_DATA = {
       "title": "Gothic romance and 1980s slasher films informed sets of Teenage Sex and Death at Camp Miasma",
       "url": "https://www.dezeen.com/2026/08/07/slasher-films-set-teenage-sex-and-death-at-camp-miasma/",
       "excerpt": "Production designers Brandon Tonner-Connolly and Matt Hyland constructed sets including a \"flesh palace\" and a taxidermy-filled gas station to create a dreamlike world for this horror film starring Gi",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "\"A hodgepodge of ideas\" says commenter",
-      "url": "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/",
-      "excerpt": "In this week's comments update, readers are discussing The Linhay, a family house in the Somerset countryside designed by studio Charles Gillespie Architecture. Wrapped by a concrete colonnade, the ho",
       "today": false
     },
     {
