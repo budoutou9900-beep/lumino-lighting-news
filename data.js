@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  15:23",
+  "fetchedAt": "2026.08.08  16:26",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "enjoytokyo.jp": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -96,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.08",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.08",
@@ -145,7 +135,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "enjoytokyo.jp",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -164,6 +154,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.08",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -171,6 +171,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/red-craft-collection-four-japanese-traditional-techniques-sculptural-domestic-objects-kenta-yoshizawa/",
       "excerpt": "kenta yoshizawa reimagines traditional japanese crafts like bamboo fencing, kumihimo braiding, washi paper art, and urushi lacquering.\nThe post red craft collection reworks four japanese traditional t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/red-craft-collection-kenta-yoshizawa-four-japanese-craft-traditions-domestic-objects-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "UBC Biodiversity Centre Addition / Public Architecture + Design",
+      "url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
+      "excerpt": "The University of British Columbia has completed a major expansion of the Beaty Biodiversity Centre on its Point Grey campus, adding research space, offices and collections along the university's cent",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/d1ff/5b21/b900/0199/27c5/large_jpg/_1_UBC-Beaty-Biodiversity-Centre-Addition_AndrewLatreille.jpg?1785778781",
       "today": true
     },
     {
@@ -328,16 +338,6 @@ window.LUMINO_DATA = {
       "title": "Olson Kundig crowns Sky View house with retractable roof",
       "url": "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
       "excerpt": "US studio Olson Kundig Architects has completed a house in the mountains of Idaho with large spans of concrete, steel and glass, topped with a retractable roof. Known as Sky View, the 7,190-square-foo",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Collective Housing in Vila do Conde / Raulino Silva Arquitecto",
-      "url": "https://www.archdaily.com/1182435/collective-housing-in-vila-do-conde-raulino-silva-arquitecto",
-      "excerpt": "The project in Vila do Conde, north of Portugal, has as its brief the construction of a single-family house and a collective housing building, to be put up for rent, with two apartment and a store for",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/06c7/3cf9/6c00/0177/ff82/large_jpg/V.Conde_-_Raulino_Arch_-_photo_Santos-D_ez_01.jpg?1786119933",
       "today": false
     },
     {
