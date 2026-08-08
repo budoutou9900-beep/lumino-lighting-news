@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  12:35",
+  "fetchedAt": "2026.08.08  13:41",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -203,6 +203,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "Craft After Conflict: Why Rebuilding Cities Begins with Rebuilding Knowledge",
+      "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
+      "excerpt": "A war can erase a skyline overnight. Roofs collapse, streets become impassable, and landmarks that once oriented everyday life are reduced to rubble. The most profound loss often remains invisible. Bu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/32c0/4ea2/e401/8926/6e55/large_jpg/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge_1.jpg?1785737927",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -328,16 +338,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/photovoltaic-skin-ev-creates-more-energy-deep-orange-17-car-luminetta-clemson-bmw/",
       "excerpt": "a skin of 1,781 photovoltaic cells turns deep orange 17's exterior into an active energy-harvesting surface.\nThe post wrapped in a photovoltaic skin, this student-designed EV creates more energy than ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clemson-university-deep-orange-17-car-solar-energy-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Weekend House in Krámy / Anna Koukolová architekti",
-      "url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
-      "excerpt": "Located in the Czech village of Krámy, near the Brdy Highlands, a weekend house designed by Anna Koukolová architekti has been built on a sloping site bordered by a grove and a stream. Clad in charred",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/large_jpg/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
       "today": false
     },
     {
