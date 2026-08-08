@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  01:09",
+  "fetchedAt": "2026.08.08  03:20",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,33 +45,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,6 +97,15 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.08",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -126,7 +139,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -145,7 +158,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -166,6 +179,16 @@ window.LUMINO_DATA = {
     {
       "source": "designboom",
       "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "dark timber A&A house reinterprets traditional barn form within polish pine forest",
+      "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
+      "excerpt": "shaped by the existing trees, terrain, and changing seasons, the home is designed to feel less like an object in the landscape and more like a natural part of it.\nThe post dark timber A&A house reinte",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/dark-timber-a-ahouse-barn-poland-pine-forest-rasztawicki-bielinski-architects-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.07",
       "title": "urban living library transforms fragmented city spaces into biodiverse ecological corridors",
       "url": "https://www.designboom.com/readers/urban-living-library-fragmented-city-spaces-biodiverse-ecological-corridors-fengyi-wu/",
@@ -181,6 +204,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/white-house-ballroom-court-ruling",
       "excerpt": "According to a decision handed down Friday, Congress must approve alterations to the White House: ‘Each President is a temporary tenant, not the owner’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JMyZiYhgAD5dTa88PiSrWK-1024-80.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "La Vigilia Winery / González Olsina & Vega Arquitectos",
+      "url": "https://www.archdaily.com/1182367/la-vigilia-winery-gonzalez-olsina-and-vega-arquitectos",
+      "excerpt": "A finely calibrated relationship between volumes defines the premise of the project. Material, light, and shadow construct the transition between the vastness of the landscape and the silent interiori",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/c32c/5b21/b900/0199/29ec/large_jpg/GO_V_Vigilia__seleccion_BAJA___Luis_Abba__4_.jpg?1785840503",
       "today": false
     },
     {
@@ -303,16 +336,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Cj hendry fills a new york gallery with beads and lets visitors invent the game",
-      "url": "https://www.designboom.com/art/cj-hendry-new-york-gallery-beads-pastel-installation/",
-      "excerpt": "a search-and-find installation invites visitors to build their own keepsakes, revealing how simple acts of collecting can spark unexpected social encounters.\nThe post Cj hendry fills a new york galler",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cj-hendry-pastel-beads-installation-nyc-play-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -328,16 +351,6 @@ window.LUMINO_DATA = {
       "title": "Foster + Partners found not guilty over window fall death",
       "url": "https://www.dezeen.com/2026/08/07/foster-partners-corniche-window-death-not-guilty/",
       "excerpt": "British architecture studio Foster + Partners has been cleared over the death of a man killed by a window that fell from one of its buildings in London, following a five-week criminal trial. The case ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Rue Pavée, renovation project for a complex of historic buildings in Paris / MARS Architectes",
-      "url": "https://www.archdaily.com/1182106/rue-pavee-renovation-project-for-a-complex-of-historic-buildings-in-paris-mars-architectes",
-      "excerpt": "In the heart of Paris's famous Marais district, the \"Rue Pavée\" project crosses an urban fabric shaped not by a single historical vision but by centuries of continuous transformation.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/9669/1801/ca00/0176/ef0c/large_jpg/21---MARS-Architectes--Rue-Pav_e-_-Maris-Mezulis.jpg?1785763653",
       "today": false
     },
     {
