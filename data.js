@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  04:51",
+  "fetchedAt": "2026.08.08  05:38",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -167,6 +167,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.08",
+      "title": "Hotel Riviera gives Menorca a fresh squeeze of colour",
+      "url": "https://www.wallpaper.com/travel/hotels/riviera-hotel-menorca-review",
+      "excerpt": "Ilmiodesign brings 1970s Italian Riviera spirit to Ciutadella with a 14-room hotel of curves, colour, and poolside fun",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QpnDXZm6vaEQAdWdeW3GSU-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.08",
       "title": "Urn Studios reimagines memorial objects into expressive celebrations of life",
       "url": "https://www.wallpaper.com/design-interiors/urn-studios-us-collection",
       "excerpt": "UK-based Urn Studios releases its first US collection, which saw seven artists reinterpret the urn as an object of identity, intimacy and enduring design",
@@ -241,16 +251,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/victorian-schoolhouse-turned-cottage-scotland-uk",
       "excerpt": "Dress for the Weather has created a cute Scottish cottage from the bones of a Victorian schoolhouse, blending its old stone exterior with a fresh contemporary flair",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XwKcATnbczHziRNKQ6yGBi-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "This bijou Madrid apartment is practically perfect",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/madrid-apartment-archive-for-space",
-      "excerpt": "Restored terracotta and polished stainless steel meet in this Malasaña apartment by Archive for Space – ‘grandmotherly’ heritage and industrial edge, perfectly balanced",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T5UMYnafuFRH9BUctpYqxR-2560-80.jpg",
       "today": false
     },
     {
