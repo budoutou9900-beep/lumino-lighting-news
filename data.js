@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  05:38",
+  "fetchedAt": "2026.08.08  06:41",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -126,7 +126,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -145,7 +145,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -161,6 +161,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "A camera that does it all? Sony’s new RX10 V offers power, speed and a mighty lens",
+      "url": "https://www.wallpaper.com/tech/sony-new-rx10-v-camera",
+      "excerpt": "The latest iteration of Sony’s big-lensed RX10 combines a massive zoom with functionality across the board",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jprkNTCEKLvhf3t7W2JkKH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "Biophilia meets Bali at Jia Curated 2026's architectural spotlight show",
+      "url": "https://www.wallpaper.com/architecture/jia-curated-2026-architecture-at-scale-bali-indonesia",
+      "excerpt": "Jia Curated 2026 highlight, 'Architecture at Scale', explores biophilic architecture and its expressions on the island of Bali, Indonesia",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KLnFWndziMmUHyZHrhWdtg-2560-80.jpg",
       "today": true
     },
     {
@@ -224,16 +244,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "A home in rugged Nova Scotia by Place of Work is an extraordinary take on the ordinary",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/place-of-work-canada",
-      "excerpt": "Place of Work, an emerging architecture practice from Canada, features in the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yAs3rDDFUhZ33SqruzNGuV-2048-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.07",
@@ -241,16 +251,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/planted-terraces-vertically-organized-house-anonym-studio-bangkok/",
       "excerpt": "water and planting strengthen the connection between the interior and landscape.\nThe post planted terraces outline vertically organized house by anonym studio in bangkok appeared first on designboom |",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anonym-studio-pridi41-house-bangkok-thailand-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "On a romantic Scottish island, an old Victorian schoolhouse has been transformed",
-      "url": "https://www.wallpaper.com/architecture/residential/victorian-schoolhouse-turned-cottage-scotland-uk",
-      "excerpt": "Dress for the Weather has created a cute Scottish cottage from the bones of a Victorian schoolhouse, blending its old stone exterior with a fresh contemporary flair",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XwKcATnbczHziRNKQ6yGBi-1920-80.png",
       "today": false
     },
     {
