@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.07  23:28",
+  "fetchedAt": "2026.08.08  01:09",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "enjoytokyo.jp": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,52 +37,48 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "IGNANT": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -92,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "倉敷経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
@@ -100,28 +96,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.07",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
@@ -131,7 +108,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -141,7 +118,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -149,9 +126,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "enjoytokyo.jp",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.08.08",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
       "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
@@ -159,22 +145,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.08.07",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.07",
+      "date": "2026.08.08",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.08",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.07",
+      "title": "urban living library transforms fragmented city spaces into biodiverse ecological corridors",
+      "url": "https://www.designboom.com/readers/urban-living-library-fragmented-city-spaces-biodiverse-ecological-corridors-fengyi-wu/",
+      "excerpt": "the proposal uses the hedgehog as a flagship species to reconnect fragmented urban landscapes and create spaces where biodiversity, learning and everyday public life can coexist.\nThe post urban living",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/urban-living-library-reclaiming-hedgehog-habitat-fengyi-wu-designboom-1200.jpg",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -184,7 +181,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/white-house-ballroom-court-ruling",
       "excerpt": "According to a decision handed down Friday, Congress must approve alterations to the White House: ‘Each President is a temporary tenant, not the owner’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JMyZiYhgAD5dTa88PiSrWK-1024-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -194,7 +191,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/place-of-work-canada",
       "excerpt": "Place of Work, an emerging architecture practice from Canada, features in the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yAs3rDDFUhZ33SqruzNGuV-2048-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -204,7 +201,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/planted-terraces-vertically-organized-house-anonym-studio-bangkok/",
       "excerpt": "water and planting strengthen the connection between the interior and landscape.\nThe post planted terraces outline vertically organized house by anonym studio in bangkok appeared first on designboom |",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anonym-studio-pridi41-house-bangkok-thailand-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -214,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/victorian-schoolhouse-turned-cottage-scotland-uk",
       "excerpt": "Dress for the Weather has created a cute Scottish cottage from the bones of a Victorian schoolhouse, blending its old stone exterior with a fresh contemporary flair",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XwKcATnbczHziRNKQ6yGBi-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -224,7 +221,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/madrid-apartment-archive-for-space",
       "excerpt": "Restored terracotta and polished stainless steel meet in this Malasaña apartment by Archive for Space – ‘grandmotherly’ heritage and industrial edge, perfectly balanced",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T5UMYnafuFRH9BUctpYqxR-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -233,7 +230,7 @@ window.LUMINO_DATA = {
       "title": "Olson Kundig crowns Sky View house with retractable roof",
       "url": "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
       "excerpt": "US studio Olson Kundig Architects has completed a house in the mountains of Idaho with large spans of concrete, steel and glass, topped with a retractable roof. Known as Sky View, the 7,190-square-foo",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -243,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182435/collective-housing-in-vila-do-conde-raulino-silva-arquitecto",
       "excerpt": "The project in Vila do Conde, north of Portugal, has as its brief the construction of a single-family house and a collective housing building, to be put up for rent, with two apartment and a store for",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/06c7/3cf9/6c00/0177/ff82/large_jpg/V.Conde_-_Raulino_Arch_-_photo_Santos-D_ez_01.jpg?1786119933",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -253,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/photovoltaic-skin-ev-creates-more-energy-deep-orange-17-car-luminetta-clemson-bmw/",
       "excerpt": "a skin of 1,781 photovoltaic cells turns deep orange 17's exterior into an active energy-harvesting surface.\nThe post wrapped in a photovoltaic skin, this student-designed EV creates more energy than ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clemson-university-deep-orange-17-car-solar-energy-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -263,7 +260,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
       "excerpt": "Located in the Czech village of Krámy, near the Brdy Highlands, a weekend house designed by Anna Koukolová architekti has been built on a sloping site bordered by a grove and a stream. Clad in charred",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/large_jpg/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -273,7 +270,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fragrance/reservation-parfums-california-scents-francesco-ragazzi",
       "excerpt": "Founded by Palm Angels’ Francesco Ragazzi, Réservation aims to bottle the sunlit glamour of California with a series of transporting scents",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tcDJgipYgh289yrYcPzbCR-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -283,7 +280,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/clideo-video-editor-fashion-films-visual-stories/",
       "excerpt": "fashion films extend collections beyond the physical runway.\nThe post fashion in motion: clideo video editor transforms fashion films into visual stories appeared first on designboom | architecture & ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clideo-video-editor-contemporary-fashion-films-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -293,7 +290,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
       "excerpt": "Coral, the official paint and sponsor of CASACOR São Paulo, alongside Nildo José and NJ+ Arquitetura, in their seventh participation in the event, presents Casa Coral Celeiro Alvorada, a tribute to Br",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/large_jpg/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -303,7 +300,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture",
       "excerpt": "Located on a bluff above Seeley Lake in central Montana, Four Roof House is conceived as a single-story, age-in-place residence designed for durability, low maintenance and long-term habitation in a r",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/7fa0/1801/ca00/0176/ee97/large_jpg/TWRYAN_MONTANA_50S0676.jpg?1785757672",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -313,7 +310,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/cj-hendry-new-york-gallery-beads-pastel-installation/",
       "excerpt": "a search-and-find installation invites visitors to build their own keepsakes, revealing how simple acts of collecting can spark unexpected social encounters.\nThe post Cj hendry fills a new york galler",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cj-hendry-pastel-beads-installation-nyc-play-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -322,7 +319,7 @@ window.LUMINO_DATA = {
       "title": "Kuryłowicz + Architects designs Antarctic research station as \"home at the end of the world\"",
       "url": "https://www.dezeen.com/2026/08/07/antarctic-arctowski-station-kurylowicz-architects/",
       "excerpt": "Architecture studio Kuryłowicz + Architects has revealed photos of the timber Arctowski Station nearing completion on King George Island in Antarctica. Currently under construction, the three-pronged ",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -331,7 +328,7 @@ window.LUMINO_DATA = {
       "title": "Foster + Partners found not guilty over window fall death",
       "url": "https://www.dezeen.com/2026/08/07/foster-partners-corniche-window-death-not-guilty/",
       "excerpt": "British architecture studio Foster + Partners has been cleared over the death of a man killed by a window that fell from one of its buildings in London, following a five-week criminal trial. The case ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -341,17 +338,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182106/rue-pavee-renovation-project-for-a-complex-of-historic-buildings-in-paris-mars-architectes",
       "excerpt": "In the heart of Paris's famous Marais district, the \"Rue Pavée\" project crosses an urban fabric shaped not by a single historical vision but by centuries of continuous transformation.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/9669/1801/ca00/0176/ef0c/large_jpg/21---MARS-Architectes--Rue-Pav_e-_-Maris-Mezulis.jpg?1785763653",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "pac-man ghosts meet otamatone for pocket-sized musical crossover",
-      "url": "https://www.designboom.com/technology/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover/",
-      "excerpt": "two japanese characters built around opening mouths finally discover they have quite a lot in common.\nThe post pac-man ghosts meet otamatone for pocket-sized musical crossover appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/pac-man-ghosts-otamatone-pocket-musical-instrument-crossover-designboom-4.jpeg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -360,7 +347,7 @@ window.LUMINO_DATA = {
       "title": "Gothic romance and 1980s slasher films informed sets of Teenage Sex and Death at Camp Miasma",
       "url": "https://www.dezeen.com/2026/08/07/slasher-films-set-teenage-sex-and-death-at-camp-miasma/",
       "excerpt": "Production designers Brandon Tonner-Connolly and Matt Hyland constructed sets including a \"flesh palace\" and a taxidermy-filled gas station to create a dreamlike world for this horror film starring Gi",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -369,7 +356,7 @@ window.LUMINO_DATA = {
       "title": "\"A hodgepodge of ideas\" says commenter",
       "url": "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/",
       "excerpt": "In this week's comments update, readers are discussing The Linhay, a family house in the Somerset countryside designed by studio Charles Gillespie Architecture. Wrapped by a concrete colonnade, the ho",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -379,7 +366,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -389,7 +376,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/173",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/173/042_地下1階 公共地下広場 4092.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -399,7 +386,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/180",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/180/05 南東側外観(夜景).jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
