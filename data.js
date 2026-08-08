@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  21:24",
+  "fetchedAt": "2026.08.08  22:22",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,49 +25,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -82,7 +86,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -92,17 +96,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.08",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.08",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -150,6 +144,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.08",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -157,6 +161,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/before-mobiles-calder-circus-brought-wire-figures-to-life/",
       "excerpt": "lions, tigers, acrobats and balloons, costumed and created to fit in a suitcase, make up one of alexander calder's foundational works in play and wire. \nThe post before calder’s mobiles, this mini cir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/calder-circus-flv-designboom-07.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "Shin Nakano Residence / Ryuichi Sasaki + Sasaki Architecture",
+      "url": "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture",
+      "excerpt": "Built as Grantage Shin Nakano in the Chuo district of Nakano, Tokyo, the reinforced concrete residential building rises five storeys above a basement level and holds eleven units within a total floor ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b9fc/eb02/9f01/882a/1ef4/large_jpg/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture_1.jpg?1785838097",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.08",
+      "title": "Restaurant Nectar Oum / Madarq studio",
+      "url": "https://www.archdaily.com/1182070/restaurant-madarq-studio",
+      "excerpt": "A borrowed garden and a single point of origin transform a leftover corner of a food court into a space with its own identity.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5275/1801/ca00/0176/ecc8/large_jpg/A2.jpg?1785746053",
       "today": true
     },
     {
@@ -258,16 +282,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "House with Reflective Furniture / Set Architects",
-      "url": "https://www.archdaily.com/1181657/house-with-reflective-furniture-set-architects",
-      "excerpt": "Set Architects has completed the renovation of an early 20th-century apartment in Rome's Nomentano district, reinterpreting its traditional layout through a contemporary lens.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/00e8/f4d2/6d01/88b1/7507/large_jpg/house-with-reflective-furniture-set-architects_16.jpg?1785331971",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -304,16 +318,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
       "excerpt": "shaped by the existing trees, terrain, and changing seasons, the home is designed to feel less like an object in the landscape and more like a natural part of it.\nThe post dark timber A&A house reinte",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/dark-timber-a-ahouse-barn-poland-pine-forest-rasztawicki-bielinski-architects-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "THE SEED Pavilion / REAL Architects + Challenge Design",
-      "url": "https://www.archdaily.com/1182160/the-seed-pavilion-real-architects-plus-challenge-design",
-      "excerpt": "Located at West Bund Central Phase II in Shanghai, \"THE SEED,\" designed by REAL Architects for Hongkong Land, sits at the geometric center of a terraced landscape. Echoing the West Bund Orbit to its s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/8df7/5b21/b900/0199/28f6/large_jpg/Day_View_5_XIRU_IMAGERY.jpg?1785826826",
       "today": true
     },
     {
