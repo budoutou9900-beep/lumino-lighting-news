@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  09:33",
+  "fetchedAt": "2026.08.09  10:27",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -150,6 +150,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Eight interiors where picture windows frame picture-perfect views",
+      "url": "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
+      "excerpt": "This lookbook collates eight bedrooms and living spaces where slim-framed picture windows help landscapes become art. A picture window is square or rectangular in shape, lacks transoms or crossbeams o",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
@@ -177,6 +186,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/frank-kunert-miniature-worlds-bend-logic-familiar-architecture-photography/",
       "excerpt": "using scale to loosen the rules of the built world, hand-built miniature sets turn familiar architecture slightly absurd.\nThe post frank kunert’s miniature worlds bend the logic of familiar architectu",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frank-kunert-miniature-architecture-photography-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "I IN clads Human Made store in handcrafted Korean celadon tiles with \"powerful presence\"",
+      "url": "https://www.dezeen.com/2026/08/09/i-in-human-made-store-korean-celadon-tiles/",
+      "excerpt": "Tokyo studio I IN combined handcrafted tiles with an industrial-style gridded ceiling and playful animal sculptures in a store for designer Nigo's Human Made brand in Seoul's Lotte Mall Jamsil. The li",
       "today": true
     },
     {
@@ -317,15 +335,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "This week on Dezeen we reported on the demolition of Rike Concert Hall",
-      "url": "https://www.dezeen.com/2026/08/08/this-week-dezeen-rike-concert-hall/",
-      "excerpt": "This week on Dezeen, we reported on the demolition of a never-opened concert hall by Studio Fuksas, which is now underway in Tbilisi, Georgia. Footage shared by local news organisation TV Pirveli capt",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -333,15 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
       "excerpt": "shaped by the existing trees, terrain, and changing seasons, the home is designed to feel less like an object in the landscape and more like a natural part of it.\nThe post dark timber A&A house reinte",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/dark-timber-a-ahouse-barn-poland-pine-forest-rasztawicki-bielinski-architects-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "Olson Kundig crowns Sky View house with retractable roof",
-      "url": "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
-      "excerpt": "US studio Olson Kundig Architects has completed a house in the mountains of Idaho with large spans of concrete, steel and glass, topped with a retractable roof. Known as Sky View, the 7,190-square-foo",
       "today": false
     },
     {
