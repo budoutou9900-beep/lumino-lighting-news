@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  16:27",
+  "fetchedAt": "2026.08.09  17:26",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,49 +25,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -89,6 +85,16 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.09",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -137,16 +143,6 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.09",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
