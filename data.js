@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  19:28",
+  "fetchedAt": "2026.08.09  20:25",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,37 +33,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -88,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.09",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -98,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.09",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -136,6 +140,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.09",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.09",
@@ -143,6 +157,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Medellín Children's Playground Network: Tejiendo Hogares / Juguemos en el Parque / Alcaldía de Medellín",
+      "url": "https://www.archdaily.com/1182445/medellin-childrens-playground-network-weaving-homes-lets-play-in-the-park-mayors-office-of-medellin",
+      "excerpt": "The lack of play environments in the peripheral neighborhoods of Medellín has limited opportunities for recreation and family gatherings. Moreover, the scarcity of natural soil and permeable surfaces ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/d8b8/3cf9/6c00/0177/fe43/large_jpg/PARQUE_BELLO_HORIZONTE_1_-_Israel_Restrepo_Naranjo.jpg?1786108102",
       "today": true
     },
     {
@@ -207,20 +231,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
+      "title": "The story behind our shape-shifting September Style Issue cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "The story behind our shape-shifting September Style Issue cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": true
     },
     {
@@ -270,16 +294,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
       "excerpt": "Equipped with blue shutters and white-washed plaster, Paros house Villa Sol Mare is a dreamy restored Cycladic island home",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/es6H3UzwfKZQMZBdZtkVxT-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Wild’s Collection Naturalist Specimen / Offhand Practice",
-      "url": "https://www.archdaily.com/1042241/wilds-collection-naturalist-specimen-offhand-practice",
-      "excerpt": "Wild's Collection – A Fold of Time Hidden in a Modern Shell - \"A Perch\" at Aranya Guangzhou Jiulong Lake — Aranya's first semi-open park commercial complex. The raw, site-cast concrete volumes are bol",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a26/717c/d2d3/6e00/0102/f324/large_jpg/04______________________The_central_island___where_modern_meets_vintage_in_the_light_grid_above.jpg?1780904348",
       "today": true
     },
     {
