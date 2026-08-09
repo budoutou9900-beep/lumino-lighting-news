@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  10:27",
+  "fetchedAt": "2026.08.09  11:23",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,41 +33,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -89,6 +93,15 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.09",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -150,6 +163,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Wallpaper* checks in to the Hyatt Regency London Olympia, set within the city’s new cultural hub",
+      "url": "https://www.wallpaper.com/travel/hotels/hyatt-regency-london-olympia-review",
+      "excerpt": "Located in an old 1930s car park, the new hotel outpost merges 20th-century industrial aesthetics with Art Deco influences",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cshnx4mQ68Fx6gF5ApSRL7-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Crystal-shaped sauna rises from former industrial site in Sweden",
+      "url": "https://www.dezeen.com/2026/08/09/lithium-crystal-sauna-bigert-bergstrom/",
+      "excerpt": "Stockholm-based artist duo Bigert & Bergström has created a pink crystal-shaped sauna on a remediated industrial site in Skellefteå, northern Sweden. Named Lithium Crystal Sauna, it is the first perma",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.09",
@@ -162,20 +194,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "The story behind our shape-shifting September Style Issue cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
+      "title": "The story behind our shape-shifting September Style Issue cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
       "today": true
     },
     {
@@ -303,25 +335,6 @@ window.LUMINO_DATA = {
       "title": "AOR Architects draws on harbour warehouses for Talas community centre in Helsinki",
       "url": "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/",
       "excerpt": "Finnish studio AOR Architects has completed a community centre on Helsinki's waterfront, using a palette of timber and corrugated metal informed by maritime warehouses and coastal shelters. Named Tala",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Fall in love with the strange beauty of artist Gwen John",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/gwen-john-scottish-national-gallery-of-modern-art",
-      "excerpt": "150 years after her birth, Welsh artist Gwen John has her first major retrospective at the Scottish National Gallery of Modern Art",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sStsJUPkaVLVjQMszr42yS.gif",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Seven versatile homes that facilitate multi-generational living",
-      "url": "https://www.dezeen.com/2026/08/08/multi-generational-homes-roundup-2/",
-      "excerpt": "For our latest roundup, we look at seven homes and apartments, spanning India, Australia and the UK, designed to accommodate multiple generations under one roof. LJ House, India, by Studio Saransh and",
       "today": false
     },
     {
