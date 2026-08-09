@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  11:23",
+  "fetchedAt": "2026.08.09  12:38",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "kisspress.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -96,25 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.09",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.09",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.09",
@@ -150,6 +131,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "kisspress.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.09",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
       "today": true
     },
     {
@@ -194,20 +185,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
+      "title": "The story behind our shape-shifting September Style Issue cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "The story behind our shape-shifting September Style Issue cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": true
     },
     {
@@ -218,6 +209,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/frank-kunert-miniature-worlds-bend-logic-familiar-architecture-photography/",
       "excerpt": "using scale to loosen the rules of the built world, hand-built miniature sets turn familiar architecture slightly absurd.\nThe post frank kunert’s miniature worlds bend the logic of familiar architectu",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frank-kunert-miniature-architecture-photography-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Has Architecture Ever Been Entirely Human? Beatriz Colomina and Mark Wigley on the Microbial Nature of Architecture",
+      "url": "https://www.archdaily.com/1181842/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture",
+      "excerpt": "Architecture has long been understood as a discipline created by humans and for humans. But in We the Bacteria: Notes Toward Biotic Architecture, Beatriz Colomina and Mark Wigley challenge that assump",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6a/2d41/4ea2/e401/8926/602e/large_jpg/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture_17.jpg?1785343331",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Wade House / Wadhal",
+      "url": "https://www.archdaily.com/1182272/wade-house-wadhal",
+      "excerpt": "Wadhal has completed Wade House, a compact two-bedroom home in Ruislip, West London, on a brownfield site once occupied by two garages. At 70 square meters, the house meets the London Plan's minimum s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/3be8/eb02/9f01/882a/2500/large_jpg/wade-house-wadhal_2.jpg?1785936910",
       "today": true
     },
     {
@@ -286,26 +297,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture",
       "excerpt": "Built as Grantage Shin Nakano in the Chuo district of Nakano, Tokyo, the reinforced concrete residential building rises five storeys above a basement level and holds eleven units within a total floor ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b9fc/eb02/9f01/882a/1ef4/large_jpg/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture_1.jpg?1785838097",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Restaurant Nectar Oum / Madarq studio",
-      "url": "https://www.archdaily.com/1182070/restaurant-madarq-studio",
-      "excerpt": "A borrowed garden and a single point of origin transform a leftover corner of a food court into a space with its own identity.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5275/1801/ca00/0176/ecc8/large_jpg/A2.jpg?1785746053",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Mediterranean House / Dom Arquitectura",
-      "url": "https://www.archdaily.com/1148800/mediterranean-house-dom-arquitectura",
-      "excerpt": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and gar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b31b/d425/1a00/01c4/ba64/large_jpg/04.jpg?1784197941",
       "today": false
     },
     {
