@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  05:49",
+  "fetchedAt": "2026.08.09  06:44",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,35 +25,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "kisspress.jp": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -65,9 +65,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,12 +96,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "久留米ファン",
+      "cat": "展示・アート",
       "date": "2026.08.09",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.09",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -139,16 +153,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.09",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.09",
@@ -166,6 +170,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
       "excerpt": "Equipped with blue shutters and white-washed plaster, Paros house Villa Sol Mare is a dreamy restored Cycladic island home",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/es6H3UzwfKZQMZBdZtkVxT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Wild’s Collection Naturalist Specimen / Offhand Practice",
+      "url": "https://www.archdaily.com/1042241/wilds-collection-naturalist-specimen-offhand-practice",
+      "excerpt": "Wild's Collection – A Fold of Time Hidden in a Modern Shell - \"A Perch\" at Aranya Guangzhou Jiulong Lake — Aranya's first semi-open park commercial complex. The raw, site-cast concrete volumes are bol",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a26/717c/d2d3/6e00/0102/f324/large_jpg/04______________________The_central_island___where_modern_meets_vintage_in_the_light_grid_above.jpg?1780904348",
       "today": true
     },
     {
@@ -235,16 +249,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/red-craft-collection-four-japanese-traditional-techniques-sculptural-domestic-objects-kenta-yoshizawa/",
       "excerpt": "kenta yoshizawa reimagines traditional japanese crafts like bamboo fencing, kumihimo braiding, washi paper art, and urushi lacquering.\nThe post red craft collection reworks four japanese traditional t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/red-craft-collection-kenta-yoshizawa-four-japanese-craft-traditions-domestic-objects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "UBC Biodiversity Centre Addition / Public Architecture + Design",
-      "url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
-      "excerpt": "The University of British Columbia has completed a major expansion of the Beaty Biodiversity Centre on its Point Grey campus, adding research space, offices and collections along the university's cent",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/d1ff/5b21/b900/0199/27c5/large_jpg/_1_UBC-Beaty-Biodiversity-Centre-Addition_AndrewLatreille.jpg?1785778781",
       "today": false
     },
     {
@@ -424,6 +428,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -513,6 +527,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.06.26",
@@ -530,16 +554,6 @@ window.LUMINO_DATA = {
       "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
       "excerpt": "The post The Art of Flowers: In Conversation with Carolin Ruggaber appeared first on IGNANT.",
       "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1.jpg",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "新製品",
-      "date": "2026.06.25",
-      "title": "公園・広場・景観照明 - louis poulsen(ルイスポールセン)",
-      "url": "https://www.iwasaki.co.jp/lighting/urbanscape/lp/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     }
   ]
