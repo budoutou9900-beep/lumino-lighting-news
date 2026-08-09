@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  12:38",
+  "fetchedAt": "2026.08.09  13:44",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -68,10 +68,6 @@ window.LUMINO_DATA = {
     "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -185,20 +181,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "The story behind our shape-shifting September Style Issue cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
+      "title": "The story behind our shape-shifting September Style Issue cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
       "today": true
     },
     {
@@ -535,16 +531,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/construction/proworks_handylight/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "IGNANT",
-      "cat": "デザイン",
-      "date": "2026.06.25",
-      "title": "The Art of Flowers: In Conversation with Carolin Ruggaber",
-      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
-      "excerpt": "The post The Art of Flowers: In Conversation with Carolin Ruggaber appeared first on IGNANT.",
-      "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1.jpg",
       "today": false
     }
   ]
