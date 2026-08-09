@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  08:35",
+  "fetchedAt": "2026.08.09  09:33",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "enjoytokyo.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,45 +33,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "IGNANT": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "IGNANT": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -93,16 +89,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.09",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -135,7 +121,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "enjoytokyo.jp",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.09",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -161,6 +147,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "The story behind our shape-shifting September Style Issue cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": true
     },
     {
@@ -308,26 +314,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/play-function-luca-boscardin-toys-cities-spaces-imagination-interview/",
       "excerpt": "the designer reflects on playful design, open-ended objects, and why curiosity should shape cities, schools, and everyday life.\nThe post ‘play is itself a function’: luca boscardin on designing toys, ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/play-function-luca-boscardin-toys-cities-spaces-imagination-interview-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "A camera that does it all? Sony’s new RX10 V offers power, speed and a mighty lens",
-      "url": "https://www.wallpaper.com/tech/sony-new-rx10-v-camera",
-      "excerpt": "The latest iteration of Sony’s big-lensed RX10 combines a massive zoom with functionality across the board",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jprkNTCEKLvhf3t7W2JkKH-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Biophilia meets Bali at Jia Curated 2026's architectural spotlight show",
-      "url": "https://www.wallpaper.com/architecture/jia-curated-2026-architecture-at-scale-bali-indonesia",
-      "excerpt": "Jia Curated 2026 highlight, 'Architecture at Scale', explores biophilic architecture and its expressions on the island of Bali, Indonesia",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KLnFWndziMmUHyZHrhWdtg-2560-80.jpg",
       "today": false
     },
     {
