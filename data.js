@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  15:26",
+  "fetchedAt": "2026.08.09  16:27",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "kisspress.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -53,13 +53,21 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -122,16 +130,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.09",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.09",
@@ -142,6 +140,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.09",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.09",
@@ -149,6 +157,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/split-level-timber-house-layered-interiors-japanese-forest-landscape-morimado-house-yosuke-tomiya/",
       "excerpt": "rather than treating the forest as a backdrop, the project was conceived to make it an essential part of everyday living.\nThe post split-level timber house organizes layered interiors around japanese ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/morimado-house-yosuke-tomiya-hokkaido-japan-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "POST Rotterdam Tower / ODA New York",
+      "url": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
+      "excerpt": "Global architecture, interior design, and landscape architecture firm, ODA, has completed the first phase of the highly anticipated POST project in Rotterdam, a new tower rising at the rear of the his",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/57f6/d865/3d00/014d/0ecc/large_jpg/2755_Post_Rotterdam__Ossip.jpg?1785288761",
       "today": true
     },
     {
@@ -171,6 +189,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "H001CH-Hass loft / estudio Hass",
+      "url": "https://www.archdaily.com/1182335/h001ch-hass-loft-estudio-hass",
+      "excerpt": "From the outside, this loft had it all: double-height ceilings, natural light, and a sense of spaciousness that promised great possibilities. However, upon entering, the space lacked order. The ground",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4b/b865/062b/6500/019a/ab65/large_jpg/_N8A7870_resultado.jpg?1783347431",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.09",
@@ -183,20 +211,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
+      "title": "The story behind our shape-shifting September Style Issue cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "The story behind our shape-shifting September Style Issue cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": true
     },
     {
@@ -259,16 +287,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "HOURS Commercial Building / See Architects",
-      "url": "https://www.archdaily.com/1182396/hours-commercial-building-see-architects",
-      "excerpt": "The site faces Daehyeon Elementary School to the south, with Hwimun High School and Samseong Station within walking distance to the north — yet it sits within an alley less than six meters wide. This ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/bde8/3cf9/6c00/0177/fcfd/large_jpg/______967-12_-17.jpg?1786101286",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.08",
@@ -285,16 +303,6 @@ window.LUMINO_DATA = {
       "title": "Cyro Arquitetura designs \"white noise\" apartment in São Paulo",
       "url": "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
       "excerpt": "São Paulo studio Cyro Arquitetura has created a temporary studio apartment for the city's Casacor 2026 exhibition, designed to remove distractions and promote focus. Inside an existing building in the",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Shin Nakano Residence / Ryuichi Sasaki + Sasaki Architecture",
-      "url": "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture",
-      "excerpt": "Built as Grantage Shin Nakano in the Chuo district of Nakano, Tokyo, the reinforced concrete residential building rises five storeys above a basement level and holds eleven units within a total floor ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b9fc/eb02/9f01/882a/1ef4/large_jpg/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture_1.jpg?1785838097",
       "today": false
     },
     {
@@ -407,6 +415,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -493,6 +511,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
