@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  14:29",
+  "fetchedAt": "2026.08.09  15:26",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -53,26 +53,18 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "岩崎電気": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.09",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -415,16 +407,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -511,16 +493,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
