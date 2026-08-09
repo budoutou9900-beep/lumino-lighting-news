@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  21:25",
+  "fetchedAt": "2026.08.09  22:24",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -53,21 +53,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "岩崎電気": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -98,7 +90,6 @@ window.LUMINO_DATA = {
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -108,7 +99,6 @@ window.LUMINO_DATA = {
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -425,16 +415,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -521,16 +501,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
