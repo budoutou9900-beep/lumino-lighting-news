@@ -1,80 +1,84 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.08  23:22",
+  "fetchedAt": "2026.08.09  01:14",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "sanyonews.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "IGNANT": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "IGNANT": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -82,9 +86,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
@@ -92,9 +96,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.09",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
@@ -102,9 +115,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -114,7 +127,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -123,7 +136,7 @@ window.LUMINO_DATA = {
     {
       "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
       "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
@@ -133,7 +146,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -142,7 +155,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.08",
+      "date": "2026.08.09",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -157,7 +170,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/before-mobiles-calder-circus-brought-wire-figures-to-life/",
       "excerpt": "lions, tigers, acrobats and balloons, costumed and created to fit in a suitcase, make up one of alexander calder's foundational works in play and wire. \nThe post before calder’s mobiles, this mini cir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/calder-circus-flv-designboom-07.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -167,7 +180,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture",
       "excerpt": "Built as Grantage Shin Nakano in the Chuo district of Nakano, Tokyo, the reinforced concrete residential building rises five storeys above a basement level and holds eleven units within a total floor ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/b9fc/eb02/9f01/882a/1ef4/large_jpg/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture_1.jpg?1785838097",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -177,7 +190,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182070/restaurant-madarq-studio",
       "excerpt": "A borrowed garden and a single point of origin transform a leftover corner of a food court into a space with its own identity.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/5275/1801/ca00/0176/ecc8/large_jpg/A2.jpg?1785746053",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -187,7 +200,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148800/mediterranean-house-dom-arquitectura",
       "excerpt": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and gar",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/b31b/d425/1a00/01c4/ba64/large_jpg/04.jpg?1784197941",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -197,7 +210,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/red-craft-collection-four-japanese-traditional-techniques-sculptural-domestic-objects-kenta-yoshizawa/",
       "excerpt": "kenta yoshizawa reimagines traditional japanese crafts like bamboo fencing, kumihimo braiding, washi paper art, and urushi lacquering.\nThe post red craft collection reworks four japanese traditional t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/red-craft-collection-kenta-yoshizawa-four-japanese-craft-traditions-domestic-objects-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -207,7 +220,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
       "excerpt": "The University of British Columbia has completed a major expansion of the Beaty Biodiversity Centre on its Point Grey campus, adding research space, offices and collections along the university's cent",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/d1ff/5b21/b900/0199/27c5/large_jpg/_1_UBC-Beaty-Biodiversity-Centre-Addition_AndrewLatreille.jpg?1785778781",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -217,7 +230,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/dharq-arquitectos-chile",
       "excerpt": "Dharq Arquitectos joins the Wallpaper* Architects’ Directory 2026 with a forest cabin that touches lightly on its natural setting",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gdJEj23VhZJduUwaY3tTqh-2500-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -226,7 +239,7 @@ window.LUMINO_DATA = {
       "title": "AOR Architects draws on harbour warehouses for Talas community centre in Helsinki",
       "url": "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/",
       "excerpt": "Finnish studio AOR Architects has completed a community centre on Helsinki's waterfront, using a palette of timber and corrugated metal informed by maritime warehouses and coastal shelters. Named Tala",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -236,7 +249,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/gwen-john-scottish-national-gallery-of-modern-art",
       "excerpt": "150 years after her birth, Welsh artist Gwen John has her first major retrospective at the Scottish National Gallery of Modern Art",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sStsJUPkaVLVjQMszr42yS.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -245,7 +258,7 @@ window.LUMINO_DATA = {
       "title": "Seven versatile homes that facilitate multi-generational living",
       "url": "https://www.dezeen.com/2026/08/08/multi-generational-homes-roundup-2/",
       "excerpt": "For our latest roundup, we look at seven homes and apartments, spanning India, Australia and the UK, designed to accommodate multiple generations under one roof. LJ House, India, by Studio Saransh and",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -255,7 +268,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/play-function-luca-boscardin-toys-cities-spaces-imagination-interview/",
       "excerpt": "the designer reflects on playful design, open-ended objects, and why curiosity should shape cities, schools, and everyday life.\nThe post ‘play is itself a function’: luca boscardin on designing toys, ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/play-function-luca-boscardin-toys-cities-spaces-imagination-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -265,7 +278,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
       "excerpt": "A war can erase a skyline overnight. Roofs collapse, streets become impassable, and landmarks that once oriented everyday life are reduced to rubble. The most profound loss often remains invisible. Bu",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/32c0/4ea2/e401/8926/6e55/large_jpg/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge_1.jpg?1785737927",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -275,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/sony-new-rx10-v-camera",
       "excerpt": "The latest iteration of Sony’s big-lensed RX10 combines a massive zoom with functionality across the board",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jprkNTCEKLvhf3t7W2JkKH-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -285,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/jia-curated-2026-architecture-at-scale-bali-indonesia",
       "excerpt": "Jia Curated 2026 highlight, 'Architecture at Scale', explores biophilic architecture and its expressions on the island of Bali, Indonesia",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KLnFWndziMmUHyZHrhWdtg-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -294,7 +307,7 @@ window.LUMINO_DATA = {
       "title": "This week on Dezeen we reported on the demolition of Rike Concert Hall",
       "url": "https://www.dezeen.com/2026/08/08/this-week-dezeen-rike-concert-hall/",
       "excerpt": "This week on Dezeen, we reported on the demolition of a never-opened concert hall by Studio Fuksas, which is now underway in Tbilisi, Georgia. Footage shared by local news organisation TV Pirveli capt",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -304,7 +317,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/riviera-hotel-menorca-review",
       "excerpt": "Ilmiodesign brings 1970s Italian Riviera spirit to Ciutadella with a 14-room hotel of curves, colour, and poolside fun",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QpnDXZm6vaEQAdWdeW3GSU-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -314,7 +327,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
       "excerpt": "shaped by the existing trees, terrain, and changing seasons, the home is designed to feel less like an object in the landscape and more like a natural part of it.\nThe post dark timber A&A house reinte",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/dark-timber-a-ahouse-barn-poland-pine-forest-rasztawicki-bielinski-architects-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
