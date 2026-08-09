@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  07:49",
+  "fetchedAt": "2026.08.09  08:35",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "enjoytokyo.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -135,7 +135,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "enjoytokyo.jp",
       "cat": "展示・アート",
       "date": "2026.08.09",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
