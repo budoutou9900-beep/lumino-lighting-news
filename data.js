@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.09  06:44",
+  "fetchedAt": "2026.08.09  07:49",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -96,12 +96,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.09",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -160,6 +161,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.09",
+      "title": "frank kunert’s miniature worlds bend the logic of familiar architecture",
+      "url": "https://www.designboom.com/art/frank-kunert-miniature-worlds-bend-logic-familiar-architecture-photography/",
+      "excerpt": "using scale to loosen the rules of the built world, hand-built miniature sets turn familiar architecture slightly absurd.\nThe post frank kunert’s miniature worlds bend the logic of familiar architectu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frank-kunert-miniature-architecture-photography-designboom-FB.jpg",
       "today": true
     },
     {
@@ -336,16 +347,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
       "excerpt": "shaped by the existing trees, terrain, and changing seasons, the home is designed to feel less like an object in the landscape and more like a natural part of it.\nThe post dark timber A&A house reinte",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/dark-timber-a-ahouse-barn-poland-pine-forest-rasztawicki-bielinski-architects-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "urban living library transforms fragmented city spaces into biodiverse ecological corridors",
-      "url": "https://www.designboom.com/readers/urban-living-library-fragmented-city-spaces-biodiverse-ecological-corridors-fengyi-wu/",
-      "excerpt": "the proposal uses the hedgehog as a flagship species to reconnect fragmented urban landscapes and create spaces where biodiversity, learning and everyday public life can coexist.\nThe post urban living",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/urban-living-library-reclaiming-hedgehog-habitat-fengyi-wu-designboom-1200.jpg",
       "today": false
     },
     {
