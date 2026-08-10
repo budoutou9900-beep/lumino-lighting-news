@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  14:18",
+  "fetchedAt": "2026.08.10  15:55",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,51 +9,51 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -64,11 +64,15 @@ window.LUMINO_DATA = {
     "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -85,15 +89,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.10",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -148,7 +143,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.10",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -162,6 +157,25 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "discarded synthetic textiles become porous structural material through heat fusion",
+      "url": "https://www.designboom.com/design/discarded-synthetic-textiles-porous-structural-material-heat-fusion-fast-fashion-architecture-taylor-leung/",
+      "excerpt": "synthetic garments, textile waste, and factory offcuts are packed into mild-steel cages before heat treatment.\nThe post discarded synthetic textiles become porous structural material through heat fusi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-synthetic-textiles-porous-structural-material-fast-fashion-architecture-taylor-leung-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Satyress designs centaur-like robot to give workers \"superpowers\" for dangerous jobs",
+      "url": "https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/",
+      "excerpt": "California start-up Satyress has unveiled its Threehalves robot, a teleoperated centaur-like humanoid designed to aid humans doing dangerous jobs that expose them to injury, death or extreme condition",
       "today": true
     },
     {
@@ -223,12 +237,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "HAIN Vineyard Facilities  / undjurekbrüggen + AFEA",
+      "url": "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
+      "excerpt": "HAIN is located at the foot of a vineyard, adjacent to a biodiverse landscape along the River Havel. Designed as storage and production facilities for the vineyard, these buildings go beyond simply pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/a886/3cf9/6c00/0177/bf69/large_jpg/HTM_303300-3593_fine_A4.jpg?1786030240",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.10",
       "title": "Realistic AI architectural renderings must be labelled under EU AI Act",
       "url": "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
       "excerpt": "Artists and companies publishing realistic AI-generated architectural renderings in the European Union without labelling risk being fined under provisions in the EU AI Act that came into force last we",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Architecture of Life",
+      "url": "https://www.archdaily.com/1182478/architecture-of-life",
+      "excerpt": "What is the purpose of architecture? How may it enrich human life and collectivity?\nArchitecture of Life is the first English-language essay collection from the world-renowned architectural duo known ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/c1d2/3cf9/6c00/0178/0256/large_jpg/grid.jpg?1786364376",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Call for Application",
+      "url": "https://www.archdaily.com/1182469/call-for-application",
+      "excerpt": "The AA Visiting School Samarkand, Imagined Skies, takes place at the Observatory of Ulugbek, a machine built to observe the sky, serves as a departure point for participants to engage with broader iss",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/b975/3cf9/6c00/0178/01a8/large_jpg/Post_3.jpg?1786362260",
       "today": true
     },
     {
@@ -271,16 +315,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "from pixels to planning approval: how lumion pro materializes unbuilt architecture",
-      "url": "https://www.designboom.com/architecture/lumion-pro-architectural-concepts/",
-      "excerpt": "serving as a shared language lumion pro’s capabilities eliminate the friction when traditional technical drawings fail to communicate the physical reality of an ambitious design concept.\nThe post from",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/lumion_designboom_facebook.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -288,45 +322,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182220/shenzhen-bay-culture-square-mad-architects",
       "excerpt": "Shenzhen Bay Culture Square sits at the heart of Houhai, Nanshan District, Shenzhen — the innovation core and headquarters hub of the Greater Bay Area. On one side rises a dense cluster of skyscrapers",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/c492/eb02/9f01/882a/2226/large_jpg/shenzhen-bay-culture-square-mad-architects_26.jpg?1785906348",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "The Türkiye Pavilion Examines Reuse and Memory Through \"Spolia Futures\" at the 2027 Venice Architecture Biennale",
-      "url": "https://www.archdaily.com/1182223/the-turkiye-pavilion-examines-reuse-and-memory-through-spolia-futures-at-the-2027-venice-architecture-biennale",
-      "excerpt": "The Türkiye Pavilion has announced \"Spolia Futures\" as its official exhibition for the 20th International Architecture Exhibition of La Biennale di Venezia, which will take place from May 8 to Novembe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/efe2/4460/0501/896d/03ec/large_jpg/the-turkiye-pavilion-examines-reuse-and-memory-through-spolia-futures-at-the-2027-venice-architecture-biennale_1.jpg?1785917440",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Mösli School Ostermundigen / Fiechter Salzmann",
-      "url": "https://www.archdaily.com/1182305/mosli-school-ostermundigen-fiechter-salzmann",
-      "excerpt": "The listed Mösli School Complex is characterized by a clear orthogonal structure and is set within a generous, tree-lined landscape on the northern edge of Ostermundigen. Four compact pavilion buildin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/4f73/eee6/f800/0125/f639/large_jpg/fiechtersalzmann_aussen1.jpg?1786007438",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "On International Day of the World's Indigenous Peoples: Toward a Deeper Understanding of Ancestral Constructive Culture",
-      "url": "https://www.archdaily.com/1182448/on-international-day-of-the-worlds-indigenous-peoples-toward-a-deeper-understanding-of-ancestral-constructive-culture",
-      "excerpt": "Every year on August 9, and since 1994, UNESCO has commemorated the International Day of the World's Indigenous Peoples. The United Nations has not yet adopted an official definition for the term 'Ind",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a78/ee5b/ab59/ca01/8994/4033/large_jpg/on-international-day-of-the-worlds-indigenous-peoples_1.jpg?1786310250",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Design profession receives own classification in upcoming Australian census",
-      "url": "https://www.dezeen.com/2026/08/10/design-profession-category-australia-census/",
-      "excerpt": "Australian designers across every discipline will be counted, for the first time, under a dedicated professional group in the upcoming census on 11 August. The Australian Census of Population and Hous",
       "today": true
     },
     {
@@ -430,6 +425,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.28",
@@ -516,6 +521,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
