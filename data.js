@@ -1,47 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  05:21",
+  "fetchedAt": "2026.08.10  07:22",
   "sourceColors": {
-    "中日新聞Web": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "倉敷経済新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "山陽新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "enjoytokyo.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
     "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Dezeen": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -64,81 +36,32 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "title": "from pixels to planning approval: how lumion pro materializes unbuilt architecture",
+      "url": "https://www.designboom.com/architecture/lumion-pro-architectural-concepts/",
+      "excerpt": "serving as a shared language lumion pro’s capabilities eliminate the friction when traditional technical drawings fail to communicate the physical reality of an ambitious design concept.\nThe post from",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/06/lumion_designboom_facebook.jpg",
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "title": "saint of athens reimagines byzantine iconography with black-and-white frescoes in mykonos",
+      "url": "https://www.designboom.com/architecture/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel/",
+      "excerpt": "black-and-white frescoes inside kalesma hotel’s chapel combine orthodox tradition with a contemporary graphic language.\nThe post saint of athens reimagines byzantine iconography with black-and-white f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "enjoytokyo.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "Design profession receives own classification in upcoming Australian census",
+      "url": "https://www.dezeen.com/2026/08/10/design-profession-category-australia-census/",
+      "excerpt": "Australian designers across every discipline will be counted, for the first time, under a dedicated professional group in the upcoming census on 11 August. The Australian Census of Population and Hous",
       "today": true
     },
     {
@@ -149,6 +72,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/various-associates-china",
       "excerpt": "Various Associates, a young practice based in China, features in the Wallpaper* Architects Directory 2026 - we highlight its residential project, Gong's House",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7WfyTzLAAjmYw66G6dMhES-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "BANSHAN1994 Commune / Office Canopy of Architecture",
+      "url": "https://www.archdaily.com/1041835/banshan1994-commune-office-canopy-of-architecture",
+      "excerpt": "Constructing a New \"Locality\" — As China's urbanization enters its \"second half,\" the revitalization of underutilized assets has become an inevitable challenge for governments, developers, and designe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a14/59bb/fd52/9201/89f2/241c/large_jpg/banshan1994-commune-office-canopy-of-architecture_10.jpg?1779718647",
       "today": true
     },
     {
@@ -199,16 +132,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/split-level-timber-house-layered-interiors-japanese-forest-landscape-morimado-house-yosuke-tomiya/",
       "excerpt": "rather than treating the forest as a backdrop, the project was conceived to make it an essential part of everyday living.\nThe post split-level timber house organizes layered interiors around japanese ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/morimado-house-yosuke-tomiya-hokkaido-japan-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "POST Rotterdam Tower / ODA New York",
-      "url": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
-      "excerpt": "Global architecture, interior design, and landscape architecture firm, ODA, has completed the first phase of the highly anticipated POST project in Rotterdam, a new tower rising at the rear of the his",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a69/57f6/d865/3d00/014d/0ecc/large_jpg/2755_Post_Rotterdam__Ossip.jpg?1785288761",
       "today": false
     },
     {
@@ -305,35 +228,6 @@ window.LUMINO_DATA = {
       "title": "Cyro Arquitetura designs \"white noise\" apartment in São Paulo",
       "url": "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
       "excerpt": "São Paulo studio Cyro Arquitetura has created a temporary studio apartment for the city's Casacor 2026 exhibition, designed to remove distractions and promote focus. Inside an existing building in the",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "red craft collection reworks four japanese traditional techniques into sculptural domestic objects",
-      "url": "https://www.designboom.com/design/red-craft-collection-four-japanese-traditional-techniques-sculptural-domestic-objects-kenta-yoshizawa/",
-      "excerpt": "kenta yoshizawa reimagines traditional japanese crafts like bamboo fencing, kumihimo braiding, washi paper art, and urushi lacquering.\nThe post red craft collection reworks four japanese traditional t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/red-craft-collection-kenta-yoshizawa-four-japanese-craft-traditions-domestic-objects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "AOR Architects draws on harbour warehouses for Talas community centre in Helsinki",
-      "url": "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/",
-      "excerpt": "Finnish studio AOR Architects has completed a community centre on Helsinki's waterfront, using a palette of timber and corrugated metal informed by maritime warehouses and coastal shelters. Named Tala",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "‘play is itself a function’: luca boscardin on designing toys, cities, and spaces for imagination",
-      "url": "https://www.designboom.com/design/play-function-luca-boscardin-toys-cities-spaces-imagination-interview/",
-      "excerpt": "the designer reflects on playful design, open-ended objects, and why curiosity should shape cities, schools, and everyday life.\nThe post ‘play is itself a function’: luca boscardin on designing toys, ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/play-function-luca-boscardin-toys-cities-spaces-imagination-interview-designboom-1200.jpg",
       "today": false
     },
     {
