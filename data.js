@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  11:02",
+  "fetchedAt": "2026.08.10  12:55",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "enjoytokyo.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -95,6 +95,16 @@ window.LUMINO_DATA = {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.10",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -111,7 +121,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "enjoytokyo.jp",
       "cat": "展示・アート",
       "date": "2026.08.10",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -130,6 +140,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.10",
@@ -140,13 +160,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "This modular timber home by Hoyer Arkitektur is the perfect bolthole to take in Danish nature",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/hoyer-arkitektur-denmark",
+      "excerpt": "Hoyer Arkitektur, a young practice based in Denmark, features in the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YLo535HYGRQc8AW6jMbSSg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Hermès’ Pierre-Alexis Dumas on curating the house’s breathtaking new London outpost",
+      "url": "https://www.wallpaper.com/fashion-beauty/hermes-london-maison-pierre-alexis-dumas-interview",
+      "excerpt": "Hermès’ latest Maison, on London’s New Bond Street, offers a labyrinth of unique artworks and objects, custom-selected by the house’s artistic director, Pierre-Alexis Dumas",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6gPcQBQseRn7dw3ZbBzvfB-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "gxn stacks toronto’s construction leftovers into pop-up public space",
+      "url": "https://www.designboom.com/architecture/gxn-toronto-construction-leftovers-pop-up-public-space/",
+      "excerpt": "waterfront neighbourhood space on ookwemin minising uses reclaimed bricks, concrete, timber and urban waste in a fully reversible public installation.\nThe post gxn stacks toronto’s construction leftov",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gxn-toronto-construction-leftovers-pop-up-public-space-designboom-8.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "sharp kayak folds aluminum sheet into unsinkable hull with cork seat",
+      "url": "https://www.designboom.com/technology/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat/",
+      "excerpt": "born beside the lakes of france’s morvan region, the metallic kayak turns a newly acquired press brake into an excuse to get on the water.\nThe post sharp kayak folds aluminum sheet into unsinkable hul",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat-designboom-1.jpeg",
       "today": true
     },
     {
@@ -206,6 +256,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
+      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
+      "excerpt": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materials, and a rejection of excess and industry. Its influence i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7487/4ea2/e401/8926/6720/large_jpg/the-enduring-ethics-of-the-arts-and-crafts-movement_1.jpg?1785492621",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -216,13 +276,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "saint of athens reimagines byzantine iconography with black-and-white frescoes in mykonos",
-      "url": "https://www.designboom.com/architecture/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel/",
-      "excerpt": "black-and-white frescoes inside kalesma hotel’s chapel combine orthodox tradition with a contemporary graphic language.\nThe post saint of athens reimagines byzantine iconography with black-and-white f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel-designboom-1200.jpg",
+      "title": "Shenzhen Bay Culture Square / MAD Architects",
+      "url": "https://www.archdaily.com/1182220/shenzhen-bay-culture-square-mad-architects",
+      "excerpt": "Shenzhen Bay Culture Square sits at the heart of Houhai, Nanshan District, Shenzhen — the innovation core and headquarters hub of the Greater Bay Area. On one side rises a dense cluster of skyscrapers",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/c492/eb02/9f01/882a/2226/large_jpg/shenzhen-bay-culture-square-mad-architects_26.jpg?1785906348",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "The Türkiye Pavilion Examines Reuse and Memory Through \"Spolia Futures\" at the 2027 Venice Architecture Biennale",
+      "url": "https://www.archdaily.com/1182223/the-turkiye-pavilion-examines-reuse-and-memory-through-spolia-futures-at-the-2027-venice-architecture-biennale",
+      "excerpt": "The Türkiye Pavilion has announced \"Spolia Futures\" as its official exhibition for the 20th International Architecture Exhibition of La Biennale di Venezia, which will take place from May 8 to Novembe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/efe2/4460/0501/896d/03ec/large_jpg/the-turkiye-pavilion-examines-reuse-and-memory-through-spolia-futures-at-the-2027-venice-architecture-biennale_1.jpg?1785917440",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Mösli School Ostermundigen / Fiechter Salzmann",
+      "url": "https://www.archdaily.com/1182305/mosli-school-ostermundigen-fiechter-salzmann",
+      "excerpt": "The listed Mösli School Complex is characterized by a clear orthogonal structure and is set within a generous, tree-lined landscape on the northern edge of Ostermundigen. Four compact pavilion buildin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/4f73/eee6/f800/0125/f639/large_jpg/fiechtersalzmann_aussen1.jpg?1786007438",
       "today": true
     },
     {
@@ -255,56 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Community Architecture in Brazil: 4 Projects for Social Transformation",
-      "url": "https://www.archdaily.com/1182409/community-architecture-in-brazil-4-projects-for-social-transformation",
-      "excerpt": "In 2021, the IBGE (Brazilian Institute of Geography and Statistics) released a survey regarding the number of cultural and social facilities in Brazil's cities. The findings were alarming: only 29.6% ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/9f55/4ea2/e401/8926/68e2/large_jpg/arquitetura-comunitaria-no-brasil-4-projetos-de-transformacao-social_16.jpg?1785503590",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Ukigumo - Floating Clouds Residence / Ukei Shimada Architects",
-      "url": "https://www.archdaily.com/1182342/ukigumo-floating-clouds-residence-ukei-shimada-architects",
-      "excerpt": "The site sits within a neighborhood where houses continue block after block. Here, in Suginami Ward, Tokyo, I had the opportunity to design my own house. What does it mean to create a rich dwelling wi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/ba54/ab59/ca15/5fd0/d184/large_jpg/ukigumo-floating-clouds_2.jpg?1786034861",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Babylonia Residence / FMD Architects",
-      "url": "https://www.archdaily.com/1182334/babylonia-residence-fmd-architects",
-      "excerpt": "Responding directly to its sloping suburban site in Melbourne's established north-east, Babylonia draws inspiration from the site's elevated rear garden, establishing parallels to the Hanging Gardens ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/9fa1/5c0b/ae01/8ae4/b7a1/large_jpg/babylonia-residence-fmd-architects_3.jpg?1786027988",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "BANSHAN1994 Commune / Office Canopy of Architecture",
-      "url": "https://www.archdaily.com/1041835/banshan1994-commune-office-canopy-of-architecture",
-      "excerpt": "Constructing a New \"Locality\" — As China's urbanization enters its \"second half,\" the revitalization of underutilized assets has become an inevitable challenge for governments, developers, and designe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a14/59bb/fd52/9201/89f2/241c/large_jpg/banshan1994-commune-office-canopy-of-architecture_10.jpg?1779718647",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "split-level timber house organizes layered interiors around japanese forest landscape",
-      "url": "https://www.designboom.com/architecture/split-level-timber-house-layered-interiors-japanese-forest-landscape-morimado-house-yosuke-tomiya/",
-      "excerpt": "rather than treating the forest as a backdrop, the project was conceived to make it an essential part of everyday living.\nThe post split-level timber house organizes layered interiors around japanese ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/morimado-house-yosuke-tomiya-hokkaido-japan-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
@@ -322,26 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
       "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "The story behind our shape-shifting September Style Issue cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/629Ep9fk3XDADutETcrfY-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "This Paros house is a Greek summer daydream",
-      "url": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
-      "excerpt": "Equipped with blue shutters and white-washed plaster, Paros house Villa Sol Mare is a dreamy restored Cycladic island home",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/es6H3UzwfKZQMZBdZtkVxT-2560-80.jpg",
       "today": false
     },
     {
