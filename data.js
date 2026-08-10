@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  21:36",
+  "fetchedAt": "2026.08.10  22:31",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "sanyonews.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "kisspress.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,42 +37,46 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -92,7 +96,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.10",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.10",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -140,13 +153,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.10",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "recessed-roof house in bangkok centers living around planted courtyard",
+      "url": "https://www.designboom.com/architecture/recessed-roof-house-bangkok-living-planted-courtyard-anonym-studio-bhoon/",
+      "excerpt": "the central courtyard provides a shared landscape between the two, old and new, residences.\nThe post recessed-roof house in bangkok centers living around planted courtyard appeared first on designboom",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/401322/2026-08-10/bhoon-house-1-6a797ac86c0d2.jpg",
       "today": true
     },
     {
@@ -186,6 +209,16 @@ window.LUMINO_DATA = {
       "title": "GO'C creates multi-use artist building for secluded Washington island",
       "url": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
       "excerpt": "Stained cedar planks wrap a small building in the Pacific Northwest that Seattle architecture studio GO'C created for arts foundation Iolair as a gallery and live-work space for an artist-in-residence",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Patrimonium Headquarters / Gustavo Penna Arquiteto e Associados",
+      "url": "https://www.archdaily.com/1182428/patrimonium-headquarters-gustavo-penna-arquiteto-e-associados",
+      "excerpt": "In a new part of Lagoa da Prata, Minas Gerais, the headquarters of Patrimonium occupies a corner and meets the horizon. Completed in 2024, the 1,883.72 m² building welcomes a team of approximately 200",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/eb25/3cf9/6c00/0177/ff01/large_jpg/GPAA_Patrimonium_16_Jomar_Braganca.jpg?1786112845",
       "today": true
     },
     {
@@ -322,26 +355,6 @@ window.LUMINO_DATA = {
       "title": "Realistic AI architectural renderings must be labelled under EU AI Act",
       "url": "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
       "excerpt": "Artists and companies publishing realistic AI-generated architectural renderings in the European Union without labelling risk being fined under provisions in the EU AI Act that came into force last we",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Architecture of Life",
-      "url": "https://www.archdaily.com/1182478/architecture-of-life",
-      "excerpt": "What is the purpose of architecture? How may it enrich human life and collectivity?\nArchitecture of Life is the first English-language essay collection from the world-renowned architectural duo known ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/c1d2/3cf9/6c00/0178/0256/large_jpg/grid.jpg?1786364376",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "what we learned: PLAY",
-      "url": "https://www.designboom.com/design/what-we-learned-play/",
-      "excerpt": "pleasure, curiosity and uncertainty reveal how design can create space for freedom, participation and unexpected ways of experiencing the world.\nThe post what we learned: PLAY appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest-designboom-01.jpg",
       "today": true
     },
     {
