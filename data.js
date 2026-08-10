@@ -1,40 +1,197 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  07:22",
+  "fetchedAt": "2026.08.10  09:13",
   "sourceColors": {
-    "designboom": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "designboom": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Dezeen": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.10",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.10",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "what we learned: PLAY",
+      "url": "https://www.designboom.com/design/what-we-learned-play/",
+      "excerpt": "pleasure, curiosity and uncertainty reveal how design can create space for freedom, participation and unexpected ways of experiencing the world.\nThe post what we learned: PLAY appeared first on design",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-kraft-limited-schoolyard-space-vertical-play-garden-budapest-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "paola pivi on why we can no longer play",
+      "url": "https://www.designboom.com/art/paola-pivi-play-essay/",
+      "excerpt": "the artist considers play as a form of freedom, and asks what we lose when we can no longer experiment without being watched.\nThe post paola pivi on why we can no longer play appeared first on designb",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/paola-pivi-play-essay-designboom-1200-1.jpg",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -78,6 +235,36 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.10",
+      "title": "Community Architecture in Brazil: 4 Projects for Social Transformation",
+      "url": "https://www.archdaily.com/1182409/community-architecture-in-brazil-4-projects-for-social-transformation",
+      "excerpt": "In 2021, the IBGE (Brazilian Institute of Geography and Statistics) released a survey regarding the number of cultural and social facilities in Brazil's cities. The findings were alarming: only 29.6% ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/9f55/4ea2/e401/8926/68e2/large_jpg/arquitetura-comunitaria-no-brasil-4-projetos-de-transformacao-social_16.jpg?1785503590",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Ukigumo - Floating Clouds Residence / Ukei Shimada Architects",
+      "url": "https://www.archdaily.com/1182342/ukigumo-floating-clouds-residence-ukei-shimada-architects",
+      "excerpt": "The site sits within a neighborhood where houses continue block after block. Here, in Suginami Ward, Tokyo, I had the opportunity to design my own house. What does it mean to create a rich dwelling wi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/ba54/ab59/ca15/5fd0/d184/large_jpg/ukigumo-floating-clouds_2.jpg?1786034861",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Babylonia Residence / FMD Architects",
+      "url": "https://www.archdaily.com/1182334/babylonia-residence-fmd-architects",
+      "excerpt": "Responding directly to its sloping suburban site in Melbourne's established north-east, Babylonia draws inspiration from the site's elevated rear garden, establishing parallels to the Hanging Gardens ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/9fa1/5c0b/ae01/8ae4/b7a1/large_jpg/babylonia-residence-fmd-architects_3.jpg?1786027988",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
       "title": "BANSHAN1994 Commune / Office Canopy of Architecture",
       "url": "https://www.archdaily.com/1041835/banshan1994-commune-office-canopy-of-architecture",
       "excerpt": "Constructing a New \"Locality\" — As China's urbanization enters its \"second half,\" the revitalization of underutilized assets has become an inevitable challenge for governments, developers, and designe",
@@ -92,36 +279,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182418/casaviva-residence-shroffleon",
       "excerpt": "Conceived as a dialogue between architecture and landscape, CASAVIVA transforms the house into a sequence of spaces where nature becomes an integral part of everyday life.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/dc7e/3cf9/6c00/0177/fe6c/large_jpg/Shroff_Leon_Alibag-3.jpg?1786110544",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Moment Residence / APOLLO Architects & Associates",
-      "url": "https://www.archdaily.com/1182183/moment-residence-apollo-architects-and-associates",
-      "excerpt": "Perched atop a rise on a sloping street within a quiet residential neighborhood, Moment is surrounded by a retaining wall and perimeter enclosure that conceal the interior from the street below, ensur",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/66ce/ff86/6b01/8bf0/e05e/large_jpg/moment-residence-apollo-architects-and-associates_13.jpg?1786013444",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Rayón 376 Terrace / Eduardo Garretti studio",
-      "url": "https://www.archdaily.com/1182280/rayon-376-terrace-eduardo-garretti-studio",
-      "excerpt": "This project is located in the iconic Colonia Americana neighborhood. Inside a house dating from the early 20th century, architects Aureliano Alejos and Leonora Castorena developed an intervention tha",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/48d8/5b21/b900/0199/2f62/large_jpg/Copia_de_0E9A8147.jpg?1785940257",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Medellín Children's Playground Network: Tejiendo Hogares / Juguemos en el Parque / Alcaldía de Medellín",
-      "url": "https://www.archdaily.com/1182445/medellin-childrens-playground-network-weaving-homes-lets-play-in-the-park-mayors-office-of-medellin",
-      "excerpt": "The lack of play environments in the peripheral neighborhoods of Medellín has limited opportunities for recreation and family gatherings. Moreover, the scarcity of natural soil and permeable surfaces ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/d8b8/3cf9/6c00/0177/fe43/large_jpg/PARQUE_BELLO_HORIZONTE_1_-_Israel_Restrepo_Naranjo.jpg?1786108102",
       "today": false
     },
     {
@@ -166,16 +323,6 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.09",
       "title": "The story behind our shape-shifting September Style Issue cover shoot",
       "url": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
       "excerpt": "Model Aylah Peterson adopts a series of personae in the A/W 2026 collections for the cover of Wallpaper’s September Issue – an homage to a season of transformative looks",
@@ -183,13 +330,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
+      "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "frank kunert’s miniature worlds bend the logic of familiar architecture",
-      "url": "https://www.designboom.com/art/frank-kunert-miniature-worlds-bend-logic-familiar-architecture-photography/",
-      "excerpt": "using scale to loosen the rules of the built world, hand-built miniature sets turn familiar architecture slightly absurd.\nThe post frank kunert’s miniature worlds bend the logic of familiar architectu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frank-kunert-miniature-architecture-photography-designboom-FB.jpg",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": false
     },
     {
@@ -209,16 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
       "excerpt": "Equipped with blue shutters and white-washed plaster, Paros house Villa Sol Mare is a dreamy restored Cycladic island home",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/es6H3UzwfKZQMZBdZtkVxT-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "before calder’s mobiles, this mini circus brought his wire figures to life in paris",
-      "url": "https://www.designboom.com/art/before-mobiles-calder-circus-brought-wire-figures-to-life/",
-      "excerpt": "lions, tigers, acrobats and balloons, costumed and created to fit in a suitcase, make up one of alexander calder's foundational works in play and wire. \nThe post before calder’s mobiles, this mini cir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/calder-circus-flv-designboom-07.jpg",
       "today": false
     },
     {
@@ -298,6 +435,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -387,6 +534,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
