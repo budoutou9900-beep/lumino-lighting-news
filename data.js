@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  17:47",
+  "fetchedAt": "2026.08.10  18:48",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "kisspress.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "kisspress.jp": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -130,6 +130,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "kisspress.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.10",
@@ -140,13 +150,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "title": "GO'C creates multi-use artist building for secluded Washington island",
+      "url": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
+      "excerpt": "Stained cedar planks wrap a small building in the Pacific Northwest that Seattle architecture studio GO'C created for arts foundation Iolair as a gallery and live-work space for an artist-in-residence",
       "today": true
     },
     {
@@ -303,15 +312,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182469/call-for-application",
       "excerpt": "The AA Visiting School Samarkand, Imagined Skies, takes place at the Observatory of Ulugbek, a machine built to observe the sky, serves as a departure point for participants to engage with broader iss",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/b975/3cf9/6c00/0178/01a8/large_jpg/Post_3.jpg?1786362260",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "RTA Studio designs mass-timber groundscraper in Auckland as \"continuous ribbon\"",
-      "url": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
-      "excerpt": "Local architecture firm RTA Studio has completed a curve-edged office building in Auckland, New Zealand, built from a diagrid structure of locally grown timber. Situated within a regenerated wetland, ",
       "today": true
     },
     {
