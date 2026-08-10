@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  18:48",
+  "fetchedAt": "2026.08.10  19:51",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,27 +21,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "kisspress.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "kisspress.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -89,6 +89,16 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -130,6 +140,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.10",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
       "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.10",
@@ -140,13 +160,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.10",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "title": "1970s Italian design is having a moment: here are this year's best reissues",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues",
+      "excerpt": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2Ao3ye2X6mu37RdMgYNNx-1920-80.png",
       "today": true
     },
     {
@@ -199,6 +219,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Casa Limoneros / Quaterna Arquitectos",
+      "url": "https://www.archdaily.com/1182410/casa-limoneros",
+      "excerpt": "Casa Limoneros draws from the vernacular architecture of Valle de Bravo through a contemporary interpretation. Its pitched, clay-tiled roofs recall the region's distinctive building tradition, while t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/d4bb/ab59/ca01/8994/3c9e/large_jpg/casa-limoneros_4.jpg?1786107167",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -221,20 +251,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.10",
+      "title": "V+M House / Solange Cálio Arquitetos",
+      "url": "https://www.archdaily.com/1182486/v-plus-m-house-solange-calio-arquitetos",
+      "excerpt": "Located in São José do Rio Preto, in the interior of São Paulo, this 680 m² (7,320 sq ft) residence was designed by Solange Cálio Arquitetos for a couple of doctors and their two daughters, accommodat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/17e1/ac8b/af01/892c/b553/large_jpg/casa-v-plus-m-solange-calio-arquitetos_22.jpg?1786124320",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
       "title": "Fronton court and multi-purpose space Maeztu Basque Pelota Court / Verne Arquitectura",
       "url": "https://www.archdaily.com/1040533/maeztu-basque-pelota-court-verne-arquitectura",
       "excerpt": "The project consists of the design of a frontón (Basque pelota court) and multi-purpose spaces in Aguilar de Codés, a medieval town in Navarre. The proposal seeks to integrate the building into its su",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69d8/da04/87e3/da00/01ef/b566/large_jpg/AGUILAR_HD-34_share.jpg?1775819455",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "This modular timber home by Hoyer Arkitektur is the perfect bolthole to take in Danish nature",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/hoyer-arkitektur-denmark",
-      "excerpt": "Hoyer Arkitektur, a young practice based in Denmark, features in the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YLo535HYGRQc8AW6jMbSSg-2560-80.jpg",
       "today": true
     },
     {
@@ -305,16 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Call for Application",
-      "url": "https://www.archdaily.com/1182469/call-for-application",
-      "excerpt": "The AA Visiting School Samarkand, Imagined Skies, takes place at the Observatory of Ulugbek, a machine built to observe the sky, serves as a departure point for participants to engage with broader iss",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/b975/3cf9/6c00/0178/01a8/large_jpg/Post_3.jpg?1786362260",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -332,16 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/paola-pivi-play-essay/",
       "excerpt": "the artist considers play as a form of freedom, and asks what we lose when we can no longer experiment without being watched.\nThe post paola pivi on why we can no longer play appeared first on designb",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/paola-pivi-play-essay-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
-      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
-      "excerpt": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materials, and a rejection of excess and industry. Its influence i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7487/4ea2/e401/8926/6720/large_jpg/the-enduring-ethics-of-the-arts-and-crafts-movement_1.jpg?1785492621",
       "today": true
     },
     {
