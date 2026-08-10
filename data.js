@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  09:13",
+  "fetchedAt": "2026.08.10  11:02",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,33 +45,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -93,25 +89,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.10",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -173,6 +150,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Habitat Collaborative threads curved school in India through tree-filled site",
+      "url": "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
+      "excerpt": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collective. Commissioned by a loca",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Elon Musk reveals plans for world's largest building",
+      "url": "https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/",
+      "excerpt": "Elon Musk's companies SpaceX and Tesla have announced plans to collaborate on a chip-building factory in Texas named Terafab, which will measure over 100 million square feet and is expected to become ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Realistic AI architectural renderings must be labelled under EU AI Act",
+      "url": "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
+      "excerpt": "Artists and companies publishing realistic AI-generated architectural renderings in the European Union without labelling risk being fined under provisions in the EU AI Act that came into force last we",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "RTA Studio designs mass-timber groundscraper in Auckland as \"continuous ribbon\"",
+      "url": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
+      "excerpt": "Local architecture firm RTA Studio has completed a curve-edged office building in Auckland, New Zealand, built from a diagrid structure of locally grown timber. Situated within a regenerated wetland, ",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -210,6 +223,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel/",
       "excerpt": "black-and-white frescoes inside kalesma hotel’s chapel combine orthodox tradition with a contemporary graphic language.\nThe post saint of athens reimagines byzantine iconography with black-and-white f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "On International Day of the World's Indigenous Peoples: Toward a Deeper Understanding of Ancestral Constructive Culture",
+      "url": "https://www.archdaily.com/1182448/on-international-day-of-the-worlds-indigenous-peoples-toward-a-deeper-understanding-of-ancestral-constructive-culture",
+      "excerpt": "Every year on August 9, and since 1994, UNESCO has commemorated the International Day of the World's Indigenous Peoples. The United Nations has not yet adopted an official definition for the term 'Ind",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a78/ee5b/ab59/ca01/8994/4033/large_jpg/on-international-day-of-the-worlds-indigenous-peoples_1.jpg?1786310250",
       "today": true
     },
     {
@@ -272,16 +295,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "CASAVIVA Residence / SHROFFLEóN",
-      "url": "https://www.archdaily.com/1182418/casaviva-residence-shroffleon",
-      "excerpt": "Conceived as a dialogue between architecture and landscape, CASAVIVA transforms the house into a sequence of spaces where nature becomes an integral part of everyday life.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/dc7e/3cf9/6c00/0177/fe6c/large_jpg/Shroff_Leon_Alibag-3.jpg?1786110544",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.09",
@@ -302,21 +315,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
+      "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Crystal-shaped sauna rises from former industrial site in Sweden",
-      "url": "https://www.dezeen.com/2026/08/09/lithium-crystal-sauna-bigert-bergstrom/",
-      "excerpt": "Stockholm-based artist duo Bigert & Bergström has created a pink crystal-shaped sauna on a remediated industrial site in Skellefteå, northern Sweden. Named Lithium Crystal Sauna, it is the first perma",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Eight interiors where picture windows frame picture-perfect views",
-      "url": "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
-      "excerpt": "This lookbook collates eight bedrooms and living spaces where slim-framed picture windows help landscapes become art. A picture window is square or rectangular in shape, lacks transoms or crossbeams o",
+      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
+      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
       "today": false
     },
     {
@@ -333,38 +338,10 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "I IN clads Human Made store in handcrafted Korean celadon tiles with \"powerful presence\"",
-      "url": "https://www.dezeen.com/2026/08/09/i-in-human-made-store-korean-celadon-tiles/",
-      "excerpt": "Tokyo studio I IN combined handcrafted tiles with an industrial-style gridded ceiling and playful animal sculptures in a store for designer Nigo's Human Made brand in Seoul's Lotte Mall Jamsil. The li",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.09",
       "title": "This Paros house is a Greek summer daydream",
       "url": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
       "excerpt": "Equipped with blue shutters and white-washed plaster, Paros house Villa Sol Mare is a dreamy restored Cycladic island home",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/es6H3UzwfKZQMZBdZtkVxT-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.08",
-      "title": "Cyro Arquitetura designs \"white noise\" apartment in São Paulo",
-      "url": "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
-      "excerpt": "São Paulo studio Cyro Arquitetura has created a temporary studio apartment for the city's Casacor 2026 exhibition, designed to remove distractions and promote focus. Inside an existing building in the",
       "today": false
     },
     {
