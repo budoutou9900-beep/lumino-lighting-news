@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  20:35",
+  "fetchedAt": "2026.08.10  21:36",
   "sourceColors": {
     "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,41 +37,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -93,15 +89,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.10",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -163,6 +150,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "For artist Alec Doherty, diamond rings aren't just for special occasions",
+      "url": "https://www.wallpaper.com/watches-jewellery/alex-doherty-ceremony-diamond-rings",
+      "excerpt": "In a new six-piece fine jewellery collection, Alec Doherty celebrates the everyday",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UnbhTPdqvcR3QpTmZKJWug.gif",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -219,16 +216,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/nothing-design-team-interview",
       "excerpt": "Newer products from Nothing have opened up a new palette for the London-based tech manufacturer. Wallpaper* talked colour and creativity with the company’s design team",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tJ4iixHfizK8KmEKi2vXvc-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Tilda Swinton and Olivier Saillard are reinventing the fashion exhibition",
-      "url": "https://www.wallpaper.com/art/tilda-swinton-olivier-saillard-living-exhibitions",
-      "excerpt": "Their performances sit somewhere between theatre, installation and museum piece. Ahead of new works in Athens and beyond, the pair reflect on 14 years of joyful collaboration and share why clothing de",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HgLuu8GE6BPuzkGwAoEWZ5-2000-80.jpg",
       "today": true
     },
     {
