@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  15:55",
+  "fetchedAt": "2026.08.10  16:48",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -160,6 +160,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "OGA transform a tricky North London site into a private sanctuary that blends old and new",
+      "url": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
+      "excerpt": "The Cottage Annexe is a considered response to an awkward site in Finsbury Park, resulting in an elegant mid-century inspired courtyard house",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UjgJaqyjwDcvsJ6ZD7iLWg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Nothing’s design team give us the lowdown on the tech firm’s evolving use of colour",
+      "url": "https://www.wallpaper.com/tech/nothing-design-team-interview",
+      "excerpt": "Newer products from Nothing have opened up a new palette for the London-based tech manufacturer. Wallpaper* talked colour and creativity with the company’s design team",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tJ4iixHfizK8KmEKi2vXvc-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Tilda Swinton and Olivier Saillard are reinventing the fashion exhibition",
+      "url": "https://www.wallpaper.com/art/tilda-swinton-olivier-saillard-living-exhibitions",
+      "excerpt": "Their performances sit somewhere between theatre, installation and museum piece. Ahead of new works in Athens and beyond, the pair reflect on 14 years of joyful collaboration and share why clothing de",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HgLuu8GE6BPuzkGwAoEWZ5-2000-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -176,6 +206,16 @@ window.LUMINO_DATA = {
       "title": "Satyress designs centaur-like robot to give workers \"superpowers\" for dangerous jobs",
       "url": "https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/",
       "excerpt": "California start-up Satyress has unveiled its Threehalves robot, a teleoperated centaur-like humanoid designed to aid humans doing dangerous jobs that expose them to injury, death or extreme condition",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Fronton court and multi-purpose space Maeztu Basque Pelota Court / Verne Arquitectura",
+      "url": "https://www.archdaily.com/1040533/maeztu-basque-pelota-court-verne-arquitectura",
+      "excerpt": "The project consists of the design of a frontón (Basque pelota court) and multi-purpose spaces in Aguilar de Codés, a medieval town in Navarre. The proposal seeks to integrate the building into its su",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69d8/da04/87e3/da00/01ef/b566/large_jpg/AGUILAR_HD-34_share.jpg?1775819455",
       "today": true
     },
     {
@@ -313,46 +353,6 @@ window.LUMINO_DATA = {
       "excerpt": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materials, and a rejection of excess and industry. Its influence i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7487/4ea2/e401/8926/6720/large_jpg/the-enduring-ethics-of-the-arts-and-crafts-movement_1.jpg?1785492621",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Shenzhen Bay Culture Square / MAD Architects",
-      "url": "https://www.archdaily.com/1182220/shenzhen-bay-culture-square-mad-architects",
-      "excerpt": "Shenzhen Bay Culture Square sits at the heart of Houhai, Nanshan District, Shenzhen — the innovation core and headquarters hub of the Greater Bay Area. On one side rises a dense cluster of skyscrapers",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/c492/eb02/9f01/882a/2226/large_jpg/shenzhen-bay-culture-square-mad-architects_26.jpg?1785906348",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "A Chinese house by Various Associates is a delicate balance of beautiful cross-generational living",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/various-associates-china",
-      "excerpt": "Various Associates, a young practice based in China, features in the Wallpaper* Architects Directory 2026 - we highlight its residential project, Gong's House",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7WfyTzLAAjmYw66G6dMhES-1416-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Wallpaper* checks in to the Hyatt Regency London Olympia, set within the city’s new cultural hub",
-      "url": "https://www.wallpaper.com/travel/hotels/hyatt-regency-london-olympia-review",
-      "excerpt": "Located in an old 1930s car park, the new hotel outpost merges 20th-century industrial aesthetics with Art Deco influences",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cshnx4mQ68Fx6gF5ApSRL7-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.09",
-      "title": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy",
-      "excerpt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yek7btMjfndJkPQ67tvKqg-1600-80.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
