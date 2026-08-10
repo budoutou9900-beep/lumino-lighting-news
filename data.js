@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  16:48",
+  "fetchedAt": "2026.08.10  17:47",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "kisspress.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -95,16 +95,6 @@ window.LUMINO_DATA = {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.10",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -143,20 +133,30 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.10",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.10",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "The Bentley Continental GT S retains its title as the ultimate long-distance machine",
+      "url": "https://www.wallpaper.com/transportation/bentley-continental-gt-s-review",
+      "excerpt": "Bentley blends tech with tradition to hone its legendary coupé into an all-time classic luxury grand tourer, with price tags to match",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/juRjYtjEaNevvqVen2MgbA-2560-80.jpg",
       "today": true
     },
     {
@@ -226,16 +226,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/hoyer-arkitektur-denmark",
       "excerpt": "Hoyer Arkitektur, a young practice based in Denmark, features in the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YLo535HYGRQc8AW6jMbSSg-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Hermès’ Pierre-Alexis Dumas on curating the house’s breathtaking new London outpost",
-      "url": "https://www.wallpaper.com/fashion-beauty/hermes-london-maison-pierre-alexis-dumas-interview",
-      "excerpt": "Hermès’ latest Maison, on London’s New Bond Street, offers a labyrinth of unique artworks and objects, custom-selected by the house’s artistic director, Pierre-Alexis Dumas",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6gPcQBQseRn7dw3ZbBzvfB-2000-80.jpg",
       "today": true
     },
     {
