@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  14:16",
+  "fetchedAt": "2026.08.11  15:56",
   "sourceColors": {
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -53,26 +53,18 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "岩崎電気": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -92,7 +84,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -147,6 +139,25 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "iridescent metal and textured plaster shape rikky hype showroom in kyiv",
+      "url": "https://www.designboom.com/architecture/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype/",
+      "excerpt": "material contrasts define the visual language of the showroom, designed by temp project.\nThe post iridescent metal and textured plaster shape rikky hype showroom in kyiv appeared first on designboom |",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "\"In Canada, design still receives remarkably little recognition\"",
+      "url": "https://www.dezeen.com/2026/08/11/canadian-design-thom-fougere-24-sussex-opinion/",
+      "excerpt": "The Canadian government's plan to restore the prime minister's residence in Ottawa highlights the chronic under-appreciation of Canadian design and its potential as a source of national pride, writes ",
       "today": true
     },
     {
@@ -247,16 +258,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "deroche projects turns accra community garden into a productive public landscape",
-      "url": "https://www.designboom.com/architecture/deroche-projects-accra-community-garden-productive-public-landscape/",
-      "excerpt": "backyard community garden in osu combines rammed earth, edible planting, rainwater harvesting and west african agricultural grids.\nThe post deroche projects turns accra community garden into a product",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/deroche-projects-accra-community-garden-productive-public-landscape-DESIGNBOOM-5.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -336,15 +337,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Kim Kardashian unveils nude-hued SKIMS London flagship store",
-      "url": "https://www.dezeen.com/2026/08/11/kim-kardashian-nude-hued-skims-london-flagship-store/",
-      "excerpt": "Kim Kardashian has opened the London flagship branch of her apparel brand SKIMS, featuring voluptuous interiors by New York studio Rafael de Cárdenas. The store is characterised by the fleshy tones th",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.07",
@@ -412,16 +404,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -511,16 +493,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
