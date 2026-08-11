@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  06:57",
+  "fetchedAt": "2026.08.11  08:08",
   "sourceColors": {
     "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "レッツエンジョイ東京": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "レッツエンジョイ東京": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -89,6 +93,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.11",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -163,6 +176,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
+      "title": "This optometrist's office is designed as an imaginary world",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/optometrist-office-australia-wink-brud-studia",
+      "excerpt": "Brud Studia designed the Australian optometrist office, which steps away from behaving like a traditional retail space and instead is inspired by a fictional character who wants you to make yourself a",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RwZKNkhTE99f5SyaXPvSpG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.11",
       "title": "A tiny house in Ecuador exemplifies Diana Salvador's eco-sensitive architecture",
       "url": "https://www.wallpaper.com/architecture/architects-directory/diana-salvador-ecuador",
       "excerpt": "Diana Salvador, an emerging Ecuadorian architect and her studio feature in the Wallpaper* Architects Directory 2026",
@@ -177,6 +200,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/hair/funner-hair-brand",
       "excerpt": "With bottle design by M/M (Paris), a campaign by Jamie Hawkesworth and industry-expert founders, Funner marries playful aesthetics with salon-level formulations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3kZRTX2SXkH4EVPHTDFfFR-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Craft in the Age of 3D-Printed Earth: Can Digital Tools Create a New Kind of Artisan?",
+      "url": "https://www.archdaily.com/1182056/craft-in-the-age-of-3d-printed-earth-can-digital-tools-create-a-new-kind-of-artisan",
+      "excerpt": "In 2021, a collaboration between the Italian architecture studio Mario Cucinella Architects and WASP, an Italian 3D-printing company, led to the development of TECLA: a house 3D-printed entirely from ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6f/b5e0/0364/d201/89e9/7c77/large_jpg/craft-in-the-age-of-3d-printed-earth-can-digital-tools-create-a-new-kind-of-artisan_2.jpg?1785706065",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Machan - Korail Community Platform / Paraa",
+      "url": "https://www.archdaily.com/1182488/machan-korail-community-platform-paraa",
+      "excerpt": "Machan, meaning 'platform' in Bangla, captures its essence: a platform or structure that supports and connects. It stands at Ershad Maidan, one of Korail's few open spaces. Paraa worked with Korail's ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/dedb/ac8b/af01/892c/b8c0/large_jpg/machan-community-facility-paraa_21.jpg?1786371854",
       "today": true
     },
     {
@@ -256,36 +299,6 @@ window.LUMINO_DATA = {
       "title": "GO'C creates multi-use artist building for secluded Washington island",
       "url": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
       "excerpt": "Stained cedar planks wrap a small building in the Pacific Northwest that Seattle architecture studio GO'C created for arts foundation Iolair as a gallery and live-work space for an artist-in-residence",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Patrimonium Headquarters / Gustavo Penna Arquiteto e Associados",
-      "url": "https://www.archdaily.com/1182428/patrimonium-headquarters-gustavo-penna-arquiteto-e-associados",
-      "excerpt": "In a new part of Lagoa da Prata, Minas Gerais, the headquarters of Patrimonium occupies a corner and meets the horizon. Completed in 2024, the 1,883.72 m² building welcomes a team of approximately 200",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/eb25/3cf9/6c00/0177/ff01/large_jpg/GPAA_Patrimonium_16_Jomar_Braganca.jpg?1786112845",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "The Bentley Continental GT S retains its title as the ultimate long-distance machine",
-      "url": "https://www.wallpaper.com/transportation/bentley-continental-gt-s-review",
-      "excerpt": "Bentley blends tech with tradition to hone its legendary coupé into an all-time classic luxury grand tourer, with price tags to match",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/juRjYtjEaNevvqVen2MgbA-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Casa Limoneros / Quaterna Arquitectos",
-      "url": "https://www.archdaily.com/1182410/casa-limoneros",
-      "excerpt": "Casa Limoneros draws from the vernacular architecture of Valle de Bravo through a contemporary interpretation. Its pitched, clay-tiled roofs recall the region's distinctive building tradition, while t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/d4bb/ab59/ca01/8994/3c9e/large_jpg/casa-limoneros_4.jpg?1786107167",
       "today": false
     },
     {
