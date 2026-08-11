@@ -1,90 +1,76 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  08:08",
+  "fetchedAt": "2026.08.11  09:55",
   "sourceColors": {
-    "倉敷経済新聞": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
-    {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.11",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
     {
       "source": "chunichi.co.jp",
       "cat": "国内情報",
@@ -96,12 +82,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
       "date": "2026.08.11",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
       "today": true
     },
     {
@@ -173,6 +160,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Loud Mouth LDN translates Nissan car grills into bespoke grillz",
+      "url": "https://www.dezeen.com/2026/08/11/nissan-loud-mouth-ldn-nissan-car-grills-bespoke-grillz/",
+      "excerpt": "Automotive brand Nissan has collaborated with London-based jewellery studio Loud Mouth LDN to create a series of custom grillz that reimagine Nissan car grills. Designed and crafted by Loud Mouth LDN,",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "deroche projects turns accra community garden into a productive public landscape",
+      "url": "https://www.designboom.com/architecture/deroche-projects-accra-community-garden-productive-public-landscape/",
+      "excerpt": "backyard community garden in osu combines rammed earth, edible planting, rainwater harvesting and west african agricultural grids.\nThe post deroche projects turns accra community garden into a product",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/deroche-projects-accra-community-garden-productive-public-landscape-DESIGNBOOM-5.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "EBBA Architects designs Cup of Joy cafe in Marylebone to \"provide a sense of delight\"",
+      "url": "https://www.dezeen.com/2026/08/11/ebba-architects-cup-of-joy-cafe-marylebone-london/",
+      "excerpt": "Local studio EBBA Architects has designed the first London outpost for Istanbul cafe chain Cup of Joy, using clay plaster, stone and an opaque-glass ceiling to evoke the feeling of being in a courtyar",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -190,6 +205,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/diana-salvador-ecuador",
       "excerpt": "Diana Salvador, an emerging Ecuadorian architect and her studio feature in the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FQqh2Xr2WarnPpGu62gzzN-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Kim Kardashian unveils nude-hued SKIMS London flagship store",
+      "url": "https://www.dezeen.com/2026/08/11/kim-kardashian-nude-hued-skims-london-flagship-store/",
+      "excerpt": "Kim Kardashian has opened the London flagship branch of her apparel brand SKIMS, featuring voluptuous interiors by New York studio Rafael de Cárdenas. The store is characterised by the fleshy tones th",
       "today": true
     },
     {
@@ -308,7 +332,7 @@ window.LUMINO_DATA = {
       "title": "discarded synthetic textiles become porous structural material through heat fusion",
       "url": "https://www.designboom.com/design/discarded-synthetic-textiles-porous-structural-material-heat-fusion-fast-fashion-architecture-taylor-leung/",
       "excerpt": "synthetic garments, textile waste, and factory offcuts are packed into mild-steel cages before heat treatment.\nThe post discarded synthetic textiles become porous structural material through heat fusi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-synthetic-textiles-porous-structural-material-fast-fashion-architecture-taylor-leung-designboom-1200.jpg",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-synthetic-textiles-porous-structural-material-fast-fashion-architecture-taylor-leung-designboom-1200-2.jpg",
       "today": false
     },
     {
@@ -328,43 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gxn-toronto-construction-leftovers-pop-up-public-space/",
       "excerpt": "waterfront neighbourhood space on ookwemin minising uses reclaimed bricks, concrete, timber and urban waste in a fully reversible public installation.\nThe post gxn and ha/f stack toronto’s constructio",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gxn-and-haf-stack-torontos-construction-leftovers-into-pop-up-public-space.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "sharp kayak folds aluminum sheet into unsinkable hull with cork seat",
-      "url": "https://www.designboom.com/technology/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat/",
-      "excerpt": "born beside the lakes of france’s morvan region, the metallic kayak turns a newly acquired press brake into an excuse to get on the water.\nThe post sharp kayak folds aluminum sheet into unsinkable hul",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat-designboom-1.jpeg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Habitat Collaborative threads curved school in India through tree-filled site",
-      "url": "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
-      "excerpt": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collaborative. Commissioned by a l",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Elon Musk reveals plans for world's largest building",
-      "url": "https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/",
-      "excerpt": "Elon Musk's companies SpaceX and Tesla have announced plans to collaborate on a chip-building factory in Texas named Terafab, which will measure over 100 million square feet and is expected to become ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Realistic AI architectural renderings must be labelled under EU AI Act",
-      "url": "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
-      "excerpt": "Artists and companies publishing realistic AI-generated architectural renderings in the European Union without labelling risk being fined under provisions in the EU AI Act that came into force last we",
       "today": false
     },
     {
