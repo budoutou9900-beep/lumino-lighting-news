@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  19:58",
+  "fetchedAt": "2026.08.11  20:44",
   "sourceColors": {
     "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "オズモール": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -89,6 +93,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.11",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -188,6 +201,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Water Stories / AR-AR Martínez Arquitectura y Paisaje",
+      "url": "https://www.archdaily.com/1183136/water-stories-ar-ar-martinez-arquitectura-y-paisaje",
+      "excerpt": "Through a landscape project that includes a pair of contemplation shelters, Campano Frío is an initiative to reforest and restore an area of cloud forest. Located in a rural zone of the municipality o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a196/3cf9/6c00/0177/fb4f/large_jpg/0_Caba_a_Aves_exterior_Teodoro_Posada_72.jpg?1786094008",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -213,6 +236,16 @@ window.LUMINO_DATA = {
       "title": "Antao Earth washbasins by KaschKasch and Villeroy & Boch",
       "url": "https://www.dezeen.com/2026/08/11/antao-earth-washbasins-kaschkasch-villeroy-boch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Cologne-based design studio KaschKasch and brand Villeroy & Boch have released a series of hand-glazed, surface-mounted washbasins. Adding to Villeroy & Boch's existing Antao collecti",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Txai Bungalow / TETRO Arquitetura",
+      "url": "https://www.archdaily.com/1183121/txai-bungalow-tetro-arquitetura",
+      "excerpt": "Located in Itacaré, on the southern coast of Bahia, Bungalow Txai occupies a high slope facing the sea. From the site, the view opens nearly 180 degrees over the ocean, rising above the existing palm ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/1eea/3cf9/6c00/0178/042b/large_jpg/IMG_7327_8_9_copiar.jpg?1786388219",
       "today": true
     },
     {
@@ -322,26 +355,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182429/an-architecture-of-collectivity-inside-taller-generals-practice",
       "excerpt": "Founded in Quito in 2017 by Martín Real and Florencia Sobrero, Taller General works across housing, rehabilitation, exhibitions, and community projects. What ties them together is less a type of build",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/fe79/ab59/ca01/8994/3f0e/large_jpg/taller-general-a-studio-that-keeps-rebuilding-itself_17.jpg?1786117759",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "100 Windows House / Inrestudio",
-      "url": "https://www.archdaily.com/1182312/100-windows-house-inrestudio",
-      "excerpt": "100 Windows is a residence for two generations and three households — a parent couple and the families of their two sons — sharing a single building. The site lies along a river in the suburbs of Hano",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/58f1/eee6/f800/0125/f6ba/large_jpg/Ph04_Exterior__Trieu_Chien.jpg?1786009865",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "How Design Presentation Is Evolving Into a Live Decision-Making Space",
-      "url": "https://www.archdaily.com/1181319/how-design-presentation-is-evolving-into-a-live-decision-making-space",
-      "excerpt": "For years, advances in architectural visualization have been measured by image quality. Physically accurate lighting, sophisticated material systems, and real-time rendering have made photorealistic i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/6fde/3d21/f701/89c9/3508/large_jpg/_6.jpg?1784573956",
       "today": true
     },
     {
