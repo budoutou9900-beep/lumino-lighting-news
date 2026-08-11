@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  03:38",
+  "fetchedAt": "2026.08.11  05:01",
   "sourceColors": {
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "enjoytokyo.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,42 +37,46 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -92,7 +96,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "enjoytokyo.jp",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.11",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "豊郷小学校旧校舎群ライトアップ＆イルミネーション2025｜レッツエンジョイ東京",
@@ -121,7 +134,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "enjoytokyo.jp",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -157,6 +170,16 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Is Funner the next cult haircare brand?",
+      "url": "https://www.wallpaper.com/fashion-beauty/hair/funner-hair-brand",
+      "excerpt": "With bottle design by M/M (Paris), a campaign by Jamie Hawkesworth and industry-expert founders, Funner marries playful aesthetics with salon-level formulations",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3kZRTX2SXkH4EVPHTDFfFR-1539-80.jpg",
       "today": true
     },
     {
@@ -246,16 +269,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
       "excerpt": "The Cottage Annexe is a considered response to an awkward site in Finsbury Park, resulting in an elegant mid-century inspired courtyard house",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UjgJaqyjwDcvsJ6ZD7iLWg-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Nothing’s design team give us the lowdown on the tech firm’s evolving use of colour",
-      "url": "https://www.wallpaper.com/tech/nothing-design-team-interview",
-      "excerpt": "Newer products from Nothing have opened up a new palette for the London-based tech manufacturer. Wallpaper* talked colour and creativity with the company’s design team",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tJ4iixHfizK8KmEKi2vXvc-2560-80.jpg",
       "today": false
     },
     {
