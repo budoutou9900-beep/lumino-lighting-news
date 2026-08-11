@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  05:01",
+  "fetchedAt": "2026.08.11  06:57",
   "sourceColors": {
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "レッツエンジョイ東京": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,42 +41,38 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -86,22 +82,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.11",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.11",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -176,10 +163,40 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
+      "title": "A tiny house in Ecuador exemplifies Diana Salvador's eco-sensitive architecture",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/diana-salvador-ecuador",
+      "excerpt": "Diana Salvador, an emerging Ecuadorian architect and her studio feature in the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FQqh2Xr2WarnPpGu62gzzN-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.11",
       "title": "Is Funner the next cult haircare brand?",
       "url": "https://www.wallpaper.com/fashion-beauty/hair/funner-hair-brand",
       "excerpt": "With bottle design by M/M (Paris), a campaign by Jamie Hawkesworth and industry-expert founders, Funner marries playful aesthetics with salon-level formulations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3kZRTX2SXkH4EVPHTDFfFR-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "House in Kinuta /  KENTA HIRAYAMA ARCHITECT & ASSOCIATES",
+      "url": "https://www.archdaily.com/1182330/house-in-kinuta-kenta-hirayama-architect-and-associates",
+      "excerpt": "This is a residential project for a detached house in Kinuta, Setagaya Ward. The street in front of the site was dotted with large Japanese red pine trees and houses from the good old days. From the f",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/8f70/ff86/6b01/8bf0/e10f/large_jpg/house-in-kinuta-kenta-hirayama-architect-and-associates_26.jpg?1786023859",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Koma Commercial Facility / U.GA Architects",
+      "url": "https://www.archdaily.com/1182395/koma-commercial-facility-uga-architects",
+      "excerpt": "Haeridan-gil is a place where the layered time of an ordinary residential neighborhood has been transposed into a cultural streetscape through renovation. In these alleys, where old Western-style hous",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/bb4e/3cf9/6c00/0177/fcd7/large_jpg/koma__3_.jpg?1786100615",
       "today": true
     },
     {
@@ -262,16 +279,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "OGA transform a tricky North London site into a private sanctuary that blends old and new",
-      "url": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
-      "excerpt": "The Cottage Annexe is a considered response to an awkward site in Finsbury Park, resulting in an elegant mid-century inspired courtyard house",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UjgJaqyjwDcvsJ6ZD7iLWg-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.10",
@@ -298,26 +305,6 @@ window.LUMINO_DATA = {
       "title": "Satyress designs centaur-like robot to give workers \"superpowers\" for dangerous jobs",
       "url": "https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/",
       "excerpt": "California start-up Satyress has unveiled its Threehalves robot, a teleoperated centaur-like humanoid designed to aid humans doing dangerous jobs that expose them to injury, death or extreme condition",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "V+M House / Solange Cálio Arquitetos",
-      "url": "https://www.archdaily.com/1182486/v-plus-m-house-solange-calio-arquitetos",
-      "excerpt": "Located in São José do Rio Preto, in the interior of São Paulo, this 680 m² (7,320 sq ft) residence was designed by Solange Cálio Arquitetos for a couple of doctors and their two daughters, accommodat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/17e1/ac8b/af01/892c/b553/large_jpg/casa-v-plus-m-solange-calio-arquitetos_22.jpg?1786124320",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Fronton court and multi-purpose space Maeztu Basque Pelota Court / Verne Arquitectura",
-      "url": "https://www.archdaily.com/1040533/maeztu-basque-pelota-court-verne-arquitectura",
-      "excerpt": "The project consists of the design of a frontón (Basque pelota court) and multi-purpose spaces in Aguilar de Codés, a medieval town in Navarre. The proposal seeks to integrate the building into its su",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69d8/da04/87e3/da00/01ef/b566/large_jpg/AGUILAR_HD-34_share.jpg?1775819455",
       "today": false
     },
     {
