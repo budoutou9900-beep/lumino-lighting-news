@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  15:56",
+  "fetchedAt": "2026.08.11  16:54",
   "sourceColors": {
     "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -180,6 +180,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "TCC DAKA Renewable Resource Recycling Center (RRRC) / KPF",
+      "url": "https://www.archdaily.com/1182433/tcc-daka-renewable-resource-recycling-center-rrrc-kpf",
+      "excerpt": "The TCC DAKA RRRC radically reimagines the role of industrial architecture in society. By wrapping a high-efficiency waste recovery facility in a sensitively designed nature and cultural center, the p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/0395/3cf9/6c00/0177/ff3f/large_jpg/05_TCC_DAKA_RRRC_Credit_StudioSZ_Photo__Justin_Szeremeta_Courtesy_KPF.jpg?1786119150",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -249,6 +259,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "BPROM House / OAD",
+      "url": "https://www.archdaily.com/1182192/bprom-oad",
+      "excerpt": "Set along a tranquil riverbank in the suburbs of Riga, Latvia, the BPROM Private Residence pays tribute to Baltic ethnography, blending ancient local traditions with the comforts of modern living. Des",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/f8b1/5b21/b900/0199/2aa4/large_jpg/Alis_Rozenbergs_BPROM_OAD-1.jpg?1785854155",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -304,26 +324,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181319/how-design-presentation-is-evolving-into-a-live-decision-making-space",
       "excerpt": "For years, advances in architectural visualization have been measured by image quality. Physically accurate lighting, sophisticated material systems, and real-time rendering have made photorealistic i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/6fde/3d21/f701/89c9/3508/large_jpg/_6.jpg?1784573956",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Peter Zumthor’s Architecture Takes Center Stage in Wim Wenders’ New Film \"From Inside Out\"",
-      "url": "https://www.archdaily.com/1183086/peter-zumthors-architecture-takes-center-stage-in-wim-wenders-new-film-from-inside-out",
-      "excerpt": "German filmmaker Wim Wenders is set to present \"From Inside Out – The Architecture of Peter Zumthor,\" a new documentary examining the work and architectural approach of Pritzker Prize-winning architec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/f9ce/ac8b/af01/892c/bbe8/large_jpg/peter-zumthors-architecture-takes-center-stage-in-wim-wenders-new-film-from-inside-out_4.jpg?1786444255",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "National Archives of Sweden / Tengbom",
-      "url": "https://www.archdaily.com/1182379/national-archives-of-sweden-tengbom",
-      "excerpt": "The Swedish National Archives is one of Sweden's oldest government agencies, entrusted with preserving archival material from the state administration. Safeguarding information and making it publicly ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/accb/3cf9/6c00/0177/fbdf/large_jpg/Riksarkivet_H_rn_sand_-_1.jpg?1786096868",
       "today": true
     },
     {
