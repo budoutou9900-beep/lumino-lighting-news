@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  22:35",
+  "fetchedAt": "2026.08.11  23:35",
   "sourceColors": {
     "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "kisspress.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -53,21 +53,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "岩崎電気": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -130,6 +122,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "kisspress.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.11",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.11",
@@ -140,13 +142,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.11",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "title": "recycled 3D printing waste transforms into a resonant field of sound, light, and space",
+      "url": "https://www.designboom.com/art/recycled-3d-printing-waste-resonant-field-sound-light-space-ninefold/",
+      "excerpt": "composed of nine large-scale forms, ninefold explores discarded plastic as a resource for new spatial configurations.\nThe post recycled 3D printing waste transforms into a resonant field of sound, lig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-3D-printing-plastic-waste-field-sound-light-space-ninefold-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -185,6 +187,16 @@ window.LUMINO_DATA = {
       "title": "Gregory Orekhov places black fabric in \"endless white surface\" of Utah salt flats",
       "url": "https://www.dezeen.com/2026/08/11/gregory-orekhov-shadow-of-light/",
       "excerpt": "Artist Gregory Orekhov has created the Shadow of Light artwork by installing a black-fabric square at the Bonneville Salt Flats in Utah, USA, to show the immensity of the geology. The temporary Shadow",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "House Over the Hills / Diogo Aguiar Studio",
+      "url": "https://www.archdaily.com/1182436/house-over-the-hills-diogo-aguiar-studio",
+      "excerpt": "The House Over The Hills is a single-family dwelling built in the Serras do Porto. It is a modular timber construction facing southwest and seeking to emulate the mountains that are visible in the dis",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/106a/3cf9/6c00/0177/ffb1/large_jpg/03___Fernando_Guerra.jpg?1786122550",
       "today": true
     },
     {
@@ -286,16 +298,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "how jerzy became jorge: the polish-born architect who became a brazilian icon",
-      "url": "https://www.designboom.com/architecture/how-jerzy-became-jorge-the-polish-born-architect-who-became-a-brazilian-icon/",
-      "excerpt": "from warsaw to são paulo the modernist architect jorge zalszupin developed a design language that's inextricable from his life in multiple worlds.\nThe post how jerzy became jorge: the polish-born arch",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/jorge-zalszupin-designboom-05.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -332,16 +334,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/optometrist-office-australia-wink-brud-studia",
       "excerpt": "Brud Studia designed the Australian optometrist office, which steps away from behaving like a traditional retail space and instead is inspired by a fictional character who wants you to make yourself a",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RwZKNkhTE99f5SyaXPvSpG-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "An Architecture of Collectivity: Inside Taller General's  Practice",
-      "url": "https://www.archdaily.com/1182429/an-architecture-of-collectivity-inside-taller-generals-practice",
-      "excerpt": "Founded in Quito in 2017 by Martín Real and Florencia Sobrero, Taller General works across housing, rehabilitation, exhibitions, and community projects. What ties them together is less a type of build",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/fe79/ab59/ca01/8994/3f0e/large_jpg/taller-general-a-studio-that-keeps-rebuilding-itself_17.jpg?1786117759",
       "today": true
     },
     {
@@ -412,16 +404,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -511,16 +493,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.06.29",
-      "title": "ショップ・ショールーム 臨時休業のお知らせ",
-      "url": "https://www.yamagiwa.co.jp/news/79630/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
