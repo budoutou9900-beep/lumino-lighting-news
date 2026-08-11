@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  18:55",
+  "fetchedAt": "2026.08.11  19:58",
   "sourceColors": {
     "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,19 +13,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "sanyonews.jp": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "kisspress.jp": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.11",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -98,16 +98,6 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "sanyonews.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.11",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -140,13 +130,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.11",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Heatherwick Studio adjusts design of Louisville waterfront park to \"restore buzz\"",
+      "url": "https://www.dezeen.com/2026/08/11/heatherwick-studio-belvedere-louisville-waterfront-update/",
+      "excerpt": "UK practice Heatherwick Studio has unveiled updated designs for a park along the waterfront in Louisville, Kentucky,  USA, with aspects set to be built on top of a large highway overpass. The Belveder",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Tucked among old-growth oaks in Mendocino, this fire-resistant home is a  whisper on the land",
+      "url": "https://www.wallpaper.com/architecture/residential/jensen-architects-mendocino-california-house",
+      "excerpt": "San Francisco firm Jensen Architects crafts a light-filled family retreat that prioritises views, sustainability and resiliency",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYGBSbebGh7MzEQ6GDPZRa-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "ronnie fieg rebuilds two classic BMWs in archival inka orange to celebrate 15 years of KITH",
+      "url": "https://www.designboom.com/technology/ronnie-fieg-rebuilds-classic-bmw-inka-orange-15-years-kith/",
+      "excerpt": "for KITH’s 15th anniversary, ronnie fieg rebuilds two BMW coupes separated by exactly 15 years to create two one-offs in inka orange.\nThe post ronnie fieg rebuilds two classic BMWs in archival inka or",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kith-bmw-15th-anniversary-2026-designboom-FB.jpg",
       "today": true
     },
     {
@@ -247,16 +276,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "we shape our homes and then, slowly, they shape us back",
-      "url": "https://www.designboom.com/editorials/we-shape-our-homes-and-then-slowly-they-shape-us-back-modes-of-habitation/",
-      "excerpt": "what if the home is where we first rehearse the world we want, in miniature, before we dare to build it? in modes of habitation, the home is not a backdrop to be styled, but an argument about how to l",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/we-shape-our-homes-and-then-slowly-they-shape-us-back-modes-of-habitation-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -283,15 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182192/bprom-oad",
       "excerpt": "Set along a tranquil riverbank in the suburbs of Riga, Latvia, the BPROM Private Residence pays tribute to Baltic ethnography, blending ancient local traditions with the comforts of modern living. Des",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a71/f8b1/5b21/b900/0199/2aa4/large_jpg/Alis_Rozenbergs_BPROM_OAD-1.jpg?1785854155",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Loud Mouth LDN translates Nissan car grills into bespoke grillz",
-      "url": "https://www.dezeen.com/2026/08/11/nissan-loud-mouth-ldn-nissan-car-grills-bespoke-grillz/",
-      "excerpt": "Automotive brand Nissan has collaborated with London-based jewellery studio Loud Mouth LDN to create a series of custom grillz that reimagine Nissan car grills. Designed and crafted by Loud Mouth LDN,",
       "today": true
     },
     {
@@ -332,16 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181319/how-design-presentation-is-evolving-into-a-live-decision-making-space",
       "excerpt": "For years, advances in architectural visualization have been measured by image quality. Physically accurate lighting, sophisticated material systems, and real-time rendering have made photorealistic i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/6fde/3d21/f701/89c9/3508/large_jpg/_6.jpg?1784573956",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "A tiny house in Ecuador exemplifies Diana Salvador's eco-sensitive architecture",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/diana-salvador-ecuador",
-      "excerpt": "Diana Salvador, an emerging Ecuadorian architect and her studio feature in the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FQqh2Xr2WarnPpGu62gzzN-2000-80.jpg",
       "today": true
     },
     {
