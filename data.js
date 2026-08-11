@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.10  23:29",
+  "fetchedAt": "2026.08.11  01:14",
   "sourceColors": {
-    "中日新聞Web": {
+    "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "レッツエンジョイ東京": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -72,19 +72,9 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.08.10",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
       "source": "倉敷経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
@@ -92,19 +82,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.08.10",
-      "title": "豊郷小学校旧校舎群ライトアップ＆イルミネーション2025｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2045917/",
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.11",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/9f/2045917/img_1.jpg?1764560379&p=t&w=1200",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
@@ -114,7 +104,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -123,7 +113,7 @@ window.LUMINO_DATA = {
     {
       "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
       "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
@@ -133,7 +123,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -142,7 +132,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -152,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -167,7 +157,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/recessed-roof-house-bangkok-living-planted-courtyard-anonym-studio-bhoon/",
       "excerpt": "the central courtyard provides a shared landscape between the two, old and new, residences.\nThe post recessed-roof house in bangkok centers living around planted courtyard appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/401322/2026-08-10/bhoon-house-1-6a797ac86c0d2.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -177,7 +167,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/alex-doherty-ceremony-diamond-rings",
       "excerpt": "In a new six-piece fine jewellery collection, Alec Doherty celebrates the everyday",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UnbhTPdqvcR3QpTmZKJWug.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -187,7 +177,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/recycled-paper-composite-sculptural-vessels-volcanic-rocks-fragment-donatas-zukauskas/",
       "excerpt": "fractured geometries and asymmetrical silhouettes define the forms of the ‘fragment’ vessels.\nThe post recycled paper composite forms sculptural vessels that evoke volcanic rocks appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/recycled-paper-composite-sculptural-vessels-volcanic-rock-fragment-donatas-zukauskas-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -197,7 +187,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues",
       "excerpt": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2Ao3ye2X6mu37RdMgYNNx-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -206,7 +196,7 @@ window.LUMINO_DATA = {
       "title": "GO'C creates multi-use artist building for secluded Washington island",
       "url": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
       "excerpt": "Stained cedar planks wrap a small building in the Pacific Northwest that Seattle architecture studio GO'C created for arts foundation Iolair as a gallery and live-work space for an artist-in-residence",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -216,7 +206,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182428/patrimonium-headquarters-gustavo-penna-arquiteto-e-associados",
       "excerpt": "In a new part of Lagoa da Prata, Minas Gerais, the headquarters of Patrimonium occupies a corner and meets the horizon. Completed in 2024, the 1,883.72 m² building welcomes a team of approximately 200",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/eb25/3cf9/6c00/0177/ff01/large_jpg/GPAA_Patrimonium_16_Jomar_Braganca.jpg?1786112845",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -226,7 +216,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/bentley-continental-gt-s-review",
       "excerpt": "Bentley blends tech with tradition to hone its legendary coupé into an all-time classic luxury grand tourer, with price tags to match",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/juRjYtjEaNevvqVen2MgbA-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -236,7 +226,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
       "excerpt": "The Cottage Annexe is a considered response to an awkward site in Finsbury Park, resulting in an elegant mid-century inspired courtyard house",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UjgJaqyjwDcvsJ6ZD7iLWg-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -246,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/nothing-design-team-interview",
       "excerpt": "Newer products from Nothing have opened up a new palette for the London-based tech manufacturer. Wallpaper* talked colour and creativity with the company’s design team",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tJ4iixHfizK8KmEKi2vXvc-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -256,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182410/casa-limoneros",
       "excerpt": "Casa Limoneros draws from the vernacular architecture of Valle de Bravo through a contemporary interpretation. Its pitched, clay-tiled roofs recall the region's distinctive building tradition, while t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/d4bb/ab59/ca01/8994/3c9e/large_jpg/casa-limoneros_4.jpg?1786107167",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -266,7 +256,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/discarded-synthetic-textiles-porous-structural-material-heat-fusion-fast-fashion-architecture-taylor-leung/",
       "excerpt": "synthetic garments, textile waste, and factory offcuts are packed into mild-steel cages before heat treatment.\nThe post discarded synthetic textiles become porous structural material through heat fusi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-synthetic-textiles-porous-structural-material-fast-fashion-architecture-taylor-leung-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -275,7 +265,7 @@ window.LUMINO_DATA = {
       "title": "Satyress designs centaur-like robot to give workers \"superpowers\" for dangerous jobs",
       "url": "https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/",
       "excerpt": "California start-up Satyress has unveiled its Threehalves robot, a teleoperated centaur-like humanoid designed to aid humans doing dangerous jobs that expose them to injury, death or extreme condition",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -285,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182486/v-plus-m-house-solange-calio-arquitetos",
       "excerpt": "Located in São José do Rio Preto, in the interior of São Paulo, this 680 m² (7,320 sq ft) residence was designed by Solange Cálio Arquitetos for a couple of doctors and their two daughters, accommodat",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/17e1/ac8b/af01/892c/b553/large_jpg/casa-v-plus-m-solange-calio-arquitetos_22.jpg?1786124320",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -295,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1040533/maeztu-basque-pelota-court-verne-arquitectura",
       "excerpt": "The project consists of the design of a frontón (Basque pelota court) and multi-purpose spaces in Aguilar de Codés, a medieval town in Navarre. The proposal seeks to integrate the building into its su",
       "thumbnailUrl": "https://images.adsttc.com/media/images/69d8/da04/87e3/da00/01ef/b566/large_jpg/AGUILAR_HD-34_share.jpg?1775819455",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -305,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gxn-toronto-construction-leftovers-pop-up-public-space/",
       "excerpt": "waterfront neighbourhood space on ookwemin minising uses reclaimed bricks, concrete, timber and urban waste in a fully reversible public installation.\nThe post gxn and ha/f stack toronto’s constructio",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gxn-and-haf-stack-torontos-construction-leftovers-into-pop-up-public-space.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -315,7 +305,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat/",
       "excerpt": "born beside the lakes of france’s morvan region, the metallic kayak turns a newly acquired press brake into an excuse to get on the water.\nThe post sharp kayak folds aluminum sheet into unsinkable hul",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat-designboom-1.jpeg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -324,7 +314,7 @@ window.LUMINO_DATA = {
       "title": "Habitat Collaborative threads curved school in India through tree-filled site",
       "url": "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
       "excerpt": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collaborative. Commissioned by a l",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -333,7 +323,7 @@ window.LUMINO_DATA = {
       "title": "Elon Musk reveals plans for world's largest building",
       "url": "https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/",
       "excerpt": "Elon Musk's companies SpaceX and Tesla have announced plans to collaborate on a chip-building factory in Texas named Terafab, which will measure over 100 million square feet and is expected to become ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -343,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
       "excerpt": "HAIN is located at the foot of a vineyard, adjacent to a biodiverse landscape along the River Havel. Designed as storage and production facilities for the vineyard, these buildings go beyond simply pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/a886/3cf9/6c00/0177/bf69/large_jpg/HTM_303300-3593_fine_A4.jpg?1786030240",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -352,7 +342,7 @@ window.LUMINO_DATA = {
       "title": "Realistic AI architectural renderings must be labelled under EU AI Act",
       "url": "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
       "excerpt": "Artists and companies publishing realistic AI-generated architectural renderings in the European Union without labelling risk being fined under provisions in the EU AI Act that came into force last we",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
