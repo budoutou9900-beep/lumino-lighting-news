@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  01:14",
+  "fetchedAt": "2026.08.11  03:38",
   "sourceColors": {
     "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "enjoytokyo.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -92,6 +92,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "enjoytokyo.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.11",
+      "title": "豊郷小学校旧校舎群ライトアップ＆イルミネーション2025｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2045917/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/9f/2045917/img_1.jpg?1764560379&p=t&w=1200",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.11",
@@ -111,7 +121,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "enjoytokyo.jp",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
@@ -187,6 +197,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues",
       "excerpt": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2Ao3ye2X6mu37RdMgYNNx-1920-80.png",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.10",
+      "title": "Cali Foothills Integral Corridor / Edward Conde Serna Arquitectos",
+      "url": "https://www.archdaily.com/1182509/cali-foothills-integral-corridor-edward-conde-serna-arquitectos",
+      "excerpt": "The Cali Foothills Integral Corridor transforms the last gap between the city and the mountain into a landscape infrastructure capable of initiating the consolidation of a new urban forest and restori",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/ab40/3cf9/6c00/0177/fb9b/large_jpg/000-PORTADA-CARLOS_VALENCIA_MAYA.jpg?1786096466",
       "today": false
     },
     {
@@ -323,16 +343,6 @@ window.LUMINO_DATA = {
       "title": "Elon Musk reveals plans for world's largest building",
       "url": "https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/",
       "excerpt": "Elon Musk's companies SpaceX and Tesla have announced plans to collaborate on a chip-building factory in Texas named Terafab, which will measure over 100 million square feet and is expected to become ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "HAIN Vineyard Facilities  / undjurekbrüggen + AFEA",
-      "url": "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
-      "excerpt": "HAIN is located at the foot of a vineyard, adjacent to a biodiverse landscape along the River Havel. Designed as storage and production facilities for the vineyard, these buildings go beyond simply pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/a886/3cf9/6c00/0177/bf69/large_jpg/HTM_303300-3593_fine_A4.jpg?1786030240",
       "today": false
     },
     {
