@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  10:45",
+  "fetchedAt": "2026.08.11  11:40",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,31 +9,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,33 +41,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,6 +96,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.11",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.11",
@@ -102,7 +115,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -121,7 +134,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.11",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -153,10 +166,69 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
+      "title": "Ultra-portable and highly pocketable, five of the smallest MP3 players on the market",
+      "url": "https://www.wallpaper.com/tech/compact-mp3-players",
+      "excerpt": "Portable audio is having a renaissance, with wired headphones and MP3s harking back to the turn of the century. Here are five of our favourite palm-sized music players",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gAX5vP6CgmW6p3BoS7AkxJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "could an uncomfortable home extend life? arakawa + gins put architecture to the test",
+      "url": "https://www.designboom.com/architecture/uncomfortable-home-extend-life-arakawa-gins-site-reversible-destiny/",
+      "excerpt": "across tilted rooms and uneven landscapes, arakawa and madeline gins asked whether architecture could change how the body ages.\nThe post could an uncomfortable home extend life? arakawa + gins put arc",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/arakawa-madeline-gins-architecture-live-forever-reversible-destiny-japan-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "what do ho suh’s fabric houses reveal about architecture after permanence",
+      "url": "https://www.designboom.com/art/portable-home-do-ho-suhs-fabric-houses-architecture-permanence/",
+      "excerpt": "across translucent rooms, corridors, and staircases, the korean artist transforms domestic architecture into a meditation on memory, movement, and belonging.\nThe post what do ho suh’s fabric houses re",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/02/do-ho-suh-fabric-architectures-tate-modern-walk-the-house-solo-exhibition-genesis-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "how jerzy became jorge: the polish-born architect who became a brazilian icon",
+      "url": "https://www.designboom.com/architecture/how-jerzy-became-jorge-the-polish-born-architect-who-became-a-brazilian-icon/",
+      "excerpt": "from warsaw to são paulo the modernist architect jorge zalszupin developed a design language that's inextricable from his life in multiple worlds.\nThe post how jerzy became jorge: the polish-born arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/jorge-zalszupin-designboom-05.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "we shape our homes and then, slowly, they shape us back",
+      "url": "https://www.designboom.com/editorials/we-shape-our-homes-and-then-slowly-they-shape-us-back-modes-of-habitation/",
+      "excerpt": "what if the home is where we first rehearse the world we want, in miniature, before we dare to build it? in modes of habitation, the home is not a backdrop to be styled, but an argument about how to l",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/we-shape-our-homes-and-then-slowly-they-shape-us-back-modes-of-habitation-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.11",
       "title": "Wallpaper* checks in at Hotel Cipriani, Venice –still the grande dame of the lagoon",
       "url": "https://www.wallpaper.com/travel/hotels/hotel-cipriani-venice-review",
       "excerpt": "Seventy years after Giuseppe Cipriani opened his hideaway on Giudecca, the hotel remains one of Venice's most storied addresses. An expansive, multi-phase renovation by Peter Marino is proving it has ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZDANAL4QtDbkqtrLbaB9fN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Studio Maks tops science pavilion in Austria with undulating mirrored roof",
+      "url": "https://www.dezeen.com/2026/08/11/studio-maks-vista-science-experience-centre/",
+      "excerpt": "Thousands of mirrors line the gently undulating ceilings of the VISTA Science Experience Centre in Austria, completed by Dutch architecture practice Studio Maks with engineering firm Bollinger + Grohm",
       "today": true
     },
     {
@@ -198,6 +270,56 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "An Architecture of Collectivity: Inside Taller General's  Practice",
+      "url": "https://www.archdaily.com/1182429/an-architecture-of-collectivity-inside-taller-generals-practice",
+      "excerpt": "Founded in Quito in 2017 by Martín Real and Florencia Sobrero, Taller General works across housing, rehabilitation, exhibitions, and community projects. What ties them together is less a type of build",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/fe79/ab59/ca01/8994/3f0e/large_jpg/taller-general-a-studio-that-keeps-rebuilding-itself_17.jpg?1786117759",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "100 Windows House / Inrestudio",
+      "url": "https://www.archdaily.com/1182312/100-windows-house-inrestudio",
+      "excerpt": "100 Windows is a residence for two generations and three households — a parent couple and the families of their two sons — sharing a single building. The site lies along a river in the suburbs of Hano",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/58f1/eee6/f800/0125/f6ba/large_jpg/Ph04_Exterior__Trieu_Chien.jpg?1786009865",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "How Design Presentation Is Evolving Into a Live Decision-Making Space",
+      "url": "https://www.archdaily.com/1181319/how-design-presentation-is-evolving-into-a-live-decision-making-space",
+      "excerpt": "For years, advances in architectural visualization have been measured by image quality. Physically accurate lighting, sophisticated material systems, and real-time rendering have made photorealistic i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/6fde/3d21/f701/89c9/3508/large_jpg/_6.jpg?1784573956",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Peter Zumthor’s Architecture Takes Center Stage in Wim Wenders’ New Film \"From Inside Out\"",
+      "url": "https://www.archdaily.com/1183086/peter-zumthors-architecture-takes-center-stage-in-wim-wenders-new-film-from-inside-out",
+      "excerpt": "German filmmaker Wim Wenders is set to present \"From Inside Out – The Architecture of Peter Zumthor,\" a new documentary examining the work and architectural approach of Pritzker Prize-winning architec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/f9ce/ac8b/af01/892c/bbe8/large_jpg/peter-zumthors-architecture-takes-center-stage-in-wim-wenders-new-film-from-inside-out_4.jpg?1786444255",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "National Archives of Sweden / Tengbom",
+      "url": "https://www.archdaily.com/1182379/national-archives-of-sweden-tengbom",
+      "excerpt": "The Swedish National Archives is one of Sweden's oldest government agencies, entrusted with preserving archival material from the state administration. Safeguarding information and making it publicly ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/accb/3cf9/6c00/0177/fbdf/large_jpg/Riksarkivet_H_rn_sand_-_1.jpg?1786096868",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -227,121 +349,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Craft in the Age of 3D-Printed Earth: Can Digital Tools Create a New Kind of Artisan?",
-      "url": "https://www.archdaily.com/1182056/craft-in-the-age-of-3d-printed-earth-can-digital-tools-create-a-new-kind-of-artisan",
-      "excerpt": "In 2021, a collaboration between the Italian architecture studio Mario Cucinella Architects and WASP, an Italian 3D-printing company, led to the development of TECLA: a house 3D-printed entirely from ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6f/b5e0/0364/d201/89e9/7c77/large_jpg/craft-in-the-age-of-3d-printed-earth-can-digital-tools-create-a-new-kind-of-artisan_2.jpg?1785706065",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Machan - Korail Community Platform / Paraa",
-      "url": "https://www.archdaily.com/1182488/machan-korail-community-platform-paraa",
-      "excerpt": "Machan, meaning 'platform' in Bangla, captures its essence: a platform or structure that supports and connects. It stands at Ershad Maidan, one of Korail's few open spaces. Paraa worked with Korail's ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/dedb/ac8b/af01/892c/b8c0/large_jpg/machan-community-facility-paraa_21.jpg?1786371854",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "House in Kinuta /  KENTA HIRAYAMA ARCHITECT & ASSOCIATES",
-      "url": "https://www.archdaily.com/1182330/house-in-kinuta-kenta-hirayama-architect-and-associates",
-      "excerpt": "This is a residential project for a detached house in Kinuta, Setagaya Ward. The street in front of the site was dotted with large Japanese red pine trees and houses from the good old days. From the f",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/8f70/ff86/6b01/8bf0/e10f/large_jpg/house-in-kinuta-kenta-hirayama-architect-and-associates_26.jpg?1786023859",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Koma Commercial Facility / U.GA Architects",
-      "url": "https://www.archdaily.com/1182395/koma-commercial-facility-uga-architects",
-      "excerpt": "Haeridan-gil is a place where the layered time of an ordinary residential neighborhood has been transposed into a cultural streetscape through renovation. In these alleys, where old Western-style hous",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/bb4e/3cf9/6c00/0177/fcd7/large_jpg/koma__3_.jpg?1786100615",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "recessed-roof house in bangkok centers living around planted courtyard",
-      "url": "https://www.designboom.com/architecture/recessed-roof-house-bangkok-living-planted-courtyard-anonym-studio-bhoon/",
-      "excerpt": "the central courtyard provides a shared landscape between the two, old and new, residences.\nThe post recessed-roof house in bangkok centers living around planted courtyard appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/401322/2026-08-10/bhoon-house-1-6a797ac86c0d2.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "For artist Alec Doherty, diamond rings aren't just for special occasions",
-      "url": "https://www.wallpaper.com/watches-jewellery/alex-doherty-ceremony-diamond-rings",
-      "excerpt": "In a new six-piece fine jewellery collection, Alec Doherty celebrates the everyday",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UnbhTPdqvcR3QpTmZKJWug.gif",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "recycled paper composite forms sculptural vessels that evoke volcanic rocks",
-      "url": "https://www.designboom.com/art/recycled-paper-composite-sculptural-vessels-volcanic-rocks-fragment-donatas-zukauskas/",
-      "excerpt": "fractured geometries and asymmetrical silhouettes define the forms of the ‘fragment’ vessels.\nThe post recycled paper composite forms sculptural vessels that evoke volcanic rocks appeared first on des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/recycled-paper-composite-sculptural-vessels-volcanic-rock-fragment-donatas-zukauskas-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Cali Foothills Integral Corridor / Edward Conde Serna Arquitectos",
-      "url": "https://www.archdaily.com/1182509/cali-foothills-integral-corridor-edward-conde-serna-arquitectos",
-      "excerpt": "The Cali Foothills Integral Corridor transforms the last gap between the city and the mountain into a landscape infrastructure capable of initiating the consolidation of a new urban forest and restori",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/ab40/3cf9/6c00/0177/fb9b/large_jpg/000-PORTADA-CARLOS_VALENCIA_MAYA.jpg?1786096466",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.10",
       "title": "GO'C creates multi-use artist building for secluded Washington island",
       "url": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
       "excerpt": "Stained cedar planks wrap a small building in the Pacific Northwest that Seattle architecture studio GO'C created for arts foundation Iolair as a gallery and live-work space for an artist-in-residence",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "discarded synthetic textiles become porous structural material through heat fusion",
-      "url": "https://www.designboom.com/design/discarded-synthetic-textiles-porous-structural-material-heat-fusion-fast-fashion-architecture-taylor-leung/",
-      "excerpt": "synthetic garments, textile waste, and factory offcuts are packed into mild-steel cages before heat treatment.\nThe post discarded synthetic textiles become porous structural material through heat fusi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-synthetic-textiles-porous-structural-material-fast-fashion-architecture-taylor-leung-designboom-1200-2.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "Satyress designs centaur-like robot to give workers \"superpowers\" for dangerous jobs",
-      "url": "https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/",
-      "excerpt": "California start-up Satyress has unveiled its Threehalves robot, a teleoperated centaur-like humanoid designed to aid humans doing dangerous jobs that expose them to injury, death or extreme condition",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "gxn and ha/f stack toronto’s construction leftovers into pop-up public space",
-      "url": "https://www.designboom.com/architecture/gxn-toronto-construction-leftovers-pop-up-public-space/",
-      "excerpt": "waterfront neighbourhood space on ookwemin minising uses reclaimed bricks, concrete, timber and urban waste in a fully reversible public installation.\nThe post gxn and ha/f stack toronto’s constructio",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gxn-and-haf-stack-torontos-construction-leftovers-into-pop-up-public-space.jpg",
       "today": false
     },
     {
