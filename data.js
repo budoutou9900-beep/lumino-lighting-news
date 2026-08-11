@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.11  09:55",
+  "fetchedAt": "2026.08.11  10:45",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "レッツエンジョイ東京": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.11",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -89,16 +89,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.08.11",
-      "title": "豊郷小学校旧校舎群ライトアップ＆イルミネーション2025｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2045917/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/9f/2045917/img_1.jpg?1764560379&p=t&w=1200",
       "today": true
     },
     {
@@ -157,6 +147,16 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "Wallpaper* checks in at Hotel Cipriani, Venice –still the grande dame of the lagoon",
+      "url": "https://www.wallpaper.com/travel/hotels/hotel-cipriani-venice-review",
+      "excerpt": "Seventy years after Giuseppe Cipriani opened his hideaway on Giudecca, the hotel remains one of Venice's most storied addresses. An expansive, multi-phase renovation by Peter Marino is proving it has ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZDANAL4QtDbkqtrLbaB9fN-2560-80.jpg",
       "today": true
     },
     {
@@ -294,16 +294,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/recycled-paper-composite-sculptural-vessels-volcanic-rocks-fragment-donatas-zukauskas/",
       "excerpt": "fractured geometries and asymmetrical silhouettes define the forms of the ‘fragment’ vessels.\nThe post recycled paper composite forms sculptural vessels that evoke volcanic rocks appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/recycled-paper-composite-sculptural-vessels-volcanic-rock-fragment-donatas-zukauskas-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.10",
-      "title": "1970s Italian design is having a moment: here are this year's best reissues",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues",
-      "excerpt": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2Ao3ye2X6mu37RdMgYNNx-1920-80.png",
       "today": false
     },
     {
