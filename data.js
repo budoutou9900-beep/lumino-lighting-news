@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  08:11",
+  "fetchedAt": "2026.08.12  09:56",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.12",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -157,6 +157,44 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Simone Bellotti wants to bring Jil Sander home",
+      "url": "https://www.wallpaper.com/fashion-beauty/simone-bellotti-jil-sander-aw-26-interview",
+      "excerpt": "One year into his creative directorship, the Italian designer opens up to Wallpaper* about his vision for the house – one that both distils Jil Sander to its essence and reaches for something new",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WCS9eyrjgVhFSn6M64wW8A-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "HANGHAR wants the hierarchical home to stop telling us how to live",
+      "url": "https://www.designboom.com/architecture/hanghar-hierarchical-house-to-stop-telling-us-how-to-live/",
+      "excerpt": "eduardo mediero's HANGHAR rethinks domestic architecture through flexible rooms, useful corridors and shifting degrees of privacy.\nThe post HANGHAR wants the hierarchical home to stop telling us how t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hanghar-hierarchical-house-to-stop-telling-us-how-to-live-designboom-2.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Kengo Kuma backs campaign to turn V&A Dundee into Lego set",
+      "url": "https://www.dezeen.com/2026/08/12/lego-va-dundee-kengo-kuma/",
+      "excerpt": "A campaign has been launched to turn the V&A Dundee by Japanese architect Kengo Kuma into Lego's first Scottish building set. The campaign follows the creation of a 2,900-piece model replica of the lo",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Uppercut unveils summer exhibition in the stately rooms of Chateau de Spycker",
+      "url": "https://www.dezeen.com/2026/08/12/uppercut-summer-exhibition-god-speed-chateau-de-spycker/",
+      "excerpt": "Antwerp-based gallery Uppercut is presenting the works of six contemporary designers in the ornate halls and salons of a neo-gothic villa near Bruges. Elaborate glass vessels by Danish designer Alexan",
       "today": true
     },
     {
@@ -278,16 +316,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Tucked among old-growth oaks in Mendocino, this fire-resistant home is a  whisper on the land",
-      "url": "https://www.wallpaper.com/architecture/residential/jensen-architects-mendocino-california-house",
-      "excerpt": "San Francisco firm Jensen Architects crafts a light-filled family retreat that prioritises views, sustainability and resiliency",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYGBSbebGh7MzEQ6GDPZRa-1920-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -324,34 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182436/house-over-the-hills-diogo-aguiar-studio",
       "excerpt": "The House Over The Hills is a single-family dwelling built in the Serras do Porto. It is a modular timber construction facing southwest and seeking to emulate the mountains that are visible in the dis",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/106a/3cf9/6c00/0177/ffb1/large_jpg/03___Fernando_Guerra.jpg?1786122550",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "iridescent metal and textured plaster shape rikky hype showroom in kyiv",
-      "url": "https://www.designboom.com/architecture/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype/",
-      "excerpt": "material contrasts define the visual language of the showroom, designed by temp project.\nThe post iridescent metal and textured plaster shape rikky hype showroom in kyiv appeared first on designboom |",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "\"In Canada, design still receives remarkably little recognition\"",
-      "url": "https://www.dezeen.com/2026/08/11/canadian-design-thom-fougere-24-sussex-opinion/",
-      "excerpt": "The Canadian government's plan to restore the prime minister's residence in Ottawa highlights the chronic under-appreciation of Canadian design and its potential as a source of national pride, writes ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Antao Earth washbasins by KaschKasch and Villeroy & Boch",
-      "url": "https://www.dezeen.com/2026/08/11/antao-earth-washbasins-kaschkasch-villeroy-boch-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Cologne-based design studio KaschKasch and brand Villeroy & Boch have released a series of hand-glazed, surface-mounted washbasins. Adding to Villeroy & Boch's existing Antao collecti",
       "today": false
     },
     {
