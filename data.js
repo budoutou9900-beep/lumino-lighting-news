@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  11:43",
+  "fetchedAt": "2026.08.12  12:55",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,74 +9,78 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "オズモール": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "山陽新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -93,6 +97,15 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.12",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
