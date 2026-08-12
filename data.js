@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  12:55",
+  "fetchedAt": "2026.08.12  14:18",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,73 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "ozmall.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "sanyonews.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "レッツエンジョイ東京": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -100,16 +96,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.12",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -118,7 +105,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -138,7 +125,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -216,6 +203,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Alexandre Chemetoff, Landscapes, Urbanism",
+      "url": "https://www.archdaily.com/1183181/alexandre-chemetoff-landscapes-urbanism",
+      "excerpt": "Alexandre Chemetoff’s urban design draws on decades of designing landscapes, using new methods to reinvigorate older areas of the city and their architecture, while simultaneously proposing new buildi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/6955/3cf9/6c00/0178/0af4/large_jpg/grid.jpg?1786538330",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Collective Living and the Architectural Imaginary",
+      "url": "https://www.archdaily.com/1183173/collective-living-and-the-architectural-imaginary",
+      "excerpt": "In an era defined by housing precarity, social fragmentation, and environmental urgency, Collective Living and the Architectural Imaginary examines how architects have reimagined and can continue to r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/63e1/3cf9/6c00/0178/0a9e/large_jpg/grid.jpg?1786536934",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Landscapes for Adaptation Evidence from China",
+      "url": "https://www.archdaily.com/1183172/landscapes-for-adaptation-evidence-from-china",
+      "excerpt": "The climate crisis is now readily evident rather than a future possibility. After decades of failing to mitigate our impacts, we must now adapt to survive in the context of a rapidly changing climate.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/63ae/3cf9/6c00/0178/0a95/large_jpg/grid.jpg?1786536885",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -254,6 +271,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Beyond the Handmade Aesthetic: Why Craft Needs New Construction Economies",
+      "url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
+      "excerpt": "There has never been a more celebrated moment for craftsmanship in architecture. Across magazines, awards, and international exhibitions, handmade brick, lime plaster, carved stone, woven bamboo, and ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/4836/ac8b/af01/892c/b69a/large_jpg/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies_11.jpg?1786333268",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -267,10 +294,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.12",
-      "title": "International Youth Day 2026: Architecture for Different Contexts, Common Aspirations",
-      "url": "https://www.archdaily.com/1183168/international-youth-day-2026-architecture-for-different-contexts-common-aspirations",
-      "excerpt": "International Youth Day, observed annually on August 12, is marked in 2026 under the theme \"Different Contexts, Common Aspirations,\" highlighting the shared aspirations of young people across diverse ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/40cf/ac8b/af01/892c/c03d/large_jpg/international-youth-day-2026-architecture-for-different-contexts-common-aspirations_15.jpg?1786527959",
+      "title": "Mori House / Aires Mateus + MA+Co",
+      "url": "https://www.archdaily.com/1182467/mori-house-aires-mateus-plus-ma-plus-co",
+      "excerpt": "Mori House is shaped by permanence, restraint and a close connection to its landscape. Set among established tea trees overlooking Port Phillip Bay, the residence was conceived as a place for multiple",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/b015/3cf9/6c00/0178/018c/large_jpg/MoriHouse_BrookJames_LowRes_18.jpg?1786359863",
       "today": true
     },
     {
@@ -281,26 +308,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/light-voids-reclaimed-stone-houses-community-space-china-shiji-commons-studiotiltedcircle/",
       "excerpt": "shiji commons project explores a dialogue between heritage, material memory, and contemporary rural life.\nThe post light and voids recast reclaimed stone houses as community space in china appeared fi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/shiji-commons-studiotiltedcircle-light-voids-reclaimed-stone-houses-community-space-china-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Villa Österlen / Note Design Studio",
-      "url": "https://www.archdaily.com/1182512/villa-osterlen-note-design-studio",
-      "excerpt": "On a sloping site in a village in southern Sweden stands Villa Österlen, Note's second completed architectural project. The house sits naturally within the landscape, surrounded by orchards and rollin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/1e1c/ab59/ca3b/6f31/93a6/large_jpg/villa-osterlen-note-design-studio_28.jpg?1786388085",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Prototype Architectural Battery Turns Public Space Into Urban Energy Storage in Ontario, Canada",
-      "url": "https://www.archdaily.com/1183143/prototype-architectural-battery-turns-public-space-into-urban-energy-storage-in-ontario-canada",
-      "excerpt": "Against a backdrop of climate change, inflation, and armed conflict, the global energy system is undergoing change and facing scrutiny. As stated by the United Nations, buildings must be heated, lit, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/e61a/ab59/ca01/8994/4840/large_jpg/civic-grid-architectural-battery_18.jpg?1786504836",
       "today": true
     },
     {
@@ -323,16 +330,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Reworking Everyday Objects and Industrial Production: The Work of Amass",
-      "url": "https://www.archdaily.com/1182271/reworking-everyday-objects-and-industrial-production-the-work-of-amass",
-      "excerpt": "Craftsmanship carries the traces of those who shaped it, revealing how materials respond to different techniques and even offering clues about the tools used to create them. Within the architectural e",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/3d3c/eb02/9f5f/7f41/c0f1/large_jpg/a-reinterpretation-of-folk-craftsmanship-everyday-objects-and-production-processes-through-the-works-of-amass_4.jpg?1785937217",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -340,16 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/verner-panton-animal-cubes-reissue-vitra",
       "excerpt": "The ‘Panton Cubes’ kits, to be launched by Vitra during London Design Festival 2026, take their cues from the designer’s 1970s toy series",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ebZenbvRhhTrjwvVqiNJvC-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Lotus Shala Wellness Facility / Pablo Luna Studio",
-      "url": "https://www.archdaily.com/1183112/lotus-shala-wellness-facility-pablo-luna-studio",
-      "excerpt": "Inspired by the lotus, a timeless symbol of transformation and awakening, Lotus Shala was conceived as a space where architecture and human experience come together. At its heart is an intention to cu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/2fc3/ab59/ca34/fba8/6600/large_jpg/lotus-shala-wellness-facility-pablo-luna-studio_10.jpg?1786458122",
       "today": true
     },
     {
