@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  16:52",
+  "fetchedAt": "2026.08.12  17:54",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -121,7 +121,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -147,6 +147,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Singer teams up with Louis Vuitton to create a pair of outrageously modified Porsche 911s",
+      "url": "https://www.wallpaper.com/transportation/singer-vehicle-design-louis-vuitton-porsche-911-reimagined",
+      "excerpt": "The lavish duo – a Classic and a Classic Turbo Porsche 911 Reimagined by Singer – have been co-created with the full might and majesty of Louis Vuitton",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rJYiK8uzVkz2f5ioxkJgKD-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Heatherwick Studio gives this Kentucky civic space a refresh",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/heathwick-studio-belvedere-kentucky-usa",
+      "excerpt": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9HvmfvLmnGpA4oSnUcbFK5-2560-80.jpg",
       "today": true
     },
     {
@@ -204,6 +224,36 @@ window.LUMINO_DATA = {
       "title": "Museum for Lola Mora is César Pelli's final building",
       "url": "https://www.dezeen.com/2026/08/12/cesar-pelli-final-building-lola-mora-center-argentina/",
       "excerpt": "US-based studio Pelli Clarke & Partners has created a museum, with a futuristic bridge and tower embedded with wind turbines, dedicated to artist Lola Mora in Argentina. Sited on a forested hillside o",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Praia Preta II Residence / Luis Canepa Arquitetos",
+      "url": "https://www.archdaily.com/1183125/praia-preta-ii-residence-luis-canepa-arquitetos",
+      "excerpt": "This house is located in a highly privileged spot on the northern coast of São Paulo. Its L-shaped layout is designed so that one facade overlooks the sea over the rocks, while the other faces the bea",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/04cc/3cf9/6c00/0177/ff78/large_jpg/web_luiscanepa_praiapreta_mortattistudio-5.jpg?1786119401",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Frame 122 / Brent Buck Architects",
+      "url": "https://www.archdaily.com/1183114/frame-122-brent-buck-architects",
+      "excerpt": "Frame 122 is a five-story, 30,725-square-foot mass-timber multifamily residential building that transforms a former parking garage into a sustainable, family-oriented community in Brooklyn's Clinton H",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/319b/3cf9/6c00/0178/06bc/large_jpg/BrentBuckArchitects-Frame122-FacadeDusk-ChristopherSturman.jpg?1786458557",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "1m/s: Walkability and Public Space in Montevideo",
+      "url": "https://www.archdaily.com/1183199/1m-s-walkability-and-public-space-in-montevideo",
+      "excerpt": "The mobility paradigm focuses on the study, design, and planning of human movement rather than on vehicles. This shift from the object—the car—to the subject—the person—requires a more complex perspec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/6827/3cf9/6c00/0178/0ae7/large_jpg/1ms.jpg?1786538153",
       "today": true
     },
     {
@@ -266,16 +316,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Landscapes for Adaptation Evidence from China",
-      "url": "https://www.archdaily.com/1183172/landscapes-for-adaptation-evidence-from-china",
-      "excerpt": "The climate crisis is now readily evident rather than a future possibility. After decades of failing to mitigate our impacts, we must now adapt to survive in the context of a rapidly changing climate.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/63ae/3cf9/6c00/0178/0a95/large_jpg/grid.jpg?1786536885",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -292,46 +332,6 @@ window.LUMINO_DATA = {
       "title": "Kengo Kuma backs campaign to turn V&A Dundee into Lego set",
       "url": "https://www.dezeen.com/2026/08/12/lego-va-dundee-kengo-kuma/",
       "excerpt": "A campaign has been launched to turn the V&A Dundee by Japanese architect Kengo Kuma into Lego's first Scottish building set. The campaign follows the creation of a 2,900-piece model replica of the lo",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "A Hawaiian house nestled on a lava field is at once minimalist and cocooning",
-      "url": "https://www.wallpaper.com/architecture/residential/hawaii-house-usa",
-      "excerpt": "We tour a home on Hawaii Island, cleverly crafted by architects Olson Kundig and interiors studio Leverone Design to balance nature and contemporary living",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QN2eybMjW2MKt6Jm4KQDDA-2520-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Beyond the Handmade Aesthetic: Why Craft Needs New Construction Economies",
-      "url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
-      "excerpt": "There has never been a more celebrated moment for craftsmanship in architecture. Across magazines, awards, and international exhibitions, handmade brick, lime plaster, carved stone, woven bamboo, and ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/4836/ac8b/af01/892c/b69a/large_jpg/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies_11.jpg?1786333268",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Behind the design of The Weeknd’s stadium world tour with scenographer  Alexander Wessely",
-      "url": "https://www.wallpaper.com/design-interiors/alexander-wessely-the-weeknd-tour-set-design-interview",
-      "excerpt": "Wallpaper* dives deep into The Weeknd’s ‘After Hours Til Dawn’ world, where ash, chrome and collapse shape the spectacle",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dxbfdmXeQNoZpNUabhBFhh-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Mori House / Aires Mateus + MA+Co",
-      "url": "https://www.archdaily.com/1182467/mori-house-aires-mateus-plus-ma-plus-co",
-      "excerpt": "Mori House is shaped by permanence, restraint and a close connection to its landscape. Set among established tea trees overlooking Port Phillip Bay, the residence was conceived as a place for multiple",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/b015/3cf9/6c00/0178/018c/large_jpg/MoriHouse_BrookJames_LowRes_18.jpg?1786359863",
       "today": true
     },
     {
