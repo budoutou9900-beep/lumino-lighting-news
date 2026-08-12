@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  04:02",
+  "fetchedAt": "2026.08.12  06:09",
   "sourceColors": {
-    "倉敷経済新聞": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -53,26 +53,24 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
-    {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.12",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
     {
       "source": "chunichi.co.jp",
       "cat": "国内情報",
@@ -81,6 +79,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
       "today": true
     },
     {
@@ -142,6 +150,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "A-nrd designs Arthouse Glasgow hotel to \"feel like it belongs to the city\"",
+      "url": "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/",
+      "excerpt": "Interior architecture studio A-nrd has transformed a 19th-century Glasgow townhouse into a hotel with a raw, honest material palette that celebrates the Scottish city's industrial heritage. The studio",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "This French woodland home by In Sinu melds with its leafy context",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/in-sinu-france",
+      "excerpt": "French practice In Sinu Architectes gains its place in the Wallpaper* Architects’ Directory 2026 with a fairytale timber house in the woods",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9KWbVTGUozXrfSiYCt9vYZ-1746-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -152,24 +189,14 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.12",
-      "title": "OODA designs DUAS towers as a pair of marble figures gazing over albania’s coast",
-      "url": "https://www.designboom.com/architecture/ooda-duas-towers-marble-albania-vlore/",
-      "excerpt": "OODA draws from albanian stone and traditional textile geometries for twin towers set to rise in coastal ciry of vlorë.\nThe post OODA designs DUAS towers as a pair of marble figures gazing over albani",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/OODA-duas-towers-vlore-albania-designboom-FB.jpg",
+      "title": "House WoQuanShanFang / Yinyuan Studio",
+      "url": "https://www.archdaily.com/1182505/house-woquanshanfang-yinyuan-studio",
+      "excerpt": "Located in Gailouquan Village, Shibanyan Town, Linzhou City, Henan Province, WoQuanShanFang is a boutique homestay with a total construction area of 1,395.2 square meters and a four-storey layout, acc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/fb06/ac8b/af01/892c/b9c3/large_jpg/house-woquanshanfang-yinyuan-studio_10.jpg?1786379035",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "recycled 3D printing waste transforms into a resonant field of sound, light, and space",
-      "url": "https://www.designboom.com/art/recycled-3d-printing-waste-resonant-field-sound-light-space-ninefold/",
-      "excerpt": "composed of nine large-scale forms, ninefold explores discarded plastic as a resource for new spatial configurations.\nThe post recycled 3D printing waste transforms into a resonant field of sound, lig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-3D-printing-plastic-waste-field-sound-light-space-ninefold-designboom-1200-1.jpg",
-      "today": false
     },
     {
       "source": "Dezeen",
@@ -188,16 +215,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/jensen-architects-mendocino-california-house",
       "excerpt": "San Francisco firm Jensen Architects crafts a light-filled family retreat that prioritises views, sustainability and resiliency",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYGBSbebGh7MzEQ6GDPZRa-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "ronnie fieg rebuilds two classic BMWs in archival inka orange to celebrate 15 years of KITH",
-      "url": "https://www.designboom.com/technology/ronnie-fieg-rebuilds-classic-bmw-inka-orange-15-years-kith/",
-      "excerpt": "for KITH’s 15th anniversary, ronnie fieg rebuilds two BMW coupes separated by exactly 15 years to create two one-offs in inka orange.\nThe post ronnie fieg rebuilds two classic BMWs in archival inka or",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kith-bmw-15th-anniversary-2026-designboom-FB.jpg",
       "today": false
     },
     {
@@ -240,16 +257,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "iridescent metal and textured plaster shape rikky hype showroom in kyiv",
-      "url": "https://www.designboom.com/architecture/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype/",
-      "excerpt": "material contrasts define the visual language of the showroom, designed by temp project.\nThe post iridescent metal and textured plaster shape rikky hype showroom in kyiv appeared first on designboom |",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -288,16 +295,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "TCC DAKA Renewable Resource Recycling Center (RRRC) / KPF",
-      "url": "https://www.archdaily.com/1182433/tcc-daka-renewable-resource-recycling-center-rrrc-kpf",
-      "excerpt": "The TCC DAKA RRRC radically reimagines the role of industrial architecture in society. By wrapping a high-efficiency waste recovery facility in a sensitively designed nature and cultural center, the p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/0395/3cf9/6c00/0177/ff3f/large_jpg/05_TCC_DAKA_RRRC_Credit_StudioSZ_Photo__Justin_Szeremeta_Courtesy_KPF.jpg?1786119150",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.11",
@@ -305,35 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/compact-mp3-players",
       "excerpt": "Portable audio is having a renaissance, with wired headphones and MP3s harking back to the turn of the century. Here are five of our favourite palm-sized music players",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gAX5vP6CgmW6p3BoS7AkxJ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "could an uncomfortable home extend life? arakawa + gins put architecture to the test",
-      "url": "https://www.designboom.com/architecture/uncomfortable-home-extend-life-arakawa-gins-site-reversible-destiny/",
-      "excerpt": "across tilted rooms and uneven landscapes, arakawa and madeline gins asked whether architecture could change how the body ages.\nThe post could an uncomfortable home extend life? arakawa + gins put arc",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/arakawa-madeline-gins-architecture-live-forever-reversible-destiny-japan-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Wallpaper* checks in at Hotel Cipriani, Venice –still the grande dame of the lagoon",
-      "url": "https://www.wallpaper.com/travel/hotels/hotel-cipriani-venice-review",
-      "excerpt": "Following an expansive, multi-phase renovation by Peter Marino, the hotel reopens its doors as one of Venice’s most storied addresses",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZDANAL4QtDbkqtrLbaB9fN-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Studio Maks tops science pavilion in Austria with undulating mirrored roof",
-      "url": "https://www.dezeen.com/2026/08/11/studio-maks-vista-science-experience-centre/",
-      "excerpt": "Thousands of mirrors line the gently undulating ceilings of the VISTA Science Experience Centre in Austria, completed by Dutch architecture practice Studio Maks with engineering firm Bollinger + Grohm",
       "today": false
     },
     {
@@ -404,6 +372,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -493,6 +471,16 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.06.29",
+      "title": "ショップ・ショールーム 臨時休業のお知らせ",
+      "url": "https://www.yamagiwa.co.jp/news/79630/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
