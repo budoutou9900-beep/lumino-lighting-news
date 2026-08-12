@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  09:56",
+  "fetchedAt": "2026.08.12  10:56",
   "sourceColors": {
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.12",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -160,6 +160,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "OYO Architects perches steel-framed office on harbourside warehouse",
+      "url": "https://www.dezeen.com/2026/08/12/oyo-architects-elia-group-ostend-office-warehouse/",
+      "excerpt": "Belgium studio OYO Architects has built a steel-framed office above a warehouse in Ostend, Belgium, to create an operations centre for energy company Elia. Designed to evoke the offshore platforms use",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "mexican craftsmanship finds contemporary language in everyday ceramics",
+      "url": "https://www.designboom.com/readers/mexican-craftsmanship-finds-contemporary-language-in-everyday-ceramics/",
+      "excerpt": "mexican ceramic studio SAUDARA pairs contemporary forms with expressive glazes, natural clay and everyday tableware.\nThe post mexican craftsmanship finds contemporary language in everyday ceramics app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467675/2026-08-11/saudara-ceramic-atelier-2-6a7ba56c50368.jpeg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "forestier’s solis pendants by jette scheib radiate a soft glow with hand-woven raphia",
+      "url": "https://www.designboom.com/design/forestier-solis-pendant-jette-scheib-hand-woven-raphia/",
+      "excerpt": "by using a natural fiber weave, jette scheib creates sculptural silhouettes for forestier’s solis pendants, shifting form with every perspective.\nThe post forestier’s solis pendants by jette scheib ra",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/forestier-facebook.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -173,9 +202,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.12",
-      "title": "HANGHAR wants the hierarchical home to stop telling us how to live",
+      "title": "HANGHAR wants hierarchical homes to stop telling us how to live",
       "url": "https://www.designboom.com/architecture/hanghar-hierarchical-house-to-stop-telling-us-how-to-live/",
-      "excerpt": "eduardo mediero's HANGHAR rethinks domestic architecture through flexible rooms, useful corridors and shifting degrees of privacy.\nThe post HANGHAR wants the hierarchical home to stop telling us how t",
+      "excerpt": "eduardo mediero's HANGHAR rethinks domestic architecture through flexible rooms, useful corridors and shifting degrees of privacy.\nThe post HANGHAR wants hierarchical homes to stop telling us how to l",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hanghar-hierarchical-house-to-stop-telling-us-how-to-live-designboom-2.jpg",
       "today": true
     },
@@ -211,10 +240,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
-      "title": "Behind the design of The Weeknd's stadium world tour with scenographer  Alexander Wessely",
+      "title": "Behind the design of The Weeknd’s stadium world tour with scenographer  Alexander Wessely",
       "url": "https://www.wallpaper.com/design-interiors/alexander-wessely-the-weeknd-tour-set-design-interview",
-      "excerpt": "The Swedish-Greek artist and scenographer takes Wallpaper* inside The Weeknd’s ‘After Hours Til Dawn’ world, where ash, chrome and collapse shape the spectacle",
+      "excerpt": "Wallpaper* dives deep into The Weeknd’s ‘After Hours Til Dawn’ world, where ash, chrome and collapse shape the spectacle",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dxbfdmXeQNoZpNUabhBFhh-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "International Youth Day 2026: Architecture for Different Contexts, Common Aspirations",
+      "url": "https://www.archdaily.com/1183168/international-youth-day-2026-architecture-for-different-contexts-common-aspirations",
+      "excerpt": "International Youth Day, observed annually on August 12, is marked in 2026 under the theme \"Different Contexts, Common Aspirations,\" highlighting the shared aspirations of young people across diverse ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/40cf/ac8b/af01/892c/c03d/large_jpg/international-youth-day-2026-architecture-for-different-contexts-common-aspirations_15.jpg?1786527959",
       "today": true
     },
     {
@@ -225,6 +264,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/light-voids-reclaimed-stone-houses-community-space-china-shiji-commons-studiotiltedcircle/",
       "excerpt": "shiji commons project explores a dialogue between heritage, material memory, and contemporary rural life.\nThe post light and voids recast reclaimed stone houses as community space in china appeared fi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/shiji-commons-studiotiltedcircle-light-voids-reclaimed-stone-houses-community-space-china-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Villa Österlen / Note Design Studio",
+      "url": "https://www.archdaily.com/1182512/villa-osterlen-note-design-studio",
+      "excerpt": "On a sloping site in a village in southern Sweden stands Villa Österlen, Note's second completed architectural project. The house sits naturally within the landscape, surrounded by orchards and rollin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/1e1c/ab59/ca3b/6f31/93a6/large_jpg/villa-osterlen-note-design-studio_28.jpg?1786388085",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Prototype Architectural Battery Turns Public Space Into Urban Energy Storage in Ontario, Canada",
+      "url": "https://www.archdaily.com/1183143/prototype-architectural-battery-turns-public-space-into-urban-energy-storage-in-ontario-canada",
+      "excerpt": "Against a backdrop of climate change, inflation, and armed conflict, the global energy system is undergoing change and facing scrutiny. As stated by the United Nations, buildings must be heated, lit, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/e61a/ab59/ca01/8994/4840/large_jpg/civic-grid-architectural-battery_18.jpg?1786504836",
       "today": true
     },
     {
@@ -244,6 +303,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/in-sinu-france",
       "excerpt": "French practice In Sinu Architectes gains its place in the Wallpaper* Architects’ Directory 2026 with a fairytale timber house in the woods",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9KWbVTGUozXrfSiYCt9vYZ-1746-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Reworking Everyday Objects and Industrial Production: The Work of Amass",
+      "url": "https://www.archdaily.com/1182271/reworking-everyday-objects-and-industrial-production-the-work-of-amass",
+      "excerpt": "Craftsmanship carries the traces of those who shaped it, revealing how materials respond to different techniques and even offering clues about the tools used to create them. Within the architectural e",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/3d3c/eb02/9f5f/7f41/c0f1/large_jpg/a-reinterpretation-of-folk-craftsmanship-everyday-objects-and-production-processes-through-the-works-of-amass_4.jpg?1785937217",
       "today": true
     },
     {
@@ -267,16 +336,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Lily Block Residence / 3fconcept",
-      "url": "https://www.archdaily.com/1182477/lily-block-residence-3fconcept",
-      "excerpt": "Located on a 102 m² plot in western Hue City, Vietnam, Lily Block addresses the spatial needs of a young family through the concept of programmatic compression. Rather than spreading out the built mas",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bfb1/3cf9/6c00/0178/0232/large_jpg/01.jpg?1786363858",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -287,71 +346,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "House WoQuanShanFang / Yinyuan Studio",
-      "url": "https://www.archdaily.com/1182505/house-woquanshanfang-yinyuan-studio",
-      "excerpt": "Located in Gailouquan Village, Shibanyan Town, Linzhou City, Henan Province, WoQuanShanFang is a boutique homestay with a total construction area of 1,395.2 square meters and a four-storey layout, acc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/fb06/ac8b/af01/892c/b9c3/large_jpg/house-woquanshanfang-yinyuan-studio_10.jpg?1786379035",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "recycled 3D printing waste transforms into a resonant field of sound, light, and space",
-      "url": "https://www.designboom.com/art/recycled-3d-printing-waste-resonant-field-sound-light-space-ninefold/",
-      "excerpt": "composed of nine large-scale forms, ninefold explores discarded plastic as a resource for new spatial configurations.\nThe post recycled 3D printing waste transforms into a resonant field of sound, lig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-3D-printing-plastic-waste-field-sound-light-space-ninefold-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.11",
       "title": "Heatherwick Studio adjusts design of Louisville waterfront park to \"restore buzz\"",
       "url": "https://www.dezeen.com/2026/08/11/heatherwick-studio-belvedere-louisville-waterfront-update/",
       "excerpt": "UK practice Heatherwick Studio has unveiled updated designs for a park along the waterfront in Louisville, Kentucky,  USA, with aspects set to be built on top of a large highway overpass. The Belveder",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "ronnie fieg rebuilds two classic BMWs in archival inka orange to celebrate 15 years of KITH",
-      "url": "https://www.designboom.com/technology/ronnie-fieg-rebuilds-classic-bmw-inka-orange-15-years-kith/",
-      "excerpt": "for KITH’s 15th anniversary, ronnie fieg rebuilds two BMW coupes separated by exactly 15 years to create two one-offs in inka orange.\nThe post ronnie fieg rebuilds two classic BMWs in archival inka or",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kith-bmw-15th-anniversary-2026-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Hotel Casa de las Abuelas / LANZA Atelier",
-      "url": "https://www.archdaily.com/1183139/hotel-casa-de-las-abuelas-lanza-atelier",
-      "excerpt": "Located in the historic center of Guanajuato, Hotel Casa de las Abuelas transforms an old residence into a six-room boutique hotel with a street-facing cafe.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/8d68/3cf9/6c00/0178/00dc/large_jpg/03_Hotel_CDLA_access_patio_0006_FULL_WEB.jpg?1786351021",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Gregory Orekhov places black fabric in \"endless white surface\" of Utah salt flats",
-      "url": "https://www.dezeen.com/2026/08/11/gregory-orekhov-shadow-of-light/",
-      "excerpt": "Artist Gregory Orekhov has created the Shadow of Light artwork by installing a black-fabric square at the Bonneville Salt Flats in Utah, USA, to show the immensity of the geology. The temporary Shadow",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "House Over the Hills / Diogo Aguiar Studio",
-      "url": "https://www.archdaily.com/1182436/house-over-the-hills-diogo-aguiar-studio",
-      "excerpt": "The House Over The Hills is a single-family dwelling built in the Serras do Porto. It is a modular timber construction facing southwest and seeking to emulate the mountains that are visible in the dis",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/106a/3cf9/6c00/0177/ffb1/large_jpg/03___Fernando_Guerra.jpg?1786122550",
       "today": false
     },
     {
