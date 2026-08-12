@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  14:18",
+  "fetchedAt": "2026.08.12  15:55",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "レッツエンジョイ東京": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,41 +37,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -86,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -96,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -105,7 +101,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -115,17 +111,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.12",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -154,13 +150,50 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.12",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "shifted roofs and reflected light connect old and new homes in suburban tokyo",
+      "url": "https://www.designboom.com/architecture/shifted-roofs-reflected-light-old-new-homes-suburban-tokyo-slur-house-yohei-ikai-icai-architects/",
+      "excerpt": "the new house carries forward the original residence’s pointed roof and white exterior walls.\nThe post shifted roofs and reflected light connect old and new homes in suburban tokyo appeared first on d",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/slur-house-detached-annex-residence-suburban-tokyo-yohei-ikai-icai-architects-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Modular housing in Los Angeles among projects from UCLA",
+      "url": "https://www.dezeen.com/2026/08/12/modular-housing-los-angeles-ucla-schoolshows/",
+      "excerpt": "Dezeen School Shows: modular housing designed for communities affected by the 2025 Los Angeles wildfires is among projects from UCLA. Also featured is a housing program to support first-time buyers an",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Luxurious minimalism for four: a first look inside the upcoming Jaguar Type 01",
+      "url": "https://www.wallpaper.com/transportation/inside-the-upcoming-jaguar-type-01",
+      "excerpt": "As the Jaguar Type 01 inches towards its full reveal, the company has opened the doors of the big electric GT to showcase the interior architecture for the first time",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8S9XntSuPYjrrK2ixuJEXH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "HNTB designs Dallas Stars arena to \"capture the passion and intensity of hockey\"",
+      "url": "https://www.dezeen.com/2026/08/12/dallas-stars-nhl-team-arena-hntb/",
+      "excerpt": "Architecture studio HNTB has unveiled the design of an 18,000-seat arena in Plano, Texas, for the Dallas Stars NHL team. Set to be built as part of a wider \"year-round district\", the arena will be the",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Museum for Lola Mora is César Pelli's final building",
+      "url": "https://www.dezeen.com/2026/08/12/cesar-pelli-final-building-lola-mora-center-argentina/",
+      "excerpt": "US-based studio Pelli Clarke & Partners has created a museum, with a futuristic bridge and tower embedded with wind turbines, dedicated to artist Lola Mora in Argentina. Sited on a forested hillside o",
       "today": true
     },
     {
@@ -252,15 +285,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Uppercut unveils summer exhibition in the stately rooms of Chateau de Spycker",
-      "url": "https://www.dezeen.com/2026/08/12/uppercut-summer-exhibition-god-speed-chateau-de-spycker/",
-      "excerpt": "Antwerp-based gallery Uppercut is presenting the works of six contemporary designers in the ornate halls and salons of a neo-gothic villa near Bruges. Elaborate glass vessels by Danish designer Alexan",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -311,15 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "A-nrd designs Arthouse Glasgow hotel to \"feel like it belongs to the city\"",
-      "url": "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/",
-      "excerpt": "Interior architecture studio A-nrd has transformed a 19th-century Glasgow townhouse into a hotel with a raw, honest material palette that celebrates the Scottish city's industrial heritage. The studio",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -328,35 +343,6 @@ window.LUMINO_DATA = {
       "excerpt": "French practice In Sinu Architectes gains its place in the Wallpaper* Architects’ Directory 2026 with a fairytale timber house in the woods",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9KWbVTGUozXrfSiYCt9vYZ-1746-80.jpg",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Build a Verner Panton animal sculpture – these reissued cube kits are alive with possibility",
-      "url": "https://www.wallpaper.com/design-interiors/verner-panton-animal-cubes-reissue-vitra",
-      "excerpt": "The ‘Panton Cubes’ kits, to be launched by Vitra during London Design Festival 2026, take their cues from the designer’s 1970s toy series",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ebZenbvRhhTrjwvVqiNJvC-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "OODA designs DUAS towers as a pair of marble figures gazing over albania’s coast",
-      "url": "https://www.designboom.com/architecture/ooda-duas-towers-marble-albania-vlore/",
-      "excerpt": "OODA draws from albanian stone and traditional textile geometries for twin towers set to rise in coastal ciry of vlorë.\nThe post OODA designs DUAS towers as a pair of marble figures gazing over albani",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/OODA-duas-towers-vlore-albania-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Heatherwick Studio adjusts design of Louisville waterfront park to \"restore buzz\"",
-      "url": "https://www.dezeen.com/2026/08/11/heatherwick-studio-belvedere-louisville-waterfront-update/",
-      "excerpt": "UK practice Heatherwick Studio has unveiled updated designs for a park along the waterfront in Louisville, Kentucky,  USA, with aspects set to be built on top of a large highway overpass. The Belveder",
-      "today": false
     },
     {
       "source": "大光電機",
