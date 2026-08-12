@@ -1,48 +1,177 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  20:50",
+  "fetchedAt": "2026.08.12  21:39",
   "sourceColors": {
-    "designboom": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.12",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "adfwebmagazine.jp",
+      "cat": "賞・コンペ",
+      "date": "2026.08.12",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -83,6 +212,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Apartment Matisse / Gurgel D’Alfonso Arquitetura",
+      "url": "https://www.archdaily.com/1183215/apartment-matisse-gurgel-dalfonso-arquitetura",
+      "excerpt": "Apartamento Matisse translates a particular way of living into architecture: connected, attentive, and sensitive to the passage of time. Located in Moema, a leafy neighborhood in São Paulo’s south zon",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/308b/3cf9/6c00/0178/06a1/large_jpg/adfoto_7953.jpg?1786458279",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.12",
@@ -109,6 +248,16 @@ window.LUMINO_DATA = {
       "title": "Modular housing in Los Angeles among projects from UCLA",
       "url": "https://www.dezeen.com/2026/08/12/modular-housing-los-angeles-ucla-schoolshows/",
       "excerpt": "Dezeen School Shows: modular housing designed for communities affected by the 2025 Los Angeles wildfires is among projects from UCLA. Also featured is a housing program to support first-time buyers an",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Sodzil House / Esencial Studio",
+      "url": "https://www.archdaily.com/1183133/sodzil-house-esencial-studio",
+      "excerpt": "The project emerges in the vicinity of Hacienda Sodzil Norte, a vestige of the henequen boom in Yucatán that still preserves the physical and environmental memory of its past. The site, guarded by end",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/6464/ac8b/af01/892c/bde8/large_jpg/casa-sodzil-esencial-studio_3.jpg?1786471541",
       "today": true
     },
     {
@@ -206,26 +355,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/simone-bellotti-jil-sander-aw-26-interview",
       "excerpt": "One year into his creative directorship, the Italian designer opens up to Wallpaper* about his vision for the house – one that both distils Jil Sander to its essence and reaches for something new",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WCS9eyrjgVhFSn6M64wW8A-1539-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Alexandre Chemetoff, Landscapes, Urbanism",
-      "url": "https://www.archdaily.com/1183181/alexandre-chemetoff-landscapes-urbanism",
-      "excerpt": "Alexandre Chemetoff’s urban design draws on decades of designing landscapes, using new methods to reinvigorate older areas of the city and their architecture, while simultaneously proposing new buildi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/6955/3cf9/6c00/0178/0af4/large_jpg/grid.jpg?1786538330",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Collective Living and the Architectural Imaginary",
-      "url": "https://www.archdaily.com/1183173/collective-living-and-the-architectural-imaginary",
-      "excerpt": "In an era defined by housing precarity, social fragmentation, and environmental urgency, Collective Living and the Architectural Imaginary examines how architects have reimagined and can continue to r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/63e1/3cf9/6c00/0178/0a9e/large_jpg/grid.jpg?1786536934",
       "today": true
     },
     {
