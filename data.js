@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  17:54",
+  "fetchedAt": "2026.08.12  18:55",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "kisspress.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,38 +41,42 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -82,7 +86,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -92,7 +96,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -121,7 +125,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -130,7 +134,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -147,6 +151,35 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "what if housing was designed around changing relationships rather than nuclear families?",
+      "url": "https://www.designboom.com/architecture/housing-designed-around-changing-relationships-nuclear-families/",
+      "excerpt": "relationships change much faster than buildings, and a floor plan could begin by anticipating that.\nThe post what if housing was designed around changing relationships rather than nuclear families? ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/housing-beyond-nuclear-family-changing-relationships-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Clayton Korte creates weathering-steel barn structure for California winery",
+      "url": "https://www.dezeen.com/2026/08/12/clayton-korte-cayucos-vineyard-barn-california/",
+      "excerpt": "Texas architecture studio Clayton Korte has completed a Corten steel-clad structure for storing vineyard equipment at a winery on the Central Coast of California. The 4,315-square-foot (400-square-met",
       "today": true
     },
     {
@@ -323,25 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/hanghar-hierarchical-house-to-stop-telling-us-how-to-live/",
       "excerpt": "eduardo mediero's HANGHAR rethinks domestic architecture through flexible rooms, useful corridors and shifting degrees of privacy.\nThe post HANGHAR wants hierarchical homes to stop telling us how to l",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hanghar-hierarchical-house-to-stop-telling-us-how-to-live-designboom-2.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Kengo Kuma backs campaign to turn V&A Dundee into Lego set",
-      "url": "https://www.dezeen.com/2026/08/12/lego-va-dundee-kengo-kuma/",
-      "excerpt": "A campaign has been launched to turn the V&A Dundee by Japanese architect Kengo Kuma into Lego's first Scottish building set. The campaign follows the creation of a 2,900-piece model replica of the lo",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "light and voids recast reclaimed stone houses as community space in china",
-      "url": "https://www.designboom.com/architecture/light-voids-reclaimed-stone-houses-community-space-china-shiji-commons-studiotiltedcircle/",
-      "excerpt": "shiji commons project explores a dialogue between heritage, material memory, and contemporary rural life.\nThe post light and voids recast reclaimed stone houses as community space in china appeared fi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/shiji-commons-studiotiltedcircle-light-voids-reclaimed-stone-houses-community-space-china-designboom-1200.jpg",
       "today": true
     },
     {
