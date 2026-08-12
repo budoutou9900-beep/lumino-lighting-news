@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  15:55",
+  "fetchedAt": "2026.08.12  16:52",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -121,7 +121,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.12",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -147,6 +147,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Stylus Architects shapes a triumph of an angular house extension in south London",
+      "url": "https://www.wallpaper.com/architecture/residential/stylus-architects-house-extension-london-uk",
+      "excerpt": "Awkward angles provided the catalyst for this light-filled London house extension in brick and glass",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FyTGFeWW9W4tmfMBV2TnTG-2000-80.jpg",
       "today": true
     },
     {
@@ -332,16 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/light-voids-reclaimed-stone-houses-community-space-china-shiji-commons-studiotiltedcircle/",
       "excerpt": "shiji commons project explores a dialogue between heritage, material memory, and contemporary rural life.\nThe post light and voids recast reclaimed stone houses as community space in china appeared fi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/shiji-commons-studiotiltedcircle-light-voids-reclaimed-stone-houses-community-space-china-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "This French woodland home by In Sinu melds with its leafy context",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/in-sinu-france",
-      "excerpt": "French practice In Sinu Architectes gains its place in the Wallpaper* Architects’ Directory 2026 with a fairytale timber house in the woods",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9KWbVTGUozXrfSiYCt9vYZ-1746-80.jpg",
       "today": true
     },
     {
