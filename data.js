@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.12  06:09",
+  "fetchedAt": "2026.08.12  08:11",
   "sourceColors": {
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -89,6 +89,16 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.12",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -150,13 +160,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.12",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "A Hawaiian house nestled on a lava field is at once minimalist and cocooning",
+      "url": "https://www.wallpaper.com/architecture/residential/hawaii-house-usa",
+      "excerpt": "We tour a home on Hawaii Island, cleverly crafted by architects Olson Kundig and interiors studio Leverone Design to balance nature and contemporary living",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QN2eybMjW2MKt6Jm4KQDDA-2520-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Behind the design of The Weeknd's stadium world tour with scenographer  Alexander Wessely",
+      "url": "https://www.wallpaper.com/design-interiors/alexander-wessely-the-weeknd-tour-set-design-interview",
+      "excerpt": "The Swedish-Greek artist and scenographer takes Wallpaper* inside The Weeknd’s ‘After Hours Til Dawn’ world, where ash, chrome and collapse shape the spectacle",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dxbfdmXeQNoZpNUabhBFhh-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "light and voids recast reclaimed stone houses as community space in china",
+      "url": "https://www.designboom.com/architecture/light-voids-reclaimed-stone-houses-community-space-china-shiji-commons-studiotiltedcircle/",
+      "excerpt": "shiji commons project explores a dialogue between heritage, material memory, and contemporary rural life.\nThe post light and voids recast reclaimed stone houses as community space in china appeared fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/shiji-commons-studiotiltedcircle-light-voids-reclaimed-stone-houses-community-space-china-designboom-1200.jpg",
       "today": true
     },
     {
@@ -192,11 +222,51 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.12",
+      "title": "Lotus Shala Wellness Facility / Pablo Luna Studio",
+      "url": "https://www.archdaily.com/1183112/lotus-shala-wellness-facility-pablo-luna-studio",
+      "excerpt": "Inspired by the lotus, a timeless symbol of transformation and awakening, Lotus Shala was conceived as a space where architecture and human experience come together. At its heart is an intention to cu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/2fc3/ab59/ca34/fba8/6600/large_jpg/lotus-shala-wellness-facility-pablo-luna-studio_10.jpg?1786458122",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "Lily Block Residence / 3fconcept",
+      "url": "https://www.archdaily.com/1182477/lily-block-residence-3fconcept",
+      "excerpt": "Located on a 102 m² plot in western Hue City, Vietnam, Lily Block addresses the spatial needs of a young family through the concept of programmatic compression. Rather than spreading out the built mas",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bfb1/3cf9/6c00/0178/0232/large_jpg/01.jpg?1786363858",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.12",
+      "title": "OODA designs DUAS towers as a pair of marble figures gazing over albania’s coast",
+      "url": "https://www.designboom.com/architecture/ooda-duas-towers-marble-albania-vlore/",
+      "excerpt": "OODA draws from albanian stone and traditional textile geometries for twin towers set to rise in coastal ciry of vlorë.\nThe post OODA designs DUAS towers as a pair of marble figures gazing over albani",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/OODA-duas-towers-vlore-albania-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.12",
       "title": "House WoQuanShanFang / Yinyuan Studio",
       "url": "https://www.archdaily.com/1182505/house-woquanshanfang-yinyuan-studio",
       "excerpt": "Located in Gailouquan Village, Shibanyan Town, Linzhou City, Henan Province, WoQuanShanFang is a boutique homestay with a total construction area of 1,395.2 square meters and a four-storey layout, acc",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/fb06/ac8b/af01/892c/b9c3/large_jpg/house-woquanshanfang-yinyuan-studio_10.jpg?1786379035",
       "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "recycled 3D printing waste transforms into a resonant field of sound, light, and space",
+      "url": "https://www.designboom.com/art/recycled-3d-printing-waste-resonant-field-sound-light-space-ninefold/",
+      "excerpt": "composed of nine large-scale forms, ninefold explores discarded plastic as a resource for new spatial configurations.\nThe post recycled 3D printing waste transforms into a resonant field of sound, lig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/discarded-3D-printing-plastic-waste-field-sound-light-space-ninefold-designboom-1200-1.jpg",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -215,6 +285,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/jensen-architects-mendocino-california-house",
       "excerpt": "San Francisco firm Jensen Architects crafts a light-filled family retreat that prioritises views, sustainability and resiliency",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYGBSbebGh7MzEQ6GDPZRa-1920-80.jpg",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.11",
+      "title": "ronnie fieg rebuilds two classic BMWs in archival inka orange to celebrate 15 years of KITH",
+      "url": "https://www.designboom.com/technology/ronnie-fieg-rebuilds-classic-bmw-inka-orange-15-years-kith/",
+      "excerpt": "for KITH’s 15th anniversary, ronnie fieg rebuilds two BMW coupes separated by exactly 15 years to create two one-offs in inka orange.\nThe post ronnie fieg rebuilds two classic BMWs in archival inka or",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kith-bmw-15th-anniversary-2026-designboom-FB.jpg",
       "today": false
     },
     {
@@ -247,13 +327,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.11",
-      "title": "Water Stories / AR-AR Martínez Arquitectura y Paisaje",
-      "url": "https://www.archdaily.com/1183136/water-stories-ar-ar-martinez-arquitectura-y-paisaje",
-      "excerpt": "Through a landscape project that includes a pair of contemplation shelters, Campano Frío is an initiative to reforest and restore an area of cloud forest. Located in a rural zone of the municipality o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a196/3cf9/6c00/0177/fb4f/large_jpg/0_Caba_a_Aves_exterior_Teodoro_Posada_72.jpg?1786094008",
+      "title": "iridescent metal and textured plaster shape rikky hype showroom in kyiv",
+      "url": "https://www.designboom.com/architecture/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype/",
+      "excerpt": "material contrasts define the visual language of the showroom, designed by temp project.\nThe post iridescent metal and textured plaster shape rikky hype showroom in kyiv appeared first on designboom |",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/iridescent-metal-textured-plaster-rikky-hype-showroom-kyiv-temp-project-rikky-hype-designboom-1200.jpg",
       "today": false
     },
     {
@@ -272,36 +352,6 @@ window.LUMINO_DATA = {
       "title": "Antao Earth washbasins by KaschKasch and Villeroy & Boch",
       "url": "https://www.dezeen.com/2026/08/11/antao-earth-washbasins-kaschkasch-villeroy-boch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Cologne-based design studio KaschKasch and brand Villeroy & Boch have released a series of hand-glazed, surface-mounted washbasins. Adding to Villeroy & Boch's existing Antao collecti",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Txai Bungalow / TETRO Arquitetura",
-      "url": "https://www.archdaily.com/1183121/txai-bungalow-tetro-arquitetura",
-      "excerpt": "Located in Itacaré, on the southern coast of Bahia, Bungalow Txai occupies a high slope facing the sea. From the site, the view opens nearly 180 degrees over the ocean, rising above the existing palm ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/1eea/3cf9/6c00/0178/042b/large_jpg/IMG_7327_8_9_copiar.jpg?1786388219",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "A Michelin-starred Edinburgh favourite adds rooms to its restaurant",
-      "url": "https://www.wallpaper.com/travel/restaurants/lyla-restaurant-and-rooms-edinburgh-review",
-      "excerpt": "At Lyla, Stuart Ralston’s seafood-led tasting-menu experience now continues upstairs, with four Scarinish-designed bedrooms and breakfast in bed",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QyKMRXCogz8oDNsrCujxNG-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.11",
-      "title": "Ultra-portable and highly pocketable, five of the smallest MP3 players on the market",
-      "url": "https://www.wallpaper.com/tech/compact-mp3-players",
-      "excerpt": "Portable audio is having a renaissance, with wired headphones and MP3s harking back to the turn of the century. Here are five of our favourite palm-sized music players",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gAX5vP6CgmW6p3BoS7AkxJ-2560-80.jpg",
       "today": false
     },
     {
