@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  06:13",
+  "fetchedAt": "2026.08.13  08:15",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,39 +21,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -88,15 +88,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.13",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.13",
@@ -104,6 +95,15 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -127,15 +127,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.13",
@@ -156,13 +147,60 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.13",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Youth avoids Manchester cliches for city's first Cubitts eyewear store",
+      "url": "https://www.dezeen.com/2026/08/13/youth-manchester-cubitts-eyewear-store/",
+      "excerpt": "British eyewear brand Cubitts has unveiled its first shop in Manchester, designed by locally based studio Youth to reflect the city's industrial and musical history without resorting to the obvious. Y",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "OFFICEUNTITLED turns vacant santa monica office floor into school after the palisades fire",
+      "url": "https://www.designboom.com/readers/officeuntitled-turns-a-vacant-santa-monica-office-floor-into-a-school-after-the-palisades-fire/",
+      "excerpt": "classrooms, colorful graphics and playful ‘imaginariums’ give an unlikely second life to a floor built for desks and meeting.\nThe post OFFICEUNTITLED turns vacant santa monica office floor into school",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467176/2026-08-04/bringing-back-village-school-2-6a71442818498.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "‘nature becomes the choreographer’: janet echelman on a sky full of hope in frankfurt",
+      "url": "https://www.designboom.com/art/nature-choreographer-janet-echelman-sky-full-hope-earthtime-frankfurt-wdc/",
+      "excerpt": "janet echelman suspends 'a sky full of hope' over frankfurt, where wind and public use continually reshape the work and the space beneath it.\nThe post ‘nature becomes the choreographer’: janet echelma",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/janet-echelman-sky-full-of-hope-stadt-frankfurt-am-main-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "island records and emi turn their king’s cross headquarters into a spatial mixtape",
+      "url": "https://www.designboom.com/architecture/island-records-and-emi-turn-their-kings-cross-headquarters-into-a-spatial-mixtape/",
+      "excerpt": "the king’s cross office trades corporate neutrality for pantone yellow, a deconstructed union jack and more than 70 works of art.\nThe post island records and emi turn their king’s cross headquarters i",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/island-records-emi-kings-cross-headquarters-spatial-mixtape-interesting-projects-studio-eye-designboom-8.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Kii uses local limestone and colourful \"melting\" stools for SR Ice Cream Miyakojima",
+      "url": "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
+      "excerpt": "Architecture studio Kii has designed an ice cream shop on Miyakojima Island, Japan, featuring a pink ceiling, a limestone counter and perforated concrete tiles. Called SR Ice Cream Miyakojima, the caf",
       "today": true
     },
     {
@@ -173,6 +211,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/midcentury-and-1990s-unite-australia",
       "excerpt": "Davidov Architects seamlessly merges two styles and buildings – from the midcentury and the 1990s – to create a soothing home for a family of six; explore LDS II Residence",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bdrTet5x26JksqCb9nJ437-1199-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Green Sandwich House / HYAN",
+      "url": "https://www.archdaily.com/1183108/green-sandwich-house-hyan",
+      "excerpt": "Rather than demolishing an ageing 1970s timber house, Japanese studio HYAN chose to inherit it — renovating the building into a home and studio for its own founders in the hills of Hayama, Kanagawa. B",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/2b31/3cf9/6c00/0178/060f/large_jpg/000_living_featured_.jpg?1786456909",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Pakenham Station / Genton",
+      "url": "https://www.archdaily.com/1041643/pakenham-station-genton",
+      "excerpt": "Pakenham Station redefines the role of transport infrastructure as both a civic landmark and a catalyst for urban renewal. Delivered as part of Victoria's Level Crossing Removal Project, the station r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0c/4bd1/093e/9201/8986/4b1f/large_jpg/pakenham-station-genton_15.jpg?1779190744",
       "today": true
     },
     {
@@ -284,80 +342,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Sodzil House / Esencial Studio",
-      "url": "https://www.archdaily.com/1183133/sodzil-house-esencial-studio",
-      "excerpt": "The project emerges in the vicinity of Hacienda Sodzil Norte, a vestige of the henequen boom in Yucatán that still preserves the physical and environmental memory of its past. The site, guarded by end",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/6464/ac8b/af01/892c/bde8/large_jpg/casa-sodzil-esencial-studio_3.jpg?1786471541",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.12",
       "title": "HNTB designs Dallas Stars arena to \"capture the passion and intensity of hockey\"",
       "url": "https://www.dezeen.com/2026/08/12/dallas-stars-nhl-team-arena-hntb/",
       "excerpt": "Architecture studio HNTB has unveiled the design of an 18,000-seat arena in Plano, Texas, for the Dallas Stars NHL team. Set to be built as part of a wider \"year-round district\", the arena will be the",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Museum for Lola Mora is César Pelli's final building",
-      "url": "https://www.dezeen.com/2026/08/12/cesar-pelli-final-building-lola-mora-center-argentina/",
-      "excerpt": "US-based studio Pelli Clarke & Partners has created a museum, with a futuristic bridge and tower embedded with wind turbines, dedicated to artist Lola Mora in Argentina. Sited on a forested hillside o",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Praia Preta II Residence / Luis Canepa Arquitetos",
-      "url": "https://www.archdaily.com/1183125/praia-preta-ii-residence-luis-canepa-arquitetos",
-      "excerpt": "This house is located in a highly privileged spot on the northern coast of São Paulo. Its L-shaped layout is designed so that one facade overlooks the sea over the rocks, while the other faces the bea",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a76/04cc/3cf9/6c00/0177/ff78/large_jpg/web_luiscanepa_praiapreta_mortattistudio-5.jpg?1786119401",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "OYO Architects perches steel-framed office on harbourside warehouse",
-      "url": "https://www.dezeen.com/2026/08/12/oyo-architects-elia-group-ostend-office-warehouse/",
-      "excerpt": "Belgium studio OYO Architects has built a steel-framed office above a warehouse in Ostend, Belgium, to create an operations centre for energy company Elia. Designed to evoke the offshore platforms use",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "mexican craftsmanship finds contemporary language in everyday ceramics",
-      "url": "https://www.designboom.com/readers/mexican-craftsmanship-finds-contemporary-language-in-everyday-ceramics/",
-      "excerpt": "mexican ceramic studio SAUDARA pairs contemporary forms with expressive glazes, natural clay and everyday tableware.\nThe post mexican craftsmanship finds contemporary language in everyday ceramics app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467675/2026-08-11/saudara-ceramic-atelier-2-6a7ba56c50368.jpeg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "forestier’s solis pendants by jette scheib radiate a soft glow with hand-woven raphia",
-      "url": "https://www.designboom.com/design/forestier-solis-pendant-jette-scheib-hand-woven-raphia/",
-      "excerpt": "by using a natural fiber weave, jette scheib creates sculptural silhouettes for forestier’s solis pendants, shifting form with every perspective.\nThe post forestier’s solis pendants by jette scheib ra",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/forestier-facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "HANGHAR wants hierarchical homes to stop telling us how to live",
-      "url": "https://www.designboom.com/architecture/hanghar-hierarchical-house-to-stop-telling-us-how-to-live/",
-      "excerpt": "eduardo mediero's HANGHAR rethinks domestic architecture through flexible rooms, useful corridors and shifting degrees of privacy.\nThe post HANGHAR wants hierarchical homes to stop telling us how to l",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hanghar-hierarchical-house-to-stop-telling-us-how-to-live-designboom-2.jpg",
       "today": false
     },
     {
@@ -428,6 +418,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
