@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  21:38",
+  "fetchedAt": "2026.08.13  22:35",
   "sourceColors": {
-    "axismag.jp": {
+    "倉敷経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "kisspress.jp": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,52 +33,56 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "axismag.jp",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.13",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
       "today": true
     },
     {
@@ -92,13 +96,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.08.13",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
       "today": true
     },
     {
@@ -131,7 +134,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -148,6 +151,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
