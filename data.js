@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  12:56",
+  "fetchedAt": "2026.08.13  14:21",
   "sourceColors": {
-    "pronews.com": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -13,19 +13,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "sanyonews.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "kisspress.jp": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,13 +72,13 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "国内情報",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
       "date": "2026.08.13",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -102,16 +102,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.13",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -131,7 +132,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -144,10 +154,40 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.13",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Chef Medeu serves dishes from 1881 beneath Almaty’s mountains",
+      "url": "https://www.wallpaper.com/travel/restaurants/chef-madeu-almaty-review",
+      "excerpt": "Near the city’s high-altitude ice rink, a new restaurant designed by Tsipkun Interiors is an ode to the local landscape and motifs",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4ef4tdKRa46VCQfuPpjQ63-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "stupid engineering gives holiday brain its own aluminum wall calendar",
+      "url": "https://www.designboom.com/design/stupid-engineerings-aluminum-wall-calendar-holiday-brain/",
+      "excerpt": "ben ferrick’s deliberately obvious object gives holiday brain a permanent place on the wall.\nThe post stupid engineering gives holiday brain its own aluminum wall calendar appeared first on designboom",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/stupid-engineerings-aluminum-wall-calendar-holiday-brain-designboom-4-1.jpeg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Rivian updates its flagship R1 electric SUV with new colours, trim and interior options",
+      "url": "https://www.wallpaper.com/transportation/rivian-r1-electric-suv-updated",
+      "excerpt": "The Rivian R1 heads further upmarket to make more space in the middle for the successful R2, bringing a six-seater option for the first time",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vx9Nm3qrSFqRG67CzmjyUZ-2560-80.jpg",
       "today": true
     },
     {
@@ -209,16 +249,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Ikea’s new ‘Konstrunda’ collection is art for every home",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/interior-accessories/ikea-konstrunda-collection",
-      "excerpt": "Andu Masebo and Lisa Reiser are among seven artists and designers bringing their distinctive approaches to a new Ikea collection that asks what art in the home can be",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ShFFA6HVqDbwT9xWFMwQiU-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -248,6 +278,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "The Handmade Surface: Imperfection, Texture, and Craft in Contemporary Chinese Interiors",
+      "url": "https://www.archdaily.com/1183160/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors",
+      "excerpt": "Craft in contemporary interiors is increasingly valuable in the way materials are joined and brought into relation with one another. As the appetite for fast, inexpensive, and profitable retrofitting ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/202e/ab59/ca0b/0901/6a63/large_jpg/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors_3.jpg?1786519603",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -261,20 +301,40 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.13",
-      "title": "Matchbox / KAAN Architecten",
-      "url": "https://www.archdaily.com/1182473/matchbox-kaan-architecten",
-      "excerpt": "KAAN Architecten has completed Matchbox, a compact timber mixed-use building in Eindhoven's Strijp-S district. Designed as a calm landmark within the former Philips industrial site, the project offers",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bb3f/3cf9/6c00/0178/01dc/large_jpg/00_KAAN_Architecten_Matchbox__Sebastian_van_Damme.jpg?1786362723",
+      "title": "LJ House / Studio Saransh + IKSOI",
+      "url": "https://www.archdaily.com/1182506/lj-house-studio-saransh-plus-iksoi",
+      "excerpt": "Contemporary houses in urban India negotiate between the two parallel conditions: the desire for spatial generosity and the long-established culture of collective living. What is rarely questioned is ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/f51a/ab59/ca01/8994/4568/large_jpg/lj-house-studio-saransh-plus-iksoi_37.jpg?1786443055",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.13",
-      "title": "Colombia Earthquake Coverage and Two New Internationally Designed Towers: This Week's Review",
-      "url": "https://www.archdaily.com/1183225/colombia-earthquake-coverage-and-two-new-internationally-designed-towers-this-weeks-review",
-      "excerpt": "This week's news was, for the most part, about phenomena of large spatial and social scale. In Latin America, rescue efforts continue following the magnitude 7.4 earthquake in Colombia, while the disc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/14da/ac8b/af01/892c/c340/large_jpg/this-weeks-review_21.jpg?1786582238",
+      "title": "Why Travel (still) Shapes the Way Architects Think",
+      "url": "https://www.archdaily.com/1182468/why-travel-still-shapes-the-way-architects-think",
+      "excerpt": "Between the eighteenth and nineteenth centuries, traveling through Rome, Paris, Venice, Florence, and other European cities was considered an essential part of a newly graduated architect's education.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/9fc4/ab59/ca01/8994/4af0/large_jpg/why-travel-still-shapes-the-way-architects-think_6.jpg?1786552267",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "sauerbruch hutton and Studio Gang Win Competition to Redesign German House in New York",
+      "url": "https://www.archdaily.com/1183230/sauerbruch-hutton-and-studio-gang-win-competition-to-redesign-german-house-in-new-york",
+      "excerpt": "sauerbruch hutton and Studio Gang have been selected to renovate the German House in New York following an international competition organized by the Federal Republic of Germany. Located on United Nat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/7938/ab59/ca01/8994/4ce1/large_jpg/sauerbruch-hutton-and-studio-gang-win-competition-to-redesign-german-house-in-new-york_1.jpg?1786607947",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Matchbox / KAAN Architecten",
+      "url": "https://www.archdaily.com/1182473/matchbox-kaan-architecten",
+      "excerpt": "KAAN Architecten has completed Matchbox, a compact timber mixed-use building in Eindhoven's Strijp-S district. Designed as a calm landmark within the former Philips industrial site, the project offers",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bb3f/3cf9/6c00/0178/01dc/large_jpg/00_KAAN_Architecten_Matchbox__Sebastian_van_Damme.jpg?1786362723",
       "today": true
     },
     {
@@ -284,56 +344,6 @@ window.LUMINO_DATA = {
       "title": "Kii uses local limestone and colourful \"melting\" stools for SR Ice Cream Miyakojima",
       "url": "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
       "excerpt": "Architecture studio Kii has designed an ice cream shop on Miyakojima Island, Japan, featuring a pink ceiling, a limestone counter and perforated concrete tiles. Called SR Ice Cream Miyakojima, the caf",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "vietnam architects fill a narrow plot with stacked volumes to shape ‘titi’s house’",
-      "url": "https://www.designboom.com/architecture/vietnam-narrow-plot-stacked-volumes-titis-house-07-03-2025/",
-      "excerpt": "titi’s house demonstrates how a narrow urban lot in vietnam can become a home that balances individual privacy with shared family life. \nThe post vietnam architects fill a narrow plot with stacked vol",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/07/titis-house-naqi-partners-ho-chi-minh-city-vietnam-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Hungary's New Architectural Landscape: Building From the Past",
-      "url": "https://www.archdaily.com/1182447/hungarys-new-architectural-landscape-building-from-the-past",
-      "excerpt": "Hungary's architectural landscape spent the socialist decades being redrawn from above, its cooperative farms consolidated out of family plots and its standardized housing blocks distributed across th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a77/5652/ac8b/af01/892c/b5c9/large_jpg/hungarys-new-architectural-landscape-designed-from-the-ground_12.jpg?1786205783",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "A midcentury house and a 1990s apartment building unite to create this Australian home",
-      "url": "https://www.wallpaper.com/architecture/residential/midcentury-and-1990s-unite-australia",
-      "excerpt": "Davidov Architects seamlessly merges two styles and buildings – from the midcentury and the 1990s – to create a soothing home for a family of six; explore LDS II Residence",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bdrTet5x26JksqCb9nJ437-1199-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Green Sandwich House / HYAN",
-      "url": "https://www.archdaily.com/1183108/green-sandwich-house-hyan",
-      "excerpt": "Rather than demolishing an ageing 1970s timber house, Japanese studio HYAN chose to inherit it — renovating the building into a home and studio for its own founders in the hills of Hayama, Kanagawa. B",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/2b31/3cf9/6c00/0178/060f/large_jpg/000_living_featured_.jpg?1786456909",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Pakenham Station / Genton",
-      "url": "https://www.archdaily.com/1041643/pakenham-station-genton",
-      "excerpt": "Pakenham Station redefines the role of transport infrastructure as both a civic landmark and a catalyst for urban renewal. Delivered as part of Victoria's Level Crossing Removal Project, the station r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0c/4bd1/093e/9201/8986/4b1f/large_jpg/pakenham-station-genton_15.jpg?1779190744",
       "today": true
     },
     {
