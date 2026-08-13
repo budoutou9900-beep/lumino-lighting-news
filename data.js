@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  20:36",
+  "fetchedAt": "2026.08.13  21:38",
   "sourceColors": {
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "倉敷経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "kisspress.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -72,16 +72,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.08.13",
@@ -92,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.13",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -109,16 +99,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -151,13 +131,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -197,6 +187,16 @@ window.LUMINO_DATA = {
       "title": "Sauerbruch Hutton and Studio Gang to revamp German House skyscraper in New York",
       "url": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
       "excerpt": "German studio Sauerbruch Hutton and US practice Studio Gang have been selected to redesign German House to reflect the nation's values and create a \"civic landmark\" just north of the United Nations co",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "SJC House / Felipe Hess Arquitetos",
+      "url": "https://www.archdaily.com/1183294/sjc-house-felipe-hess-arquitetos",
+      "excerpt": "The house, located in an established gated community in São José dos Campos, occupies a plot with pre-existing structures and a street front constrained by the proximity of neighboring houses. The des",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/b53c/3890/a32c/d2ab/3fce/large_jpg/casa-sjc-felipe-hess-arquitetos_9.jpg?1783543121",
       "today": true
     },
     {
@@ -343,16 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183160/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors",
       "excerpt": "Craft in contemporary interiors is increasingly valuable in the way materials are joined and brought into relation with one another. As the appetite for fast, inexpensive, and profitable retrofitting ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/202e/ab59/ca0b/0901/6a63/large_jpg/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors_3.jpg?1786519603",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "LJ House / Studio Saransh + IKSOI",
-      "url": "https://www.archdaily.com/1182506/lj-house-studio-saransh-plus-iksoi",
-      "excerpt": "Contemporary houses in urban India negotiate between the two parallel conditions: the desire for spatial generosity and the long-established culture of collective living. What is rarely questioned is ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/f51a/ab59/ca01/8994/4568/large_jpg/lj-house-studio-saransh-plus-iksoi_37.jpg?1786443055",
       "today": true
     },
     {
