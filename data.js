@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  11:01",
+  "fetchedAt": "2026.08.13  12:56",
   "sourceColors": {
-    "中日新聞Web": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,16 +57,30 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.08.13",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
@@ -88,26 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.13",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -156,12 +151,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.13",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "Fancy a turnkey home created by a legendary Italian design house? Pininfarina can help",
+      "url": "https://www.wallpaper.com/architecture/residential/pininfarina-collection-sei-design-usa",
+      "excerpt": "The Collection Sei Design by Pininfarina x MV Group USA brings bespoke Italian architectural design to an American audience. Just bring a plot",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XXCKvhMreVL23zveFGFmFX-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Discover 100 years of American photography in London",
+      "url": "https://www.wallpaper.com/art/photography/portrait-of-a-city-a-century-of-american-photography-review",
+      "excerpt": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UrUeXVA54wSr8PySk7RW75-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Bruce Springsteen’s New Jersey museum is worth a Garden State pilgrimage. Here’s a closer look inside",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/bruce-springsteen-museum-new-jersey",
+      "excerpt": "Designed by CookFox Architects, the Bruce Springsteen Center for American Music is about storytelling inside and out",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6qF9TMzrwubYrZFgvkCLeQ-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat",
+      "url": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/",
+      "excerpt": "Indian studio AKSH Architects has completed The Earthen Retreat, a cluster of guesthouses in Pune created by repurposing several small abandoned buildings and coating them with mud and lime plaster. T",
       "today": true
     },
     {
@@ -178,7 +203,7 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.13",
-      "title": "Jaguar reveals first look of Type 01's four-seat interior",
+      "title": "Jaguar reveals first look at Type 01's four-seat interior",
       "url": "https://www.dezeen.com/2026/08/13/jaguar-type-01-interior-launch-october/",
       "excerpt": "British carmaker Jaguar has revealed a glimpse of its upcoming Type 01 electric car, which has a central divider and \"on-demand\" screens. The recently released renders show the interior of Jaguar's Ty",
       "today": true
@@ -312,51 +337,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "What happens when cocktail bars stop wasting ingredients?",
-      "url": "https://www.wallpaper.com/travel/bars/sustainable-bars-around-the-world",
-      "excerpt": "From no-ice systems to banana-peel garnishes, a new generation of cocktail bars is turning waste into creative fuel",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dg8bjUZmiEaMiqPiZ3TeXN-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.12",
       "title": "Clayton Korte creates weathering-steel barn for California winery",
       "url": "https://www.dezeen.com/2026/08/12/clayton-korte-cayucos-vineyard-barn-california/",
       "excerpt": "Texas architecture studio Clayton Korte has completed a Corten steel-clad structure for storing vineyard equipment at a winery on the Central Coast of California. The 4,315-square-foot (400-square-met",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Singer teams up with Louis Vuitton to create a pair of outrageously modified Porsche 911s",
-      "url": "https://www.wallpaper.com/transportation/singer-vehicle-design-louis-vuitton-porsche-911-reimagined",
-      "excerpt": "The lavish duo – a Classic and a Classic Turbo Porsche 911 Reimagined by Singer – have been co-created with the full might and majesty of Louis Vuitton",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rJYiK8uzVkz2f5ioxkJgKD-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Heatherwick Studio gives this Kentucky civic space a refresh",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/heathwick-studio-belvedere-kentucky-usa",
-      "excerpt": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9HvmfvLmnGpA4oSnUcbFK5-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Modular housing in Los Angeles among projects from UCLA",
-      "url": "https://www.dezeen.com/2026/08/12/modular-housing-los-angeles-ucla-schoolshows/",
-      "excerpt": "Dezeen School Shows: modular housing designed for communities affected by the 2025 Los Angeles wildfires is among projects from UCLA. Also featured is a housing program to support first-time buyers an",
       "today": false
     },
     {
@@ -427,6 +413,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
