@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  18:55",
+  "fetchedAt": "2026.08.13  19:54",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "sortiraparis.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "kisspress.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,41 +29,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -98,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -117,7 +121,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -143,6 +147,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -215,6 +229,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "New Headquarters Office Building for IAPSER / Sebastian Stechina + Carlos Di Napoli + Andres Francesconi",
+      "url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
+      "excerpt": "On the edge where Paraná's urban fabric meets the river, an office building designed in exposed reinforced concrete offers a contemporary, high-performance image. The project was developed based on th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/large_jpg/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -251,6 +275,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/stupid-engineerings-aluminum-wall-calendar-holiday-brain/",
       "excerpt": "ben ferrick’s deliberately obvious object gives holiday brain a permanent place on the wall.\nThe post stupid engineering gives holiday brain its own aluminum wall calendar appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/stupid-engineerings-aluminum-wall-calendar-holiday-brain-designboom-4-1.jpeg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Quetzal House / Sertão Arquitetos",
+      "url": "https://www.archdaily.com/1183268/quetzal-house-sertao-arquitetos",
+      "excerpt": "Located in São Francisco Xavier, a district of São José dos Campos, Casa Quetzal is nestled in the landscape of the Mantiqueira Mountains, surrounded by the Atlantic Forest and the rural architecture ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/ae61/3cf9/6c00/0178/0c45/large_jpg/4-IMG_1755-HDR.jpg?1786556045",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Emeco House / david saik studio",
+      "url": "https://www.archdaily.com/1181309/emeco-house-david-saik-studio",
+      "excerpt": "Emeco House is the complete conversion of a former sewing factory at the edge of a residential neighbourhood in Venice, Los Angeles, to create working, exhibition, and event space on the ground floor,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/5277/895c/1800/0111/7f2d/large_jpg/9_interior_upper_level_kitchen_sitting_emeco_house_david_saik_architect.jpg?1784566490",
       "today": true
     },
     {
@@ -308,36 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182506/lj-house-studio-saransh-plus-iksoi",
       "excerpt": "Contemporary houses in urban India negotiate between the two parallel conditions: the desire for spatial generosity and the long-established culture of collective living. What is rarely questioned is ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/f51a/ab59/ca01/8994/4568/large_jpg/lj-house-studio-saransh-plus-iksoi_37.jpg?1786443055",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Why Travel (still) Shapes the Way Architects Think",
-      "url": "https://www.archdaily.com/1182468/why-travel-still-shapes-the-way-architects-think",
-      "excerpt": "Between the eighteenth and nineteenth centuries, traveling through Rome, Paris, Venice, Florence, and other European cities was considered an essential part of a newly graduated architect's education.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/9fc4/ab59/ca01/8994/4af0/large_jpg/why-travel-still-shapes-the-way-architects-think_6.jpg?1786552267",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "sauerbruch hutton and Studio Gang Win Competition to Redesign German House in New York",
-      "url": "https://www.archdaily.com/1183230/sauerbruch-hutton-and-studio-gang-win-competition-to-redesign-german-house-in-new-york",
-      "excerpt": "sauerbruch hutton and Studio Gang have been selected to renovate the German House in New York following an international competition organized by the Federal Republic of Germany. Located on United Nat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/7938/ab59/ca01/8994/4ce1/large_jpg/sauerbruch-hutton-and-studio-gang-win-competition-to-redesign-german-house-in-new-york_1.jpg?1786607947",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Matchbox / KAAN Architecten",
-      "url": "https://www.archdaily.com/1182473/matchbox-kaan-architecten",
-      "excerpt": "KAAN Architecten has completed Matchbox, a compact timber mixed-use building in Eindhoven's Strijp-S district. Designed as a calm landmark within the former Philips industrial site, the project offers",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bb3f/3cf9/6c00/0178/01dc/large_jpg/00_KAAN_Architecten_Matchbox__Sebastian_van_Damme.jpg?1786362723",
       "today": true
     },
     {
