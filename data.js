@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  01:24",
+  "fetchedAt": "2026.08.13  04:06",
   "sourceColors": {
     "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "kisspress.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -148,6 +148,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "A midcentury house and a 1990s apartment building unite to create this Australian home",
+      "url": "https://www.wallpaper.com/architecture/residential/midcentury-and-1990s-unite-australia",
+      "excerpt": "Davidov Architects seamlessly merges two styles and buildings – from the midcentury and the 1990s – to create a soothing home for a family of six; explore LDS II Residence",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bdrTet5x26JksqCb9nJ437-1199-80.jpg",
       "today": true
     },
     {
@@ -256,16 +266,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183133/sodzil-house-esencial-studio",
       "excerpt": "The project emerges in the vicinity of Hacienda Sodzil Norte, a vestige of the henequen boom in Yucatán that still preserves the physical and environmental memory of its past. The site, guarded by end",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/6464/ac8b/af01/892c/bde8/large_jpg/casa-sodzil-esencial-studio_3.jpg?1786471541",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Luxurious minimalism for four: a first look inside the upcoming Jaguar Type 01",
-      "url": "https://www.wallpaper.com/transportation/inside-the-upcoming-jaguar-type-01",
-      "excerpt": "As the Jaguar Type 01 inches towards its full reveal, the company has opened the doors of the big electric GT to showcase the interior architecture for the first time",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8S9XntSuPYjrrK2ixuJEXH-2560-80.jpg",
       "today": false
     },
     {
