@@ -1,31 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  09:59",
+  "fetchedAt": "2026.08.13  11:01",
   "sourceColors": {
-    "Dezeen": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "kisspress.jp": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "Google ニュース": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "designboom": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Dezeen": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -39,6 +67,113 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.13",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.13",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "kisspress.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "studio ellsinger shapes a compact coastal home on sweden’s west coast",
+      "url": "https://www.designboom.com/architecture/studio-ellsinger-compact-coastal-home-sweden-west-coast/",
+      "excerpt": "studio ellsinger’s hee house combines a compact footprint with strategic detailing for a spacious retreat on sweden’s west coast. \nThe post studio ellsinger shapes a compact coastal home on sweden’s w",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/07/hee-house-studio-ellsinger-sweden-designboom-FB.jpg",
+      "today": true
+    },
     {
       "source": "Dezeen",
       "cat": "デザイン",
@@ -98,12 +233,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Matchbox / KAAN Architecten",
+      "url": "https://www.archdaily.com/1182473/matchbox-kaan-architecten",
+      "excerpt": "KAAN Architecten has completed Matchbox, a compact timber mixed-use building in Eindhoven's Strijp-S district. Designed as a calm landmark within the former Philips industrial site, the project offers",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bb3f/3cf9/6c00/0178/01dc/large_jpg/00_KAAN_Architecten_Matchbox__Sebastian_van_Damme.jpg?1786362723",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Colombia Earthquake Coverage and Two New Internationally Designed Towers: This Week's Review",
+      "url": "https://www.archdaily.com/1183225/colombia-earthquake-coverage-and-two-new-internationally-designed-towers-this-weeks-review",
+      "excerpt": "This week's news was, for the most part, about phenomena of large spatial and social scale. In Latin America, rescue efforts continue following the magnitude 7.4 earthquake in Colombia, while the disc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/14da/ac8b/af01/892c/c340/large_jpg/this-weeks-review_21.jpg?1786582238",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.13",
       "title": "Kii uses local limestone and colourful \"melting\" stools for SR Ice Cream Miyakojima",
       "url": "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
       "excerpt": "Architecture studio Kii has designed an ice cream shop on Miyakojima Island, Japan, featuring a pink ceiling, a limestone counter and perforated concrete tiles. Called SR Ice Cream Miyakojima, the caf",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "vietnam architects fill a narrow plot with stacked volumes to shape ‘titi’s house’",
+      "url": "https://www.designboom.com/architecture/vietnam-narrow-plot-stacked-volumes-titis-house-07-03-2025/",
+      "excerpt": "titi’s house demonstrates how a narrow urban lot in vietnam can become a home that balances individual privacy with shared family life. \nThe post vietnam architects fill a narrow plot with stacked vol",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/07/titis-house-naqi-partners-ho-chi-minh-city-vietnam-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Hungary's New Architectural Landscape: Building From the Past",
+      "url": "https://www.archdaily.com/1182447/hungarys-new-architectural-landscape-building-from-the-past",
+      "excerpt": "Hungary's architectural landscape spent the socialist decades being redrawn from above, its cooperative farms consolidated out of family plots and its standardized housing blocks distributed across th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a77/5652/ac8b/af01/892c/b5c9/large_jpg/hungarys-new-architectural-landscape-designed-from-the-ground_12.jpg?1786205783",
       "today": true
     },
     {
@@ -140,41 +315,11 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.13",
-      "title": "What happens when cocktail bars stop wasting ingredients",
+      "title": "What happens when cocktail bars stop wasting ingredients?",
       "url": "https://www.wallpaper.com/travel/bars/sustainable-bars-around-the-world",
       "excerpt": "From no-ice systems to banana-peel garnishes, a new generation of cocktail bars is turning waste into creative fuel",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dg8bjUZmiEaMiqPiZ3TeXN-1600-80.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Tianfu Fusion Technology Research Center - SWIP / CSWADI",
-      "url": "https://www.archdaily.com/1183129/tianfu-fusion-technology-research-center-swip-csadi",
-      "excerpt": "This project is the Tianfu Fusion Technology Research Center of Southwest Institute of Physics (SWIP), China National Nuclear Corporation. The architectural design is carried out for the scientific-re",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/453d/3cf9/6c00/0178/079d/large_jpg/_2_______-The_Light_Funnel__________.jpg?1786463583",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Hospital del Mar Phase 2 Expansion / PINEARQ + Brullet-De Luna Arquitectes",
-      "url": "https://www.archdaily.com/1183207/hospital-del-mar-phase-2-expansion-pinearq-plus-brullet-de-luna-arquitectes",
-      "excerpt": "Hospital del Mar occupies the southern end of the Campus Mar, bounded by the seafront promenade, the Ronda Litoral highway, the railway tracks, and the Barceloneta neighborhood. The project's challeng",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7d19/1801/ca00/0176/e6a1/large_jpg/01_Hospital_del_Mar_Simon_Garcia.jpg?1785494826",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "what if housing was designed around changing relationships rather than nuclear families?",
-      "url": "https://www.designboom.com/architecture/housing-designed-around-changing-relationships-nuclear-families/",
-      "excerpt": "relationships change much faster than buildings, and a floor plan could begin by anticipating that.\nThe post what if housing was designed around changing relationships rather than nuclear families? ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/housing-beyond-nuclear-family-changing-relationships-designboom-FB.jpg",
-      "today": false
     },
     {
       "source": "Dezeen",
@@ -203,26 +348,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/heathwick-studio-belvedere-kentucky-usa",
       "excerpt": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9HvmfvLmnGpA4oSnUcbFK5-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Apartment Matisse / Gurgel D’Alfonso Arquitetura",
-      "url": "https://www.archdaily.com/1183215/apartment-matisse-gurgel-dalfonso-arquitetura",
-      "excerpt": "Apartamento Matisse translates a particular way of living into architecture: connected, attentive, and sensitive to the passage of time. Located in Moema, a leafy neighborhood in São Paulo’s south zon",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/308b/3cf9/6c00/0178/06a1/large_jpg/adfoto_7953.jpg?1786458279",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "shifted roofs and reflected light connect old and new homes in suburban tokyo",
-      "url": "https://www.designboom.com/architecture/shifted-roofs-reflected-light-old-new-homes-suburban-tokyo-slur-house-yohei-ikai-icai-architects/",
-      "excerpt": "the new house carries forward the original residence’s pointed roof and white exterior walls.\nThe post shifted roofs and reflected light connect old and new homes in suburban tokyo appeared first on d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/slur-house-detached-annex-residence-suburban-tokyo-yohei-ikai-icai-architects-designboom-1200-1.jpg",
       "today": false
     },
     {
@@ -302,16 +427,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
