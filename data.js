@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  17:54",
+  "fetchedAt": "2026.08.13  18:55",
   "sourceColors": {
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "倉敷経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,19 +41,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -67,16 +67,6 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
@@ -95,16 +85,6 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -154,6 +134,35 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.13",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "former textile warehouse transforms into fractal-inspired jaipur rugs showroom in mumbai",
+      "url": "https://www.designboom.com/architecture/former-textile-warehouse-fractal-inspired-jaipur-rugs-showroom-mumbai-roar/",
+      "excerpt": "fractal geometry translates the repetitive rhythm of hand-knotting into architecture.\nThe post former textile warehouse transforms into fractal-inspired jaipur rugs showroom in mumbai appeared first o",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mumbai-roar-jaipur-rugs-showroom-textile-warehouse-fractal-geometry-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "jaguar reveals type 01 interior with full-length ‘spine’ and travertine tones",
+      "url": "https://www.designboom.com/technology/jaguar-reveals-type-01-interior-spine-travertine-tones/",
+      "excerpt": "jaguar carries the type 00 concept's full-length spine into production, dividing its upcoming electric type 01 into four individual spaces.\nThe post jaguar reveals type 01 interior with full-length ‘s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/jaguar-type-01-interior-reveal-designboom-FB-1.jpg",
       "today": true
     },
     {
@@ -282,26 +291,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "OFFICEUNTITLED turns vacant santa monica office floor into school after the palisades fire",
-      "url": "https://www.designboom.com/readers/officeuntitled-turns-a-vacant-santa-monica-office-floor-into-a-school-after-the-palisades-fire/",
-      "excerpt": "classrooms, colorful graphics and playful ‘imaginariums’ give an unlikely second life to a floor built for desks and meeting.\nThe post OFFICEUNTITLED turns vacant santa monica office floor into school",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467176/2026-08-04/bringing-back-village-school-2-6a71442818498.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "‘nature becomes the choreographer’: janet echelman on a sky full of hope in frankfurt",
-      "url": "https://www.designboom.com/art/nature-choreographer-janet-echelman-sky-full-hope-earthtime-frankfurt-wdc/",
-      "excerpt": "janet echelman suspends 'a sky full of hope' over frankfurt, where wind and public use continually reshape the work and the space beneath it.\nThe post ‘nature becomes the choreographer’: janet echelma",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/janet-echelman-sky-full-of-hope-stadt-frankfurt-am-main-designboom-FB.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -419,6 +408,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
