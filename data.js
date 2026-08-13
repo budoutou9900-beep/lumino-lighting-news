@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  16:51",
+  "fetchedAt": "2026.08.13  17:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,17 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -132,7 +128,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -158,6 +154,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Sauerbruch Hutton and Studio Gang to revamp German House skyscraper in New York",
+      "url": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
+      "excerpt": "German studio Sauerbruch Hutton and US practice Studio Gang have been selected to redesign German House to reflect the nation's values and create a \"civic landmark\" just north of the United Nations co",
       "today": true
     },
     {
@@ -347,15 +352,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Kii uses local limestone and colourful \"melting\" stools for SR Ice Cream Miyakojima",
-      "url": "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
-      "excerpt": "Architecture studio Kii has designed an ice cream shop on Miyakojima Island, Japan, featuring a pink ceiling, a limestone counter and perforated concrete tiles. Called SR Ice Cream Miyakojima, the caf",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.07",
@@ -423,16 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
