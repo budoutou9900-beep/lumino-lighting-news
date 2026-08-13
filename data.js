@@ -1,86 +1,72 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  14:21",
+  "fetchedAt": "2026.08.13  15:54",
   "sourceColors": {
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "倉敷経済新聞": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "sanyonews.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "ArchDaily": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.13",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
@@ -102,7 +88,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
@@ -112,7 +98,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.13",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -164,6 +150,55 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.13",
+      "title": "Soho’s most theatrical hotel is getting a Beefbar restaurant",
+      "url": "https://www.wallpaper.com/travel/restaurants/beefbar-broadwick-soho-london",
+      "excerpt": "Monte Carlo-born Beefbar will take over Dear Jackie at Broadwick Soho this September, giving the London hotel a carnivorous new chapter of rare cuts, velvet and late nights",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/utL6X6X35msTFNvt8w26eg-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "A new Earthship residence will land in Kansas – and it’s tornado- and fire-resistant",
+      "url": "https://www.wallpaper.com/architecture/residential/tornado-resistant-earthship-residence-usa",
+      "excerpt": "The self-sufficient off-grid home will be made using ‘garbage’ and is conceived to withstand extreme conditions",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5WoN2FCjBSWkKPbMenYSXb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "falwa restaurant transforms arabian equestrian heritage into fluid architectural interior",
+      "url": "https://www.designboom.com/architecture/falwa-restaurant-arabian-equestrian-heritage-fluid-architectural-interior-4space/",
+      "excerpt": "rejecting literal motifs, the restaurant opts for boundary-dissolving forms, custom mineral plaster, and refined leatherwork that mirror the essence of equestrian tack and desert heritage.\nThe post fa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/4space-falwa-restaurant-arabian-equestrian-heritage-fluid-interior-abu-dhabi-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Dior Beauty’s history is now an animated film – meet the director and watch it here",
+      "url": "https://www.wallpaper.com/fashion-beauty/miss-dior-animated-film-ugo-bienvenu-interview",
+      "excerpt": "Celebrated French director Ugo Bienvenu offers insight into his joyful new campaign for the Miss Dior fragrance",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pFd2Gwfr6sPS5bYBC4yZF6-2016-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "Diller Scofidio + Renfro renovates Boston storage warehouse for MIT architecture school",
+      "url": "https://www.dezeen.com/2026/08/13/dsr-met-mit-warehouse-school-of-architecture/",
+      "excerpt": "New York architecture studio Diller Scofidio + Renfro has spliced an 1894 brick warehouse building with several glazed volumes to create a home for MIT's School of Architecture and Planning. The Metro",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.13",
       "title": "Chef Medeu serves dishes from 1881 beneath Almaty’s mountains",
       "url": "https://www.wallpaper.com/travel/restaurants/chef-madeu-almaty-review",
       "excerpt": "Near the city’s high-altitude ice rink, a new restaurant designed by Tsipkun Interiors is an ode to the local landscape and motifs",
@@ -188,36 +223,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/rivian-r1-electric-suv-updated",
       "excerpt": "The Rivian R1 heads further upmarket to make more space in the middle for the successful R2, bringing a six-seater option for the first time",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vx9Nm3qrSFqRG67CzmjyUZ-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Fancy a turnkey home created by a legendary Italian design house? Pininfarina can help",
-      "url": "https://www.wallpaper.com/architecture/residential/pininfarina-collection-sei-design-usa",
-      "excerpt": "The Collection Sei Design by Pininfarina x MV Group USA brings bespoke Italian architectural design to an American audience. Just bring a plot",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XXCKvhMreVL23zveFGFmFX-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Discover 100 years of American photography in London",
-      "url": "https://www.wallpaper.com/art/photography/portrait-of-a-city-a-century-of-american-photography-review",
-      "excerpt": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UrUeXVA54wSr8PySk7RW75-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Bruce Springsteen’s New Jersey museum is worth a Garden State pilgrimage. Here’s a closer look inside",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/bruce-springsteen-museum-new-jersey",
-      "excerpt": "Designed by CookFox Architects, the Bruce Springsteen Center for American Music is about storytelling inside and out",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6qF9TMzrwubYrZFgvkCLeQ-1920-80.jpg",
       "today": true
     },
     {
@@ -288,16 +293,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "island records and emi turn their king’s cross headquarters into a spatial mixtape",
-      "url": "https://www.designboom.com/architecture/island-records-and-emi-turn-their-kings-cross-headquarters-into-a-spatial-mixtape/",
-      "excerpt": "the king’s cross office trades corporate neutrality for pantone yellow, a deconstructed union jack and more than 70 works of art.\nThe post island records and emi turn their king’s cross headquarters i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/island-records-emi-kings-cross-headquarters-spatial-mixtape-interesting-projects-studio-eye-designboom-8.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -345,15 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
       "excerpt": "Architecture studio Kii has designed an ice cream shop on Miyakojima Island, Japan, featuring a pink ceiling, a limestone counter and perforated concrete tiles. Called SR Ice Cream Miyakojima, the caf",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.12",
-      "title": "Clayton Korte creates weathering-steel barn for California winery",
-      "url": "https://www.dezeen.com/2026/08/12/clayton-korte-cayucos-vineyard-barn-california/",
-      "excerpt": "Texas architecture studio Clayton Korte has completed a Corten steel-clad structure for storing vineyard equipment at a winery on the Central Coast of California. The 4,315-square-foot (400-square-met",
-      "today": false
     },
     {
       "source": "大光電機",
