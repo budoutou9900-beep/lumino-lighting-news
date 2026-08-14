@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  11:41",
+  "fetchedAt": "2026.08.14  12:53",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "sanyonews.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -69,13 +69,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -100,7 +104,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -129,7 +133,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -185,6 +189,16 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Sail away on Four Seasons I, the new 207m luxury yacht where every suite faces the sea",
+      "url": "https://www.wallpaper.com/travel/four-seasons-i-yatch-review",
+      "excerpt": "A one-to-one staff ratio, 95 suites and 11 dining venues define Four Seasons’ ambitious entry into luxury yachting",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hXXAtoPsLhhjeeYMmjPuJQ-1600-80.jpg",
       "today": true
     },
     {
@@ -265,6 +279,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Applying Exposed Cork in Interior Architecture",
+      "url": "https://www.archdaily.com/960854/applying-exposed-cork-in-interior-architecture",
+      "excerpt": "How can we transport ourselves to natural environments when we find ourselves in entirely urban contexts? The materiality of spaces is one of the factors that determines the atmosphere we inhabit. In ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6086/cff3/f91c/81a7/b800/0130/large_jpg/ArtBarn-JimStephenson-80_MidRes.jpg?1619447790",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Holiday House in Rågeleje / Jesper Kusk Arkitekter",
+      "url": "https://www.archdaily.com/1183164/holiday-house-in-rageleje-jesper-kusk-arkitekter",
+      "excerpt": "The holiday house is situated on an elevated site in Rågeleje, overlooking the Kattegat Sea. The narrow plot extends from south to north, reaching the public beach.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/35df/3cf9/6c00/0178/09b6/large_jpg/Ra_geleje_17_FotoHB_high.jpg?1786525192",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -272,6 +306,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/nikos-koulis-paris-boutique",
       "excerpt": "Nikos Koulis’ new Paris flagship is a haven of good jewellery – and good design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uEpFKAEXhF5wdNVmaA6noG.gif",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Industrialized Steel Construction: Lessons From a Naval Foundry in Thailand",
+      "url": "https://www.archdaily.com/1182129/industrialized-steel-construction-lessons-from-a-naval-foundry-in-thailand",
+      "excerpt": "Industrial buildings are often expected to prioritize efficiency, production, and technical performance above all else. As a result, architectural quality is frequently treated as secondary to functio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/ea6e/4460/0501/896c/fd40/large_jpg/zero-tolerance-how-steel-systems-are-ending-the-era-of-close-enough_3.jpg?1785784956",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Pelli Clarke & Partners Completes Lola Mora Cultural Center in San Salvador de Jujuy, Argentina",
+      "url": "https://www.archdaily.com/1183307/pelli-clarke-and-partners-completes-lola-mora-cultural-center-in-san-salvador-de-jujuy-argentina",
+      "excerpt": "Pelli Clarke & Partners has completed the Lola Mora Cultural Center in San Salvador de Jujuy, Argentina, a new cultural institution dedicated to the life and work of Argentine sculptor Lola Mora (1866",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/d575/ac8b/af01/892c/c802/large_jpg/pelli-clarke-and-partners-completes-lola-mora-cultural-center-in-san-salvador-de-jujuy-argentina_2.jpg?1786697232",
       "today": true
     },
     {
@@ -295,13 +349,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
-      "title": "White-walled minimalism and heritage spirit meet in a revived Athens townhouse by Local Local",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/local-local-greece",
-      "excerpt": "Tour this calming sanctuary by Local Local, an emerging architecture studio from Athens, Greece, that features in the Wallpaper* Architects’ Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mDryJZBchnqtKJYfYuM9fU-1181-80.jpg",
+      "title": "Children’s House Brunnengasse / Bernardo Bader Architekten",
+      "url": "https://www.archdaily.com/1183165/childrens-house-brunnengasse-bernardo-bader-architekten",
+      "excerpt": "The Children's House Brunnengasse is creating a contemporary educational building in the Rickenbach neighborhood of Wolfurt, bringing together architecture, sustainability, and pedagogy as a harmoniou",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/365d/3cf9/6c00/0178/09cc/large_jpg/300_Kinderhaus_Brunnengasse_Wolfurt_08_Ralph_Feiner.jpg?1786525496",
       "today": true
     },
     {
@@ -323,46 +377,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "All-Inclusive Escapes: 7 Unbuilt Hotel Projects from the ArchDaily Community",
-      "url": "https://www.archdaily.com/1183192/all-inclusive-escapes-7-unbuilt-hotel-projects-from-the-archdaily-community",
-      "excerpt": "Getting away is a long-held fantasy and desire. In literature, film, and music, people have created imaginary journeys, possible worlds, and settings for enjoyment. It is that fantasy that fuels a spe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/d963/ac8b/af01/892c/c23d/large_jpg/unbuilt-hotel-projects_1.jpg?1786567062",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "The Tale of Bricks House / Earthscape Studio",
-      "url": "https://www.archdaily.com/1183260/the-tale-of-bricks-house-earthscape-studio",
-      "excerpt": "A Mock-up That Became a Home – For an architecture practice, a mock-up is often a means of testing an idea before it is translated into a larger project. It is an opportunity to work at full scale, ex",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/d5bd/3cf9/6c00/0178/26ff/large_jpg/01.jpg?1786634153",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Kyoto Minami Kaikan Movie Theater / Tato Architects",
-      "url": "https://www.archdaily.com/1183107/kyoto-minami-kaikan-movie-theater-tato-architects",
-      "excerpt": "This project is the relocation and renovation of a long-established movie theater that had marked 55 years of history in Kyoto. Its new home is a building constructed as a bank in 1993. The question w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/b946/ac8b/af01/892c/c435/large_jpg/kyoto-minami-kaikan-movie-theater-tato-architects_28.jpg?1786624335",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Super JINJIANG / COLORFULL YUJING DESIGN",
-      "url": "https://www.archdaily.com/1183083/super-jinjiang-colorfull-yujing-design",
-      "excerpt": "Jinjiang, known as China's \"Capital of Brands\". Alongside its strong manufacturing heritage, the city is enriched by Maritime Silk Road culture, traditional Minnan architecture, and overseas Chinese h",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/b798/3cf9/6c00/0178/0493/large_jpg/07.jpg?1786427344",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -370,16 +384,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio/",
       "excerpt": "wool, rope, ceramics, camel leather, and local stone appear across the museum interiors.\nThe post zayed national museum’s interiors weave emirati craft, material, and cycles of time appeared first on ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "SUUEL Living / CAAM Arquitectos",
-      "url": "https://www.archdaily.com/1183288/suuel-living-caam-arquitectos",
-      "excerpt": "Located in Puerto Escondido, Oaxaca, Suuel Living is conceived as a coastal enclave where daily life merges with the calm of the landscape. It was born as a natural extension of the renowned Hotel Suu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/0734/3cf9/6c00/0178/2964/large_jpg/_S__CAAM_SUUEL_LIVING_ZAICKZ_MOZ_14.jpg?1786644338",
       "today": false
     },
     {
@@ -450,6 +454,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
