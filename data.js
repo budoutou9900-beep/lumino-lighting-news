@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.13  23:35",
+  "fetchedAt": "2026.08.14  01:23",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -88,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -98,7 +98,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -108,7 +108,7 @@ window.LUMINO_DATA = {
     {
       "source": "倉敷経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
@@ -118,7 +118,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
@@ -128,7 +128,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -138,7 +138,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -147,7 +147,7 @@ window.LUMINO_DATA = {
     {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
@@ -157,7 +157,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.13",
+      "date": "2026.08.14",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -168,11 +168,31 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.13",
+      "title": "zayed national museum’s interiors weave emirati craft, material, and cycles of time",
+      "url": "https://www.designboom.com/architecture/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio/",
+      "excerpt": "wool, rope, ceramics, camel leather, and local stone appear across the museum interiors.\nThe post zayed national museum’s interiors weave emirati craft, material, and cycles of time appeared first on ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.13",
       "title": "lincoln brings sunset-toned interiors to 2027 nautilus during monterey car week",
       "url": "https://www.designboom.com/technology/lincoln-sunset-interiors-2027-nautilus-monterey-refresh/",
       "excerpt": "as designboom arrives in monterey for car week, lincoln introduces two atmospheric interiors for its refreshed 2027 nautilus.\nThe post lincoln brings sunset-toned interiors to 2027 nautilus during mon",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2027-lincoln-nautilus-black-label-monterey-designboom-FB.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.13",
+      "title": "SUUEL Living / CAAM Arquitectos",
+      "url": "https://www.archdaily.com/1183288/suuel-living-caam-arquitectos",
+      "excerpt": "Located in Puerto Escondido, Oaxaca, Suuel Living is conceived as a coastal enclave where daily life merges with the calm of the landscape. It was born as a natural extension of the renowned Hotel Suu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/0734/3cf9/6c00/0178/2964/large_jpg/_S__CAAM_SUUEL_LIVING_ZAICKZ_MOZ_14.jpg?1786644338",
+      "today": false
     },
     {
       "source": "designboom",
@@ -182,7 +202,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/former-textile-warehouse-fractal-inspired-jaipur-rugs-showroom-mumbai-roar/",
       "excerpt": "fractal geometry translates the repetitive rhythm of hand-knotting into architecture.\nThe post former textile warehouse transforms into fractal-inspired jaipur rugs showroom in mumbai appeared first o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mumbai-roar-jaipur-rugs-showroom-textile-warehouse-fractal-geometry-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -192,7 +212,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/jaguar-reveals-type-01-interior-spine-travertine-tones/",
       "excerpt": "jaguar carries the type 00 concept's full-length spine into production, dividing its upcoming electric type 01 into four individual spaces.\nThe post jaguar reveals type 01 interior with full-length ‘s",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/jaguar-type-01-interior-reveal-designboom-FB-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -201,7 +221,7 @@ window.LUMINO_DATA = {
       "title": "Sauerbruch Hutton and Studio Gang to revamp German House skyscraper in New York",
       "url": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
       "excerpt": "German studio Sauerbruch Hutton and US practice Studio Gang have been selected to redesign German House to reflect the nation's values and create a \"civic landmark\" just north of the United Nations co",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -211,7 +231,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183294/sjc-house-felipe-hess-arquitetos",
       "excerpt": "The house, located in an established gated community in São José dos Campos, occupies a plot with pre-existing structures and a street front constrained by the proximity of neighboring houses. The des",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/b53c/3890/a32c/d2ab/3fce/large_jpg/casa-sjc-felipe-hess-arquitetos_9.jpg?1783543121",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -221,7 +241,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/deroche-projects-ghana",
       "excerpt": "DeRoche Projects – an emerging architecture studio from Ghana spotlighted in the Wallpaper* Architects’ Directory 2026 – has created a retreat that ‘understands the mountainside’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CtLFtBjUBwt9dR7Wf4qFxc-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -231,7 +251,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/beefbar-broadwick-soho-london",
       "excerpt": "Monte Carlo-born Beefbar will take over Dear Jackie at Broadwick Soho this September, giving the London hotel a carnivorous new chapter of rare cuts, velvet and late nights",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/utL6X6X35msTFNvt8w26eg-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -241,7 +261,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/tornado-resistant-earthship-residence-usa",
       "excerpt": "The self-sufficient off-grid home will be made using ‘garbage’ and is conceived to withstand extreme conditions",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5WoN2FCjBSWkKPbMenYSXb-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -251,7 +271,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/falwa-restaurant-arabian-equestrian-heritage-fluid-architectural-interior-4space/",
       "excerpt": "rejecting literal motifs, the restaurant opts for boundary-dissolving forms, custom mineral plaster, and refined leatherwork that mirror the essence of equestrian tack and desert heritage.\nThe post fa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/4space-falwa-restaurant-arabian-equestrian-heritage-fluid-interior-abu-dhabi-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -261,7 +281,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
       "excerpt": "On the edge where Paraná's urban fabric meets the river, an office building designed in exposed reinforced concrete offers a contemporary, high-performance image. The project was developed based on th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/large_jpg/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -271,7 +291,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/miss-dior-animated-film-ugo-bienvenu-interview",
       "excerpt": "Celebrated French director Ugo Bienvenu offers insight into his joyful new campaign for the Miss Dior fragrance",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pFd2Gwfr6sPS5bYBC4yZF6-2016-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -280,7 +300,7 @@ window.LUMINO_DATA = {
       "title": "Diller Scofidio + Renfro renovates Boston storage warehouse for MIT architecture school",
       "url": "https://www.dezeen.com/2026/08/13/dsr-met-mit-warehouse-school-of-architecture/",
       "excerpt": "New York architecture studio Diller Scofidio + Renfro has spliced an 1894 brick warehouse building with several glazed volumes to create a home for MIT's School of Architecture and Planning. The Metro",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -290,17 +310,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/chef-madeu-almaty-review",
       "excerpt": "Near the city’s high-altitude ice rink, a new restaurant designed by Tsipkun Interiors is an ode to the local landscape and motifs",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4ef4tdKRa46VCQfuPpjQ63-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "stupid engineering gives holiday brain its own aluminum wall calendar",
-      "url": "https://www.designboom.com/design/stupid-engineerings-aluminum-wall-calendar-holiday-brain/",
-      "excerpt": "ben ferrick’s deliberately obvious object gives holiday brain a permanent place on the wall.\nThe post stupid engineering gives holiday brain its own aluminum wall calendar appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/stupid-engineerings-aluminum-wall-calendar-holiday-brain-designboom-4-1.jpeg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -310,7 +320,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183268/quetzal-house-sertao-arquitetos",
       "excerpt": "Located in São Francisco Xavier, a district of São José dos Campos, Casa Quetzal is nestled in the landscape of the Mantiqueira Mountains, surrounded by the Atlantic Forest and the rural architecture ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/ae61/3cf9/6c00/0178/0c45/large_jpg/4-IMG_1755-HDR.jpg?1786556045",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -320,7 +330,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1181309/emeco-house-david-saik-studio",
       "excerpt": "Emeco House is the complete conversion of a former sewing factory at the edge of a residential neighbourhood in Venice, Los Angeles, to create working, exhibition, and event space on the ground floor,",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/5277/895c/1800/0111/7f2d/large_jpg/9_interior_upper_level_kitchen_sitting_emeco_house_david_saik_architect.jpg?1784566490",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -329,7 +339,7 @@ window.LUMINO_DATA = {
       "title": "AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat",
       "url": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/",
       "excerpt": "Indian studio AKSH Architects has completed The Earthen Retreat, a cluster of guesthouses in Pune created by repurposing several small abandoned buildings and coating them with mud and lime plaster. T",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -338,7 +348,7 @@ window.LUMINO_DATA = {
       "title": "Jaguar reveals first look at Type 01's four-seat interior",
       "url": "https://www.dezeen.com/2026/08/13/jaguar-type-01-interior-launch-october/",
       "excerpt": "British carmaker Jaguar has revealed a glimpse of its upcoming Type 01 electric car, which has a central divider and \"on-demand\" screens. The recently released renders show the interior of Jaguar's Ty",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -347,17 +357,7 @@ window.LUMINO_DATA = {
       "title": "Youth avoids Manchester cliches for city's first Cubitts eyewear store",
       "url": "https://www.dezeen.com/2026/08/13/youth-manchester-cubitts-eyewear-store/",
       "excerpt": "British eyewear brand Cubitts has unveiled its first shop in Manchester, designed by locally based studio Youth to reflect the city's industrial and musical history without resorting to the obvious. Y",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "The Handmade Surface: Imperfection, Texture, and Craft in Contemporary Chinese Interiors",
-      "url": "https://www.archdaily.com/1183160/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors",
-      "excerpt": "Craft in contemporary interiors is increasingly valuable in the way materials are joined and brought into relation with one another. As the appetite for fast, inexpensive, and profitable retrofitting ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/202e/ab59/ca0b/0901/6a63/large_jpg/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors_3.jpg?1786519603",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
