@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  18:44",
+  "fetchedAt": "2026.08.14  19:44",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,53 +29,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -100,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.08.14",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
       "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.14",
@@ -117,6 +103,16 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.14",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
@@ -149,20 +145,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.08.14",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.14",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -176,6 +162,25 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Instagram redesigns its wordmark for first time in a decade",
+      "url": "https://www.dezeen.com/2026/08/14/instagram-rebrand-wordmark-script-2026/",
+      "excerpt": "Social media platform Instagram has updated its brand identity with elements such as a refreshed, \"bolder and simpler\" wordmark and updated typographic elements across the platform. The update was ann",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Want to understand architecture in America? Look at a small town near you",
+      "url": "https://www.wallpaper.com/architecture/out-there-architecture-book",
+      "excerpt": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KiWwaxPADpiMZH5iYqf3tA-2000-80.jpg",
       "today": true
     },
     {
@@ -244,6 +249,16 @@ window.LUMINO_DATA = {
       "title": "Ecological reimagining of former Lake District mill among projects from University of Northumbria",
       "url": "https://www.dezeen.com/2026/08/14/ecological-reimagining-former-lake-district-mill-university-of-northumbria-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal to reimagine a former industrial mill in the Lake District as a place where ecology, heritage and community converge is among the student projects from the University o",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Linea House / Instinto Estudio",
+      "url": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
+      "excerpt": "In the heart of the Guiones jungle in Nosara, Instinto Estudio designed two tropical houses that use architecture as a series of lines to frame the landscape, encourage natural ventilation, and create",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/4a49/3cf9/6c00/0178/2e49/large_jpg/03_linea_house_facade.jpg?1786727061",
       "today": true
     },
     {
@@ -325,15 +340,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Typsa Arquitectura weaves library in Luanda around existing trees",
-      "url": "https://www.dezeen.com/2026/08/14/luanda-library-typsa-arquitectura/",
-      "excerpt": "Spanish studio Typsa Arquitectura has completed a library in Luanda, Angola, with a curving concrete roof punctured by openings that encircle existing trees on the site. Located at the centre of Luand",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -351,26 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183333/music-and-architecture-in-harmony-opera-houses-and-concert-halls-of-europe-1672-2022",
       "excerpt": "This generously illustrated survey of 90 halls from the past three centuries is a personal selection by the authors, enriched by recommendations from leading musical authorities. These auditoria combi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/090f/3cf9/6c00/0178/2c05/large_jpg/grid.jpg?1786710292",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Capturing Essence Virginia Burt Designs",
-      "url": "https://www.archdaily.com/1183328/capturing-essence-virginia-burt-designs",
-      "excerpt": "The award-winning landscape architecture firm Virginia Burt Designs is widely celebrated for a diverse body of work—including landscapes and gardens for private individuals, therapeutic gardens for ho",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/0805/3cf9/6c00/0178/2bbb/large_jpg/grid2.jpg?1786710027",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "These are the defining looks, accessories and trends of A/W 2026",
-      "url": "https://www.wallpaper.com/fashion-beauty/standout-looks-trends-accessories-aw-2026",
-      "excerpt": "The A/W 2026 season distilled into ten defining looks and accessories for men and women, each embracing the transformative rituals of dressing up",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LYS9VJqGuEZ4nYp7aXrax9-1540-80.jpg",
       "today": true
     },
     {
