@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  06:09",
+  "fetchedAt": "2026.08.14  08:11",
   "sourceColors": {
-    "pronews.com": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,31 +17,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "sortiraparis.com": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "kisspress.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,19 +49,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -76,13 +76,13 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "国内情報",
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
       "date": "2026.08.14",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
       "today": true
     },
     {
@@ -116,13 +116,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.08.14",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -136,7 +135,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -155,7 +154,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -178,10 +177,90 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.14",
+      "title": "A new tropical architecture archive traces a unique, global journey across the 20th century",
+      "url": "https://www.wallpaper.com/architecture/aa-department-of-tropical-architecture-archive-uk",
+      "excerpt": "The Architectural Association’s Department of Tropical Architecture Archive is now live – here's what we learned from this ‘extraordinary resource’ for academic research",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9TehQAtghTncE9wKAkfU59-1920-80.webp",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Step inside the chicest jewellery boutique in Paris",
+      "url": "https://www.wallpaper.com/watches-jewellery/nikos-koulis-paris-boutique",
+      "excerpt": "Nikos Koulis’ new Paris flagship is a haven of good jewellery – and good design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uEpFKAEXhF5wdNVmaA6noG.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Check into El Cortés, Mexico City’s most alluring new hotel",
+      "url": "https://www.wallpaper.com/travel/hotels/el-cortes-mexico-city-hotel-review",
+      "excerpt": "Heritage and contemporary pizzazz converge at this richly layered hotel in the Mexican capital that’s ‘about as good as boutique stays get’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gbrdzRqxDNGSekaGha3Tb-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "tablet-shaped pillows turn 48 hours of sleeplessness into tactile installation",
+      "url": "https://www.designboom.com/art/tablet-shaped-pillows-48-hours-sleeplessness-tactile-installation-pillow-hommes-hom-sitta-chandarawong/",
+      "excerpt": "visitors can sit, lie, and rest among the oversized pharmaceutical forms.\nThe post tablet-shaped pillows turn 48 hours of sleeplessness into tactile installation appeared first on designboom | archite",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tablet-shaped-pillows-48-hours-sleeplessness-tactile-installation-pillow-hommes-hom-sitta-chandarawong-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "White-walled minimalism and heritage spirit meet in a revived Athens townhouse by Local Local",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/local-local-greece",
+      "excerpt": "Tour this calming sanctuary by Local Local, an emerging architecture studio from Athens, Greece, that features in the Wallpaper* Architects’ Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mDryJZBchnqtKJYfYuM9fU-1181-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
       "title": "Typographic tourism, or the art of hunting for beautiful signs all over the world",
       "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/typographic-tourism-yorgo-tloupas",
       "excerpt": "Search for the hashtag #typographictourism, and discover creative director Yorgo Tloupas’ celebration of the lost art of signmaking",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zA5sddmMfxhYnyrJgU4oXR-1890-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "All-Inclusive Escapes: 7 Unbuilt Hotel Projects from the ArchDaily Community",
+      "url": "https://www.archdaily.com/1183192/all-inclusive-escapes-7-unbuilt-hotel-projects-from-the-archdaily-community",
+      "excerpt": "Getting away is a long-held fantasy and desire. In literature, film, and music, people have created imaginary journeys, possible worlds, and settings for enjoyment. It is that fantasy that fuels a spe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/d963/ac8b/af01/892c/c23d/large_jpg/unbuilt-hotel-projects_1.jpg?1786567062",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "The Tale of Bricks House / Earthscape Studio",
+      "url": "https://www.archdaily.com/1183260/the-tale-of-bricks-house-earthscape-studio",
+      "excerpt": "A Mock-up That Became a Home – For an architecture practice, a mock-up is often a means of testing an idea before it is translated into a larger project. It is an opportunity to work at full scale, ex",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/d5bd/3cf9/6c00/0178/26ff/large_jpg/01.jpg?1786634153",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Kyoto Minami Kaikan Movie Theater / Tato Architects",
+      "url": "https://www.archdaily.com/1183107/kyoto-minami-kaikan-movie-theater-tato-architects",
+      "excerpt": "This project is the relocation and renovation of a long-established movie theater that had marked 55 years of history in Kyoto. Its new home is a building constructed as a bank in 1993. The question w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/b946/ac8b/af01/892c/c435/large_jpg/kyoto-minami-kaikan-movie-theater-tato-architects_28.jpg?1786624335",
       "today": true
     },
     {
@@ -254,92 +333,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "SJC House / Felipe Hess Arquitetos",
-      "url": "https://www.archdaily.com/1183294/sjc-house-felipe-hess-arquitetos",
-      "excerpt": "The house, located in an established gated community in São José dos Campos, occupies a plot with pre-existing structures and a street front constrained by the proximity of neighboring houses. The des",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a4e/b53c/3890/a32c/d2ab/3fce/large_jpg/casa-sjc-felipe-hess-arquitetos_9.jpg?1783543121",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "This Ghanaian retreat was designed to blend effortlessly with nature",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/deroche-projects-ghana",
-      "excerpt": "DeRoche Projects – an emerging architecture studio from Ghana spotlighted in the Wallpaper* Architects’ Directory 2026 – has created a retreat that ‘understands the mountainside’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CtLFtBjUBwt9dR7Wf4qFxc-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Soho’s most theatrical hotel is getting a Beefbar restaurant",
-      "url": "https://www.wallpaper.com/travel/restaurants/beefbar-broadwick-soho-london",
-      "excerpt": "Monte Carlo-born Beefbar will take over Dear Jackie at Broadwick Soho this September, giving the London hotel a carnivorous new chapter of rare cuts, velvet and late nights",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/utL6X6X35msTFNvt8w26eg-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "A new Earthship residence will land in Kansas – and it’s tornado- and fire-resistant",
-      "url": "https://www.wallpaper.com/architecture/residential/tornado-resistant-earthship-residence-usa",
-      "excerpt": "The self-sufficient off-grid home will be made using ‘garbage’ and is conceived to withstand extreme conditions",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5WoN2FCjBSWkKPbMenYSXb-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "falwa restaurant transforms arabian equestrian heritage into fluid architectural interior",
-      "url": "https://www.designboom.com/architecture/falwa-restaurant-arabian-equestrian-heritage-fluid-architectural-interior-4space/",
-      "excerpt": "rejecting literal motifs, the restaurant opts for boundary-dissolving forms, custom mineral plaster, and refined leatherwork that mirror the essence of equestrian tack and desert heritage.\nThe post fa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/4space-falwa-restaurant-arabian-equestrian-heritage-fluid-interior-abu-dhabi-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "New Headquarters Office Building for IAPSER / Sebastian Stechina + Carlos Di Napoli + Andres Francesconi",
-      "url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
-      "excerpt": "On the edge where Paraná's urban fabric meets the river, an office building designed in exposed reinforced concrete offers a contemporary, high-performance image. The project was developed based on th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/large_jpg/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Dior Beauty’s history is now an animated film – meet the director and watch it here",
-      "url": "https://www.wallpaper.com/fashion-beauty/miss-dior-animated-film-ugo-bienvenu-interview",
-      "excerpt": "Celebrated French director Ugo Bienvenu offers insight into his joyful new campaign for the Miss Dior fragrance",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pFd2Gwfr6sPS5bYBC4yZF6-2016-80.png",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.13",
       "title": "Diller Scofidio + Renfro renovates Boston storage warehouse for MIT architecture school",
       "url": "https://www.dezeen.com/2026/08/13/dsr-met-mit-warehouse-school-of-architecture/",
       "excerpt": "New York architecture studio Diller Scofidio + Renfro has spliced an 1894 brick warehouse building with several glazed volumes to create a home for MIT's School of Architecture and Planning. The Metro",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Quetzal House / Sertão Arquitetos",
-      "url": "https://www.archdaily.com/1183268/quetzal-house-sertao-arquitetos",
-      "excerpt": "Located in São Francisco Xavier, a district of São José dos Campos, Casa Quetzal is nestled in the landscape of the Mantiqueira Mountains, surrounded by the Atlantic Forest and the rural architecture ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/ae61/3cf9/6c00/0178/0c45/large_jpg/4-IMG_1755-HDR.jpg?1786556045",
       "today": false
     },
     {
@@ -437,16 +436,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
