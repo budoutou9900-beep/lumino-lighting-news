@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  17:48",
+  "fetchedAt": "2026.08.14  18:44",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -149,16 +149,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.14",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
       "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.14",
@@ -166,6 +156,16 @@ window.LUMINO_DATA = {
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.14",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -276,6 +276,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "In Campo, Solo Exhibition by Hick Duarte / Clube",
+      "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
+      "excerpt": "The exhibition design for \"Em Campo\" is structured around five main elements: the floor, the wall, the pillars, the grid, and the audiovisual equipment integrated with the furniture.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f662/3cf9/6c00/0178/27c8/large_jpg/MARINA_LIMA__EM_CAMPO_HICK_DUARTE_CLUBE_38_2880PX.jpg?1786640073",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -283,6 +293,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/four-seasons-i-yatch-review",
       "excerpt": "A one-to-one staff ratio, 95 suites and 11 dining venues define Four Seasons’ ambitious entry into luxury yachting",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hXXAtoPsLhhjeeYMmjPuJQ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Locust Grove Pavilion / de Leon & Primmer Architecture Workshop",
+      "url": "https://www.archdaily.com/1183203/locust-grove-pavilion-de-leon-and-primmer-architecture-workshop",
+      "excerpt": "The Locust Grove Pavilion expands the experience of one of Kentucky's most significant historic landscapes, transforming a contemporary community gathering space into an instrument for historical inte",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/afa2/3cf9/6c00/0178/0c63/large_jpg/Locust_Grove_Pavilion_1665.jpg?1786556367",
       "today": true
     },
     {
@@ -341,26 +361,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183328/capturing-essence-virginia-burt-designs",
       "excerpt": "The award-winning landscape architecture firm Virginia Burt Designs is widely celebrated for a diverse body of work—including landscapes and gardens for private individuals, therapeutic gardens for ho",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/0805/3cf9/6c00/0178/2bbb/large_jpg/grid2.jpg?1786710027",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "2026 Suseong International Architecture & Landscape Visual Artwork Competition",
-      "url": "https://www.archdaily.com/1183324/2026-suseong-international-architecture-and-landscape-visual-artwork-competition",
-      "excerpt": "2026 Suseong International Architecture & Landscape Visual Artwork Competition\n[Overview]1. Theme: What does \"Living Ground\" mean to you?2. Eligibility: Open to anyone worldwide interested in architec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/0627/3cf9/6c00/0178/2b98/large_jpg/2026_________________________fin_.jpg?1786709552",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Wildlands: Stories from the Wildland Urban Interface",
-      "url": "https://www.archdaily.com/1183317/wildlands-stories-from-the-wildland-urban-interface",
-      "excerpt": "A diverse group of professionals, residents, and others will share their individual stories, taking stock of what is happening in the city more than a year after the fires.\nAn accompanying exhibition ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/ff30/3cf9/6c00/0178/2b04/large_jpg/IMG_6886.jpg?1786707768",
       "today": true
     },
     {
