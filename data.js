@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  16:50",
+  "fetchedAt": "2026.08.14  17:48",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "sortiraparis.com": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -65,13 +65,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -96,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -126,7 +130,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -148,7 +152,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.14",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -182,6 +186,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
       "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with shark",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Populous completes Buffalo Bills stadium in New York",
+      "url": "https://www.dezeen.com/2026/08/14/populous-new-york-buffalo-bills-stadium/",
+      "excerpt": "Architecture studio Populous has completed the steep, metal-clad Highmark Stadium in Buffalo, New York for NFL team the Buffalo Bills, with a canopy and advanced snow-melt system. The new Highmark Sta",
       "today": true
     },
     {
@@ -361,15 +374,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Research finds Star Homes housing reduces malaria in children by 44 per cent",
-      "url": "https://www.dezeen.com/2026/08/14/star-homes-malaria-study-tanzania/",
-      "excerpt": "A study has found that children living in Star Homes, a housing initiative in Tanzania, have lower rates of malaria, diarrhoea and respiratory infections compared to those living in mud-and-thatch hou",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.07",
@@ -437,6 +441,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
