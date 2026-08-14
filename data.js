@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  14:13",
+  "fetchedAt": "2026.08.14  15:45",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,7 +49,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -65,17 +65,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -149,16 +145,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
-      "cat": "展示・アート",
-      "date": "2026.08.14",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
-      "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.14",
@@ -169,6 +155,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.14",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.14",
@@ -176,6 +172,35 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "eccentrica removes the roof from the lamborghini diablo for its V12 roadster",
+      "url": "https://www.designboom.com/technology/eccentrica-roof-lamborghini-diablo-v12-roadster/",
+      "excerpt": "the 1990s supercar loses its roof, gains 3,500 bespoke parts and arrives at monterey car week with little interest in going digital.\nThe post eccentrica removes the roof from the lamborghini diablo fo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/1786372270348.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Ecological reimagining of former Lake District mill among projects from University of Northumbria",
+      "url": "https://www.dezeen.com/2026/08/14/ecological-reimagining-former-lake-district-mill-university-of-northumbria-schoolshows/",
+      "excerpt": "Dezeen School Shows: a proposal to reimagine a former industrial mill in the Lake District as a place where ecology, heritage and community converge is among the student projects from the University o",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "A driving tour of LA's remaining Googie architecture",
+      "url": "https://www.wallpaper.com/architecture/googie-architecture-los-angeles",
+      "excerpt": "The rise of larger-than-life, space-age architecture marked the boom of car culture in 1950s Los Angeles. Join us on a tour of the city's remaining Googie gems – and prepare to eat a lot of burgers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/STSobVgd5JZsPwFj9Vhc2d-2500-80.jpg",
       "today": true
     },
     {
@@ -335,16 +360,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Step inside the chicest jewellery boutique in Paris",
-      "url": "https://www.wallpaper.com/watches-jewellery/nikos-koulis-paris-boutique",
-      "excerpt": "Nikos Koulis’ new Paris flagship is a haven of good jewellery – and good design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uEpFKAEXhF5wdNVmaA6noG.gif",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -353,25 +368,6 @@ window.LUMINO_DATA = {
       "excerpt": "visitors can sit, lie, and rest among the oversized pharmaceutical forms.\nThe post tablet-shaped pillows turn 48 hours of sleeplessness into tactile installation appeared first on designboom | archite",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tablet-shaped-pillows-48-hours-sleeplessness-tactile-installation-pillow-hommes-hom-sitta-chandarawong-designboom-1200-1.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Busta Studio evokes the elegance of New York townhouses for Kimpton Ashbel hotel",
-      "url": "https://www.dezeen.com/2026/08/14/busta-studio-kimpton-ashbel-hotel/",
-      "excerpt": "Interior design practice Busta Studio has filled the Kimpton Ashbel hotel on Park Avenue with art and objects intended to make it feel like \"a warm, elegantly curated home\". Located in a 1928 beaux-ar",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "zayed national museum’s interiors weave emirati craft, material, and cycles of time",
-      "url": "https://www.designboom.com/architecture/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio/",
-      "excerpt": "wool, rope, ceramics, camel leather, and local stone appear across the museum interiors.\nThe post zayed national museum’s interiors weave emirati craft, material, and cycles of time appeared first on ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio-designboom-1200-1.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
@@ -441,16 +437,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
