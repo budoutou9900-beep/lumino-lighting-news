@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  12:53",
+  "fetchedAt": "2026.08.14  14:13",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,69 +17,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "sanyonews.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Kiss PRESS(キッスプレス)": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "ArchDaily": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -124,16 +120,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.14",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -195,6 +182,25 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.14",
+      "title": "Bernardo Paz returns to the Brazilian forest. Discover the plans for his second artistic utopia",
+      "url": "https://www.wallpaper.com/architecture/museu-bernardo-paz-brazil",
+      "excerpt": "With Museu Bernardo Paz, the visionary founder of Inhotim is at it again, creating a new art paradise in Brumadinho, set to open in September 2027",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5RRvgQNPHGY9JaEJWxnQnf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Eight products that showcase the versatility of wood",
+      "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: from lampshades and beds to chairs and kitchens, the following wooden products are all listed in our Showroom section. Timber has been used in the production of furnishings for thousa",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
       "title": "Sail away on Four Seasons I, the new 207m luxury yacht where every suite faces the sea",
       "url": "https://www.wallpaper.com/travel/four-seasons-i-yatch-review",
       "excerpt": "A one-to-one staff ratio, 95 suites and 11 dining venues define Four Seasons’ ambitious entry into luxury yachting",
@@ -250,6 +256,56 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "While Away An Architect’s Travel Sketches",
+      "url": "https://www.archdaily.com/1183337/while-away-an-architects-travel-sketches",
+      "excerpt": "An intimate and inspiring journey through the travel sketches of renowned architect Steve Ziger. Part mernoir, part travel guide, part drawing manual and architectural history, this captivating book f",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/09ab/3cf9/6c00/0178/2c2e/large_jpg/grid.jpg?1786710449",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Music and Architecture in Harmony Opera Houses and Concert Halls of Europe, 1672-2022",
+      "url": "https://www.archdaily.com/1183333/music-and-architecture-in-harmony-opera-houses-and-concert-halls-of-europe-1672-2022",
+      "excerpt": "This generously illustrated survey of 90 halls from the past three centuries is a personal selection by the authors, enriched by recommendations from leading musical authorities. These auditoria combi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/090f/3cf9/6c00/0178/2c05/large_jpg/grid.jpg?1786710292",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Capturing Essence Virginia Burt Designs",
+      "url": "https://www.archdaily.com/1183328/capturing-essence-virginia-burt-designs",
+      "excerpt": "The award-winning landscape architecture firm Virginia Burt Designs is widely celebrated for a diverse body of work—including landscapes and gardens for private individuals, therapeutic gardens for ho",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/0805/3cf9/6c00/0178/2bbb/large_jpg/grid2.jpg?1786710027",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "2026 Suseong International Architecture & Landscape Visual Artwork Competition",
+      "url": "https://www.archdaily.com/1183324/2026-suseong-international-architecture-and-landscape-visual-artwork-competition",
+      "excerpt": "2026 Suseong International Architecture & Landscape Visual Artwork Competition\n[Overview]1. Theme: What does \"Living Ground\" mean to you?2. Eligibility: Open to anyone worldwide interested in architec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/0627/3cf9/6c00/0178/2b98/large_jpg/2026_________________________fin_.jpg?1786709552",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Wildlands: Stories from the Wildland Urban Interface",
+      "url": "https://www.archdaily.com/1183317/wildlands-stories-from-the-wildland-urban-interface",
+      "excerpt": "A diverse group of professionals, residents, and others will share their individual stories, taking stock of what is happening in the city more than a year after the fires.\nAn accompanying exhibition ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/ff30/3cf9/6c00/0178/2b04/large_jpg/IMG_6886.jpg?1786707768",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -279,26 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Applying Exposed Cork in Interior Architecture",
-      "url": "https://www.archdaily.com/960854/applying-exposed-cork-in-interior-architecture",
-      "excerpt": "How can we transport ourselves to natural environments when we find ourselves in entirely urban contexts? The materiality of spaces is one of the factors that determines the atmosphere we inhabit. In ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6086/cff3/f91c/81a7/b800/0130/large_jpg/ArtBarn-JimStephenson-80_MidRes.jpg?1619447790",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Holiday House in Rågeleje / Jesper Kusk Arkitekter",
-      "url": "https://www.archdaily.com/1183164/holiday-house-in-rageleje-jesper-kusk-arkitekter",
-      "excerpt": "The holiday house is situated on an elevated site in Rågeleje, overlooking the Kattegat Sea. The narrow plot extends from south to north, reaching the public beach.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/35df/3cf9/6c00/0178/09b6/large_jpg/Ra_geleje_17_FotoHB_high.jpg?1786525192",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -306,36 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/nikos-koulis-paris-boutique",
       "excerpt": "Nikos Koulis’ new Paris flagship is a haven of good jewellery – and good design",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uEpFKAEXhF5wdNVmaA6noG.gif",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Industrialized Steel Construction: Lessons From a Naval Foundry in Thailand",
-      "url": "https://www.archdaily.com/1182129/industrialized-steel-construction-lessons-from-a-naval-foundry-in-thailand",
-      "excerpt": "Industrial buildings are often expected to prioritize efficiency, production, and technical performance above all else. As a result, architectural quality is frequently treated as secondary to functio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/ea6e/4460/0501/896c/fd40/large_jpg/zero-tolerance-how-steel-systems-are-ending-the-era-of-close-enough_3.jpg?1785784956",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Pelli Clarke & Partners Completes Lola Mora Cultural Center in San Salvador de Jujuy, Argentina",
-      "url": "https://www.archdaily.com/1183307/pelli-clarke-and-partners-completes-lola-mora-cultural-center-in-san-salvador-de-jujuy-argentina",
-      "excerpt": "Pelli Clarke & Partners has completed the Lola Mora Cultural Center in San Salvador de Jujuy, Argentina, a new cultural institution dedicated to the life and work of Argentine sculptor Lola Mora (1866",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/d575/ac8b/af01/892c/c802/large_jpg/pelli-clarke-and-partners-completes-lola-mora-cultural-center-in-san-salvador-de-jujuy-argentina_2.jpg?1786697232",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Check into El Cortés, Mexico City’s most alluring new hotel",
-      "url": "https://www.wallpaper.com/travel/hotels/el-cortes-mexico-city-hotel-review",
-      "excerpt": "Heritage and contemporary pizzazz converge at this richly layered hotel in the Mexican capital that’s ‘about as good as boutique stays get’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gbrdzRqxDNGSekaGha3Tb-1600-80.jpg",
       "today": true
     },
     {
@@ -349,31 +355,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Children’s House Brunnengasse / Bernardo Bader Architekten",
-      "url": "https://www.archdaily.com/1183165/childrens-house-brunnengasse-bernardo-bader-architekten",
-      "excerpt": "The Children's House Brunnengasse is creating a contemporary educational building in the Rickenbach neighborhood of Wolfurt, bringing together architecture, sustainability, and pedagogy as a harmoniou",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/365d/3cf9/6c00/0178/09cc/large_jpg/300_Kinderhaus_Brunnengasse_Wolfurt_08_Ralph_Feiner.jpg?1786525496",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.14",
       "title": "Busta Studio evokes the elegance of New York townhouses for Kimpton Ashbel hotel",
       "url": "https://www.dezeen.com/2026/08/14/busta-studio-kimpton-ashbel-hotel/",
       "excerpt": "Interior design practice Busta Studio has filled the Kimpton Ashbel hotel on Park Avenue with art and objects intended to make it feel like \"a warm, elegantly curated home\". Located in a 1928 beaux-ar",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Fisher & Paykel offers elevated simplicity with Minimal Style kitchen appliances",
-      "url": "https://www.dezeen.com/2026/08/14/fisher-paykel-minimal-style-kitchen-appliances-2/",
-      "excerpt": "Promotion: atmospherically dark glass and seamless surfaces take centre stage in appliance brand Fisher & Paykel's Minimal Style kitchen products, designed to help build spaces with visual calm and fo",
       "today": true
     },
     {
