@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  08:11",
+  "fetchedAt": "2026.08.14  09:54",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,31 +17,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "sortiraparis.com": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "kisspress.jp": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -53,15 +53,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -116,15 +116,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.14",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.14",
@@ -135,7 +126,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -154,7 +145,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
@@ -171,6 +162,25 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "These are the defining looks, accessories and trends of A/W 2026",
+      "url": "https://www.wallpaper.com/fashion-beauty/standout-looks-trends-accessories-aw-2026",
+      "excerpt": "The A/W 2026 season distilled into ten defining looks and accessories for men and women, each embracing the transformative rituals of dressing up",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LYS9VJqGuEZ4nYp7aXrax9-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Research finds Star Homes housing reduces malaria in children by 44 per cent",
+      "url": "https://www.dezeen.com/2026/08/14/star-homes-malaria-study-tanzania/",
+      "excerpt": "A study has found that children living in Star Homes, a housing initiative in Tanzania, have lower rates of malaria, diarrhoea and respiratory infections compared to those living in mud-and-thatch hou",
       "today": true
     },
     {
@@ -224,13 +234,21 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.14",
-      "title": "Typographic tourism, or the art of hunting for beautiful signs all over the world",
-      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/typographic-tourism-yorgo-tloupas",
-      "excerpt": "Search for the hashtag #typographictourism, and discover creative director Yorgo Tloupas’ celebration of the lost art of signmaking",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zA5sddmMfxhYnyrJgU4oXR-1890-80.jpg",
+      "title": "Busta Studio evokes the elegance of New York townhouses for Kimpton Ashbel hotel",
+      "url": "https://www.dezeen.com/2026/08/14/busta-studio-kimpton-ashbel-hotel/",
+      "excerpt": "Interior design practice Busta Studio has filled the Kimpton Ashbel hotel on Park Avenue with art and objects intended to make it feel like \"a warm, elegantly curated home\". Located in a 1928 beaux-ar",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Fisher & Paykel offers elevated simplicity with Minimal Style kitchen appliances",
+      "url": "https://www.dezeen.com/2026/08/14/fisher-paykel-minimal-style-kitchen-appliances-2/",
+      "excerpt": "Promotion: atmospherically dark glass and seamless surfaces take centre stage in appliance brand Fisher & Paykel's Minimal Style kitchen products, designed to help build spaces with visual calm and fo",
       "today": true
     },
     {
@@ -342,33 +360,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat",
-      "url": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/",
-      "excerpt": "Indian studio AKSH Architects has completed The Earthen Retreat, a cluster of guesthouses in Pune created by repurposing several small abandoned buildings and coating them with mud and lime plaster. T",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Jaguar reveals first look at Type 01's four-seat interior",
-      "url": "https://www.dezeen.com/2026/08/13/jaguar-type-01-interior-launch-october/",
-      "excerpt": "British carmaker Jaguar has revealed a glimpse of its upcoming Type 01 electric car, which has a central divider and \"on-demand\" screens. The recently released renders show the interior of Jaguar's Ty",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Youth avoids Manchester cliches for city's first Cubitts eyewear store",
-      "url": "https://www.dezeen.com/2026/08/13/youth-manchester-cubitts-eyewear-store/",
-      "excerpt": "British eyewear brand Cubitts has unveiled its first shop in Manchester, designed by locally based studio Youth to reflect the city's industrial and musical history without resorting to the obvious. Y",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.07",
@@ -436,6 +427,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
