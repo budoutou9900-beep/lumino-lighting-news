@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  20:25",
+  "fetchedAt": "2026.08.14  21:19",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,27 +17,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -96,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -113,6 +117,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.14",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -148,7 +161,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.14",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -162,6 +175,26 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "New White House ballroom renderings reveal gilded hall, droneport",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/white-house-ballroom-supreme-court-filing",
+      "excerpt": "The images were included in an emergency request sent to the Supreme Court Friday by the Trump administration to allow construction to move forward",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8kwjbR5AyTwG2HFtcTEG2T-2278-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "single sheet of folded steel sculpts into z-shaped table lamp",
+      "url": "https://www.designboom.com/design/single-sheet-folded-steel-z-shaped-table-lamp-cobre-estudio/",
+      "excerpt": "through asymmetry, visual tension, and warm light, the lamp creates a balance between functional object and architectural form.\nThe post single sheet of folded steel sculpts into z-shaped table lamp a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cobre-estudio-table-lamp-z-steel-lighting-object-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -301,16 +334,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Sail away on Four Seasons I, the new 207m luxury yacht where every suite faces the sea",
-      "url": "https://www.wallpaper.com/travel/four-seasons-i-yatch-review",
-      "excerpt": "A one-to-one staff ratio, 95 suites and 11 dining venues define Four Seasons’ ambitious entry into luxury yachting",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hXXAtoPsLhhjeeYMmjPuJQ-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -327,16 +350,6 @@ window.LUMINO_DATA = {
       "title": "Mosley Thorold mixes salvaged and natural materials in De Beauvoir home renovation",
       "url": "https://www.dezeen.com/2026/08/14/mosley-thorold-de-beauvoir-house/",
       "excerpt": "Local architecture studio Mosley Thorold has updated and extended a Victorian home in east London, using a textured palette of concrete, brick, tiles and metal intended to patina over time. Named De B",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "from casa malaparte to the sheats-goldstein residence, these homes became movie stars",
-      "url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
-      "excerpt": "these architect-designed homes have taken on lives of their own in films, shaping characters, moods, and the way we remember the buildings themselves.\nThe post from casa malaparte to the sheats-goldst",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-malaparte-sheats-goldstein-residence-homes-movie-stars-designboom-1200.jpg",
       "today": true
     },
     {
