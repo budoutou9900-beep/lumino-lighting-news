@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  04:02",
+  "fetchedAt": "2026.08.14  06:09",
   "sourceColors": {
-    "銀座経済新聞": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -76,13 +76,13 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
+      "source": "pronews.com",
+      "cat": "国内情報",
       "date": "2026.08.14",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
       "today": true
     },
     {
@@ -113,6 +113,16 @@ window.LUMINO_DATA = {
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.14",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
@@ -162,6 +172,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Typographic tourism, or the art of hunting for beautiful signs all over the world",
+      "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/typographic-tourism-yorgo-tloupas",
+      "excerpt": "Search for the hashtag #typographictourism, and discover creative director Yorgo Tloupas’ celebration of the lost art of signmaking",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zA5sddmMfxhYnyrJgU4oXR-1890-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Super JINJIANG / COLORFULL YUJING DESIGN",
+      "url": "https://www.archdaily.com/1183083/super-jinjiang-colorfull-yujing-design",
+      "excerpt": "Jinjiang, known as China's \"Capital of Brands\". Alongside its strong manufacturing heritage, the city is enriched by Maritime Silk Road culture, traditional Minnan architecture, and overseas Chinese h",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/b798/3cf9/6c00/0178/0493/large_jpg/07.jpg?1786427344",
       "today": true
     },
     {
@@ -303,16 +333,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Chef Medeu serves dishes from 1881 beneath Almaty’s mountains",
-      "url": "https://www.wallpaper.com/travel/restaurants/chef-madeu-almaty-review",
-      "excerpt": "Near the city’s high-altitude ice rink, a new restaurant designed by Tsipkun Interiors is an ode to the local landscape and motifs",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4ef4tdKRa46VCQfuPpjQ63-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -320,16 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183268/quetzal-house-sertao-arquitetos",
       "excerpt": "Located in São Francisco Xavier, a district of São José dos Campos, Casa Quetzal is nestled in the landscape of the Mantiqueira Mountains, surrounded by the Atlantic Forest and the rural architecture ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/ae61/3cf9/6c00/0178/0c45/large_jpg/4-IMG_1755-HDR.jpg?1786556045",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Emeco House / david saik studio",
-      "url": "https://www.archdaily.com/1181309/emeco-house-david-saik-studio",
-      "excerpt": "Emeco House is the complete conversion of a former sewing factory at the edge of a residential neighbourhood in Venice, Los Angeles, to create working, exhibition, and event space on the ground floor,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a5e/5277/895c/1800/0111/7f2d/large_jpg/9_interior_upper_level_kitchen_sitting_emeco_house_david_saik_architect.jpg?1784566490",
       "today": false
     },
     {
