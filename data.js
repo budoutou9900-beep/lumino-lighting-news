@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  09:54",
+  "fetchedAt": "2026.08.14  10:53",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -158,10 +162,68 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.14",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.14",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Mosley Thorold mixes salvaged and natural materials in De Beauvoir home renovation",
+      "url": "https://www.dezeen.com/2026/08/14/mosley-thorold-de-beauvoir-house/",
+      "excerpt": "Local architecture studio Mosley Thorold has updated and extended a Victorian home in east London, using a textured palette of concrete, brick, tiles and metal intended to patina over time. Named De B",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "from casa malaparte to the sheats-goldstein residence, these homes became movie stars",
+      "url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
+      "excerpt": "these architect-designed homes have taken on lives of their own in films, shaping characters, moods, and the way we remember the buildings themselves.\nThe post from casa malaparte to the sheats-goldst",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-malaparte-sheats-goldstein-residence-homes-movie-stars-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Typsa Arquitectura weaves library in Luanda around existing trees",
+      "url": "https://www.dezeen.com/2026/08/14/luanda-library-typsa-arquitectura/",
+      "excerpt": "Spanish studio Typsa Arquitectura has completed a library in Luanda, Angola, with a curving concrete roof punctured by openings that encircle existing trees on the site. Located at the centre of Luand",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "TORRAS ostand q3 air pro embeds its latest airbag technology to redefine mobile protection",
+      "url": "https://www.designboom.com/technology/torras-ostand-q3-air-pro-airbag-mobile-protection/",
+      "excerpt": "TORRAS responds to the demands of evolving smartphones with a case featuring soft edges that frames mobile protection through structural design.\nThe post TORRAS ostand q3 air pro embeds its latest air",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/torras_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "brussels rolls out hokusai’s great wave in 750,000 dahlias for flower carpet 2026",
+      "url": "https://www.designboom.com/art/brussels-hokusais-great-wave-dahlias-flower-carpet-2026/",
+      "excerpt": "japan’s most famous wave lands on the grand-place, this time without getting anyone wet.\nThe post brussels rolls out hokusai’s great wave in 750,000 dahlias for flower carpet 2026 appeared first on de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/brussels-hokusais-great-wave-dahlias-flower-carpet-2026-designboom-1-1.jpg",
       "today": true
     },
     {
@@ -302,16 +364,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "lincoln brings sunset-toned interiors to 2027 nautilus during monterey car week",
-      "url": "https://www.designboom.com/technology/lincoln-sunset-interiors-2027-nautilus-monterey-refresh/",
-      "excerpt": "as designboom arrives in monterey for car week, lincoln introduces two atmospheric interiors for its refreshed 2027 nautilus.\nThe post lincoln brings sunset-toned interiors to 2027 nautilus during mon",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2027-lincoln-nautilus-black-label-monterey-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.13",
@@ -319,44 +371,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183288/suuel-living-caam-arquitectos",
       "excerpt": "Located in Puerto Escondido, Oaxaca, Suuel Living is conceived as a coastal enclave where daily life merges with the calm of the landscape. It was born as a natural extension of the renowned Hotel Suu",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/0734/3cf9/6c00/0178/2964/large_jpg/_S__CAAM_SUUEL_LIVING_ZAICKZ_MOZ_14.jpg?1786644338",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "former textile warehouse transforms into fractal-inspired jaipur rugs showroom in mumbai",
-      "url": "https://www.designboom.com/architecture/former-textile-warehouse-fractal-inspired-jaipur-rugs-showroom-mumbai-roar/",
-      "excerpt": "fractal geometry translates the repetitive rhythm of hand-knotting into architecture.\nThe post former textile warehouse transforms into fractal-inspired jaipur rugs showroom in mumbai appeared first o",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mumbai-roar-jaipur-rugs-showroom-textile-warehouse-fractal-geometry-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "jaguar reveals type 01 interior with full-length ‘spine’ and travertine tones",
-      "url": "https://www.designboom.com/technology/jaguar-reveals-type-01-interior-spine-travertine-tones/",
-      "excerpt": "jaguar carries the type 00 concept's full-length spine into production, dividing its upcoming electric type 01 into four individual spaces.\nThe post jaguar reveals type 01 interior with full-length ‘s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/jaguar-type-01-interior-reveal-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Sauerbruch Hutton and Studio Gang to revamp German House skyscraper in New York",
-      "url": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
-      "excerpt": "German studio Sauerbruch Hutton and US practice Studio Gang have been selected to redesign German House to reflect the nation's values and create a \"civic landmark\" just north of the United Nations co",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.13",
-      "title": "Diller Scofidio + Renfro renovates Boston storage warehouse for MIT architecture school",
-      "url": "https://www.dezeen.com/2026/08/13/dsr-met-mit-warehouse-school-of-architecture/",
-      "excerpt": "New York architecture studio Diller Scofidio + Renfro has spliced an 1894 brick warehouse building with several glazed volumes to create a home for MIT's School of Architecture and Planning. The Metro",
       "today": false
     },
     {
