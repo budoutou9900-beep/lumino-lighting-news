@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  15:45",
+  "fetchedAt": "2026.08.14  16:50",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "sortiraparis.com": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -126,7 +126,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.08.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -148,7 +148,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.14",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -172,6 +172,46 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "gunther werks GXR-evo reshapes the 993 with shark fin and full carbon body",
+      "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
+      "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with shark",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "RUF EHRA arrives in monterey with liquid silver bodywork and seven-speed manual",
+      "url": "https://www.designboom.com/technology/ruf-ehra-liquid-silver-seven-speed-manual-car-monterey/",
+      "excerpt": "RUF turns its carbon-fiber shell toward long-distance driving with a 650-hp widebody fastback and seven-speed manual. \nThe post RUF EHRA arrives in monterey with liquid silver bodywork and seven-speed",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ruf-ehra-quail-monterey-car-week-2026-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "interference paint, coachwork and materials shape limited aston martin valen",
+      "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
+      "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post interference paint, coachwork and materials shape limited aston martin v",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Aston Martin ups the ante on its bespoke offering with the V12-powered Valen",
+      "url": "https://www.wallpaper.com/transportation/aston-martin-valen",
+      "excerpt": "Only 150 lucky buyers can jump at the chance to acquire the new Aston Martin Valen",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ojuWNRkw66z2SPB6hKBAgD-2560-80.jpg",
       "today": true
     },
     {
@@ -261,26 +301,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "TORRAS ostand q3 air pro embeds its latest airbag technology to redefine mobile protection",
-      "url": "https://www.designboom.com/technology/torras-ostand-q3-air-pro-airbag-mobile-protection/",
-      "excerpt": "TORRAS responds to the demands of evolving smartphones with a case featuring soft edges that frames mobile protection through structural design.\nThe post TORRAS ostand q3 air pro embeds its latest air",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/torras_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "brussels rolls out hokusai’s great wave in 750,000 dahlias for flower carpet 2026",
-      "url": "https://www.designboom.com/art/brussels-hokusais-great-wave-dahlias-flower-carpet-2026/",
-      "excerpt": "japan’s most famous wave lands on the grand-place, this time without getting anyone wet.\nThe post brussels rolls out hokusai’s great wave in 750,000 dahlias for flower carpet 2026 appeared first on de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/brussels-hokusais-great-wave-dahlias-flower-carpet-2026-designboom-1-1.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -347,26 +367,6 @@ window.LUMINO_DATA = {
       "title": "Research finds Star Homes housing reduces malaria in children by 44 per cent",
       "url": "https://www.dezeen.com/2026/08/14/star-homes-malaria-study-tanzania/",
       "excerpt": "A study has found that children living in Star Homes, a housing initiative in Tanzania, have lower rates of malaria, diarrhoea and respiratory infections compared to those living in mud-and-thatch hou",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "A new tropical architecture archive traces a unique, global journey across the 20th century",
-      "url": "https://www.wallpaper.com/architecture/aa-department-of-tropical-architecture-archive-uk",
-      "excerpt": "The Architectural Association’s Department of Tropical Architecture Archive is now live – here's what we learned from this ‘extraordinary resource’ for academic research",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9TehQAtghTncE9wKAkfU59-1920-80.webp",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "tablet-shaped pillows turn 48 hours of sleeplessness into tactile installation",
-      "url": "https://www.designboom.com/art/tablet-shaped-pillows-48-hours-sleeplessness-tactile-installation-pillow-hommes-hom-sitta-chandarawong/",
-      "excerpt": "visitors can sit, lie, and rest among the oversized pharmaceutical forms.\nThe post tablet-shaped pillows turn 48 hours of sleeplessness into tactile installation appeared first on designboom | archite",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tablet-shaped-pillows-48-hours-sleeplessness-tactile-installation-pillow-hommes-hom-sitta-chandarawong-designboom-1200-1.jpg",
       "today": true
     },
     {
