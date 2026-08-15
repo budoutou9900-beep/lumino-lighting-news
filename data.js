@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  18:19",
+  "fetchedAt": "2026.08.15  19:18",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -212,6 +212,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.15",
+      "title": "Castelo House / Gonçalo Grácio",
+      "url": "https://www.archdaily.com/1183349/castelo-house-goncalo-gracio",
+      "excerpt": "The house is located in a historic context, within the medieval town of Castelo de Vide. The project sought to enhance the authenticity of the site and respect the pre-existing structure, preserving i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f1f6/3cf9/6c00/0178/2794/large_jpg/01.jpg?1786638868",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
       "title": "Villa Arena / Ábaton",
       "url": "https://www.archdaily.com/1148796/villa-arena-abaton",
       "excerpt": "Villa Arena is a project conceived with a deep sensitivity towards family life. The commission came from a family of six seeking a place devoted to calm, togetherness, and contemplation within the coa",
@@ -313,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/single-sheet-folded-steel-z-shaped-table-lamp-cobre-estudio/",
       "excerpt": "through asymmetry, visual tension, and warm light, the lamp creates a balance between functional object and architectural form.\nThe post single sheet of folded steel sculpts into z-shaped table lamp a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cobre-estudio-table-lamp-z-steel-lighting-object-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Shadows House / Seiro Arquitectos",
-      "url": "https://www.archdaily.com/1183384/shadows-house-seiro-arquitectos",
-      "excerpt": "\"Inspiration comes from the sky, dwells and descends into the studio, where it takes shape,\" explains one of the owners of Casa Sombras. This poetic image synthesizes the organization of a home that c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/69cd/3cf9/6c00/0178/0b27/large_jpg/SEIRO_SOMBRAS_CBSTD-10.jpg?1786538507",
       "today": false
     },
     {
