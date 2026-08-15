@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  13:27",
+  "fetchedAt": "2026.08.15  14:16",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,31 +29,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -98,7 +98,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -137,10 +137,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.15",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -153,6 +153,26 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "traditional potter’s stand becomes a timber bench shaped like a stretching cat",
+      "url": "https://www.designboom.com/design/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing/",
+      "excerpt": "an integrated drawer adds storage to the compact furniture piece.\nThe post traditional potter’s stand becomes a timber bench shaped like a stretching cat appeared first on designboom | architecture & ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "An updated Californian mid-century modern house gains new light and space",
+      "url": "https://www.wallpaper.com/architecture/residential/sidell-pakravan-midcentury-modern-home-berkeley-hills",
+      "excerpt": "House Vert by Sidell Pakravan required a sensitive upgrade strategy, with enhancements and expansions that retain the structure’s integrity and the qualities of the site",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C5ctDM25hy4uEnzeUKbAWb-2000-80.jpg",
       "today": true
     },
     {
@@ -263,16 +283,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "New White House ballroom renderings reveal gilded hall, droneport",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/white-house-ballroom-supreme-court-filing",
-      "excerpt": "The images were included in an emergency request sent to the Supreme Court Friday by the Trump administration to allow construction to move forward",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8kwjbR5AyTwG2HFtcTEG2T-2278-80.png",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -338,16 +348,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/ruf-ehra-liquid-silver-seven-speed-manual-car-monterey/",
       "excerpt": "RUF turns its carbon-fiber shell toward long-distance driving with a 650-hp widebody fastback and seven-speed manual. \nThe post RUF EHRA arrives in monterey with liquid silver bodywork and seven-speed",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ruf-ehra-quail-monterey-car-week-2026-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "interference paint, coachwork and materials shape limited aston martin valen",
-      "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
-      "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post interference paint, coachwork and materials shape limited aston martin v",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
       "today": false
     },
     {
@@ -418,6 +418,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
