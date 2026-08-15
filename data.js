@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  16:17",
+  "fetchedAt": "2026.08.15  17:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -160,6 +160,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "This serene Copenhagen boutique is a haven for Korean design",
+      "url": "https://www.wallpaper.com/design-interiors/hye-the-store-copenhagen-korean-design-boutique",
+      "excerpt": "Hye The Store is a new design boutique in Copenhagen offering objects from South Korea and beyond, all united by ‘a practical and understated approach to design’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p9JmseeEw9TSP84Exgj2oF-1600-80.png",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.15",
@@ -177,6 +187,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/sidell-pakravan-midcentury-modern-home-berkeley-hills",
       "excerpt": "House Vert by Sidell Pakravan required a sensitive upgrade strategy, with enhancements and expansions that retain the structure’s integrity and the qualities of the site",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C5ctDM25hy4uEnzeUKbAWb-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Villa Arena / Ábaton",
+      "url": "https://www.archdaily.com/1148796/villa-arena-abaton",
+      "excerpt": "Villa Arena is a project conceived with a deep sensitivity towards family life. The commission came from a family of six seeking a place devoted to calm, togetherness, and contemplation within the coa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/ab72/d425/1a00/01c4/ba13/large_jpg/_T2A0890.jpg?1784195971",
       "today": true
     },
     {
@@ -267,16 +287,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Texas barbecue gets a Hong Kong remix at Hon’s BBQ in Hackney",
-      "url": "https://www.wallpaper.com/travel/restaurants/hons-bbq-london-review",
-      "excerpt": "At Hon’s BBQ, Texas smoking meets Chinese cooking in a red-hued Hackney Wick dining room spotlighting ribs, rice and records",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7VGWbNkT6JfkeGQMGN37J9-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.15",
@@ -313,16 +323,6 @@ window.LUMINO_DATA = {
       "title": "Instagram redesigns its wordmark for first time in a decade",
       "url": "https://www.dezeen.com/2026/08/14/instagram-rebrand-wordmark-script-2026/",
       "excerpt": "Social media platform Instagram has updated its brand identity with elements such as a refreshed, \"bolder and simpler\" wordmark and updated typographic elements across the platform. The update was ann",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Livraria da Vila Artes / ARCHITECTS OFFICE",
-      "url": "https://www.archdaily.com/1183392/livraria-da-vila-artes-architects-office",
-      "excerpt": "Livraria da Vila Artes is born from a precise gesture within a space that, at first glance, condenses. In just 40 square meters, the project emerges from an investigation into how architecture can int",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1999/3cf9/6c00/0178/2c67/large_jpg/FELCO_0326-3-2.jpg?1786714573",
       "today": false
     },
     {
