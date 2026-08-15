@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  08:20",
+  "fetchedAt": "2026.08.15  09:20",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -157,6 +157,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Albania recruited top starchitects to transform its image. A new book is raising questions about that process",
+      "url": "https://www.wallpaper.com/architecture/the-albanian-files-freedom-and-architecture-book",
+      "excerpt": "‘The Albanian Files’ chronicles the country’s remarkable architectural development, spurred by the recruitment of a roster of top international firms, but critics are holding the book up as evidence o",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wkdGWafSZENvFqYLSGL35n-2560-80.jpg",
       "today": true
     },
     {
@@ -295,16 +305,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
       "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post interference paint, coachwork and materials shape limited aston martin v",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Aston Martin ups the ante on its bespoke offering with the V12-powered Valen",
-      "url": "https://www.wallpaper.com/transportation/aston-martin-valen",
-      "excerpt": "Only 150 lucky buyers can jump at the chance to acquire the new Aston Martin Valen",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ojuWNRkw66z2SPB6hKBAgD-2560-80.jpg",
       "today": false
     },
     {
