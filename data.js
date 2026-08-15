@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  09:20",
+  "fetchedAt": "2026.08.15  10:17",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,57 +17,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ozmall.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -112,6 +116,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.15",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.15",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.15",
+      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
+      "url": "https://www.fashion-press.net/news/138882",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138882/top.jpg?1759379598",
+      "today": true
+    },
+    {
+      "source": "東京建物株式会社",
+      "cat": "展示・アート",
+      "date": "2026.08.15",
+      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
+      "url": "https://tatemono.com/news/20251016-3.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.15",
@@ -122,7 +165,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -141,22 +184,31 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.15",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "Helen & Hard uses uprooted spruce trees to shape Norwegian cabin",
+      "url": "https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/",
+      "excerpt": "Local studio Helen & Hard has completed a timber cabin on Norway's Atlantic coast where sprawling tree-like columns made from uprooted spruce trees frame panoramic views of the sea. Named Cabin Sande,",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.15",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "A holiday house by Kaviar Collaborative is designed as a series of 'viewing galleries'",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/kaviar-collaborative-india",
+      "excerpt": "Set on a secluded peninsula in Maharashtra, Kaviar Collaborative’s lakeside retreat uses soaring spaces, natural materials and vast windows to frame the landscape",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/L2qrkChuDdbeup9jUE9H3f-1417-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Six small but cool electric cars",
+      "url": "https://www.dezeen.com/2026/08/15/small-but-cool-electric-cars-roundup/",
+      "excerpt": "The electric vehicle market remains dominated by chunky SUVs, but some carmakers are also producing battery-powered hatchbacks that are modest in size but bold in design. Here, we round up six of the ",
       "today": true
     },
     {
@@ -187,6 +239,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/chromatic-architecture-book",
       "excerpt": "Adam Nathaniel Furman and journalist Kate Mazade, argue for more colour in our built environment",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zaHjPtfvjgoP7B8ZgzfMi-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "This week on Dezeen we revealed plans to construct the world's biggest building",
+      "url": "https://www.dezeen.com/2026/08/15/this-week-on-dezeen-terafab-factory-elon-musk/",
+      "excerpt": "This week on Dezeen, Elon Musk announced plans to open a semiconductor factory near Houston, Texas, with a floor area of 100 million square feet that will make it the largest building in the world. Th",
       "today": true
     },
     {
@@ -249,16 +310,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Want to understand architecture in America? Look at a small town near you",
-      "url": "https://www.wallpaper.com/architecture/out-there-architecture-book",
-      "excerpt": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KiWwaxPADpiMZH5iYqf3tA-2000-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -308,15 +359,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Ecological reimagining of former Lake District mill among projects from University of Northumbria",
-      "url": "https://www.dezeen.com/2026/08/14/ecological-reimagining-former-lake-district-mill-university-of-northumbria-schoolshows/",
-      "excerpt": "Dezeen School Shows: a proposal to reimagine a former industrial mill in the Lake District as a place where ecology, heritage and community converge is among the student projects from the University o",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -327,15 +369,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Eight products that showcase the versatility of wood",
-      "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: from lampshades and beds to chairs and kitchens, the following wooden products are all listed in our Showroom section. Timber has been used in the production of furnishings for thousa",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -343,15 +376,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
       "excerpt": "The exhibition design for \"Em Campo\" is structured around five main elements: the floor, the wall, the pillars, the grid, and the audiovisual equipment integrated with the furniture.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f662/3cf9/6c00/0178/27c8/large_jpg/MARINA_LIMA__EM_CAMPO_HICK_DUARTE_CLUBE_38_2880PX.jpg?1786640073",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Mosley Thorold mixes salvaged and natural materials in De Beauvoir home renovation",
-      "url": "https://www.dezeen.com/2026/08/14/mosley-thorold-de-beauvoir-house/",
-      "excerpt": "Local architecture studio Mosley Thorold has updated and extended a Victorian home in east London, using a textured palette of concrete, brick, tiles and metal intended to patina over time. Named De B",
       "today": false
     },
     {
@@ -422,16 +446,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
