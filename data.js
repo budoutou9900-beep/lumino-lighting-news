@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  06:27",
+  "fetchedAt": "2026.08.15  07:25",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "sortiraparis.com": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -80,7 +80,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -110,7 +110,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -130,7 +130,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -182,10 +182,30 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.15",
+      "title": "New book 'Chromatic Architecture' celebrates colour as a 'fundamental aspect of human pleasure'",
+      "url": "https://www.wallpaper.com/architecture/chromatic-architecture-book",
+      "excerpt": "Adam Nathaniel Furman and journalist Kate Mazade, argue for more colour in our built environment",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zaHjPtfvjgoP7B8ZgzfMi-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.15",
       "title": "Texas barbecue gets a Hong Kong remix at Hon’s BBQ in Hackney",
       "url": "https://www.wallpaper.com/travel/restaurants/hons-bbq-london-review",
       "excerpt": "At Hon’s BBQ, Texas smoking meets Chinese cooking in a red-hued Hackney Wick dining room spotlighting ribs, rice and records",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7VGWbNkT6JfkeGQMGN37J9-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Research Centre for Yu Yi Educational Thought / TM Studio",
+      "url": "https://www.archdaily.com/1027710/research-centre-for-yu-yi-educational-thought-tm-studio",
+      "excerpt": "Research Centre for Yu Yi Educational Thought project is located near the intersection of Sip-ing Road and Dalian Road in Yangpu District, Shanghai, situated at the southeast corner of Yangpu Senior H",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/67ca/3690/0fc6/cf01/8a31/2ce8/large_jpg/research-centre-for-yu-yi-educational-thought-tm-studio_25.jpg?1741305504",
       "today": true
     },
     {
@@ -326,16 +346,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "A driving tour of LA's remaining Googie architecture",
-      "url": "https://www.wallpaper.com/architecture/googie-architecture-los-angeles",
-      "excerpt": "The rise of larger-than-life, space-age architecture marked the boom of car culture in 1950s Los Angeles. Join us on a tour of the city's remaining Googie gems – and prepare to eat a lot of burgers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/STSobVgd5JZsPwFj9Vhc2d-2500-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.14",
@@ -352,16 +362,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
       "excerpt": "The exhibition design for \"Em Campo\" is structured around five main elements: the floor, the wall, the pillars, the grid, and the audiovisual equipment integrated with the furniture.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f662/3cf9/6c00/0178/27c8/large_jpg/MARINA_LIMA__EM_CAMPO_HICK_DUARTE_CLUBE_38_2880PX.jpg?1786640073",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Locust Grove Pavilion / de Leon & Primmer Architecture Workshop",
-      "url": "https://www.archdaily.com/1183203/locust-grove-pavilion-de-leon-and-primmer-architecture-workshop",
-      "excerpt": "The Locust Grove Pavilion expands the experience of one of Kentucky's most significant historic landscapes, transforming a contemporary community gathering space into an instrument for historical inte",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/afa2/3cf9/6c00/0178/0c63/large_jpg/Locust_Grove_Pavilion_1665.jpg?1786556367",
       "today": false
     },
     {
