@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  21:15",
+  "fetchedAt": "2026.08.15  22:15",
   "sourceColors": {
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "sanyonews.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -72,16 +72,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.15",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.08.15",
@@ -92,13 +82,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
       "date": "2026.08.15",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
       "today": true
     },
     {
@@ -112,7 +102,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.15",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -186,6 +186,16 @@ window.LUMINO_DATA = {
       "title": "Ome Dezin and Lumens outfit renovated Los Angeles residence",
       "url": "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
       "excerpt": "Los Angeles studio Ome Dezin has partnered with design platform Lumens to renovate and furnish a 1990s home in the Hollywood Hills, adding iconic furniture and lighting from Frank Gehry, Ingo Maurer a",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Junohair Sung-Su 2nd Salon / TYPE S",
+      "url": "https://www.archdaily.com/1183252/junohair-sung-su-2nd-salon-type-s",
+      "excerpt": "Sung-su is one of the most distinctive neighborhoods in South Korea. Built upon a long-established industrial landscape, the area has continuously evolved into a destination where new cultures and exp",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/bcf7/3cf9/6c00/0178/268e/large_jpg/20.jpg?1786625322",
       "today": true
     },
     {
@@ -304,16 +314,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/milan-apartment-bursting-thousands-twentieth-century-masterpieces/",
       "excerpt": "casa museo boschi di stefano is house-turned museum that exhibits the works of alessandro mendini, giorgio de chirico, lucio fontana and other greats from the twentieth century.\nThe post this milan ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/boschi-di-stefano-designboom-07.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
-      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
-      "excerpt": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materials, and a rejection of excess and industry. Its influence i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7487/4ea2/e401/8926/6720/large_jpg/the-enduring-ethics-of-the-arts-and-crafts-movement_1.jpg?1785492621",
       "today": true
     },
     {
