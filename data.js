@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.14  23:16",
+  "fetchedAt": "2026.08.15  00:54",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,72 +17,60 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "sanyonews.jp": {
+    "ozmall.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "designboom": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Dezeen": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -92,7 +80,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -102,7 +90,7 @@ window.LUMINO_DATA = {
     {
       "source": "倉敷経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
@@ -112,7 +100,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -120,18 +108,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.14",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
@@ -139,19 +118,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.08.14",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -160,7 +129,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.14",
+      "date": "2026.08.15",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -168,13 +137,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.14",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "date": "2026.08.15",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.15",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -185,7 +163,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/white-house-ballroom-supreme-court-filing",
       "excerpt": "The images were included in an emergency request sent to the Supreme Court Friday by the Trump administration to allow construction to move forward",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8kwjbR5AyTwG2HFtcTEG2T-2278-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -195,7 +173,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/single-sheet-folded-steel-z-shaped-table-lamp-cobre-estudio/",
       "excerpt": "through asymmetry, visual tension, and warm light, the lamp creates a balance between functional object and architectural form.\nThe post single sheet of folded steel sculpts into z-shaped table lamp a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cobre-estudio-table-lamp-z-steel-lighting-object-designboom-1200-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Shadows House / Seiro Arquitectos",
+      "url": "https://www.archdaily.com/1183384/shadows-house-seiro-arquitectos",
+      "excerpt": "\"Inspiration comes from the sky, dwells and descends into the studio, where it takes shape,\" explains one of the owners of Casa Sombras. This poetic image synthesizes the organization of a home that c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/69cd/3cf9/6c00/0178/0b27/large_jpg/SEIRO_SOMBRAS_CBSTD-10.jpg?1786538507",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -204,7 +192,7 @@ window.LUMINO_DATA = {
       "title": "Instagram redesigns its wordmark for first time in a decade",
       "url": "https://www.dezeen.com/2026/08/14/instagram-rebrand-wordmark-script-2026/",
       "excerpt": "Social media platform Instagram has updated its brand identity with elements such as a refreshed, \"bolder and simpler\" wordmark and updated typographic elements across the platform. The update was ann",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -214,7 +202,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/out-there-architecture-book",
       "excerpt": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KiWwaxPADpiMZH5iYqf3tA-2000-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.14",
+      "title": "Livraria da Vila Artes / ARCHITECTS OFFICE",
+      "url": "https://www.archdaily.com/1183392/livraria-da-vila-artes-architects-office",
+      "excerpt": "Livraria da Vila Artes is born from a precise gesture within a space that, at first glance, condenses. In just 40 square meters, the project emerges from an investigation into how architecture can int",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1999/3cf9/6c00/0178/2c67/large_jpg/FELCO_0326-3-2.jpg?1786714573",
+      "today": false
     },
     {
       "source": "designboom",
@@ -224,7 +222,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
       "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with shark",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -233,7 +231,7 @@ window.LUMINO_DATA = {
       "title": "Populous completes Buffalo Bills stadium in New York",
       "url": "https://www.dezeen.com/2026/08/14/populous-new-york-buffalo-bills-stadium/",
       "excerpt": "Architecture studio Populous has completed the steep, metal-clad Highmark Stadium in Buffalo, New York for NFL team the Buffalo Bills, with a canopy and advanced snow-melt system. The new Highmark Sta",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -243,7 +241,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/ruf-ehra-liquid-silver-seven-speed-manual-car-monterey/",
       "excerpt": "RUF turns its carbon-fiber shell toward long-distance driving with a 650-hp widebody fastback and seven-speed manual. \nThe post RUF EHRA arrives in monterey with liquid silver bodywork and seven-speed",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ruf-ehra-quail-monterey-car-week-2026-designboom-FB-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -253,7 +251,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
       "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post interference paint, coachwork and materials shape limited aston martin v",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -263,7 +261,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/aston-martin-valen",
       "excerpt": "Only 150 lucky buyers can jump at the chance to acquire the new Aston Martin Valen",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ojuWNRkw66z2SPB6hKBAgD-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -272,8 +270,8 @@ window.LUMINO_DATA = {
       "title": "eccentrica removes the roof from the lamborghini diablo for its V12 roadster",
       "url": "https://www.designboom.com/technology/eccentrica-roof-lamborghini-diablo-v12-roadster/",
       "excerpt": "the 1990s supercar loses its roof, gains 3,500 bespoke parts and arrives at monterey car week with little interest in going digital.\nThe post eccentrica removes the roof from the lamborghini diablo fo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/1786372270348.jpg",
-      "today": true
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/eccentrica-quail-2026-designboom-FB.jpg",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -282,7 +280,7 @@ window.LUMINO_DATA = {
       "title": "Ecological reimagining of former Lake District mill among projects from University of Northumbria",
       "url": "https://www.dezeen.com/2026/08/14/ecological-reimagining-former-lake-district-mill-university-of-northumbria-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal to reimagine a former industrial mill in the Lake District as a place where ecology, heritage and community converge is among the student projects from the University o",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -292,7 +290,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
       "excerpt": "In the heart of the Guiones jungle in Nosara, Instinto Estudio designed two tropical houses that use architecture as a series of lines to frame the landscape, encourage natural ventilation, and create",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/4a49/3cf9/6c00/0178/2e49/large_jpg/03_linea_house_facade.jpg?1786727061",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -302,7 +300,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/googie-architecture-los-angeles",
       "excerpt": "The rise of larger-than-life, space-age architecture marked the boom of car culture in 1950s Los Angeles. Join us on a tour of the city's remaining Googie gems – and prepare to eat a lot of burgers",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/STSobVgd5JZsPwFj9Vhc2d-2500-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -312,7 +310,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/museu-bernardo-paz-brazil",
       "excerpt": "With Museu Bernardo Paz, the visionary founder of Inhotim is at it again, creating a new art paradise in Brumadinho, set to open in September 2027",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5RRvgQNPHGY9JaEJWxnQnf-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -321,7 +319,7 @@ window.LUMINO_DATA = {
       "title": "Eight products that showcase the versatility of wood",
       "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: from lampshades and beds to chairs and kitchens, the following wooden products are all listed in our Showroom section. Timber has been used in the production of furnishings for thousa",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -331,7 +329,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
       "excerpt": "The exhibition design for \"Em Campo\" is structured around five main elements: the floor, the wall, the pillars, the grid, and the audiovisual equipment integrated with the furniture.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f662/3cf9/6c00/0178/27c8/large_jpg/MARINA_LIMA__EM_CAMPO_HICK_DUARTE_CLUBE_38_2880PX.jpg?1786640073",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -341,7 +339,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183203/locust-grove-pavilion-de-leon-and-primmer-architecture-workshop",
       "excerpt": "The Locust Grove Pavilion expands the experience of one of Kentucky's most significant historic landscapes, transforming a contemporary community gathering space into an instrument for historical inte",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/afa2/3cf9/6c00/0178/0c63/large_jpg/Locust_Grove_Pavilion_1665.jpg?1786556367",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -350,27 +348,7 @@ window.LUMINO_DATA = {
       "title": "Mosley Thorold mixes salvaged and natural materials in De Beauvoir home renovation",
       "url": "https://www.dezeen.com/2026/08/14/mosley-thorold-de-beauvoir-house/",
       "excerpt": "Local architecture studio Mosley Thorold has updated and extended a Victorian home in east London, using a textured palette of concrete, brick, tiles and metal intended to patina over time. Named De B",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "While Away An Architect’s Travel Sketches",
-      "url": "https://www.archdaily.com/1183337/while-away-an-architects-travel-sketches",
-      "excerpt": "An intimate and inspiring journey through the travel sketches of renowned architect Steve Ziger. Part mernoir, part travel guide, part drawing manual and architectural history, this captivating book f",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/09ab/3cf9/6c00/0178/2c2e/large_jpg/grid.jpg?1786710449",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Music and Architecture in Harmony Opera Houses and Concert Halls of Europe, 1672-2022",
-      "url": "https://www.archdaily.com/1183333/music-and-architecture-in-harmony-opera-houses-and-concert-halls-of-europe-1672-2022",
-      "excerpt": "This generously illustrated survey of 90 halls from the past three centuries is a personal selection by the authors, enriched by recommendations from leading musical authorities. These auditoria combi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/090f/3cf9/6c00/0178/2c05/large_jpg/grid.jpg?1786710292",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
