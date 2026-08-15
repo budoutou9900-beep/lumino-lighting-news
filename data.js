@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  17:15",
+  "fetchedAt": "2026.08.15  18:19",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -163,6 +163,25 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.15",
+      "title": "Torishéju Dumi is building a fashion brand on her own terms: ‘I’d rather play the long game’",
+      "url": "https://www.wallpaper.com/fashion-beauty/torisheju-dumi-interview-aw-26",
+      "excerpt": "The winner of the 2025 LVMH Savoir Faire prize is redefining the boundaries of contemporary fashion with collections rooted in ritual, religion and craft. Wallpaper* meets the London-based designer on",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AiEvQE2pgAPoQPGmS8jbxA-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Ome Dezin and Lumens outfit renovated Los Angeles residence",
+      "url": "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
+      "excerpt": "Los Angeles studio Ome Dezin has partnered with design platform Lumens to renovate and furnish a 1990s home in the Hollywood Hills, adding iconic furniture and lighting from Frank Gehry, Ingo Maurer a",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.15",
       "title": "This serene Copenhagen boutique is a haven for Korean design",
       "url": "https://www.wallpaper.com/design-interiors/hye-the-store-copenhagen-korean-design-boutique",
       "excerpt": "Hye The Store is a new design boutique in Copenhagen offering objects from South Korea and beyond, all united by ‘a practical and understated approach to design’",
@@ -258,16 +277,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "New book 'Chromatic Architecture' celebrates colour as a 'fundamental aspect of human pleasure'",
-      "url": "https://www.wallpaper.com/architecture/chromatic-architecture-book",
-      "excerpt": "Adam Nathaniel Furman and journalist Kate Mazade, argue for more colour in our built environment",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zaHjPtfvjgoP7B8ZgzfMi-1416-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.15",
@@ -333,15 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
       "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with ultra",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Populous completes Buffalo Bills stadium in New York",
-      "url": "https://www.dezeen.com/2026/08/14/populous-new-york-buffalo-bills-stadium/",
-      "excerpt": "Architecture studio Populous has completed the steep, metal-clad Highmark Stadium in Buffalo, New York for NFL team the Buffalo Bills, with a canopy and advanced snow-melt system. The new Highmark Sta",
       "today": false
     },
     {
