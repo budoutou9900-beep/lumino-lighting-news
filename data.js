@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  05:20",
+  "fetchedAt": "2026.08.15  06:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "sanyonews.jp": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "kisspress.jp": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -110,7 +110,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -120,7 +120,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
@@ -169,7 +169,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kisspress.jp",
+      "source": "Kiss PRESS(キッスプレス)",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
