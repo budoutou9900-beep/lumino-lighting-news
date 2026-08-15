@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  04:23",
+  "fetchedAt": "2026.08.15  05:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,61 +17,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "sanyonews.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "sortiraparis.com": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "kisspress.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -116,7 +120,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sanyonews.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.15",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -155,13 +169,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "kisspress.jp",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
       "url": "https://kisspress.jp/articles/59977/",
       "excerpt": "",
       "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Texas barbecue gets a Hong Kong remix at Hon’s BBQ in Hackney",
+      "url": "https://www.wallpaper.com/travel/restaurants/hons-bbq-london-review",
+      "excerpt": "At Hon’s BBQ, Texas smoking meets Chinese cooking in a red-hued Hackney Wick dining room spotlighting ribs, rice and records",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7VGWbNkT6JfkeGQMGN37J9-1600-80.jpg",
       "today": true
     },
     {
@@ -227,9 +251,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.14",
-      "title": "gunther werks GXR-evo reshapes the 993 with shark fin and full carbon body",
+      "title": "gunther werks GXR-evo reshapes the 993 with ultra-lightweight full carbon body",
       "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
-      "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with shark",
+      "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with ultra",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
       "today": false
     },
@@ -309,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/googie-architecture-los-angeles",
       "excerpt": "The rise of larger-than-life, space-age architecture marked the boom of car culture in 1950s Los Angeles. Join us on a tour of the city's remaining Googie gems – and prepare to eat a lot of burgers",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/STSobVgd5JZsPwFj9Vhc2d-2500-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Bernardo Paz returns to the Brazilian forest. Discover the plans for his second artistic utopia",
-      "url": "https://www.wallpaper.com/architecture/museu-bernardo-paz-brazil",
-      "excerpt": "With Museu Bernardo Paz, the visionary founder of Inhotim is at it again, creating a new art paradise in Brumadinho, set to open in September 2027",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5RRvgQNPHGY9JaEJWxnQnf-2560-80.jpg",
       "today": false
     },
     {
