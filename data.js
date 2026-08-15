@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  11:14",
+  "fetchedAt": "2026.08.15  12:25",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -134,7 +134,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.15",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -151,7 +151,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.15",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -215,6 +215,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/chromatic-architecture-book",
       "excerpt": "Adam Nathaniel Furman and journalist Kate Mazade, argue for more colour in our built environment",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9zaHjPtfvjgoP7B8ZgzfMi-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Headquarters \"MANZ Bel Étage\" / Podrecca Architects",
+      "url": "https://www.archdaily.com/1183235/headquarters-manz-bel-etage-podrecca-architects",
+      "excerpt": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/9139/3cf9/6c00/0178/2532/large_jpg/04_a_manz_pod.jpg?1786614118",
       "today": true
     },
     {
@@ -342,16 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
       "excerpt": "In the heart of the Guiones jungle in Nosara, Instinto Estudio designed two tropical houses that use architecture as a series of lines to frame the landscape, encourage natural ventilation, and create",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/4a49/3cf9/6c00/0178/2e49/large_jpg/03_linea_house_facade.jpg?1786727061",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "In Campo, Solo Exhibition by Hick Duarte / Clube",
-      "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
-      "excerpt": "The exhibition design for \"Em Campo\" is structured around five main elements: the floor, the wall, the pillars, the grid, and the audiovisual equipment integrated with the furniture.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f662/3cf9/6c00/0178/27c8/large_jpg/MARINA_LIMA__EM_CAMPO_HICK_DUARTE_CLUBE_38_2880PX.jpg?1786640073",
       "today": false
     },
     {
