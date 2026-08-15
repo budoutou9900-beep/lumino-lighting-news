@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  19:18",
+  "fetchedAt": "2026.08.15  20:16",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "倉敷経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,17 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -92,16 +88,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.15",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
       "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.15",
@@ -109,6 +95,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.15",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
       "today": true
     },
     {
@@ -422,16 +418,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
