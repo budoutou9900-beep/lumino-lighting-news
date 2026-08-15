@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  20:16",
+  "fetchedAt": "2026.08.15  21:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,13 +57,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -156,6 +160,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "who gets to live in the wall? architecture makes room for nonhuman residents",
+      "url": "https://www.designboom.com/architecture/nonhuman-residents-multispecies-design-wildlife-biodiversity/",
+      "excerpt": "from nesting cavities inside facades to wildlife corridors through new neighborhoods, architects give other species a meaningful place. \nThe post who gets to live in the wall? architecture makes room ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/multispecies-architecture-modes-habitation-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.15",
@@ -182,6 +196,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/hye-the-store-copenhagen-korean-design-boutique",
       "excerpt": "Hye The Store is a new design boutique in Copenhagen offering objects from South Korea and beyond, all united by ‘a practical and understated approach to design’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p9JmseeEw9TSP84Exgj2oF-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "Sartoriale Offices / DOS - G arquitectos",
+      "url": "https://www.archdaily.com/1183374/sartoriale-offices-dos-g-arquitectos",
+      "excerpt": "Located in Panama City, the new Sartoriale offices were conceived as a spatial interpretation of the values that define the real estate developer: tradition, craftsmanship, and bespoke design. The pro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/f083/3cf9/6c00/0178/2ae2/large_jpg/DOS-G_Sartoriale_01.jpg?1786704019",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "La Alhajuela House / Trópico Arquitectura",
+      "url": "https://www.archdaily.com/1183389/la-alhajuela-house-tropico-arquitectura",
+      "excerpt": "This was the first project developed by Trópico, serving as a decisive exercise in shaping the studio's architectural language and core interests.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/4e7e/3cf9/6c00/0178/2ec0/large_jpg/4.jpg?1786728170",
       "today": true
     },
     {
@@ -283,32 +317,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Headquarters \"MANZ Bel Étage\" / Podrecca Architects",
-      "url": "https://www.archdaily.com/1183235/headquarters-manz-bel-etage-podrecca-architects",
-      "excerpt": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/9139/3cf9/6c00/0178/2532/large_jpg/04_a_manz_pod.jpg?1786614118",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.15",
       "title": "This week on Dezeen we revealed plans to construct the world's biggest building",
       "url": "https://www.dezeen.com/2026/08/15/this-week-on-dezeen-terafab-factory-elon-musk/",
       "excerpt": "This week on Dezeen, Elon Musk announced plans to open a semiconductor factory near Houston, Texas, with a floor area of 100 million square feet that will make it the largest building in the world. Th",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Research Centre for Yu Yi Educational Thought / TM Studio",
-      "url": "https://www.archdaily.com/1027710/research-centre-for-yu-yi-educational-thought-tm-studio",
-      "excerpt": "Research Centre for Yu Yi Educational Thought project is located near the intersection of Sip-ing Road and Dalian Road in Yangpu District, Shanghai, situated at the southeast corner of Yangpu Senior H",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/67ca/3690/0fc6/cf01/8a31/2ce8/large_jpg/research-centre-for-yu-yi-educational-thought-tm-studio_25.jpg?1741305504",
       "today": true
     },
     {
@@ -338,16 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
       "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with ultra",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "RUF EHRA arrives in monterey with liquid silver bodywork and seven-speed manual",
-      "url": "https://www.designboom.com/technology/ruf-ehra-liquid-silver-seven-speed-manual-car-monterey/",
-      "excerpt": "RUF turns its carbon-fiber shell toward long-distance driving with a 650-hp widebody fastback and seven-speed manual. \nThe post RUF EHRA arrives in monterey with liquid silver bodywork and seven-speed",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ruf-ehra-quail-monterey-car-week-2026-designboom-FB-1.jpg",
       "today": false
     },
     {
@@ -418,6 +422,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
