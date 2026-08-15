@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.15  12:25",
+  "fetchedAt": "2026.08.15  13:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,17 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -102,7 +98,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -205,6 +201,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/milan-apartment-bursting-thousands-twentieth-century-masterpieces/",
       "excerpt": "casa museo boschi di stefano is house-turned museum that exhibits the works of alessandro mendini, giorgio de chirico, lucio fontana and other greats from the twentieth century.\nThe post this milan ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/boschi-di-stefano-designboom-07.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.15",
+      "title": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture",
+      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
+      "excerpt": "The Arts and Crafts movement is often remembered as an architectural style defined by handcrafted details, an intimate scale, natural materials, and a rejection of excess and industry. Its influence i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7487/4ea2/e401/8926/6720/large_jpg/the-enduring-ethics-of-the-arts-and-crafts-movement_1.jpg?1785492621",
       "today": true
     },
     {
@@ -345,16 +351,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "Linea House / Instinto Estudio",
-      "url": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
-      "excerpt": "In the heart of the Guiones jungle in Nosara, Instinto Estudio designed two tropical houses that use architecture as a series of lines to frame the landscape, encourage natural ventilation, and create",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/4a49/3cf9/6c00/0178/2e49/large_jpg/03_linea_house_facade.jpg?1786727061",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.08.07",
@@ -422,16 +418,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
