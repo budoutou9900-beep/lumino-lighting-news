@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  18:20",
+  "fetchedAt": "2026.08.16  19:17",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -173,6 +173,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.16",
+      "title": "Refuge House / Elisa Porto Arquitetura",
+      "url": "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
+      "excerpt": "Located in Foz do Iguaçu, within the Atlantic Forest, the Refugio House was born from the search for balance between architecture, nature, and thermal comfort. In a region with a humid subtropical cli",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1e13/3cf9/6c00/0178/2d03/large_jpg/EM_260423_EPA_0016.jpg?1786715705",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
       "title": "Pavillon Monk  / L. McComber",
       "url": "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
       "excerpt": "In response to the housing crisis and the growing vulnerability of people experiencing homelessness, the Old Brewery Mission is building a new permanent supportive housing pavilion directly across fro",
@@ -285,16 +295,6 @@ window.LUMINO_DATA = {
       "excerpt": "Canteen No. 11 is located at the eastern edge of Aranya North Shore Art Bay in Qinhuangdao. Surrounded by apartments, ground-floor retail, a children's water park, and community streets, the project o",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/1bbe/ab59/ca01/8994/4c93/large_jpg/community-canteen-no-11-aranya-qinhuangdao-verse-design_30.jpg?1786584010",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Common Days Cafe / INS Studio",
-      "url": "https://www.archdaily.com/1183147/common-days-cafe-ins-studio",
-      "excerpt": "Located in Maros, a small town on the outskirts of Makassar, Indonesia, this project occupies a newly developed commercial district where the urban fabric remains relatively sparse, allowing the surro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/cf1d/3cf9/6c00/0178/08b6/large_jpg/13.jpg?1786498970",
-      "today": false
     },
     {
       "source": "designboom",
