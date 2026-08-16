@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  16:17",
+  "fetchedAt": "2026.08.16  17:14",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -167,6 +167,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-material-craft-tactile-design-objects/",
       "excerpt": "from century-old ceramic techniques to hand-worked precious metals and twisted hardwoods, the shop drop showcases design objects where the art of making takes center stage.\nThe post designboom shop dr",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-material-craft-tactile-design-objects-designboom1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Pavillon Monk  / L. McComber",
+      "url": "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
+      "excerpt": "In response to the housing crisis and the growing vulnerability of people experiencing homelessness, the Old Brewery Mission is building a new permanent supportive housing pavilion directly across fro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/be41/3cf9/6c00/0178/26b9/large_jpg/OBM-monk-logement-social-locatif-inclusif-personne-sortant-itin_rance-insertion-m_tro-brique-bleue-balcon-arche_A02_LMcComber-architecture.jpg?1786625624",
       "today": true
     },
     {
@@ -313,16 +323,6 @@ window.LUMINO_DATA = {
       "title": "Ome Dezin and Lumens outfit renovated Los Angeles residence",
       "url": "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
       "excerpt": "Los Angeles studio Ome Dezin has partnered with design platform Lumens to renovate and furnish a 1990s home in the Hollywood Hills, adding iconic furniture and lighting from Frank Gehry, Ingo Maurer a",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Junohair Sung-Su 2nd Salon / TYPE S",
-      "url": "https://www.archdaily.com/1183252/junohair-sung-su-2nd-salon-type-s",
-      "excerpt": "Sung-su is one of the most distinctive neighborhoods in South Korea. Built upon a long-established industrial landscape, the area has continuously evolved into a destination where new cultures and exp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/bcf7/3cf9/6c00/0178/268e/large_jpg/20.jpg?1786625322",
       "today": false
     },
     {
