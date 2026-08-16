@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  07:25",
+  "fetchedAt": "2026.08.16  08:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.16",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -151,12 +151,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.16",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Architect Carlo Ratti on the lifeguard uniform, Italy’s unlikely design classic",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-lifeguards-uniform-italy",
+      "excerpt": "In the ninth instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the Italian lifeguard uniform, where Ferrari red, seaside glamour and a distinct lack of rules have created an unli",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TAD2dDnpDETECwPnnyTei6-1600-80.jpg",
       "today": true
     },
     {
@@ -187,6 +197,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/everything-you-need-to-know-about-mingei",
       "excerpt": "Mingei, the 1920s Japanese folk-art revival, presented a new way of viewing objects and new aesthetic values. Here, we unpack what underpins this movement and its enduring relevancy in contemporary so",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dsVH8RbnesacwGetbK8P4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Community Canteen No. 11, Aranya Qinhuangdao / Verse Design",
+      "url": "https://www.archdaily.com/1183159/community-canteen-no-11-aranya-qinhuangdao-verse-design",
+      "excerpt": "Canteen No. 11 is located at the eastern edge of Aranya North Shore Art Bay in Qinhuangdao. Surrounded by apartments, ground-floor retail, a children's water park, and community streets, the project o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/1bbe/ab59/ca01/8994/4c93/large_jpg/community-canteen-no-11-aranya-qinhuangdao-verse-design_30.jpg?1786584010",
       "today": true
     },
     {
@@ -276,26 +296,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing/",
       "excerpt": "an integrated drawer adds storage to the compact furniture piece.\nThe post traditional potter’s stand becomes a timber bench shaped like a stretching cat appeared first on designboom | architecture & ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "An updated Californian mid-century modern house gains new light and space",
-      "url": "https://www.wallpaper.com/architecture/residential/sidell-pakravan-midcentury-modern-home-berkeley-hills",
-      "excerpt": "House Vert by Sidell Pakravan required a sensitive upgrade strategy, with enhancements and expansions that retain the structure’s integrity and the qualities of the site",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C5ctDM25hy4uEnzeUKbAWb-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Castelo House / Gonçalo Grácio",
-      "url": "https://www.archdaily.com/1183349/castelo-house-goncalo-gracio",
-      "excerpt": "The house is located in a historic context, within the medieval town of Castelo de Vide. The project sought to enhance the authenticity of the site and respect the pre-existing structure, preserving i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f1f6/3cf9/6c00/0178/2794/large_jpg/01.jpg?1786638868",
       "today": false
     },
     {
