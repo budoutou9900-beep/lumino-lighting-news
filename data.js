@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  05:22",
+  "fetchedAt": "2026.08.16  06:30",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.16",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -151,12 +151,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.16",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "material, structure, and scent converge in so koizumi’s south korean solo exhibition",
+      "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
+      "excerpt": "the exhibition combines koizumi’s work with pointtwofive·second’s scent-based environment.\nThe post material, structure, and scent converge in so koizumi’s south korean solo exhibition appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/451357/2026-08-12/so-koizumis-first-solo-exhibition-in-south-korea-1-6a7c330c12556.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Mingei at 100: why Japan’s folk-craft movement still shapes design today",
+      "url": "https://www.wallpaper.com/design-interiors/everything-you-need-to-know-about-mingei",
+      "excerpt": "Mingei, the 1920s Japanese folk-art revival, presented a new way of viewing objects and new aesthetic values. Here, we unpack what underpins this movement and its enduring relevancy in contemporary so",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dsVH8RbnesacwGetbK8P4-2560-80.jpg",
       "today": true
     },
     {
@@ -297,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Albania recruited top starchitects to transform its image. A new book is raising questions about that process",
-      "url": "https://www.wallpaper.com/architecture/the-albanian-files-freedom-and-architecture-book",
-      "excerpt": "‘The Albanian Files’ chronicles the country’s remarkable architectural development, spurred by the recruitment of a roster of top international firms, but critics are holding the book up as evidence o",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wkdGWafSZENvFqYLSGL35n-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.15",
@@ -342,16 +352,6 @@ window.LUMINO_DATA = {
       "title": "Instagram redesigns its wordmark for first time in a decade",
       "url": "https://www.dezeen.com/2026/08/14/instagram-rebrand-wordmark-script-2026/",
       "excerpt": "Social media platform Instagram has updated its brand identity with elements such as a refreshed, \"bolder and simpler\" wordmark and updated typographic elements across the platform. The update was ann",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.14",
-      "title": "gunther werks GXR-evo reshapes the 993 with ultra-lightweight full carbon body",
-      "url": "https://www.designboom.com/technology/gunther-werks-gxr-evo-993-shark-fin-carbon-body/",
-      "excerpt": "gunther werks takes its interpretation of the porsche 911 further into racing territory with the GXR-evo, unveiled during monterey car week. \nThe post gunther werks GXR-evo reshapes the 993 with ultra",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gunther-werks-gxr-evo-designboom-FB.jpg",
       "today": false
     },
     {
