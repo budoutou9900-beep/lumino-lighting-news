@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  21:14",
+  "fetchedAt": "2026.08.16  22:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -112,16 +112,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.16",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.16",
@@ -160,6 +150,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.16",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.16",
@@ -167,6 +167,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/six-tatami-garden-tea-room-salvaged-timber-titanium-steel-ichihara-japan-kurosawa-kawara-ten/",
       "excerpt": "a glazed volume creates a transition between the tea room and the existing annex.\nThe post six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ichihara-chiba-japan-kurosawa-kawara-ten-kazufumi-kobayashi-renovation-six-tatami-tea-room-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Jun Matcha Club Cafe / Matter of Something",
+      "url": "https://www.archdaily.com/1183148/jun-matcha-club-cafe-matter-of-something",
+      "excerpt": "Located within a former residential garage in South Jakarta's Panglima Polim neighbourhood, Jun Matcha Club responds to the area's growing concentration of independent cafés and restaurants, offering ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/d085/3cf9/6c00/0178/08ca/large_jpg/MOS_PressRelease_JunMatcha_002_PhotobyKafinNoeman.jpg?1786499219",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Paso Nara / Instituto Superior de Arquitectura y Diseño",
+      "url": "https://www.archdaily.com/1183381/paso-nara-instituto-superior-de-arquitectura-y-diseno",
+      "excerpt": "During the summer of 2026, the Instituto Superior de Arquitectura y Diseño (ISAD) hosted a new edition of the Taller del Desierto (Desert Workshop), an intensive academic exercise that for over a deca",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/68fe/eee6/f800/0125/f73c/large_jpg/TDD26-12.jpg?1786014101",
       "today": true
     },
     {
@@ -268,16 +288,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Kifisia Apartment: A Reconfiguration of Domestic Boundaries / Georgios Apostolopoulos Architects",
-      "url": "https://www.archdaily.com/1183236/kifisia-apartment-a-reconfiguration-of-domestic-boundaries-georgios-apostolopoulos-architects",
-      "excerpt": "The renovation on this 1970s apartment in Kifisia, began with subtraction. All internal partitions were removed to reveal the apartment's spatial potential and expose the existing structure.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/920b/3cf9/6c00/0178/2545/large_jpg/GA_KA___LZ_2026-7.jpg?1786614341",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.16",
@@ -294,16 +304,6 @@ window.LUMINO_DATA = {
       "title": "NUA Arquitectures renovates Catalan textile warehouse with timber office block",
       "url": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/",
       "excerpt": "Spanish studio NUA Arquitectures has renovated a textile warehouse near Barcelona, using timber partitions to create a small office block within its concrete-and-brick structure. The project was compl",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Community Canteen No. 11, Aranya Qinhuangdao / Verse Design",
-      "url": "https://www.archdaily.com/1183159/community-canteen-no-11-aranya-qinhuangdao-verse-design",
-      "excerpt": "Canteen No. 11 is located at the eastern edge of Aranya North Shore Art Bay in Qinhuangdao. Surrounded by apartments, ground-floor retail, a children's water park, and community streets, the project o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/1bbe/ab59/ca01/8994/4c93/large_jpg/community-canteen-no-11-aranya-qinhuangdao-verse-design_30.jpg?1786584010",
       "today": true
     },
     {
