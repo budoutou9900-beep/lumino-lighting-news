@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  20:15",
+  "fetchedAt": "2026.08.16  21:14",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.16",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -109,6 +109,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.16",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -150,13 +160,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.16",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan",
+      "url": "https://www.designboom.com/architecture/six-tatami-garden-tea-room-salvaged-timber-titanium-steel-ichihara-japan-kurosawa-kawara-ten/",
+      "excerpt": "a glazed volume creates a transition between the tea room and the existing annex.\nThe post six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan appeared first on d",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ichihara-chiba-japan-kurosawa-kawara-ten-kazufumi-kobayashi-renovation-six-tatami-tea-room-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -333,16 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/hye-the-store-copenhagen-korean-design-boutique",
       "excerpt": "Hye The Store is a new design boutique in Copenhagen offering objects from South Korea and beyond, all united by ‘a practical and understated approach to design’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p9JmseeEw9TSP84Exgj2oF-1600-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "traditional potter’s stand becomes a timber bench shaped like a stretching cat",
-      "url": "https://www.designboom.com/design/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing/",
-      "excerpt": "an integrated drawer adds storage to the compact furniture piece.\nThe post traditional potter’s stand becomes a timber bench shaped like a stretching cat appeared first on designboom | architecture & ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing-designboom-1200-1.jpg",
       "today": false
     },
     {
