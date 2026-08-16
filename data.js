@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  12:27",
+  "fetchedAt": "2026.08.16  13:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,17 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -198,6 +194,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Beyond the Handmade Aesthetic: Why Craft Needs New Construction Economies",
+      "url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
+      "excerpt": "There has never been a more celebrated moment for craftsmanship in architecture. Across magazines, awards, and international exhibitions, handmade brick, lime plaster, carved stone, woven bamboo, and ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/4836/ac8b/af01/892c/b69a/large_jpg/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies_11.jpg?1786333268",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.16",
@@ -215,6 +221,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
       "excerpt": "the exhibition combines koizumi’s work with pointtwofive·second’s scent-based environment.\nThe post material, structure, and scent converge in so koizumi’s south korean solo exhibition appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/451357/2026-08-12/so-koizumis-first-solo-exhibition-in-south-korea-1-6a7c330c12556.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Kifisia Apartment: A Reconfiguration of Domestic Boundaries / Georgios Apostolopoulos Architects",
+      "url": "https://www.archdaily.com/1183236/kifisia-apartment-a-reconfiguration-of-domestic-boundaries-georgios-apostolopoulos-architects",
+      "excerpt": "The renovation on this 1970s apartment in Kifisia, began with subtraction. All internal partitions were removed to reveal the apartment's spatial potential and expose the existing structure.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/920b/3cf9/6c00/0178/2545/large_jpg/GA_KA___LZ_2026-7.jpg?1786614341",
       "today": true
     },
     {
@@ -303,26 +319,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/hye-the-store-copenhagen-korean-design-boutique",
       "excerpt": "Hye The Store is a new design boutique in Copenhagen offering objects from South Korea and beyond, all united by ‘a practical and understated approach to design’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p9JmseeEw9TSP84Exgj2oF-1600-80.png",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Sartoriale Offices / DOS - G arquitectos",
-      "url": "https://www.archdaily.com/1183374/sartoriale-offices-dos-g-arquitectos",
-      "excerpt": "Located in Panama City, the new Sartoriale offices were conceived as a spatial interpretation of the values that define the real estate developer: tradition, craftsmanship, and bespoke design. The pro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/f083/3cf9/6c00/0178/2ae2/large_jpg/DOS-G_Sartoriale_01.jpg?1786704019",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "La Alhajuela House / Trópico Arquitectura",
-      "url": "https://www.archdaily.com/1183389/la-alhajuela-house-tropico-arquitectura",
-      "excerpt": "This was the first project developed by Trópico, serving as a decisive exercise in shaping the studio's architectural language and core interests.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/4e7e/3cf9/6c00/0178/2ec0/large_jpg/4.jpg?1786728170",
       "today": false
     },
     {
@@ -422,16 +418,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
