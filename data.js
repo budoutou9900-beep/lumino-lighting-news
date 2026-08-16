@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  06:30",
+  "fetchedAt": "2026.08.16  07:25",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -157,6 +157,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "An idyllic Piedmont retreat by Ricehouse uses an unusual material",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/ricehouse-italy",
+      "excerpt": "Ricehouse, an emerging Italian architecture studio, features in the Wallpaper* Architects Directory 2026. We highlight its Casa LH, which uses byproducts of rice production",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T4zjaThkWBDgkphxvbGNs-1416-80.jpg",
       "today": true
     },
     {
@@ -295,16 +305,6 @@ window.LUMINO_DATA = {
       "title": "Helen & Hard uses uprooted spruce trees to shape Norwegian cabin",
       "url": "https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/",
       "excerpt": "Local studio Helen & Hard has completed a timber cabin on Norway's Atlantic coast where sprawling tree-like columns made from uprooted spruce trees frame panoramic views of the sea. Named Cabin Sande,",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "A holiday house by Kaviar Collaborative is designed as a series of 'viewing galleries'",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/kaviar-collaborative-india",
-      "excerpt": "Set on a secluded peninsula in Maharashtra, Kaviar Collaborative’s lakeside retreat uses soaring spaces, natural materials and vast windows to frame the landscape",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/L2qrkChuDdbeup9jUE9H3f-1417-80.jpg",
       "today": false
     },
     {
