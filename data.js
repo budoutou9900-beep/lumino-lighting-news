@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  08:36",
+  "fetchedAt": "2026.08.17  09:35",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,15 +21,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,38 +41,34 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -121,10 +117,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.17",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -157,6 +153,35 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "contemporary ceramics enter rhodes’ historic monuments in the BCK biennale 2026",
+      "url": "https://www.designboom.com/art/contemporary-ceramics-rhodes-historic-monuments-bck-biennale-2026/",
+      "excerpt": "across five historic sites in rhodes, 42 artists explore memory, identity, migration, and transformation through contemporary ceramics.\nThe post contemporary ceramics enter rhodes’ historic monuments ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/contemporary-ceramics-rhodes-historic-monuments-bck-biennale-2026-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "\"I find it icky to glibly invoke brain chemistry in the marketing of style\"",
+      "url": "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
+      "excerpt": "The \"dopamine decor\" interiors trend is taking social media by storm, but it's just another disingenuous dressing-up of superficial style as life-improving experience, writes Julie Lasky. For some tim",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "The new 'Made x Barbican' collection features furniture and lighting inspired by sculptural Brutalism",
+      "url": "https://www.wallpaper.com/design-interiors/made-barbican-furniture-lighting-collection-london-design-festival-2026",
+      "excerpt": "The 'Made x Barbican' collection turns the London brutalist landmark's signature architectural elements into a series of contemporary furniture pieces",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oyD4jLPaLAF3YSq5GgVmWG-1600-80.png",
       "today": true
     },
     {
@@ -247,16 +272,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "MAD’s Shenzhen Bay Culture Square encourages you not to look up, but to wander through",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/mad-shenzhen-bay-culture-square-china",
-      "excerpt": "The Chinese city’s newest open public space, designed by architecture studio MAD, blends the ancient and the futuristic",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/opMScW7FW9duuh5G4NUGjS-1416-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -327,31 +342,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "australian architects ditch the traditional box in favor of climate-responsive home designs",
-      "url": "https://www.designboom.com/architecture/australian-architects-ditch-the-traditional-box-in-favor-of-climate-responsive-home-designs/",
-      "excerpt": "from melbourne laneways to subtropical coastlines, six australian residential projects show how architects are bending rules and walls to adapt domestic living for hotter climates.\nThe post australian",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/australian-houses-terabithia-cplusc-designboom-02.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.16",
       "title": "Woonpioniers models adjoining Dutch homes on \"a game of Tetris\"",
       "url": "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/",
       "excerpt": "Dutch studio Woonpioniers has completed CoHouse in Utrecht, a pair of interlocking houses designed for two families within a single gabled volume. Amsterdam-based Woonpioniers was tasked with creating",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Five ice cream shops that provide cool respite from the summer heat",
-      "url": "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
-      "excerpt": "With much of the world suffering from heatwaves and the UK set to experience its hottest summer on record, we have collected five ice cream stores that offer a temporary cool fix. Our love for ice cre",
       "today": false
     },
     {
