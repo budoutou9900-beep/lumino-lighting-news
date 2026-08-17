@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  04:35",
+  "fetchedAt": "2026.08.17  05:30",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -163,10 +163,30 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
+      "title": "A new sake merges French winemaking with Japanese brewing traditions",
+      "url": "https://www.wallpaper.com/entertaining/food-drink/yukiguma-sake",
+      "excerpt": "Winemaker Nathalie Perrodo unveils Yukiguma, a fresh sake crafted with 100 per cent pure spring water from Japanese mountains",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3V9zV2Rcp3jJEetFybgFeP-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
       "title": "MAD’s Shenzhen Bay Culture Square encourages you not to look up, but to wander through",
       "url": "https://www.wallpaper.com/architecture/public-buildings/mad-shenzhen-bay-culture-square-china",
       "excerpt": "The Chinese city’s newest open public space, designed by architecture studio MAD, blends the ancient and the futuristic",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/opMScW7FW9duuh5G4NUGjS-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Renovation of BIT International Education Communication Center / YUARCHITECTS",
+      "url": "https://www.archdaily.com/1041668/renovation-of-bit-international-education-communication-center-yuarchitects",
+      "excerpt": "Completed in 1999, the Beijing Institute of Technology International Education Communication Center is a high-rise complex integrating accommodation, conference, and dining functions for international",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0d/1821/093e/9201/8986/4e07/large_jpg/renovation-of-bit-international-education-communication-center-yuarchitects_5.jpg?1779243057",
       "today": true
     },
     {
@@ -227,16 +247,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
       "excerpt": "Located in Foz do Iguaçu, within the Atlantic Forest, the Refugio House was born from the search for balance between architecture, nature, and thermal comfort. In a region with a humid subtropical cli",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1e13/3cf9/6c00/0178/2d03/large_jpg/EM_260423_EPA_0016.jpg?1786715705",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Pavillon Monk  / L. McComber",
-      "url": "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
-      "excerpt": "In response to the housing crisis and the growing vulnerability of people experiencing homelessness, the Old Brewery Mission is building a new permanent supportive housing pavilion directly across fro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/be41/3cf9/6c00/0178/26b9/large_jpg/OBM-monk-logement-social-locatif-inclusif-personne-sortant-itin_rance-insertion-m_tro-brique-bleue-balcon-arche_A02_LMcComber-architecture.jpg?1786625624",
       "today": false
     },
     {
@@ -324,16 +334,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/nonhuman-residents-multispecies-design-wildlife-biodiversity/",
       "excerpt": "from nesting cavities inside facades to wildlife corridors through new neighborhoods, architects give other species a meaningful place. \nThe post who gets to live in the wall? architecture makes room ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/multispecies-architecture-modes-habitation-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Torishéju Dumi is building a fashion brand on her own terms: ‘I’d rather play the long game’",
-      "url": "https://www.wallpaper.com/fashion-beauty/torisheju-dumi-interview-aw-26",
-      "excerpt": "The winner of the 2025 LVMH Savoir Faire prize is redefining the boundaries of contemporary fashion with collections rooted in ritual, religion and craft. Wallpaper* meets the London-based designer on",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AiEvQE2pgAPoQPGmS8jbxA-2000-80.jpg",
       "today": false
     },
     {
