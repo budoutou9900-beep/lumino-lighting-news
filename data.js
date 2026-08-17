@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  05:30",
+  "fetchedAt": "2026.08.17  06:41",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -141,7 +141,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -157,6 +157,36 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Get up to speed on the CD revival with six stylish new ultra-compact and portable players",
+      "url": "https://www.wallpaper.com/tech/compact-cd-players",
+      "excerpt": "The compact disc is having a moment. These small and covetable contemporary CD players make easy listening of this overlooked format",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JoezQUDe8biT37GMHJEpcn-1876-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "used CD-ROM drives find new life inside modular aluminum audio player",
+      "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
+      "excerpt": "the flat aluminum enclosure is available in natural anodized, orange powder coat, and matte black.\nThe post used CD-ROM drives find new life inside modular aluminum audio player appeared first on desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/used-cd-rom-drives-modular-aluminum-audio-player-das-pod-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Vestige Binidufà gives Menorca’s bucolic side its moment",
+      "url": "https://www.wallpaper.com/travel/hotels/vestige-binidufa-menorca-review",
+      "excerpt": "Vestige Binidufà brings a slower register to Menorca, with 11 rooms, wild calas, local craft and a sister hotel just up the hill",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YHBx5ARJMnnELJAFCjXjmL-1600-80.jpg",
       "today": true
     },
     {
@@ -288,16 +318,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "An idyllic Piedmont retreat by Ricehouse uses an unusual material",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/ricehouse-italy",
-      "excerpt": "Ricehouse, an emerging Italian architecture studio, features in the Wallpaper* Architects Directory 2026. We highlight its Casa LH, which uses byproducts of rice production",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T4zjaThkWBDgkphxvbGNs-1416-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.16",
@@ -308,32 +328,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Mingei at 100: why Japan’s folk-craft movement still shapes design today",
-      "url": "https://www.wallpaper.com/design-interiors/everything-you-need-to-know-about-mingei",
-      "excerpt": "Mingei, the 1920s Japanese folk-art revival, presented a new way of viewing objects and new aesthetic values. Here, we unpack what underpins this movement and its enduring relevancy in contemporary so",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dsVH8RbnesacwGetbK8P4-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.16",
       "title": "NUA Arquitectures renovates Catalan textile warehouse with timber office block",
       "url": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/",
       "excerpt": "Spanish studio NUA Arquitectures has renovated a textile warehouse near Barcelona, using timber partitions to create a small office block within its concrete-and-brick structure. The project was compl",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "who gets to live in the wall? architecture makes room for nonhuman residents",
-      "url": "https://www.designboom.com/architecture/nonhuman-residents-multispecies-design-wildlife-biodiversity/",
-      "excerpt": "from nesting cavities inside facades to wildlife corridors through new neighborhoods, architects give other species a meaningful place. \nThe post who gets to live in the wall? architecture makes room ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/multispecies-architecture-modes-habitation-designboom-FB.jpg",
       "today": false
     },
     {
