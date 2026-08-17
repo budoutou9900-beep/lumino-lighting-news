@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  09:35",
+  "fetchedAt": "2026.08.17  10:26",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,15 +21,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,38 +37,42 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -117,10 +121,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.17",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -153,6 +157,25 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Ferrari's controversial first EV sells for record $40 million at auction",
+      "url": "https://www.dezeen.com/2026/08/17/ferrari-luce-ev-auction-record/",
+      "excerpt": "The first production model of the electric Ferrari designed by Jony Ive and Marc Newson has sold for $40 million – a record price for a new vehicle at auction. The carmaker's polarising first foray in",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "VCUarts qatar explores ‘thresholds of perception’ at venice biennale 2026",
+      "url": "https://www.designboom.com/design/vcu-arts-qatar-thresholds-of-perception-venice-biennale-2026-interview/",
+      "excerpt": "ten research labs from VCUarts qatar occupy palazzo cavanis at venice biennale 2026, showcasing soundscapes, craft, and interactive robotics. \nThe post VCUarts qatar explores ‘thresholds of perception",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vcu_designboom_facebook.jpg",
       "today": true
     },
     {
@@ -329,25 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/six-tatami-garden-tea-room-salvaged-timber-titanium-steel-ichihara-japan-kurosawa-kawara-ten/",
       "excerpt": "a glazed volume creates a transition between the tea room and the existing annex.\nThe post six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ichihara-chiba-japan-kurosawa-kawara-ten-kazufumi-kobayashi-renovation-six-tatami-tea-room-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "designboom shop drop: material & craft celebration of tactile design objects",
-      "url": "https://www.designboom.com/design/designboom-shop-drop-material-craft-tactile-design-objects/",
-      "excerpt": "from century-old ceramic techniques to hand-worked precious metals and twisted hardwoods, the shop drop showcases design objects where the art of making takes center stage.\nThe post designboom shop dr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-material-craft-tactile-design-objects-designboom1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Woonpioniers models adjoining Dutch homes on \"a game of Tetris\"",
-      "url": "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/",
-      "excerpt": "Dutch studio Woonpioniers has completed CoHouse in Utrecht, a pair of interlocking houses designed for two families within a single gabled volume. Amsterdam-based Woonpioniers was tasked with creating",
       "today": false
     },
     {
