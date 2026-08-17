@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  18:30",
+  "fetchedAt": "2026.08.17  19:23",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "takamatsu.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.17",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -150,7 +150,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
+      "source": "takamatsu.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
