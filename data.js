@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  02:17",
+  "fetchedAt": "2026.08.17  03:44",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -112,6 +112,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.17",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
@@ -121,10 +130,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.17",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -158,6 +167,16 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "Deulkkotsoop \"Field · Flower · Forest\" Café / MTT",
+      "url": "https://www.archdaily.com/1183149/deulkkotsoop-field-star-flower-star-forest-cafe-mtt",
+      "excerpt": "Architecture sometimes creates a landscape. Better architecture allows the landscape to remain. When we first encountered the site, it was scattered with traces of neglect, yet the land itself already",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/d1b9/3cf9/6c00/0178/08f9/large_jpg/DJI_0014-MTT__.jpg?1786499697",
+      "today": false
     },
     {
       "source": "designboom",
@@ -255,16 +274,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-lifeguards-uniform-italy",
       "excerpt": "In the ninth instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the Italian lifeguard uniform, where Ferrari red, seaside glamour and a distinct lack of rules have created an unli",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TAD2dDnpDETECwPnnyTei6-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Beyond the Handmade Aesthetic: Why Craft Needs New Construction Economies",
-      "url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
-      "excerpt": "There has never been a more celebrated moment for craftsmanship in architecture. Across magazines, awards, and international exhibitions, handmade brick, lime plaster, carved stone, woven bamboo, and ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/4836/ac8b/af01/892c/b69a/large_jpg/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies_11.jpg?1786333268",
       "today": false
     },
     {
