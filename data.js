@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  17:22",
+  "fetchedAt": "2026.08.17  18:30",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,49 +21,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "takamatsu.keizai.biz": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -98,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.17",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -117,10 +121,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.17",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -146,13 +150,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "takamatsu.keizai.biz",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "5 Pristine Arizona homes that beat the heat",
+      "url": "https://www.wallpaper.com/architecture/residential/arizona-homes",
+      "excerpt": "From cactus-studded stunners to mountainside retreats, these exceptionally-designed escapes are spurring our wanderlust",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RduRMSA2SGcTYxfCnHBrU9-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Iragüen Viñuela Arquitectos uses mass timber for forest hideaway in Chile",
+      "url": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
+      "excerpt": "Chilean studio Iragüen Viñuela Arquitectos has used glued-laminated timber for the House by Fuy River in the Andean foothills, designed as a vertically organised structure that engages with \"different",
       "today": true
     },
     {
@@ -302,15 +325,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\"",
-      "url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
-      "excerpt": "Architecture studios Waugh Thistleton Architects and Mithun have designed a 12-storey mass-timber office block in Bellevue, Washington. Designed for developer and contractor Skanska, the Bevel tower w",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -328,16 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183313/sentry-bridge-snohetta-plus-sbp",
       "excerpt": "The New York State Office of Parks, Recreation and Historic Preservation (OPRHP) has unveiled the new Sentry Bridge at Watkins Glen State Park, a landmark gateway to one of New York's most iconic natu",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/f0fb/ab59/ca01/8994/51b1/large_jpg/sentry-bridge-snohetta-plus-schlaich-bergermann-partner_3.jpg?1786704182",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "A craft-rich eco-lodge by Moyésoa offers an ‘immersive experience’ in Côte d'Ivoire",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/moyesoa-ivory-coast",
-      "excerpt": "‘We reinterpret local construction traditions through modern spatial thinking,’ say the founders of Moyésoa, an emerging architecture studio from Côte d'Ivoire that makes it into the Wallpaper* Archit",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NG7haZUSmfais6UkXduu9a-2048-80.jpg",
       "today": true
     },
     {
