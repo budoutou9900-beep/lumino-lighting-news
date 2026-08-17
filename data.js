@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  10:26",
+  "fetchedAt": "2026.08.17  11:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -163,6 +163,15 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.17",
+      "title": "Kuba Woźniczka nestles black-timber holiday cabins in Polish woodland",
+      "url": "https://www.dezeen.com/2026/08/17/kuba-wozniczka-studzienno-27/",
+      "excerpt": "Polish architect Kuba Woźniczka has completed Studzienno 27, a series of four holiday cabins nestled in the woodlands of the Stołowe Mountains National Park. Looking to protect the natural landscape a",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
       "title": "Ferrari's controversial first EV sells for record $40 million at auction",
       "url": "https://www.dezeen.com/2026/08/17/ferrari-luce-ev-auction-record/",
       "excerpt": "The first production model of the electric Ferrari designed by Jony Ive and Marc Newson has sold for $40 million – a record price for a new vehicle at auction. The carmaker's polarising first foray in",
@@ -263,15 +272,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/vestige-binidufa-menorca-review",
       "excerpt": "Vestige Binidufà brings a slower register to Menorca, with 11 rooms, wild calas, local craft and a sister hotel just up the hill",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YHBx5ARJMnnELJAFCjXjmL-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Tatjana von Stein blends Jugendstil style with 1980s glamour for The Dean Munich",
-      "url": "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
-      "excerpt": "French-German designer Tatjana von Stein designed hundreds of bespoke lights and furnishings for this hotel in Munich, drawing on the city's art nouveau style and its exuberant nightlife history. The ",
       "today": true
     },
     {
