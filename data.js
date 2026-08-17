@@ -1,40 +1,164 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.16  23:16",
+  "fetchedAt": "2026.08.17  00:55",
   "sourceColors": {
-    "designboom": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "designboom": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "ArchDaily": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Dezeen": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
+    {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.17",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -43,7 +167,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/six-tatami-garden-tea-room-salvaged-timber-titanium-steel-ichihara-japan-kurosawa-kawara-ten/",
       "excerpt": "a glazed volume creates a transition between the tea room and the existing annex.\nThe post six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ichihara-chiba-japan-kurosawa-kawara-ten-kazufumi-kobayashi-renovation-six-tatami-tea-room-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -53,7 +177,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183148/jun-matcha-club-cafe-matter-of-something",
       "excerpt": "Located within a former residential garage in South Jakarta's Panglima Polim neighbourhood, Jun Matcha Club responds to the area's growing concentration of independent cafés and restaurants, offering ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/d085/3cf9/6c00/0178/08ca/large_jpg/MOS_PressRelease_JunMatcha_002_PhotobyKafinNoeman.jpg?1786499219",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -63,7 +187,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183381/paso-nara-instituto-superior-de-arquitectura-y-diseno",
       "excerpt": "During the summer of 2026, the Instituto Superior de Arquitectura y Diseño (ISAD) hosted a new edition of the Taller del Desierto (Desert Workshop), an intensive academic exercise that for over a deca",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/68fe/eee6/f800/0125/f73c/large_jpg/TDD26-12.jpg?1786014101",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -73,7 +197,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-material-craft-tactile-design-objects/",
       "excerpt": "from century-old ceramic techniques to hand-worked precious metals and twisted hardwoods, the shop drop showcases design objects where the art of making takes center stage.\nThe post designboom shop dr",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-material-craft-tactile-design-objects-designboom1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -83,7 +207,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
       "excerpt": "Located in Foz do Iguaçu, within the Atlantic Forest, the Refugio House was born from the search for balance between architecture, nature, and thermal comfort. In a region with a humid subtropical cli",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1e13/3cf9/6c00/0178/2d03/large_jpg/EM_260423_EPA_0016.jpg?1786715705",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -93,7 +217,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
       "excerpt": "In response to the housing crisis and the growing vulnerability of people experiencing homelessness, the Old Brewery Mission is building a new permanent supportive housing pavilion directly across fro",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/be41/3cf9/6c00/0178/26b9/large_jpg/OBM-monk-logement-social-locatif-inclusif-personne-sortant-itin_rance-insertion-m_tro-brique-bleue-balcon-arche_A02_LMcComber-architecture.jpg?1786625624",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -103,7 +227,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/australian-architects-ditch-the-traditional-box-in-favor-of-climate-responsive-home-designs/",
       "excerpt": "from melbourne laneways to subtropical coastlines, six australian residential projects show how architects are bending rules and walls to adapt domestic living for hotter climates.\nThe post australian",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/australian-houses-terabithia-cplusc-designboom-02.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -112,7 +236,7 @@ window.LUMINO_DATA = {
       "title": "Woonpioniers models adjoining Dutch homes on \"a game of Tetris\"",
       "url": "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/",
       "excerpt": "Dutch studio Woonpioniers has completed CoHouse in Utrecht, a pair of interlocking houses designed for two families within a single gabled volume. Amsterdam-based Woonpioniers was tasked with creating",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -121,7 +245,7 @@ window.LUMINO_DATA = {
       "title": "Five ice cream shops that provide cool respite from the summer heat",
       "url": "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "excerpt": "With much of the world suffering from heatwaves and the UK set to experience its hottest summer on record, we have collected five ice cream stores that offer a temporary cool fix. Our love for ice cre",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -131,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-lifeguards-uniform-italy",
       "excerpt": "In the ninth instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the Italian lifeguard uniform, where Ferrari red, seaside glamour and a distinct lack of rules have created an unli",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TAD2dDnpDETECwPnnyTei6-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -141,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
       "excerpt": "There has never been a more celebrated moment for craftsmanship in architecture. Across magazines, awards, and international exhibitions, handmade brick, lime plaster, carved stone, woven bamboo, and ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/4836/ac8b/af01/892c/b69a/large_jpg/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies_11.jpg?1786333268",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -151,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/ricehouse-italy",
       "excerpt": "Ricehouse, an emerging Italian architecture studio, features in the Wallpaper* Architects Directory 2026. We highlight its Casa LH, which uses byproducts of rice production",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/T4zjaThkWBDgkphxvbGNs-1416-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -161,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
       "excerpt": "the exhibition combines koizumi’s work with pointtwofive·second’s scent-based environment.\nThe post material, structure, and scent converge in so koizumi’s south korean solo exhibition appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/451357/2026-08-12/so-koizumis-first-solo-exhibition-in-south-korea-1-6a7c330c12556.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -171,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/everything-you-need-to-know-about-mingei",
       "excerpt": "Mingei, the 1920s Japanese folk-art revival, presented a new way of viewing objects and new aesthetic values. Here, we unpack what underpins this movement and its enduring relevancy in contemporary so",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dsVH8RbnesacwGetbK8P4-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -180,7 +304,7 @@ window.LUMINO_DATA = {
       "title": "NUA Arquitectures renovates Catalan textile warehouse with timber office block",
       "url": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/",
       "excerpt": "Spanish studio NUA Arquitectures has renovated a textile warehouse near Barcelona, using timber partitions to create a small office block within its concrete-and-brick structure. The project was compl",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -298,6 +422,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
