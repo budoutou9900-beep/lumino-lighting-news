@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  12:32",
+  "fetchedAt": "2026.08.17  13:35",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "ozmall.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -112,15 +112,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.17",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.17",
@@ -128,6 +119,15 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.17",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -157,6 +157,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Amid Copenhagen Fashion Week’s pantomime of street style, Galib Gassanoff’s latest collection was pure poetry",
+      "url": "https://www.wallpaper.com/fashion-beauty/copenhagen-fashion-week-galib-gassanoff-institution-ss-27",
+      "excerpt": "Informed by his Azerbaijani and Georgian heritage, Galib Gassanoff’s S/S 2027 collection for Milan-based label Institution was the standout moment of Copenhagen Fashion Week, writes Dal Chodha",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/moAVcT54r6K9JUqDBYRmgk-1539-80.jpg",
       "today": true
     },
     {
@@ -292,16 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183412/brazil-in-focus-this-month-in-architecture-heritage-and-cultural-debate",
       "excerpt": "Architecture in Brazil this month highlights the country's diverse approaches to cultural production, heritage, and the transformation of its built environment. From the curatorial formation of the 15",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/cc8b/ab59/ca01/8994/5674/large_jpg/brazil-in-focus-this-month-in-architecture-heritage-and-cultural-debate_4.jpg?1786956949",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Get up to speed on the CD revival with six stylish new ultra-compact and portable players",
-      "url": "https://www.wallpaper.com/tech/compact-cd-players",
-      "excerpt": "The compact disc is having a moment. These small and covetable contemporary CD players make easy listening of this overlooked format",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JoezQUDe8biT37GMHJEpcn-1876-80.jpg",
       "today": true
     },
     {
