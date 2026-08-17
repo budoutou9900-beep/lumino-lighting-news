@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  22:18",
+  "fetchedAt": "2026.08.17  23:17",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "takamatsu.keizai.biz": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -134,14 +134,14 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.17",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -150,7 +150,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "takamatsu.keizai.biz",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
@@ -196,6 +196,16 @@ window.LUMINO_DATA = {
       "title": "Iragüen Viñuela Arquitectos uses mass timber for forest hideaway in Chile",
       "url": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
       "excerpt": "Chilean studio Iragüen Viñuela Arquitectos has used glued-laminated timber for the House by Fuy River in the Andean foothills, designed as a vertically organised structure that engages with \"different",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Mirante de São Jorge / Alan Chu",
+      "url": "https://www.archdaily.com/1183468/mirante-de-sao-jorge-alan-chu",
+      "excerpt": "Architecture is born from the need to establish a relationship between human beings and the world around them. Before it is shelter, it is a way of constructing a place: a space capable of orienting t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5186/3cf9/6c00/0178/33a2/large_jpg/DJI_0032.jpg?1786991001",
       "today": true
     },
     {
@@ -323,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183433/palaces-of-the-public-a-cultural-history-of-washington-dcs-hotels",
       "excerpt": "Washington, DC is a special travel destination; visitors come from all over the world to be in touch with the center of American power, to influence policy, and to witness history. In Palaces of the P",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/14fa/3cf9/6c00/0178/31b7/large_jpg/9781647127305_FC.jpg?1786975503",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Loose Fit: Provisional and Participatory Practices from East Asia",
-      "url": "https://www.archdaily.com/1183429/loose-fit-provisional-and-participatory-practices-from-east-asia",
-      "excerpt": "How might architecture respond to climate emergency, resource scarcity and changing social conditions? Loose Fit: Provisional and Participatory Practices from East Asia presents an alternative vision ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/1483/3cf9/6c00/0178/3194/large_jpg/Hero_Image.jpg?1786975382",
       "today": true
     },
     {
