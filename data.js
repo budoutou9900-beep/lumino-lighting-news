@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  06:41",
+  "fetchedAt": "2026.08.17  07:47",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.17",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -163,6 +163,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
+      "title": "A craft-rich eco-lodge by Moyésoa offers an ‘immersive experience’ in Côte d'Ivoire",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/moyesoa-ivory-coast",
+      "excerpt": "‘We reinterpret local construction traditions through modern spatial thinking,’ say the founders of Moyésoa, an emerging architecture studio from Côte d'Ivoire that makes it into the Wallpaper* Archit",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NG7haZUSmfais6UkXduu9a-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
       "title": "Get up to speed on the CD revival with six stylish new ultra-compact and portable players",
       "url": "https://www.wallpaper.com/tech/compact-cd-players",
       "excerpt": "The compact disc is having a moment. These small and covetable contemporary CD players make easy listening of this overlooked format",
@@ -213,11 +223,41 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.17",
+      "title": "The Inner Court House / Plus Idea Studio",
+      "url": "https://www.archdaily.com/1183332/the-inner-court-house-plus-idea-studio",
+      "excerpt": "Rather than opening toward the street, the Inner Court House turns inward toward a central courtyard, bringing natural light, greenery, and airflow deep into the house to create a private living envir",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/08e5/3cf9/6c00/0178/2be2/large_jpg/Plus_Idea_-_The_Inner_Court__01.jpg?1786710289",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Cordmark Miyota Community Facility / Aida Atelier",
+      "url": "https://www.archdaily.com/1183239/cordmark-miyota-community-facility-aida-atelier",
+      "excerpt": "Cordmark Miyota is a small mixed-use building in rural Nagano that combines a workplace with a café, kitchen, library, and spaces for community activities. Rather than treating these functions as sepa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/af51/3cf9/6c00/0178/25ac/large_jpg/01_CORDMARK_MIYOTA_featured_Tatsuya_Noaki.jpg?1786621806",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
       "title": "Renovation of BIT International Education Communication Center / YUARCHITECTS",
       "url": "https://www.archdaily.com/1041668/renovation-of-bit-international-education-communication-center-yuarchitects",
       "excerpt": "Completed in 1999, the Beijing Institute of Technology International Education Communication Center is a high-rise complex integrating accommodation, conference, and dining functions for international",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a0d/1821/093e/9201/8986/4e07/large_jpg/renovation-of-bit-international-education-communication-center-yuarchitects_5.jpg?1779243057",
       "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.16",
+      "title": "preview: limited aston martin valen’s carbon fiber body coated in interference paint",
+      "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
+      "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post preview: limited aston martin valen’s carbon fiber body coated in interf",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -250,16 +290,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Paso Nara / Instituto Superior de Arquitectura y Diseño",
-      "url": "https://www.archdaily.com/1183381/paso-nara-instituto-superior-de-arquitectura-y-diseno",
-      "excerpt": "During the summer of 2026, the Instituto Superior de Arquitectura y Diseño (ISAD) hosted a new edition of the Taller del Desierto (Desert Workshop), an intensive academic exercise that for over a deca",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a74/68fe/eee6/f800/0125/f73c/large_jpg/TDD26-12.jpg?1786014101",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.16",
@@ -267,16 +297,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-material-craft-tactile-design-objects/",
       "excerpt": "from century-old ceramic techniques to hand-worked precious metals and twisted hardwoods, the shop drop showcases design objects where the art of making takes center stage.\nThe post designboom shop dr",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-material-craft-tactile-design-objects-designboom1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Refuge House / Elisa Porto Arquitetura",
-      "url": "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
-      "excerpt": "Located in Foz do Iguaçu, within the Atlantic Forest, the Refugio House was born from the search for balance between architecture, nature, and thermal comfort. In a region with a humid subtropical cli",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1e13/3cf9/6c00/0178/2d03/large_jpg/EM_260423_EPA_0016.jpg?1786715705",
       "today": false
     },
     {
@@ -305,26 +325,6 @@ window.LUMINO_DATA = {
       "title": "Five ice cream shops that provide cool respite from the summer heat",
       "url": "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "excerpt": "With much of the world suffering from heatwaves and the UK set to experience its hottest summer on record, we have collected five ice cream stores that offer a temporary cool fix. Our love for ice cre",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Architect Carlo Ratti on the lifeguard uniform, Italy’s unlikely design classic",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-lifeguards-uniform-italy",
-      "excerpt": "In the ninth instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the Italian lifeguard uniform, where Ferrari red, seaside glamour and a distinct lack of rules have created an unli",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TAD2dDnpDETECwPnnyTei6-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "material, structure, and scent converge in so koizumi’s south korean solo exhibition",
-      "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
-      "excerpt": "the exhibition combines koizumi’s work with pointtwofive·second’s scent-based environment.\nThe post material, structure, and scent converge in so koizumi’s south korean solo exhibition appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/451357/2026-08-12/so-koizumis-first-solo-exhibition-in-south-korea-1-6a7c330c12556.jpg",
       "today": false
     },
     {
