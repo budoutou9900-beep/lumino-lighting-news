@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  13:35",
+  "fetchedAt": "2026.08.17  14:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -141,7 +141,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -157,6 +157,26 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "open-source paint archive explores reusable biomaterials and earth pigments for fine art",
+      "url": "https://www.designboom.com/art/open-source-paint-archive-reusable-biomaterials-earth-pigments-fine-art-sophia-collender/",
+      "excerpt": "an online archive documenting techniques through which fine art materials can be created from scratch through the use of reusable materials, biomaterials, and earth pigments.\nThe post open-source pain",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/experimental-paint-archive-sophia-collender-biodegradable-non-toxic-reusable-fine-art-materials-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "carved travertine transforms paving, furniture, and planting across spanish historic old town",
+      "url": "https://www.designboom.com/architecture/carved-travertine-transforms-paving-furniture-and-planting-across-spanish-historic-old-town/",
+      "excerpt": "in banyoles, mias architects completes the transformation of the historic center with an intervention in plaça d’en ges and the surrounding streets.\nThe post carved travertine transforms paving, furni",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -333,26 +353,6 @@ window.LUMINO_DATA = {
       "excerpt": "From 25 July to 25 October 2026, Shanghai's Power Station of Art (PSA) will host the first exhibition in China dedicated to the work of Brazilian architect Lina Bo Bardi. Titled \"The Poetics of Surviv",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/2c90/ac8b/af01/892c/cbec/large_jpg/the-poetics-of-survival-open-designs-lina-bo-bardis-first-exhibition-in-china_15.jpg?1786916001",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "preview: limited aston martin valen’s carbon fiber body coated in interference paint",
-      "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
-      "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post preview: limited aston martin valen’s carbon fiber body coated in interf",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan",
-      "url": "https://www.designboom.com/architecture/six-tatami-garden-tea-room-salvaged-timber-titanium-steel-ichihara-japan-kurosawa-kawara-ten/",
-      "excerpt": "a glazed volume creates a transition between the tea room and the existing annex.\nThe post six-tatami garden tea room layers salvaged timber, titanium, and steel in ichihara, japan appeared first on d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ichihara-chiba-japan-kurosawa-kawara-ten-kazufumi-kobayashi-renovation-six-tatami-tea-room-designboom-1200-1.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
