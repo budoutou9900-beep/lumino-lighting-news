@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  20:19",
+  "fetchedAt": "2026.08.17  21:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,57 +17,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "高松経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -109,6 +113,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.17",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -157,6 +170,26 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "405 days from sketch to supercar, audi nuvolari arrives in monterey",
+      "url": "https://www.designboom.com/technology/405-days-sketch-supercar-audi-nuvolari-monterey-car-week-quail-2026/",
+      "excerpt": "at the quail during monterey car week, designboom was there as audi unveiled  to the crowd the nuvolari, its new hybrid supercar.\nThe post 405 days from sketch to supercar, audi nuvolari arrives in mo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/audi-nuvolari-supercar-quail-monterey-car-week-2026-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "the frankfurt kitchen and margarete schütte-lihotzky’s vision of a ‘machine for living’",
+      "url": "https://www.designboom.com/architecture/margarete-schutte-lihotzky-envisioned-frankfurt-kitchen-machine-for-living/",
+      "excerpt": "nearly everything in this domestic space, the double-basin sink, the easy to reach cabinets, the ease of access, championed a future where the kitchen becomes a 'laboratory' for creation.\nThe post the",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frankfurt-kitchen-designboom-15.jpg",
       "today": true
     },
     {
@@ -296,16 +329,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "contemporary ceramics enter rhodes’ historic monuments in the BCK biennale 2026",
-      "url": "https://www.designboom.com/art/contemporary-ceramics-rhodes-historic-monuments-bck-biennale-2026/",
-      "excerpt": "across five historic sites in rhodes, 42 artists explore memory, identity, migration, and transformation through contemporary ceramics.\nThe post contemporary ceramics enter rhodes’ historic monuments ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/contemporary-ceramics-rhodes-historic-monuments-bck-biennale-2026-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -342,16 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/made-barbican-furniture-lighting-collection-london-design-festival-2026",
       "excerpt": "The 'Made x Barbican' collection turns the London brutalist landmark's signature architectural elements into a series of contemporary furniture pieces",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oyD4jLPaLAF3YSq5GgVmWG-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "used CD-ROM drives find new life inside modular aluminum audio player",
-      "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
-      "excerpt": "the flat aluminum enclosure is available in natural anodized, orange powder coat, and matte black.\nThe post used CD-ROM drives find new life inside modular aluminum audio player appeared first on desi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/used-cd-rom-drives-modular-aluminum-audio-player-das-pod-designboom-1200-1.jpg",
       "today": true
     },
     {
