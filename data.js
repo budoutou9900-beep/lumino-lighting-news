@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  07:47",
+  "fetchedAt": "2026.08.17  08:36",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.17",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -160,6 +160,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\"",
+      "url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
+      "excerpt": "Architecture studios Waugh Thistleton Architects and Mithun have designed a 12-storey mass-timber office block in Bellevue, Washington. Designed for developer and contractor Skanska, the Bevel tower w",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Last chance to feature in Dezeen's digital guide to London Design Festival 2026",
+      "url": "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
+      "excerpt": "You can still feature in Dezeen Events Guide's digital guide to the 24th edition of London Design Festival, which takes place from 12 to 20 September. If you're hosting an event in London – including ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -200,6 +218,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Tatjana von Stein blends Jugendstil style with 1980s glamour for The Dean Munich",
+      "url": "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
+      "excerpt": "French-German designer Tatjana von Stein designed hundreds of bespoke lights and furnishings for this hotel in Munich, drawing on the city's art nouveau style and its exuberant nightlife history. The ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -207,6 +234,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/food-drink/yukiguma-sake",
       "excerpt": "Winemaker Nathalie Perrodo unveils Yukiguma, a fresh sake crafted with 100 per cent pure spring water from Japanese mountains",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3V9zV2Rcp3jJEetFybgFeP-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "What is Blue Infrastructure? Rethinking Water's Role in City Design",
+      "url": "https://www.archdaily.com/1182257/what-is-blue-infrastructure-rethinking-waters-role-in-city-design",
+      "excerpt": "Nature-based solutions are a primary strategy for contemporary climate adaptation and urban ecological resilience, embraced by cities regardless of their geography or climate zone. Green roofs, urban ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/32d7/4460/0501/896d/05df/large_jpg/what-is-blue-infrastructure-the-shift-from-water-as-an-object-to-water-as-a-system_1.jpg?1785934558",
       "today": true
     },
     {
@@ -280,16 +317,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Jun Matcha Club Cafe / Matter of Something",
-      "url": "https://www.archdaily.com/1183148/jun-matcha-club-cafe-matter-of-something",
-      "excerpt": "Located within a former residential garage in South Jakarta's Panglima Polim neighbourhood, Jun Matcha Club responds to the area's growing concentration of independent cafés and restaurants, offering ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/d085/3cf9/6c00/0178/08ca/large_jpg/MOS_PressRelease_JunMatcha_002_PhotobyKafinNoeman.jpg?1786499219",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.16",
@@ -325,33 +352,6 @@ window.LUMINO_DATA = {
       "title": "Five ice cream shops that provide cool respite from the summer heat",
       "url": "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "excerpt": "With much of the world suffering from heatwaves and the UK set to experience its hottest summer on record, we have collected five ice cream stores that offer a temporary cool fix. Our love for ice cre",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "NUA Arquitectures renovates Catalan textile warehouse with timber office block",
-      "url": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/",
-      "excerpt": "Spanish studio NUA Arquitectures has renovated a textile warehouse near Barcelona, using timber partitions to create a small office block within its concrete-and-brick structure. The project was compl",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Ome Dezin and Lumens outfit renovated Los Angeles residence",
-      "url": "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
-      "excerpt": "Los Angeles studio Ome Dezin has partnered with design platform Lumens to renovate and furnish a 1990s home in the Hollywood Hills, adding iconic furniture and lighting from Frank Gehry, Ingo Maurer a",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.15",
-      "title": "Helen & Hard uses uprooted spruce trees to shape Norwegian cabin",
-      "url": "https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/",
-      "excerpt": "Local studio Helen & Hard has completed a timber cabin on Norway's Atlantic coast where sprawling tree-like columns made from uprooted spruce trees frame panoramic views of the sea. Named Cabin Sande,",
       "today": false
     },
     {
