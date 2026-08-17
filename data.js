@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  19:23",
+  "fetchedAt": "2026.08.17  20:19",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "takamatsu.keizai.biz": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -150,7 +150,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "takamatsu.keizai.biz",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
@@ -176,6 +176,16 @@ window.LUMINO_DATA = {
       "title": "Iragüen Viñuela Arquitectos uses mass timber for forest hideaway in Chile",
       "url": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
       "excerpt": "Chilean studio Iragüen Viñuela Arquitectos has used glued-laminated timber for the House by Fuy River in the Andean foothills, designed as a vertically organised structure that engages with \"different",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Serpentine Pavillion 2026 / LANZA Atelier",
+      "url": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier",
+      "excerpt": "There came a point when I began to see serpents everywhere. The vision of serpents began timidly, with the faint pencil outline of the canopy that defined the site where Alessandro Arienzo, my partner",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/1a53/ac8b/af01/892c/ce0c/large_jpg/serpentine-pavillion-lanza-atelier_13.jpg?1786976917",
       "today": true
     },
     {
@@ -205,6 +215,16 @@ window.LUMINO_DATA = {
       "title": "New colour palette by Raffaella Mangiarotti and Lapalma",
       "url": "https://www.dezeen.com/2026/08/17/new-colour-palette-by-raffaella-mangiarotti-lapalma-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Lapalma has collaborated with architect and designer Raffaella Mangiarotti on a new kaleidoscopic palette of colourways for its catalogue. Lapalma describes its new colo",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Linha House / Ricardo Azevedo Arquitecto",
+      "url": "https://www.archdaily.com/1183398/linha-house-ricardo-azevedo-arquitecto",
+      "excerpt": "The commission was clear: to design a singular dwelling, a future house and a true home. The plot itself, however, presented as an ordinary urban lot, regular and flat, without distinguishing features",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/76d9/ac8b/af01/4de7/6d66/large_jpg/casa-da-linha-ricardo-azevedo-arquitecto_21.jpg?1786738466",
       "today": true
     },
     {
@@ -322,26 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/made-barbican-furniture-lighting-collection-london-design-festival-2026",
       "excerpt": "The 'Made x Barbican' collection turns the London brutalist landmark's signature architectural elements into a series of contemporary furniture pieces",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oyD4jLPaLAF3YSq5GgVmWG-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Modernism on the Watch: Preserving the Sardar Vallabhbhai Patel Stadium in India",
-      "url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
-      "excerpt": "In the heart of Ahmedabad's Navrangpura district in India sits the Sardar Vallabhbhai Patel Stadium. More than just a cricket ground, the stadium stands as one of India's earliest experiments in moder",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/large_jpg/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Sentry Bridge / Snøhetta + sbp",
-      "url": "https://www.archdaily.com/1183313/sentry-bridge-snohetta-plus-sbp",
-      "excerpt": "The New York State Office of Parks, Recreation and Historic Preservation (OPRHP) has unveiled the new Sentry Bridge at Watkins Glen State Park, a landmark gateway to one of New York's most iconic natu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/f0fb/ab59/ca01/8994/51b1/large_jpg/sentry-bridge-snohetta-plus-schlaich-bergermann-partner_3.jpg?1786704182",
       "today": true
     },
     {
