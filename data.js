@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  14:21",
+  "fetchedAt": "2026.08.17  15:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -180,6 +180,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "New colour palette by Raffaella Mangiarotti and Lapalma",
+      "url": "https://www.dezeen.com/2026/08/17/new-colour-palette-by-raffaella-mangiarotti-lapalma-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian brand Lapalma has collaborated with architect and designer Raffaella Mangiarotti on a new kaleidoscopic palette of colourways for its catalogue. Lapalma describes its new colo",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -248,6 +257,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Palaces of the Public: A Cultural History of Washington, DC's Hotels",
+      "url": "https://www.archdaily.com/1183433/palaces-of-the-public-a-cultural-history-of-washington-dcs-hotels",
+      "excerpt": "Washington, DC is a special travel destination; visitors come from all over the world to be in touch with the center of American power, to influence policy, and to witness history. In Palaces of the P",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/14fa/3cf9/6c00/0178/31b7/large_jpg/9781647127305_FC.jpg?1786975503",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Loose Fit: Provisional and Participatory Practices from East Asia",
+      "url": "https://www.archdaily.com/1183429/loose-fit-provisional-and-participatory-practices-from-east-asia",
+      "excerpt": "How might architecture respond to climate emergency, resource scarcity and changing social conditions? Loose Fit: Provisional and Participatory Practices from East Asia presents an alternative vision ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/1483/3cf9/6c00/0178/3194/large_jpg/Hero_Image.jpg?1786975382",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -283,15 +312,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
       "excerpt": "In the heart of Ahmedabad's Navrangpura district in India sits the Sardar Vallabhbhai Patel Stadium. More than just a cricket ground, the stadium stands as one of India's earliest experiments in moder",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/large_jpg/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Last chance to feature in Dezeen's digital guide to London Design Festival 2026",
-      "url": "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
-      "excerpt": "You can still feature in Dezeen Events Guide's digital guide to the 24th edition of London Design Festival, which takes place from 12 to 20 September. If you're hosting an event in London – including ",
       "today": true
     },
     {
@@ -332,26 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
       "excerpt": "the flat aluminum enclosure is available in natural anodized, orange powder coat, and matte black.\nThe post used CD-ROM drives find new life inside modular aluminum audio player appeared first on desi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/used-cd-rom-drives-modular-aluminum-audio-player-das-pod-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Bossard School / Gut Deubelbeiss Nill Architekten",
-      "url": "https://www.archdaily.com/1183166/bossard-school-gut-deubelbeiss-nill-architekten",
-      "excerpt": "The school buildings of the Bossard School are listed in the Canton of Zug's register of heritage sites worthy of protection. From an architectural-historical perspective, the school presents itself a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/36c5/3cf9/6c00/0178/09e9/large_jpg/gd_bosshardschule_113137.jpg?1786525462",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "\"The Poetics of Survival\": OPEN Architecture Designs Lina Bo Bardi's First Exhibition in China",
-      "url": "https://www.archdaily.com/1183400/the-poetics-of-survival-open-architecture-designs-lina-bo-bardis-first-exhibition-in-china",
-      "excerpt": "From 25 July to 25 October 2026, Shanghai's Power Station of Art (PSA) will host the first exhibition in China dedicated to the work of Brazilian architect Lina Bo Bardi. Titled \"The Poetics of Surviv",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/2c90/ac8b/af01/892c/cbec/large_jpg/the-poetics-of-survival-open-designs-lina-bo-bardis-first-exhibition-in-china_15.jpg?1786916001",
       "today": true
     },
     {
