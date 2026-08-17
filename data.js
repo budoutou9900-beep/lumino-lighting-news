@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  11:20",
+  "fetchedAt": "2026.08.17  12:32",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -112,7 +112,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -141,7 +141,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -157,6 +157,26 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Alex Prager takes on Disney Princesses: ‘They are as iconic as an Hermès bag or Marilyn Monroe’",
+      "url": "https://www.wallpaper.com/art/alex-prager-takes-on-disney-princesses-they-are-as-iconic-as-an-hermes-bag-or-marilyn-monroe",
+      "excerpt": "Alex Prager creates a magical world in a new short film for Disney, ‘Once A Princess, Always A Princess’, marking World Princess Week",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bvi9PV55rcSBjXGDQmDJ6m-2560-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Dior Beauty’s history is now an animated film – meet the art director and watch it here",
+      "url": "https://www.wallpaper.com/fashion-beauty/ugo-bienvenu-animated-dior-beauty-miss-dior",
+      "excerpt": "Celebrated French art director Ugo Bienvenu offers insight into his joyful new campaign for the Miss Dior fragrance",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KWFE8fQrKeEDmWUXHnT5Da-2012-80.png",
       "today": true
     },
     {
@@ -226,12 +246,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Modernism on the Watch: Preserving the Sardar Vallabhbhai Patel Stadium in India",
+      "url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
+      "excerpt": "In the heart of Ahmedabad's Navrangpura district in India sits the Sardar Vallabhbhai Patel Stadium. More than just a cricket ground, the stadium stands as one of India's earliest experiments in moder",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/large_jpg/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.17",
       "title": "Last chance to feature in Dezeen's digital guide to London Design Festival 2026",
       "url": "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
       "excerpt": "You can still feature in Dezeen Events Guide's digital guide to the 24th edition of London Design Festival, which takes place from 12 to 20 September. If you're hosting an event in London – including ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Sentry Bridge / Snøhetta + sbp",
+      "url": "https://www.archdaily.com/1183313/sentry-bridge-snohetta-plus-sbp",
+      "excerpt": "The New York State Office of Parks, Recreation and Historic Preservation (OPRHP) has unveiled the new Sentry Bridge at Watkins Glen State Park, a landmark gateway to one of New York's most iconic natu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/f0fb/ab59/ca01/8994/51b1/large_jpg/sentry-bridge-snohetta-plus-schlaich-bergermann-partner_3.jpg?1786704182",
       "today": true
     },
     {
@@ -242,6 +282,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/moyesoa-ivory-coast",
       "excerpt": "‘We reinterpret local construction traditions through modern spatial thinking,’ say the founders of Moyésoa, an emerging architecture studio from Côte d'Ivoire that makes it into the Wallpaper* Archit",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NG7haZUSmfais6UkXduu9a-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Brazil in Focus: This Month in Architecture, Heritage, and Cultural Debate",
+      "url": "https://www.archdaily.com/1183412/brazil-in-focus-this-month-in-architecture-heritage-and-cultural-debate",
+      "excerpt": "Architecture in Brazil this month highlights the country's diverse approaches to cultural production, heritage, and the transformation of its built environment. From the curatorial formation of the 15",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/cc8b/ab59/ca01/8994/5674/large_jpg/brazil-in-focus-this-month-in-architecture-heritage-and-cultural-debate_4.jpg?1786956949",
       "today": true
     },
     {
@@ -265,63 +315,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.17",
-      "title": "Vestige Binidufà gives Menorca’s bucolic side its moment",
-      "url": "https://www.wallpaper.com/travel/hotels/vestige-binidufa-menorca-review",
-      "excerpt": "Vestige Binidufà brings a slower register to Menorca, with 11 rooms, wild calas, local craft and a sister hotel just up the hill",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YHBx5ARJMnnELJAFCjXjmL-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "A new sake merges French winemaking with Japanese brewing traditions",
-      "url": "https://www.wallpaper.com/entertaining/food-drink/yukiguma-sake",
-      "excerpt": "Winemaker Nathalie Perrodo unveils Yukiguma, a fresh sake crafted with 100 per cent pure spring water from Japanese mountains",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3V9zV2Rcp3jJEetFybgFeP-1920-80.png",
+      "title": "Bossard School / Gut Deubelbeiss Nill Architekten",
+      "url": "https://www.archdaily.com/1183166/bossard-school-gut-deubelbeiss-nill-architekten",
+      "excerpt": "The school buildings of the Bossard School are listed in the Canton of Zug's register of heritage sites worthy of protection. From an architectural-historical perspective, the school presents itself a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/36c5/3cf9/6c00/0178/09e9/large_jpg/gd_bosshardschule_113137.jpg?1786525462",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.17",
-      "title": "What is Blue Infrastructure? Rethinking Water's Role in City Design",
-      "url": "https://www.archdaily.com/1182257/what-is-blue-infrastructure-rethinking-waters-role-in-city-design",
-      "excerpt": "Nature-based solutions are a primary strategy for contemporary climate adaptation and urban ecological resilience, embraced by cities regardless of their geography or climate zone. Green roofs, urban ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/32d7/4460/0501/896d/05df/large_jpg/what-is-blue-infrastructure-the-shift-from-water-as-an-object-to-water-as-a-system_1.jpg?1785934558",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "The Inner Court House / Plus Idea Studio",
-      "url": "https://www.archdaily.com/1183332/the-inner-court-house-plus-idea-studio",
-      "excerpt": "Rather than opening toward the street, the Inner Court House turns inward toward a central courtyard, bringing natural light, greenery, and airflow deep into the house to create a private living envir",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/08e5/3cf9/6c00/0178/2be2/large_jpg/Plus_Idea_-_The_Inner_Court__01.jpg?1786710289",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Cordmark Miyota Community Facility / Aida Atelier",
-      "url": "https://www.archdaily.com/1183239/cordmark-miyota-community-facility-aida-atelier",
-      "excerpt": "Cordmark Miyota is a small mixed-use building in rural Nagano that combines a workplace with a café, kitchen, library, and spaces for community activities. Rather than treating these functions as sepa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/af51/3cf9/6c00/0178/25ac/large_jpg/01_CORDMARK_MIYOTA_featured_Tatsuya_Noaki.jpg?1786621806",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Renovation of BIT International Education Communication Center / YUARCHITECTS",
-      "url": "https://www.archdaily.com/1041668/renovation-of-bit-international-education-communication-center-yuarchitects",
-      "excerpt": "Completed in 1999, the Beijing Institute of Technology International Education Communication Center is a high-rise complex integrating accommodation, conference, and dining functions for international",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a0d/1821/093e/9201/8986/4e07/large_jpg/renovation-of-bit-international-education-communication-center-yuarchitects_5.jpg?1779243057",
+      "title": "\"The Poetics of Survival\": OPEN Architecture Designs Lina Bo Bardi's First Exhibition in China",
+      "url": "https://www.archdaily.com/1183400/the-poetics-of-survival-open-architecture-designs-lina-bo-bardis-first-exhibition-in-china",
+      "excerpt": "From 25 July to 25 October 2026, Shanghai's Power Station of Art (PSA) will host the first exhibition in China dedicated to the work of Brazilian architect Lina Bo Bardi. Titled \"The Poetics of Surviv",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/2c90/ac8b/af01/892c/cbec/large_jpg/the-poetics-of-survival-open-designs-lina-bo-bardis-first-exhibition-in-china_15.jpg?1786916001",
       "today": true
     },
     {
@@ -332,16 +342,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
       "excerpt": "previewed before monterey car week 2026, aston martin's designers reveal unsettling beauty of 150-unit valen supercar.\nThe post preview: limited aston martin valen’s carbon fiber body coated in interf",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/preview-aston-martin-valen-monterey-car-week-2026-the-quail-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.16",
-      "title": "Deulkkotsoop \"Field · Flower · Forest\" Café / MTT",
-      "url": "https://www.archdaily.com/1183149/deulkkotsoop-field-star-flower-star-forest-cafe-mtt",
-      "excerpt": "Architecture sometimes creates a landscape. Better architecture allows the landscape to remain. When we first encountered the site, it was scattered with traces of neglect, yet the land itself already",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/d1b9/3cf9/6c00/0178/08f9/large_jpg/DJI_0014-MTT__.jpg?1786499697",
       "today": false
     },
     {
