@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.17  16:20",
+  "fetchedAt": "2026.08.17  17:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,53 +21,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "takamatsu.keizai.biz": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -121,10 +117,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.17",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -150,7 +146,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
+      "source": "takamatsu.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.17",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
@@ -196,6 +192,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/copenhagen-fashion-week-galib-gassanoff-institution-ss-27",
       "excerpt": "Informed by his Azerbaijani and Georgian heritage, Galib Gassanoff’s S/S 2027 collection for Milan-based label Institution was the standout moment of Copenhagen Fashion Week, writes Dal Chodha",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/moAVcT54r6K9JUqDBYRmgk-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "TP-LINK LXD Building / KPF",
+      "url": "https://www.archdaily.com/1183106/tp-link-lxd-kpf",
+      "excerpt": "The TP-LINK LXD project redefines circulation as habitable ground, a one-kilometer continuous landscape that lifts the ground plane and wraps it around three buildings, transforming movement into shar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/19ce/3cf9/6c00/0178/05cf/large_jpg/01_TP-LINK_LXD_North_Facade_Credit_StudioSZ_Photo_Justin_Szeremeta_Courtesy_KPF.jpg?1786452477",
       "today": true
     },
     {
@@ -332,16 +338,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/moyesoa-ivory-coast",
       "excerpt": "‘We reinterpret local construction traditions through modern spatial thinking,’ say the founders of Moyésoa, an emerging architecture studio from Côte d'Ivoire that makes it into the Wallpaper* Archit",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NG7haZUSmfais6UkXduu9a-2048-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Brazil in Focus: This Month in Architecture, Heritage, and Cultural Debate",
-      "url": "https://www.archdaily.com/1183412/brazil-in-focus-this-month-in-architecture-heritage-and-cultural-debate",
-      "excerpt": "Architecture in Brazil this month highlights the country's diverse approaches to cultural production, heritage, and the transformation of its built environment. From the curatorial formation of the 15",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/cc8b/ab59/ca01/8994/5674/large_jpg/brazil-in-focus-this-month-in-architecture-heritage-and-cultural-debate_4.jpg?1786956949",
       "today": true
     },
     {
