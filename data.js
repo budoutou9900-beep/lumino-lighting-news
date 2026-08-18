@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  10:21",
+  "fetchedAt": "2026.08.18  11:19",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -177,6 +177,44 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "A compact Japanese house by Hitotomori is hidden behind a minimalist wooden fence",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/hitotomori-emerging-japanese-architectural-studio",
+      "excerpt": "Hitotomori, an emerging architecture studio from Japan, features in the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNggfZNecYmPkFHzDB7fT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "erik kruug photographs a way of living between land and water in the netherlands",
+      "url": "https://www.designboom.com/architecture/erik-kruug-way-living-land-water-netherlands-loosdrecht/",
+      "excerpt": "homes, gardens, boats, and waterways come together to shape everyday life in the loosdrecht lakes, where habitation has developed around a landscape formed by centuries of peat extraction.\nThe post er",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/erik-kruug-way-living-land-water-netherlands-loosdrecht-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
+      "url": "https://www.dezeen.com/2026/08/18/atelier-vens-vanbelle-project-tomas-katrien/",
+      "excerpt": "A brick cube reminiscent of old industrial structures forms this family home in the suburbs of Ghent, designed by Belgian architecture studio Atelier Vens Vanbelle. Named Project Tomas & Katrien after",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Barbican and Made.com launch homeware collection celebrating iconic London estate",
+      "url": "https://www.dezeen.com/2026/08/18/barbican-made-homeware/",
+      "excerpt": "The Barbican Centre shop has launched a homeware collection with online retailer Made.com, which includes furniture and lighting modelled on details of the brutalist housing complex in central London.",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -265,16 +303,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "modularized open steel grid reshapes family living on tight site in taiwan",
-      "url": "https://www.designboom.com/architecture/modularized-open-steel-grid-family-living-tight-site-taiwan-mom-house-supra-simplicities-kccs/",
-      "excerpt": "eight steel modules are arranged along a linear axis, while an irregular structural bay interrupts the repetitive modular sequence.\nThe post modularized open steel grid reshapes family living on tight",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/modularized-open-steel-grid-family-living-tight-site-taiwan-mom-house-supra-simplicities-kccs-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -301,25 +329,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026",
       "excerpt": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society. It awards ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/7bcd/ac8b/af01/892c/d0a6/large_jpg/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026_7.jpg?1787001821",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\"",
-      "url": "https://www.dezeen.com/2026/08/18/the-devils-milk-furniture-rubber-shahar-livne/",
-      "excerpt": "Designer Shahar Livne has created The Devil's Milk, a collection of designs that investigate rubber production and its history of violence and abuse. The designs, which Livne created over two years, i",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Seiko’s designers let their imaginations run wild with a new generation of watches",
-      "url": "https://www.wallpaper.com/watches-jewellery/seiko-power-design-project-2026",
-      "excerpt": "From cat-shaped hands to maze-like indices, Seiko’s annual Power Design Project in London explores the playful possibilities of watchmaking",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8SpWgXugS6AX2pUKayMBgW.gif",
       "today": true
     },
     {
@@ -361,15 +370,6 @@ window.LUMINO_DATA = {
       "excerpt": "Three stacked boxes rest on a floating platform above Bangkok's narrow street, lifted to create a quieter working environment away from the bustle below, while opening up views and allowing for nine p",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/e757/3cf9/6c00/0178/3115/large_jpg/1.jpg?1786963841",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Iragüen Viñuela Arquitectos uses mass timber for forest hideaway in Chile",
-      "url": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
-      "excerpt": "Chilean studio Iragüen Viñuela Arquitectos has used glued-laminated timber for the House by Fuy River in the Andean foothills, designed as a vertically organised structure that engages with \"different",
-      "today": false
     },
     {
       "source": "大光電機",
