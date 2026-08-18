@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  09:26",
+  "fetchedAt": "2026.08.18  10:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,61 +17,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "山陽新聞": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -116,6 +120,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.18",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.18",
@@ -148,7 +161,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.18",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -161,6 +174,45 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "contemporary orangery reimagines ancient botanical mythology of hecate’s garden",
+      "url": "https://www.designboom.com/architecture/contemporary-orangery-georgia-ancient-botanical-mythology-hecates-garden/",
+      "excerpt": "hecate's garden reinterprets ancient plant lore into a tactile glasshouse restaurant and self-cultivated orangery.\nThe post contemporary orangery reimagines ancient botanical mythology of hecate’s gar",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hecate-garden-georgia-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Lighting designer Nathan Orsman illuminates a garage in the Hamptons with cinematic glare",
+      "url": "https://www.wallpaper.com/design-interiors/orsman-design-garage-hamptons",
+      "excerpt": "The sought-after lighting designer Nathan Orsman has lit the homes of Oprah Winfrey, Stephen Colbert, and Marc Jacobs. An upcoming book celebrates his work in the last 15 years",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F7AYtKqDYfjt8caNCb9FcY-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "19th-century coffee table gets articulated computer arms to take on a canine form",
+      "url": "https://www.designboom.com/design/19th-century-coffee-table-articulated-computer-arms-canine-form/",
+      "excerpt": "an antique coffee table gets a new set of articulated legs and becomes a strange four-legged creature.\nThe post 19th-century coffee table gets articulated computer arms to take on a canine form appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/19th-century-coffee-table-articulated-computer-arms-canine-form-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Gamers must survive without air-con in Europe Heatwave Simulator",
+      "url": "https://www.dezeen.com/2026/08/18/europe-heatwave-simulator-blue-hood-games/",
+      "excerpt": "Game developer Blue Hood Games has released a survival game named Europe Heatwave Simulator, where players need to outlast a 14-day heatwave without air conditioning in an apartment in Paris. Playable",
       "today": true
     },
     {
@@ -242,6 +294,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Graham Foundation Announces 45 New Grants for Projects Expanding Architectural Discourse in 2026",
+      "url": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026",
+      "excerpt": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society. It awards ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/7bcd/ac8b/af01/892c/d0a6/large_jpg/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026_7.jpg?1787001821",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -258,6 +320,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/seiko-power-design-project-2026",
       "excerpt": "From cat-shaped hands to maze-like indices, Seiko’s annual Power Design Project in London explores the playful possibilities of watchmaking",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8SpWgXugS6AX2pUKayMBgW.gif",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Open Call for Expert Contributors at ArchDaily",
+      "url": "https://www.archdaily.com/1038256/open-call-for-expert-contributors-at-archdaily",
+      "excerpt": "ArchDaily is looking for an Expert Contributor to join our Sponsored Content team. In this role, you will create editorial content exploring architectural products, materials, projects, and ideas whil",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/697b/13d9/2755/8a5a/2ede/fcfc/large_jpg/call-for-archdailys-next-expert-contributor_1.jpg?1769673698",
       "today": true
     },
     {
@@ -291,71 +363,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Designing Quietly: Rethinking Architecture’s Overlooked Surface",
-      "url": "https://www.archdaily.com/1042609/designing-quietly-rethinking-architectures-overlooked-surface",
-      "excerpt": "The ceiling is one of the largest continuous surfaces in a space, yet why is it rarely the first architectural element people notice? Often perceived as the plane that conceals structure and building ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/ffc1/ebd1/e401/893a/aa01/large_jpg/designing-quietly-rethinking-architectures-overlooked-surface_25.jpg?1782972409",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Echoes of Home : Adaptive Reuse of a Vernacular House / CM Design",
-      "url": "https://www.archdaily.com/1183405/echoes-of-home-adaptive-reuse-of-a-vernacular-house-cm-design",
-      "excerpt": "Dafeng Village is located on the outskirts of Dongguan's central urban area. Its history can be traced back to the 31st year of the Shaoxing reign of the Southern Song Dynasty (1161 CE), and its long ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/892b/3cf9/6c00/0178/2fa2/large_jpg/04__________2.jpg?1786939712",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "405 days from sketch to supercar, audi nuvolari arrives in monterey",
-      "url": "https://www.designboom.com/technology/405-days-sketch-supercar-audi-nuvolari-monterey-car-week-quail-2026/",
-      "excerpt": "at the quail during monterey car week, designboom was there as audi unveiled  to the crowd the nuvolari, its new hybrid supercar.\nThe post 405 days from sketch to supercar, audi nuvolari arrives in mo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/audi-nuvolari-supercar-quail-monterey-car-week-2026-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "the frankfurt kitchen and margarete schütte-lihotzky’s vision of a ‘machine for living’",
-      "url": "https://www.designboom.com/architecture/margarete-schutte-lihotzky-envisioned-frankfurt-kitchen-machine-for-living/",
-      "excerpt": "nearly everything in this domestic space, the double-basin sink, the easy to reach cabinets, the ease of access, championed a future where the kitchen becomes a 'laboratory' for creation.\nThe post the",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frankfurt-kitchen-designboom-15.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "5 Pristine Arizona homes that beat the heat",
-      "url": "https://www.wallpaper.com/architecture/residential/arizona-homes",
-      "excerpt": "From cactus-studded stunners to mountainside retreats, these exceptionally-designed escapes are spurring our wanderlust",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RduRMSA2SGcTYxfCnHBrU9-2000-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.17",
       "title": "Iragüen Viñuela Arquitectos uses mass timber for forest hideaway in Chile",
       "url": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
       "excerpt": "Chilean studio Iragüen Viñuela Arquitectos has used glued-laminated timber for the House by Fuy River in the Andean foothills, designed as a vertically organised structure that engages with \"different",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "New colour palette by Raffaella Mangiarotti and Lapalma",
-      "url": "https://www.dezeen.com/2026/08/17/new-colour-palette-by-raffaella-mangiarotti-lapalma-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Italian brand Lapalma has collaborated with architect and designer Raffaella Mangiarotti on a new kaleidoscopic palette of colourways for its catalogue. Lapalma describes its new colo",
       "today": false
     },
     {
