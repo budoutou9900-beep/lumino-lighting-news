@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  15:25",
+  "fetchedAt": "2026.08.18  16:24",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,61 +17,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -96,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.18",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -113,16 +109,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.18",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -164,6 +150,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.18",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -184,6 +180,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Berthold Lubetkin's Finsbury Health Centre reimagining among projects by University of Nottingham",
+      "url": "https://www.dezeen.com/2026/08/18/berthold-lubetkin-finsbury-health-centre-architecture-projects-university-of-nottingham-schoolshows/",
+      "excerpt": "Dezeen School Shows: a project aiming to optimise architect Berthold Lubetkin's Grade I-listed Finsbury Health Centre for 21st-century users is among those by the University of Nottingham. Also includ",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -191,6 +196,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/reza-raeisifar-saber-abar-steel-spheres-chairs-lamps-pet-homes/",
       "excerpt": "the polished spheres leave the railing behind to begin a surprisingly ambitious second life.\nThe post reza raeisifar and saber abar stack steel spheres into chairs, lamps and pet homes appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466605/2026-08-17/wishes-collection-1-6a833ac9b39a3.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Brugge Diptych / PARA",
+      "url": "https://www.archdaily.com/1183357/brugge-diptych-para",
+      "excerpt": "Brugge Diptych is a temporary pavilion commissioned for the 2021 Brugge Triennale. Set along a quiet residential canal, it abuts an abandoned fifteenth-century house in a dense UNESCO-protected neighb",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/2422/3cf9/6c00/0178/2d75/large_jpg/StijnBollaert_approach_BR-DIPT-0253-2.jpg?1786717239",
       "today": true
     },
     {
@@ -320,15 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Dezeen Awards 2026 party tickets now on sale",
-      "url": "https://www.dezeen.com/2026/08/18/dezeen-awards-2026-party-tickets-on-sale/",
-      "excerpt": "Tickets for the Dezeen Awards 2026 party, which will take place in London in November, are now on sale. Secure your place before they sell out! This year's Dezeen Awards party will be held on 16 Novem",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -346,16 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183489/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco",
       "excerpt": "OMA, led by Partner Jason Long, together with San Francisco-based Y.A. Studio, has completed 730 Stanyan, a mixed-use affordable housing development in San Francisco's Haight-Ashbury neighborhood. Dev",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/1f77/ac8b/af01/892c/d142/large_jpg/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco_1.jpg?1787043799",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Campus Tensta Renovation  / Tengbom",
-      "url": "https://www.archdaily.com/1183238/campus-tensta-tengbom",
-      "excerpt": "Campus Tensta transforms the former Tensta Upper Secondary School, a culturally significant 1980s building, into a contemporary multi-tenant educational campus through careful renovation and minimal i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/ab66/3cf9/6c00/0178/259d/large_jpg/Campus_Tensta_7_-_original__1515492_.jpg?1786620880",
       "today": true
     },
     {
