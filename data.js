@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  20:16",
+  "fetchedAt": "2026.08.18  21:17",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,42 +45,38 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.18",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -117,15 +113,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.18",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -174,6 +161,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Gloriously inappropriate cartoon Modern Toss marks 21 years",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/gloriously-inappropriate-cartoon-modern-toss-marks-21-years",
+      "excerpt": "Mick Bunnage and Jon Link celebrate 21 years of Modern Toss with a London exhibition of sweary cartoons, workplace rage and magnificently bad behaviour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZeXFb2i42WvmnD7mVcB79Q.gif",
       "today": true
     },
     {
@@ -339,16 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/orsman-design-garage-hamptons",
       "excerpt": "The sought-after lighting designer Nathan Orsman has lit the homes of Oprah Winfrey, Stephen Colbert, and Marc Jacobs. An upcoming book celebrates his work in the last 15 years",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F7AYtKqDYfjt8caNCb9FcY-2500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "A new book traces the underexplored architectural legacy of Studley Park",
-      "url": "https://www.wallpaper.com/architecture/studley-park-riverside-modern-book",
-      "excerpt": "'Riverside Modern' chronicles Studley Park, a pocket of Melbourne where a dense concentration of mid-century masterpieces is quietly hidden amongst towering eucalypt glades and hilltop canopies",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PiD3dZhWczehq3YRnypbWL-1418-80.jpg",
       "today": true
     },
     {
