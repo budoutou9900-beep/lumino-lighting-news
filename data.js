@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  05:23",
+  "fetchedAt": "2026.08.18  06:33",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -163,10 +163,50 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
+      "title": "Five unique hypercars showcase the outer limits of contemporary performance design",
+      "url": "https://www.wallpaper.com/transportation/new-hypercars-2026",
+      "excerpt": "Ferrari, Porsche, Bugatti and McLaren are all making waves in the rarefied market for one-of-one hypercars. We’ve rounded up five recent automotive unicorns",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NMNPuWzrm4vM8Bvf694UaV-1410-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
       "title": "Seiko’s designers let their imaginations run wild with a new generation of watches",
       "url": "https://www.wallpaper.com/watches-jewellery/seiko-power-design-project-2026",
       "excerpt": "From cat-shaped hands to maze-like indices, Seiko’s annual Power Design Project in London explores the playful possibilities of watchmaking",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8SpWgXugS6AX2pUKayMBgW.gif",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "The Earth Crew Headquarters / pinto",
+      "url": "https://www.archdaily.com/1183422/the-earth-crew-headquarters-pinto",
+      "excerpt": "Three stacked boxes rest on a floating platform above Bangkok's narrow street, lifted to create a quieter working environment away from the bustle below, while opening up views and allowing for nine p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/e757/3cf9/6c00/0178/3115/large_jpg/1.jpg?1786963841",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Designing Quietly: Rethinking Architecture’s Overlooked Surface",
+      "url": "https://www.archdaily.com/1042609/designing-quietly-rethinking-architectures-overlooked-surface",
+      "excerpt": "The ceiling is one of the largest continuous surfaces in a space, yet why is it rarely the first architectural element people notice? Often perceived as the plane that conceals structure and building ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a45/ffc1/ebd1/e401/893a/aa01/large_jpg/designing-quietly-rethinking-architectures-overlooked-surface_25.jpg?1782972409",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Echoes of Home : Adaptive Reuse of a Vernacular House / CM Design",
+      "url": "https://www.archdaily.com/1183405/echoes-of-home-adaptive-reuse-of-a-vernacular-house-cm-design",
+      "excerpt": "Dafeng Village is located on the outskirts of Dongguan's central urban area. Its history can be traced back to the 31st year of the Shaoxing reign of the Southern Song Dynasty (1161 CE), and its long ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/892b/3cf9/6c00/0178/2fa2/large_jpg/04__________2.jpg?1786939712",
       "today": true
     },
     {
@@ -229,16 +269,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Serpentine Pavillion 2026 / LANZA Atelier",
-      "url": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier",
-      "excerpt": "There came a point when I began to see serpents everywhere. The vision of serpents began timidly, with the faint pencil outline of the canopy that defined the site where Alessandro Arienzo, my partner",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/1a53/ac8b/af01/892c/ce0c/large_jpg/serpentine-pavillion-lanza-atelier_13.jpg?1786976917",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -268,16 +298,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Linha House / Ricardo Azevedo Arquitecto",
-      "url": "https://www.archdaily.com/1183398/linha-house-ricardo-azevedo-arquitecto",
-      "excerpt": "The commission was clear: to design a singular dwelling, a future house and a true home. The plot itself, however, presented as an ordinary urban lot, regular and flat, without distinguishing features",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/76d9/ac8b/af01/4de7/6d66/large_jpg/casa-da-linha-ricardo-azevedo-arquitecto_21.jpg?1786738466",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -288,16 +308,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "TP-LINK LXD Building / KPF",
-      "url": "https://www.archdaily.com/1183106/tp-link-lxd-kpf",
-      "excerpt": "The TP-LINK LXD project redefines circulation as habitable ground, a one-kilometer continuous landscape that lifts the ground plane and wraps it around three buildings, transforming movement into shar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/19ce/3cf9/6c00/0178/05cf/large_jpg/01_TP-LINK_LXD_North_Facade_Credit_StudioSZ_Photo_Justin_Szeremeta_Courtesy_KPF.jpg?1786452477",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -305,16 +315,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/alex-prager-takes-on-disney-princesses-they-are-as-iconic-as-an-hermes-bag-or-marilyn-monroe",
       "excerpt": "Alex Prager creates a magical world in a new short film for Disney, ‘Once A Princess, Always A Princess’, marking World Princess Week",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bvi9PV55rcSBjXGDQmDJ6m-2560-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Dior Beauty’s history is now an animated film – meet the art director and watch it here",
-      "url": "https://www.wallpaper.com/fashion-beauty/ugo-bienvenu-animated-dior-beauty-miss-dior",
-      "excerpt": "Celebrated French art director Ugo Bienvenu offers insight into his joyful new campaign for the Miss Dior fragrance",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KWFE8fQrKeEDmWUXHnT5Da-2012-80.png",
       "today": false
     },
     {
