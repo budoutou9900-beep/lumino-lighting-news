@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  06:33",
+  "fetchedAt": "2026.08.18  07:33",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,35 +17,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -112,6 +112,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.18",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.18",
@@ -150,13 +160,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.18",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "foldable aluminum beach wagon integrates electric propulsion for soft-sand mobility",
+      "url": "https://www.designboom.com/technology/foldable-aluminum-beach-wagon-integrates-electric-propulsion-for-soft-sand-mobility/",
+      "excerpt": "litefar B1 is designed to transport beach equipment across changing terrain from car to shoreline.\nThe post foldable aluminum beach wagon integrates electric propulsion for soft-sand mobility appeared",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/litefar-B1-foldable-electric-beach-wagon-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "modularized open steel grid reshapes family living on tight site in taiwan",
+      "url": "https://www.designboom.com/architecture/modularized-open-steel-grid-family-living-tight-site-taiwan-mom-house-supra-simplicities-kccs/",
+      "excerpt": "eight steel modules are arranged along a linear axis, while an irregular structural bay interrupts the repetitive modular sequence.\nThe post modularized open steel grid reshapes family living on tight",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/modularized-open-steel-grid-family-living-tight-site-taiwan-mom-house-supra-simplicities-kccs-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -167,6 +187,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/new-hypercars-2026",
       "excerpt": "Ferrari, Porsche, Bugatti and McLaren are all making waves in the rarefied market for one-of-one hypercars. We’ve rounded up five recent automotive unicorns",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NMNPuWzrm4vM8Bvf694UaV-1410-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\"",
+      "url": "https://www.dezeen.com/2026/08/18/the-devils-milk-furniture-rubber-shahar-livne/",
+      "excerpt": "Designer Shahar Livne has created The Devil's Milk, a collection of designs that investigate rubber production and its history of violence and abuse. The designs, which Livne created over two years, i",
       "today": true
     },
     {
@@ -279,16 +308,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "carved travertine transforms paving, furniture, and planting across spanish historic old town",
-      "url": "https://www.designboom.com/architecture/carved-travertine-transforms-paving-furniture-and-planting-across-spanish-historic-old-town/",
-      "excerpt": "in banyoles, mias architects completes the transformation of the historic center with an intervention in plaça d’en ges and the surrounding streets.\nThe post carved travertine transforms paving, furni",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -333,25 +352,6 @@ window.LUMINO_DATA = {
       "title": "Ferrari's controversial first EV sells for record $40 million at auction",
       "url": "https://www.dezeen.com/2026/08/17/ferrari-luce-ev-auction-record/",
       "excerpt": "The first production model of the electric Ferrari designed by Jony Ive and Marc Newson has sold for $40 million – a record price for a new vehicle at auction. The carmaker's polarising first foray in",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "VCUarts qatar explores ‘thresholds of perception’ at venice biennale 2026",
-      "url": "https://www.designboom.com/design/vcu-arts-qatar-thresholds-of-perception-venice-biennale-2026-interview/",
-      "excerpt": "ten research labs from VCUarts qatar occupy palazzo cavanis at venice biennale 2026, showcasing soundscapes, craft, and interactive robotics. \nThe post VCUarts qatar explores ‘thresholds of perception",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vcu_designboom_facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "\"I find it icky to glibly invoke brain chemistry in the marketing of style\"",
-      "url": "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
-      "excerpt": "The \"dopamine decor\" interiors trend is taking social media by storm, but it's just another disingenuous dressing-up of superficial style as life-improving experience, writes Julie Lasky. For some tim",
       "today": false
     },
     {
