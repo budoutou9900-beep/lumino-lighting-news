@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  00:53",
+  "fetchedAt": "2026.08.18  02:13",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -177,6 +177,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/margarete-schutte-lihotzky-envisioned-frankfurt-kitchen-machine-for-living/",
       "excerpt": "nearly everything in this domestic space, the double-basin sink, the easy to reach cabinets, the ease of access, championed a future where the kitchen becomes a 'laboratory' for creation.\nThe post the",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/frankfurt-kitchen-designboom-15.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.17",
+      "title": "Oratory Chapel / S-AR",
+      "url": "https://www.archdaily.com/1183456/oratory-chapel-s-ar",
+      "excerpt": "A pair of reinforced concrete walls of 8 cm in thickness, of variable height diagonally, hold up a slab of 6.5 cm, forming a kind of tunnel.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/2d5d/ac8b/af6c/434b/6104/large_jpg/oratory-chapel-s-ar_1.jpg?1786981740",
       "today": false
     },
     {
@@ -323,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/vcu-arts-qatar-thresholds-of-perception-venice-biennale-2026-interview/",
       "excerpt": "ten research labs from VCUarts qatar occupy palazzo cavanis at venice biennale 2026, showcasing soundscapes, craft, and interactive robotics. \nThe post VCUarts qatar explores ‘thresholds of perception",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/vcu_designboom_facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Palaces of the Public: A Cultural History of Washington, DC's Hotels",
-      "url": "https://www.archdaily.com/1183433/palaces-of-the-public-a-cultural-history-of-washington-dcs-hotels",
-      "excerpt": "Washington, DC is a special travel destination; visitors come from all over the world to be in touch with the center of American power, to influence policy, and to witness history. In Palaces of the P",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/14fa/3cf9/6c00/0178/31b7/large_jpg/9781647127305_FC.jpg?1786975503",
       "today": false
     },
     {
