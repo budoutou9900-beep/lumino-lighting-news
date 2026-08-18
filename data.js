@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  04:29",
+  "fetchedAt": "2026.08.18  05:23",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -157,6 +157,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Seiko’s designers let their imaginations run wild with a new generation of watches",
+      "url": "https://www.wallpaper.com/watches-jewellery/seiko-power-design-project-2026",
+      "excerpt": "From cat-shaped hands to maze-like indices, Seiko’s annual Power Design Project in London explores the playful possibilities of watchmaking",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8SpWgXugS6AX2pUKayMBgW.gif",
       "today": true
     },
     {
@@ -342,16 +352,6 @@ window.LUMINO_DATA = {
       "title": "\"I find it icky to glibly invoke brain chemistry in the marketing of style\"",
       "url": "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
       "excerpt": "The \"dopamine decor\" interiors trend is taking social media by storm, but it's just another disingenuous dressing-up of superficial style as life-improving experience, writes Julie Lasky. For some tim",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "The new 'Made x Barbican' collection features furniture and lighting inspired by sculptural Brutalism",
-      "url": "https://www.wallpaper.com/design-interiors/made-barbican-furniture-lighting-collection-london-design-festival-2026",
-      "excerpt": "The 'Made x Barbican' collection turns the London brutalist landmark's signature architectural elements into a series of contemporary furniture pieces",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oyD4jLPaLAF3YSq5GgVmWG-1600-80.png",
       "today": false
     },
     {
