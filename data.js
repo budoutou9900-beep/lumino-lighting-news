@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  14:27",
+  "fetchedAt": "2026.08.18  15:25",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -164,6 +164,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "andré wendland pulls back the curtain on everyday spectacle for berlin art week 2026",
+      "url": "https://www.designboom.com/art/andre-wendland-pulls-back-the-curtain-on-everyday-spectacle-for-berlin-art-week/",
+      "excerpt": "hands disappear, puppets perform and ordinary scenes get suspiciously good stage lighting.\nThe post andré wendland pulls back the curtain on everyday spectacle for berlin art week 2026 appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467690/2026-08-17/on-stage-designing-the-mechanics-of-illusion-and-everyday-spectacle-1-6a832e8d8079e.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Merit Beauty checks into The Ritz-Carlton for its first hospitality collaboration",
+      "url": "https://www.wallpaper.com/travel/travel-events/merit-beauty-the-ritz-carlton-collaboration",
+      "excerpt": "Merit’s beauty essentials arrive at The Ritz-Carlton through Club Lounge carts, in-room kits and turndown amenities",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fZXHRJPpZwxEfpnxgn6ayV-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "reza raeisifar and saber abar stack steel spheres into chairs, lamps and pet homes",
+      "url": "https://www.designboom.com/design/reza-raeisifar-saber-abar-steel-spheres-chairs-lamps-pet-homes/",
+      "excerpt": "the polished spheres leave the railing behind to begin a surprisingly ambitious second life.\nThe post reza raeisifar and saber abar stack steel spheres into chairs, lamps and pet homes appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466605/2026-08-17/wishes-collection-1-6a833ac9b39a3.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -222,6 +252,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Inhabiting the Stable, Creation of an apartment within the agricultural part of a farmhouse in Praz-Pury / Bard Yersin Architectes",
+      "url": "https://www.archdaily.com/1183224/inhabiting-the-stable-creation-of-an-apartment-within-the-agricultural-part-of-a-farmhouse-in-praz-pury-bard-yersin-architectes",
+      "excerpt": "The project transforms part of the disused agricultural section of a 1930s farmhouse into an apartment. Farmhouses of this period in the canton of Fribourg follow a remarkably consistent archetype, th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/e946/3cf9/6c00/0178/2455/large_jpg/_DSC3750-Modifier-Modifier_copie.jpg?1786571201",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -270,26 +310,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Enter Saikindō, a Japanese hi-fi bar in Abu Dhabi, disguised as a fashion atelier",
-      "url": "https://www.wallpaper.com/travel/bars/saikindo-four-seasons-hotel-abu-dhabi-review",
-      "excerpt": "Japanese whisky, vinyl records and robata cooking star at this new speaker-lined watering hole inside Four Seasons Abu Dhabi",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/teFdPnDeTB7FGyxP9eVTU4-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "powerhouse parramatta to open november 2026 with OMA/AMO-designed exhibition",
-      "url": "https://www.designboom.com/architecture/intricate-exoskeleton-powerhouse-parramatta-sydney-australia-moreau-kusunoki-genton/",
-      "excerpt": "the new museum will open with five exhibitions, including 'the mall', a collaboration with OMA/AMO examining how shopping centers shaped modern urban life.\nThe post powerhouse parramatta to open novem",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/intricate-exoskeleton-powerhouse-parramatta-sydney-australia-moreau-kusunoki-genton-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -297,16 +317,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183404/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure",
       "excerpt": "Across the Gulf, Bedouin heritage often enters architecture first as an image. Airport terminals recall tent silhouettes, visitor centres incorporate woven screens, and pavilions reinterpret tradition",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/81ba/ab59/ca01/8994/55a8/large_jpg/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure_7.jpg?1786937797",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "foldable aluminum beach wagon integrates electric propulsion for soft-sand mobility",
-      "url": "https://www.designboom.com/technology/foldable-aluminum-beach-wagon-integrates-electric-propulsion-for-soft-sand-mobility/",
-      "excerpt": "litefar B1 is designed to transport beach equipment across changing terrain from car to shoreline.\nThe post foldable aluminum beach wagon integrates electric propulsion for soft-sand mobility appeared",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/litefar-B1-foldable-electric-beach-wagon-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -346,16 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183238/campus-tensta-tengbom",
       "excerpt": "Campus Tensta transforms the former Tensta Upper Secondary School, a culturally significant 1980s building, into a contemporary multi-tenant educational campus through careful renovation and minimal i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/ab66/3cf9/6c00/0178/259d/large_jpg/Campus_Tensta_7_-_original__1515492_.jpg?1786620880",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Graham Foundation Announces 45 New Grants for Projects Expanding Architectural Discourse in 2026",
-      "url": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026",
-      "excerpt": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society. It awards ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/7bcd/ac8b/af01/892c/d0a6/large_jpg/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026_7.jpg?1787001821",
       "today": true
     },
     {
