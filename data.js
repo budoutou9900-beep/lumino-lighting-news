@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  11:19",
+  "fetchedAt": "2026.08.18  12:33",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,65 +17,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "山陽新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "ファッションプレス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -117,15 +113,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.18",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -174,6 +161,16 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Get your hands on rare Comme des Garçons with this landmark auction",
+      "url": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
+      "excerpt": "Octavius La Rosa, founder of Dot Comme and one of the world’s most prolific Comme des Garçons collectors, is selling 265 rare pieces as part of a landmark sale this September in London with Kerry Tayl",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Nc8giNaczEmwUES33knKnR-1539-80.jpg",
       "today": true
     },
     {
@@ -293,6 +290,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "From Tent to Terminal: Bedouin Craft in Contemporary Infrastructure",
+      "url": "https://www.archdaily.com/1183404/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure",
+      "excerpt": "Across the Gulf, Bedouin heritage often enters architecture first as an image. Airport terminals recall tent silhouettes, visitor centres incorporate woven screens, and pavilions reinterpret tradition",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/81ba/ab59/ca01/8994/55a8/large_jpg/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure_7.jpg?1786937797",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -312,13 +319,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.18",
-      "title": "Five unique hypercars showcase the outer limits of contemporary performance design",
-      "url": "https://www.wallpaper.com/transportation/new-hypercars-2026",
-      "excerpt": "Ferrari, Porsche, Bugatti and McLaren are all making waves in the rarefied market for one-of-one hypercars. We’ve rounded up five recent automotive unicorns",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NMNPuWzrm4vM8Bvf694UaV-1410-80.jpg",
+      "title": "Hideout Leaf Villa / Pablo Luna Studio",
+      "url": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
+      "excerpt": "Hideout Leaf is located in the mountains of East Bali, surrounded by a natural landscape that forms a living ecosystem of design-conscious spaces, art, and nature experiences nestled beside a quiet ri",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/b70a/ab59/ca01/8994/4d4d/large_jpg/hideout-leaf-villa-pablo-luna-studio_29.jpg?1786623772",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "OMA/Jason Long and Y.A. Studio Complete 730 Stanyan Affordable Housing Development in San Francisco",
+      "url": "https://www.archdaily.com/1183489/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco",
+      "excerpt": "OMA, led by Partner Jason Long, together with San Francisco-based Y.A. Studio, has completed 730 Stanyan, a mixed-use affordable housing development in San Francisco's Haight-Ashbury neighborhood. Dev",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/1f77/ac8b/af01/892c/d142/large_jpg/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco_1.jpg?1787043799",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Campus Tensta Renovation  / Tengbom",
+      "url": "https://www.archdaily.com/1183238/campus-tensta-tengbom",
+      "excerpt": "Campus Tensta transforms the former Tensta Upper Secondary School, a culturally significant 1980s building, into a contemporary multi-tenant educational campus through careful renovation and minimal i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/ab66/3cf9/6c00/0178/259d/large_jpg/Campus_Tensta_7_-_original__1515492_.jpg?1786620880",
       "today": true
     },
     {
@@ -329,46 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026",
       "excerpt": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society. It awards ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/7bcd/ac8b/af01/892c/d0a6/large_jpg/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026_7.jpg?1787001821",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Open Call for Expert Contributors at ArchDaily",
-      "url": "https://www.archdaily.com/1038256/open-call-for-expert-contributors-at-archdaily",
-      "excerpt": "ArchDaily is looking for an Expert Contributor to join our Sponsored Content team. In this role, you will create editorial content exploring architectural products, materials, projects, and ideas whil",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/697b/13d9/2755/8a5a/2ede/fcfc/large_jpg/call-for-archdailys-next-expert-contributor_1.jpg?1769673698",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "How Can a Culture Be Translated into Space? Inside Studio NEiDA",
-      "url": "https://www.archdaily.com/1183376/how-can-a-culture-be-translated-into-space-inside-studio-neida",
-      "excerpt": "\"Architecture that holds multitudes.\" This is the phrase Studio NEiDA uses to introduce itself, making its position toward the world clear: to listen to and respect the plurality of existences that mo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/49d3/ab59/ca01/8994/546e/large_jpg/how-can-a-culture-be-translated-into-space-inside-the-practice-of-studio-neida_5.jpg?1786726874",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "The House of Thirds / Architects Collaborative",
-      "url": "https://www.archdaily.com/1183341/the-house-of-thirds-architects-collaborative",
-      "excerpt": "A modest 270 sq.m plot fits into its well-manicured neighborhood like the last piece of a jigsaw. Positioned at a convergence, this irregular plot completes the larger whole, and in doing so becomes a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/143d/ac8b/af01/892c/c94c/large_jpg/the-house-of-thirds-architects-collaborative_3.jpg?1786713221",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "The Earth Crew Headquarters / pinto",
-      "url": "https://www.archdaily.com/1183422/the-earth-crew-headquarters-pinto",
-      "excerpt": "Three stacked boxes rest on a floating platform above Bangkok's narrow street, lifted to create a quieter working environment away from the bustle below, while opening up views and allowing for nine p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/e757/3cf9/6c00/0178/3115/large_jpg/1.jpg?1786963841",
       "today": true
     },
     {
