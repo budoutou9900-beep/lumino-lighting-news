@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  16:24",
+  "fetchedAt": "2026.08.18  17:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -202,6 +202,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.18",
+      "title": "Damata House / Melina Romano",
+      "url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
+      "excerpt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship betwe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5092/3cf9/6c00/0178/3399/large_jpg/0Z7A7804-1.jpg?1786990948",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
       "title": "Brugge Diptych / PARA",
       "url": "https://www.archdaily.com/1183357/brugge-diptych-para",
       "excerpt": "Brugge Diptych is a temporary pavilion commissioned for the 2021 Brugge Triennale. Set along a quiet residential canal, it abuts an abandoned fifteenth-century house in a dense UNESCO-protected neighb",
@@ -342,16 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
       "excerpt": "Hideout Leaf is located in the mountains of East Bali, surrounded by a natural landscape that forms a living ecosystem of design-conscious spaces, art, and nature experiences nestled beside a quiet ri",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/b70a/ab59/ca01/8994/4d4d/large_jpg/hideout-leaf-villa-pablo-luna-studio_29.jpg?1786623772",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "OMA/Jason Long and Y.A. Studio Complete 730 Stanyan Affordable Housing Development in San Francisco",
-      "url": "https://www.archdaily.com/1183489/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco",
-      "excerpt": "OMA, led by Partner Jason Long, together with San Francisco-based Y.A. Studio, has completed 730 Stanyan, a mixed-use affordable housing development in San Francisco's Haight-Ashbury neighborhood. Dev",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/1f77/ac8b/af01/892c/d142/large_jpg/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco_1.jpg?1787043799",
       "today": true
     },
     {
