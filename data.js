@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  08:28",
+  "fetchedAt": "2026.08.18  09:26",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,33 +41,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -112,6 +116,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.18",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.18",
@@ -134,7 +148,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.18",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -150,13 +164,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.18",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "A new book traces the underexplored architectural legacy of Studley Park",
+      "url": "https://www.wallpaper.com/architecture/studley-park-riverside-modern-book",
+      "excerpt": "'Riverside Modern' chronicles Studley Park, a pocket of Melbourne where a dense concentration of mid-century masterpieces is quietly hidden amongst towering eucalypt glades and hilltop canopies",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PiD3dZhWczehq3YRnypbWL-1418-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Eight pavilion highlights from Jia Curated 2026",
+      "url": "https://www.dezeen.com/2026/08/18/jia-curated-pavilions/",
+      "excerpt": "The fifth edition of Bali's Jia Curated design festival features pavilions that aim to put nature at the centre, including structures built from rice husks and salt bricks. Here are eight of the most ",
       "today": true
     },
     {
@@ -197,6 +220,15 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/modularized-open-steel-grid-family-living-tight-site-taiwan-mom-house-supra-simplicities-kccs/",
       "excerpt": "eight steel modules are arranged along a linear axis, while an irregular structural bay interrupts the repetitive modular sequence.\nThe post modularized open steel grid reshapes family living on tight",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/modularized-open-steel-grid-family-living-tight-site-taiwan-mom-house-supra-simplicities-kccs-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Dezeen Awards 2026 party tickets now on sale",
+      "url": "https://www.dezeen.com/2026/08/18/dezeen-awards-2026-party-tickets-on-sale/",
+      "excerpt": "Tickets for the Dezeen Awards 2026 party, which will take place in London in November, are now on sale. Secure your place before they sell out! This year's Dezeen Awards party will be held on 16 Novem",
       "today": true
     },
     {
@@ -324,34 +356,6 @@ window.LUMINO_DATA = {
       "title": "New colour palette by Raffaella Mangiarotti and Lapalma",
       "url": "https://www.dezeen.com/2026/08/17/new-colour-palette-by-raffaella-mangiarotti-lapalma-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Lapalma has collaborated with architect and designer Raffaella Mangiarotti on a new kaleidoscopic palette of colourways for its catalogue. Lapalma describes its new colo",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Amid Copenhagen Fashion Week’s pantomime of street style, Galib Gassanoff’s latest collection was pure poetry",
-      "url": "https://www.wallpaper.com/fashion-beauty/copenhagen-fashion-week-galib-gassanoff-institution-ss-27",
-      "excerpt": "Informed by his Azerbaijani and Georgian heritage, Galib Gassanoff’s S/S 2027 collection for Milan-based label Institution was the standout moment of Copenhagen Fashion Week, writes Dal Chodha",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/moAVcT54r6K9JUqDBYRmgk-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Kuba Woźniczka nestles black-timber holiday cabins in Polish woodland",
-      "url": "https://www.dezeen.com/2026/08/17/kuba-wozniczka-studzienno-27/",
-      "excerpt": "Polish architect Kuba Woźniczka has completed Studzienno 27, a series of four holiday cabins nestled in the woodlands of the Stołowe Mountains National Park. Looking to protect the natural landscape a",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Ferrari's controversial first EV sells for record $40 million at auction",
-      "url": "https://www.dezeen.com/2026/08/17/ferrari-luce-ev-auction-record/",
-      "excerpt": "The first production model of the electric Ferrari designed by Jony Ive and Marc Newson has sold for $40 million – a record price for a new vehicle at auction. The carmaker's polarising first foray in",
       "today": false
     },
     {
