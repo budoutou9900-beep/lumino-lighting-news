@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  19:23",
+  "fetchedAt": "2026.08.18  20:16",
   "sourceColors": {
-    "axismag.jp": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ginza.keizai.biz": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -17,70 +17,68 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.18",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
     {
       "source": "ginza.keizai.biz",
       "cat": "展示・アート",
@@ -89,6 +87,16 @@ window.LUMINO_DATA = {
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.18",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -109,6 +117,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.18",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -157,6 +174,15 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "OMA completes first US affordable housing development in San Francisco",
+      "url": "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
+      "excerpt": "The New York office of OMA and local practice YA Studio have arranged a 160-home apartment block in San Francisco, California, around multiple courtyards. Named 730 Stanyan, the development is OMA's f",
       "today": true
     },
     {
@@ -316,15 +342,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Gamers must survive without air-con in Europe Heatwave Simulator",
-      "url": "https://www.dezeen.com/2026/08/18/europe-heatwave-simulator-blue-hood-games/",
-      "excerpt": "Game developer Blue Hood Games has released a survival game named Europe Heatwave Simulator, where players need to outlast a 14-day heatwave without air conditioning in an apartment in Paris. Playable",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -412,6 +429,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/183",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/183/_DSF8202.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
       "today": false
     },
     {
