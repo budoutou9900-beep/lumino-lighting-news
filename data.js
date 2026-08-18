@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  07:33",
+  "fetchedAt": "2026.08.18  08:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,23 +37,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -112,16 +112,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.18",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.18",
@@ -157,6 +147,36 @@ window.LUMINO_DATA = {
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.18",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Enter Saikindō, a Japanese hi-fi bar in Abu Dhabi, disguised as a fashion atelier",
+      "url": "https://www.wallpaper.com/travel/bars/saikindo-four-seasons-hotel-abu-dhabi-review",
+      "excerpt": "Japanese whisky, vinyl records and robata cooking star at this new speaker-lined watering hole inside Four Seasons Abu Dhabi",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/teFdPnDeTB7FGyxP9eVTU4-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "powerhouse parramatta to open november 2026 with OMA/AMO-designed exhibition",
+      "url": "https://www.designboom.com/architecture/intricate-exoskeleton-powerhouse-parramatta-sydney-australia-moreau-kusunoki-genton/",
+      "excerpt": "the new museum will open with five exhibitions, including 'the mall', a collaboration with OMA/AMO examining how shopping centers shaped modern urban life.\nThe post powerhouse parramatta to open novem",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/intricate-exoskeleton-powerhouse-parramatta-sydney-australia-moreau-kusunoki-genton-designboom-1200.jpg",
       "today": true
     },
     {
@@ -212,6 +232,26 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.18",
+      "title": "How Can a Culture Be Translated into Space? Inside Studio NEiDA",
+      "url": "https://www.archdaily.com/1183376/how-can-a-culture-be-translated-into-space-inside-studio-neida",
+      "excerpt": "\"Architecture that holds multitudes.\" This is the phrase Studio NEiDA uses to introduce itself, making its position toward the world clear: to listen to and respect the plurality of existences that mo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/49d3/ab59/ca01/8994/546e/large_jpg/how-can-a-culture-be-translated-into-space-inside-the-practice-of-studio-neida_5.jpg?1786726874",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "The House of Thirds / Architects Collaborative",
+      "url": "https://www.archdaily.com/1183341/the-house-of-thirds-architects-collaborative",
+      "excerpt": "A modest 270 sq.m plot fits into its well-manicured neighborhood like the last piece of a jigsaw. Positioned at a convergence, this irregular plot completes the larger whole, and in doing so becomes a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/143d/ac8b/af01/892c/c94c/large_jpg/the-house-of-thirds-architects-collaborative_3.jpg?1786713221",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
       "title": "The Earth Crew Headquarters / pinto",
       "url": "https://www.archdaily.com/1183422/the-earth-crew-headquarters-pinto",
       "excerpt": "Three stacked boxes rest on a floating platform above Bangkok's narrow street, lifted to create a quieter working environment away from the bustle below, while opening up views and allowing for nine p",
@@ -259,16 +299,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Oratory Chapel / S-AR",
-      "url": "https://www.archdaily.com/1183456/oratory-chapel-s-ar",
-      "excerpt": "A pair of reinforced concrete walls of 8 cm in thickness, of variable height diagonally, hold up a slab of 6.5 cm, forming a kind of tunnel.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/2d5d/ac8b/af6c/434b/6104/large_jpg/oratory-chapel-s-ar_1.jpg?1786981740",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -288,26 +318,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Mirante de São Jorge / Alan Chu",
-      "url": "https://www.archdaily.com/1183468/mirante-de-sao-jorge-alan-chu",
-      "excerpt": "Architecture is born from the need to establish a relationship between human beings and the world around them. Before it is shelter, it is a way of constructing a place: a space capable of orienting t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5186/3cf9/6c00/0178/33a2/large_jpg/DJI_0032.jpg?1786991001",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "open-source paint archive explores reusable biomaterials and earth pigments for fine art",
-      "url": "https://www.designboom.com/art/open-source-paint-archive-reusable-biomaterials-earth-pigments-fine-art-sophia-collender/",
-      "excerpt": "an online archive documenting techniques through which fine art materials can be created from scratch through the use of reusable materials, biomaterials, and earth pigments.\nThe post open-source pain",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/experimental-paint-archive-sophia-collender-biodegradable-non-toxic-reusable-fine-art-materials-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.17",
@@ -324,16 +334,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/copenhagen-fashion-week-galib-gassanoff-institution-ss-27",
       "excerpt": "Informed by his Azerbaijani and Georgian heritage, Galib Gassanoff’s S/S 2027 collection for Milan-based label Institution was the standout moment of Copenhagen Fashion Week, writes Dal Chodha",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/moAVcT54r6K9JUqDBYRmgk-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.17",
-      "title": "Alex Prager takes on Disney Princesses: ‘They are as iconic as an Hermès bag or Marilyn Monroe’",
-      "url": "https://www.wallpaper.com/art/alex-prager-takes-on-disney-princesses-they-are-as-iconic-as-an-hermes-bag-or-marilyn-monroe",
-      "excerpt": "Alex Prager creates a magical world in a new short film for Disney, ‘Once A Princess, Always A Princess’, marking World Princess Week",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bvi9PV55rcSBjXGDQmDJ6m-2560-80.png",
       "today": false
     },
     {
@@ -412,6 +412,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/183",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/183/_DSF8202.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
       "today": false
     },
     {
