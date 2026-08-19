@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  17:21",
+  "fetchedAt": "2026.08.19  18:25",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "山陽新聞": {
+    "sanyonews.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -145,13 +145,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "cat": "展示・アート",
       "date": "2026.08.19",
       "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
       "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "maison cédrat’s new lamps filter light through clay and handcrafted washi paper",
+      "url": "https://www.designboom.com/design/maison-cedrats-new-lamps-light-clay-handcrafted-washi-paper/",
+      "excerpt": "pierre samouilla and alix lalucaa pair handcrafted clay with translucent washi paper across sculptural luminaires.\nThe post maison cédrat’s new lamps filter light through clay and handcrafted washi pa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467379/2026-07-31/maison-cedrat-presents-aura-a-collection-shaped-by-mediterranean-light-6-6a6c8d9b9ddde.jpg",
       "today": true
     },
     {
@@ -259,16 +269,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-archive-nottingham",
       "excerpt": "Wallpaper* takes a trip to Nottingham to discover Paul Smith’s career-spanning archive, which continues to inform the label’s collections today",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/P26Kwn8FwMWEjMozxeCT2J-1539-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "the new role of luxury wallpaper shifts from final layer to starting point",
-      "url": "https://www.designboom.com/design/selected-wallpapers-and-interiors-luxury-wallcovering/",
-      "excerpt": "selected wallpapers treats wallcoverings as a craft itself, shifting the material from a finishing touch into a core architectural driver.\nThe post the new role of luxury wallpaper shifts from final l",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/selected-wallpapers_designboom_facebook.jpg",
       "today": true
     },
     {
