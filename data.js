@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  11:20",
+  "fetchedAt": "2026.08.19  12:34",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -175,6 +175,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Demountable timber library in Amsterdam is \"a living room for the neighbourhood\"",
+      "url": "https://www.dezeen.com/2026/08/19/oba-next-lab-matter-makers-awr-baz/",
+      "excerpt": "Stepped, pastel-pink seating spills out from inside the OBA Next Lab library and community space in Amsterdam, designed by Dutch architecture practices Matter Makers, AWR and BAZ Studio as a public li",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -265,6 +274,36 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.19",
+      "title": "The Prototype as a Method: TAKK, salazarsequeromedina, and Ensamble Studio",
+      "url": "https://www.archdaily.com/1183300/the-prototype-as-a-method-takk-salazarsequeromedina-and-ensamble-studio",
+      "excerpt": "Architectural prototypes are often used to test decisions before construction begins. But in some practices, prototyping begins while those decisions are still taking shape. Moving an idea from drawin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/a718/ab59/ca01/8994/5079/large_jpg/the-prototype-as-a-method-takk-salazarsequeromedina-and-ensamble-studio_4.jpg?1786685215",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "House Gapfohl / Bernardo Bader Architekten",
+      "url": "https://www.archdaily.com/1183261/house-gapfohl-bernardo-bader-architekten",
+      "excerpt": "The architectural concept of the primordial hut can be traced back to Vitruvius. As an idealized model of the natural dwelling, it had a profound influence on architectural theory in the eighteenth ce",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/d90b/3cf9/6c00/0178/271a/large_jpg/274_Haus_Gapfohl_Laterns_18_Gustav_Willeit.jpg?1786632517",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "NCARB 2026 Report Shows a More Diverse Candidate Pool Amid Persistent Gaps in Architecture Licensure",
+      "url": "https://www.archdaily.com/1183568/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure",
+      "excerpt": "The National Council of Architectural Registration Boards (NCARB) has released the 2026 edition of its annual NCARB by the Numbers report, presenting data from 2025 on architectural licensure and demo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7cb7/ab59/ca01/8994/5ef6/large_jpg/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure_1.jpg?1787133122",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
       "title": "Private house in La Claye / atelier iso architectes",
       "url": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
       "excerpt": "The project is located in the village of La Claye, on a 300 m² corner plot that had long remained vacant, forming a gap within the existing urban fabric. Formerly attached to the neighboring property,",
@@ -311,36 +350,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "How to Inhabit a Territory: 10 Houses Shaped by Argentina's Landscapes",
-      "url": "https://www.archdaily.com/1183399/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes",
-      "excerpt": "Argentina's vast territory reveals multiple ways of building shaped by its geographic, climatic, and cultural diversity. When designing single-family homes in Córdoba, Mendoza, Santa Fe, and Buenos Ai",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/77c4/ac8b/af01/892c/d087/large_jpg/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes_26.jpg?1787000782",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Waankarn Restaurant / Studio Locomotive",
-      "url": "https://www.archdaily.com/1183528/waankarn-restaurant-studio-locomotive",
-      "excerpt": "Studio Locomotive realises the hospitality facility as a hyperlocal threshold that extends beyond conventional leisure. For the recreational diners visiting Khao Lak, the restaurant serves as an invit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/8c7d/ab59/ca01/8994/5cf6/large_jpg/waankarn-restaurant-studio-locomotive_2.jpg?1787071631",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "House for Camping / Patchwork Architecture",
-      "url": "https://www.archdaily.com/1183518/house-for-camping-patchwork-architecture",
-      "excerpt": "Sited on the boundary of Abel Tasman National Park, this house sits a short distance from one of New Zealand's most celebrated coastlines, set within a regenerating beech-podocarp forest amongst matur",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/8993/ab59/ca01/8994/5cc7/large_jpg/house-for-camping-patchwork-architecture_21.jpg?1787070883",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -348,15 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/gloriously-inappropriate-cartoon-modern-toss-marks-21-years",
       "excerpt": "Mick Bunnage and Jon Link celebrate 21 years of Modern Toss with a London exhibition of sweary cartoons, workplace rage and magnificently bad behaviour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZeXFb2i42WvmnD7mVcB79Q.gif",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "OMA completes first US affordable housing development in San Francisco",
-      "url": "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
-      "excerpt": "The New York office of OMA and local practice YA Studio have arranged a 160-home apartment block in San Francisco, California, around multiple courtyards. Named 730 Stanyan, the development is OMA's f",
       "today": false
     },
     {
