@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  05:24",
+  "fetchedAt": "2026.08.19  06:33",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -168,6 +168,26 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
+      "title": "An essential directory of Anna Castelli Ferrieri's most notable designs",
+      "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
+      "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z88Jv5uajipcw5R78vXaEH-1500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "tato architects turns kyoto minami kaikan into building that catches light like a cinema screen",
+      "url": "https://www.designboom.com/architecture/tato-architects-kyoto-minami-kaikan-building-light-cinema/",
+      "excerpt": "yo shimada transforms a former bank in kyoto with stainless-steel mesh, reflective surfaces and three distinct screening rooms.\nThe post tato architects turns kyoto minami kaikan into building that ca",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/391083/2026-08-16/kyoto-minami-kaikan-movie-theater-1-6a81740f7261e.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.19",
       "title": "The Savoy reaffirms its place as one of London’s great hotels",
       "url": "https://www.wallpaper.com/travel/hotels/the-savoy-london-review",
       "excerpt": "From Monet to Monroe, The Savoy has hosted them all; now G.A Group brings its Edwardian and Art Deco rooms into a new era",
@@ -182,6 +202,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/bugatti-destrier-debut-quail-coachbuilt-hypercar-monterey-car-week-2026/",
       "excerpt": "named for the armor-clad horses of medieval knights, the bugatti destrier turns a track-only hypercar into a coachbuilt commission.\nThe post bugatti destrier debuts at the quail with sculptural one-me",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bugatti-destrier-quail-monterey-car-week-2026-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "House of  Rasing the Umbrella / Chaoffice",
+      "url": "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
+      "excerpt": "No one knows whether this house or the large trees in its courtyard appeared on the site first. Chinese scholar trees, persimmon trees, and ginkgo trees stood tall, their expansive canopies intertwini",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/bba7/3cf9/6c00/0178/2ffe/large_jpg/Zhu_Yumeng-07-web.jpg?1786952636",
       "today": true
     },
     {
@@ -302,16 +332,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Brugge Diptych / PARA",
-      "url": "https://www.archdaily.com/1183357/brugge-diptych-para",
-      "excerpt": "Brugge Diptych is a temporary pavilion commissioned for the 2021 Brugge Triennale. Set along a quiet residential canal, it abuts an abandoned fifteenth-century house in a dense UNESCO-protected neighb",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/2422/3cf9/6c00/0178/2d75/large_jpg/StijnBollaert_approach_BR-DIPT-0253-2.jpg?1786717239",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -319,26 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
       "excerpt": "Octavius La Rosa, founder of Dot Comme and one of the world’s most prolific Comme des Garçons collectors, is selling 265 rare pieces as part of a landmark sale this September in London with Kerry Tayl",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Nc8giNaczEmwUES33knKnR-1539-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "A compact Japanese house by Hitotomori is hidden behind a minimalist wooden fence",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/hitotomori-emerging-japanese-architectural-studio",
-      "excerpt": "Hitotomori, an emerging architecture studio from Japan, features in the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNggfZNecYmPkFHzDB7fT-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "erik kruug photographs a way of living between land and water in the netherlands",
-      "url": "https://www.designboom.com/architecture/erik-kruug-way-living-land-water-netherlands-loosdrecht/",
-      "excerpt": "homes, gardens, boats, and waterways come together to shape everyday life in the loosdrecht lakes, where habitation has developed around a landscape formed by centuries of peat extraction.\nThe post er",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/erik-kruug-way-living-land-water-netherlands-loosdrecht-designboom-1200.jpg",
       "today": false
     },
     {
