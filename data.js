@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  14:27",
+  "fetchedAt": "2026.08.19  15:25",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "kurashiki.keizai.biz": {
+    "倉敷経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -92,10 +92,11 @@ window.LUMINO_DATA = {
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "kurashiki.keizai.biz",
+      "source": "倉敷経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.19",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -105,7 +106,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -164,6 +165,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Proposal tackling European eel decline among projects from University of Nottingham",
+      "url": "https://www.dezeen.com/2026/08/19/proposal-tackling-european-eel-decline-among-projects-from-university-of-nottingham-schoolshows/",
+      "excerpt": "Dezeen School Shows: a restorative infrastructure designed to support eel habitats among projects from the University of Nottingham. Also featured are artist housing and studios in Hull, and a circula",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "The home of Donald Judd's most ambitious work is about to be restored",
+      "url": "https://www.wallpaper.com/art/donald-judd-artillery-sheds-restoration-marfa",
+      "excerpt": "After dealing with decades of dirt and leaks, the artillery sheds at the Chinati Foundation in Marfa, Texas are about to receive a surgical renovation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iqmPix732iKDFiUMWsuJBB-1920-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -219,6 +239,26 @@ window.LUMINO_DATA = {
       "title": "Tivoli creates theme park Japanese neighbourhood in central Copenhagen",
       "url": "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
       "excerpt": "Danish amusement park Tivoli has unveiled Hikari, a new area informed by Japanese cities that features art by Takashi Murakami and was designed to be \"genuinely respectful of its origin\". The 2,000-sq",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Woonhuis Heenvliet  / Studio Brandvries",
+      "url": "https://www.archdaily.com/1183423/woonhuis-heenvliet-studio-brandvries",
+      "excerpt": "Woonhuis Heenvliet is located on the edge of the historic village of Heenvliet. When the owners bought the plot, it had an existing house that was partly built on the footprint of a barn that had once",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/03dc/3cf9/6c00/0178/3130/large_jpg/MAEE3D_1.jpg?1786971117",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Call for Entries : International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool",
+      "url": "https://www.archdaily.com/1183617/call-for-entries-international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool",
+      "excerpt": "The competition aims to create synergy with Busan’s waterfront redevelopment initiatives and transform the existing summer-only facility into a year-round family-oriented destination, developing it as",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/bd5e/4253/0500/01c9/f4c4/large_jpg/26-08_DCB___________1.jpg?1787149669",
       "today": true
     },
     {
@@ -300,26 +340,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Why Travel (still) Shapes the Way Architects Think",
-      "url": "https://www.archdaily.com/1182468/why-travel-still-shapes-the-way-architects-think",
-      "excerpt": "Between the eighteenth and nineteenth centuries, traveling through Rome, Paris, Venice, Florence, and other European cities was considered an essential part of a newly graduated architect's education.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bac9/ab59/ca01/8994/41f6/large_jpg/the-timeless-tradition-every-architect-should-experience_1.jpg?1786362598",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "NCARB 2026 Report Shows a More Diverse Candidate Pool Amid Persistent Gaps in Architecture Licensure",
-      "url": "https://www.archdaily.com/1183568/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure",
-      "excerpt": "The National Council of Architectural Registration Boards (NCARB) has released the 2026 edition of its annual NCARB by the Numbers report, presenting data from 2025 on architectural licensure and demo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7cb7/ab59/ca01/8994/5ef6/large_jpg/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure_1.jpg?1787133122",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -327,15 +347,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
       "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z88Jv5uajipcw5R78vXaEH-1500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "SESC Pompéia indoor pond replicated for Lina Bo Bardi exhibition in Shanghai",
-      "url": "https://www.dezeen.com/2026/08/19/lina-bo-bardi-exhibition-open-architecture-shanghai/",
-      "excerpt": "International studio Open Architecture drew on Lina Bo Bardi's own designs when creating The Poetics of Survival, the first major exhibition of the architect's work in China. The studio centred the ex",
       "today": true
     },
     {
@@ -347,16 +358,6 @@ window.LUMINO_DATA = {
       "excerpt": "From Monet to Monroe, The Savoy has hosted them all; now G.A Group brings its Edwardian and Art Deco rooms into a new era",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pAA2cf34WmTaS5AjHa9qQ9-1600-80.jpg",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Gloriously inappropriate cartoon Modern Toss marks 21 years",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/gloriously-inappropriate-cartoon-modern-toss-marks-21-years",
-      "excerpt": "Mick Bunnage and Jon Link celebrate 21 years of Modern Toss with a London exhibition of sweary cartoons, workplace rage and magnificently bad behaviour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZeXFb2i42WvmnD7mVcB79Q.gif",
-      "today": false
     },
     {
       "source": "大光電機",
