@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  00:54",
+  "fetchedAt": "2026.08.19  02:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "kurashiki.keizai.biz": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Dezeen": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,7 +96,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
+      "source": "kurashiki.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.08.19",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
@@ -102,23 +106,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.19",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -134,19 +128,50 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.19",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.19",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.19",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "鉄道ファン・railf.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.19",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "bugatti destrier debuts at the quail with sculptural one-meter-tall one-off",
+      "url": "https://www.designboom.com/technology/bugatti-destrier-debut-quail-coachbuilt-hypercar-monterey-car-week-2026/",
+      "excerpt": "named for the armor-clad horses of medieval knights, the bugatti destrier turns a track-only hypercar into a coachbuilt commission.\nThe post bugatti destrier debuts at the quail with sculptural one-me",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bugatti-destrier-quail-monterey-car-week-2026-designboom-FB.jpg",
       "today": true
     },
     {
@@ -169,12 +194,32 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "H1 House / Genovesi Arquitectos",
+      "url": "https://www.archdaily.com/1183525/h1-house-genovesi-arquitectos",
+      "excerpt": "Located on an infill lot in San Rafael, Mendoza, the house is inserted into a low-density urban fabric characterized by the presence of vegetation in both private courtyards and public spaces. In this",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/6802/4253/0500/01c9/eecc/large_jpg/Joaquin_Genovesi__Casa_H1__Low_Resolution____Luis_Abba__11_.jpg?1787062368",
+      "today": false
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.18",
       "title": "Photos reveal new facade of Google's Thompson Center",
       "url": "https://www.dezeen.com/2026/08/18/thompson-center-google-jahn-chicago-new-facade/",
       "excerpt": "The Thompson Center in downtown Chicago has been given a new facade as part of a renovation for tech company Google by architecture studio Jahn. Photos taken earlier this month show the largely comple",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.18",
+      "title": "Caraçá Residence / 23 SUL",
+      "url": "https://www.archdaily.com/1183539/caraca-residence-23-sul",
+      "excerpt": "The preexisting single-story house did not accommodate the spatial needs of the new residents. It was necessary to add another floor, but we did not want to alter the original proportions of the const",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5c09/3cf9/6c00/0178/33f0/large_jpg/0354.23Sul.CasaCaraca-PKOK3501P.jpg?1786993894",
       "today": false
     },
     {
@@ -305,26 +350,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "contemporary orangery reimagines ancient botanical mythology of hecate’s garden",
-      "url": "https://www.designboom.com/architecture/contemporary-orangery-georgia-ancient-botanical-mythology-hecates-garden/",
-      "excerpt": "hecate's garden reinterprets ancient plant lore into a tactile glasshouse restaurant and self-cultivated orangery.\nThe post contemporary orangery reimagines ancient botanical mythology of hecate’s gar",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hecate-garden-georgia-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Inhabiting the Stable, Creation of an apartment within the agricultural part of a farmhouse in Praz-Pury / Bard Yersin Architectes",
-      "url": "https://www.archdaily.com/1183224/inhabiting-the-stable-creation-of-an-apartment-within-the-agricultural-part-of-a-farmhouse-in-praz-pury-bard-yersin-architectes",
-      "excerpt": "The project transforms part of the disused agricultural section of a 1930s farmhouse into an apartment. Farmhouses of this period in the canton of Fribourg follow a remarkably consistent archetype, th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/e946/3cf9/6c00/0178/2455/large_jpg/_DSC3750-Modifier-Modifier_copie.jpg?1786571201",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -332,16 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/orsman-design-garage-hamptons",
       "excerpt": "The sought-after lighting designer Nathan Orsman has lit the homes of Oprah Winfrey, Stephen Colbert, and Marc Jacobs. An upcoming book celebrates his work in the last 15 years",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F7AYtKqDYfjt8caNCb9FcY-2500-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "From Tent to Terminal: Bedouin Craft in Contemporary Infrastructure",
-      "url": "https://www.archdaily.com/1183404/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure",
-      "excerpt": "Across the Gulf, Bedouin heritage often enters architecture first as an image. Airport terminals recall tent silhouettes, visitor centres incorporate woven screens, and pavilions reinterpret tradition",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/81ba/ab59/ca01/8994/55a8/large_jpg/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure_7.jpg?1786937797",
       "today": false
     },
     {
