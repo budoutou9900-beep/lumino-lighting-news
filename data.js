@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  21:20",
+  "fetchedAt": "2026.08.19  22:18",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -92,16 +92,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.19",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
       "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.19",
@@ -148,6 +138,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "鉄道ファン・railf.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.19",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
       "today": true
     },
     {
