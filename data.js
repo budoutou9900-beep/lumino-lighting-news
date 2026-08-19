@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  10:22",
+  "fetchedAt": "2026.08.19  11:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -168,6 +168,16 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.19",
+      "title": "the nakagin capsule tower and the dream of a home that could change",
+      "url": "https://www.designboom.com/architecture/nakagin-capsule-tower-dream-home-change-kisho-kurokawa-tokyo/",
+      "excerpt": "the nakagin capsule tower turned metabolist ideas about impermanence into a building of replaceable living pods. \nThe post the nakagin capsule tower and the dream of a home that could change appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/nakagin-capsule-tower-home-change-stuck-time-kisho-kurokawa-tokyo-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
       "title": "studio lievito turns waste marble into modular, urban micro-architectural furniture",
       "url": "https://www.designboom.com/readers/studio-lievito-marmifere-carrara-marble-urban-furniture/",
       "excerpt": "paying homage to ugo la pietra’s radical experimentation and archizoom’s avant-garde vision, these sculptural stone elements encourage rest, play, and contemplation.\nThe post studio lievito turns wast",
@@ -269,16 +279,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
       "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z88Jv5uajipcw5R78vXaEH-1500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "tato architects turns a former bank into a reflective cinema in kyoto",
-      "url": "https://www.designboom.com/architecture/tato-architects-kyoto-minami-kaikan-building-light-cinema/",
-      "excerpt": "yo shimada transforms a former bank in kyoto with stainless-steel mesh, reflective surfaces and three distinct screening rooms.\nThe post tato architects turns a former bank into a reflective cinema in",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/391083/2026-08-16/kyoto-minami-kaikan-movie-theater-2-6a81740f726a2.jpg",
       "today": true
     },
     {
