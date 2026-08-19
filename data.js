@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  08:29",
+  "fetchedAt": "2026.08.19  09:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -165,6 +165,44 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Tivoli creates theme park Japanese neighbourhood in central Copenhagen",
+      "url": "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
+      "excerpt": "Danish amusement park Tivoli has unveiled Hikari, a new area informed by Japanese cities that features art by Takashi Murakami and was designed to be \"genuinely respectful of its origin\". The 2,000-sq",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "katerina shukshina’s shoes bloom straight from the garden",
+      "url": "https://www.designboom.com/art/katerina-shukshina-shoes-bloom-garden/",
+      "excerpt": "from zucchini ballet flats to shoes covered in flowers and dandelion seed heads, the artist turns fleeting plant materials into playful studies of footwear.\nThe post katerina shukshina’s shoes bloom s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/katerina-shukshina-shoes-bloom-garden-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "twilight of corridors: how TAKK rethinks domestic architecture beyond fixed rooms",
+      "url": "https://www.designboom.com/architecture/life-after-rooms-how-barcelona-studio-takk-questions-domestic-architecture-we-call-home/",
+      "excerpt": "TAKK sees the home not as a neutral container, but as an infrastructure quietly shaping how — and with whom — we live.\nThe post twilight of corridors: how TAKK rethinks domestic architecture beyond fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/life-after-rooms-how-barcelona-studio-takk-questions-domestic-architecture-we-call-home-designboom-122-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "IKEA's most recent collection is an \"entry point\" for young collectors",
+      "url": "https://www.dezeen.com/2026/08/19/ikea-konstrunda-collection-collectible-design-art/",
+      "excerpt": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an aff",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -188,10 +226,19 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "tato architects turns kyoto minami kaikan into building that catches light like a cinema screen",
+      "title": "tato architects turns a former bank into a reflective cinema in kyoto",
       "url": "https://www.designboom.com/architecture/tato-architects-kyoto-minami-kaikan-building-light-cinema/",
-      "excerpt": "yo shimada transforms a former bank in kyoto with stainless-steel mesh, reflective surfaces and three distinct screening rooms.\nThe post tato architects turns kyoto minami kaikan into building that ca",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/391083/2026-08-16/kyoto-minami-kaikan-movie-theater-1-6a81740f7261e.jpg",
+      "excerpt": "yo shimada transforms a former bank in kyoto with stainless-steel mesh, reflective surfaces and three distinct screening rooms.\nThe post tato architects turns a former bank into a reflective cinema in",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/391083/2026-08-16/kyoto-minami-kaikan-movie-theater-2-6a81740f726a2.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "SESC Pompéia indoor pond replicated for Lina Bo Bardi exhibition in Shanghai",
+      "url": "https://www.dezeen.com/2026/08/19/lina-bo-bardi-exhibition-open-architecture-shanghai/",
+      "excerpt": "International studio Open Architecture drew on Lina Bo Bardi's own designs when creating The Poetics of Survival, the first major exhibition of the architect's work in China. The studio centred the ex",
       "today": true
     },
     {
@@ -283,16 +330,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "andré wendland pulls back the curtain on everyday spectacle for berlin art week 2026",
-      "url": "https://www.designboom.com/art/andre-wendland-pulls-back-the-curtain-on-everyday-spectacle-for-berlin-art-week/",
-      "excerpt": "hands disappear, puppets perform and ordinary scenes get suspiciously good stage lighting.\nThe post andré wendland pulls back the curtain on everyday spectacle for berlin art week 2026 appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467690/2026-08-17/on-stage-designing-the-mechanics-of-illusion-and-everyday-spectacle-1-6a832e8d8079e.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -300,15 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/travel-events/merit-beauty-the-ritz-carlton-collaboration",
       "excerpt": "Merit’s beauty essentials arrive at The Ritz-Carlton through Club Lounge carts, in-room kits and turndown amenities",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fZXHRJPpZwxEfpnxgn6ayV-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Berthold Lubetkin's Finsbury Health Centre reimagining among projects by University of Nottingham",
-      "url": "https://www.dezeen.com/2026/08/18/berthold-lubetkin-finsbury-health-centre-architecture-projects-university-of-nottingham-schoolshows/",
-      "excerpt": "Dezeen School Shows: a project aiming to optimise architect Berthold Lubetkin's Grade I-listed Finsbury Health Centre for 21st-century users is among those by the University of Nottingham. Also includ",
       "today": false
     },
     {
@@ -322,16 +350,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "reza raeisifar and saber abar stack steel spheres into chairs, lamps and pet homes",
-      "url": "https://www.designboom.com/design/reza-raeisifar-saber-abar-steel-spheres-chairs-lamps-pet-homes/",
-      "excerpt": "the polished spheres leave the railing behind to begin a surprisingly ambitious second life.\nThe post reza raeisifar and saber abar stack steel spheres into chairs, lamps and pet homes appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466605/2026-08-17/wishes-collection-1-6a833ac9b39a3.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.18",
@@ -339,24 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
       "excerpt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship betwe",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5092/3cf9/6c00/0178/3399/large_jpg/0Z7A7804-1.jpg?1786990948",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
-      "url": "https://www.dezeen.com/2026/08/18/atelier-vens-vanbelle-project-tomas-katrien/",
-      "excerpt": "A brick cube reminiscent of old industrial structures forms this family home in the suburbs of Ghent, designed by Belgian architecture studio Atelier Vens Vanbelle. Named Project Tomas & Katrien after",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Barbican and Made.com launch homeware collection celebrating iconic London estate",
-      "url": "https://www.dezeen.com/2026/08/18/barbican-made-homeware/",
-      "excerpt": "The Barbican Centre shop has launched a homeware collection with online retailer Made.com, which includes furniture and lighting modelled on details of the brutalist housing complex in central London.",
       "today": false
     },
     {
