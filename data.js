@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  07:33",
+  "fetchedAt": "2026.08.19  08:29",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -168,6 +168,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
+      "title": "Studio Mehta's Kenyan retreat is luxuriously built using local and recycled materials",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya",
+      "excerpt": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gF4N3FTB2xuYDzsU33vUNH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.19",
       "title": "An essential directory of Anna Castelli Ferrieri's most notable designs",
       "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
       "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
@@ -329,16 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
       "excerpt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship betwe",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5092/3cf9/6c00/0178/3399/large_jpg/0Z7A7804-1.jpg?1786990948",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Get your hands on rare Comme des Garçons with this landmark auction",
-      "url": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
-      "excerpt": "Octavius La Rosa, founder of Dot Comme and one of the world’s most prolific Comme des Garçons collectors, is selling 265 rare pieces as part of a landmark sale this September in London with Kerry Tayl",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Nc8giNaczEmwUES33knKnR-1539-80.jpg",
       "today": false
     },
     {
