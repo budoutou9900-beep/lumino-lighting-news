@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  15:25",
+  "fetchedAt": "2026.08.19  16:24",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "倉敷経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "倉敷経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -96,16 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "倉敷経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.19",
-      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
-      "url": "https://kurashiki.keizai.biz/headline/1014/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
-      "today": true
-    },
-    {
       "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.19",
@@ -113,6 +103,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "倉敷経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.19",
+      "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
+      "url": "https://kurashiki.keizai.biz/headline/1014/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/kurashiki_keizai/headline/1577251693_photo.jpg",
       "today": true
     },
     {
@@ -162,6 +162,35 @@ window.LUMINO_DATA = {
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
       "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "The Fairphone (Gen. 6+) puts best tech practice in your pocket without compromise",
+      "url": "https://www.wallpaper.com/tech/the-fairphone-gen-6-puts-best-tech-practice-in-your-pocket-without-compromise",
+      "excerpt": "Fairphone favours a more accountable approach to sourcing, building and selling smartphones. The company’s new Fairphone (Gen. 6+) is the most complete manifestation of its ethos to date",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/adEX2hoPrWMtsVxwHqfdwh-1333-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "dp6 adds timber painter’s studio to renovated home in the netherlands",
+      "url": "https://www.designboom.com/architecture/timber-painters-studio-garden-dp6s-home-renovation-netherlands/",
+      "excerpt": "behind its canal-facing façade, the home quietly turns its back on the city to make room for art, greenery and light.\nThe post dp6 adds timber painter’s studio to renovated home in the netherlands app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466476/2026-08-14/rear-house-and-painters-studio-delft-the-netherlands-1-6a7efa43b3c82.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Schaum Architects to lead restoration of Donald Judd's Artillery Sheds in Texas",
+      "url": "https://www.dezeen.com/2026/08/19/schaum-architects-restoration-donald-judd-artillery-sheds-texas/",
+      "excerpt": "Texas studio Schaum Architects has joined a team of restorers to work on the two massive Artillery Sheds at the Chinati Foundation, the museum artist Donald Judd set up in Marfa to act as permanent st",
       "today": true
     },
     {
@@ -291,25 +320,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "twilight of corridors: how TAKK rethinks domestic architecture beyond fixed rooms",
-      "url": "https://www.designboom.com/architecture/life-after-rooms-how-barcelona-studio-takk-questions-domestic-architecture-we-call-home/",
-      "excerpt": "TAKK sees the home not as a neutral container, but as an infrastructure quietly shaping how — and with whom — we live.\nThe post twilight of corridors: how TAKK rethinks domestic architecture beyond fi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/life-after-rooms-how-barcelona-studio-takk-questions-domestic-architecture-we-call-home-designboom-122-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "IKEA launches collectible design objects \"at a price that people can afford\"",
-      "url": "https://www.dezeen.com/2026/08/19/ikea-konstrunda-collection-collectible-design-art/",
-      "excerpt": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an aff",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -347,16 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
       "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z88Jv5uajipcw5R78vXaEH-1500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "The Savoy reaffirms its place as one of London’s great hotels",
-      "url": "https://www.wallpaper.com/travel/hotels/the-savoy-london-review",
-      "excerpt": "From Monet to Monroe, The Savoy has hosted them all; now G.A Group brings its Edwardian and Art Deco rooms into a new era",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pAA2cf34WmTaS5AjHa9qQ9-1600-80.jpg",
       "today": true
     },
     {
