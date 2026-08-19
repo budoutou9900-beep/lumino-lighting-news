@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  16:24",
+  "fetchedAt": "2026.08.19  17:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "鉄道ファン・railf.jp": {
+    "山陽新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -125,43 +125,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.19",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.19",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
-      "source": "高松経済新聞",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.08.19",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "title": "ZHA to thread sprawling ‘baku expo city’ through pine forest in azerbaijan",
+      "url": "https://www.designboom.com/architecture/zha-baku-expo-city-pine-forest-azerbaijan-zaha-hadid/",
+      "excerpt": "ZHA plans its 'baku expo city' masterplan in azerbaijan around preserved pines and streets shaped by prevailing winds.\nThe post ZHA to thread sprawling ‘baku expo city’ through pine forest in azerbaij",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ZHA-zaha-hadid-architects-baku-masterplan-azerbaijan-designboom-FB.jpg",
       "today": true
     },
     {
@@ -210,6 +210,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/donald-judd-artillery-sheds-restoration-marfa",
       "excerpt": "After dealing with decades of dirt and leaks, the artillery sheds at the Chinati Foundation in Marfa, Texas are about to receive a surgical renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iqmPix732iKDFiUMWsuJBB-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Bruce Springsteen Center for American Music / COOKFOX",
+      "url": "https://www.archdaily.com/1183556/bruce-springsteen-center-for-american-music-cookfox",
+      "excerpt": "The Bruce Springsteen Center for American Music is dedicated to telling the story of music in this country and celebrating Bruce Springsteen's contributions to that tradition. COOKFOX's design seeks t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/f970/ab59/ca50/3d3d/2996/large_jpg/bruce-springsteen-center-for-american-music-cookfox_1.jpg?1787099524",
       "today": true
     },
     {
@@ -310,16 +320,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "katerina shukshina’s shoes bloom straight from the garden",
-      "url": "https://www.designboom.com/art/katerina-shukshina-shoes-bloom-garden/",
-      "excerpt": "from zucchini ballet flats to shoes covered in flowers and dandelion seed heads, the artist turns fleeting plant materials into playful studies of footwear.\nThe post katerina shukshina’s shoes bloom s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/katerina-shukshina-shoes-bloom-garden-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -337,16 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183300/the-prototype-as-a-method-takk-salazarsequeromedina-and-ensamble-studio",
       "excerpt": "Architectural prototypes are often used to test decisions before construction begins. But in some practices, prototyping begins while those decisions are still taking shape. Moving an idea from drawin",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/a718/ab59/ca01/8994/5079/large_jpg/the-prototype-as-a-method-takk-salazarsequeromedina-and-ensamble-studio_4.jpg?1786685215",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "House Gapfohl / Bernardo Bader Architekten",
-      "url": "https://www.archdaily.com/1183261/house-gapfohl-bernardo-bader-architekten",
-      "excerpt": "The architectural concept of the primordial hut can be traced back to Vitruvius. As an idealized model of the natural dwelling, it had a profound influence on architectural theory in the eighteenth ce",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/d90b/3cf9/6c00/0178/271a/large_jpg/274_Haus_Gapfohl_Laterns_18_Gustav_Willeit.jpg?1786632517",
       "today": true
     },
     {
