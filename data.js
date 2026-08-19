@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  13:39",
+  "fetchedAt": "2026.08.19  14:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -92,7 +92,6 @@ window.LUMINO_DATA = {
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -106,7 +105,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.08.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -223,6 +222,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Crossing Grounds: Art, Design, & Technology",
+      "url": "https://www.archdaily.com/1183594/crossing-grounds-art-design-and-technology",
+      "excerpt": "Crossing Grounds: Art, Design, and Technology brings together 16 research projects by 22 artists, architects, designers, scientists, engineers, and technologists from across the Georgia Institute of T",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/a6b4/4253/0500/01c9/f376/large_jpg/KF_CrossingGround_Motion_v05-ezgif.com-video-to-gif-converter.jpg?1787143868",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -255,7 +264,7 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "IKEA's most recent collection is an \"entry point\" for young collectors",
+      "title": "IKEA launches collectible design objects \"at a price that people can afford\"",
       "url": "https://www.dezeen.com/2026/08/19/ikea-konstrunda-collection-collectible-design-art/",
       "excerpt": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an aff",
       "today": true
@@ -294,20 +303,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "NCARB 2026 Report Shows a More Diverse Candidate Pool Amid Persistent Gaps in Architecture Licensure",
-      "url": "https://www.archdaily.com/1183568/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure",
-      "excerpt": "The National Council of Architectural Registration Boards (NCARB) has released the 2026 edition of its annual NCARB by the Numbers report, presenting data from 2025 on architectural licensure and demo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7cb7/ab59/ca01/8994/5ef6/large_jpg/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure_1.jpg?1787133122",
+      "title": "Why Travel (still) Shapes the Way Architects Think",
+      "url": "https://www.archdaily.com/1182468/why-travel-still-shapes-the-way-architects-think",
+      "excerpt": "Between the eighteenth and nineteenth centuries, traveling through Rome, Paris, Venice, Florence, and other European cities was considered an essential part of a newly graduated architect's education.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/bac9/ab59/ca01/8994/41f6/large_jpg/the-timeless-tradition-every-architect-should-experience_1.jpg?1786362598",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "Private house in La Claye / atelier iso architectes",
-      "url": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
-      "excerpt": "The project is located in the village of La Claye, on a 300 m² corner plot that had long remained vacant, forming a gap within the existing urban fabric. Formerly attached to the neighboring property,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/df79/3cf9/6c00/0178/2ac4/large_jpg/La_Claye_SD-3_copie.jpg?1786699665",
+      "title": "NCARB 2026 Report Shows a More Diverse Candidate Pool Amid Persistent Gaps in Architecture Licensure",
+      "url": "https://www.archdaily.com/1183568/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure",
+      "excerpt": "The National Council of Architectural Registration Boards (NCARB) has released the 2026 edition of its annual NCARB by the Numbers report, presenting data from 2025 on architectural licensure and demo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7cb7/ab59/ca01/8994/5ef6/large_jpg/ncarb-2026-report-shows-a-more-diverse-candidate-pool-amid-persistent-gaps-in-architecture-licensure_1.jpg?1787133122",
       "today": true
     },
     {
@@ -318,16 +327,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
       "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z88Jv5uajipcw5R78vXaEH-1500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "The Ukrainian Pavilion Examines Displacement and Shared Space Through \"Pool of Questions\" at the 2027 Venice Architecture Biennale",
-      "url": "https://www.archdaily.com/1183552/the-ukrainian-pavilion-examines-displacement-and-shared-space-through-pool-of-questions-at-the-2027-venice-architecture-biennale",
-      "excerpt": "The Ukrainian pavilion at the 20th International Architecture Exhibition – La Biennale di Venezia is being designed by the team from CO-HATY, a local volunteer initiative restoring abandoned buildings",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/c527/ac8b/af01/892c/d438/large_jpg/ukraine-pavilion-at-the-2027-venice-biennale_9.jpg?1787086123",
       "today": true
     },
     {
