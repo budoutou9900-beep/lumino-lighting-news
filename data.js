@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  20:20",
+  "fetchedAt": "2026.08.19  21:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -151,6 +151,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "when the water rises, these amphibious homes rise and float with it",
+      "url": "https://www.designboom.com/architecture/water-rises-amphibious-homes-float/",
+      "excerpt": "amphibious homes across the world move with the water as changing climates challenge the idea of fixed ground.\nThe post when the water rises, these amphibious homes rise and float with it appeared fir",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/amphibious-houses-modes-habitation-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -218,6 +228,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Chocó Pambil Refuge / Minqa Atelier",
+      "url": "https://www.archdaily.com/1183631/choco-pambil-refuge-minqa-atelier",
+      "excerpt": "Chocó Pambil Refuge transforms a challenging slope into the spatial structure of a minimal house within the forest.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/8093/4253/0500/01c9/ef48/large_jpg/Exterior_2.jpg?1787068604",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -254,16 +274,6 @@ window.LUMINO_DATA = {
       "title": "Demountable timber library in Amsterdam is \"a living room for the neighbourhood\"",
       "url": "https://www.dezeen.com/2026/08/19/oba-next-lab-matter-makers-awr-baz/",
       "excerpt": "Stepped, pastel-pink seating spills out from inside the OBA Next Lab library and community space in Amsterdam, designed by Dutch architecture practices Matter Makers, AWR and BAZ Studio as a public li",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "studio lievito turns waste marble into modular, urban micro-architectural furniture",
-      "url": "https://www.designboom.com/readers/studio-lievito-marmifere-carrara-marble-urban-furniture/",
-      "excerpt": "paying homage to ugo la pietra’s radical experimentation and archizoom’s avant-garde vision, these sculptural stone elements encourage rest, play, and contemplation.\nThe post studio lievito turns wast",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466972/2026-08-16/studio-lievito-unveils-marmifere-monolithic-micro-architectural-pieces-for-spaces-of-modern-life-9-6a81ff640db15.jpg",
       "today": true
     },
     {
@@ -323,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya",
       "excerpt": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gF4N3FTB2xuYDzsU33vUNH-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "The Prototype as a Method: TAKK, salazarsequeromedina, and Ensamble Studio",
-      "url": "https://www.archdaily.com/1183300/the-prototype-as-a-method-takk-salazarsequeromedina-and-ensamble-studio",
-      "excerpt": "Architectural prototypes are often used to test decisions before construction begins. But in some practices, prototyping begins while those decisions are still taking shape. Moving an idea from drawin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/a718/ab59/ca01/8994/5079/large_jpg/the-prototype-as-a-method-takk-salazarsequeromedina-and-ensamble-studio_4.jpg?1786685215",
       "today": true
     },
     {
