@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.18  23:16",
+  "fetchedAt": "2026.08.19  00:54",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,72 +13,68 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -88,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -98,7 +94,7 @@ window.LUMINO_DATA = {
     {
       "source": "倉敷経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "倉敷・大原美術館がLEDスポット照明初導入 より良い鑑賞環境創出へ",
       "url": "https://kurashiki.keizai.biz/headline/1014/",
       "excerpt": "",
@@ -106,9 +102,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -116,19 +112,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.18",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -138,7 +124,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -147,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -157,7 +143,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.18",
+      "date": "2026.08.19",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -171,7 +157,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/gloriously-inappropriate-cartoon-modern-toss-marks-21-years",
       "excerpt": "Mick Bunnage and Jon Link celebrate 21 years of Modern Toss with a London exhibition of sweary cartoons, workplace rage and magnificently bad behaviour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZeXFb2i42WvmnD7mVcB79Q.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -180,7 +166,7 @@ window.LUMINO_DATA = {
       "title": "OMA completes first US affordable housing development in San Francisco",
       "url": "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
       "excerpt": "The New York office of OMA and local practice YA Studio have arranged a 160-home apartment block in San Francisco, California, around multiple courtyards. Named 730 Stanyan, the development is OMA's f",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -189,7 +175,7 @@ window.LUMINO_DATA = {
       "title": "Photos reveal new facade of Google's Thompson Center",
       "url": "https://www.dezeen.com/2026/08/18/thompson-center-google-jahn-chicago-new-facade/",
       "excerpt": "The Thompson Center in downtown Chicago has been given a new facade as part of a renovation for tech company Google by architecture studio Jahn. Photos taken earlier this month show the largely comple",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -199,7 +185,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/lincoln-sunset-interiors-2027-nautilus-monterey-refresh/",
       "excerpt": "designboom experiences lincoln’s multisensory 'rejuvenate' meditation and talks and automotive design with christine park cheng.\nThe post we step inside lincoln’s refreshed 2027 nautilus, a sunset-ton",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2027-lincoln-nautilus-black-label-monterey-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -209,7 +195,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/andre-wendland-pulls-back-the-curtain-on-everyday-spectacle-for-berlin-art-week/",
       "excerpt": "hands disappear, puppets perform and ordinary scenes get suspiciously good stage lighting.\nThe post andré wendland pulls back the curtain on everyday spectacle for berlin art week 2026 appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467690/2026-08-17/on-stage-designing-the-mechanics-of-illusion-and-everyday-spectacle-1-6a832e8d8079e.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -219,7 +205,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/travel-events/merit-beauty-the-ritz-carlton-collaboration",
       "excerpt": "Merit’s beauty essentials arrive at The Ritz-Carlton through Club Lounge carts, in-room kits and turndown amenities",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fZXHRJPpZwxEfpnxgn6ayV-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -228,7 +214,7 @@ window.LUMINO_DATA = {
       "title": "Berthold Lubetkin's Finsbury Health Centre reimagining among projects by University of Nottingham",
       "url": "https://www.dezeen.com/2026/08/18/berthold-lubetkin-finsbury-health-centre-architecture-projects-university-of-nottingham-schoolshows/",
       "excerpt": "Dezeen School Shows: a project aiming to optimise architect Berthold Lubetkin's Grade I-listed Finsbury Health Centre for 21st-century users is among those by the University of Nottingham. Also includ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -238,7 +224,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183519/porfirio-building-viga-arquitectos",
       "excerpt": "PORFIRIO takes a clear stance on the consolidated city: to densify without losing identity. Located less than a hundred meters from Parque Hundido, the project recognizes not only an environmental val",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/25ac/3cf9/6c00/0178/3661/large_jpg/6_PORFIRIO_VIGAARQ_DRON_100__Christian_Ortega_.jpg?1787045349",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -248,7 +234,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/reza-raeisifar-saber-abar-steel-spheres-chairs-lamps-pet-homes/",
       "excerpt": "the polished spheres leave the railing behind to begin a surprisingly ambitious second life.\nThe post reza raeisifar and saber abar stack steel spheres into chairs, lamps and pet homes appeared first ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466605/2026-08-17/wishes-collection-1-6a833ac9b39a3.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -258,7 +244,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
       "excerpt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship betwe",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5092/3cf9/6c00/0178/3399/large_jpg/0Z7A7804-1.jpg?1786990948",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -268,7 +254,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183357/brugge-diptych-para",
       "excerpt": "Brugge Diptych is a temporary pavilion commissioned for the 2021 Brugge Triennale. Set along a quiet residential canal, it abuts an abandoned fifteenth-century house in a dense UNESCO-protected neighb",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/2422/3cf9/6c00/0178/2d75/large_jpg/StijnBollaert_approach_BR-DIPT-0253-2.jpg?1786717239",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -278,7 +264,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
       "excerpt": "Octavius La Rosa, founder of Dot Comme and one of the world’s most prolific Comme des Garçons collectors, is selling 265 rare pieces as part of a landmark sale this September in London with Kerry Tayl",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Nc8giNaczEmwUES33knKnR-1539-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -288,7 +274,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/hitotomori-emerging-japanese-architectural-studio",
       "excerpt": "Hitotomori, an emerging architecture studio from Japan, features in the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNggfZNecYmPkFHzDB7fT-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -298,7 +284,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/erik-kruug-way-living-land-water-netherlands-loosdrecht/",
       "excerpt": "homes, gardens, boats, and waterways come together to shape everyday life in the loosdrecht lakes, where habitation has developed around a landscape formed by centuries of peat extraction.\nThe post er",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/erik-kruug-way-living-land-water-netherlands-loosdrecht-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -307,7 +293,7 @@ window.LUMINO_DATA = {
       "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
       "url": "https://www.dezeen.com/2026/08/18/atelier-vens-vanbelle-project-tomas-katrien/",
       "excerpt": "A brick cube reminiscent of old industrial structures forms this family home in the suburbs of Ghent, designed by Belgian architecture studio Atelier Vens Vanbelle. Named Project Tomas & Katrien after",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -316,7 +302,7 @@ window.LUMINO_DATA = {
       "title": "Barbican and Made.com launch homeware collection celebrating iconic London estate",
       "url": "https://www.dezeen.com/2026/08/18/barbican-made-homeware/",
       "excerpt": "The Barbican Centre shop has launched a homeware collection with online retailer Made.com, which includes furniture and lighting modelled on details of the brutalist housing complex in central London.",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -326,7 +312,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/contemporary-orangery-georgia-ancient-botanical-mythology-hecates-garden/",
       "excerpt": "hecate's garden reinterprets ancient plant lore into a tactile glasshouse restaurant and self-cultivated orangery.\nThe post contemporary orangery reimagines ancient botanical mythology of hecate’s gar",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/hecate-garden-georgia-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -336,7 +322,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183224/inhabiting-the-stable-creation-of-an-apartment-within-the-agricultural-part-of-a-farmhouse-in-praz-pury-bard-yersin-architectes",
       "excerpt": "The project transforms part of the disused agricultural section of a 1930s farmhouse into an apartment. Farmhouses of this period in the canton of Fribourg follow a remarkably consistent archetype, th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/e946/3cf9/6c00/0178/2455/large_jpg/_DSC3750-Modifier-Modifier_copie.jpg?1786571201",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -346,7 +332,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/orsman-design-garage-hamptons",
       "excerpt": "The sought-after lighting designer Nathan Orsman has lit the homes of Oprah Winfrey, Stephen Colbert, and Marc Jacobs. An upcoming book celebrates his work in the last 15 years",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/F7AYtKqDYfjt8caNCb9FcY-2500-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -356,7 +342,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183404/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure",
       "excerpt": "Across the Gulf, Bedouin heritage often enters architecture first as an image. Airport terminals recall tent silhouettes, visitor centres incorporate woven screens, and pavilions reinterpret tradition",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/81ba/ab59/ca01/8994/55a8/large_jpg/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure_7.jpg?1786937797",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
