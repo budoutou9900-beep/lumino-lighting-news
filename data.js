@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.19  09:27",
+  "fetchedAt": "2026.08.19  10:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -165,12 +165,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "studio lievito turns waste marble into modular, urban micro-architectural furniture",
+      "url": "https://www.designboom.com/readers/studio-lievito-marmifere-carrara-marble-urban-furniture/",
+      "excerpt": "paying homage to ugo la pietra’s radical experimentation and archizoom’s avant-garde vision, these sculptural stone elements encourage rest, play, and contemplation.\nThe post studio lievito turns wast",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466972/2026-08-16/studio-lievito-unveils-marmifere-monolithic-micro-architectural-pieces-for-spaces-of-modern-life-9-6a81ff640db15.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Inside Paul Smith’s Nottingham archive, a treasure trove of British fashion",
+      "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-archive-nottingham",
+      "excerpt": "Wallpaper* takes a trip to Nottingham to discover Paul Smith’s career-spanning archive, which continues to inform the label’s collections today",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/P26Kwn8FwMWEjMozxeCT2J-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "the new role of luxury wallpaper shifts from final layer to starting point",
+      "url": "https://www.designboom.com/design/selected-wallpapers-and-interiors-luxury-wallcovering/",
+      "excerpt": "selected wallpapers treats wallcoverings as a craft itself, shifting the material from a finishing touch into a core architectural driver.\nThe post the new role of luxury wallpaper shifts from final l",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/selected-wallpapers_designboom_facebook.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.19",
       "title": "Tivoli creates theme park Japanese neighbourhood in central Copenhagen",
       "url": "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
       "excerpt": "Danish amusement park Tivoli has unveiled Hikari, a new area informed by Japanese cities that features art by Takashi Murakami and was designed to be \"genuinely respectful of its origin\". The 2,000-sq",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "ARB scraps two-year practice requirement for architectural registration in the UK",
+      "url": "https://www.dezeen.com/2026/08/19/arb-professional-practice-experience-news/",
+      "excerpt": "The Architects Registration Board has announced changes to its professional practice experience approach, which will see its two-year requirement of industry experience scrapped. Other changes include",
       "today": true
     },
     {
@@ -213,6 +252,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "Private house in La Claye / atelier iso architectes",
+      "url": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
+      "excerpt": "The project is located in the village of La Claye, on a 300 m² corner plot that had long remained vacant, forming a gap within the existing urban fabric. Formerly attached to the neighboring property,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/df79/3cf9/6c00/0178/2ac4/large_jpg/La_Claye_SD-3_copie.jpg?1786699665",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -230,6 +279,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/tato-architects-kyoto-minami-kaikan-building-light-cinema/",
       "excerpt": "yo shimada transforms a former bank in kyoto with stainless-steel mesh, reflective surfaces and three distinct screening rooms.\nThe post tato architects turns a former bank into a reflective cinema in",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/391083/2026-08-16/kyoto-minami-kaikan-movie-theater-2-6a81740f726a2.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "The Ukrainian Pavilion Examines Displacement and Shared Space Through \"Pool of Questions\" at the 2027 Venice Architecture Biennale",
+      "url": "https://www.archdaily.com/1183552/the-ukrainian-pavilion-examines-displacement-and-shared-space-through-pool-of-questions-at-the-2027-venice-architecture-biennale",
+      "excerpt": "The Ukrainian pavilion at the 20th International Architecture Exhibition – La Biennale di Venezia is being designed by the team from CO-HATY, a local volunteer initiative restoring abandoned buildings",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/c527/ac8b/af01/892c/d438/large_jpg/ukraine-pavilion-at-the-2027-venice-biennale_9.jpg?1787086123",
       "today": true
     },
     {
@@ -252,23 +311,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "bugatti destrier debuts at the quail with sculptural one-meter-tall one-off",
-      "url": "https://www.designboom.com/technology/bugatti-destrier-debut-quail-coachbuilt-hypercar-monterey-car-week-2026/",
-      "excerpt": "named for the armor-clad horses of medieval knights, the bugatti destrier turns a track-only hypercar into a coachbuilt commission.\nThe post bugatti destrier debuts at the quail with sculptural one-me",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/bugatti-destrier-quail-monterey-car-week-2026-designboom-FB.jpg",
+      "title": "How to Inhabit a Territory: 10 Houses Shaped by Argentina's Landscapes",
+      "url": "https://www.archdaily.com/1183399/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes",
+      "excerpt": "Argentina's vast territory reveals multiple ways of building shaped by its geographic, climatic, and cultural diversity. When designing single-family homes in Córdoba, Mendoza, Santa Fe, and Buenos Ai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/77c4/ac8b/af01/892c/d087/large_jpg/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes_26.jpg?1787000782",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.19",
-      "title": "House of  Rasing the Umbrella / Chaoffice",
-      "url": "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
-      "excerpt": "No one knows whether this house or the large trees in its courtyard appeared on the site first. Chinese scholar trees, persimmon trees, and ginkgo trees stood tall, their expansive canopies intertwini",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/bba7/3cf9/6c00/0178/2ffe/large_jpg/Zhu_Yumeng-07-web.jpg?1786952636",
+      "title": "Waankarn Restaurant / Studio Locomotive",
+      "url": "https://www.archdaily.com/1183528/waankarn-restaurant-studio-locomotive",
+      "excerpt": "Studio Locomotive realises the hospitality facility as a hyperlocal threshold that extends beyond conventional leisure. For the recreational diners visiting Khao Lak, the restaurant serves as an invit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/8c7d/ab59/ca01/8994/5cf6/large_jpg/waankarn-restaurant-studio-locomotive_2.jpg?1787071631",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.19",
+      "title": "House for Camping / Patchwork Architecture",
+      "url": "https://www.archdaily.com/1183518/house-for-camping-patchwork-architecture",
+      "excerpt": "Sited on the boundary of Abel Tasman National Park, this house sits a short distance from one of New Zealand's most celebrated coastlines, set within a regenerating beech-podocarp forest amongst matur",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/8993/ab59/ca01/8994/5cc7/large_jpg/house-for-camping-patchwork-architecture_21.jpg?1787070883",
       "today": true
     },
     {
@@ -288,75 +357,6 @@ window.LUMINO_DATA = {
       "title": "OMA completes first US affordable housing development in San Francisco",
       "url": "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
       "excerpt": "The New York office of OMA and local practice YA Studio have arranged a 160-home apartment block in San Francisco, California, around multiple courtyards. Named 730 Stanyan, the development is OMA's f",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "H1 House / Genovesi Arquitectos",
-      "url": "https://www.archdaily.com/1183525/h1-house-genovesi-arquitectos",
-      "excerpt": "Located on an infill lot in San Rafael, Mendoza, the house is inserted into a low-density urban fabric characterized by the presence of vegetation in both private courtyards and public spaces. In this",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/6802/4253/0500/01c9/eecc/large_jpg/Joaquin_Genovesi__Casa_H1__Low_Resolution____Luis_Abba__11_.jpg?1787062368",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Photos reveal new facade of Google's Thompson Center",
-      "url": "https://www.dezeen.com/2026/08/18/thompson-center-google-jahn-chicago-new-facade/",
-      "excerpt": "The Thompson Center in downtown Chicago has been given a new facade as part of a renovation for tech company Google by architecture studio Jahn. Photos taken earlier this month show the largely comple",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Caraçá Residence / 23 SUL",
-      "url": "https://www.archdaily.com/1183539/caraca-residence-23-sul",
-      "excerpt": "The preexisting single-story house did not accommodate the spatial needs of the new residents. It was necessary to add another floor, but we did not want to alter the original proportions of the const",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5c09/3cf9/6c00/0178/33f0/large_jpg/0354.23Sul.CasaCaraca-PKOK3501P.jpg?1786993894",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "we step inside lincoln’s refreshed 2027 nautilus, a sunset-toned sanctuary in monterey",
-      "url": "https://www.designboom.com/technology/lincoln-sunset-interiors-2027-nautilus-monterey-refresh/",
-      "excerpt": "designboom experiences lincoln’s multisensory 'rejuvenate' meditation and talks and automotive design with christine park cheng.\nThe post we step inside lincoln’s refreshed 2027 nautilus, a sunset-ton",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/2027-lincoln-nautilus-black-label-monterey-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Merit Beauty checks into The Ritz-Carlton for its first hospitality collaboration",
-      "url": "https://www.wallpaper.com/travel/travel-events/merit-beauty-the-ritz-carlton-collaboration",
-      "excerpt": "Merit’s beauty essentials arrive at The Ritz-Carlton through Club Lounge carts, in-room kits and turndown amenities",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fZXHRJPpZwxEfpnxgn6ayV-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Porfirio Building / ViGa Arquitectos",
-      "url": "https://www.archdaily.com/1183519/porfirio-building-viga-arquitectos",
-      "excerpt": "PORFIRIO takes a clear stance on the consolidated city: to densify without losing identity. Located less than a hundred meters from Parque Hundido, the project recognizes not only an environmental val",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/25ac/3cf9/6c00/0178/3661/large_jpg/6_PORFIRIO_VIGAARQ_DRON_100__Christian_Ortega_.jpg?1787045349",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.18",
-      "title": "Damata House / Melina Romano",
-      "url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
-      "excerpt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship betwe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/5092/3cf9/6c00/0178/3399/large_jpg/0Z7A7804-1.jpg?1786990948",
       "today": false
     },
     {
