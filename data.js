@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  08:31",
+  "fetchedAt": "2026.08.20  09:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,23 +33,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -165,6 +165,44 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "konstantinos gournas turns reclaimed marble sink into a mobile wash station",
+      "url": "https://www.designboom.com/design/konstantinos-gournas-turns-reclaimed-marble-sink-into-a-mobile-wash-station/",
+      "excerpt": "reclaimed marble and stainless steel turn a fixed domestic sink into a mobile wash station.\nThe post konstantinos gournas turns reclaimed marble sink into a mobile wash station appeared first on desig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/455741/2026-08-19/mgcp-transforms-a-reclaimed-marble-sink-into-ws-wash-station-4-6a85c59543a11.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Groninger Museum \"deserves to be more famous\" says artistic director Roos Gortzak",
+      "url": "https://www.dezeen.com/2026/08/20/groninger-museum-roos-gortzak-interview/",
+      "excerpt": "With a renewed focus on contemporary art, Groninger Museum artistic director Roos Gortzak is seeking closer connection between the extraordinary postmodern building, she says in this interview. \"I thi",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "3D printed banjo uses party balloon as its sound box to explore how air changes the tone",
+      "url": "https://www.designboom.com/design/3d-printed-banjo-party-balloon-sound-box-air-tone-cocreation-lab/",
+      "excerpt": "the playful DIY instrument can be assembled from 19 printed pieces, then modified with different balloons and strings to test how its acoustic character shifts.\nThe post 3D printed banjo uses party ba",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/3d-printed-banjo-party-balloon-sound-box-air-tone-cocreation-lab-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Zara flagship store in Shanghai reflects \"the future of physical retail\"",
+      "url": "https://www.dezeen.com/2026/08/20/aim-architecture-zara-flagship-shanghai/",
+      "excerpt": "AIM Architecture has designed Zara Huaihai Road, a flagship store for the Spanish fashion brand in Shanghai, with an amphitheatre-like brick podium that connects the building with the street. Located ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -182,6 +220,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/doshi-levien-hay-textiles-dori-collection",
       "excerpt": "The new ‘Dori’ collection by Doshi Levien for Danish brand Hay is inspired by the tactility of embroidered Indian fabrics and informed by the studio's extensive colour research",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NpvV6khzscGgQFKtp4cTm3-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Xiang Architects creates steel double-helix viewpoint for bird watching in China",
+      "url": "https://www.dezeen.com/2026/08/20/chenhu-migratory-bird-observation-tower-xiang-architects/",
+      "excerpt": "Architecture studio Xiang Architects has unveiled a multi-stair observation tower within the Chenhu Wetland bird sanctuary near Wuhan City, China. Named the Chenhu Migratory Bird Observation Tower, th",
       "today": true
     },
     {
@@ -304,31 +351,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "dp6 adds timber painter’s studio to renovated home in the netherlands",
-      "url": "https://www.designboom.com/architecture/timber-painters-studio-garden-dp6s-home-renovation-netherlands/",
-      "excerpt": "behind its canal-facing façade, the home quietly turns its back on the city to make room for art, greenery and light.\nThe post dp6 adds timber painter’s studio to renovated home in the netherlands app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/466476/2026-08-14/rear-house-and-painters-studio-delft-the-netherlands-1-6a7efa43b3c82.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.19",
       "title": "Schaum Architects to lead restoration of Donald Judd's Artillery Sheds in Texas",
       "url": "https://www.dezeen.com/2026/08/19/schaum-architects-restoration-donald-judd-artillery-sheds-texas/",
       "excerpt": "Texas studio Schaum Architects has joined a team of restorers to work on the two massive Artillery Sheds at the Chinati Foundation, the museum artist Donald Judd set up in Marfa to act as permanent st",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Proposal tackling European eel decline among projects from University of Nottingham",
-      "url": "https://www.dezeen.com/2026/08/19/proposal-tackling-european-eel-decline-among-projects-from-university-of-nottingham-schoolshows/",
-      "excerpt": "Dezeen School Shows: a restorative infrastructure designed to support eel habitats among projects from the University of Nottingham. Also featured are artist housing and studios in Hull, and a circula",
       "today": false
     },
     {
@@ -339,34 +367,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/donald-judd-artillery-sheds-restoration-marfa",
       "excerpt": "After dealing with decades of dirt and leaks, the artillery sheds at the Chinati Foundation in Marfa, Texas are about to receive a surgical renovation",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iqmPix732iKDFiUMWsuJBB-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "the nakagin capsule tower and the dream of a home that could change",
-      "url": "https://www.designboom.com/architecture/nakagin-capsule-tower-dream-home-change-kisho-kurokawa-tokyo/",
-      "excerpt": "the nakagin capsule tower turned metabolist ideas about impermanence into a building of replaceable living pods. \nThe post the nakagin capsule tower and the dream of a home that could change appeared ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/nakagin-capsule-tower-home-change-stuck-time-kisho-kurokawa-tokyo-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Demountable timber library in Amsterdam is \"a living room for the neighbourhood\"",
-      "url": "https://www.dezeen.com/2026/08/19/oba-next-lab-matter-makers-awr-baz/",
-      "excerpt": "Stepped, pastel-pink seating spills out from inside the OBA Next Lab library and community space in Amsterdam, designed by Dutch architecture practices Matter Makers, AWR and BAZ Studio as a public li",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Tivoli creates theme park Japanese neighbourhood in central Copenhagen",
-      "url": "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
-      "excerpt": "Danish amusement park Tivoli has unveiled Hikari, a new area informed by Japanese cities that features art by Takashi Murakami and was designed to be \"genuinely respectful of its origin\". The 2,000-sq",
       "today": false
     },
     {
