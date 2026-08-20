@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  09:28",
+  "fetchedAt": "2026.08.20  10:23",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "レッツエンジョイ東京": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,41 +37,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "岩崎電気": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -155,13 +151,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.20",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "title": "Brad Pitt brought on as executive producer for Peter Zumthor documentary",
+      "url": "https://www.dezeen.com/2026/08/20/brad-pitt-from-inside-out-peter-zumthor-documentary/",
+      "excerpt": "American actor Brad Pitt has joined German filmmaker Wim Wenders on the production of a documentary exploring the works of Swiss architect Peter Zumthor. Set to premiere at the Venice Film Festival ne",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "uncovering furniture and interior concepts that prioritize identity over uniformity",
+      "url": "https://www.designboom.com/design/a-design-award-and-competition-winner-furniture-interior-concepts/",
+      "excerpt": "discover the A’ design award and competition stand-out projects and learn how to submit your work for the upcoming 2027 edition. \nThe post uncovering furniture and interior concepts that prioritize id",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adesign-awards_designboom_facebook.jpg",
       "today": true
     },
     {
@@ -237,7 +242,7 @@ window.LUMINO_DATA = {
       "date": "2026.08.20",
       "title": "Tour a treetop home peeking through Brazil’s leafy canopies",
       "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-treetop-home-brazil",
-      "excerpt": "In this Upstate São Paulo treetop home by Jacobsen Arquitectura, you can live both in the forest and by the sea",
+      "excerpt": "In this Upstate São Paulo treetop home by Jacobsen Studio, you can live both in the forest and by the sea",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QHpBpMVsoSThWs83MU3T3C-2006-80.jpg",
       "today": true
     },
@@ -331,16 +336,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "ZHA to thread sprawling ‘baku expo city’ through pine forest in azerbaijan",
-      "url": "https://www.designboom.com/architecture/zha-baku-expo-city-pine-forest-azerbaijan-zaha-hadid/",
-      "excerpt": "ZHA plans its 'baku expo city' masterplan in azerbaijan around preserved pines and streets shaped by prevailing winds.\nThe post ZHA to thread sprawling ‘baku expo city’ through pine forest in azerbaij",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ZHA-zaha-hadid-architects-baku-masterplan-azerbaijan-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -348,15 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/the-fairphone-gen-6-puts-best-tech-practice-in-your-pocket-without-compromise",
       "excerpt": "Fairphone favours a more accountable approach to sourcing, building and selling smartphones. The company’s new Fairphone (Gen. 6+) is the most complete manifestation of its ethos to date",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/adEX2hoPrWMtsVxwHqfdwh-1333-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Schaum Architects to lead restoration of Donald Judd's Artillery Sheds in Texas",
-      "url": "https://www.dezeen.com/2026/08/19/schaum-architects-restoration-donald-judd-artillery-sheds-texas/",
-      "excerpt": "Texas studio Schaum Architects has joined a team of restorers to work on the two massive Artillery Sheds at the Chinati Foundation, the museum artist Donald Judd set up in Marfa to act as permanent st",
       "today": false
     },
     {
