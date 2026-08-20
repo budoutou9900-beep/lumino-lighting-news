@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  07:36",
+  "fetchedAt": "2026.08.20  08:31",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -168,6 +168,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
+      "title": "In transit: Anya Hindmarch has travel all mapped out",
+      "url": "https://www.wallpaper.com/travel/in-transit-with-fashion-accessories-designer-anya-hindmarch",
+      "excerpt": "For the English fashion accessories designer, every journey begins with curiosity, careful packing and a touch of the plane for luck",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WL8vYzskvPocxJ3heFaa9E-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
       "title": "Doshi Levien’s first textile accessories collection for Hay is a contemporary take on Indian embroidery",
       "url": "https://www.wallpaper.com/design-interiors/doshi-levien-hay-textiles-dori-collection",
       "excerpt": "The new ‘Dori’ collection by Doshi Levien for Danish brand Hay is inspired by the tactility of embroidered Indian fabrics and informed by the studio's extensive colour research",
@@ -182,6 +192,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-treetop-home-brazil",
       "excerpt": "In this Upstate São Paulo treetop home by Jacobsen Arquitectura, you can live both in the forest and by the sea",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QHpBpMVsoSThWs83MU3T3C-2006-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Casa PR21 / Alventosa Morell Arquitectes",
+      "url": "https://www.archdaily.com/1183443/casa-pr21-alventosa-morell-arquitectes",
+      "excerpt": "Built on a narrow terraced plot facing the sea in Badalona, Casa PR21 occupies the full width of the site and unfolds across four stories and an accessible roof terrace. Designed for a family of three",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/20a1/ac8b/af61/0825/41ff/large_jpg/casa-pr21-alventosa-morell-arquitectes_2.jpg?1786978481",
       "today": true
     },
     {
@@ -312,16 +332,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Chocó Pambil Refuge / Minqa Atelier",
-      "url": "https://www.archdaily.com/1183631/choco-pambil-refuge-minqa-atelier",
-      "excerpt": "Chocó Pambil Refuge transforms a challenging slope into the spatial structure of a minimal house within the forest.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/8093/4253/0500/01c9/ef48/large_jpg/Exterior_2.jpg?1787068604",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -348,16 +358,6 @@ window.LUMINO_DATA = {
       "title": "Demountable timber library in Amsterdam is \"a living room for the neighbourhood\"",
       "url": "https://www.dezeen.com/2026/08/19/oba-next-lab-matter-makers-awr-baz/",
       "excerpt": "Stepped, pastel-pink seating spills out from inside the OBA Next Lab library and community space in Amsterdam, designed by Dutch architecture practices Matter Makers, AWR and BAZ Studio as a public li",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Inside Paul Smith’s Nottingham archive, a treasure trove of British fashion",
-      "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-archive-nottingham",
-      "excerpt": "Wallpaper* takes a trip to Nottingham to discover Paul Smith’s career-spanning archive, which continues to inform the label’s collections today",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/P26Kwn8FwMWEjMozxeCT2J-1539-80.jpg",
       "today": false
     },
     {
