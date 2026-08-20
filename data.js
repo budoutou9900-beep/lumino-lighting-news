@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  11:21",
+  "fetchedAt": "2026.08.20  12:35",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -148,6 +148,16 @@ window.LUMINO_DATA = {
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
       "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Want to try on Stanley Kubrick’s sunglasses for size? Jacques Marie Mage is reissuing them",
+      "url": "https://www.wallpaper.com/fashion-beauty/jacques-marie-mage-sunglasses-stanley-kubrick",
+      "excerpt": "The American eyewear brand continues its ongoing collaboration with the filmmaker’s estate by reissuing two pairs of sunglasses inspired by two of Kubrick’s seminal decades – the 1940s and the 1980s",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/waBKec8fC966xX4UPX3vuY-1600-80.jpg",
       "today": true
     },
     {
@@ -247,6 +257,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "The Public Kitchen: How Asian Markets Turn Eating Into Civic Life",
+      "url": "https://www.archdaily.com/1183562/the-public-kitchen-how-asian-markets-turn-eating-into-civic-life",
+      "excerpt": "In many Asian cities, eating has never belonged entirely to the private home. It spills into markets, hawker centers, street stalls, and wholesale districts embedded within larger buildings or areas. ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/4446/ac8b/af01/892c/d513/large_jpg/the-public-kitchen-food-courts-and-hawker-centers-as-civic-infrastructure-in-apac-cities_1.jpg?1787118673",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Chenhu Migratory Bird Observation Tower / Xiang Architects",
+      "url": "https://www.archdaily.com/1183561/chenhu-migratory-bird-observation-tower-xiang-architects",
+      "excerpt": "Situated within Wuhan's Chenhu Wetland, the Migratory Bird Observation Tower is perched on Xianglushan, a natural promontory rising 22 metres above sea level. This vantage point offers sweeping views ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/29e9/ab59/ca01/8994/5e85/large_jpg/chenhu-migratory-bird-observation-tower-xiang-architects_5.jpg?1787111921",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Lina Bo Bardi's First Exhibition in China and GXN's Reclaimed-Material Community Space: This Week's Review",
+      "url": "https://www.archdaily.com/1183601/lina-bo-bardis-first-exhibition-in-china-and-gxns-reclaimed-material-community-space-this-weeks-review",
+      "excerpt": "This week's stories explore how architecture engages with questions of culture, access, and collective life, from new cultural institutions and exhibitions to public spaces and housing. This week, the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b2a3/ac8b/af01/892c/d743/large_jpg/lina-bo-bardis-first-china-exhibition-and-gxns-reclaimed-material-community-space-this-weeks-review_4.jpg?1787146923",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -254,6 +294,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/doshi-levien-hay-textiles-dori-collection",
       "excerpt": "The new ‘Dori’ collection by Doshi Levien for Danish brand Hay is inspired by the tactility of embroidered Indian fabrics and informed by the studio's extensive colour research",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NpvV6khzscGgQFKtp4cTm3-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Centro Piacentiniano / CN10 architetti",
+      "url": "https://www.archdaily.com/1183569/centro-piacentiniano-cn10-architetti",
+      "excerpt": "The project was based on an extensive preliminary analysis which combined the study, mapping and measurement of the material city (shapes, stratifications, layouts, measurements, constituent elements ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7e40/4253/0500/01c9/f201/large_jpg/CPBG_Albo-42.jpg?1787133562",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "ZHA Designs 198-Hectare Urban District Around Baku Expo Center in Azerbaijan",
+      "url": "https://www.archdaily.com/1183649/zha-designs-198-hectare-urban-district-around-baku-expo-center-in-azerbaijan",
+      "excerpt": "ZHA has been selected to design a new 198-hectare urban district in Baku, Azerbaijan. The project surrounds the existing Baku Expo Center events venue in a pine forest area that is planned to be prese",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/3763/ac8b/af01/892c/da99/large_jpg/zha-has-been-selected-to-design-the-baku-expo-city-masterplan_3.jpg?1787180910",
       "today": true
     },
     {
@@ -276,23 +336,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
+      "source": "YAMAGIWA",
+      "cat": "新製品",
       "date": "2026.08.20",
-      "title": "Casa PR21 / Alventosa Morell Arquitectes",
-      "url": "https://www.archdaily.com/1183443/casa-pr21-alventosa-morell-arquitectes",
-      "excerpt": "Built on a narrow terraced plot facing the sea in Badalona, Casa PR21 occupies the full width of the site and unfolds across four stories and an accessible roof terrace. Designed for a family of three",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/20a1/ac8b/af61/0825/41ff/large_jpg/casa-pr21-alventosa-morell-arquitectes_2.jpg?1786978481",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Strathmore Courtyard House / Studio Ceravolo",
-      "url": "https://www.archdaily.com/1183587/strathmore-courtyard-house-studio-ceravolo",
-      "excerpt": "A three-level extension to an existing solid brick Art Deco home, this project is anchored around a courtyard garden at its core, creating a zone around which circulation becomes an essential aspect o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b505/ab59/ca01/8994/6141/large_jpg/strathmore-courtyard-house-studio-ceravolo_23.jpg?1787147555",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
     },
     {
@@ -306,16 +356,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Canopy Design at Starfire Discovery Camp / CM Design",
-      "url": "https://www.archdaily.com/1183494/canopy-design-at-starfire-discovery-camp-cm-design",
-      "excerpt": "Shenzhen Dapeng New District Starfire Discovery Camp is a comprehensive outdoor practice base integrating research-based education, agro-cultural tourism, and leisure experiences. It is adjacent to Do",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/27e4/3cf9/6c00/0178/36cb/large_jpg/21__________.jpg?1787046000",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -323,36 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/water-rises-amphibious-homes-float/",
       "excerpt": "amphibious homes across the world move with the water as changing climates challenge the idea of fixed ground.\nThe post when the water rises, these amphibious homes rise and float with it appeared fir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/amphibious-houses-modes-habitation-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Topographies of Encounter - Concordia Square / AR-AR Martínez Arquitectura y Paisaje + María Paula González Bozzi",
-      "url": "https://www.archdaily.com/1183634/topographies-of-encounter-concordia-square-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
-      "excerpt": "Located in the heart of the historic La Candelaria neighborhood, Plaza de la Concordia is a site of high heritage value and a natural meeting point for students, residents, and tourists due to its str",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/a425/3cf9/6c00/0177/fb68/large_jpg/2_Vista_general_Juan_Pi_eros_72.jpg?1786094732",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "House in São Paulo / André Vainer Arquitetos",
-      "url": "https://www.archdaily.com/1183558/house-in-sao-paulo-andre-vainer-arquitetos",
-      "excerpt": "The house occupies a flat, well-oriented lot, with the building set along the neighboring property line and the front setback to form an L-shaped floor plan This leaves a large open courtyard at the c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/023f/ac8b/af01/892c/d492/large_jpg/casa-em-sao-paulo-andre-vainer-arquitetos_16.jpg?1787101779",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "The Fairphone (Gen. 6+) puts best tech practice in your pocket without compromise",
-      "url": "https://www.wallpaper.com/tech/the-fairphone-gen-6-puts-best-tech-practice-in-your-pocket-without-compromise",
-      "excerpt": "Fairphone favours a more accountable approach to sourcing, building and selling smartphones. The company’s new Fairphone (Gen. 6+) is the most complete manifestation of its ethos to date",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/adEX2hoPrWMtsVxwHqfdwh-1333-80.jpg",
       "today": false
     },
     {
