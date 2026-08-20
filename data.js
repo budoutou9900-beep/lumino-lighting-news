@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  05:24",
+  "fetchedAt": "2026.08.20  06:36",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,31 +13,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "高松経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "鉄道ファン・railf.jp": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,19 +45,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -99,6 +99,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.20",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -151,13 +160,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.20",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Doshi Levien’s first textile accessories collection for Hay is a contemporary take on Indian embroidery",
+      "url": "https://www.wallpaper.com/design-interiors/doshi-levien-hay-textiles-dori-collection",
+      "excerpt": "The new ‘Dori’ collection by Doshi Levien for Danish brand Hay is inspired by the tactility of embroidered Indian fabrics and informed by the studio's extensive colour research",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NpvV6khzscGgQFKtp4cTm3-1600-80.png",
       "today": true
     },
     {
@@ -171,6 +190,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Strathmore Courtyard House / Studio Ceravolo",
+      "url": "https://www.archdaily.com/1183587/strathmore-courtyard-house-studio-ceravolo",
+      "excerpt": "A three-level extension to an existing solid brick Art Deco home, this project is anchored around a courtyard garden at its core, creating a zone around which circulation becomes an essential aspect o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b505/ab59/ca01/8994/6141/large_jpg/strathmore-courtyard-house-studio-ceravolo_23.jpg?1787147555",
+      "today": true
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -178,6 +207,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/179",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/179/260527_1989.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Canopy Design at Starfire Discovery Camp / CM Design",
+      "url": "https://www.archdaily.com/1183494/canopy-design-at-starfire-discovery-camp-cm-design",
+      "excerpt": "Shenzhen Dapeng New District Starfire Discovery Camp is a comprehensive outdoor practice base integrating research-based education, agro-cultural tourism, and leisure experiences. It is adjacent to Do",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/27e4/3cf9/6c00/0178/36cb/large_jpg/21__________.jpg?1787046000",
       "today": true
     },
     {
@@ -298,16 +337,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Bruce Springsteen Center for American Music / COOKFOX",
-      "url": "https://www.archdaily.com/1183556/bruce-springsteen-center-for-american-music-cookfox",
-      "excerpt": "The Bruce Springsteen Center for American Music is dedicated to telling the story of music in this country and celebrating Bruce Springsteen's contributions to that tradition. COOKFOX's design seeks t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/f970/ab59/ca50/3d3d/2996/large_jpg/bruce-springsteen-center-for-american-music-cookfox_1.jpg?1787099524",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -343,26 +372,6 @@ window.LUMINO_DATA = {
       "title": "Tivoli creates theme park Japanese neighbourhood in central Copenhagen",
       "url": "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
       "excerpt": "Danish amusement park Tivoli has unveiled Hikari, a new area informed by Japanese cities that features art by Takashi Murakami and was designed to be \"genuinely respectful of its origin\". The 2,000-sq",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Woonhuis Heenvliet  / Studio Brandvries",
-      "url": "https://www.archdaily.com/1183423/woonhuis-heenvliet-studio-brandvries",
-      "excerpt": "Woonhuis Heenvliet is located on the edge of the historic village of Heenvliet. When the owners bought the plot, it had an existing house that was partly built on the footprint of a barn that had once",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/03dc/3cf9/6c00/0178/3130/large_jpg/MAEE3D_1.jpg?1786971117",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "Studio Mehta's Kenyan retreat is luxuriously built using local and recycled materials",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya",
-      "excerpt": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gF4N3FTB2xuYDzsU33vUNH-2560-80.jpg",
       "today": false
     },
     {
@@ -426,16 +435,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -443,16 +442,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
