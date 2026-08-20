@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  03:41",
+  "fetchedAt": "2026.08.20  04:31",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -102,7 +102,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.08.20",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -148,6 +148,16 @@ window.LUMINO_DATA = {
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
       "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Tour a treetop home peeking through Brazil’s leafy canopies",
+      "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-treetop-home-brazil",
+      "excerpt": "In this Upstate São Paulo treetop home by Jacobsen Arquitectura, you can live both in the forest and by the sea",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QHpBpMVsoSThWs83MU3T3C-2006-80.jpg",
       "today": true
     },
     {
@@ -333,16 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya",
       "excerpt": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gF4N3FTB2xuYDzsU33vUNH-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "An essential directory of Anna Castelli Ferrieri's most notable designs",
-      "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
-      "excerpt": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z88Jv5uajipcw5R78vXaEH-1500-80.jpg",
       "today": false
     },
     {
