@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  15:28",
+  "fetchedAt": "2026.08.20  16:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,21 +45,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -140,6 +148,36 @@ window.LUMINO_DATA = {
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
       "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "atrium architekti transforms 1960s workers’ dormitory into 507 homes in slovakia",
+      "url": "https://www.designboom.com/architecture/atrium-architekti-workers-dormitory-homes-slovakia/",
+      "excerpt": "the rigid grid remains, but 507 new homes give the monumental 1960s structure an entirely different life.\nThe post atrium architekti transforms 1960s workers’ dormitory into 507 homes in slovakia appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/449140/2026-08-19/from-socialist-dormitory-to-urban-housing-3-6a85b51167ac6.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Innodigym’s new compact home gym offers multiple functions in the smallest of footprints",
+      "url": "https://www.wallpaper.com/tech/innodigym-omni-x1-pro-review",
+      "excerpt": "The Innodigym OMNI X1 Pro has hundreds of guided exercises on board as well as a clever system of cable-driven resistance that provides multiple ways to work out",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mgBAU25tDcfvHvwM7KSGA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "aulets stacks natural stone beneath a recycled pallet roof in mallorca",
+      "url": "https://www.designboom.com/architecture/aulets-architectes-natural-stone-recycled-pallet-roof-mallorca-futur-habitable-pavilion-pollenca/",
+      "excerpt": "with its futur habitable pavilion, aulets architectes uses natural stone and recycled wood to frame a public passage in pollença, mallorca.\nThe post aulets stacks natural stone beneath a recycled pall",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/aulets-architectes-futur-habitable-pavilion-mallorca-designboom-FB.jpg",
       "today": true
     },
     {
@@ -258,16 +296,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "3D printed banjo uses party balloon as its sound box to explore how air changes the tone",
-      "url": "https://www.designboom.com/design/3d-printed-banjo-party-balloon-sound-box-air-tone-cocreation-lab/",
-      "excerpt": "the playful DIY instrument can be assembled from 19 printed pieces, then modified with different balloons and strings to test how its acoustic character shifts.\nThe post 3D printed banjo uses party ba",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/3d-printed-banjo-party-balloon-sound-box-air-tone-cocreation-lab-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -308,16 +336,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Doshi Levien’s first textile accessories collection for Hay is a contemporary take on Indian embroidery",
-      "url": "https://www.wallpaper.com/design-interiors/doshi-levien-hay-textiles-dori-collection",
-      "excerpt": "The new ‘Dori’ collection by Doshi Levien for Danish brand Hay is inspired by the tactility of embroidered Indian fabrics and informed by the studio's extensive colour research",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NpvV6khzscGgQFKtp4cTm3-1600-80.png",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -325,6 +343,16 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183569/centro-piacentiniano-cn10-architetti",
       "excerpt": "The project was based on an extensive preliminary analysis which combined the study, mapping and measurement of the material city (shapes, stratifications, layouts, measurements, constituent elements ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7e40/4253/0500/01c9/f201/large_jpg/CPBG_Albo-42.jpg?1787133562",
+      "today": true
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
     },
     {
@@ -336,16 +364,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/179/260527_1989.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "when the water rises, these amphibious homes rise and float with it",
-      "url": "https://www.designboom.com/architecture/water-rises-amphibious-homes-float/",
-      "excerpt": "amphibious homes across the world move with the water as changing climates challenge the idea of fixed ground.\nThe post when the water rises, these amphibious homes rise and float with it appeared fir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/amphibious-houses-modes-habitation-designboom-FB.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
@@ -408,6 +426,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -415,6 +443,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
