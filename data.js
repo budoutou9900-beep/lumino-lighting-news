@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  14:30",
+  "fetchedAt": "2026.08.20  15:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,29 +45,21 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "遠藤照明": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -151,6 +143,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Chapati vending machine among projects from University of Nottingham",
+      "url": "https://www.dezeen.com/2026/08/20/chapati-vending-machine-among-projects-from-the-university-of-nottingham-schoolshows/",
+      "excerpt": "Dezeen School Shows: a vending machine distributing fresh, hot chapatis in corporate canteens in India is among the projects from the University of Nottingham. Also featured is a wearable open-water m",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -158,6 +159,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/mercedes-maybach-gls-review",
       "excerpt": "The GLS is the largest SUV model from Mercedes-Benz. In Mercedes-Maybach trim, it offers pace and space to explore the outer limits of the company’s most luxurious accoutrements",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5TXoyM24KeHqTA84EZqQDG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "MIT researchers engineer bacteria that could program plants for self-defence",
+      "url": "https://www.dezeen.com/2026/08/20/mit-engineers-bacteria-transitors/",
+      "excerpt": "Researchers at MIT have found a way to grow bacteria to function as signal-senders that might allow plants to \"sense and respond to environmental conditions such as drought or attack by pests\". The st",
       "today": true
     },
     {
@@ -219,6 +229,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Underground Spa / KIP arhitekti",
+      "url": "https://www.archdaily.com/1183234/underground-spa-kip-arhitekti",
+      "excerpt": "The tourist farmstead complex, a former mill, comprises a cluster of five buildings. They stand in a forest-encircled clearing, with a stream running between them. The entire estate is designed, both ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/9111/3cf9/6c00/0178/251c/large_jpg/traktor_resized.jpg?1786614175",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -245,15 +265,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/3d-printed-banjo-party-balloon-sound-box-air-tone-cocreation-lab/",
       "excerpt": "the playful DIY instrument can be assembled from 19 printed pieces, then modified with different balloons and strings to test how its acoustic character shifts.\nThe post 3D printed banjo uses party ba",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/3d-printed-banjo-party-balloon-sound-box-air-tone-cocreation-lab-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Zara flagship store in Shanghai reflects \"the future of physical retail\"",
-      "url": "https://www.dezeen.com/2026/08/20/aim-architecture-zara-flagship-shanghai/",
-      "excerpt": "AIM Architecture has designed Zara Huaihai Road, a flagship store for the Spanish fashion brand in Shanghai, with an amphitheatre-like brick podium that connects the building with the street. Located ",
       "today": true
     },
     {
@@ -314,35 +325,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183569/centro-piacentiniano-cn10-architetti",
       "excerpt": "The project was based on an extensive preliminary analysis which combined the study, mapping and measurement of the material city (shapes, stratifications, layouts, measurements, constituent elements ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7e40/4253/0500/01c9/f201/large_jpg/CPBG_Albo-42.jpg?1787133562",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "ZHA Designs 198-Hectare Urban District Around Baku Expo Center in Azerbaijan",
-      "url": "https://www.archdaily.com/1183649/zha-designs-198-hectare-urban-district-around-baku-expo-center-in-azerbaijan",
-      "excerpt": "ZHA has been selected to design a new 198-hectare urban district in Baku, Azerbaijan. The project surrounds the existing Baku Expo Center events venue in a pine forest area that is planned to be prese",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/3763/ac8b/af01/892c/da99/large_jpg/zha-has-been-selected-to-design-the-baku-expo-city-masterplan_3.jpg?1787180910",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Xiang Architects creates steel double-helix viewpoint for bird watching in China",
-      "url": "https://www.dezeen.com/2026/08/20/chenhu-migratory-bird-observation-tower-xiang-architects/",
-      "excerpt": "Architecture studio Xiang Architects has unveiled a multi-stair observation tower within the Chenhu Wetland bird sanctuary near Wuhan City, China. Named the Chenhu Migratory Bird Observation Tower, th",
-      "today": true
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
     },
     {
@@ -426,16 +408,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -443,16 +415,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
