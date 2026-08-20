@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  22:20",
+  "fetchedAt": "2026.08.20  23:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,31 +13,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "高松経済新聞": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "鉄道ファン・railf.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "レッツエンジョイ東京": {
+    "カナロコ": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Kiss PRESS(キッスプレス)": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,29 +45,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -102,33 +106,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.20",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
@@ -142,13 +125,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.20",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.20",
+      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=262079",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "today": true
+    },
+    {
+      "source": "カナロコ",
+      "cat": "展示・アート",
+      "date": "2026.08.20",
+      "title": "冬の夜 幻想的な世界が広がる イルミネーション・ライトアップ２０２５",
+      "url": "https://www.kanaloco.jp/news/culture/bunka/article-1230342.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2025-12/yokohama_1.jpg?itok=NMg0iK6j",
+      "today": true
+    },
+    {
+      "source": "Kiss PRESS(キッスプレス)",
+      "cat": "展示・アート",
+      "date": "2026.08.20",
+      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
+      "url": "https://kisspress.jp/articles/59977/",
+      "excerpt": "",
+      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.20",
+      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=258289",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
       "today": true
     },
     {
@@ -172,12 +195,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Audiovisual Experimentation Center / Dirección General de Arquitectura + Secretaria de Planificación + Municipalidad de Avellaneda",
+      "url": "https://www.archdaily.com/1183724/audiovisual-experimentation-center-direccion-general-de-arquitectura-plus-secretaria-de-planificacion-plus-municipalidad-de-avellaneda",
+      "excerpt": "The Audiovisual Experimentation Center (CEA) is located in the city of Avellaneda, within an urban fragment shaped by redevelopment and infrastructure. Rather than a passive restoration, the project r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bfcb/4253/0500/01c9/f759/large_jpg/CEA_Direccion_Gral._de_Arquitectura_-___Federico_Cairoli__23_.jpg?1787215854",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.20",
       "title": "Studio Barnes and Ch_studio to convert former KKK building in Texas into arts centre",
       "url": "https://www.dezeen.com/2026/08/20/studio-barnes-ch-studio-convert-kkk-building-arts-centre-fort-worth/",
       "excerpt": "A team including Studio Barnes and Ch_studio has revealed designs for the 1920s building once used by the white supremacist group the Ku Klux Klan in Fort Worth, Texas, into a \"catalyst for community ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Yoshi House / AR Arquitetos",
+      "url": "https://www.archdaily.com/1183686/yoshi-house-ar-arquitetos",
+      "excerpt": "Taking advantage of the slope toward the forest at the back of the property, the ground was redesigned into split levels made of solid brick to accommodate the social areas. Above this, supported by a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/b96e/4253/0500/01c9/f16e/large_jpg/_DSF6988_ok.jpg?1787083824",
       "today": true
     },
     {
@@ -324,26 +367,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/a-design-award-and-competition-winner-furniture-interior-concepts/",
       "excerpt": "discover the A’ design award and competition stand-out projects and learn how to submit your work for the upcoming 2027 edition. \nThe post uncovering furniture and interior concepts that prioritize id",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adesign-awards_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Underground Spa / KIP arhitekti",
-      "url": "https://www.archdaily.com/1183234/underground-spa-kip-arhitekti",
-      "excerpt": "The tourist farmstead complex, a former mill, comprises a cluster of five buildings. They stand in a forest-encircled clearing, with a stream running between them. The entire estate is designed, both ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/9111/3cf9/6c00/0178/251c/large_jpg/traktor_resized.jpg?1786614175",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "The Public Kitchen: How Asian Markets Turn Eating Into Civic Life",
-      "url": "https://www.archdaily.com/1183562/the-public-kitchen-how-asian-markets-turn-eating-into-civic-life",
-      "excerpt": "In many Asian cities, eating has never belonged entirely to the private home. It spills into markets, hawker centers, street stalls, and wholesale districts embedded within larger buildings or areas. ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/4446/ac8b/af01/892c/d513/large_jpg/the-public-kitchen-food-courts-and-hawker-centers-as-civic-infrastructure-in-apac-cities_1.jpg?1787118673",
       "today": true
     },
     {
