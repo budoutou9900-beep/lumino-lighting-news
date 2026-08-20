@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  13:41",
+  "fetchedAt": "2026.08.20  14:30",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -154,6 +154,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
+      "title": "The mighty Mercedes-Maybach GLS doubles down on luxury to create the ultimate SUV",
+      "url": "https://www.wallpaper.com/transportation/mercedes-maybach-gls-review",
+      "excerpt": "The GLS is the largest SUV model from Mercedes-Benz. In Mercedes-Maybach trim, it offers pace and space to explore the outer limits of the company’s most luxurious accoutrements",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5TXoyM24KeHqTA84EZqQDG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
       "title": "Want to try on Stanley Kubrick’s sunglasses for size? Jacques Marie Mage is reissuing them",
       "url": "https://www.wallpaper.com/fashion-beauty/jacques-marie-mage-sunglasses-stanley-kubrick",
       "excerpt": "The American eyewear brand continues its ongoing collaboration with the filmmaker’s estate by reissuing two pairs of sunglasses inspired by two of Kubrick’s seminal decades – the 1940s and the 1980s",
@@ -195,7 +205,7 @@ window.LUMINO_DATA = {
       "date": "2026.08.20",
       "title": "Brad Pitt brought on as executive producer for Peter Zumthor documentary",
       "url": "https://www.dezeen.com/2026/08/20/brad-pitt-from-inside-out-peter-zumthor-documentary/",
-      "excerpt": "American actor Brad Pitt has joined German filmmaker Wim Wenders on the production of a documentary exploring the works of Swiss architect Peter Zumthor. Set to premiere at the Venice Film Festival ne",
+      "excerpt": "American actor Brad Pitt has joined German filmmaker Wim Wenders on the production of a documentary exploring the works of Swiss architect Peter Zumthor. Set to premiere at the Venice Film Festival ne",
       "today": true
     },
     {
@@ -323,16 +333,6 @@ window.LUMINO_DATA = {
       "title": "Xiang Architects creates steel double-helix viewpoint for bird watching in China",
       "url": "https://www.dezeen.com/2026/08/20/chenhu-migratory-bird-observation-tower-xiang-architects/",
       "excerpt": "Architecture studio Xiang Architects has unveiled a multi-stair observation tower within the Chenhu Wetland bird sanctuary near Wuhan City, China. Named the Chenhu Migratory Bird Observation Tower, th",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Tour a treetop home peeking through Brazil’s leafy canopies",
-      "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-treetop-home-brazil",
-      "excerpt": "In this Upstate São Paulo treetop home by Jacobsen Studio, you can live both in the forest and by the sea",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QHpBpMVsoSThWs83MU3T3C-2006-80.jpg",
       "today": true
     },
     {
