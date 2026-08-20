@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  18:30",
+  "fetchedAt": "2026.08.20  19:26",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -149,6 +149,15 @@ window.LUMINO_DATA = {
       "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
       "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Studio Barnes and Ch_studio to convert former KKK building in Texas into arts centre",
+      "url": "https://www.dezeen.com/2026/08/20/studio-barnes-ch-studio-convert-kkk-building-arts-centre-fort-worth/",
+      "excerpt": "A team including Studio Barnes and Ch_studio has revealed designs for the 1920s building once used by the white supremacist group the Ku Klux Klan in Fort Worth, Texas, into a \"catalyst for community ",
       "today": true
     },
     {
@@ -305,15 +314,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/konstantinos-gournas-turns-reclaimed-marble-sink-into-a-mobile-wash-station/",
       "excerpt": "reclaimed marble and stainless steel turn a fixed domestic sink into a mobile wash station.\nThe post konstantinos gournas turns reclaimed marble sink into a mobile wash station appeared first on desig",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/455741/2026-08-19/mgcp-transforms-a-reclaimed-marble-sink-into-ws-wash-station-4-6a85c59543a11.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Groninger Museum \"deserves to be more famous\" says artistic director Roos Gortzak",
-      "url": "https://www.dezeen.com/2026/08/20/groninger-museum-roos-gortzak-interview/",
-      "excerpt": "With a renewed focus on contemporary art, Groninger Museum artistic director Roos Gortzak is seeking closer connection between the extraordinary postmodern building, she says in this interview. \"I thi",
       "today": true
     },
     {
