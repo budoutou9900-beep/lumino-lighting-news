@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  17:23",
+  "fetchedAt": "2026.08.20  18:30",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,19 +13,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "高松経済新聞": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "鉄道ファン・railf.jp": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -102,15 +102,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.20",
@@ -148,6 +139,16 @@ window.LUMINO_DATA = {
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
       "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.08.20",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
@@ -206,6 +207,26 @@ window.LUMINO_DATA = {
       "title": "MIT researchers engineer bacteria that could program plants for self-defence",
       "url": "https://www.dezeen.com/2026/08/20/mit-engineers-bacteria-transitors/",
       "excerpt": "Researchers at MIT have found a way to grow bacteria to function as signal-senders that might allow plants to \"sense and respond to environmental conditions such as drought or attack by pests\". The st",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Fradique Building / GRUPOSP",
+      "url": "https://www.archdaily.com/1183638/fradique-building-gruposp",
+      "excerpt": "The project is part of an initiative to revive the \"predinho\" typology—low-rise residential building models common before the 1970s—reassessing their qualities of scale and community life in contrast ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/ab9f/4253/0500/01c9/f0e8/large_jpg/GSP_PFC_NelsonKon_02.jpg?1787079698",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Trilogy House / Waechter Architecture",
+      "url": "https://www.archdaily.com/1183670/trilogy-house-waechter-architecture",
+      "excerpt": "Trilogy House reimagines a traditional Portland vernacular, creating a private refuge that engages the street while reconnecting to nature through carefully oriented living spaces.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/eac7/4253/0500/01c9/f836/large_jpg/Trilogy-House-Pablo-Enriquez-ArchDaily-_1_.jpg?1787226860",
       "today": true
     },
     {
@@ -323,26 +344,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183561/chenhu-migratory-bird-observation-tower-xiang-architects",
       "excerpt": "Situated within Wuhan's Chenhu Wetland, the Migratory Bird Observation Tower is perched on Xianglushan, a natural promontory rising 22 metres above sea level. This vantage point offers sweeping views ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/29e9/ab59/ca01/8994/5e85/large_jpg/chenhu-migratory-bird-observation-tower-xiang-architects_5.jpg?1787111921",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Lina Bo Bardi's First Exhibition in China and GXN's Reclaimed-Material Community Space: This Week's Review",
-      "url": "https://www.archdaily.com/1183601/lina-bo-bardis-first-exhibition-in-china-and-gxns-reclaimed-material-community-space-this-weeks-review",
-      "excerpt": "This week's stories explore how architecture engages with questions of culture, access, and collective life, from new cultural institutions and exhibitions to public spaces and housing. This week, the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b2a3/ac8b/af01/892c/d743/large_jpg/lina-bo-bardis-first-china-exhibition-and-gxns-reclaimed-material-community-space-this-weeks-review_4.jpg?1787146923",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Centro Piacentiniano / CN10 architetti",
-      "url": "https://www.archdaily.com/1183569/centro-piacentiniano-cn10-architetti",
-      "excerpt": "The project was based on an extensive preliminary analysis which combined the study, mapping and measurement of the material city (shapes, stratifications, layouts, measurements, constituent elements ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7e40/4253/0500/01c9/f201/large_jpg/CPBG_Albo-42.jpg?1787133562",
       "today": true
     },
     {
