@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  10:23",
+  "fetchedAt": "2026.08.20  11:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -148,6 +148,35 @@ window.LUMINO_DATA = {
       "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
       "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "who gets to stay when cities become digital nomad destinations?",
+      "url": "https://www.designboom.com/architecture/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali/",
+      "excerpt": "from lisbon and athens to mexico city and bali, the remote-work economy is transforming residential architecture, neighborhood commerce, and even agricultural infrastructure.\nThe post who gets to stay",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Gracie Abrams makes history as the face of Chanel’s new Coco Mademoiselle fragrance",
+      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/gracie-abrams-chanel-coco-mademoiselle-crush-absolu-film",
+      "excerpt": "The campaign, directed by Joe Wright, stars the musician on a nocturnal adventure in Paris",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pb6LGdKLPVWEg9ecJMjJ36-1100-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "António Costa Lima Arquitectos adds concrete extension to historic Lisbon school",
+      "url": "https://www.dezeen.com/2026/08/20/antonio-costa-lima-colegio-de-santa-maria/",
+      "excerpt": "Portuguese studio António Costa Lima Arquitectos has extended the historic Colégio de Santa Maria school in Lisbon, adding a stack of cubic concrete volumes that cascade down to a terrace and playgrou",
       "today": true
     },
     {
@@ -307,25 +336,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "AIA announces longest \"ongoing slump\" for architecture revenues",
-      "url": "https://www.dezeen.com/2026/08/19/aia-announces-longest-ongoing-slump-abi/",
-      "excerpt": "The American Institute of Architecture has announced the longest ever slump in architecture revenues in the US measured by the ABI index, citing \"macroeconomic uncertainty\" associated with rising oil ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "maison cédrat’s new lamps filter light through clay and handcrafted washi paper",
-      "url": "https://www.designboom.com/design/maison-cedrats-new-lamps-light-clay-handcrafted-washi-paper/",
-      "excerpt": "pierre samouilla and alix lalucaa pair handcrafted clay with translucent washi paper across sculptural luminaires.\nThe post maison cédrat’s new lamps filter light through clay and handcrafted washi pa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467379/2026-07-31/maison-cedrat-presents-aura-a-collection-shaped-by-mediterranean-light-6-6a6c8d9b9ddde.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.19",
@@ -343,16 +353,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/the-fairphone-gen-6-puts-best-tech-practice-in-your-pocket-without-compromise",
       "excerpt": "Fairphone favours a more accountable approach to sourcing, building and selling smartphones. The company’s new Fairphone (Gen. 6+) is the most complete manifestation of its ethos to date",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/adEX2hoPrWMtsVxwHqfdwh-1333-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.19",
-      "title": "The home of Donald Judd's most ambitious work is about to be restored",
-      "url": "https://www.wallpaper.com/art/donald-judd-artillery-sheds-restoration-marfa",
-      "excerpt": "After dealing with decades of dirt and leaks, the artillery sheds at the Chinati Foundation in Marfa, Texas are about to receive a surgical renovation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iqmPix732iKDFiUMWsuJBB-1920-80.jpg",
       "today": false
     },
     {
