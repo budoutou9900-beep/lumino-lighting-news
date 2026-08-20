@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  20:21",
+  "fetchedAt": "2026.08.20  21:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -152,6 +152,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "what rome and vienna can teach about the future of affordable housing",
+      "url": "https://www.designboom.com/architecture/rome-vienna-teach-future-affordable-housing/",
+      "excerpt": "looking at social housing, occupied spaces, and the history of the two cities the curators of agency for better living opened a discussion on possible solutions to the global housing crisis. \nThe post",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/agency-better-living-designboom-11.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -207,6 +217,16 @@ window.LUMINO_DATA = {
       "title": "Chapati vending machine among projects from University of Nottingham",
       "url": "https://www.dezeen.com/2026/08/20/chapati-vending-machine-among-projects-from-the-university-of-nottingham-schoolshows/",
       "excerpt": "Dezeen School Shows: a vending machine distributing fresh, hot chapatis in corporate canteens in India is among the projects from the University of Nottingham. Also featured is a wearable open-water m",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.20",
+      "title": "Casa Ínsula / TANAT + PEMO + Carlos García Noriega",
+      "url": "https://www.archdaily.com/1183721/casa-insula-tanat-plus-pemo-plus-carlos-garcia-noriega",
+      "excerpt": "Mérida knows how to consume itself, especially if we look away for a moment.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bf64/4253/0500/01c9/f727/large_jpg/0_Hero_img_3_07_WebRes_Tanat_Pemo_CarlosGarc_aNoriega_CasaMerida_PhotoByAlejandroRamirezOrozco.jpg?1787215741",
       "today": true
     },
     {
@@ -317,16 +337,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "konstantinos gournas turns reclaimed marble sink into a mobile wash station",
-      "url": "https://www.designboom.com/design/konstantinos-gournas-turns-reclaimed-marble-sink-into-a-mobile-wash-station/",
-      "excerpt": "reclaimed marble and stainless steel turn a fixed domestic sink into a mobile wash station.\nThe post konstantinos gournas turns reclaimed marble sink into a mobile wash station appeared first on desig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/455741/2026-08-19/mgcp-transforms-a-reclaimed-marble-sink-into-ws-wash-station-4-6a85c59543a11.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -334,16 +344,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183562/the-public-kitchen-how-asian-markets-turn-eating-into-civic-life",
       "excerpt": "In many Asian cities, eating has never belonged entirely to the private home. It spills into markets, hawker centers, street stalls, and wholesale districts embedded within larger buildings or areas. ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/4446/ac8b/af01/892c/d513/large_jpg/the-public-kitchen-food-courts-and-hawker-centers-as-civic-infrastructure-in-apac-cities_1.jpg?1787118673",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Chenhu Migratory Bird Observation Tower / Xiang Architects",
-      "url": "https://www.archdaily.com/1183561/chenhu-migratory-bird-observation-tower-xiang-architects",
-      "excerpt": "Situated within Wuhan's Chenhu Wetland, the Migratory Bird Observation Tower is perched on Xianglushan, a natural promontory rising 22 metres above sea level. This vantage point offers sweeping views ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/29e9/ab59/ca01/8994/5e85/large_jpg/chenhu-migratory-bird-observation-tower-xiang-architects_5.jpg?1787111921",
       "today": true
     },
     {
