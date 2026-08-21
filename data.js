@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  04:32",
+  "fetchedAt": "2026.08.21  05:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "鉄道ファン・railf.jp": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -115,15 +115,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.21",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.21",
@@ -164,6 +155,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Is your home ‘ultra-processed’? Why architects are rethinking what we build with",
+      "url": "https://www.wallpaper.com/architecture/ultra-processed-architecture",
+      "excerpt": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kggs8M9Ky4Sors86TY8hVj-1600-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -181,6 +192,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Jiashan Dayun Landison Manor   / HB ARCHITECTS + NATURE TIME ART",
+      "url": "https://www.archdaily.com/1183488/jiashan-dayun-landison-manor-hb-architects-plus-nature-time-art",
+      "excerpt": "The project is located in Shangxia Village, Jiashan, Zhejiang Province, with a total site area of approximately 15,600 square metres. It stretches 367 metres from east to west, with a maximum width of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/1cac/3cf9/6c00/0178/364b/large_jpg/Fig._29.jpg?1787043275",
       "today": true
     },
     {
@@ -308,26 +329,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183638/fradique-building-gruposp",
       "excerpt": "The project is part of an initiative to revive the \"predinho\" typology—low-rise residential building models common before the 1970s—reassessing their qualities of scale and community life in contrast ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/ab9f/4253/0500/01c9/f0e8/large_jpg/GSP_PFC_NelsonKon_02.jpg?1787079698",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Trilogy House / Waechter Architecture",
-      "url": "https://www.archdaily.com/1183670/trilogy-house-waechter-architecture",
-      "excerpt": "Trilogy House reimagines a traditional Portland vernacular, creating a private refuge that engages the street while reconnecting to nature through carefully oriented living spaces.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/eac7/4253/0500/01c9/f836/large_jpg/Trilogy-House-Pablo-Enriquez-ArchDaily-_1_.jpg?1787226860",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Want to try on Stanley Kubrick’s sunglasses for size? Jacques Marie Mage is reissuing them",
-      "url": "https://www.wallpaper.com/fashion-beauty/jacques-marie-mage-sunglasses-stanley-kubrick",
-      "excerpt": "The American eyewear brand continues its ongoing collaboration with the filmmaker’s estate by reissuing two pairs of sunglasses inspired by two of Kubrick’s seminal decades – the 1940s and the 1980s",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/waBKec8fC966xX4UPX3vuY-1600-80.jpg",
       "today": false
     },
     {
