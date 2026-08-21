@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  05:27",
+  "fetchedAt": "2026.08.21  06:36",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "高松経済新聞": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "鉄道ファン・railf.jp": {
+    "Yahoo!ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "レッツエンジョイ東京": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -45,33 +45,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "岩崎電気": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -106,15 +102,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.08.21",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.21",
@@ -145,16 +132,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.21",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
-      "today": true
-    },
-    {
       "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.21",
@@ -162,6 +139,26 @@ window.LUMINO_DATA = {
       "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
       "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "inside Db’s ramverk alu case, complexity disappears behind an aluminum shell",
+      "url": "https://www.designboom.com/design/db-ramverk-alu-case-complexity-disappears-aluminum-shell-truls-brataas/",
+      "excerpt": "Db's aluminum case reveals its structure on the inside, with its screws and custom components acting as a diagram of its own construction.\nThe post inside Db’s ramverk alu case, complexity disappears ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/db-journey-ramverk-alu-suitcase-truls-brataas-interview-designboom-FB.jpg",
       "today": true
     },
     {
@@ -357,16 +354,6 @@ window.LUMINO_DATA = {
       "title": "Brad Pitt brought on as executive producer for Peter Zumthor documentary",
       "url": "https://www.dezeen.com/2026/08/20/brad-pitt-from-inside-out-peter-zumthor-documentary/",
       "excerpt": "American actor Brad Pitt has joined German filmmaker Wim Wenders on the production of a documentary exploring the works of Swiss architect Peter Zumthor. Set to premiere at the Venice Film Festival ne",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "uncovering furniture and interior concepts that prioritize identity over uniformity",
-      "url": "https://www.designboom.com/design/a-design-award-and-competition-winner-furniture-interior-concepts/",
-      "excerpt": "discover the A’ design award and competition stand-out projects and learn how to submit your work for the upcoming 2027 edition. \nThe post uncovering furniture and interior concepts that prioritize id",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adesign-awards_designboom_facebook.jpg",
       "today": false
     },
     {
