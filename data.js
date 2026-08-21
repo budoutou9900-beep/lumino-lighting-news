@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  18:28",
+  "fetchedAt": "2026.08.21  19:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,15 +13,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,45 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "久留米ファン": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -102,16 +110,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.21",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.21",
@@ -131,13 +129,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
       "date": "2026.08.21",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
@@ -148,6 +146,25 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
@@ -248,6 +265,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Epitácio 3714 Building / Cité Arquitetura",
+      "url": "https://www.archdaily.com/1183785/epitacio-3714-building-cite-arquitetura",
+      "excerpt": "Situated on one of the most singular plots of land in Rio de Janeiro's South Zone, the Epitácio building overlooks the Rodrigo de Freitas Lagoon, making the surrounding environment the protagonist of ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/423b/4253/0500/01c9/fc4f/large_jpg/Cit_-Fotos-arquitetura-Epit_cio-0754-copy-2.jpg?1787249457",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "HUT-SPOT Pavilion / m²ft architects",
+      "url": "https://www.archdaily.com/1183413/hut-spot-pavilion-m2ft-architects",
+      "excerpt": "HUT-SPOT stands on the edge of the forest, where the vegetation of the Romagna hills in Italy is gradually reclaiming an asphalt clearing, a former tennis court abandoned for decades. It is a threshol",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7f20/1801/ca00/0176/e6bf/large_jpg/4.jpg?1785495370",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -323,26 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183510/ocean-stories-museum-transborder-studio",
       "excerpt": "Transborder designs Arctic Ocean museum in wood, aluminum, and local stone.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5488/3cf9/6c00/0178/3815/large_jpg/01r_Transborder_OceanStories___Johan_Dehlin_251008.jpg?1787057317",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "“Art Is Not Fiction, but a Surplus Reality:” Pedro Reyes on Sculpture as Social Practice in Louisiana Channel Interview",
-      "url": "https://www.archdaily.com/1042723/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-practice-in-louisiana-channel-interview",
-      "excerpt": "Mexican sculptor Pedro Reyes has developed a multidisciplinary practice that spans sculpture, architecture, social engagement, and activism. Trained as an architect, Reyes approaches sculpture as both",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/aad8/8576/0e01/8921/c4ec/large_jpg/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-transformation-in-louisiana-channel-interview_4.jpg?1782295271",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "JUVO – resting area and viewpoint in Southwestern Norway / ATSITE",
-      "url": "https://www.archdaily.com/1183273/juvo-resting-area-and-viewpoint-in-southwestern-norway-atsite",
-      "excerpt": "Brattlandsdalen is a dramatic, narrow, and deep gorge along Norway's National Road number 13, shaped by steep mountainsides and the constant force of water. The gorge holds rare geological formations,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f72b/3cf9/6c00/0178/27d0/large_jpg/JUVO_1.jpg?1786640194",
       "today": true
     },
     {
