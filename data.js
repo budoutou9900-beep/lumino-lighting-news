@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  11:21",
+  "fetchedAt": "2026.08.21  12:35",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,27 +29,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "鉄道ファン・railf.jp": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -57,13 +57,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -95,6 +99,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -134,16 +148,6 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.21",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
       "today": true
     },
     {
@@ -224,6 +228,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "12 Colombian Houses Featuring Exposed Brick",
+      "url": "https://www.archdaily.com/939644/11-colombian-houses-that-feature-exposed-brick",
+      "excerpt": "Brick is one of Colombia's most widely used materials, helping its local architecture stand out globally. This is due to the excellent quality of the clay found in several regions of the country. In a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/0679/ab59/ca01/8994/6578/large_jpg/12-casas-colombianas-que-usan-el-ladrillo-a-la-vista_43.jpg?1787233922",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Ocean Stories Museum  / Transborder Studio",
+      "url": "https://www.archdaily.com/1183510/ocean-stories-museum-transborder-studio",
+      "excerpt": "Transborder designs Arctic Ocean museum in wood, aluminum, and local stone.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5488/3cf9/6c00/0178/3815/large_jpg/01r_Transborder_OceanStories___Johan_Dehlin_251008.jpg?1787057317",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "“Art Is Not Fiction, but a Surplus Reality:” Pedro Reyes on Sculpture as Social Practice in Louisiana Channel Interview",
+      "url": "https://www.archdaily.com/1042723/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-practice-in-louisiana-channel-interview",
+      "excerpt": "Mexican sculptor Pedro Reyes has developed a multidisciplinary practice that spans sculpture, architecture, social engagement, and activism. Trained as an architect, Reyes approaches sculpture as both",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a3b/aad8/8576/0e01/8921/c4ec/large_jpg/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-transformation-in-louisiana-channel-interview_4.jpg?1782295271",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -282,16 +316,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "The Maison du Peuple: Reclaiming Brutalism for Nation-Building",
-      "url": "https://www.archdaily.com/1183315/the-maison-du-peuple-reclaiming-brutalism-for-nation-building",
-      "excerpt": "When African countries gained independence from European colonial rule during the mid-twentieth century, nation-building involved more than establishing new governments and political institutions. New",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/03d6/ac8b/af01/892c/c8c8/large_jpg/the-maison-du-peuple-utilizing-brutalism-for-nation-building_9.jpg?1786708995",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -299,26 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/nomade-temple-ibiza-review",
       "excerpt": "A subterranean spa, cove-side dining and a shaman in-residence set the rhythm at Nômade’s new retreat on Ibiza’s northern shore",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/su3jxuxYWJnW3eycMH36KU-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Screened Space Office Building / Studio UF+O",
-      "url": "https://www.archdaily.com/1183677/screened-space-office-building-studio-uf-plus-o",
-      "excerpt": "Screened Space is the headquarters and experience centre of an electrical switches company, located within the densely packed historic core of Vijayawada in Andhra Pradesh. It is conceived as an archi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/0d41/ac8b/af01/892c/dc35/large_jpg/screened-space-office-building-studio-uf-plus-o_5.jpg?1787235682",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "B Nesta Residence / UOS Architecture Studio",
-      "url": "https://www.archdaily.com/1183579/bnesta-residence-uos-architecture-studio",
-      "excerpt": "Located in an urban area in western Denpasar, Bali, B Nesta is a residential complex comprising 20 apartment units and five private-pool townhouses. The program is complemented by shared facilities, i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/933e/4253/0500/01c9/f2bc/large_jpg/B-NESTA-4.jpg?1787138944",
       "today": true
     },
     {
@@ -349,6 +353,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco",
       "excerpt": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EUpShZRuQmGze76o8S8FnB-1416-80.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -412,6 +426,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -419,6 +443,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
