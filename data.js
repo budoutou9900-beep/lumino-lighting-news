@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  07:38",
+  "fetchedAt": "2026.08.21  08:33",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -149,6 +149,35 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "won ji lim translates the human body into glass, cement and soft sculptural forms",
+      "url": "https://www.designboom.com/art/won-ji-lim-art-human-body-glass-cement-soft-sculptural-forms/",
+      "excerpt": "won ji lim explores symmetry, transparency and bodily structure through glass, cement and everyday materials.\nThe post won ji lim translates the human body into glass, cement and soft sculptural forms",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467758/2026-08-20/the-body-as-structure-7-6a868a509540b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "ZHA proposes interconnected forest neighbourhoods for Baku Expo City masterplan",
+      "url": "https://www.dezeen.com/2026/08/21/zha-baku-expo-city-masterplan/",
+      "excerpt": "Architecture studio ZHA has unveiled its masterplan for Baku Expo City in Azerbaijan, where overlapping stacked homes with green roofs will flank an extension to the city's exhibition centre. The 198-",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "What predictions does Jean-Christophe Babin, CEO of LVMH Watches, have for the future of watchmaking?",
+      "url": "https://www.wallpaper.com/watches-jewellery/what-predictions-does-jean-christophe-babin-ceo-of-lvmh-watches-have-for-the-future-of-watchmaking",
+      "excerpt": "On the eve of Geneva Watch Days (September 2 - 6), Jean-Christophe Babin shares his thoughts on the watch industry",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DJpuGTNMr2n7LRAZhCaGK-1920-80.jpg",
       "today": true
     },
     {
@@ -325,35 +354,6 @@ window.LUMINO_DATA = {
       "title": "Chapati vending machine among projects from University of Nottingham",
       "url": "https://www.dezeen.com/2026/08/20/chapati-vending-machine-among-projects-from-the-university-of-nottingham-schoolshows/",
       "excerpt": "Dezeen School Shows: a vending machine distributing fresh, hot chapatis in corporate canteens in India is among the projects from the University of Nottingham. Also featured is a wearable open-water m",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "The mighty Mercedes-Maybach GLS doubles down on luxury to create the ultimate SUV",
-      "url": "https://www.wallpaper.com/transportation/mercedes-maybach-gls-review",
-      "excerpt": "The GLS is the largest SUV model from Mercedes-Benz. In Mercedes-Maybach trim, it offers pace and space to explore the outer limits of the company’s most luxurious accoutrements",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5TXoyM24KeHqTA84EZqQDG-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "MIT researchers engineer bacteria that could program plants for self-defence",
-      "url": "https://www.dezeen.com/2026/08/20/mit-engineers-bacteria-transitors/",
-      "excerpt": "Researchers at MIT have found a way to grow bacteria to function as signal-senders that might allow plants to \"sense and respond to environmental conditions such as drought or attack by pests\". The st",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "who gets to stay when cities become digital nomad destinations?",
-      "url": "https://www.designboom.com/architecture/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali/",
-      "excerpt": "from lisbon and athens to mexico city and bali, the remote-work economy is transforming residential architecture, neighborhood commerce, and even agricultural infrastructure.\nThe post who gets to stay",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali-designboom-1200.jpg",
       "today": false
     },
     {
