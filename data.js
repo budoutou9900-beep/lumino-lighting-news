@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  06:36",
+  "fetchedAt": "2026.08.21  07:38",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -162,6 +162,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Waka Waka curls colourful metal into curved shapes for Ribbon furniture collection",
+      "url": "https://www.dezeen.com/2026/08/21/waka-waka-ribbon-collection/",
+      "excerpt": "Los Angeles studio Waka Waka has designed Ribbon, an undulating furniture collection made from steel and aluminium decorated with saturated colours, for Japanese manufacturer Benex's Eetal project. Ee",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -172,6 +181,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Visualisation has become more than creating \"a single visual output\" says Chaos",
+      "url": "https://www.dezeen.com/2026/08/21/visualisation-chaos-ai-storytelling-tool/",
+      "excerpt": "Promotion: according to software company Chaos, AI-assisted tools, advances in rendering technologies, and shifting client expectations are transforming the architecture industry's visualisation workf",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -179,6 +197,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/nomade-temple-ibiza-review",
       "excerpt": "A subterranean spa, cove-side dining and a shaman in-residence set the rhythm at Nômade’s new retreat on Ibiza’s northern shore",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/su3jxuxYWJnW3eycMH36KU-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Screened Space Office Building / Studio UF+O",
+      "url": "https://www.archdaily.com/1183677/screened-space-office-building-studio-uf-plus-o",
+      "excerpt": "Screened Space is the headquarters and experience centre of an electrical switches company, located within the densely packed historic core of Vijayawada in Andhra Pradesh. It is conceived as an archi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/0d41/ac8b/af01/892c/dc35/large_jpg/screened-space-office-building-studio-uf-plus-o_5.jpg?1787235682",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "B Nesta Residence / UOS Architecture Studio",
+      "url": "https://www.archdaily.com/1183579/bnesta-residence-uos-architecture-studio",
+      "excerpt": "Located in an urban area in western Denpasar, Bali, B Nesta is a residential complex comprising 20 apartment units and five private-pool townhouses. The program is complemented by shared facilities, i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/933e/4253/0500/01c9/f2bc/large_jpg/B-NESTA-4.jpg?1787138944",
       "today": true
     },
     {
@@ -290,16 +328,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Casa Ínsula / TANAT + PEMO + Carlos García Noriega",
-      "url": "https://www.archdaily.com/1183721/casa-insula-tanat-plus-pemo-plus-carlos-garcia-noriega",
-      "excerpt": "Mérida knows how to consume itself, especially if we look away for a moment.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bf64/4253/0500/01c9/f727/large_jpg/0_Hero_img_3_07_WebRes_Tanat_Pemo_CarlosGarc_aNoriega_CasaMerida_PhotoByAlejandroRamirezOrozco.jpg?1787215741",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -319,16 +347,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Fradique Building / GRUPOSP",
-      "url": "https://www.archdaily.com/1183638/fradique-building-gruposp",
-      "excerpt": "The project is part of an initiative to revive the \"predinho\" typology—low-rise residential building models common before the 1970s—reassessing their qualities of scale and community life in contrast ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/ab9f/4253/0500/01c9/f0e8/large_jpg/GSP_PFC_NelsonKon_02.jpg?1787079698",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -336,24 +354,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali/",
       "excerpt": "from lisbon and athens to mexico city and bali, the remote-work economy is transforming residential architecture, neighborhood commerce, and even agricultural infrastructure.\nThe post who gets to stay",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "António Costa Lima Arquitectos adds concrete extension to historic Lisbon school",
-      "url": "https://www.dezeen.com/2026/08/20/antonio-costa-lima-colegio-de-santa-maria/",
-      "excerpt": "Portuguese studio António Costa Lima Arquitectos has extended the historic Colégio de Santa Maria school in Lisbon, adding a stack of cubic concrete volumes that cascade down to a terrace and playgrou",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Brad Pitt brought on as executive producer for Peter Zumthor documentary",
-      "url": "https://www.dezeen.com/2026/08/20/brad-pitt-from-inside-out-peter-zumthor-documentary/",
-      "excerpt": "American actor Brad Pitt has joined German filmmaker Wim Wenders on the production of a documentary exploring the works of Swiss architect Peter Zumthor. Set to premiere at the Venice Film Festival ne",
       "today": false
     },
     {
