@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  13:40",
+  "fetchedAt": "2026.08.21  14:29",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,15 +17,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "高松経済新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "レッツエンジョイ東京": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Yahoo!ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -112,6 +112,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.21",
@@ -119,6 +128,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.21",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -132,23 +151,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.21",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "title": "opposite office moves into one-square-meter treehouse at bauhaus university",
+      "url": "https://www.designboom.com/architecture/opposite-office-one-square-meter-treehouse-germany-weimar/",
+      "excerpt": "Opposite Office has opened a new office - in a tree.\nOne square metre, two to three architects, and no rent. The Baumhaus Office is a radical experiment in how little an architecture practice actually",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/418688/2026-08-20/baumhaus-office-11-6a8757ed972e7.jpg",
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.21",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "We report from the world’s most moneyed automotive event, Monterey Car Week 2026",
+      "url": "https://www.wallpaper.com/transportation/we-report-from-the-worlds-most-moneyed-automotive-event-monterey-car-week-2026",
+      "excerpt": "MCW 2026 was all about the big numbers. Across The Quail, Pebble Beach Concours and numerous other events, some of the world’s most storied automobiles were assembled in Northern California to be show",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UVo9tMuEiU6WAEzt9VvCv7-2000-80.jpg",
       "today": true
     },
     {
@@ -335,26 +354,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "what rome and vienna can teach about the future of affordable housing",
-      "url": "https://www.designboom.com/architecture/rome-vienna-teach-future-affordable-housing/",
-      "excerpt": "looking at social housing, occupied spaces, and the history of the two cities the curators of agency for better living opened a discussion on possible solutions to the global housing crisis. \nThe post",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/agency-better-living-designboom-11.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "This minimalist villa by Othmane Bengebara is conceived for both gatherings and retreat",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco",
-      "excerpt": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EUpShZRuQmGze76o8S8FnB-1416-80.jpg",
-      "today": false
     },
     {
       "source": "YAMAGIWA",
