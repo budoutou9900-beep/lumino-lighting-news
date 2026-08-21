@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  10:23",
+  "fetchedAt": "2026.08.21  11:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -53,25 +53,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "遠藤照明": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "岩崎電気": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -155,6 +147,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "peculiar facades of roadside love hotels paint françois prost’s japan photo diary",
+      "url": "https://www.designboom.com/art/peculiar-facades-roadside-love-hotels-francois-prost-japan-photo-diary-12-27-2024/",
+      "excerpt": "françois prost highlights distinctive architectural typologies as a lens to explore japanese popular culture.\nThe post peculiar facades of roadside love hotels paint françois prost’s japan photo diary",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2024/12/love-hotel-japan-francois-prost-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Iterare Arquitectos inserts stark white home into shell of old Spanish building",
+      "url": "https://www.dezeen.com/2026/08/21/iterare-arquitectos-casa-nido/",
+      "excerpt": "A crisp white cube has been nested within the old brick shell of an existing building to create Casa Nido, a Spanish house designed by local studio Iterare Arquitectos. Casa Nido, or Nesting House, wa",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -223,6 +234,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "JUVO – resting area and viewpoint in Southwestern Norway / ATSITE",
+      "url": "https://www.archdaily.com/1183273/juvo-resting-area-and-viewpoint-in-southwestern-norway-atsite",
+      "excerpt": "Brattlandsdalen is a dramatic, narrow, and deep gorge along Norway's National Road number 13, shaped by steep mountainsides and the constant force of water. The gorge holds rare geological formations,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7d/f72b/3cf9/6c00/0178/27d0/large_jpg/JUVO_1.jpg?1786640194",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "William Rawn Associates' New Museum of Science Venue Nears Completion in Boston",
+      "url": "https://www.archdaily.com/1183728/william-rawn-associates-new-museum-of-science-venue-nears-completion-in-boston",
+      "excerpt": "The construction of the William and Charlotte Bloomberg Public Science Common, the new venue at Boston's Museum of Science, one of the United States' oldest science institutions, is nearing completion",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/62e4/ab59/ca01/8994/68f2/large_jpg/museum-of-science-boston_4.jpg?1787257607",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -248,6 +279,16 @@ window.LUMINO_DATA = {
       "title": "Visualisation has become more than creating \"a single visual output\" says Chaos",
       "url": "https://www.dezeen.com/2026/08/21/visualisation-chaos-ai-storytelling-tool/",
       "excerpt": "Promotion: according to software company Chaos, AI-assisted tools, advances in rendering technologies, and shifting client expectations are transforming the architecture industry's visualisation workf",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "The Maison du Peuple: Reclaiming Brutalism for Nation-Building",
+      "url": "https://www.archdaily.com/1183315/the-maison-du-peuple-reclaiming-brutalism-for-nation-building",
+      "excerpt": "When African countries gained independence from European colonial rule during the mid-twentieth century, nation-building involved more than establishing new governments and political institutions. New",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/03d6/ac8b/af01/892c/c8c8/large_jpg/the-maison-du-peuple-utilizing-brutalism-for-nation-building_9.jpg?1786708995",
       "today": true
     },
     {
@@ -291,16 +332,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Jiashan Dayun Landison Manor   / HB ARCHITECTS + NATURE TIME ART",
-      "url": "https://www.archdaily.com/1183488/jiashan-dayun-landison-manor-hb-architects-plus-nature-time-art",
-      "excerpt": "The project is located in Shangxia Village, Jiashan, Zhejiang Province, with a total site area of approximately 15,600 square metres. It stretches 367 metres from east to west, with a maximum width of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/1cac/3cf9/6c00/0178/364b/large_jpg/Fig._29.jpg?1787043275",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -318,55 +349,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco",
       "excerpt": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EUpShZRuQmGze76o8S8FnB-1416-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Audiovisual Experimentation Center / Dirección General de Arquitectura + Secretaria de Planificación + Municipalidad de Avellaneda",
-      "url": "https://www.archdaily.com/1183724/audiovisual-experimentation-center-direccion-general-de-arquitectura-plus-secretaria-de-planificacion-plus-municipalidad-de-avellaneda",
-      "excerpt": "The Audiovisual Experimentation Center (CEA) is located in the city of Avellaneda, within an urban fragment shaped by redevelopment and infrastructure. Rather than a passive restoration, the project r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bfcb/4253/0500/01c9/f759/large_jpg/CEA_Direccion_Gral._de_Arquitectura_-___Federico_Cairoli__23_.jpg?1787215854",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Studio Barnes and Ch_studio to convert former KKK building in Texas into arts centre",
-      "url": "https://www.dezeen.com/2026/08/20/studio-barnes-ch-studio-convert-kkk-building-arts-centre-fort-worth/",
-      "excerpt": "A team including Studio Barnes and Ch_studio has revealed designs for the 1920s building once used by the white supremacist group the Ku Klux Klan in Fort Worth, Texas, into a \"catalyst for community ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "Yoshi House / AR Arquitetos",
-      "url": "https://www.archdaily.com/1183686/yoshi-house-ar-arquitetos",
-      "excerpt": "Taking advantage of the slope toward the forest at the back of the property, the ground was redesigned into split levels made of solid brick to accommodate the social areas. Above this, supported by a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/b96e/4253/0500/01c9/f16e/large_jpg/_DSF6988_ok.jpg?1787083824",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "atrium architekti transforms 1960s workers’ dormitory into 507 homes in slovakia",
-      "url": "https://www.designboom.com/architecture/atrium-architekti-workers-dormitory-homes-slovakia/",
-      "excerpt": "the rigid grid remains, but 507 new homes give the monumental 1960s structure an entirely different life.\nThe post atrium architekti transforms 1960s workers’ dormitory into 507 homes in slovakia appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/449140/2026-08-19/from-socialist-dormitory-to-urban-housing-3-6a85b51167ac6.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -430,16 +412,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -447,16 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
