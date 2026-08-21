@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  14:29",
+  "fetchedAt": "2026.08.21  15:27",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -148,6 +148,25 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "UUfie organises renovated Ontario chalet \"like a hike\"",
+      "url": "https://www.dezeen.com/2026/08/21/uufie-renovates-ontario-chalet-belfountain/",
+      "excerpt": "Toronto architecture studio UUfie has expanded and renovated a 1970s chalet in Ontario to conform to its steep, wooded site with a net that serves as an internal barrier and a hammock. Set on 3 acres ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "The Kip House, a classic piece of post-war American Modernism is up for sale in Berkeley",
+      "url": "https://www.wallpaper.com/architecture/residential/the-kip-house-a-classic-piece-of-post-war-american-modernism-is-up-for-sale-in-berkeley",
+      "excerpt": "Donald Olsen’s Kip House is a modest masterpiece of West Coast residential design, built in 1952 for a pioneering physicist and Bauhaus enthusiast",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LbkzJV6BudMtWhtJAGZV8o-2560-80.jpg",
       "today": true
     },
     {
@@ -324,25 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/ultra-processed-architecture",
       "excerpt": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kggs8M9Ky4Sors86TY8hVj-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Visualisation has become more than creating \"a single visual output\" says Chaos",
-      "url": "https://www.dezeen.com/2026/08/21/visualisation-chaos-ai-storytelling-tool/",
-      "excerpt": "Promotion: according to software company Chaos, AI-assisted tools, advances in rendering technologies, and shifting client expectations are transforming the architecture industry's visualisation workf",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Nômade Temple Ibiza gives the island a new place of worship",
-      "url": "https://www.wallpaper.com/travel/hotels/nomade-temple-ibiza-review",
-      "excerpt": "A subterranean spa, cove-side dining and a shaman in-residence set the rhythm at Nômade’s new retreat on Ibiza’s northern shore",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/su3jxuxYWJnW3eycMH36KU-1600-80.jpg",
       "today": true
     },
     {
