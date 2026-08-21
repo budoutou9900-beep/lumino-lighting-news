@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.20  23:20",
+  "fetchedAt": "2026.08.21  00:57",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "鉄道ファン・railf.jp": {
+    "高松経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "カナロコ": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Kiss PRESS(キッスプレス)": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -53,32 +53,28 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "岩崎電気": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -88,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -98,7 +94,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -106,28 +102,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "date": "2026.08.21",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "鉄道ファン・railf.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -135,43 +122,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
+      "date": "2026.08.21",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
-      "source": "カナロコ",
+      "source": "鉄道ファン・railf.jp",
       "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "冬の夜 幻想的な世界が広がる イルミネーション・ライトアップ２０２５",
-      "url": "https://www.kanaloco.jp/news/culture/bunka/article-1230342.html",
+      "date": "2026.08.21",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.kanaloco.jp/sites/default/files/styles/rectangle_750_390/public/2025-12/yokohama_1.jpg?itok=NMg0iK6j",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
       "today": true
     },
     {
-      "source": "Kiss PRESS(キッスプレス)",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "海辺ならではのライトアップが楽しい！明石市「大蔵海岸ハートフルイルミネーション2025」",
-      "url": "https://kisspress.jp/articles/59977/",
+      "date": "2026.08.21",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://kisspress.jp/img/articles/59900-59999/59977/img6940e900bd680_tw.jpg",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.20",
-      "title": "2026/2/6(金)～2/11(水･祝)『第7回上田氷灯ろう夢まつり』開創1200年の「北向観音堂」を幻想的にライトアップ！丙午の年に力強く開運を【2025-2026年 長野県イルミネーション】＠上田市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=258289",
+      "source": "DNライティング",
+      "cat": "新製品",
+      "date": "2026.08.21",
+      "title": "新製品：縦曲げ・横曲げで屋外の曲線に対応｜IP67対応・屋外用LEDモジュール「FXC-LED-WP」",
+      "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/da1939026ad7faf5bf2380a710d5d1d5.jpg",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
     },
     {
@@ -182,7 +169,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/rome-vienna-teach-future-affordable-housing/",
       "excerpt": "looking at social housing, occupied spaces, and the history of the two cities the curators of agency for better living opened a discussion on possible solutions to the global housing crisis. \nThe post",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/agency-better-living-designboom-11.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -192,7 +179,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco",
       "excerpt": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EUpShZRuQmGze76o8S8FnB-1416-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -202,7 +189,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183724/audiovisual-experimentation-center-direccion-general-de-arquitectura-plus-secretaria-de-planificacion-plus-municipalidad-de-avellaneda",
       "excerpt": "The Audiovisual Experimentation Center (CEA) is located in the city of Avellaneda, within an urban fragment shaped by redevelopment and infrastructure. Rather than a passive restoration, the project r",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bfcb/4253/0500/01c9/f759/large_jpg/CEA_Direccion_Gral._de_Arquitectura_-___Federico_Cairoli__23_.jpg?1787215854",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -211,7 +198,7 @@ window.LUMINO_DATA = {
       "title": "Studio Barnes and Ch_studio to convert former KKK building in Texas into arts centre",
       "url": "https://www.dezeen.com/2026/08/20/studio-barnes-ch-studio-convert-kkk-building-arts-centre-fort-worth/",
       "excerpt": "A team including Studio Barnes and Ch_studio has revealed designs for the 1920s building once used by the white supremacist group the Ku Klux Klan in Fort Worth, Texas, into a \"catalyst for community ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -221,7 +208,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183686/yoshi-house-ar-arquitetos",
       "excerpt": "Taking advantage of the slope toward the forest at the back of the property, the ground was redesigned into split levels made of solid brick to accommodate the social areas. Above this, supported by a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/b96e/4253/0500/01c9/f16e/large_jpg/_DSF6988_ok.jpg?1787083824",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -231,7 +218,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/atrium-architekti-workers-dormitory-homes-slovakia/",
       "excerpt": "the rigid grid remains, but 507 new homes give the monumental 1960s structure an entirely different life.\nThe post atrium architekti transforms 1960s workers’ dormitory into 507 homes in slovakia appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/449140/2026-08-19/from-socialist-dormitory-to-urban-housing-3-6a85b51167ac6.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -241,7 +228,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/innodigym-omni-x1-pro-review",
       "excerpt": "The Innodigym OMNI X1 Pro has hundreds of guided exercises on board as well as a clever system of cable-driven resistance that provides multiple ways to work out",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mgBAU25tDcfvHvwM7KSGA-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -251,7 +238,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/aulets-architectes-natural-stone-recycled-pallet-roof-mallorca-futur-habitable-pavilion-pollenca/",
       "excerpt": "with its futur habitable pavilion, aulets architectes uses natural stone and recycled wood to frame a public passage in pollença, mallorca.\nThe post aulets stacks natural stone beneath a recycled pall",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/aulets-architectes-futur-habitable-pavilion-mallorca-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -260,7 +247,7 @@ window.LUMINO_DATA = {
       "title": "Chapati vending machine among projects from University of Nottingham",
       "url": "https://www.dezeen.com/2026/08/20/chapati-vending-machine-among-projects-from-the-university-of-nottingham-schoolshows/",
       "excerpt": "Dezeen School Shows: a vending machine distributing fresh, hot chapatis in corporate canteens in India is among the projects from the University of Nottingham. Also featured is a wearable open-water m",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -270,7 +257,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183721/casa-insula-tanat-plus-pemo-plus-carlos-garcia-noriega",
       "excerpt": "Mérida knows how to consume itself, especially if we look away for a moment.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bf64/4253/0500/01c9/f727/large_jpg/0_Hero_img_3_07_WebRes_Tanat_Pemo_CarlosGarc_aNoriega_CasaMerida_PhotoByAlejandroRamirezOrozco.jpg?1787215741",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -280,7 +267,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/mercedes-maybach-gls-review",
       "excerpt": "The GLS is the largest SUV model from Mercedes-Benz. In Mercedes-Maybach trim, it offers pace and space to explore the outer limits of the company’s most luxurious accoutrements",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5TXoyM24KeHqTA84EZqQDG-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -289,7 +276,7 @@ window.LUMINO_DATA = {
       "title": "MIT researchers engineer bacteria that could program plants for self-defence",
       "url": "https://www.dezeen.com/2026/08/20/mit-engineers-bacteria-transitors/",
       "excerpt": "Researchers at MIT have found a way to grow bacteria to function as signal-senders that might allow plants to \"sense and respond to environmental conditions such as drought or attack by pests\". The st",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -299,7 +286,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183638/fradique-building-gruposp",
       "excerpt": "The project is part of an initiative to revive the \"predinho\" typology—low-rise residential building models common before the 1970s—reassessing their qualities of scale and community life in contrast ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/ab9f/4253/0500/01c9/f0e8/large_jpg/GSP_PFC_NelsonKon_02.jpg?1787079698",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -309,7 +296,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183670/trilogy-house-waechter-architecture",
       "excerpt": "Trilogy House reimagines a traditional Portland vernacular, creating a private refuge that engages the street while reconnecting to nature through carefully oriented living spaces.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/eac7/4253/0500/01c9/f836/large_jpg/Trilogy-House-Pablo-Enriquez-ArchDaily-_1_.jpg?1787226860",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -319,7 +306,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/jacques-marie-mage-sunglasses-stanley-kubrick",
       "excerpt": "The American eyewear brand continues its ongoing collaboration with the filmmaker’s estate by reissuing two pairs of sunglasses inspired by two of Kubrick’s seminal decades – the 1940s and the 1980s",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/waBKec8fC966xX4UPX3vuY-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -329,7 +316,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali/",
       "excerpt": "from lisbon and athens to mexico city and bali, the remote-work economy is transforming residential architecture, neighborhood commerce, and even agricultural infrastructure.\nThe post who gets to stay",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -339,7 +326,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fragrance/gracie-abrams-chanel-coco-mademoiselle-crush-absolu-film",
       "excerpt": "The campaign, directed by Joe Wright, stars the musician on a nocturnal adventure in Paris",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pb6LGdKLPVWEg9ecJMjJ36-1100-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -348,7 +335,7 @@ window.LUMINO_DATA = {
       "title": "António Costa Lima Arquitectos adds concrete extension to historic Lisbon school",
       "url": "https://www.dezeen.com/2026/08/20/antonio-costa-lima-colegio-de-santa-maria/",
       "excerpt": "Portuguese studio António Costa Lima Arquitectos has extended the historic Colégio de Santa Maria school in Lisbon, adding a stack of cubic concrete volumes that cascade down to a terrace and playgrou",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -357,7 +344,7 @@ window.LUMINO_DATA = {
       "title": "Brad Pitt brought on as executive producer for Peter Zumthor documentary",
       "url": "https://www.dezeen.com/2026/08/20/brad-pitt-from-inside-out-peter-zumthor-documentary/",
       "excerpt": "American actor Brad Pitt has joined German filmmaker Wim Wenders on the production of a documentary exploring the works of Swiss architect Peter Zumthor. Set to premiere at the Venice Film Festival ne",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -367,7 +354,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/a-design-award-and-competition-winner-furniture-interior-concepts/",
       "excerpt": "discover the A’ design award and competition stand-out projects and learn how to submit your work for the upcoming 2027 edition. \nThe post uncovering furniture and interior concepts that prioritize id",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adesign-awards_designboom_facebook.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "YAMAGIWA",
@@ -377,7 +364,7 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79831/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -387,7 +374,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/179",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/179/260527_1989.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -437,16 +424,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/187",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/187/_5027232.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "納入事例に「白い恋人~ Hakodate Bay Museum ~」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/188",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/188/_5029938.jpg",
       "today": false
     },
     {
@@ -556,16 +533,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/construction/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "国内情報",
-      "date": "2026.07.07",
-      "title": "セミナー「60分でわかる 光の基礎知識 －人と光の関係を科学的根拠から学ぶー 照明エビデンス編 2026」",
-      "url": "https://www.endo-lighting.co.jp/news/20260707-01/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/kiso_seminer2560px.png",
       "today": false
     }
   ]
