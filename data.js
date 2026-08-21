@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  20:19",
+  "fetchedAt": "2026.08.21  21:18",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -151,12 +151,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest",
+      "url": "https://www.designboom.com/architecture/minqa-atelier-charred-timber-refuge-ecuador-choco-forest/",
+      "excerpt": "stepped teak platforms follow a forest slope above gabions walls filled with river stones.\nThe post minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest appeared firs",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/minqa-atelier-choco-pambil-refuge-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.21",
       "title": "Heinz adjustable ketchup lid allows for \"perfect squeeze\"",
       "url": "https://www.dezeen.com/2026/08/21/kraft-heinz-love-lid-ketchup-adjustable/",
       "excerpt": "US food company Kraft Heinz has created an adjustable cap for its ketchup bottles that allows users to snap it into different positions to control the rate of flow. The limited edition Love Lid was de",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "MFA House / Simone Jazbik Arquitetura",
+      "url": "https://www.archdaily.com/1183798/mfa-house-simone-jazbik-arquitetura",
+      "excerpt": "Located in Búzios, Rio de Janeiro, on a 943 m² plot within a gated community, this 348 m² beach house was designed from scratch by @SimoneJazbik.Arq. Designed for a couple in their late 50s—both lawye",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3ec3/4253/0500/01c9/fbef/large_jpg/Casa_de_praia_com_348m2_em_B_zios_projetada_do_zero_pelo_escrit_rio_Simone_Jazbik_Arquitetura___foto_2.jpg?1787248363",
       "today": true
     },
     {
@@ -206,6 +226,16 @@ window.LUMINO_DATA = {
       "title": "Colourful cultural artefact storehouse among projects from London School of Architecture",
       "url": "https://www.dezeen.com/2026/08/21/cultural-artefact-storehouse-london-school-of-architecture-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal for a storehouse in Brent, UK, that keeps cultural artefacts is among the student projects from the London School of Architecture. Also featured is a project that propo",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Casa Pura Vida / Zozaya Arquitectos",
+      "url": "https://www.archdaily.com/1183767/casa-pura-vida-zozaya-arquitectos",
+      "excerpt": "Pura Vida was born from the clients' desire to create a unique residence in Troncones: a contemporary home that leverages Mexico's construction qualities, from the richness of its materials to the pre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1b13/4253/0500/01c9/fe11/large_jpg/ZAR_PURAVIDA_CesarBelio-2.jpg?1787304797",
       "today": true
     },
     {
@@ -268,16 +298,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "peculiar facades of roadside love hotels paint françois prost’s japan photo diary",
-      "url": "https://www.designboom.com/art/peculiar-facades-roadside-love-hotels-francois-prost-japan-photo-diary-12-27-2024/",
-      "excerpt": "françois prost highlights distinctive architectural typologies as a lens to explore japanese popular culture.\nThe post peculiar facades of roadside love hotels paint françois prost’s japan photo diary",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2024/12/love-hotel-japan-francois-prost-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -323,26 +343,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/what-predictions-does-jean-christophe-babin-ceo-of-lvmh-watches-have-for-the-future-of-watchmaking",
       "excerpt": "On the eve of Geneva Watch Days (September 2 - 6), Jean-Christophe Babin shares his thoughts on the watch industry",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DJpuGTNMr2n7LRAZhCaGK-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "12 Colombian Houses Featuring Exposed Brick",
-      "url": "https://www.archdaily.com/939644/11-colombian-houses-that-feature-exposed-brick",
-      "excerpt": "Brick is one of Colombia's most widely used materials, helping its local architecture stand out globally. This is due to the excellent quality of the clay found in several regions of the country. In a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/0679/ab59/ca01/8994/6578/large_jpg/12-casas-colombianas-que-usan-el-ladrillo-a-la-vista_43.jpg?1787233922",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Ocean Stories Museum  / Transborder Studio",
-      "url": "https://www.archdaily.com/1183510/ocean-stories-museum-transborder-studio",
-      "excerpt": "Transborder designs Arctic Ocean museum in wood, aluminum, and local stone.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5488/3cf9/6c00/0178/3815/large_jpg/01r_Transborder_OceanStories___Johan_Dehlin_251008.jpg?1787057317",
       "today": true
     },
     {
