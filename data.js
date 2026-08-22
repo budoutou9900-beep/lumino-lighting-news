@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  08:22",
+  "fetchedAt": "2026.08.22  09:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,25 +49,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "遠藤照明": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -154,6 +146,16 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.22",
+      "title": "A trio of homes by Syn Architects offers a contemporary take on Saudi heritage",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/syn-architects-saudi-arabia",
+      "excerpt": "Saudi-based practice Syn Architects joins the Wallpaper* Architects’ Directory for 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MWUMdrShMYKa7Gm5Shcexg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.22",
       "title": "Modern bathroom ideas that turn your bathroom into the most precious room of the house",
       "url": "https://www.wallpaper.com/design-interiors/interior-design/bathroom-design-trends-ideas-2027",
       "excerpt": "Here are our best bathroom design ideas for 2027: elevate your wellness space with wood panelling, serene colour palettes and unexpected material combination",
@@ -178,6 +180,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/langosteria-london-the-owo-review",
       "excerpt": "From Sicilian langoustine to tonno rosso carpaccio, Langosteria serves Italian seafood in one of Whitehall’s grandest dining rooms",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EVyKZdNWZqikHRBF8npCmN-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "This week we unveiled an IKEA collection that makes collectible design affordable",
+      "url": "https://www.dezeen.com/2026/08/22/this-week-on-dezeen-ikea-collection-collectible-design-affordable/",
+      "excerpt": "This week on Dezeen, IKEA shared a first look at its Konstrunda collection, which elevates \"everyday objects into art pieces\" with contributions from seven designers, including Andu Masebo and Lisa Hi",
       "today": true
     },
     {
@@ -298,16 +309,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "The Kip House, a classic piece of post-war American Modernism is up for sale in Berkeley",
-      "url": "https://www.wallpaper.com/architecture/residential/the-kip-house-a-classic-piece-of-post-war-american-modernism-is-up-for-sale-in-berkeley",
-      "excerpt": "Donald Olsen’s Kip House is a modest masterpiece of West Coast residential design, built in 1952 for a pioneering physicist and Bauhaus enthusiast",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LbkzJV6BudMtWhtJAGZV8o-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -337,15 +338,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Photos reveal world's tallest hotel in Dubai",
-      "url": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel/",
-      "excerpt": "Photographer Ahmad Alnaji has captured the Ciel Dubai Marina, a supertall skyscraper by architecture studio NORR that was recently completed as the tallest hotel in the world. Ciel Dubai Marina opened",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "新製品",
       "date": "2026.08.21",
@@ -353,16 +345,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -426,16 +408,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -443,16 +415,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
