@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  00:54",
+  "fetchedAt": "2026.08.22  02:14",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,27 +13,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "高松経済新聞": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "レッツエンジョイ東京": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,15 +41,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -57,17 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -102,6 +98,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.22",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.22",
@@ -131,6 +136,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.22",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.22",
@@ -141,16 +156,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.08.22",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -158,6 +163,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/minqa-atelier-charred-timber-refuge-ecuador-choco-forest/",
       "excerpt": "stepped teak platforms follow a forest slope above gabions walls filled with river stones.\nThe post minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/minqa-atelier-choco-pambil-refuge-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.21",
+      "title": "Yaku – Sustainable Urban Runoff Management Module / El Sindicato Arquitectura",
+      "url": "https://www.archdaily.com/1183770/yaku-sustainable-urban-runoff-management-module-el-sindicato-arquitectura",
+      "excerpt": "Isla Tortuga Park, located in northern Quito, Ecuador, was selected for the implementation of the Yaku (meaning \"water\" in Kichwa) prototype. This modular urban furniture project blends public space w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/194d/4253/0500/01c9/fdd2/large_jpg/YAKU_-_El_Sindicato_Arquitectura.jpg-4.jpg?1787304315",
       "today": false
     },
     {
@@ -316,16 +331,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Construction of a Media Library and Redesign of a Music School in Sarlat-la-Canéda / Dominique Coulon & associés",
-      "url": "https://www.archdaily.com/1183616/construction-of-a-media-library-and-redesign-of-a-music-school-in-sarlat-la-caneda-dominique-coulon-and-associes",
-      "excerpt": "The media library and music school are built against an ochre cliff, which gives them unique character. The aim here was to place a modern construction in one of Europe's most beautiful medieval towns",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/bd2d/ab59/ca01/8994/620b/large_jpg/construction-of-a-media-library-and-redesign-of-a-music-school-in-sarlat-la-caneda-dominique-coulon-and-associes_34.jpg?1787149637",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.21",
@@ -353,16 +358,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -426,16 +421,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -443,16 +428,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
