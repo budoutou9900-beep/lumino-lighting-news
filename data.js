@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  09:22",
+  "fetchedAt": "2026.08.22  10:17",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,37 +29,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -140,6 +152,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.22",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
       "today": true
     },
     {
@@ -348,6 +370,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -408,6 +440,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -415,6 +457,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
