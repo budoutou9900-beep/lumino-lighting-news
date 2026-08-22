@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  13:27",
+  "fetchedAt": "2026.08.22  14:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -172,6 +172,24 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/david-gianotten-oma-local-context-future-cities-interview/",
       "excerpt": "the OMA managing partner discusses why the future of urban life depends less on universal planning models than on local context, public infrastructure, and community agency.\nThe post david gianotten o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/david-gianotten-oma-local-context-future-cities-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "\"Light and sea breeze shape the viewing\" of exhibits at open-air art gallery in Mexico",
+      "url": "https://www.dezeen.com/2026/08/22/arte-abierto-baja-sordo-madaleno-arquitectos/",
+      "excerpt": "Local studio Sordo Madaleno Arquitectos has completed the Arte Abierto Baja in Mexico, an open-air exhibition space wrapped by monolithic walls of exposed concrete and stone. Designed for non-profit a",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "Seven basketball courts that score design points",
+      "url": "https://www.dezeen.com/2026/08/22/basketball-courts-design-roundup/",
+      "excerpt": "From outdoor courts that act as flood-water-draining bioswales to an indoor court under a concrete dome in Chile, here are seven basketball courts that integrate good design to expand their presence b",
       "today": true
     },
     {
@@ -339,24 +357,6 @@ window.LUMINO_DATA = {
       "title": "Colourful cultural artefact storehouse among projects from London School of Architecture",
       "url": "https://www.dezeen.com/2026/08/21/cultural-artefact-storehouse-london-school-of-architecture-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal for a storehouse in Brent, UK, that keeps cultural artefacts is among the student projects from the London School of Architecture. Also featured is a project that propo",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "UUfie organises renovated Ontario chalet \"like a hike\"",
-      "url": "https://www.dezeen.com/2026/08/21/uufie-renovates-ontario-chalet-belfountain/",
-      "excerpt": "Toronto architecture studio UUfie has expanded and renovated a 1970s chalet in Ontario to conform to its steep, wooded site with a net that serves as an internal barrier and a hammock. Set on 3 acres ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Iterare Arquitectos inserts stark white home into shell of old Spanish building",
-      "url": "https://www.dezeen.com/2026/08/21/iterare-arquitectos-casa-nido/",
-      "excerpt": "A crisp white cube has been nested within the old brick shell of an existing building to create Casa Nido, a Spanish house designed by local studio Iterare Arquitectos. Casa Nido, or Nesting House, wa",
       "today": false
     },
     {
