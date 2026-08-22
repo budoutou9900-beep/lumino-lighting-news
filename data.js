@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  07:26",
+  "fetchedAt": "2026.08.22  08:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -148,6 +148,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "Modern bathroom ideas that turn your bathroom into the most precious room of the house",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/bathroom-design-trends-ideas-2027",
+      "excerpt": "Here are our best bathroom design ideas for 2027: elevate your wellness space with wood panelling, serene colour palettes and unexpected material combination",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSp5Ku5VhGxdb2eXz6xMJZ-2000-80.jpg",
       "today": true
     },
     {
@@ -295,16 +305,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/the-kip-house-a-classic-piece-of-post-war-american-modernism-is-up-for-sale-in-berkeley",
       "excerpt": "Donald Olsen’s Kip House is a modest masterpiece of West Coast residential design, built in 1952 for a pioneering physicist and Bauhaus enthusiast",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LbkzJV6BudMtWhtJAGZV8o-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "We report from the world’s most moneyed automotive event, Monterey Car Week 2026",
-      "url": "https://www.wallpaper.com/transportation/we-report-from-the-worlds-most-moneyed-automotive-event-monterey-car-week-2026",
-      "excerpt": "MCW 2026 was all about the big numbers. Across The Quail, Pebble Beach Concours and numerous other events, some of the world’s most storied automobiles were assembled in Northern California to be show",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UVo9tMuEiU6WAEzt9VvCv7-2000-80.jpg",
       "today": false
     },
     {
