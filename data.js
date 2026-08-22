@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  06:29",
+  "fetchedAt": "2026.08.22  07:26",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -148,6 +148,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "pyramids and maya forms shape coco brun and sten studio’s stone vessels",
+      "url": "https://www.designboom.com/design/pyramids-and-maya-forms-shape-coco-brun-and-sten-studios-stone-vessels/",
+      "excerpt": "coco brun and sten studio transform upcycled travertine, marble and onyx into limited-edition vessels inspired by pyramids and maya ornament.\nThe post pyramids and maya forms shape coco brun and sten ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467727/2026-08-17/sten-studio-collaborates-with-french-artist-coco-brun-to-translate-mexicos-stone-heritage-into-contemporary-design-3-6a8369209a888.jpg",
       "today": true
     },
     {
@@ -285,16 +295,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/the-kip-house-a-classic-piece-of-post-war-american-modernism-is-up-for-sale-in-berkeley",
       "excerpt": "Donald Olsen’s Kip House is a modest masterpiece of West Coast residential design, built in 1952 for a pioneering physicist and Bauhaus enthusiast",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LbkzJV6BudMtWhtJAGZV8o-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "opposite office moves into one-square-meter treehouse at bauhaus university",
-      "url": "https://www.designboom.com/architecture/opposite-office-one-square-meter-treehouse-germany-weimar/",
-      "excerpt": "Opposite Office has opened a new office - in a tree.\nOne square metre, two to three architects, and no rent. The Baumhaus Office is a radical experiment in how little an architecture practice actually",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/418688/2026-08-20/baumhaus-office-11-6a8757ed972e7.jpg",
       "today": false
     },
     {
