@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  17:15",
+  "fetchedAt": "2026.08.22  18:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -148,6 +148,26 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "São João Pharmacy / Tsou Arquitectos",
+      "url": "https://www.archdaily.com/1183648/sao-joao-pharmacy-tsou-arquitectos",
+      "excerpt": "FormThe building takes on a clear, contained volume, distinguished by the curvilinear form of its façade — a gesture that follows the profile of the street and marks the building's presence on the cor",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/1837/ac8b/af01/892c/da66/large_jpg/farmacia-sao-joao-tsou-arquitectos_25.jpg?1787172998",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "Breeze House / Ábaton",
+      "url": "https://www.archdaily.com/1148787/breeze-house-abaton",
+      "excerpt": "Breeze House is a new construction project in Madrid that includes the most fundamental aspects of the ABATON philosophy. A modern house framed in nature and light that takes advantage of the characte",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/9bef/d425/1a00/01c4/b91c/large_jpg/EXTERIOR_P_DE_LOS_LAGOS-_3.jpg?1784192008",
       "today": true
     },
     {
@@ -278,32 +298,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Yaku – Sustainable Urban Runoff Management Module / El Sindicato Arquitectura",
-      "url": "https://www.archdaily.com/1183770/yaku-sustainable-urban-runoff-management-module-el-sindicato-arquitectura",
-      "excerpt": "Isla Tortuga Park, located in northern Quito, Ecuador, was selected for the implementation of the Yaku (meaning \"water\" in Kichwa) prototype. This modular urban furniture project blends public space w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/194d/4253/0500/01c9/fdd2/large_jpg/YAKU_-_El_Sindicato_Arquitectura.jpg-4.jpg?1787304315",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.21",
       "title": "Heinz adjustable ketchup lid allows for \"perfect squeeze\"",
       "url": "https://www.dezeen.com/2026/08/21/kraft-heinz-love-lid-ketchup-adjustable/",
       "excerpt": "US food company Kraft Heinz has created an adjustable cap for its ketchup bottles that allows users to snap it into different positions to control the rate of flow. The limited edition Love Lid was de",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "MFA House / Simone Jazbik Arquitetura",
-      "url": "https://www.archdaily.com/1183798/mfa-house-simone-jazbik-arquitetura",
-      "excerpt": "Located in Búzios, Rio de Janeiro, on a 943 m² plot within a gated community, this 348 m² beach house was designed from scratch by @SimoneJazbik.Arq. Designed for a couple in their late 50s—both lawye",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3ec3/4253/0500/01c9/fbef/large_jpg/Casa_de_praia_com_348m2_em_B_zios_projetada_do_zero_pelo_escrit_rio_Simone_Jazbik_Arquitetura___foto_2.jpg?1787248363",
       "today": false
     },
     {
