@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.21  23:18",
+  "fetchedAt": "2026.08.22  00:54",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -94,7 +94,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -104,7 +104,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -114,7 +114,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -123,7 +123,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "高松経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.21",
+      "date": "2026.08.22",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
@@ -141,13 +141,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "レッツエンジョイ東京",
       "cat": "展示・アート",
-      "date": "2026.08.21",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "date": "2026.08.22",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
       "today": true
     },
     {
@@ -158,7 +158,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/minqa-atelier-charred-timber-refuge-ecuador-choco-forest/",
       "excerpt": "stepped teak platforms follow a forest slope above gabions walls filled with river stones.\nThe post minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest appeared firs",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/minqa-atelier-choco-pambil-refuge-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -167,7 +167,7 @@ window.LUMINO_DATA = {
       "title": "Heinz adjustable ketchup lid allows for \"perfect squeeze\"",
       "url": "https://www.dezeen.com/2026/08/21/kraft-heinz-love-lid-ketchup-adjustable/",
       "excerpt": "US food company Kraft Heinz has created an adjustable cap for its ketchup bottles that allows users to snap it into different positions to control the rate of flow. The limited edition Love Lid was de",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -177,7 +177,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183798/mfa-house-simone-jazbik-arquitetura",
       "excerpt": "Located in Búzios, Rio de Janeiro, on a 943 m² plot within a gated community, this 348 m² beach house was designed from scratch by @SimoneJazbik.Arq. Designed for a couple in their late 50s—both lawye",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3ec3/4253/0500/01c9/fbef/large_jpg/Casa_de_praia_com_348m2_em_B_zios_projetada_do_zero_pelo_escrit_rio_Simone_Jazbik_Arquitetura___foto_2.jpg?1787248363",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/charles-hollis-jones-obituary",
       "excerpt": "Architectural historian Adam Štěch reflects on the work of the legendary American designer",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nQLWFu6WR5WgJSRbNS3nuG-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -197,7 +197,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/takuto-ohta-200-leftover-cedar-logs-evolving-furniture-system/",
       "excerpt": "A dynamic and sensory creative approach utilizing materials destined for disposal through the exhibition process.\nThe post takuto ohta turns 200 leftover cedar logs into an evolving furniture system a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/402044/2026-08-21/log-x-1-6a87ca68275e0.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -207,7 +207,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/peleg-designs-crocodile-clips-beach-towels-blowing-away/",
       "excerpt": "crococlips by peleg design use playful crocodile-shaped grips to secure beach towels and picnic blankets on windy days.\nThe post peleg design’s crocodile clips keep beach towels from blowing away appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/peleg-designs-crocodile-clips-beach-towels-blowing-away-designboom-8-800x1000.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -217,7 +217,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/lotus-bamboo-roof-pablo-luna-studio-yoga-bali/",
       "excerpt": "arched bamboo ribs shape a lotus-like yoga pavilion whose 'petals' spread over a river valley in bali.\nThe post lotus-shaped bamboo roof floats over pablo luna studio’s yoga space in bali appeared fir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lotus-shala-wellness-facility-pablo-luna-studio-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -226,7 +226,7 @@ window.LUMINO_DATA = {
       "title": "Colourful cultural artefact storehouse among projects from London School of Architecture",
       "url": "https://www.dezeen.com/2026/08/21/cultural-artefact-storehouse-london-school-of-architecture-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal for a storehouse in Brent, UK, that keeps cultural artefacts is among the student projects from the London School of Architecture. Also featured is a project that propo",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -236,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183767/casa-pura-vida-zozaya-arquitectos",
       "excerpt": "Pura Vida was born from the clients' desire to create a unique residence in Troncones: a contemporary home that leverages Mexico's construction qualities, from the richness of its materials to the pre",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1b13/4253/0500/01c9/fe11/large_jpg/ZAR_PURAVIDA_CesarBelio-2.jpg?1787304797",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -245,7 +245,7 @@ window.LUMINO_DATA = {
       "title": "UUfie organises renovated Ontario chalet \"like a hike\"",
       "url": "https://www.dezeen.com/2026/08/21/uufie-renovates-ontario-chalet-belfountain/",
       "excerpt": "Toronto architecture studio UUfie has expanded and renovated a 1970s chalet in Ontario to conform to its steep, wooded site with a net that serves as an internal barrier and a hammock. Set on 3 acres ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -255,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/the-kip-house-a-classic-piece-of-post-war-american-modernism-is-up-for-sale-in-berkeley",
       "excerpt": "Donald Olsen’s Kip House is a modest masterpiece of West Coast residential design, built in 1952 for a pioneering physicist and Bauhaus enthusiast",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LbkzJV6BudMtWhtJAGZV8o-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -265,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/opposite-office-one-square-meter-treehouse-germany-weimar/",
       "excerpt": "Opposite Office has opened a new office - in a tree.\nOne square metre, two to three architects, and no rent. The Baumhaus Office is a radical experiment in how little an architecture practice actually",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/418688/2026-08-20/baumhaus-office-11-6a8757ed972e7.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -275,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/we-report-from-the-worlds-most-moneyed-automotive-event-monterey-car-week-2026",
       "excerpt": "MCW 2026 was all about the big numbers. Across The Quail, Pebble Beach Concours and numerous other events, some of the world’s most storied automobiles were assembled in Northern California to be show",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UVo9tMuEiU6WAEzt9VvCv7-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -285,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183785/epitacio-3714-building-cite-arquitetura",
       "excerpt": "Situated on one of the most singular plots of land in Rio de Janeiro's South Zone, the Epitácio building overlooks the Rodrigo de Freitas Lagoon, making the surrounding environment the protagonist of ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/423b/4253/0500/01c9/fc4f/large_jpg/Cit_-Fotos-arquitetura-Epit_cio-0754-copy-2.jpg?1787249457",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -295,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183413/hut-spot-pavilion-m2ft-architects",
       "excerpt": "HUT-SPOT stands on the edge of the forest, where the vegetation of the Romagna hills in Italy is gradually reclaiming an asphalt clearing, a former tennis court abandoned for decades. It is a threshol",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a6c/7f20/1801/ca00/0176/e6bf/large_jpg/4.jpg?1785495370",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -304,7 +304,7 @@ window.LUMINO_DATA = {
       "title": "Iterare Arquitectos inserts stark white home into shell of old Spanish building",
       "url": "https://www.dezeen.com/2026/08/21/iterare-arquitectos-casa-nido/",
       "excerpt": "A crisp white cube has been nested within the old brick shell of an existing building to create Casa Nido, a Spanish house designed by local studio Iterare Arquitectos. Casa Nido, or Nesting House, wa",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -313,7 +313,7 @@ window.LUMINO_DATA = {
       "title": "Photos reveal world's tallest hotel in Dubai",
       "url": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel/",
       "excerpt": "Photographer Ahmad Alnaji has captured the Ciel Dubai Marina, a supertall skyscraper by architecture studio NORR that was recently completed as the tallest hotel in the world. Ciel Dubai Marina opened",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -323,7 +323,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183616/construction-of-a-media-library-and-redesign-of-a-music-school-in-sarlat-la-caneda-dominique-coulon-and-associes",
       "excerpt": "The media library and music school are built against an ochre cliff, which gives them unique character. The aim here was to place a modern construction in one of Europe's most beautiful medieval towns",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/bd2d/ab59/ca01/8994/620b/large_jpg/construction-of-a-media-library-and-redesign-of-a-music-school-in-sarlat-la-caneda-dominique-coulon-and-associes_34.jpg?1787149637",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -333,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/loewe-foundation-craft-prize-la-residencia-belmond-hotel-mallorca",
       "excerpt": "Three former finalists of the Loewe Foundation Craft Prize will take up residence at La Residencia, A Belmond Hotel, Belmond’s art-filled retreat on the Spanish island",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gRaTHUdau6BNQvAmiEwrT7-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -343,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/what-predictions-does-jean-christophe-babin-ceo-of-lvmh-watches-have-for-the-future-of-watchmaking",
       "excerpt": "On the eve of Geneva Watch Days (September 2 - 6), Jean-Christophe Babin shares his thoughts on the watch industry",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DJpuGTNMr2n7LRAZhCaGK-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -353,7 +353,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "YAMAGIWA",
