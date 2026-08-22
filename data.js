@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  22:15",
+  "fetchedAt": "2026.08.22  23:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -164,6 +164,26 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.22",
+      "title": "Achime Bagel Store / JOJOWORKSHOP",
+      "url": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
+      "excerpt": "Achime Bagel is a neighborhood bakery located in Munjeong-dong, Seoul. The project began with the idea of creating a small space that could gently accompany the beginning of each day. The bakery prepa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/3107/ab59/ca01/8994/5913/large_jpg/achime-bagel-store-jojoworkshop_21.jpg?1786982682",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "Hermitage House C70 / ASMD Taller Arquitectura",
+      "url": "https://www.archdaily.com/1183774/hermitage-house-c70-asmd-taller-arquitectura",
+      "excerpt": "Ermita C70 transforms a 1960s house in the historic center of Mérida through an operation of subtraction: demolishing part of the built volume to recover the void as a source of light, ventilation, an",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/c02c/4253/0500/01c9/f795/large_jpg/Manolo_R_Solis_00.jpg?1787216029",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.22",
       "title": "C.E. House / Dall'Ovo Magalhães Arquitetura",
       "url": "https://www.archdaily.com/1183808/ce-house-dallovo-magalhaes-arquitetura",
       "excerpt": "A mountain house that blurs the boundaries between living and contemplating. Sited on a plateau, between rolling lawns and the forest that climbs up the slope, the house sits as if it has belonged to ",
@@ -239,16 +259,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "What is Blue Infrastructure? Rethinking Water's Role in City Design",
-      "url": "https://www.archdaily.com/1182257/what-is-blue-infrastructure-rethinking-waters-role-in-city-design",
-      "excerpt": "Nature-based solutions are a primary strategy for contemporary climate adaptation and urban ecological resilience, embraced by cities regardless of their geography or climate zone. Green roofs, urban ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a73/32d7/4460/0501/896d/05df/large_jpg/what-is-blue-infrastructure-the-shift-from-water-as-an-object-to-water-as-a-system_1.jpg?1785934558",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.22",
@@ -256,16 +266,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/pyramids-and-maya-forms-shape-coco-brun-and-sten-studios-stone-vessels/",
       "excerpt": "coco brun and sten studio transform upcycled travertine, marble and onyx into limited-edition vessels inspired by pyramids and maya ornament.\nThe post pyramids and maya forms shape coco brun and sten ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467727/2026-08-17/sten-studio-collaborates-with-french-artist-coco-brun-to-translate-mexicos-stone-heritage-into-contemporary-design-3-6a8369209a888.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "Antiquity exhibition at Wawel castle / NArchitekTURA",
-      "url": "https://www.archdaily.com/1183570/antiquity-exhibition-at-wawel-castle-narchitektura",
-      "excerpt": "The design of the exhibition 'Masterpieces from the Lanckoroński Collection: A Story of Antiquity' is an attempt to introduce unconventional, modern display methods into the historic architecture of W",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7e56/4253/0500/01c9/f216/large_jpg/004_2.jpg?1787133543",
       "today": true
     },
     {
