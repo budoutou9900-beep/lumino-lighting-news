@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  22:15",
+  "fetchedAt": "2026.08.23  23:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -112,6 +112,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.23",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.23",
@@ -119,15 +128,6 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -157,6 +157,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/deliberately-uncomfortable-stainless-steel-chair-sitting-social-commentary/",
       "excerpt": "polished, reflective and resolutely unsympathetic to lounging, the chair turns the simple act of sitting into something rather more loaded.\nThe post deliberately uncomfortable stainless steel chair tu",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/447396/2026-08-19/the-womans-chair-2-6a8599768ca69.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "The Threshold House / Madras Spaces",
+      "url": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
+      "excerpt": "Located in V. Thuraiyur, near Tiruchirappalli, Tamil Nadu, this 1000 sq.ft farmhouse by Madras Spaces is conceived as a quiet return to a lost native landscape. Set amidst agricultural fields and far ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1045/ac8b/af01/892c/e082/large_jpg/the-threshold-house_8.jpg?1787302042",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "Cuattro Casa de Café / Faci Leboreiro",
+      "url": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
+      "excerpt": "At Cuattro Casa de Café, the project did not begin by defining the shape of the building, but rather by establishing what had to remain. Located in Troncones, Guerrero, on a sloping 50-by-24-meter lot",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bffc/4253/0500/01c9/f786/large_jpg/11._Cuattro_x_Faci_Leboreiro_-__Rafael_Gamo.jpg?1787216336",
       "today": true
     },
     {
@@ -231,20 +251,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
-      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
-      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
+      "title": "Goy Architects breathes new life into a material-rich 1950s Singapore bungalow",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
+      "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "Goy Architects breathes new life into a material-rich 1950s Singapore bungalow",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
-      "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
+      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
+      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
+      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
       "today": true
     },
     {
@@ -258,16 +278,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "The Public Kitchen: How Asian Markets Turn Eating Into Civic Life",
-      "url": "https://www.archdaily.com/1183562/the-public-kitchen-how-asian-markets-turn-eating-into-civic-life",
-      "excerpt": "In many Asian cities, eating has never belonged entirely to the private home. It spills into markets, hawker centers, street stalls, and wholesale districts embedded within larger buildings or areas. ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/4446/ac8b/af01/892c/d513/large_jpg/the-public-kitchen-food-courts-and-hawker-centers-as-civic-infrastructure-in-apac-cities_1.jpg?1787118673",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.23",
@@ -275,16 +285,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/blue-portals-and-brick-vaults-shape-dkas-apartment-renovation-in-rome/",
       "excerpt": "historic ceilings stay firmly in view as color, custom furniture and a few strategic openings loosen up the roman interior.\nThe post blue portals and brick vaults shape DKA’s apartment renovation in r",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/463105/2026-08-18/a-contemporary-interior-defined-by-colour-rhythm-and-identity-3-6a846681626f3.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Housing on top of the petrol station / Gut Deubelbeiss Nill Architekten",
-      "url": "https://www.archdaily.com/1183167/housing-on-top-of-the-petrol-station-gut-deubelbeiss-nill-architekten",
-      "excerpt": "The project is situated in Emmenbrücke, a town just outside Lucerne. Set within an industrial and high-traffic environment, the building marks the start of the row of houses by Emmenbrücke railway sta",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/36fe/3cf9/6c00/0178/09f3/large_jpg/12_gd_central_s_d_73922_1.jpg?1786525468",
       "today": true
     },
     {
