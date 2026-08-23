@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  07:28",
+  "fetchedAt": "2026.08.23  08:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -135,15 +135,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.08.23",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.23",
@@ -151,6 +142,26 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.23",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "A historical Madrid home enters the 21st century through smart minimalism by Solar.xyz",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/solarxyz-spain",
+      "excerpt": "Spanish architecture practice Solar.xyz is part of the Wallpaper* Architects Directory 2026, showcasing its smart renovation in the Madrid suburbs",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VaR4YuDiFtQSnSw9tsK2Kb-1318-80.jpg",
       "today": true
     },
     {
@@ -317,16 +328,6 @@ window.LUMINO_DATA = {
       "title": "This week we unveiled an IKEA collection that makes collectible design affordable",
       "url": "https://www.dezeen.com/2026/08/22/this-week-on-dezeen-ikea-collection-collectible-design-affordable/",
       "excerpt": "This week on Dezeen, IKEA shared a first look at its Konstrunda collection, which elevates \"everyday objects into art pieces\" with contributions from seven designers, including Andu Masebo and Lisa Hi",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "In Lagos, photographer Stephen Tayo captures the modern order of the 1920s Aludara movement",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/stephen-tayo-what-comes-to-mind-when-you-see-the-garment-lagos",
-      "excerpt": "In the exhibition 'What Comes to Mind When You See the Garment?' at Lagos concept store, Alára, Nigerian photographer Stephen Tayo follows the migratory story of the Aludara movement",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3MyEmR6em7QB4ZWD9JNbuQ-2560-80.jpg",
       "today": false
     },
     {
