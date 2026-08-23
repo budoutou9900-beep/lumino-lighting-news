@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  10:17",
+  "fetchedAt": "2026.08.23  11:16",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ひろしまリード": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "トラベルボイス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ウェザーニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,41 +37,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "遠藤照明": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "岩崎電気": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -106,51 +98,61 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ひろしまリード",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "title": "【12/1～】松江市の日本庭園 由志園のライトアップイルミネーション「黄金の島ジパング2024-2025」クリスマスシーズンがはじまる！",
+      "url": "https://hread.home-tv.co.jp/post-448938/",
       "excerpt": "",
+      "thumbnailUrl": "https://hread.home-tv.co.jp/wp-content/uploads/2024/11/20241120yuushien.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "トラベルボイス",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "兵庫県姫路市、姫路城ライトアップと連動するイルミネーション、世界遺産登録30周年で",
+      "url": "https://www.travelvoice.jp/20231124-154637",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://www.travelvoice.jp/wp-content/uploads/2023/11/65a3ddbe-bbe4-43c8-9a9c-505d78f63264.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ウェザーニュース",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
+      "url": "https://weathernews.jp/illumi/spot/4102007/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
       "today": true
     },
     {
-      "source": "アットエス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
+      "title": "when the car moves upstairs, the garage becomes part of the home",
+      "url": "https://www.designboom.com/technology/car-garage-home-residential-design-supercar-towers-miami/",
+      "excerpt": "extending the logic of the car into architecture, automotive brands are turning housing into a new design territory.\nThe post when the car moves upstairs, the garage becomes part of the home appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/beyond-garage-automotive-design-residential-housing-typology-designboom-FB.jpg",
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "Rough drystone walls frame sunken home on Greek island by Alexandre Pavlidis",
+      "url": "https://www.dezeen.com/2026/08/23/within-the-earth-alexandre-pavlidis/",
+      "excerpt": "Architect Alexandre Pavlidis has completed Within the Earth, a house on the Greek island of Sifnos contained within a series of sunken stone walls that step down a coastal hillside. Referencing the re",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "Five innovative smartphones and dumbphones that put design first",
+      "url": "https://www.dezeen.com/2026/08/23/innovative-smartphones-dumbphones-design-first/",
+      "excerpt": "For this roundup, we've collected five smartphones and dumbphones with exciting designs, ranging from a phone with a robot arm to a keyboard phone built for messaging. For many people, their phone is ",
       "today": true
     },
     {
@@ -201,6 +203,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-on-objectify-condominio-italy",
       "excerpt": "The tenth instalment of architect Carlo Ratti's series spotlighting Italian design investigates how the condominio, originating in second-century AD Rome, still defines our summer experience",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QaYYRt88TQuqtizPtwmMuQ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "KTGY revamps interiors of Fairmont Hotel in Chicago",
+      "url": "https://www.dezeen.com/2026/08/23/ktgy-revamps-interiors-fairmont-hotel-chicago/",
+      "excerpt": "US architecture studio KTGY has revamped the interiors of the HOK-designed Fairmont Hotel off of Chicago's Millennium Park. KTGY was brought on to refresh the detailing and bring light into the dark s",
       "today": true
     },
     {
@@ -292,15 +303,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "Seven basketball courts that score design points",
-      "url": "https://www.dezeen.com/2026/08/22/basketball-courts-design-roundup/",
-      "excerpt": "From outdoor courts that act as flood-water-draining bioswales to an indoor court under a concrete dome in Chile, here are seven basketball courts that integrate good design to expand their presence b",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.22",
@@ -318,34 +320,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/pyramids-and-maya-forms-shape-coco-brun-and-sten-studios-stone-vessels/",
       "excerpt": "coco brun and sten studio transform upcycled travertine, marble and onyx into limited-edition vessels inspired by pyramids and maya ornament.\nThe post pyramids and maya forms shape coco brun and sten ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467727/2026-08-17/sten-studio-collaborates-with-french-artist-coco-brun-to-translate-mexicos-stone-heritage-into-contemporary-design-3-6a8369209a888.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "This week we unveiled an IKEA collection that makes collectible design affordable",
-      "url": "https://www.dezeen.com/2026/08/22/this-week-on-dezeen-ikea-collection-collectible-design-affordable/",
-      "excerpt": "This week on Dezeen, IKEA shared a first look at its Konstrunda collection, which elevates \"everyday objects into art pieces\" with contributions from seven designers, including Andu Masebo and Lisa Hi",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest",
-      "url": "https://www.designboom.com/architecture/minqa-atelier-charred-timber-refuge-ecuador-choco-forest/",
-      "excerpt": "stepped teak platforms follow a forest slope above gabions walls filled with river stones.\nThe post minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest appeared firs",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/minqa-atelier-choco-pambil-refuge-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.21",
-      "title": "Heinz adjustable ketchup lid allows for \"perfect squeeze\"",
-      "url": "https://www.dezeen.com/2026/08/21/kraft-heinz-love-lid-ketchup-adjustable/",
-      "excerpt": "US food company Kraft Heinz has created an adjustable cap for its ketchup bottles that allows users to snap it into different positions to control the rate of flow. The limited edition Love Lid was de",
       "today": false
     },
     {
