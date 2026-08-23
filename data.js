@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  11:16",
+  "fetchedAt": "2026.08.23  12:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,57 +13,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ひろしまリード": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "トラベルボイス": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウェザーニュース": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -98,33 +106,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ひろしまリード",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "【12/1～】松江市の日本庭園 由志園のライトアップイルミネーション「黄金の島ジパング2024-2025」クリスマスシーズンがはじまる！",
-      "url": "https://hread.home-tv.co.jp/post-448938/",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://hread.home-tv.co.jp/wp-content/uploads/2024/11/20241120yuushien.jpg",
       "today": true
     },
     {
-      "source": "トラベルボイス",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "兵庫県姫路市、姫路城ライトアップと連動するイルミネーション、世界遺産登録30周年で",
-      "url": "https://www.travelvoice.jp/20231124-154637",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.travelvoice.jp/wp-content/uploads/2023/11/65a3ddbe-bbe4-43c8-9a9c-505d78f63264.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/4102007/",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.08.23",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.23",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
@@ -186,6 +212,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "The Public Kitchen: How Asian Markets Turn Eating Into Civic Life",
+      "url": "https://www.archdaily.com/1183562/the-public-kitchen-how-asian-markets-turn-eating-into-civic-life",
+      "excerpt": "In many Asian cities, eating has never belonged entirely to the private home. It spills into markets, hawker centers, street stalls, and wholesale districts embedded within larger buildings or areas. ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/4446/ac8b/af01/892c/d513/large_jpg/the-public-kitchen-food-courts-and-hawker-centers-as-civic-infrastructure-in-apac-cities_1.jpg?1787118673",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.23",
@@ -193,6 +229,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/blue-portals-and-brick-vaults-shape-dkas-apartment-renovation-in-rome/",
       "excerpt": "historic ceilings stay firmly in view as color, custom furniture and a few strategic openings loosen up the roman interior.\nThe post blue portals and brick vaults shape DKA’s apartment renovation in r",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/463105/2026-08-18/a-contemporary-interior-defined-by-colour-rhythm-and-identity-3-6a846681626f3.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "Housing on top of the petrol station / Gut Deubelbeiss Nill Architekten",
+      "url": "https://www.archdaily.com/1183167/housing-on-top-of-the-petrol-station-gut-deubelbeiss-nill-architekten",
+      "excerpt": "The project is situated in Emmenbrücke, a town just outside Lucerne. Set within an industrial and high-traffic environment, the building marks the start of the row of houses by Emmenbrücke railway sta",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7c/36fe/3cf9/6c00/0178/09f3/large_jpg/12_gd_central_s_d_73922_1.jpg?1786525468",
       "today": true
     },
     {
@@ -261,26 +307,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
       "excerpt": "Achime Bagel is a neighborhood bakery located in Munjeong-dong, Seoul. The project began with the idea of creating a small space that could gently accompany the beginning of each day. The bakery prepa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/3107/ab59/ca01/8994/5913/large_jpg/achime-bagel-store-jojoworkshop_21.jpg?1786982682",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "Hermitage House C70 / ASMD Taller Arquitectura",
-      "url": "https://www.archdaily.com/1183774/hermitage-house-c70-asmd-taller-arquitectura",
-      "excerpt": "Ermita C70 transforms a 1960s house in the historic center of Mérida through an operation of subtraction: demolishing part of the built volume to recover the void as a source of light, ventilation, an",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/c02c/4253/0500/01c9/f795/large_jpg/Manolo_R_Solis_00.jpg?1787216029",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "C.E. House / Dall'Ovo Magalhães Arquitetura",
-      "url": "https://www.archdaily.com/1183808/ce-house-dallovo-magalhaes-arquitetura",
-      "excerpt": "A mountain house that blurs the boundaries between living and contemplating. Sited on a plateau, between rolling lawns and the forest that climbs up the slope, the house sits as if it has belonged to ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3da0/4253/0500/01c9/fbd3/large_jpg/DMSFX_-_11s_M.jpg?1787248078",
       "today": false
     },
     {
