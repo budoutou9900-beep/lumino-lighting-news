@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.22  23:15",
+  "fetchedAt": "2026.08.23  00:58",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -94,7 +94,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -104,7 +104,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -114,26 +114,16 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.22",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -141,9 +131,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.23",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.22",
+      "date": "2026.08.23",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
@@ -158,7 +158,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/27-storeys-alterlaa-forever-documents-vienna-utopic-social-housing-project/",
       "excerpt": "director bianca gliessinger looks into how apartments here have historically brought 'the greatest happiness for the greatest number of people.’\nThe post 27 storeys revisits vienna’s alterlaa and its ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/27-storeys-designboom-04.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -168,7 +168,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
       "excerpt": "Achime Bagel is a neighborhood bakery located in Munjeong-dong, Seoul. The project began with the idea of creating a small space that could gently accompany the beginning of each day. The bakery prepa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/3107/ab59/ca01/8994/5913/large_jpg/achime-bagel-store-jojoworkshop_21.jpg?1786982682",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -178,7 +178,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183774/hermitage-house-c70-asmd-taller-arquitectura",
       "excerpt": "Ermita C70 transforms a 1960s house in the historic center of Mérida through an operation of subtraction: demolishing part of the built volume to recover the void as a source of light, ventilation, an",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/c02c/4253/0500/01c9/f795/large_jpg/Manolo_R_Solis_00.jpg?1787216029",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -188,7 +188,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183808/ce-house-dallovo-magalhaes-arquitetura",
       "excerpt": "A mountain house that blurs the boundaries between living and contemplating. Sited on a plateau, between rolling lawns and the forest that climbs up the slope, the house sits as if it has belonged to ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3da0/4253/0500/01c9/fbd3/large_jpg/DMSFX_-_11s_M.jpg?1787248078",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -198,7 +198,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183648/sao-joao-pharmacy-tsou-arquitectos",
       "excerpt": "FormThe building takes on a clear, contained volume, distinguished by the curvilinear form of its façade — a gesture that follows the profile of the street and marks the building's presence on the cor",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/1837/ac8b/af01/892c/da66/large_jpg/farmacia-sao-joao-tsou-arquitectos_25.jpg?1787172998",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -208,7 +208,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1148787/breeze-house-abaton",
       "excerpt": "Breeze House is a new construction project in Madrid that includes the most fundamental aspects of the ABATON philosophy. A modern house framed in nature and light that takes advantage of the characte",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/9bef/d425/1a00/01c4/b91c/large_jpg/EXTERIOR_P_DE_LOS_LAGOS-_3.jpg?1784192008",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -218,7 +218,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/david-gianotten-oma-local-context-future-cities-interview/",
       "excerpt": "the OMA managing partner discusses why the future of urban life depends less on universal planning models than on local context, public infrastructure, and community agency.\nThe post david gianotten o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/david-gianotten-oma-local-context-future-cities-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -227,7 +227,7 @@ window.LUMINO_DATA = {
       "title": "\"Light and sea breeze shape the viewing\" of exhibits at open-air art gallery in Mexico",
       "url": "https://www.dezeen.com/2026/08/22/arte-abierto-baja-sordo-madaleno-arquitectos/",
       "excerpt": "Local studio Sordo Madaleno Arquitectos has completed the Arte Abierto Baja in Mexico, an open-air exhibition space wrapped by monolithic walls of exposed concrete and stone. Designed for non-profit a",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -236,7 +236,7 @@ window.LUMINO_DATA = {
       "title": "Seven basketball courts that score design points",
       "url": "https://www.dezeen.com/2026/08/22/basketball-courts-design-roundup/",
       "excerpt": "From outdoor courts that act as flood-water-draining bioswales to an indoor court under a concrete dome in Chile, here are seven basketball courts that integrate good design to expand their presence b",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -246,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/syn-architects-saudi-arabia",
       "excerpt": "Saudi-based practice Syn Architects joins the Wallpaper* Architects’ Directory for 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MWUMdrShMYKa7Gm5Shcexg-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -256,7 +256,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/bathroom-design-trends-ideas-2027",
       "excerpt": "Here are our best bathroom design ideas for 2027: elevate your wellness space with wood panelling, serene colour palettes and unexpected material combination",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSp5Ku5VhGxdb2eXz6xMJZ-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -266,7 +266,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/pyramids-and-maya-forms-shape-coco-brun-and-sten-studios-stone-vessels/",
       "excerpt": "coco brun and sten studio transform upcycled travertine, marble and onyx into limited-edition vessels inspired by pyramids and maya ornament.\nThe post pyramids and maya forms shape coco brun and sten ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467727/2026-08-17/sten-studio-collaborates-with-french-artist-coco-brun-to-translate-mexicos-stone-heritage-into-contemporary-design-3-6a8369209a888.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -276,7 +276,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/langosteria-london-the-owo-review",
       "excerpt": "From Sicilian langoustine to tonno rosso carpaccio, Langosteria serves Italian seafood in one of Whitehall’s grandest dining rooms",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EVyKZdNWZqikHRBF8npCmN-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -285,7 +285,7 @@ window.LUMINO_DATA = {
       "title": "This week we unveiled an IKEA collection that makes collectible design affordable",
       "url": "https://www.dezeen.com/2026/08/22/this-week-on-dezeen-ikea-collection-collectible-design-affordable/",
       "excerpt": "This week on Dezeen, IKEA shared a first look at its Konstrunda collection, which elevates \"everyday objects into art pieces\" with contributions from seven designers, including Andu Masebo and Lisa Hi",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -295,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/stephen-tayo-what-comes-to-mind-when-you-see-the-garment-lagos",
       "excerpt": "In the exhibition 'What Comes to Mind When You See the Garment?' at Lagos concept store, Alára, Nigerian photographer Stephen Tayo follows the migratory story of the Aludara movement",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3MyEmR6em7QB4ZWD9JNbuQ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
