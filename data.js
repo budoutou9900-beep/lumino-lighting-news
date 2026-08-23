@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  02:24",
+  "fetchedAt": "2026.08.23  03:44",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -121,16 +121,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.23",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.23",
@@ -138,6 +128,16 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.23",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -149,6 +149,16 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.22",
+      "title": "Maribyrnong I House / Studio Ceravolo",
+      "url": "https://www.archdaily.com/1183578/maribyrnong-i-house-studio-ceravolo",
+      "excerpt": "This alterations and additions project to a Californian bungalow welcomes an abundance of natural light and celebrates the passage of time throughout the day. Briefed with renovating and extending a C",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/9351/ab59/ca01/8994/5fb3/large_jpg/maribyrnong-i-house-studio-ceravolo_1.jpg?1787138915",
+      "today": false
     },
     {
       "source": "designboom",
@@ -198,16 +208,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183648/sao-joao-pharmacy-tsou-arquitectos",
       "excerpt": "FormThe building takes on a clear, contained volume, distinguished by the curvilinear form of its façade — a gesture that follows the profile of the street and marks the building's presence on the cor",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/1837/ac8b/af01/892c/da66/large_jpg/farmacia-sao-joao-tsou-arquitectos_25.jpg?1787172998",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "Breeze House / Ábaton",
-      "url": "https://www.archdaily.com/1148787/breeze-house-abaton",
-      "excerpt": "Breeze House is a new construction project in Madrid that includes the most fundamental aspects of the ABATON philosophy. A modern house framed in nature and light that takes advantage of the characte",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a58/9bef/d425/1a00/01c4/b91c/large_jpg/EXTERIOR_P_DE_LOS_LAGOS-_3.jpg?1784192008",
       "today": false
     },
     {
