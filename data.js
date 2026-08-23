@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  06:30",
+  "fetchedAt": "2026.08.23  07:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -176,6 +176,16 @@ window.LUMINO_DATA = {
     {
       "source": "ArchDaily",
       "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "WeDoctor Green Valley / gad",
+      "url": "https://www.archdaily.com/1183411/wedoctor-green-valley-gad",
+      "excerpt": "Located in the Information Port area of Xiaoshan Economic and Technological Development Zone, Hangzhou, WeHealth Green Valley spans four adjacent plots developed as a single unified phase, with a tota",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a82/d66b/ac8b/af01/892c/ccf9/large_jpg/wedoctor-green-valley-gad_15.jpg?1786959488",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.08.22",
       "title": "Maribyrnong I House / Studio Ceravolo",
       "url": "https://www.archdaily.com/1183578/maribyrnong-i-house-studio-ceravolo",
@@ -230,16 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183808/ce-house-dallovo-magalhaes-arquitetura",
       "excerpt": "A mountain house that blurs the boundaries between living and contemplating. Sited on a plateau, between rolling lawns and the forest that climbs up the slope, the house sits as if it has belonged to ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3da0/4253/0500/01c9/fbd3/large_jpg/DMSFX_-_11s_M.jpg?1787248078",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "São João Pharmacy / Tsou Arquitectos",
-      "url": "https://www.archdaily.com/1183648/sao-joao-pharmacy-tsou-arquitectos",
-      "excerpt": "FormThe building takes on a clear, contained volume, distinguished by the curvilinear form of its façade — a gesture that follows the profile of the street and marks the building's presence on the cor",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/1837/ac8b/af01/892c/da66/large_jpg/farmacia-sao-joao-tsou-arquitectos_25.jpg?1787172998",
       "today": false
     },
     {
