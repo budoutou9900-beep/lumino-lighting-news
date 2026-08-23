@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  20:15",
+  "fetchedAt": "2026.08.23  21:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -147,6 +147,16 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "deliberately uncomfortable stainless steel chair turns sitting into social commentary",
+      "url": "https://www.designboom.com/readers/deliberately-uncomfortable-stainless-steel-chair-sitting-social-commentary/",
+      "excerpt": "polished, reflective and resolutely unsympathetic to lounging, the chair turns the simple act of sitting into something rather more loaded.\nThe post deliberately uncomfortable stainless steel chair tu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/447396/2026-08-19/the-womans-chair-2-6a8599768ca69.jpg",
       "today": true
     },
     {
@@ -332,16 +342,6 @@ window.LUMINO_DATA = {
       "title": "\"Light and sea breeze shape the viewing\" of exhibits at open-air art gallery in Mexico",
       "url": "https://www.dezeen.com/2026/08/22/arte-abierto-baja-sordo-madaleno-arquitectos/",
       "excerpt": "Local studio Sordo Madaleno Arquitectos has completed the Arte Abierto Baja in Mexico, an open-air exhibition space wrapped by monolithic walls of exposed concrete and stone. Designed for non-profit a",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "pyramids and maya forms shape coco brun and sten studio’s stone vessels",
-      "url": "https://www.designboom.com/design/pyramids-and-maya-forms-shape-coco-brun-and-sten-studios-stone-vessels/",
-      "excerpt": "coco brun and sten studio transform upcycled travertine, marble and onyx into limited-edition vessels inspired by pyramids and maya ornament.\nThe post pyramids and maya forms shape coco brun and sten ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467727/2026-08-17/sten-studio-collaborates-with-french-artist-coco-brun-to-translate-mexicos-stone-heritage-into-contemporary-design-3-6a8369209a888.jpg",
       "today": false
     },
     {
