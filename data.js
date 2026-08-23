@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  16:18",
+  "fetchedAt": "2026.08.23  17:15",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -158,6 +158,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/dumae-kayla-lighter",
       "excerpt": "Sculpted from brass, handcrafted in India, and totally refillable, the Kayla Lighter by Los Angeles design brand Dumæ is designed to be displayed just as much as it is used",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U8GojsVdRfebDWEkkhMwPP-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "Zamalanda Park on the Nervión Riverbanks / Burgos & Garrido arquitectos",
+      "url": "https://www.archdaily.com/1183419/zamalanda-park-on-the-nervion-riverbanks-burgos-and-garrido-arquitectos",
+      "excerpt": "The area surrounding the Portu Dock in Barakaldo is a vast, empty space that bears the traces of its history. Although blurred, it is a place of great beauty and extraordinary potential, offering sple",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/6827/1801/ca00/0176/ede5/large_jpg/6-RH3267-0108.jpg?1785751646",
       "today": true
     },
     {
@@ -304,16 +314,6 @@ window.LUMINO_DATA = {
       "title": "Estúdio Campana creates \"woven jewellery box\" for Tiffany & Co in São Paulo",
       "url": "https://www.dezeen.com/2026/08/22/tiffany-co-pop-up-jk-iguatemi-mall-sao-paulo-estudio-campana/",
       "excerpt": "Brazil's Estúdio Campana has wrapped a pop-up Tiffany & Co store inside a São Paulo shopping mall in a woven wicker skin. The pop-up on the ground floor of the JK Iguatemi Mall is cloaked in an undula",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "Achime Bagel Store / JOJOWORKSHOP",
-      "url": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
-      "excerpt": "Achime Bagel is a neighborhood bakery located in Munjeong-dong, Seoul. The project began with the idea of creating a small space that could gently accompany the beginning of each day. The bakery prepa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a83/3107/ab59/ca01/8994/5913/large_jpg/achime-bagel-store-jojoworkshop_21.jpg?1786982682",
       "today": false
     },
     {
