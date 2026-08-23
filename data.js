@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  17:15",
+  "fetchedAt": "2026.08.23  18:20",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -141,13 +141,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
+      "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.08.23",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
@@ -202,20 +201,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "Goy Architects breathes new life into a material-rich 1950s Singapore bungalow",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
-      "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
+      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
+      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
+      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
-      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
-      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
+      "title": "Goy Architects breathes new life into a material-rich 1950s Singapore bungalow",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
+      "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
       "today": true
     },
     {
