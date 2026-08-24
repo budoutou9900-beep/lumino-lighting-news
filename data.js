@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  09:41",
+  "fetchedAt": "2026.08.24  10:32",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -157,9 +157,9 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.24",
-      "title": "ann veronica janssens fills hermès ginza with light, fog and shifting perception",
+      "title": "ann veronica janssens fills Hermès ginza with light, fog and shifting perception",
       "url": "https://www.designboom.com/art/ann-veronica-janssens-hermes-ginza-exhibition-light-fog/",
-      "excerpt": "from heat-sensitive swings to clouds of colored light, the show gives solid architecture a temporary identity crisis\nThe post ann veronica janssens fills hermès ginza with light, fog and shifting perc",
+      "excerpt": "from heat-sensitive swings to clouds of colored light, the show gives solid architecture a temporary identity crisis.\nThe post ann veronica janssens fills Hermès ginza with light, fog and shifting per",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ann-veronica-janssens-hermes-ginza-exhibition-light-fog-designboom-8.jpg",
       "today": true
     },
