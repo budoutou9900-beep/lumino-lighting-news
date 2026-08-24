@@ -1,81 +1,77 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  16:29",
+  "fetchedAt": "2026.08.24  17:26",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術館・アート情報": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "アットエス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "Yahoo!ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "パナソニック": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -90,13 +86,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.08.24",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://artscape.jp/study/person/1195387_1976.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://artscape.jp/common/image/tweet.gif",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
@@ -145,36 +151,6 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "1月上旬～2月下旬まで開催予定『白川氷柱群ライトアップ』御嶽山の湧水がつくりだす青い“氷のカーテン”【2025-2026年 長野県イルミネーション】＠長野県・木曽町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=262079",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/12/8d3406cd851c1a77a255284d5d12df54.jpg",
       "today": true
     },
     {
@@ -237,12 +213,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "90/100 Mixed Use Project / 5468796 Architecture",
+      "url": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture",
+      "excerpt": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/489f/5b21/b900/0199/2bc7/large_jpg/08_90_100_James_Brittain.jpg?1785874611",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Finishing",
+      "url": "https://www.archdaily.com/1183835/finishing",
+      "excerpt": "Obra Blanca is an essential experience for professionals in the architecture finishes and design products sector, including ceramics, bathroom furniture, faucets, lighting, and more. It offers a uniqu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/f7f9/4253/0500/01ca/0260/large_jpg/55049649466_95683e926a_k.jpg?1787557892",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.24",
       "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
       "url": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
       "excerpt": "Indian studio Evolving Radical Aesthetics has completed Ushas, a farmhouse built into a steep Kerala hillside with an open-air temple carved into a retaining wall. Located in the Malabar hills near Ko",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Pavilion in Brolo Park / CN10 architetti",
+      "url": "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti",
+      "excerpt": "The construction of the new pavilion is part of a larger urban project to reclaim and enhance a large green space called PARCOBROLO, which extends to the southern part of the town of Bonate Sotto in t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7ebd/4253/0500/01c9/f234/large_jpg/PARCO_BROLO_Albo-15.jpg?1787133646",
       "today": true
     },
     {
@@ -259,10 +265,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.24",
-      "title": "Metaxis: A Collection of Ideas and Objects by FUTUREFORMS",
-      "url": "https://www.archdaily.com/1183865/metaxis-a-collection-of-ideas-and-objects-by-futureforms",
-      "excerpt": "This exhibition takes as its point of departure the Greek word metaxi, referring to an in‑between condition—belonging to two realms at once. METAXIS explores what happens in between: between ideas, ob",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/43b7/4253/0500/01ca/0413/large_jpg/FF_Metaxis_Web_Landscape-1_Sml.jpg?1787577285",
+      "title": "Public Interest Design in South Africa",
+      "url": "https://www.archdaily.com/1183873/public-interest-design-in-south-africa",
+      "excerpt": "This book presents salient examples of architectural projects and practices in South Africa since 1994 that collectively subscribe to the paradigm shift towards Public Interest Design. Despite radical",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/4e0a/4253/0500/01ca/0461/large_jpg/Book_images_and_variations.jpg?1787579919",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Call for Proposals: Bahrain Pavilion at the Venice Architecture Biennale 2027",
+      "url": "https://www.archdaily.com/1183869/call-for-proposals-bahrain-pavilion-at-the-venice-architecture-biennale-2027",
+      "excerpt": "The Bahrain Authority for Culture and Antiquities invites individuals and collaborative teams to submit proposals to represent the National Pavilion of Bahrain at the 20th International Architecture E",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/4c04/4253/0500/01ca/043e/large_jpg/Bahrain_Pavilion-_Open_Call_Post13.jpg?1787579468",
       "today": true
     },
     {
@@ -304,16 +320,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Cinema Studio Namibe: Reviving a Tropical Modernist Icon in Angola",
-      "url": "https://www.archdaily.com/1183720/cinema-studio-namibe-reviving-a-tropical-modernist-icon-in-angola",
-      "excerpt": "What sustains the purpose of architecture that has never been occupied? For decades, this was the question surrounding the Namibe Cinema-Studio, built on the coast of Angola in 1973. Conceived as a fi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a75/0c0e/ac8b/af01/892c/af52/large_jpg/cinema-estudio-namibe-um-icone-do-modernismo-tropical-entre-a-ruina-e-a-reabilitacao_1.jpg?1786055715",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -324,26 +330,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "The House of Memories / Studio Lagom",
-      "url": "https://www.archdaily.com/1183766/the-house-of-memories-studio-lagom",
-      "excerpt": "The House of Memories is born from the desire to move ahead with the times and satisfy dynamic requirements, while enshrining familial memories and celebrating its roots. It is located on a 165' x 55'",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/658a/ac8b/af01/892c/e21b/large_jpg/the-house-of-memories-studio-lagom_33.jpg?1787323814",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Les Feixes Becomes the Setting for a Film Exploring Architecture and Geometry",
-      "url": "https://www.archdaily.com/1182507/les-feixes-becomes-the-setting-for-a-film-exploring-architecture-and-geometry",
-      "excerpt": "On Spain's Costa Brava, the little-known brutalist housing block Les Feixes, in L'Estartit, becomes the main stage of \"Caçador de Geometries\" (Geometry Hunter), a short film produced by Simon and dire",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/0166/ac8b/af01/892c/ba12/large_jpg/les-feixes-becomes-the-setting-for-a-film-exploring-architecture-and-geometry_1.jpg?1786380651",
-      "today": true
-    },
-    {
       "source": "パナソニック",
       "cat": "技術・LED",
       "date": "2026.08.24",
@@ -351,16 +337,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Oslo Architecture Triennale 2026 Announces Programme for 9th Edition Under \"What if Nature Comes First?\"",
-      "url": "https://www.archdaily.com/1183847/oslo-architecture-triennale-2026-announces-programme-for-9th-edition-under-what-if-nature-comes-first",
-      "excerpt": "The 2026 Oslo Architecture Triennale will take place from September 17 to October 1 at Sofienberg Church in Oslo, bringing together more than 30 international architecture projects around the question",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/17e5/ab59/ca01/8994/6f93/large_jpg/oslo-architecture-triennale-2026-announces-programme-for-ninth-edition-under-what-if-nature-comes-first_15.jpg?1787566111",
       "today": true
     },
     {
