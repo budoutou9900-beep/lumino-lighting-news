@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.23  23:15",
+  "fetchedAt": "2026.08.24  00:56",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,68 +13,72 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "Google ニュース": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "アットエス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -84,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -94,7 +98,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,9 +106,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.24",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -114,7 +127,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -123,7 +136,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -133,7 +146,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -143,7 +156,7 @@ window.LUMINO_DATA = {
     {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.08.23",
+      "date": "2026.08.24",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
@@ -157,7 +170,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/deliberately-uncomfortable-stainless-steel-chair-sitting-social-commentary/",
       "excerpt": "polished, reflective and resolutely unsympathetic to lounging, the chair turns the simple act of sitting into something rather more loaded.\nThe post deliberately uncomfortable stainless steel chair tu",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/447396/2026-08-19/the-womans-chair-2-6a8599768ca69.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -167,7 +180,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
       "excerpt": "Located in V. Thuraiyur, near Tiruchirappalli, Tamil Nadu, this 1000 sq.ft farmhouse by Madras Spaces is conceived as a quiet return to a lost native landscape. Set amidst agricultural fields and far ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1045/ac8b/af01/892c/e082/large_jpg/the-threshold-house_8.jpg?1787302042",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -177,7 +190,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
       "excerpt": "At Cuattro Casa de Café, the project did not begin by defining the shape of the building, but rather by establishing what had to remain. Located in Troncones, Guerrero, on a sloping 50-by-24-meter lot",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bffc/4253/0500/01c9/f786/large_jpg/11._Cuattro_x_Faci_Leboreiro_-__Rafael_Gamo.jpg?1787216336",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -187,7 +200,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
       "excerpt": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natura",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/9753/4253/0500/01c9/f03f/large_jpg/GK_20251110_STEMMER-RODRIGUES_CASA-ZIMBRO_0388-EE.jpg?1787074456",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -197,7 +210,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/dumae-kayla-lighter",
       "excerpt": "Sculpted from brass, handcrafted in India, and totally refillable, the Kayla Lighter by Los Angeles design brand Dumæ is designed to be displayed just as much as it is used",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U8GojsVdRfebDWEkkhMwPP-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -207,7 +220,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183796/nooba-building-saraiva-plus-associados",
       "excerpt": "Located on the south bank of the Tagus River in Barreiro, Nooba is conceived as a new residential neighborhood shaped by its proximity to the estuary and the profound urban transformation underway in ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/1524/4253/0500/01c9/fa2a/large_jpg/20251118-Nooba_SA-2678.jpg?1787237765",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -217,7 +230,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183419/zamalanda-park-on-the-nervion-riverbanks-burgos-and-garrido-arquitectos",
       "excerpt": "The area surrounding the Portu Dock in Barakaldo is a vast, empty space that bears the traces of its history. Although blurred, it is a place of great beauty and extraordinary potential, offering sple",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/6827/1801/ca00/0176/ede5/large_jpg/6-RH3267-0108.jpg?1785751646",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -227,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/car-garage-home-residential-design-supercar-towers-miami/",
       "excerpt": "extending the logic of the car into architecture, automotive brands are turning housing into a new design territory.\nThe post when the car moves upstairs, the garage becomes part of the home appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/beyond-garage-automotive-design-residential-housing-typology-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -236,7 +249,7 @@ window.LUMINO_DATA = {
       "title": "Rough drystone walls frame sunken home on Greek island by Alexandre Pavlidis",
       "url": "https://www.dezeen.com/2026/08/23/within-the-earth-alexandre-pavlidis/",
       "excerpt": "Architect Alexandre Pavlidis has completed Within the Earth, a house on the Greek island of Sifnos contained within a series of sunken stone walls that step down a coastal hillside. Referencing the re",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -245,7 +258,7 @@ window.LUMINO_DATA = {
       "title": "Five innovative smartphones and dumbphones that put design first",
       "url": "https://www.dezeen.com/2026/08/23/innovative-smartphones-dumbphones-design-first/",
       "excerpt": "For this roundup, we've collected five smartphones and dumbphones with exciting designs, ranging from a phone with a robot arm to a keyboard phone built for messaging. For many people, their phone is ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -255,7 +268,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
       "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -265,7 +278,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
       "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -275,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/solarxyz-spain",
       "excerpt": "Spanish architecture practice Solar.xyz is part of the Wallpaper* Architects Directory 2026, showcasing its smart renovation in the Madrid suburbs",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VaR4YuDiFtQSnSw9tsK2Kb-1318-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -285,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/blue-portals-and-brick-vaults-shape-dkas-apartment-renovation-in-rome/",
       "excerpt": "historic ceilings stay firmly in view as color, custom furniture and a few strategic openings loosen up the roman interior.\nThe post blue portals and brick vaults shape DKA’s apartment renovation in r",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/463105/2026-08-18/a-contemporary-interior-defined-by-colour-rhythm-and-identity-3-6a846681626f3.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -295,7 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-on-objectify-condominio-italy",
       "excerpt": "The tenth instalment of architect Carlo Ratti's series spotlighting Italian design investigates how the condominio, originating in second-century AD Rome, still defines our summer experience",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QaYYRt88TQuqtizPtwmMuQ-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -304,7 +317,7 @@ window.LUMINO_DATA = {
       "title": "KTGY revamps interiors of Fairmont Hotel in Chicago",
       "url": "https://www.dezeen.com/2026/08/23/ktgy-revamps-interiors-fairmont-hotel-chicago/",
       "excerpt": "US architecture studio KTGY has revamped the interiors of the HOK-designed Fairmont Hotel off of Chicago's Millennium Park. KTGY was brought on to refresh the detailing and bring light into the dark s",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
