@@ -1,23 +1,51 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  08:42",
+  "fetchedAt": "2026.08.24  09:41",
   "sourceColors": {
+    "銀座経済新聞": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Google ニュース": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "オズモール": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "アットエス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
     "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -47,6 +75,122 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.24",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "ann veronica janssens fills hermès ginza with light, fog and shifting perception",
+      "url": "https://www.designboom.com/art/ann-veronica-janssens-hermes-ginza-exhibition-light-fog/",
+      "excerpt": "from heat-sensitive swings to clouds of colored light, the show gives solid architecture a temporary identity crisis\nThe post ann veronica janssens fills hermès ginza with light, fog and shifting perc",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ann-veronica-janssens-hermes-ginza-exhibition-light-fog-designboom-8.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Shigeru Ban unveils coastal wellness retreat on Awaji Island",
+      "url": "https://www.dezeen.com/2026/08/24/shigeru-ban-hotel-pasona-awaji-island/",
+      "excerpt": "Pritzker Prize-winning architect Shigeru Ban has completed a wellness hotel on Awaji Island, Japan. Named the Pasona Natureverse Retreat, the hotel at the tip of Awaji Island near Kobe was designed fo",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Why did the colour black take over this season’s runways?",
+      "url": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
+      "excerpt": "As it takes over the A/W 2026 collections, Dal Chodha explores the perennial power of the colour black in fashion: ‘potent, seductive, strong and pragmatic’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ouWabx6dfxjYcXXZouDXVD-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Cella Collective and Mitre & Mondays cloak tower with thatched walls at Houghton Festival",
+      "url": "https://www.dezeen.com/2026/08/24/water-tower-thatch-cella-collective-mitre-mondays-houghton-festival/",
+      "excerpt": "Design studios Cella Collective and Mitre & Mondays have designed a timber-framed installation for this year's Houghton Festival in Norfolk, England, covering its walls with thatch sourced from sustai",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -81,6 +225,35 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.24",
+      "title": "Reused Brick and Timber Shape Reiulf Ramstad Arkitekter's New Railway Station in Sweden",
+      "url": "https://www.archdaily.com/1183811/reused-brick-and-timber-shape-reiulf-ramstad-arkitekters-new-railway-station-in-sweden",
+      "excerpt": "Construction is advancing on Gothenburg Grand Central, a new station building and prominent western entrance designed by Reiulf Ramstad Arkitekter. The project is part of the West Link (Västlänken) co",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/b75a/ac8b/af01/892c/e49a/large_jpg/gothenburg-grand-central_6.jpg?1787344788",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Yarlington Lodge at The Newt in Somerset blends \"little snippets of history with life today\"",
+      "url": "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
+      "excerpt": "British studio Richard Parr Associates has renovated a trio of 19th-century buildings at The Newt in Somerset hotel in England, restoring their interiors to nod to the site's past. Named Yarlington Lo",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Ephemeral Architecture Prototypes: The Future of Public Spaces",
+      "url": "https://www.archdaily.com/1183142/ephemeral-architecture-prototypes-the-future-of-public-spaces",
+      "excerpt": "Concéntrico returned to Logroño for its 12th edition in June 2026, transforming the city into a working site for architecture. Since its founding in 2015, the festival has built an identity on resisti",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/8860/ab59/ca01/8994/47ec/large_jpg/ephemeral-architecture-prototypes-the-future-of-temporary-public-spaces-at-concentrico_65.jpg?1786481142",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
       "title": "Tomi House / The Studio",
       "url": "https://www.archdaily.com/1183672/tomi-house-the-studio",
       "excerpt": "Tomi House is built on a 4 × 15.5-meter plot within an existing residential neighborhood in Quy Nhon, Vietnam. Shaped by the constraints of a narrow and deep townhouse, the project brings natural ligh",
@@ -108,16 +281,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Raw & Warm Residence / Habitat Architects",
-      "url": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
-      "excerpt": "Raw & Warm was conceived as a residential laboratory for an art collector—a home where architecture, art, and daily life could coexist without competing for attention. Rather than concealing the origi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/bb35/ac8b/af01/892c/d7ed/large_jpg/raw-and-warm-residence-habitat-architects_28.jpg?1787149223",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.23",
@@ -125,16 +288,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/deliberately-uncomfortable-stainless-steel-chair-sitting-social-commentary/",
       "excerpt": "polished, reflective and resolutely unsympathetic to lounging, the chair turns the simple act of sitting into something rather more loaded.\nThe post deliberately uncomfortable stainless steel chair tu",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/447396/2026-08-19/the-womans-chair-2-6a8599768ca69.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "The Threshold House / Madras Spaces",
-      "url": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
-      "excerpt": "Located in V. Thuraiyur, near Tiruchirappalli, Tamil Nadu, this 1000 sq.ft farmhouse by Madras Spaces is conceived as a quiet return to a lost native landscape. Set amidst agricultural fields and far ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1045/ac8b/af01/892c/e082/large_jpg/the-threshold-house_8.jpg?1787302042",
       "today": false
     },
     {
@@ -203,53 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/solarxyz-spain",
       "excerpt": "Spanish architecture practice Solar.xyz is part of the Wallpaper* Architects Directory 2026, showcasing its smart renovation in the Madrid suburbs",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VaR4YuDiFtQSnSw9tsK2Kb-1318-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "blue portals and brick vaults shape DKA’s apartment renovation in rome",
-      "url": "https://www.designboom.com/architecture/blue-portals-and-brick-vaults-shape-dkas-apartment-renovation-in-rome/",
-      "excerpt": "historic ceilings stay firmly in view as color, custom furniture and a few strategic openings loosen up the roman interior.\nThe post blue portals and brick vaults shape DKA’s apartment renovation in r",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/463105/2026-08-18/a-contemporary-interior-defined-by-colour-rhythm-and-identity-3-6a846681626f3.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Why we still can’t escape ancient Rome’s most successful housing idea",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-on-objectify-condominio-italy",
-      "excerpt": "The tenth instalment of architect Carlo Ratti's series spotlighting Italian design investigates how the condominio, originating in second-century AD Rome, still defines our summer experience",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QaYYRt88TQuqtizPtwmMuQ-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "KTGY revamps interiors of Fairmont Hotel in Chicago",
-      "url": "https://www.dezeen.com/2026/08/23/ktgy-revamps-interiors-fairmont-hotel-chicago/",
-      "excerpt": "US architecture studio KTGY has revamped the interiors of the HOK-designed Fairmont Hotel off of Chicago's Millennium Park. KTGY was brought on to refresh the detailing and bring light into the dark s",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "Estúdio Campana creates \"woven jewellery box\" for Tiffany & Co in São Paulo",
-      "url": "https://www.dezeen.com/2026/08/22/tiffany-co-pop-up-jk-iguatemi-mall-sao-paulo-estudio-campana/",
-      "excerpt": "Brazil's Estúdio Campana has wrapped a pop-up Tiffany & Co store inside a São Paulo shopping mall in a woven wicker skin. The pop-up on the ground floor of the JK Iguatemi Mall is cloaked in an undula",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "\"Light and sea breeze shape the viewing\" of exhibits at open-air art gallery in Mexico",
-      "url": "https://www.dezeen.com/2026/08/22/arte-abierto-baja-sordo-madaleno-arquitectos/",
-      "excerpt": "Local studio Sordo Madaleno Arquitectos has completed the Arte Abierto Baja in Mexico, an open-air exhibition space wrapped by monolithic walls of exposed concrete and stone. Designed for non-profit a",
       "today": false
     },
     {
