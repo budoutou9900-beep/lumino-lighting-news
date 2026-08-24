@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  12:37",
+  "fetchedAt": "2026.08.24  13:45",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,49 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -151,6 +155,26 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Assouline's deep-dive into Ukrainian art and design reveals a rich and influential heritage",
+      "url": "https://www.wallpaper.com/art/assoulines-deep-dive-into-ukrainian-art-and-design-reveals-a-rich-and-influential-heritage",
+      "excerpt": "Ukrainian brand Gunia Project and Assouline present 'Naïve My Love: Ukrainian Art of the 20th Century'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZpWQFEUnDmv6E5ha29PoLc.gif",
       "today": true
     },
     {
@@ -346,16 +370,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
       "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "A historical Madrid home enters the 21st century through smart minimalism by Solar.xyz",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/solarxyz-spain",
-      "excerpt": "Spanish architecture practice Solar.xyz is part of the Wallpaper* Architects Directory 2026, showcasing its smart renovation in the Madrid suburbs",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VaR4YuDiFtQSnSw9tsK2Kb-1318-80.jpg",
       "today": false
     },
     {
