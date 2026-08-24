@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  20:23",
+  "fetchedAt": "2026.08.24  21:23",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -151,6 +151,16 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "biosphere 2: what happens when humans try to recreate earth?",
+      "url": "https://www.designboom.com/architecture/biosphere-2-humans-earth/",
+      "excerpt": "an ambitious attempt at closed-loop living exposed the fragile relationships between ecosystems, infrastructure, and the people who depend on them.\nThe post biosphere 2: what happens when humans try t",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/biosphere-2-humans-earth-designboom-1200.jpg",
       "today": true
     },
     {
@@ -336,16 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/3d-printed-standalone-alarm-clock-giant-arcade-button-endothermal-systems-cinderclock/",
       "excerpt": "endothermal systems’ first product combines programmable alarms, mechanical controls, removable electronics, and local audio in an open-ended alternative to the smartphone alarm.\nThe post 3D printed s",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/3d-printed-standalone-alarm-clock-giant-arcade-button-endothermal-systems-cinderclock-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "sonos syncs entire home acoustics with multi channel amplifier",
-      "url": "https://www.designboom.com/technology/sonos-amp-multi-syncs-entire-home-acoustics/",
-      "excerpt": "SONOS’ amp multi system extends sound experience through architectural spaces providing an immersive sensory experience. \nThe post sonos syncs entire home acoustics with multi channel amplifier appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sonos_designboom_facebook-01.jpg",
       "today": true
     },
     {
