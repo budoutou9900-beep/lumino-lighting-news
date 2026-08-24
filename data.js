@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  22:19",
+  "fetchedAt": "2026.08.24  23:17",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "The V&A will celebrate Freddie Mercury in a free, fashion-filled exhibition",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/freddie-mercury-exhibitionv-and-a-london-uk",
+      "excerpt": "The V&A are marking the 80th anniversary of Freddie Mercury's birth with exhibition, 'Splendid Thing,' opening in October",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cRYVgixTmatpfYJzE6XgzY-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Documenting Japan’s disappearing modernist architecture",
+      "url": "https://www.wallpaper.com/architecture/naomi-pollocks-vanishing-japan-book",
+      "excerpt": "Naomi Pollock's new book, 'Vanishing Japan, ' chronicles the country’s many demolished modernist works, focusing on buildings that have succumbed to change in the last quarter century. The book provid",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CcrwxjKB8Au3Wmp2JiiDWW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "cool blue tones meet a vivid red counter inside hubarch’s new optics boutique",
+      "url": "https://www.designboom.com/readers/cool-blue-tones-meet-a-vivid-red-counter-inside-hubarchs-new-optics-boutique/",
+      "excerpt": "pale blue interiors, polished concrete and a custom red counter shape bazilio optics boutique through a restrained play of color and material.\nThe post cool blue tones meet a vivid red counter inside ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467771/2026-08-20/hubarch-wraps-an-optics-boutique-in-cold-blue-with-single-red-interruption-3-6a8747b849781.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "S+DLH and VASTO gallery bring contemporary art and collectible design under one roof",
+      "url": "https://www.designboom.com/art/sierra-de-la-higuera-vasto-gallery-art-collectible-design-one-roof/",
+      "excerpt": "sierra+delahiguera and vasto gallery blur art, collectible design and interior space through a shared language of materiality and atmosphere.\nThe post S+DLH and VASTO gallery bring contemporary art an",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467726/2026-08-24/capsule-04-c2b7-sdlh-x-vasto-4-6a8bf3fe92076.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -213,32 +253,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Genesis ventures into the full-size, super luxury SUV market with the new all-electric GV90",
-      "url": "https://www.wallpaper.com/transportation/genesis-electric-gv90-suv-review",
-      "excerpt": "The Genesis GV90 is an SUV with architectural interiors, complete with four swivelling seats and options that run to underfloor heating",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/a6FnEGKnfbcBEus4VCLxNk-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.24",
       "title": "Construction begins on world's tallest jail in Manhattan",
       "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
       "excerpt": "A skyscraper-sized jail designed by architecture studio HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based structures designed to replace the city's n",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Jeep’s new Compass EV is a promising package of function, features and solid construction",
-      "url": "https://www.wallpaper.com/transportation/jeeps-new-compass-ev-is-a-promising-package-of-function-features-and-solid-construction",
-      "excerpt": "With a chunky, faceted form that builds on the American brand’s legendary rugged image, the new Compass continues Jeep’s admirable direction of travel",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9rLbxFjtgdUdW5XWvitQgb-2560-80.jpg",
       "today": true
     },
     {
@@ -300,16 +320,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "ann veronica janssens fills Hermès ginza with light, fog and shifting perception",
-      "url": "https://www.designboom.com/art/ann-veronica-janssens-hermes-ginza-exhibition-light-fog/",
-      "excerpt": "from heat-sensitive swings to clouds of colored light, the show gives solid architecture a temporary identity crisis.\nThe post ann veronica janssens fills Hermès ginza with light, fog and shifting per",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ann-veronica-janssens-hermes-ginza-exhibition-light-fog-designboom-8.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -336,16 +346,6 @@ window.LUMINO_DATA = {
       "title": "Shigeru Ban unveils coastal wellness retreat on Awaji Island",
       "url": "https://www.dezeen.com/2026/08/24/shigeru-ban-hotel-pasona-awaji-island/",
       "excerpt": "Pritzker Prize-winning architect Shigeru Ban has completed a wellness hotel on Awaji Island, Japan. Named the Pasona Natureverse Retreat, the hotel at the tip of Awaji Island near Kobe was designed fo",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "3D printed standalone alarm clock lets you smash a giant arcade button to wake up",
-      "url": "https://www.designboom.com/technology/3d-printed-standalone-alarm-clock-giant-arcade-button-endothermal-systems-cinderclock/",
-      "excerpt": "endothermal systems’ first product combines programmable alarms, mechanical controls, removable electronics, and local audio in an open-ended alternative to the smartphone alarm.\nThe post 3D printed s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/3d-printed-standalone-alarm-clock-giant-arcade-button-endothermal-systems-cinderclock-designboom-1200.jpg",
       "today": true
     },
     {
