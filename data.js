@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  06:44",
+  "fetchedAt": "2026.08.24  07:53",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "sonos syncs entire home acoustics with multi channel amplifier",
+      "url": "https://www.designboom.com/technology/sonos-amp-multi-syncs-entire-home-acoustics/",
+      "excerpt": "SONOS’ amp multi system extends sound experience through architectural spaces providing an immersive sensory experience. \nThe post sonos syncs entire home acoustics with multi channel amplifier appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sonos_designboom_facebook-01.jpg",
+      "today": true
+    },
+    {
       "source": "パナソニック",
       "cat": "技術・LED",
       "date": "2026.08.24",
@@ -161,6 +171,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Tomi House / The Studio",
+      "url": "https://www.archdaily.com/1183672/tomi-house-the-studio",
+      "excerpt": "Tomi House is built on a 4 × 15.5-meter plot within an existing residential neighborhood in Quy Nhon, Vietnam. Shaped by the constraints of a narrow and deep townhouse, the project brings natural ligh",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/048f/ab59/ca01/8994/6571/large_jpg/tomi-house-the-studio_2.jpg?1787233447",
       "today": true
     },
     {
@@ -214,16 +234,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Cuattro Casa de Café / Faci Leboreiro",
-      "url": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
-      "excerpt": "At Cuattro Casa de Café, the project did not begin by defining the shape of the building, but rather by establishing what had to remain. Located in Troncones, Guerrero, on a sloping 50-by-24-meter lot",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bffc/4253/0500/01c9/f786/large_jpg/11._Cuattro_x_Faci_Leboreiro_-__Rafael_Gamo.jpg?1787216336",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
@@ -265,20 +275,20 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "Goy Architects breathes new life into a material-rich 1950s Singapore bungalow",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
-      "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
+      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
+      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
+      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
       "today": false
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
-      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
-      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
+      "title": "Goy Architects breathes new life into a material-rich 1950s Singapore bungalow",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
+      "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
       "today": false
     },
     {
@@ -337,16 +347,6 @@ window.LUMINO_DATA = {
       "title": "Estúdio Campana creates \"woven jewellery box\" for Tiffany & Co in São Paulo",
       "url": "https://www.dezeen.com/2026/08/22/tiffany-co-pop-up-jk-iguatemi-mall-sao-paulo-estudio-campana/",
       "excerpt": "Brazil's Estúdio Campana has wrapped a pop-up Tiffany & Co store inside a São Paulo shopping mall in a woven wicker skin. The pop-up on the ground floor of the JK Iguatemi Mall is cloaked in an undula",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.22",
-      "title": "david gianotten of OMA on why local context matters in shaping future cities",
-      "url": "https://www.designboom.com/architecture/david-gianotten-oma-local-context-future-cities-interview/",
-      "excerpt": "the OMA managing partner discusses why the future of urban life depends less on universal planning models than on local context, public infrastructure, and community agency.\nThe post david gianotten o",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/david-gianotten-oma-local-context-future-cities-interview-designboom-1200.jpg",
       "today": false
     },
     {
