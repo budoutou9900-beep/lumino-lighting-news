@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  19:24",
+  "fetchedAt": "2026.08.24  20:23",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Peaked volumes top Los Angeles house by Allprace",
+      "url": "https://www.dezeen.com/2026/08/24/all-prace-hargis-culver-city-house/",
+      "excerpt": "Local design-build studio Allprace aimed to create a feeling of \"warmth and permanence\" in a house called Hargis, which features gabled roof forms and earthy materials such as wood and stone. Set with",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -209,7 +218,7 @@ window.LUMINO_DATA = {
       "date": "2026.08.24",
       "title": "Construction begins on world's tallest jail in Manhattan",
       "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
-      "excerpt": "A skyscraper-sized jail designed by architecture office HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based complexes designed to replace the city's no",
+      "excerpt": "A skyscraper-sized jail designed by architecture studio HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based structures designed to replace the city's n",
       "today": true
     },
     {
@@ -317,15 +326,6 @@ window.LUMINO_DATA = {
       "title": "Shigeru Ban unveils coastal wellness retreat on Awaji Island",
       "url": "https://www.dezeen.com/2026/08/24/shigeru-ban-hotel-pasona-awaji-island/",
       "excerpt": "Pritzker Prize-winning architect Shigeru Ban has completed a wellness hotel on Awaji Island, Japan. Named the Pasona Natureverse Retreat, the hotel at the tip of Awaji Island near Kobe was designed fo",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Cella Collective and Mitre & Mondays cloak tower with thatched walls at Houghton Festival",
-      "url": "https://www.dezeen.com/2026/08/24/water-tower-thatch-cella-collective-mitre-mondays-houghton-festival/",
-      "excerpt": "Design studios Cella Collective and Mitre & Mondays have designed a timber-framed installation for this year's Houghton Festival in Norfolk, England, covering its walls with thatch sourced from sustai",
       "today": true
     },
     {
