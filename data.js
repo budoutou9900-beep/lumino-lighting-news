@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  17:26",
+  "fetchedAt": "2026.08.24  18:31",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -126,15 +126,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.24",
@@ -142,6 +133,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.24",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -157,30 +157,69 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.24",
+      "title": "The Aboard T4 brings modernist architecture to the open road",
+      "url": "https://www.wallpaper.com/transportation/the-aboard-t4-brings-modernist-architecture-to-the-open-road",
+      "excerpt": "Aboard’s forthcoming T4 travel trailer is a mobile modernist space with a battery and range extender for off-grid operations",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zdeYygjVcS4NfEdccasMXC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "wittman estes revisits le corbusier’s ‘minimum cell’ with floating pacific northwest cabin",
+      "url": "https://www.designboom.com/architecture/wittman-estes-corbusier-minimum-cell-cabin-blakely-island-washington/",
+      "excerpt": "a 40-square-meter guest house draws from le corbusier’s minimum-cell logic for a remote forest site in washington state.\nThe post wittman estes revisits le corbusier’s ‘minimum cell’ with floating pac",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/blakely-cabin-wittman-estes-san-juan-island-washington-state-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Copenhagen's restoration architecture wave is undeniable. We dive into the trend",
+      "url": "https://www.wallpaper.com/architecture/copenhagen-wave-restoration-architecture-denmark",
+      "excerpt": "Meet the Danish restoration architecture specialists bringing heritage back to life in Copenhagen, inspired by sustainability and a social responsibility to preserve history for future generations",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/W3r8vvsZmamwGxpuzUUgSQ-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Hotel Hans makes itself at home between two Copenhagen neighbourhoods",
+      "url": "https://www.wallpaper.com/travel/hotels/hotel-hans-copenhagen-review",
+      "excerpt": "Both raw and refined, Hotel Hans is an ideal base for exploring Nørrebro and Frederiksberg like a local",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jUxhTZ8EX8BMXfDKSdpzLU-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Genesis ventures into the full-size, super luxury SUV market with the new all-electric GV90",
+      "url": "https://www.wallpaper.com/transportation/genesis-electric-gv90-suv-review",
+      "excerpt": "The Genesis GV90 is an SUV with architectural interiors, complete with four swivelling seats and options that run to underfloor heating",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/a6FnEGKnfbcBEus4VCLxNk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Construction begins on world's tallest jail in Manhattan",
+      "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
+      "excerpt": "A skyscraper-sized jail designed by architecture office HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based complexes designed to replace the city's no",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.24",
       "title": "Jeep’s new Compass EV is a promising package of function, features and solid construction",
       "url": "https://www.wallpaper.com/transportation/jeeps-new-compass-ev-is-a-promising-package-of-function-features-and-solid-construction",
       "excerpt": "With a chunky, faceted form that builds on the American brand’s legendary rugged image, the new Compass continues Jeep’s admirable direction of travel",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9rLbxFjtgdUdW5XWvitQgb-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "The Casio F-B100W-1A introduces subtle step tracking to a classic digital design",
-      "url": "https://www.wallpaper.com/watches-jewellery/contemporary-watches/the-casio-f-b100w-1a-introduces-subtle-step-tracking-to-a-classic-digital-design",
-      "excerpt": "Minimalism is at the heart of Casio’s timepiece culture. A new digital watch discreetly brings Bluetooth and step tracking to the company’s timeless aesthetic",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wxeYS5xTvP7erboRdSWGdW-2133-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Explore André Fu’s hotel and restaurant interiors around the world – now charted in a new book",
-      "url": "https://www.wallpaper.com/travel/andre-fu-new-assouline-book",
-      "excerpt": "From the St Regis in Hong Kong to the Waldorf Astoria Osaka, André Fu’s interiors have shaped some of the most notable hotels around the world. Discover his work in Assouline’s new book",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QJPpkGT4977xnvcbmmWTxj-1600-80.png",
       "today": true
     },
     {
@@ -200,16 +239,6 @@ window.LUMINO_DATA = {
       "title": "Artis Sense and Artis Frame by Christian Haas for Villeroy & Boch",
       "url": "https://www.dezeen.com/2026/08/24/artis-sense-artis-frame-christian-haas-villeroy-boch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: industrial designer Christian Haas has created two new bathroom products for German brand Villeroy & Boch, incorporating delicate ceramic reliefs and open shelving. Artis Sense is a w",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Assouline's deep-dive into Ukrainian art and design reveals a rich and influential heritage",
-      "url": "https://www.wallpaper.com/art/assoulines-deep-dive-into-ukrainian-art-and-design-reveals-a-rich-and-influential-heritage",
-      "excerpt": "Ukrainian brand Gunia Project and Assouline present 'Naïve My Love: Ukrainian Art of the 20th Century'",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZpWQFEUnDmv6E5ha29PoLc.gif",
       "today": true
     },
     {
@@ -291,16 +320,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Why did the colour black take over this season’s runways?",
-      "url": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
-      "excerpt": "As it takes over the A/W 2026 collections, Dal Chodha explores the perennial power of the colour black in fashion: ‘potent, seductive, strong and pragmatic’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ouWabx6dfxjYcXXZouDXVD-1539-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -338,25 +357,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Yarlington Lodge at The Newt in Somerset blends \"little snippets of history with life today\"",
-      "url": "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
-      "excerpt": "British studio Richard Parr Associates has renovated a trio of 19th-century buildings at The Newt in Somerset hotel in England, restoring their interiors to nod to the site's past. Named Yarlington Lo",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "deliberately uncomfortable stainless steel chair turns sitting into social commentary",
-      "url": "https://www.designboom.com/readers/deliberately-uncomfortable-stainless-steel-chair-sitting-social-commentary/",
-      "excerpt": "polished, reflective and resolutely unsympathetic to lounging, the chair turns the simple act of sitting into something rather more loaded.\nThe post deliberately uncomfortable stainless steel chair tu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/447396/2026-08-19/the-womans-chair-2-6a8599768ca69.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
