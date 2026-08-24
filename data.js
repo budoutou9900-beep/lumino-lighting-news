@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  05:33",
+  "fetchedAt": "2026.08.24  06:44",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,45 +29,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -150,6 +154,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "パナソニック",
+      "cat": "技術・LED",
+      "date": "2026.08.24",
+      "title": "光で創造力を育むIoT照明「ILLUMME（イリューム）」を本格販売開始 ～STEAM教育を通じて次世代の技術人材育成に貢献～",
+      "url": "https://news.panasonic.com/jp/press/jn260824-1",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "DR House / ARC Architects",
+      "url": "https://www.archdaily.com/1183689/dr-house-arc-architects",
+      "excerpt": "Located on the north-eastern outskirts of Tashkent, the house sits between two contrasting environments. The site is accessible from two streets, with a canal and gardens on one side and a low-rise re",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/157c/ac8b/af01/892c/dcbb/large_jpg/01-12-1.jpg?1787237772",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -197,16 +221,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
       "excerpt": "At Cuattro Casa de Café, the project did not begin by defining the shape of the building, but rather by establishing what had to remain. Located in Troncones, Guerrero, on a sloping 50-by-24-meter lot",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/bffc/4253/0500/01c9/f786/large_jpg/11._Cuattro_x_Faci_Leboreiro_-__Rafael_Gamo.jpg?1787216336",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Zimbro House / Stemmer Rodrigues Arquitetura",
-      "url": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
-      "excerpt": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natura",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/9753/4253/0500/01c9/f03f/large_jpg/GK_20251110_STEMMER-RODRIGUES_CASA-ZIMBRO_0388-EE.jpg?1787074456",
       "today": false
     },
     {
