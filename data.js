@@ -1,39 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  10:32",
+  "fetchedAt": "2026.08.24  11:22",
   "sourceColors": {
-    "銀座経済新聞": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アットエス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -76,81 +48,12 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.08.24",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.08.24",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
+      "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
+      "url": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
+      "excerpt": "Indian studio Evolving Radical Aesthetics has completed Ushas, a farmhouse built into a steep Kerala hillside with an open-air temple carved into a retaining wall. Located in the Malabar hills near Ko",
       "today": true
     },
     {
@@ -212,6 +115,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "The House of Memories / Studio Lagom",
+      "url": "https://www.archdaily.com/1183766/the-house-of-memories-studio-lagom",
+      "excerpt": "The House of Memories is born from the desire to move ahead with the times and satisfy dynamic requirements, while enshrining familial memories and celebrating its roots. It is located on a 165' x 55'",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/658a/ac8b/af01/892c/e21b/large_jpg/the-house-of-memories-studio-lagom_33.jpg?1787323814",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Les Feixes Becomes the Setting for a Film Exploring Architecture and Geometry",
+      "url": "https://www.archdaily.com/1182507/les-feixes-becomes-the-setting-for-a-film-exploring-architecture-and-geometry",
+      "excerpt": "On Spain's Costa Brava, the little-known brutalist housing block Les Feixes, in L'Estartit, becomes the main stage of \"Caçador de Geometries\" (Geometry Hunter), a short film produced by Simon and dire",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/0166/ac8b/af01/892c/ba12/large_jpg/les-feixes-becomes-the-setting-for-a-film-exploring-architecture-and-geometry_1.jpg?1786380651",
+      "today": true
+    },
+    {
       "source": "パナソニック",
       "cat": "技術・LED",
       "date": "2026.08.24",
@@ -219,6 +142,26 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Oslo Architecture Triennale 2026 Announces Programme for 9th Edition Under \"What if Nature Comes First?\"",
+      "url": "https://www.archdaily.com/1183847/oslo-architecture-triennale-2026-announces-programme-for-9th-edition-under-what-if-nature-comes-first",
+      "excerpt": "The 2026 Oslo Architecture Triennale will take place from September 17 to October 1 at Sofienberg Church in Oslo, bringing together more than 30 international architecture projects around the question",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/17e5/ab59/ca01/8994/6f93/large_jpg/oslo-architecture-triennale-2026-announces-programme-for-ninth-edition-under-what-if-nature-comes-first_15.jpg?1787566111",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Salle de médiation culturelle / atelier iso architectes",
+      "url": "https://www.archdaily.com/1183311/salle-de-mediation-culturelle-atelier-iso-architectes",
+      "excerpt": "The building is located within the Moulin des Gourmands, a tourist site dedicated to the discovery and promotion of traditional milling heritage. Operated by the local tourist office, the site welcome",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/df6f/3cf9/6c00/0178/2ab0/large_jpg/Saint-R_v_rend_SD-1_copie.jpg?1786699671",
       "today": true
     },
     {
@@ -238,46 +181,6 @@ window.LUMINO_DATA = {
       "title": "Yarlington Lodge at The Newt in Somerset blends \"little snippets of history with life today\"",
       "url": "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
       "excerpt": "British studio Richard Parr Associates has renovated a trio of 19th-century buildings at The Newt in Somerset hotel in England, restoring their interiors to nod to the site's past. Named Yarlington Lo",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Ephemeral Architecture Prototypes: The Future of Public Spaces",
-      "url": "https://www.archdaily.com/1183142/ephemeral-architecture-prototypes-the-future-of-public-spaces",
-      "excerpt": "Concéntrico returned to Logroño for its 12th edition in June 2026, transforming the city into a working site for architecture. Since its founding in 2015, the festival has built an identity on resisti",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7b/8860/ab59/ca01/8994/47ec/large_jpg/ephemeral-architecture-prototypes-the-future-of-temporary-public-spaces-at-concentrico_65.jpg?1786481142",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Tomi House / The Studio",
-      "url": "https://www.archdaily.com/1183672/tomi-house-the-studio",
-      "excerpt": "Tomi House is built on a 4 × 15.5-meter plot within an existing residential neighborhood in Quy Nhon, Vietnam. Shaped by the constraints of a narrow and deep townhouse, the project brings natural ligh",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/048f/ab59/ca01/8994/6571/large_jpg/tomi-house-the-studio_2.jpg?1787233447",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "DR House / ARC Architects",
-      "url": "https://www.archdaily.com/1183689/dr-house-arc-architects",
-      "excerpt": "Located on the north-eastern outskirts of Tashkent, the house sits between two contrasting environments. The site is accessible from two streets, with a canal and gardens on one side and a low-rise re",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/157c/ac8b/af01/892c/dcbb/large_jpg/01-12-1.jpg?1787237772",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Ouse Fashion Lobby / say architects",
-      "url": "https://www.archdaily.com/1183656/ouse-fashion-lobby-say-architects",
-      "excerpt": "Ouse Fashion is rooted in Hangzhou, with two decades dedicated to one craft: tailoring the warmth of life into clothing. For them, fashion is not merely about appearance — it is about the ease with wh",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/a306/ac8b/af01/892c/dadf/large_jpg/ouse-fashion-lobby-say-architects_21.jpg?1787208482",
       "today": true
     },
     {
@@ -320,12 +223,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
+      "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.23",
-      "title": "Five innovative smartphones and dumbphones that put design first",
-      "url": "https://www.dezeen.com/2026/08/23/innovative-smartphones-dumbphones-design-first/",
-      "excerpt": "For this roundup, we've collected five smartphones and dumbphones with exciting designs, ranging from a phone with a robot arm to a keyboard phone built for messaging. For many people, their phone is ",
+      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
+      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
+      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
       "today": false
     },
     {
@@ -336,16 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/goy-architects-singapore",
       "excerpt": "Goy Architects from Singapore is part of the Wallpaper* Architects Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7gHd3PNpanADs7eW2vcqeh-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
-      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
-      "excerpt": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JaNkh2DjayngKc3ohDFoq7-2560-80.jpg",
       "today": false
     },
     {
