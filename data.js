@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  03:49",
+  "fetchedAt": "2026.08.24  04:38",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Ouse Fashion Lobby / say architects",
+      "url": "https://www.archdaily.com/1183656/ouse-fashion-lobby-say-architects",
+      "excerpt": "Ouse Fashion is rooted in Hangzhou, with two decades dedicated to one craft: tailoring the warmth of life into clothing. For them, fashion is not merely about appearance — it is about the ease with wh",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/a306/ac8b/af01/892c/dadf/large_jpg/ouse-fashion-lobby-say-architects_21.jpg?1787208482",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.23",
+      "title": "Raw & Warm Residence / Habitat Architects",
+      "url": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
+      "excerpt": "Raw & Warm was conceived as a residential laboratory for an art collector—a home where architecture, art, and daily life could coexist without competing for attention. Rather than concealing the origi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/bb35/ac8b/af01/892c/d7ed/large_jpg/raw-and-warm-residence-habitat-architects_28.jpg?1787149223",
+      "today": false
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.23",
@@ -201,26 +221,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/dumae-kayla-lighter",
       "excerpt": "Sculpted from brass, handcrafted in India, and totally refillable, the Kayla Lighter by Los Angeles design brand Dumæ is designed to be displayed just as much as it is used",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U8GojsVdRfebDWEkkhMwPP-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Nooba Building / Saraiva + Associados",
-      "url": "https://www.archdaily.com/1183796/nooba-building-saraiva-plus-associados",
-      "excerpt": "Located on the south bank of the Tagus River in Barreiro, Nooba is conceived as a new residential neighborhood shaped by its proximity to the estuary and the profound urban transformation underway in ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/1524/4253/0500/01c9/fa2a/large_jpg/20251118-Nooba_SA-2678.jpg?1787237765",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.23",
-      "title": "Zamalanda Park on the Nervión Riverbanks / Burgos & Garrido arquitectos",
-      "url": "https://www.archdaily.com/1183419/zamalanda-park-on-the-nervion-riverbanks-burgos-and-garrido-arquitectos",
-      "excerpt": "The area surrounding the Portu Dock in Barakaldo is a vast, empty space that bears the traces of its history. Although blurred, it is a place of great beauty and extraordinary potential, offering sple",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a70/6827/1801/ca00/0176/ede5/large_jpg/6-RH3267-0108.jpg?1785751646",
       "today": false
     },
     {
