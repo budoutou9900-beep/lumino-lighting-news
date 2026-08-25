@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  07:39",
+  "fetchedAt": "2026.08.25  08:35",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -154,6 +154,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Big-name studios encouraging architects to use AI",
+      "url": "https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/",
+      "excerpt": "The world's most prominent architecture studios are embracing AI for everything from coming up with designs to project analyses and reports, Dezeen research has found. Twenty-six leading architecture ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "The visionary creative campaigns that built B&B Italia",
+      "url": "https://www.wallpaper.com/design-interiors/visual-comms/bandb-italia-advertising-campaigns-60-anniversary",
+      "excerpt": "As Italian design company B&B Italia marks its 60th anniversary, we look back at the graphic designers, photographers and creative directors who transformed furniture advertising into an extension of ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uDkYcvPCkofShJVGjVe7sJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Five standout art installations from Houghton Festival 2026",
+      "url": "https://www.dezeen.com/2026/08/25/houghton-festival-2026-art-installations/",
+      "excerpt": "The Dezeen team was on the ground at Houghton Festival. Here are five standout installations from the festival, including a timber-and-thatch pavilion and a laser installation featuring a vintage camp",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -218,7 +246,7 @@ window.LUMINO_DATA = {
       "date": "2026.08.24",
       "title": "The V&A will celebrate Freddie Mercury in a free, fashion-filled exhibition",
       "url": "https://www.wallpaper.com/art/exhibitions-shows/freddie-mercury-exhibitionv-and-a-london-uk",
-      "excerpt": "The V&A are marking the 80th anniversary of Freddie Mercury's birth with exhibition, 'Splendid Thing,' opening in October",
+      "excerpt": "The V&A is marking the 80th anniversary of Freddie Mercury’s birth with an exhibition, ‘Splendid Things’, opening in October",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cRYVgixTmatpfYJzE6XgzY-2560-80.jpg",
       "today": false
     },
@@ -282,16 +310,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "The Aboard T4 brings modernist architecture to the open road",
-      "url": "https://www.wallpaper.com/transportation/the-aboard-t4-brings-modernist-architecture-to-the-open-road",
-      "excerpt": "Aboard’s forthcoming T4 travel trailer is a mobile modernist space with a battery and range extender for off-grid operations",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zdeYygjVcS4NfEdccasMXC-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -331,15 +349,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Artis Sense and Artis Frame by Christian Haas for Villeroy & Boch",
-      "url": "https://www.dezeen.com/2026/08/24/artis-sense-artis-frame-christian-haas-villeroy-boch-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: industrial designer Christian Haas has created two new bathroom products for German brand Villeroy & Boch, incorporating delicate ceramic reliefs and open shelving. Artis Sense is a w",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -347,15 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
       "excerpt": "Designed for six siblings and their families, this spacious seafront house occupies a corner lot in a housing development tract designed by the brilliant Lúcio Costa. The generous scale of the house c",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5b11/ac8b/af01/892c/d230/large_jpg/casa-no-litoral-norte-de-sao-paulo-andre-vainer-arquitetos_3.jpg?1787058978",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
-      "url": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
-      "excerpt": "Indian studio Evolving Radical Aesthetics has completed Ushas, a farmhouse built into a steep Kerala hillside with an open-air temple carved into a retaining wall. Located in the Malabar hills near Ko",
       "today": false
     },
     {
