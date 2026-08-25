@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  18:31",
+  "fetchedAt": "2026.08.25  19:26",
   "sourceColors": {
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -79,16 +79,6 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
-    {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -158,6 +148,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -212,6 +212,16 @@ window.LUMINO_DATA = {
       "title": "KFA set to transform 1970s brutalist LA office into apartments",
       "url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imf/",
       "excerpt": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Glass House / Charlene Koetz Arquitetura",
+      "url": "https://www.archdaily.com/1183928/glass-house-charlene-koetz-arquitetura",
+      "excerpt": "The Glass House (Casa de Vidro) was conceived from a contemporary architecture of strong horizontal expression, where the lightness of the planes and the precision of the lines define a sophisticated ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/fc4d/4253/0500/01c9/f608/large_jpg/Casa_de_Vidro_21.jpg?1787165807",
       "today": true
     },
     {
@@ -340,16 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183881/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup",
       "excerpt": "A place for cultural expression, collaboration and community, Bidi Bidi Performing Arts Centre is a thriving beacon of creativity and unity in Africa's largest refugee settlement. Bidi Bidi Performing",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/6c06/ac8b/af01/892c/e7fd/large_jpg/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup_5.jpg?1787587623",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "What Is the Right Wood for Outdoor Use?",
-      "url": "https://www.archdaily.com/1182508/what-is-the-right-wood-for-outdoor-use",
-      "excerpt": "Selecting wood for outdoor applications involves more than appearance alone. Durability, stability, versatility and sustainability all influence how a material performs over time. Understanding these ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/0e16/ac8b/af01/892c/ba35/large_jpg/what-is-the-right-wood-for-outdoor-use_6.jpg?1786383906",
       "today": true
     },
     {
