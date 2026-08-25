@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  20:21",
+  "fetchedAt": "2026.08.25  21:21",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -158,6 +158,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "supaform reimagines the conversation pit for the 21st century as a space for connection",
+      "url": "https://www.designboom.com/design/supaform-creating-conversation-pit-21st-century/",
+      "excerpt": "exhibited at alcova 2026, the mid-century inspired seating system in transit encounters saw lectures, DJ sets, and a whole lot of visitors.\nThe post supaform reimagines the conversation pit for the 21",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/supaform-conversation-pit-designboom-08.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -220,7 +230,7 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.08.25",
       "title": "KFA set to transform 1970s brutalist LA office into apartments",
-      "url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imf/",
+      "url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
       "excerpt": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse",
       "today": true
     },
@@ -320,16 +330,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland/",
       "excerpt": "anne loch’s monumental paintings blur figuration and abstraction in a sweeping survey at zentrum paul klee in bern.\nThe post anne loch magnifies flowers, sheep and mountains at zentrum paul klee in sw",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland-designboom-4.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "freddie mercury’s iconic costumes to enter the V&A galleries in london",
-      "url": "https://www.designboom.com/design/freddie-mercury-iconic-costumes-vam-victoria-albert-museum-galleries-london/",
-      "excerpt": "spanning queen’s rise and mercury’s solo career, the display offers a glimpse into the visual thinking behind one of music’s most recognizable performers.\nThe post freddie mercury’s iconic costumes to",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/freddie-mercury-iconic-costumes-vam-victoria-albert-museum-galleries-london-designboom-1200.jpg",
       "today": true
     },
     {
