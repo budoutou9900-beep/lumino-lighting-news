@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.24  23:17",
+  "fetchedAt": "2026.08.25  00:56",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -88,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -98,7 +98,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -108,7 +108,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -118,7 +118,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -126,18 +126,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.24",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -145,9 +136,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.08.24",
+      "date": "2026.08.25",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
@@ -161,7 +161,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/freddie-mercury-exhibitionv-and-a-london-uk",
       "excerpt": "The V&A are marking the 80th anniversary of Freddie Mercury's birth with exhibition, 'Splendid Thing,' opening in October",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cRYVgixTmatpfYJzE6XgzY-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -171,7 +171,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/naomi-pollocks-vanishing-japan-book",
       "excerpt": "Naomi Pollock's new book, 'Vanishing Japan, ' chronicles the country’s many demolished modernist works, focusing on buildings that have succumbed to change in the last quarter century. The book provid",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CcrwxjKB8Au3Wmp2JiiDWW-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -181,7 +181,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/cool-blue-tones-meet-a-vivid-red-counter-inside-hubarchs-new-optics-boutique/",
       "excerpt": "pale blue interiors, polished concrete and a custom red counter shape bazilio optics boutique through a restrained play of color and material.\nThe post cool blue tones meet a vivid red counter inside ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467771/2026-08-20/hubarch-wraps-an-optics-boutique-in-cold-blue-with-single-red-interruption-3-6a8747b849781.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -191,7 +191,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/sierra-de-la-higuera-vasto-gallery-art-collectible-design-one-roof/",
       "excerpt": "sierra+delahiguera and vasto gallery blur art, collectible design and interior space through a shared language of materiality and atmosphere.\nThe post S+DLH and VASTO gallery bring contemporary art an",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467726/2026-08-24/capsule-04-c2b7-sdlh-x-vasto-4-6a8bf3fe92076.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -201,7 +201,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/biosphere-2-humans-earth/",
       "excerpt": "an ambitious attempt at closed-loop living exposed the fragile relationships between ecosystems, infrastructure, and the people who depend on them.\nThe post biosphere 2: what happens when humans try t",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/biosphere-2-humans-earth-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -210,7 +210,17 @@ window.LUMINO_DATA = {
       "title": "Peaked volumes top Los Angeles house by Allprace",
       "url": "https://www.dezeen.com/2026/08/24/all-prace-hargis-culver-city-house/",
       "excerpt": "Local design-build studio Allprace aimed to create a feeling of \"warmth and permanence\" in a house called Hargis, which features gabled roof forms and earthy materials such as wood and stone. Set with",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "Abejas Sports and Recreation Center / border arquitectos",
+      "url": "https://www.archdaily.com/1183606/abejas-sports-and-recreation-center-border-arquitectos",
+      "excerpt": "The Abejas Sports and Recreation Center in Tijuana explores the role architecture can play in improving everyday life in underserved areas. Developed within a neighborhood shaped by rapid urban growth",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b57e/4253/0500/01c9/f405/large_jpg/3.jpg?1787147726",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -220,7 +230,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/the-aboard-t4-brings-modernist-architecture-to-the-open-road",
       "excerpt": "Aboard’s forthcoming T4 travel trailer is a mobile modernist space with a battery and range extender for off-grid operations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zdeYygjVcS4NfEdccasMXC-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -230,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/wittman-estes-corbusier-minimum-cell-cabin-blakely-island-washington/",
       "excerpt": "a 40-square-meter guest house draws from le corbusier’s minimum-cell logic for a remote forest site in washington state.\nThe post wittman estes revisits le corbusier’s ‘minimum cell’ with floating pac",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/blakely-cabin-wittman-estes-san-juan-island-washington-state-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -240,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/copenhagen-wave-restoration-architecture-denmark",
       "excerpt": "Meet the Danish restoration architecture specialists bringing heritage back to life in Copenhagen, inspired by sustainability and a social responsibility to preserve history for future generations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/W3r8vvsZmamwGxpuzUUgSQ-1416-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -250,7 +260,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/hotel-hans-copenhagen-review",
       "excerpt": "Both raw and refined, Hotel Hans is an ideal base for exploring Nørrebro and Frederiksberg like a local",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jUxhTZ8EX8BMXfDKSdpzLU-1600-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "House in Santana do Parnaíba / GRUPOSP",
+      "url": "https://www.archdaily.com/1183716/house-in-santana-do-parnaiba-gruposp",
+      "excerpt": "Located in Santana do Parnaíba, this residence establishes an intentional dialogue with the landscape, orienting itself to take advantage of the privileged view of the woods in the adjacent valley, wh",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/aff8/4253/0500/01c9/f10a/large_jpg/javier_agustin_rojas_gruposp_04.jpg?1787080723",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -259,7 +279,17 @@ window.LUMINO_DATA = {
       "title": "Construction begins on world's tallest jail in Manhattan",
       "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
       "excerpt": "A skyscraper-sized jail designed by architecture studio HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based structures designed to replace the city's n",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "HUB UCC. Universidad Católica de Córdoba Innovation Space / BLT Arquitectos",
+      "url": "https://www.archdaily.com/1183877/hub-ucc-universidad-catolica-de-cordoba-innovation-space-blt-arquitectos",
+      "excerpt": "The Universidad Católica de Córdoba operates on a campus that, following the traditional format, originally assigned a building to each academic unit or field of study. In a contemporary world that de",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/743b/4253/0500/01c9/ffd1/large_jpg/014_-_08-2026__-__UCC_HUB_BLT_ph_g_viramonte-4996-HDR-Editar.jpg?1787327594",
+      "today": false
     },
     {
       "source": "designboom",
@@ -269,7 +299,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/jae-k-kims-timbercraft-book-rediscovers-traditional-east-asian-wooden-construction/",
       "excerpt": "timbercraft book by jae k kim bridges ancient east asian timber joinery with contemporary architectural design.\nThe post jae k kim’s timbercraft book rediscovers traditional east asian wooden construc",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/366127/2026-08-23/timbercraft-lost-tectonics-from-east-asia-1-6a8ab3f6c4a1e.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -278,7 +308,17 @@ window.LUMINO_DATA = {
       "title": "Artis Sense and Artis Frame by Christian Haas for Villeroy & Boch",
       "url": "https://www.dezeen.com/2026/08/24/artis-sense-artis-frame-christian-haas-villeroy-boch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: industrial designer Christian Haas has created two new bathroom products for German brand Villeroy & Boch, incorporating delicate ceramic reliefs and open shelving. Artis Sense is a w",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.24",
+      "title": "House on the Northern Coast of Sao Paulo  / André Vainer Arquitetos",
+      "url": "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
+      "excerpt": "Designed for six siblings and their families, this spacious seafront house occupies a corner lot in a housing development tract designed by the brilliant Lúcio Costa. The generous scale of the house c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5b11/ac8b/af01/892c/d230/large_jpg/casa-no-litoral-norte-de-sao-paulo-andre-vainer-arquitetos_3.jpg?1787058978",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -288,17 +328,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture",
       "excerpt": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/489f/5b21/b900/0199/2bc7/large_jpg/08_90_100_James_Brittain.jpg?1785874611",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Finishing",
-      "url": "https://www.archdaily.com/1183835/finishing",
-      "excerpt": "Obra Blanca is an essential experience for professionals in the architecture finishes and design products sector, including ceramics, bathroom furniture, faucets, lighting, and more. It offers a uniqu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/f7f9/4253/0500/01ca/0260/large_jpg/55049649466_95683e926a_k.jpg?1787557892",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -307,37 +337,7 @@ window.LUMINO_DATA = {
       "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
       "url": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
       "excerpt": "Indian studio Evolving Radical Aesthetics has completed Ushas, a farmhouse built into a steep Kerala hillside with an open-air temple carved into a retaining wall. Located in the Malabar hills near Ko",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Pavilion in Brolo Park / CN10 architetti",
-      "url": "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti",
-      "excerpt": "The construction of the new pavilion is part of a larger urban project to reclaim and enhance a large green space called PARCOBROLO, which extends to the southern part of the town of Bonate Sotto in t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/7ebd/4253/0500/01c9/f234/large_jpg/PARCO_BROLO_Albo-15.jpg?1787133646",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Public Interest Design in South Africa",
-      "url": "https://www.archdaily.com/1183873/public-interest-design-in-south-africa",
-      "excerpt": "This book presents salient examples of architectural projects and practices in South Africa since 1994 that collectively subscribe to the paradigm shift towards Public Interest Design. Despite radical",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/4e0a/4253/0500/01ca/0461/large_jpg/Book_images_and_variations.jpg?1787579919",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Call for Proposals: Bahrain Pavilion at the Venice Architecture Biennale 2027",
-      "url": "https://www.archdaily.com/1183869/call-for-proposals-bahrain-pavilion-at-the-venice-architecture-biennale-2027",
-      "excerpt": "The Bahrain Authority for Culture and Antiquities invites individuals and collaborative teams to submit proposals to represent the National Pavilion of Bahrain at the 20th International Architecture E",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/4c04/4253/0500/01ca/043e/large_jpg/Bahrain_Pavilion-_Open_Call_Post13.jpg?1787579468",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -346,7 +346,7 @@ window.LUMINO_DATA = {
       "title": "Shigeru Ban unveils coastal wellness retreat on Awaji Island",
       "url": "https://www.dezeen.com/2026/08/24/shigeru-ban-hotel-pasona-awaji-island/",
       "excerpt": "Pritzker Prize-winning architect Shigeru Ban has completed a wellness hotel on Awaji Island, Japan. Named the Pasona Natureverse Retreat, the hotel at the tip of Awaji Island near Kobe was designed fo",
-      "today": true
+      "today": false
     },
     {
       "source": "パナソニック",
@@ -356,7 +356,7 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
