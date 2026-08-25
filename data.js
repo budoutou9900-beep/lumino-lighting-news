@@ -1,47 +1,47 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  19:26",
+  "fetchedAt": "2026.08.25  20:21",
   "sourceColors": {
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "高松経済新聞": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -79,6 +79,16 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -148,13 +158,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.25",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "OMA reveals its first-ever affordable housing project in San Francisco. Could it be a model?",
+      "url": "https://www.wallpaper.com/architecture/residential/oma-affordable-housing-san-francisco-730-stanyan",
+      "excerpt": "With innovative materials and smart design moves, 730 Stanyan Street provides apartments for some of the city's neediest, while delivering capital A architecture. See inside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FseGW8GMxtFuavDcQDuVWd-2000-80.jpg",
       "today": true
     },
     {
@@ -300,16 +310,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review",
       "excerpt": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNLpazvxY6wNHa4KgKc5Df-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Dehli Grolimund gives one of Japan’s smallest modernist houses a second act",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/2026-dehli-grolimund-switzerland",
-      "excerpt": "Swiss practice Dehli Grolimund is spotlighted in the Wallpaper* Architects’ Directory 2026; explore their forensic reconstruction of an important Japanese home",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6TGwsMbca6fh3n3h4rsNWd-1600-80.jpg",
       "today": true
     },
     {
