@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  05:26",
+  "fetchedAt": "2026.08.25  06:36",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -126,15 +126,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.25",
@@ -145,12 +136,40 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.08.25",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Are cufflinks this season’s unexpected menswear accessory?",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-cufflinks-trend",
+      "excerpt": "Thanks to Prada’s A/W 2026 menswear show, the cufflink is having a comeback. Here, we pick eight of the best – from an Hermès classic to Paul Smith’s lucky coins",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2JFJjmnLWuWjgfWP5bBQJd-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "DNCO brings \"handmade quality\" to Vermont's revamped logo",
+      "url": "https://www.dezeen.com/2026/08/25/dnco-vermont-tourism-branding/",
+      "excerpt": "Undulating hills and winding rivers are translated into the letters of Vermont's updated tourism logo, designed by creative agency DNCO as part of a wider rebrand for the US state. The Vermont Departm",
       "today": true
     },
     {
@@ -181,6 +200,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/topics/206830",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18937/3442-6830-8f1d54e44bcf81390e8bc8372f725ba3-3900x2925.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "A Leaf Canopy by the Sea / Studio 10",
+      "url": "https://www.archdaily.com/1183655/a-leaf-canopy-by-the-sea-studio-10",
+      "excerpt": "The project sits on a tree-lined grassy slope along the coast of Shenzhen Bay Park, one of the city's most popular public parks. The site boasts abundant wildlife and serves as a resting ground for Si",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/9c6b/4253/0500/01c9/f6f8/large_jpg/1OUKVJ_F.jpg?1787206842",
       "today": true
     },
     {
@@ -273,16 +302,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Copenhagen's restoration architecture wave is undeniable. We dive into the trend",
-      "url": "https://www.wallpaper.com/architecture/copenhagen-wave-restoration-architecture-denmark",
-      "excerpt": "Meet the Danish restoration architecture specialists bringing heritage back to life in Copenhagen, inspired by sustainability and a social responsibility to preserve history for future generations",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/W3r8vvsZmamwGxpuzUUgSQ-1416-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -331,31 +350,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "90/100 Mixed Use Project / 5468796 Architecture",
-      "url": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture",
-      "excerpt": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a72/489f/5b21/b900/0199/2bc7/large_jpg/08_90_100_James_Brittain.jpg?1785874611",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.24",
       "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
       "url": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
       "excerpt": "Indian studio Evolving Radical Aesthetics has completed Ushas, a farmhouse built into a steep Kerala hillside with an open-air temple carved into a retaining wall. Located in the Malabar hills near Ko",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Shigeru Ban unveils coastal wellness retreat on Awaji Island",
-      "url": "https://www.dezeen.com/2026/08/24/shigeru-ban-hotel-pasona-awaji-island/",
-      "excerpt": "Pritzker Prize-winning architect Shigeru Ban has completed a wellness hotel on Awaji Island, Japan. Named the Pasona Natureverse Retreat, the hotel at the tip of Awaji Island near Kobe was designed fo",
       "today": false
     },
     {
