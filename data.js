@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  09:29",
+  "fetchedAt": "2026.08.25  10:25",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,19 +21,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "アットエス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,37 +41,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -106,13 +114,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.08.25",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -126,15 +133,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.25",
@@ -145,12 +143,60 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.08.25",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance",
+      "url": "https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/",
+      "excerpt": "Designer Simon Weckert has created a colourful camouflage shirt that cannot be detected using AI video systems. Developed in response to a pilot project to use artificial intelligence (AI) video surve",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "MADE: bush terminal by NYCEDC empowers creative ecosystem on brooklyn waterfront",
+      "url": "https://www.designboom.com/design/made-bush-terminal-nycedc-creative-ecosystem-brooklyn/",
+      "excerpt": "spearheaded by NYCEDC, the campus opens the shoreline to the public while providing modern workspaces for emerging creators and fabricators. \nThe post MADE: bush terminal by NYCEDC empowers creative e",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/made-bush-terminal_designbom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Go underground at Qode, Hyderabad’s newest basement bar",
+      "url": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review",
+      "excerpt": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNLpazvxY6wNHa4KgKc5Df-2560-80.jpg",
       "today": true
     },
     {
@@ -301,16 +347,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "The V&A will celebrate Freddie Mercury in a free, fashion-filled exhibition",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/freddie-mercury-exhibitionv-and-a-london-uk",
-      "excerpt": "The V&A is marking the 80th anniversary of Freddie Mercury’s birth with an exhibition, ‘Splendid Things’, opening in October",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cRYVgixTmatpfYJzE6XgzY-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -318,16 +354,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/cool-blue-tones-meet-a-vivid-red-counter-inside-hubarchs-new-optics-boutique/",
       "excerpt": "pale blue interiors, polished concrete and a custom red counter shape bazilio optics boutique through a restrained play of color and material.\nThe post cool blue tones meet a vivid red counter inside ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467771/2026-08-20/hubarch-wraps-an-optics-boutique-in-cold-blue-with-single-red-interruption-3-6a8747b849781.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "S+DLH and VASTO gallery bring contemporary art and collectible design under one roof",
-      "url": "https://www.designboom.com/art/sierra-de-la-higuera-vasto-gallery-art-collectible-design-one-roof/",
-      "excerpt": "sierra+delahiguera and vasto gallery blur art, collectible design and interior space through a shared language of materiality and atmosphere.\nThe post S+DLH and VASTO gallery bring contemporary art an",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467726/2026-08-24/capsule-04-c2b7-sdlh-x-vasto-4-6a8bf3fe92076.jpg",
       "today": false
     },
     {
@@ -347,15 +373,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183606/abejas-sports-and-recreation-center-border-arquitectos",
       "excerpt": "The Abejas Sports and Recreation Center in Tijuana explores the role architecture can play in improving everyday life in underserved areas. Developed within a neighborhood shaped by rapid urban growth",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b57e/4253/0500/01c9/f405/large_jpg/3.jpg?1787147726",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Construction begins on world's tallest jail in Manhattan",
-      "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
-      "excerpt": "A skyscraper-sized jail designed by architecture studio HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based structures designed to replace the city's n",
       "today": false
     },
     {
