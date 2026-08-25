@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  14:39",
+  "fetchedAt": "2026.08.25  15:37",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,49 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -103,16 +107,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -151,6 +145,45 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Maslow’s newest co-working space is an office you won’t want to leave",
+      "url": "https://www.wallpaper.com/travel/maslows-co-working-space-kensington-review",
+      "excerpt": "We spent a day at Maslow’s new members’ club. Here is what we thought about Kensington’s wellness-focused working space",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LG8iBLgSJmhg3hcAVpTvmW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "We take the spirited Morgan Super 3 out for a spin of its mighty rear wheel",
+      "url": "https://www.wallpaper.com/transportation/morgan-super-3-test-drive",
+      "excerpt": "Depending on what you read, Morgan’s Super 3 is either the epitome of automotive freedom or a terrifying tricycle. Is it a death trap or does it just get a bad rap?",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CEXLBTXwi9EoHjQENRmqgG-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Lighting made from Chinese medicine waste among projects from Politecnico di Milano",
+      "url": "https://www.dezeen.com/2026/08/25/lighting-organic-medicine-waste-among-projects-politecnico-di-milano-schoolshows/",
+      "excerpt": "Dezeen School Shows: a light made from organic waste from traditional Chinese medicine is among the projects by students at Politecnico di Milano. Also featured is a modular mycelium habitat for sparr",
       "today": true
     },
     {
@@ -211,6 +244,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Green House / M2 Senos Arquitectos",
+      "url": "https://www.archdaily.com/1183860/green-house-m2-senos-arquitectos",
+      "excerpt": "Casa Verde is located in Costa Nova do Prado, a Portuguese Atlantic beach famous for its “palheiros”—originally storage buildings used in fishing, which over generations transformed into colorful stri",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/2e57/ab59/ca04/e746/cbf5/large_jpg/casa-verde-m2-senos-arquitectos_2.jpg?1787571817",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -250,16 +293,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "The visionary creative campaigns that built B&B Italia",
-      "url": "https://www.wallpaper.com/design-interiors/visual-comms/bandb-italia-advertising-campaigns-60-anniversary",
-      "excerpt": "As Italian design company B&B Italia marks its 60th anniversary, we look back at the graphic designers, photographers and creative directors who transformed furniture advertising into an extension of ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uDkYcvPCkofShJVGjVe7sJ-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -277,15 +310,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183812/radically-collective-the-legacy-of-cubas-microbrigadas-housing-program",
       "excerpt": "In the 1970s, Cuba faced a severe nationwide housing shortage due to population growth, rural-to-urban migration, and the degradation of existing housing stock. The government's answer was a system th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/bc03/ac8b/af01/892c/e4a6/large_jpg/concrete-and-repetition-the-legacy-of-cubas-microbrigadas-in-havana_3.jpg?1787345964",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Five standout art installations from Houghton Festival 2026",
-      "url": "https://www.dezeen.com/2026/08/25/houghton-festival-2026-art-installations/",
-      "excerpt": "The Dezeen team was on the ground at Houghton Festival. Here are five standout installations from the festival, including a timber-and-thatch pavilion and a laser installation featuring a vintage camp",
       "today": true
     },
     {
@@ -316,26 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183915/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration",
       "excerpt": "The Chinati Foundation has announced plans to restore the Artillery Sheds in Marfa, Texas, the former military buildings adapted by artist Donald Judd to house his 100 untitled works in mill aluminum,",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/663f/ab59/ca01/8994/72ad/large_jpg/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration_1.jpg?1787651659",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Cabin Sande / Helen & Hard architects",
-      "url": "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects",
-      "excerpt": "The site of Cabin Sande is defined by the vast horizon over the Atlantic Ocean, the dark and rough rocky landscape descending toward the sea, and the untouched natural vegetation in the rear part of t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/d94c/4253/0500/01c9/fd2a/large_jpg/Cabin_Sande_Helen___Hard_Architects_Photo_Sindre_Ellingsen_K8A1095.jpg?1787287913",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Are cufflinks this season’s unexpected menswear accessory?",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-cufflinks-trend",
-      "excerpt": "Thanks to Prada’s A/W 2026 menswear show, the cufflink is having a comeback. Here, we pick eight of the best – from an Hermès classic to Paul Smith’s lucky coins",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2JFJjmnLWuWjgfWP5bBQJd-1540-80.jpg",
       "today": true
     },
     {
