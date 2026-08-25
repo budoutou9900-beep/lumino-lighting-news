@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  11:22",
+  "fetchedAt": "2026.08.25  12:36",
   "sourceColors": {
-    "銀座経済新聞": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "高松経済新聞": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,27 +41,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -75,6 +75,16 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "robert smithson’s entropy leads BEAR architects into the spaces architecture forgot",
+      "url": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
+      "excerpt": "at concéntrico 2026, BEAR architects revisited robert smithson’s ideas on entropy, landscape and sedimentation to rethink domestic architecture, ageing materials and the spaces we tend to overlook.\nTh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/robert-smithsons-entropy-bear-architects-spaces-architecture-designboom-4.jpg",
+      "today": true
+    },
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
@@ -106,12 +116,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "Google ニュース",
+      "cat": "展示・アート",
       "date": "2026.08.25",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -153,13 +164,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.25",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "Barbara Bush gives us a tour of her enchanting Brooklyn pollinator garden",
+      "url": "https://www.wallpaper.com/architecture/residential/barbara-bush-garden-brooklyn",
+      "excerpt": "The former First Daughter enlisted landscape designer Nathalie Danilovich to create an 'overgrown and wild' backyard that was approved by kids and critters alike. Take the tour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3N2r2SsCbVR2fP4u6qycR8-1920-80.jpg",
       "today": true
     },
     {
@@ -250,12 +261,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Radically Collective: The Legacy of Cuba's Microbrigadas Housing Program",
+      "url": "https://www.archdaily.com/1183812/radically-collective-the-legacy-of-cubas-microbrigadas-housing-program",
+      "excerpt": "In the 1970s, Cuba faced a severe nationwide housing shortage due to population growth, rural-to-urban migration, and the degradation of existing housing stock. The government's answer was a system th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/bc03/ac8b/af01/892c/e4a6/large_jpg/concrete-and-repetition-the-legacy-of-cubas-microbrigadas-in-havana_3.jpg?1787345964",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.25",
       "title": "Five standout art installations from Houghton Festival 2026",
       "url": "https://www.dezeen.com/2026/08/25/houghton-festival-2026-art-installations/",
       "excerpt": "The Dezeen team was on the ground at Houghton Festival. Here are five standout installations from the festival, including a timber-and-thatch pavilion and a laser installation featuring a vintage camp",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Bidi Bidi Performing Arts Centre / To​.org + Hassell + Localworks + Arup",
+      "url": "https://www.archdaily.com/1183881/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup",
+      "excerpt": "A place for cultural expression, collaboration and community, Bidi Bidi Performing Arts Centre is a thriving beacon of creativity and unity in Africa's largest refugee settlement. Bidi Bidi Performing",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/6c06/ac8b/af01/892c/e7fd/large_jpg/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup_5.jpg?1787587623",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "What Is the Right Wood for Outdoor Use?",
+      "url": "https://www.archdaily.com/1182508/what-is-the-right-wood-for-outdoor-use",
+      "excerpt": "Selecting wood for outdoor applications involves more than appearance alone. Durability, stability, versatility and sustainability all influence how a material performs over time. Understanding these ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/0e16/ac8b/af01/892c/ba35/large_jpg/what-is-the-right-wood-for-outdoor-use_6.jpg?1786383906",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Donald Judd’s Artillery Sheds in Texas to Undergo Major Restoration",
+      "url": "https://www.archdaily.com/1183915/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration",
+      "excerpt": "The Chinati Foundation has announced plans to restore the Artillery Sheds in Marfa, Texas, the former military buildings adapted by artist Donald Judd to house his 100 untitled works in mill aluminum,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/663f/ab59/ca01/8994/72ad/large_jpg/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration_1.jpg?1787651659",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Cabin Sande / Helen & Hard architects",
+      "url": "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects",
+      "excerpt": "The site of Cabin Sande is defined by the vast horizon over the Atlantic Ocean, the dark and rough rocky landscape descending toward the sea, and the untouched natural vegetation in the rear part of t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/d94c/4253/0500/01c9/fd2a/large_jpg/Cabin_Sande_Helen___Hard_Architects_Photo_Sindre_Ellingsen_K8A1095.jpg?1787287913",
       "today": true
     },
     {
@@ -275,36 +336,6 @@ window.LUMINO_DATA = {
       "title": "DNCO brings \"handmade quality\" to Vermont's revamped logo",
       "url": "https://www.dezeen.com/2026/08/25/dnco-vermont-tourism-branding/",
       "excerpt": "Undulating hills and winding rivers are translated into the letters of Vermont's updated tourism logo, designed by creative agency DNCO as part of a wider rebrand for the US state. The Vermont Departm",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "A modest house in rural Nova Scotia is a contemporary 'box' for living",
-      "url": "https://www.wallpaper.com/architecture/residential/modest-house-skybox-mackay-lyons-sweetapple-canada",
-      "excerpt": "Through simplicity of form and well-crafted details, a modest house, Skybox, presents an approachable archetype for the architect-designed country home",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zYpfGv6nKHmrXNFu4674AU-2500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "From Selecting to Making: When Architects Become Material Producers",
-      "url": "https://www.archdaily.com/1183813/from-selecting-to-making-when-architects-become-material-producers",
-      "excerpt": "Architects are trained to choose materials, compare their properties, and decide how they should be used. Some practices are taking on a different task: developing the material itself.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/0a37/ab59/ca01/8994/6deb/large_jpg/from-selecting-to-making-architects-who-become-material-producers_1.jpg?1787365949",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Gochang Hwang Yunseok Library / Hyunjoon Yoo + Partners",
-      "url": "https://www.archdaily.com/1183791/gochang-hwang-yunseok-library-hyunjoon-yoo-plus-partners",
-      "excerpt": "Thanks to the digital environment, we can now easily access knowledge and information anytime, anywhere. So what significance do public libraries have today? They act as a living room for everyone, a ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/8561/ab59/ca01/8994/6d04/large_jpg/gochang-hwang-yunseok-library-hyunjoon-yoo-plus-partners_10.jpg?1787331969",
       "today": true
     },
     {
@@ -328,46 +359,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Twilight House / Spacefiction Studio",
-      "url": "https://www.archdaily.com/1183668/twilight-house-spacefiction-studio",
-      "excerpt": "Uprooting into the future – The client wanted to move his parents from their ancestral home to a nature-centric, designed one. The program was to fit more rooms for the children and grandchildren, so ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/db22/4253/0500/01c9/f803/large_jpg/09.jpg?1787222953",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "A Leaf Canopy by the Sea / Studio 10",
-      "url": "https://www.archdaily.com/1183655/a-leaf-canopy-by-the-sea-studio-10",
-      "excerpt": "The project sits on a tree-lined grassy slope along the coast of Shenzhen Bay Park, one of the city's most popular public parks. The site boasts abundant wildlife and serves as a resting ground for Si",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/9c6b/4253/0500/01c9/f6f8/large_jpg/1OUKVJ_F.jpg?1787206842",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "cool blue tones meet a vivid red counter inside hubarch’s new optics boutique",
-      "url": "https://www.designboom.com/readers/cool-blue-tones-meet-a-vivid-red-counter-inside-hubarchs-new-optics-boutique/",
-      "excerpt": "pale blue interiors, polished concrete and a custom red counter shape bazilio optics boutique through a restrained play of color and material.\nThe post cool blue tones meet a vivid red counter inside ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467771/2026-08-20/hubarch-wraps-an-optics-boutique-in-cold-blue-with-single-red-interruption-3-6a8747b849781.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Abejas Sports and Recreation Center / border arquitectos",
-      "url": "https://www.archdaily.com/1183606/abejas-sports-and-recreation-center-border-arquitectos",
-      "excerpt": "The Abejas Sports and Recreation Center in Tijuana explores the role architecture can play in improving everyday life in underserved areas. Developed within a neighborhood shaped by rapid urban growth",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/b57e/4253/0500/01c9/f405/large_jpg/3.jpg?1787147726",
-      "today": false
-    },
-    {
       "source": "パナソニック",
       "cat": "技術・LED",
       "date": "2026.08.24",
@@ -385,6 +376,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -448,6 +449,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -455,6 +466,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
