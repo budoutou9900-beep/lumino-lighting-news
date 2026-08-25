@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  16:29",
+  "fetchedAt": "2026.08.25  17:26",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -154,6 +154,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Miami votes to restore Hilario Candela's Marine Stadium",
+      "url": "https://www.dezeen.com/2026/08/25/miami-residents-vote-restore-hilario-candela-marine-stadium/",
+      "excerpt": "Miami voters have approved Denver-based real estate company Oak View Group's bid to take over management of the city's historic Miami Marine Stadium and restore the structure. Built in 1963 and design",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -219,6 +228,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/barbara-bush-garden-brooklyn",
       "excerpt": "The former First Daughter enlisted landscape designer Nathalie Danilovich to create an 'overgrown and wild' backyard that was approved by kids and critters alike. Take the tour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3N2r2SsCbVR2fP4u6qycR8-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Portola Valley Home  / Schwartz and Architecture",
+      "url": "https://www.archdaily.com/1183498/portola-valley-home-schwartz-and-architecture",
+      "excerpt": "To add a bit of surprise to what otherwise could be a standard ranch house façade, we wanted the updated 'face' of this home to feel as if it were suddenly coming alive and welcoming you as you approa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/431b/3cf9/6c00/0178/3706/large_jpg/BearGulch_PhotoByBruceDamonte_02.jpg?1787052844",
       "today": true
     },
     {
@@ -290,15 +309,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Big-name studios encouraging architects to use AI",
-      "url": "https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/",
-      "excerpt": "The world's most prominent architecture studios are embracing AI for everything from coming up with designs to project analyses and reports, Dezeen research has found. Twenty-six leading architecture ",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -336,16 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1182508/what-is-the-right-wood-for-outdoor-use",
       "excerpt": "Selecting wood for outdoor applications involves more than appearance alone. Durability, stability, versatility and sustainability all influence how a material performs over time. Understanding these ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a7a/0e16/ac8b/af01/892c/ba35/large_jpg/what-is-the-right-wood-for-outdoor-use_6.jpg?1786383906",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Donald Judd’s Artillery Sheds in Texas to Undergo Major Restoration",
-      "url": "https://www.archdaily.com/1183915/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration",
-      "excerpt": "The Chinati Foundation has announced plans to restore the Artillery Sheds in Marfa, Texas, the former military buildings adapted by artist Donald Judd to house his 100 untitled works in mill aluminum,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/663f/ab59/ca01/8994/72ad/large_jpg/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration_1.jpg?1787651659",
       "today": true
     },
     {
