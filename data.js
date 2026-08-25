@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  08:35",
+  "fetchedAt": "2026.08.25  09:29",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,23 +29,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -126,6 +126,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.25",
@@ -136,21 +145,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.08.25",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Dehli Grolimund gives one of Japan’s smallest modernist houses a second act",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/2026-dehli-grolimund-switzerland",
+      "excerpt": "Swiss practice Dehli Grolimund is spotlighted in the Wallpaper* Architects’ Directory 2026; explore their forensic reconstruction of an important Japanese home",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6TGwsMbca6fh3n3h4rsNWd-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "anne loch magnifies flowers, sheep and mountains at zentrum paul klee in switzerland",
+      "url": "https://www.designboom.com/art/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland/",
+      "excerpt": "anne loch’s monumental paintings blur figuration and abstraction in a sweeping survey at zentrum paul klee in bern.\nThe post anne loch magnifies flowers, sheep and mountains at zentrum paul klee in sw",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland-designboom-4.jpg",
       "today": true
     },
     {
@@ -170,6 +190,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/visual-comms/bandb-italia-advertising-campaigns-60-anniversary",
       "excerpt": "As Italian design company B&B Italia marks its 60th anniversary, we look back at the graphic designers, photographers and creative directors who transformed furniture advertising into an extension of ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uDkYcvPCkofShJVGjVe7sJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "freddie mercury’s iconic costumes to enter the V&A galleries in london",
+      "url": "https://www.designboom.com/design/freddie-mercury-iconic-costumes-vam-victoria-albert-museum-galleries-london/",
+      "excerpt": "spanning queen’s rise and mercury’s solo career, the display offers a glimpse into the visual thinking behind one of music’s most recognizable performers.\nThe post freddie mercury’s iconic costumes to",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/freddie-mercury-iconic-costumes-vam-victoria-albert-museum-galleries-london-designboom-1200.jpg",
       "today": true
     },
     {
@@ -211,6 +241,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "From Selecting to Making: When Architects Become Material Producers",
+      "url": "https://www.archdaily.com/1183813/from-selecting-to-making-when-architects-become-material-producers",
+      "excerpt": "Architects are trained to choose materials, compare their properties, and decide how they should be used. Some practices are taking on a different task: developing the material itself.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/0a37/ab59/ca01/8994/6deb/large_jpg/from-selecting-to-making-architects-who-become-material-producers_1.jpg?1787365949",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Gochang Hwang Yunseok Library / Hyunjoon Yoo + Partners",
+      "url": "https://www.archdaily.com/1183791/gochang-hwang-yunseok-library-hyunjoon-yoo-plus-partners",
+      "excerpt": "Thanks to the digital environment, we can now easily access knowledge and information anytime, anywhere. So what significance do public libraries have today? They act as a living room for everyone, a ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/8561/ab59/ca01/8994/6d04/large_jpg/gochang-hwang-yunseok-library-hyunjoon-yoo-plus-partners_10.jpg?1787331969",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -234,6 +284,16 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.25",
+      "title": "Twilight House / Spacefiction Studio",
+      "url": "https://www.archdaily.com/1183668/twilight-house-spacefiction-studio",
+      "excerpt": "Uprooting into the future – The client wanted to move his parents from their ancestral home to a nature-centric, designed one. The program was to fit more rooms for the children and grandchildren, so ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/db22/4253/0500/01c9/f803/large_jpg/09.jpg?1787222953",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
       "title": "A Leaf Canopy by the Sea / Studio 10",
       "url": "https://www.archdaily.com/1183655/a-leaf-canopy-by-the-sea-studio-10",
       "excerpt": "The project sits on a tree-lined grassy slope along the coast of Shenzhen Bay Park, one of the city's most popular public parks. The site boasts abundant wildlife and serves as a resting ground for Si",
@@ -248,16 +308,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/freddie-mercury-exhibitionv-and-a-london-uk",
       "excerpt": "The V&A is marking the 80th anniversary of Freddie Mercury’s birth with an exhibition, ‘Splendid Things’, opening in October",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cRYVgixTmatpfYJzE6XgzY-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "Documenting Japan’s disappearing modernist architecture",
-      "url": "https://www.wallpaper.com/architecture/naomi-pollocks-vanishing-japan-book",
-      "excerpt": "Naomi Pollock's new book, 'Vanishing Japan, ' chronicles the country’s many demolished modernist works, focusing on buildings that have succumbed to change in the last quarter century. The book provid",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CcrwxjKB8Au3Wmp2JiiDWW-2560-80.jpg",
       "today": false
     },
     {
@@ -281,16 +331,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "biosphere 2: what happens when humans try to recreate earth?",
-      "url": "https://www.designboom.com/architecture/biosphere-2-humans-earth/",
-      "excerpt": "an ambitious attempt at closed-loop living exposed the fragile relationships between ecosystems, infrastructure, and the people who depend on them.\nThe post biosphere 2: what happens when humans try t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/biosphere-2-humans-earth-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.24",
@@ -310,52 +350,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "wittman estes revisits le corbusier’s ‘minimum cell’ with floating pacific northwest cabin",
-      "url": "https://www.designboom.com/architecture/wittman-estes-corbusier-minimum-cell-cabin-blakely-island-washington/",
-      "excerpt": "a 40-square-meter guest house draws from le corbusier’s minimum-cell logic for a remote forest site in washington state.\nThe post wittman estes revisits le corbusier’s ‘minimum cell’ with floating pac",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/blakely-cabin-wittman-estes-san-juan-island-washington-state-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "House in Santana do Parnaíba / GRUPOSP",
-      "url": "https://www.archdaily.com/1183716/house-in-santana-do-parnaiba-gruposp",
-      "excerpt": "Located in Santana do Parnaíba, this residence establishes an intentional dialogue with the landscape, orienting itself to take advantage of the privileged view of the woods in the adjacent valley, wh",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/aff8/4253/0500/01c9/f10a/large_jpg/javier_agustin_rojas_gruposp_04.jpg?1787080723",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.24",
       "title": "Construction begins on world's tallest jail in Manhattan",
       "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
       "excerpt": "A skyscraper-sized jail designed by architecture studio HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based structures designed to replace the city's n",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "HUB UCC. Universidad Católica de Córdoba Innovation Space / BLT Arquitectos",
-      "url": "https://www.archdaily.com/1183877/hub-ucc-universidad-catolica-de-cordoba-innovation-space-blt-arquitectos",
-      "excerpt": "The Universidad Católica de Córdoba operates on a campus that, following the traditional format, originally assigned a building to each academic unit or field of study. In a contemporary world that de",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/743b/4253/0500/01c9/ffd1/large_jpg/014_-_08-2026__-__UCC_HUB_BLT_ph_g_viramonte-4996-HDR-Editar.jpg?1787327594",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "House on the Northern Coast of Sao Paulo  / André Vainer Arquitetos",
-      "url": "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
-      "excerpt": "Designed for six siblings and their families, this spacious seafront house occupies a corner lot in a housing development tract designed by the brilliant Lúcio Costa. The generous scale of the house c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5b11/ac8b/af01/892c/d230/large_jpg/casa-no-litoral-norte-de-sao-paulo-andre-vainer-arquitetos_3.jpg?1787058978",
       "today": false
     },
     {
