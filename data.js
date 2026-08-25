@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  15:37",
+  "fetchedAt": "2026.08.25  16:29",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,41 +41,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -107,6 +103,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.25",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -148,13 +154,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.25",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "TOBI turns digital fortunes into a tiny ‘cyber friend’ for your keyring",
+      "url": "https://www.designboom.com/technology/tobi-turns-digital-fortunes-into-a-tiny-cyber-friend-for-your-keyring/",
+      "excerpt": "a palm-sized device turns horoscope-style predictions into a button-operated ritual that clips onto a set of keys.\nThe post TOBI turns digital fortunes into a tiny ‘cyber friend’ for your keyring appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tobi-fortune-teller-keyring-designboom-FB.jpg",
       "today": true
     },
     {
@@ -340,16 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183915/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration",
       "excerpt": "The Chinati Foundation has announced plans to restore the Artillery Sheds in Marfa, Texas, the former military buildings adapted by artist Donald Judd to house his 100 untitled works in mill aluminum,",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/663f/ab59/ca01/8994/72ad/large_jpg/donald-judds-artillery-sheds-in-texas-to-undergo-major-restoration_1.jpg?1787651659",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "sordo madaleno sinks open-air art gallery four meters below ground in los cabos",
-      "url": "https://www.designboom.com/architecture/sordo-madaleno-art-gallery-los-cabos-arte-abierto-baja-anima-village-mexico/",
-      "excerpt": "a sloping ramp drops visitors four meters below ánima village into an open-air gallery framed by concrete and desert.\nThe post sordo madaleno sinks open-air art gallery four meters below ground in los",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sordo-madaleno-arte-abierto-baja-california-mexico-designboom-FB.jpg",
       "today": true
     },
     {
