@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  00:56",
+  "fetchedAt": "2026.08.25  02:16",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "アットエス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,41 +37,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -103,6 +107,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.08.25",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -151,6 +164,16 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "sordo madaleno sinks open-air art gallery four meters below ground in los cabos",
+      "url": "https://www.designboom.com/architecture/sordo-madaleno-art-gallery-los-cabos-arte-abierto-baja-anima-village-mexico/",
+      "excerpt": "a sloping ramp drops visitors four meters below ánima village into an open-air gallery framed by concrete and desert.\nThe post sordo madaleno sinks open-air art gallery four meters below ground in los",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sordo-madaleno-arte-abierto-baja-california-mexico-designboom-FB.jpg",
       "today": true
     },
     {
@@ -289,16 +312,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183877/hub-ucc-universidad-catolica-de-cordoba-innovation-space-blt-arquitectos",
       "excerpt": "The Universidad Católica de Córdoba operates on a campus that, following the traditional format, originally assigned a building to each academic unit or field of study. In a contemporary world that de",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/743b/4253/0500/01c9/ffd1/large_jpg/014_-_08-2026__-__UCC_HUB_BLT_ph_g_viramonte-4996-HDR-Editar.jpg?1787327594",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.24",
-      "title": "jae k kim’s timbercraft book rediscovers traditional east asian wooden construction",
-      "url": "https://www.designboom.com/readers/jae-k-kims-timbercraft-book-rediscovers-traditional-east-asian-wooden-construction/",
-      "excerpt": "timbercraft book by jae k kim bridges ancient east asian timber joinery with contemporary architectural design.\nThe post jae k kim’s timbercraft book rediscovers traditional east asian wooden construc",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/366127/2026-08-23/timbercraft-lost-tectonics-from-east-asia-1-6a8ab3f6c4a1e.jpg",
       "today": false
     },
     {
