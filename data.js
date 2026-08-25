@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  12:36",
+  "fetchedAt": "2026.08.25  13:43",
   "sourceColors": {
-    "designboom": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アットエス": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -75,16 +75,6 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "robert smithson’s entropy leads BEAR architects into the spaces architecture forgot",
-      "url": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
-      "excerpt": "at concéntrico 2026, BEAR architects revisited robert smithson’s ideas on entropy, landscape and sedimentation to rethink domestic architecture, ageing materials and the spaces we tend to overlook.\nTh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/robert-smithsons-entropy-bear-architects-spaces-architecture-designboom-4.jpg",
-      "today": true
-    },
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
@@ -161,6 +151,16 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "robert smithson’s entropy leads BEAR architects into the spaces architecture forgot",
+      "url": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
+      "excerpt": "at concéntrico 2026, BEAR architects revisited robert smithson’s ideas on entropy, landscape and sedimentation to rethink domestic architecture, ageing materials and the spaces we tend to overlook.\nTh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/robert-smithsons-entropy-bear-architects-spaces-architecture-designboom-4.jpg",
       "today": true
     },
     {
