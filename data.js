@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  13:43",
+  "fetchedAt": "2026.08.25  14:39",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -151,6 +151,15 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "KFA set to transform 1970s brutalist LA office into apartments",
+      "url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imf/",
+      "excerpt": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse",
       "today": true
     },
     {
@@ -327,15 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-cufflinks-trend",
       "excerpt": "Thanks to Prada’s A/W 2026 menswear show, the cufflink is having a comeback. Here, we pick eight of the best – from an Hermès classic to Paul Smith’s lucky coins",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2JFJjmnLWuWjgfWP5bBQJd-1540-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "DNCO brings \"handmade quality\" to Vermont's revamped logo",
-      "url": "https://www.dezeen.com/2026/08/25/dnco-vermont-tourism-branding/",
-      "excerpt": "Undulating hills and winding rivers are translated into the letters of Vermont's updated tourism logo, designed by creative agency DNCO as part of a wider rebrand for the US state. The Vermont Departm",
       "today": true
     },
     {
