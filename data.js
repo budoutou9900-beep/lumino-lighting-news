@@ -1,162 +1,52 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.25  21:21",
+  "fetchedAt": "2026.08.25  22:21",
   "sourceColors": {
-    "銀座経済新聞": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アットエス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "高松経済新聞": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
     "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "パナソニック": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
-    {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.08.25",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.25",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
-      "today": true
-    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -184,6 +74,16 @@ window.LUMINO_DATA = {
       "title": "Miami votes to restore Hilario Candela's Marine Stadium",
       "url": "https://www.dezeen.com/2026/08/25/miami-residents-vote-restore-hilario-candela-marine-stadium/",
       "excerpt": "Miami voters have approved Denver-based real estate company Oak View Group's bid to take over management of the city's historic Miami Marine Stadium and restore the structure. Built in 1963 and design",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Forest House / Lucas Gonçalves Arquitetura",
+      "url": "https://www.archdaily.com/1183946/forest-house-lucas-goncalves-arquitetura",
+      "excerpt": "Located in Franca, São Paulo, Casa da Mata was designed for a family that values a peaceful lifestyle and a daily connection with nature.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/fece/4253/0500/01c9/f61d/large_jpg/casa_da_mata__2_.jpg?1787166458",
       "today": true
     },
     {
@@ -223,6 +123,16 @@ window.LUMINO_DATA = {
       "title": "Lighting made from Chinese medicine waste among projects from Politecnico di Milano",
       "url": "https://www.dezeen.com/2026/08/25/lighting-organic-medicine-waste-among-projects-politecnico-di-milano-schoolshows/",
       "excerpt": "Dezeen School Shows: a light made from organic waste from traditional Chinese medicine is among the projects by students at Politecnico di Milano. Also featured is a modular mycelium habitat for sparr",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.25",
+      "title": "Esquina Nativa Center / TACO taller de arquitectura contextual",
+      "url": "https://www.archdaily.com/1183840/esquina-nativa-center-taco-taller-de-arquitectura-contextual",
+      "excerpt": "Esquina Nativa rethinks the relationship between commercial architecture, landscape, and public space in the contemporary city. Located on the corner of the former Cholul nursery in Mérida, the projec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1aeb/4253/0500/01c9/fdf4/large_jpg/EN-MR-40.jpg?1787304765",
       "today": true
     },
     {
@@ -330,26 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland/",
       "excerpt": "anne loch’s monumental paintings blur figuration and abstraction in a sweeping survey at zentrum paul klee in bern.\nThe post anne loch magnifies flowers, sheep and mountains at zentrum paul klee in sw",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland-designboom-4.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Radically Collective: The Legacy of Cuba's Microbrigadas Housing Program",
-      "url": "https://www.archdaily.com/1183812/radically-collective-the-legacy-of-cubas-microbrigadas-housing-program",
-      "excerpt": "In the 1970s, Cuba faced a severe nationwide housing shortage due to population growth, rural-to-urban migration, and the degradation of existing housing stock. The government's answer was a system th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/bc03/ac8b/af01/892c/e4a6/large_jpg/concrete-and-repetition-the-legacy-of-cubas-microbrigadas-in-havana_3.jpg?1787345964",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Bidi Bidi Performing Arts Centre / To​.org + Hassell + Localworks + Arup",
-      "url": "https://www.archdaily.com/1183881/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup",
-      "excerpt": "A place for cultural expression, collaboration and community, Bidi Bidi Performing Arts Centre is a thriving beacon of creativity and unity in Africa's largest refugee settlement. Bidi Bidi Performing",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/6c06/ac8b/af01/892c/e7fd/large_jpg/bidi-bidi-performing-arts-centre-torg-plus-hassell-plus-localworks-plus-arup_5.jpg?1787587623",
       "today": true
     },
     {
