@@ -1,47 +1,47 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  08:36",
+  "fetchedAt": "2026.08.26  09:35",
   "sourceColors": {
-    "岩崎電気": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -79,16 +79,6 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
-    {
-      "source": "岩崎電気",
-      "cat": "技術・LED",
-      "date": "2026.08.26",
-      "title": "LED投光器 - レディオック フラッド アヴァン 船舶用",
-      "url": "https://www.iwasaki.co.jp/lighting/flood/avant_series/ship/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -165,6 +155,35 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "ryo yamada’s sea-level installation prediction rises at edinburgh art festival 2026",
+      "url": "https://www.designboom.com/readers/ryo-yamada-in-vitro-zero-metre-above-sea-level-installation-summerhall-arts/",
+      "excerpt": "for edinburgh art festival 2026, ryo yamada transforms summerhall arts with a light-filled timber sculpture mapping future ocean levels.\nThe post ryo yamada’s sea-level installation prediction rises a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/465757/2026-08-24/in-vitro-zero-metre-above-sea-level-1-6a8c4886b6ed5.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Riksbyggen creates Sweden's smallest apartments to \"make the housing crisis tangible\"",
+      "url": "https://www.dezeen.com/2026/08/26/riksbyggen-swedens-smallest-apartments-housing-crisis-tangible/",
+      "excerpt": "Developer Riksbyggen and creative agency BBDO Nordics have designed three flats based on what a 25-year-old can afford to buy in Sweden today, with the smallest micro home measuring just 1.9 square me",
+      "today": true
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "技術・LED",
+      "date": "2026.08.26",
+      "title": "LED投光器 - レディオック フラッド アヴァン 船舶用",
+      "url": "https://www.iwasaki.co.jp/lighting/flood/avant_series/ship/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": true
     },
     {
@@ -351,25 +370,6 @@ window.LUMINO_DATA = {
       "title": "Lighting made from Chinese medicine waste among projects from Politecnico di Milano",
       "url": "https://www.dezeen.com/2026/08/25/lighting-organic-medicine-waste-among-projects-politecnico-di-milano-schoolshows/",
       "excerpt": "Dezeen School Shows: a light made from organic waste from traditional Chinese medicine is among the projects by students at Politecnico di Milano. Also featured is a modular mycelium habitat for sparr",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "KFA set to transform 1970s brutalist LA office into apartments",
-      "url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
-      "excerpt": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "robert smithson’s entropy leads BEAR architects into the spaces architecture forgot",
-      "url": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
-      "excerpt": "at concéntrico 2026, BEAR architects revisited robert smithson’s ideas on entropy, landscape and sedimentation to rethink domestic architecture, ageing materials and the spaces we tend to overlook.\nTh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/robert-smithsons-entropy-bear-architects-spaces-architecture-designboom-4.jpg",
       "today": false
     },
     {
