@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  12:39",
+  "fetchedAt": "2026.08.26  13:50",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,29 +49,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -99,10 +103,10 @@ window.LUMINO_DATA = {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.26",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -134,16 +138,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.26",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.26",
@@ -151,6 +145,36 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Tour a breezy Texas ranch house that looks as good as it did in 1985",
+      "url": "https://www.wallpaper.com/architecture/residential/lake-flato-texas-ranch-house",
+      "excerpt": "When the second-generation owners of a family vacation home needed a refresh, they naturally called on the architects who built it 40 years before",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8ZPc6naLtFuhHGqxQZqYra-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Relive 60 years of Notting Hill Carnival in pictures",
+      "url": "https://www.wallpaper.com/art/photography/notting-hill-carnival-ian-watts-photography",
+      "excerpt": "This year marks 60 years of the Notting Hill Carnival, and 50 years since Ian Watts began photographing it. Discover his images, free this weekend at London's Outernet",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7NNurstYWNjj2R3Zxa5MZN-1292-80.png",
       "today": true
     },
     {
@@ -209,6 +233,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/martin-labbe-pine-chair-without-single-screw-stockholm/",
       "excerpt": "common construction timber gets a more considered role as the architect lets the joints speak for themselves.\nThe post martin labbé builds pine chair without a single screw in stockholm appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/IMG_5423_straightened.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Timbercraft: Lost Tectonics from East Asia",
+      "url": "https://www.archdaily.com/1184021/timbercraft-lost-tectonics-from-east-asia",
+      "excerpt": "At a time when timber is again reshaping architectural practice, Timbercraft: Lost Tectonics from East Asia revisits the enduring legacy of traditional East Asian construction. Spanning more than 1,40",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/d769/4253/0500/01ca/0e85/large_jpg/01-Timbercraft_01_Book-Cover.jpg?1787746224",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Call for Proposals II: Experimental Research Project at Monitor P, Casa dell’Architettura of Rome",
+      "url": "https://www.archdaily.com/1184022/call-for-proposals-ii-experimental-research-project-at-monitor-p-casa-dellarchitettura-of-rome",
+      "excerpt": "Casa dell’Architettura of Rome announces the second edition of CONTEMPORANEA Call for Proposal (October–December 2026), with the aim of supporting original research and reflections in the field of con",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/d7fc/4253/0500/01ca/0e8e/large_jpg/cfp_banner_1920x1080.jpg?1787746308",
       "today": true
     },
     {
@@ -291,26 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Caloz Bramois House / R2A Architectes",
-      "url": "https://www.archdaily.com/1183727/caloz-bramois-house-r2a-architectes",
-      "excerpt": "In Bramois, on the outskirts of the city of Sion, this two-family home project challenges the typology of dual-unit housing that is currently widespread in low-density development zones. It contrasts ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/2604/ac8b/af01/892c/e6ec/large_jpg/caloz-bramois-house-r2a-architectes_1.jpg?1787569701",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Pelli Clarke & Partners' City Tower One and Dubai Cityscape Under the Lens of Ahmad Alnaji",
-      "url": "https://www.archdaily.com/1183975/pelli-clarke-and-partners-city-tower-one-and-dubai-city-life-under-the-lens-of-ahmad-alnaji",
-      "excerpt": "City Tower One is a 358-meter-tall (1,175 ft.) tower in Dubai designed by Pelli Clarke & Partners. The 93-story mixed-use skyscraper completed construction and launched for leasing in June 2026. The b",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/7074/ab59/ca01/8994/768b/large_jpg/pelli-clarke-and-partnerss-city-tower-one-under-the-lens-of-ahmad-alnaji_5.jpg?1787719809",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.26",
@@ -347,26 +371,6 @@ window.LUMINO_DATA = {
       "excerpt": "Meet promising emerging studio Pensaer – featured in the Wallpaper* Architects’ Directory 2026 – and take a tour of its Clay House, a considered London extension",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rYvLgnGVVMVsuAAkNNiU66-1445-80.jpg",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "OMA reveals its first-ever affordable housing project in San Francisco. Could it be a model?",
-      "url": "https://www.wallpaper.com/architecture/residential/oma-affordable-housing-san-francisco-730-stanyan",
-      "excerpt": "With innovative materials and smart design moves, 730 Stanyan Street provides apartments for some of the city's neediest, while delivering capital A architecture. See inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FseGW8GMxtFuavDcQDuVWd-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Maslow’s newest co-working space is an office you won’t want to leave",
-      "url": "https://www.wallpaper.com/travel/maslows-co-working-space-kensington-review",
-      "excerpt": "We spent a day at Maslow’s new members’ club. Here is what we thought about Kensington’s wellness-focused working space",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LG8iBLgSJmhg3hcAVpTvmW-2560-80.jpg",
-      "today": false
     },
     {
       "source": "パナソニック",
