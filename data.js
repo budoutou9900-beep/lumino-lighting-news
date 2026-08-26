@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  04:34",
+  "fetchedAt": "2026.08.26  05:29",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -165,6 +165,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/finsbury-circus-parks-office-studio-weave-london-uk",
       "excerpt": "The Finsbury Circus Parks Office, in the heart of London, within a green space dating back to 1606, has just been completed to a design by Studio Weave",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/y864PWftY5v26RsHKJBHjQ-1969-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Latest Dell workstations close gap between \"design concept and client-ready presentation\"",
+      "url": "https://www.dezeen.com/2026/08/26/dell-workstations-ai-visualisation-real-time-design/",
+      "excerpt": "Promotion: US technology company Dell has incorporated Nvidia GPUs and AI-assisted visualisation technologies into its workstation portfolio to support its latest real-time design studio. According to",
       "today": true
     },
     {
@@ -331,15 +340,6 @@ window.LUMINO_DATA = {
       "title": "Grass-topped Dutch office by Studio Massimo \"adds habitat rather than taking it\"",
       "url": "https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/",
       "excerpt": "Local architecture practice Studio Massimo has completed a bio-based office in the Netherlands, using bark cladding and an expansive green roof to disguise its form within the surrounding woodland. Na",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance",
-      "url": "https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/",
-      "excerpt": "Designer Simon Weckert has created a colourful camouflage shirt that cannot be detected using AI video systems. Developed in response to a pilot project to use artificial intelligence (AI) video surve",
       "today": false
     },
     {
