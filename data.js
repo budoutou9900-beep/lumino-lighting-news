@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  18:54",
+  "fetchedAt": "2026.08.26  21:34",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -167,12 +167,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Japú House / AIA Estúdio",
+      "url": "https://www.archdaily.com/1183980/japu-house-aia-estudio",
+      "excerpt": "Located in the mountainous region of Rio de Janeiro, Japú House sits on a plot of land where the relationship with the landscape was defining for its placement. Through earthmoving, a narrow flat stri",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/17b5/4253/0500/01c9/fa79/large_jpg/0461.AIAEstudio.CasaJapu-PedroKok0227.jpg?1787238365",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.26",
       "title": "IA creates Craftsman-style office for AI company Notion in San Francisco",
       "url": "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
-      "excerpt": "US studio Interior Architects has combined Craftsman-style detailing and a minimalist technical look with the details of a historic building for AI company Notion in San Francisco, California. IA desi",
+      "excerpt": "US studio IA has combined Craftsman-style detailing and a minimalist technical look with the details of a historic building for AI company Notion in San Francisco, California. IA designed the headquar",
       "today": true
     },
     {
@@ -222,6 +232,16 @@ window.LUMINO_DATA = {
       "title": "Gravity-powered mountain trike among projects from the University of Ljubljana",
       "url": "https://www.dezeen.com/2026/08/26/gravity-powered-mountain-trike-university-ljubljana-slovenia-schoolshows/",
       "excerpt": "Dezeen School Shows: a gravity-powered mountain trike designed to extend mountain tourism beyond the ski season is among the projects from the University of Ljubljana. Also featured is biodegradable p",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "El Trebol House / Engelman Estudio",
+      "url": "https://www.archdaily.com/1184015/el-trebol-house-engelman-estudio",
+      "excerpt": "Casa El Trébol stands on the highest point of the neighborhood of the same name in San Carlos de Bariloche, Río Negro, in Argentine Patagonia. Set within a dense native forest on a steep slope, the pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/c016/ab59/ca01/8994/77c0/large_jpg/casa-el-trebol-engelman-estudio_37.jpg?1787740200",
       "today": true
     },
     {
@@ -330,26 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/martin-labbe-pine-chair-without-single-screw-stockholm/",
       "excerpt": "common construction timber gets a more considered role as the architect lets the joints speak for themselves.\nThe post martin labbé builds pine chair without a single screw in stockholm appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/IMG_5423_straightened.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "The Future Suburb Symposium",
-      "url": "https://www.archdaily.com/1184029/the-future-suburb-symposium",
-      "excerpt": "The life of today's suburbs is interesting, complex, and diverse, but the suburban environments we are building are not. This is the central paradox of the contemporary Australian suburb: its social l",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/da7c/4253/0500/01ca/0ed1/large_jpg/4x5.jpg?1787746966",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Timbercraft: Lost Tectonics from East Asia",
-      "url": "https://www.archdaily.com/1184021/timbercraft-lost-tectonics-from-east-asia",
-      "excerpt": "At a time when timber is again reshaping architectural practice, Timbercraft: Lost Tectonics from East Asia revisits the enduring legacy of traditional East Asian construction. Spanning more than 1,40",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/d769/4253/0500/01ca/0e85/large_jpg/01-Timbercraft_01_Book-Cover.jpg?1787746224",
       "today": true
     },
     {
