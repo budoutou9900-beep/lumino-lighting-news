@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  05:29",
+  "fetchedAt": "2026.08.26  06:38",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -155,6 +155,15 @@ window.LUMINO_DATA = {
       "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
       "excerpt": "",
       "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Colar revives adobe structure to create pared-back home in Mexico",
+      "url": "https://www.dezeen.com/2026/08/26/colar-adobe-casa-esteli-mexico/",
+      "excerpt": "Architecture studio Colar has updated and extended a dilapidated adobe structure to create a single-storey home in Chiapas, Mexico. Named Casa Estelí, the 162-square-metre dwelling combines the revive",
       "today": true
     },
     {
@@ -331,15 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183498/portola-valley-home-schwartz-and-architecture",
       "excerpt": "To add a bit of surprise to what otherwise could be a standard ranch house façade, we wanted the updated 'face' of this home to feel as if it were suddenly coming alive and welcoming you as you approa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/431b/3cf9/6c00/0178/3706/large_jpg/BearGulch_PhotoByBruceDamonte_02.jpg?1787052844",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Grass-topped Dutch office by Studio Massimo \"adds habitat rather than taking it\"",
-      "url": "https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/",
-      "excerpt": "Local architecture practice Studio Massimo has completed a bio-based office in the Netherlands, using bark cladding and an expansive green roof to disguise its form within the surrounding woodland. Na",
       "today": false
     },
     {
