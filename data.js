@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  09:35",
+  "fetchedAt": "2026.08.26  10:30",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,33 +49,21 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "大光電機": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -103,10 +91,10 @@ window.LUMINO_DATA = {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.26",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -138,6 +126,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.26",
@@ -148,13 +146,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.26",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "title": "my archischool announces winners of international youth ARCHIDESIGN competition 2026",
+      "url": "https://www.designboom.com/architecture/my-archischool-winners-international-youth-archidesign-competition-2026/",
+      "excerpt": "developed using 3D rendering software like unreal engine and twinmotion, the winning proposals range from art  galleries to floating restaurants.     \nThe post my archischool announces winners of inte",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/my-archischool-designboom-facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Xbox teams up with IKEA for debut gaming furniture collection",
+      "url": "https://www.dezeen.com/2026/08/26/xbox-ikea-gaming-furniture-yxstaby/",
+      "excerpt": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "martin labbé builds pine chair without a single screw in stockholm",
+      "url": "https://www.designboom.com/design/martin-labbe-pine-chair-without-single-screw-stockholm/",
+      "excerpt": "common construction timber gets a more considered role as the architect lets the joints speak for themselves.\nThe post martin labbé builds pine chair without a single screw in stockholm appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/IMG_5423_straightened.jpg",
       "today": true
     },
     {
@@ -204,6 +221,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/vibrant-card-deck-julia-schimautz-animation-sequence-colors-shapes/",
       "excerpt": "individual cards become frames in a larger composition, revealing movement through subtle changes in color, shape, and position.\nThe post vibrant card deck by julia schimautz hides an animation in its",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/vibrant-card-deck-julia-schimautz-animation-sequence-colors-shapes-designboom-03-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Caloz Bramois House / R2A Architectes",
+      "url": "https://www.archdaily.com/1183727/caloz-bramois-house-r2a-architectes",
+      "excerpt": "In Bramois, on the outskirts of the city of Sion, this two-family home project challenges the typology of dual-unit housing that is currently widespread in low-density development zones. It contrasts ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/2604/ac8b/af01/892c/e6ec/large_jpg/caloz-bramois-house-r2a-architectes_1.jpg?1787569701",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Pelli Clarke & Partners' City Tower One and Dubai Cityscape Under the Lens of Ahmad Alnaji",
+      "url": "https://www.archdaily.com/1183975/pelli-clarke-and-partners-city-tower-one-and-dubai-city-life-under-the-lens-of-ahmad-alnaji",
+      "excerpt": "City Tower One is a 358-meter-tall (1,175 ft.) tower in Dubai designed by Pelli Clarke & Partners. The 93-story mixed-use skyscraper completed construction and launched for leasing in June 2026. The b",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/7074/ab59/ca01/8994/768b/large_jpg/pelli-clarke-and-partnerss-city-tower-one-under-the-lens-of-ahmad-alnaji_5.jpg?1787719809",
       "today": true
     },
     {
@@ -285,26 +322,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Ultra-small Infrastructure Buildings / NODE Achitecture & Urbanism",
-      "url": "https://www.archdaily.com/1183901/ultra-small-infrastructure-buildings-node-achitecture-and-urbanism",
-      "excerpt": "Renovation of Public Restroom at Route 1 Bus Terminal, Guangzhou - Located in Dongshankou, a historic district of Guangzhou, the renovation reinterprets an ordinary public restroom as an open urban in",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/18a3/ab59/ca48/60a2/0890/large_jpg/ultra-small-infrastructure-buildings-node-achitecture-and-urbanism_10.jpg?1787631795",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "supaform reimagines the conversation pit for the 21st century as a space for connection",
-      "url": "https://www.designboom.com/design/supaform-creating-conversation-pit-21st-century/",
-      "excerpt": "exhibited at alcova 2026, the mid-century inspired seating system in transit encounters saw lectures, DJ sets, and a whole lot of visitors.\nThe post supaform reimagines the conversation pit for the 21",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/supaform-conversation-pit-designboom-08.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -315,32 +332,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Studio House / Estudio Dupuy",
-      "url": "https://www.archdaily.com/1183949/studio-house-estudio-dupuy",
-      "excerpt": "Sited on two lots on the slopes of El Cazador, the project is integrated into an environment defined by its topography, existing vegetation, and open views toward the wetlands.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/11c5/4253/0500/01ca/0366/large_jpg/2.jpg?1787564538",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.25",
       "title": "Miami votes to restore Hilario Candela's Marine Stadium",
       "url": "https://www.dezeen.com/2026/08/25/miami-residents-vote-restore-hilario-candela-marine-stadium/",
       "excerpt": "Miami voters have approved Denver-based real estate company Oak View Group's bid to take over management of the city's historic Miami Marine Stadium and restore the structure. Built in 1963 and design",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "TOBI turns digital fortunes into a tiny ‘cyber friend’ for your keyring",
-      "url": "https://www.designboom.com/technology/tobi-turns-digital-fortunes-into-a-tiny-cyber-friend-for-your-keyring/",
-      "excerpt": "a palm-sized device turns horoscope-style predictions into a button-operated ritual that clips onto a set of keys.\nThe post TOBI turns digital fortunes into a tiny ‘cyber friend’ for your keyring appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tobi-fortune-teller-keyring-designboom-FB.jpg",
       "today": false
     },
     {
@@ -361,15 +358,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/morgan-super-3-test-drive",
       "excerpt": "Depending on what you read, Morgan’s Super 3 is either the epitome of automotive freedom or a terrifying tricycle. Is it a death trap or does it just get a bad rap?",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CEXLBTXwi9EoHjQENRmqgG-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Lighting made from Chinese medicine waste among projects from Politecnico di Milano",
-      "url": "https://www.dezeen.com/2026/08/25/lighting-organic-medicine-waste-among-projects-politecnico-di-milano-schoolshows/",
-      "excerpt": "Dezeen School Shows: a light made from organic waste from traditional Chinese medicine is among the projects by students at Politecnico di Milano. Also featured is a modular mycelium habitat for sparr",
       "today": false
     },
     {
@@ -400,16 +388,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -473,16 +451,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -490,16 +458,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
