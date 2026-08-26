@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  00:57",
+  "fetchedAt": "2026.08.26  02:24",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -155,6 +155,16 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "sweeping bamboo roof to shape rammed-earth community center in senegal",
+      "url": "https://www.designboom.com/architecture/bamboo-roof-kaira-looro-rammed-earth-community-center-senegal-ioannidou-gligorovski/",
+      "excerpt": "the winning proposal sees curving bamboo and rammed earth around a shaded gathering space for rural senegal. \nThe post sweeping bamboo roof to shape rammed-earth community center in senegal appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kaira-looro-community-center-senegal-winner-afroditi-ioannidou-vladimir-gligorovski-designboom-FB.jpg",
       "today": true
     },
     {
@@ -340,16 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review",
       "excerpt": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNLpazvxY6wNHa4KgKc5Df-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "anne loch magnifies flowers, sheep and mountains at zentrum paul klee in switzerland",
-      "url": "https://www.designboom.com/art/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland/",
-      "excerpt": "anne loch’s monumental paintings blur figuration and abstraction in a sweeping survey at zentrum paul klee in bern.\nThe post anne loch magnifies flowers, sheep and mountains at zentrum paul klee in sw",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/anne-loch-flowers-sheep-mountains-zentrum-paul-klee-exhibition-switzerland-designboom-4.jpg",
       "today": false
     },
     {
