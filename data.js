@@ -1,11 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  07:42",
+  "fetchedAt": "2026.08.26  08:36",
   "sourceColors": {
-    "Dezeen": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "Google ニュース": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "オズモール": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "アットエス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "高松経済新聞": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Yahoo!ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,40 +41,152 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
+    {
+      "source": "岩崎電気",
+      "cat": "技術・LED",
+      "date": "2026.08.26",
+      "title": "LED投光器 - レディオック フラッド アヴァン 船舶用",
+      "url": "https://www.iwasaki.co.jp/lighting/flood/avant_series/ship/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.26",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.08.26",
+      "title": "納入事例 - 浪江グリーンアンモニア統合制御実証フィールド ほか",
+      "url": "https://www.iwasaki.co.jp/projects/#News",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "vibrant card deck by julia schimautz hides an animation in its sequence of colors and shapes",
+      "url": "https://www.designboom.com/design/vibrant-card-deck-julia-schimautz-animation-sequence-colors-shapes/",
+      "excerpt": "individual cards become frames in a larger composition, revealing movement through subtle changes in color, shape, and position.\nThe post vibrant card deck by julia schimautz hides an animation in its",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/vibrant-card-deck-julia-schimautz-animation-sequence-colors-shapes-designboom-03-1.jpg",
+      "today": true
+    },
     {
       "source": "Dezeen",
       "cat": "デザイン",
@@ -76,6 +216,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "An Architecture of Attention: Inside Syn Architects",
+      "url": "https://www.archdaily.com/1182453/an-architecture-of-attention-inside-syn-architects",
+      "excerpt": "As Saudi Arabia's cities expand through increasingly ambitious cultural projects, Syn Architects has spent much of its practice looking at what predates that transformation. The practice's participati",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/5f8c/ac8b/af01/892c/b6b2/large_jpg/syn-architects-and-the-practice-of-looking-closely_3.jpg?1786339234",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.26",
@@ -86,6 +236,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Fringe Dweller Residence / Mihaly Slocombe",
+      "url": "https://www.archdaily.com/1183784/fringe-dweller-residence-mihaly-slocombe",
+      "excerpt": "Fringe Dweller's sculpted extension sees the transformation of an unassuming weatherboard cottage into a proud forever home. It's a home that walks a number of tightropes at once: balancing openness w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/7a5a/4253/0500/01c9/fff9/large_jpg/0089-02-street.jpg?1787329133",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.26",
@@ -93,6 +253,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/bamboo-roof-kaira-looro-rammed-earth-community-center-senegal-ioannidou-gligorovski/",
       "excerpt": "the winning proposal sees curving bamboo and rammed earth around a shaded gathering space for rural senegal. \nThe post sweeping bamboo roof to shape rammed-earth community center in senegal appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/kaira-looro-community-center-senegal-winner-afroditi-ioannidou-vladimir-gligorovski-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "OH HO Residence / Play Architecture",
+      "url": "https://www.archdaily.com/1183783/oh-ho-residence-play-architecture",
+      "excerpt": "Inspired by an ephemeral bliss experienced in a South Indian temple complex, this moment is poetic, a setting sun visually diminishing the density of the stone, creating an intangible relationship wit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/80c6/ac8b/af01/892c/e3b4/large_jpg/oh-ho-residence-play-architecture_16.jpg?1787330764",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Ultra-small Infrastructure Buildings / NODE Achitecture & Urbanism",
+      "url": "https://www.archdaily.com/1183901/ultra-small-infrastructure-buildings-node-achitecture-and-urbanism",
+      "excerpt": "Renovation of Public Restroom at Route 1 Bus Terminal, Guangzhou - Located in Dongshankou, a historic district of Guangzhou, the renovation reinterprets an ordinary public restroom as an open urban in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/18a3/ab59/ca48/60a2/0890/large_jpg/ultra-small-infrastructure-buildings-node-achitecture-and-urbanism_10.jpg?1787631795",
       "today": true
     },
     {
@@ -135,16 +315,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Forest House / Lucas Gonçalves Arquitetura",
-      "url": "https://www.archdaily.com/1183946/forest-house-lucas-goncalves-arquitetura",
-      "excerpt": "Located in Franca, São Paulo, Casa da Mata was designed for a family that values a peaceful lifestyle and a daily connection with nature.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/fece/4253/0500/01c9/f61d/large_jpg/casa_da_mata__2_.jpg?1787166458",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -184,32 +354,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Esquina Nativa Center / TACO taller de arquitectura contextual",
-      "url": "https://www.archdaily.com/1183840/esquina-nativa-center-taco-taller-de-arquitectura-contextual",
-      "excerpt": "Esquina Nativa rethinks the relationship between commercial architecture, landscape, and public space in the contemporary city. Located on the corner of the former Cholul nursery in Mérida, the projec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/1aeb/4253/0500/01c9/fdf4/large_jpg/EN-MR-40.jpg?1787304765",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.25",
       "title": "KFA set to transform 1970s brutalist LA office into apartments",
       "url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
       "excerpt": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Glass House / Charlene Koetz Arquitetura",
-      "url": "https://www.archdaily.com/1183928/glass-house-charlene-koetz-arquitetura",
-      "excerpt": "The Glass House (Casa de Vidro) was conceived from a contemporary architecture of strong horizontal expression, where the lightness of the planes and the precision of the lines define a sophisticated ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/fc4d/4253/0500/01c9/f608/large_jpg/Casa_de_Vidro_21.jpg?1787165807",
       "today": false
     },
     {
@@ -220,26 +370,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
       "excerpt": "at concéntrico 2026, BEAR architects revisited robert smithson’s ideas on entropy, landscape and sedimentation to rethink domestic architecture, ageing materials and the spaces we tend to overlook.\nTh",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/robert-smithsons-entropy-bear-architects-spaces-architecture-designboom-4.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Portola Valley Home  / Schwartz and Architecture",
-      "url": "https://www.archdaily.com/1183498/portola-valley-home-schwartz-and-architecture",
-      "excerpt": "To add a bit of surprise to what otherwise could be a standard ranch house façade, we wanted the updated 'face' of this home to feel as if it were suddenly coming alive and welcoming you as you approa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/431b/3cf9/6c00/0178/3706/large_jpg/BearGulch_PhotoByBruceDamonte_02.jpg?1787052844",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "MADE: bush terminal by NYCEDC empowers creative ecosystem on brooklyn waterfront",
-      "url": "https://www.designboom.com/design/made-bush-terminal-nycedc-creative-ecosystem-brooklyn/",
-      "excerpt": "spearheaded by NYCEDC, the campus opens the shoreline to the public while providing modern workspaces for emerging creators and fabricators. \nThe post MADE: bush terminal by NYCEDC empowers creative e",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/made-bush-terminal_designbom_facebook.jpg",
       "today": false
     },
     {
@@ -399,16 +529,6 @@ window.LUMINO_DATA = {
       "title": "夏季休業のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20260724-1/",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "新製品",
-      "date": "2026.07.23",
-      "title": "納入事例 - 中京競馬場 ほか",
-      "url": "https://www.iwasaki.co.jp/projects/#News",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
