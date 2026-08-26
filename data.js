@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  03:49",
+  "fetchedAt": "2026.08.26  04:34",
   "sourceColors": {
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -79,16 +79,6 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
-    {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.26",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -155,6 +145,36 @@ window.LUMINO_DATA = {
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "The City of London’s oldest and largest public space now has a new garden hub",
+      "url": "https://www.wallpaper.com/architecture/finsbury-circus-parks-office-studio-weave-london-uk",
+      "excerpt": "The Finsbury Circus Parks Office, in the heart of London, within a green space dating back to 1606, has just been completed to a design by Studio Weave",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/y864PWftY5v26RsHKJBHjQ-1969-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Pensaer’s craft-led London terrace extension is full of sculptural detailing",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/pensaer-studio-uk",
+      "excerpt": "Meet promising emerging studio Pensaer – featured in the Wallpaper* Architects’ Directory 2026 – and take a tour of its Clay House, a considered London extension",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rYvLgnGVVMVsuAAkNNiU66-1445-80.jpg",
       "today": true
     },
     {
@@ -295,16 +315,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Barbara Bush gives us a tour of her enchanting Brooklyn pollinator garden",
-      "url": "https://www.wallpaper.com/architecture/residential/barbara-bush-garden-brooklyn",
-      "excerpt": "The former First Daughter enlisted landscape designer Nathalie Danilovich to create an 'overgrown and wild' backyard that was approved by kids and critters alike. Take the tour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3N2r2SsCbVR2fP4u6qycR8-1920-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.25",
@@ -340,16 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/made-bush-terminal-nycedc-creative-ecosystem-brooklyn/",
       "excerpt": "spearheaded by NYCEDC, the campus opens the shoreline to the public while providing modern workspaces for emerging creators and fabricators. \nThe post MADE: bush terminal by NYCEDC empowers creative e",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/made-bush-terminal_designbom_facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "Go underground at Qode, Hyderabad’s newest basement bar",
-      "url": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review",
-      "excerpt": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rNLpazvxY6wNHa4KgKc5Df-2560-80.jpg",
       "today": false
     },
     {
