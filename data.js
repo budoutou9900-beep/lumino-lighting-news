@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  11:23",
+  "fetchedAt": "2026.08.26  12:39",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,23 +29,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -154,6 +154,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "For sale, a secluded gallery-like retreat by Kengo Kuma in Nagakura, Japan",
+      "url": "https://www.wallpaper.com/architecture/residential/wild-bird-forest-lodge-kengo-kuma-japan",
+      "excerpt": "Wild Bird Forest Lodge is a luxuriously minimalist house in Japan’s Nagano Prefecture, shaped by Kengo Kuma & Associates and now for sale, contents included",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CrTUWNefb6TS7nLE4tt4ud-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.26",
@@ -254,6 +264,36 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.26",
+      "title": "How Labor Shortages Are Reshaping Architecture",
+      "url": "https://www.archdaily.com/1183637/how-labor-shortages-are-reshaping-architecture",
+      "excerpt": "Building a city from scratch is no easy task. It never has been, and it never will be. The very idea of creating something that would otherwise develop and grow gradually demands resources, organizati",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/fa00/ac8b/af01/892c/d9d9/large_jpg/how-labor-shortages-are-reshaping-architecture_1.jpg?1787165188",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Split Mass Residence / K-Thengono Design Studio",
+      "url": "https://www.archdaily.com/1183952/split-mass-residence-k-thengono-design-studio",
+      "excerpt": "Located within a residential estate in BSD, South Tangerang, this residence is shaped by a massing strategy that negotiates openness and privacy while optimizing natural light and ventilation. Taking ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/d0b7/ab59/ca01/8994/74f9/large_jpg/split-mass-residence-k-thengono-design-studio_1.jpg?1787678928",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Steven Holl Architects Selected to Renew Historic Ida Noyes Hall at the University of Chicago",
+      "url": "https://www.archdaily.com/1184002/steven-holl-architects-selected-to-renew-historic-ida-noyes-hall-at-the-university-of-chicago",
+      "excerpt": "Steven Holl Architects has been selected to lead the renewal of Ida Noyes Hall at the University of Chicago in Illinois. The project will upgrade the 111-year-old building's infrastructure, improve ac",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/ab37/ac8b/af01/892c/ee07/large_jpg/steven-holl-architects-selected-to-renew-historic-ida-noyes-hall-at-the-university-of-chicago_1.jpg?1787734870",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
       "title": "Caloz Bramois House / R2A Architectes",
       "url": "https://www.archdaily.com/1183727/caloz-bramois-house-r2a-architectes",
       "excerpt": "In Bramois, on the outskirts of the city of Sion, this two-family home project challenges the typology of dual-unit housing that is currently widespread in low-density development zones. It contrasts ",
@@ -299,16 +339,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "An Architecture of Attention: Inside Syn Architects",
-      "url": "https://www.archdaily.com/1182453/an-architecture-of-attention-inside-syn-architects",
-      "excerpt": "As Saudi Arabia's cities expand through increasingly ambitious cultural projects, Syn Architects has spent much of its practice looking at what predates that transformation. The practice's participati",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/5f8c/ac8b/af01/892c/b6b2/large_jpg/syn-architects-and-the-practice-of-looking-closely_3.jpg?1786339234",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.26",
@@ -316,26 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/pensaer-studio-uk",
       "excerpt": "Meet promising emerging studio Pensaer – featured in the Wallpaper* Architects’ Directory 2026 – and take a tour of its Clay House, a considered London extension",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rYvLgnGVVMVsuAAkNNiU66-1445-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Fringe Dweller Residence / Mihaly Slocombe",
-      "url": "https://www.archdaily.com/1183784/fringe-dweller-residence-mihaly-slocombe",
-      "excerpt": "Fringe Dweller's sculpted extension sees the transformation of an unassuming weatherboard cottage into a proud forever home. It's a home that walks a number of tightropes at once: balancing openness w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/7a5a/4253/0500/01c9/fff9/large_jpg/0089-02-street.jpg?1787329133",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "OH HO Residence / Play Architecture",
-      "url": "https://www.archdaily.com/1183783/oh-ho-residence-play-architecture",
-      "excerpt": "Inspired by an ephemeral bliss experienced in a South Indian temple complex, this moment is poetic, a setting sun visually diminishing the density of the stone, creating an intangible relationship wit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/80c6/ac8b/af01/892c/e3b4/large_jpg/oh-ho-residence-play-architecture_16.jpg?1787330764",
       "today": true
     },
     {
@@ -356,16 +366,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/maslows-co-working-space-kensington-review",
       "excerpt": "We spent a day at Maslow’s new members’ club. Here is what we thought about Kensington’s wellness-focused working space",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LG8iBLgSJmhg3hcAVpTvmW-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.25",
-      "title": "We take the spirited Morgan Super 3 out for a spin of its mighty rear wheel",
-      "url": "https://www.wallpaper.com/transportation/morgan-super-3-test-drive",
-      "excerpt": "Depending on what you read, Morgan’s Super 3 is either the epitome of automotive freedom or a terrifying tricycle. Is it a death trap or does it just get a bad rap?",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CEXLBTXwi9EoHjQENRmqgG-2560-80.jpg",
       "today": false
     },
     {
