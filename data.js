@@ -1,52 +1,180 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  16:14",
+  "fetchedAt": "2026.08.26  18:54",
   "sourceColors": {
-    "designboom": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "高松経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "Yahoo!ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "大光電機": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.08.26",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.26",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Caá Porá Arquitectura creates teaching pavilion in the Amazon rainforest",
+      "url": "https://www.dezeen.com/2026/08/26/wild-sumaco-research-pavilion-ecuador-caa-pora-arquitectura/",
+      "excerpt": "Ecuadorian studio Caá Porá Arquitectura has worked with the local community to construct a pavilion in the Amazon rainforest that allows researchers to get a new perspective of the landscape in Pacto ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "IA creates Craftsman-style office for AI company Notion in San Francisco",
+      "url": "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
+      "excerpt": "US studio Interior Architects has combined Craftsman-style detailing and a minimalist technical look with the details of a historic building for AI company Notion in San Francisco, California. IA desi",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -107,6 +235,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "Guaratuba House / Estúdio 41",
+      "url": "https://www.archdaily.com/1183983/guaratuba-house-estudio-41",
+      "excerpt": "A refuge between the mountain and the sea. A veranda by the beach. A singular object in the landscape.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/0f76/4253/0500/01c9/f664/large_jpg/.2_IMG_1511.jpg?1787170768",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.26",
@@ -114,6 +252,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/notting-hill-carnival-ian-watts-photography",
       "excerpt": "This year marks 60 years of the Notting Hill Carnival, and 50 years since Ian Watts began photographing it. Discover his images, free this weekend at London's Outernet",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7NNurstYWNjj2R3Zxa5MZN-1292-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "House in Chérive / Paul Bernier Architecte",
+      "url": "https://www.archdaily.com/1183356/house-in-cherive-paul-bernier-architecte",
+      "excerpt": "Built in the heart of the Chérive domain in Magog, this 1970s house originally served as a recreational cottage. Renovated over the years into a family vacation home, it is now set to become its owner",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1f73/3cf9/6c00/0178/2d2c/large_jpg/1._Cherive_01878_RThibodeau.jpg?1786716101",
       "today": true
     },
     {
@@ -205,25 +353,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Call for Proposals II: Experimental Research Project at Monitor P, Casa dell’Architettura of Rome",
-      "url": "https://www.archdaily.com/1184022/call-for-proposals-ii-experimental-research-project-at-monitor-p-casa-dellarchitettura-of-rome",
-      "excerpt": "Casa dell’Architettura of Rome announces the second edition of CONTEMPORANEA Call for Proposal (October–December 2026), with the aim of supporting original research and reflections in the field of con",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/d7fc/4253/0500/01ca/0e8e/large_jpg/cfp_banner_1920x1080.jpg?1787746308",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Riksbyggen creates Sweden's smallest apartments to \"make the housing crisis tangible\"",
-      "url": "https://www.dezeen.com/2026/08/26/riksbyggen-swedens-smallest-apartments-housing-crisis-tangible/",
-      "excerpt": "Developer Riksbyggen and creative agency BBDO Nordics have designed three flats based on what a 25-year-old can afford to buy in Sweden today, with the smallest micro home measuring just 1.9 square me",
-      "today": true
-    },
-    {
       "source": "岩崎電気",
       "cat": "技術・LED",
       "date": "2026.08.26",
@@ -241,25 +370,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "How Labor Shortages Are Reshaping Architecture",
-      "url": "https://www.archdaily.com/1183637/how-labor-shortages-are-reshaping-architecture",
-      "excerpt": "Building a city from scratch is no easy task. It never has been, and it never will be. The very idea of creating something that would otherwise develop and grow gradually demands resources, organizati",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/fa00/ac8b/af01/892c/d9d9/large_jpg/how-labor-shortages-are-reshaping-architecture_1.jpg?1787165188",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Colar revives adobe structure to create pared-back home in Mexico",
-      "url": "https://www.dezeen.com/2026/08/26/colar-adobe-casa-esteli-mexico/",
-      "excerpt": "Architecture studio Colar has updated and extended a dilapidated adobe structure to create a single-storey home in Chiapas, Mexico. Named Casa Estelí, the 162-square-metre dwelling combines the revive",
       "today": true
     },
     {
