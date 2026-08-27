@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.27  02:48",
+  "fetchedAt": "2026.08.27  13:37",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,21 +57,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "遠藤照明": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -99,10 +91,10 @@ window.LUMINO_DATA = {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.08.27",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -134,13 +126,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.27",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
       "today": true
     },
     {
@@ -154,209 +146,199 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.08.27",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "title": "All-hearing, agent-driven workplace AI gets a boost thanks to the new Plaud One earbuds",
+      "url": "https://www.wallpaper.com/tech/all-hearing-agent-driven-workplace-ai-gets-a-boost-thanks-to-the-new-plaud-one-earbuds",
+      "excerpt": "Plaud is expanding its product suite with the Plaud One earbuds and standalone charge case, two pieces of kit that bring total recall to the workplace, with persistent memory and agent-driven actions",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LPUJ9QfnSPqjHMGzJseFxa-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "1968 seoul residence is reshaped with courtyard, annex and timber frame",
+      "url": "https://www.designboom.com/architecture/1968-seoul-residence-is-reshaped-with-courtyard-annex-and-timber-frame/",
+      "excerpt": "Isak Chung and Jinpyo Hong renovate a 1968 residence in Seoul with a courtyard, annex and reused air-raid shelter.\nThe post 1968 seoul residence is reshaped with courtyard, annex and timber frame appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/saekdong-house-3-6a8c0925954ff.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Speedo iQ is a new system that brings tracking and metrics to the world of serious swimming",
+      "url": "https://www.wallpaper.com/tech/speedo-iq-is-a-new-system-that-brings-tracking-and-metrics-to-the-world-of-serious-swimming",
+      "excerpt": "Swim sensor tech takes another leap forwards with the introduction of Speedo iQ, smart goggles that help study your form",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eSjBRhhCp5RcNuLANdQoyb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "clarence perry’s ‘neighborhood unit’: the century-old idea behind today’s 15-minute city",
+      "url": "https://www.designboom.com/architecture/clarence-perry-neighborhood-unit-15-minute-city/",
+      "excerpt": "the history of proximity planning reveals how ideas about walkability, community, and accessibility have changed over the past century.\nThe post clarence perry’s ‘neighborhood unit’: the century-old i",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clarence-perry-neighborhood-unit-15-minute-city-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Globe-Trotter’s sold-out restored luggage collection returns for round two",
+      "url": "https://www.wallpaper.com/travel/globe-trotter-renewed-collection-restoration-edit",
+      "excerpt": "The second drop of The Renewed Collection gives used Globe-Trotter cases another journey while retaining their accumulated character",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/axHDN7VdSR3UMQzL7rDV6h-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Tato Architects uses silver-painted ceilings to draw light into Kyoto home",
+      "url": "https://www.dezeen.com/2026/08/27/tato-architects-house-in-shichiku-kyoto/",
+      "excerpt": "Skylights, an internal light well and silver-painted ceilings pull light deep into House in Shichiku, a home in Kyoto designed by local studio Tato Architects. Designed for a couple and their cat, the",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Yayoi Kusama dies aged 97",
+      "url": "https://www.dezeen.com/2026/08/27/yayoi-kusama-dies-aged-97/",
+      "excerpt": "Japanese artist Yayoi Kusama, known for her colourful polka dot artworks, has passed away in Tokyo from multiple organ failure at the age of 97. In a statement, Kusama's gallery, David Zwirner, announ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Wallpaper* stages an unconventional beauty pageant for the September Style Issue men’s cover shoot",
+      "url": "https://www.wallpaper.com/fashion-beauty/mens-fashion-aw-2026-formal-wear-trend",
+      "excerpt": "Spare and streamlined looks took centre stage in Wallpaper’s September Issue men’s cover shoot, reflecting the A/W 2026 season’s shifting silhouette",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RaetFsA89WyzYt4bdWW3BH-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Art deco architecture inspires Farid Karim’s characterful transformation of a London terrace",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/farid-karim-uk",
+      "excerpt": "We welcome the UK's Farid Karim to the Wallpaper* Architects’ Directory 2026, our annual listing of exciting emerging architecture practices – here, we tour the studio's Deco House",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UXmAMvDKdeHEWnfudvpfZS-1748-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Volunteers tug 360-tonne castle tower towards its original site in Japan",
+      "url": "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/",
+      "excerpt": "Around 1,800 people have pulled the keep of the historic Hirosaki Castle two metres closer to its original location in Japan's Aomori prefecture, following restoration works. Using an ancient Japanese",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Dezeen Events Guide launches digital guide to London Design Festival 2026",
+      "url": "https://www.dezeen.com/2026/08/27/dezeen-events-guide-london-design-week-2026/",
+      "excerpt": "Dezeen Events Guide has launched its digital guide and interactive map for the 2026 edition of London Design Festival, which enters its 24th iteration. The festival takes place from 12 to 20 September",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "mark francis turns sound and frequency into vibrating abstract paintings",
+      "url": "https://www.designboom.com/art/mark-francis-sound-art-frequency-vibrating-abstract-paintings/",
+      "excerpt": "somewhere between a laboratory image and a lingering echo, the northern irish painter asks the eye to do a little listening.\nThe post mark francis turns sound and frequency into vibrating abstract pai",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/460817/2026-08-11/when-colour-begins-to-sound-mark-francis-chroma-at-bernhard-knaus-fine-art-7-6a7b1d6ea97fb.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Studio Three Sixty creates Sauna Theatre for Edinburgh Fringe festival",
+      "url": "https://www.dezeen.com/2026/08/27/studio-three-sixty-sauna-theatre-edinburgh-fringe-festival/",
+      "excerpt": "Design practice Studio Three Sixty has created a temporary sauna that is being used as a theatre during Edinburgh's Fringe festival for the performing arts. Designed by Studio Three Sixty director Luc",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Arte Abierto / Sordo Madaleno Arquitectos",
-      "url": "https://www.archdaily.com/1183853/arte-abierto-javier-sordo-madaleno-bringas",
-      "excerpt": "Arte Abierto Baja opens in Los Cabos, introducing a new public art gallery to the region. Designed by Sordo Madaleno at Ánima Village, the open-air gallery brings Mexican and international artists int",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1c06/ab59/ca01/8994/6fb2/large_jpg/arte-abierto-javier-sordo-madaleno-bringas_5.jpg?1787567204",
-      "today": false
+      "date": "2026.08.27",
+      "title": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
+      "url": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara",
+      "excerpt": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste. Two L-shaped blocks of exposed concrete enclose it, one of them twice the hei",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/8390/ab59/ca01/8994/5557/large_jpg/the-rise-and-afterlife-of-triestes-rozzol-melara_3.jpg?1786741716",
+      "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "designboom",
       "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Caá Porá Arquitectura creates teaching pavilion in the Amazon rainforest",
-      "url": "https://www.dezeen.com/2026/08/26/wild-sumaco-research-pavilion-ecuador-caa-pora-arquitectura/",
-      "excerpt": "Ecuadorian studio Caá Porá Arquitectura has worked with the local community to construct a pavilion in the Amazon rainforest that allows researchers to get a new perspective of the landscape in Pacto ",
-      "today": false
+      "date": "2026.08.27",
+      "title": "27-square-meter steel and timber pavilion in chiang mai is built for flood resilience",
+      "url": "https://www.designboom.com/architecture/27-square-meter-steel-timber-pavilion-chiang-mai-thailand/",
+      "excerpt": "ROOF RAIN studio turns post-flood necessity into a place for cooking, gathering, and staying a little better prepared.\nThe post 27-square-meter steel and timber pavilion in chiang mai is built for flo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/460673/2026-08-10/sala-kin-khao-a-modular-open-kitchen-born-from-flood-resilience-and-local-hospitality-1-6a79e6ea155d2.jpg",
+      "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Japú House / AIA Estúdio",
-      "url": "https://www.archdaily.com/1183980/japu-house-aia-estudio",
-      "excerpt": "Located in the mountainous region of Rio de Janeiro, Japú House sits on a plot of land where the relationship with the landscape was defining for its placement. Through earthmoving, a narrow flat stri",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/17b5/4253/0500/01c9/fa79/large_jpg/0461.AIAEstudio.CasaJapu-PedroKok0227.jpg?1787238365",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "IA creates Craftsman-style office for AI company Notion in San Francisco",
-      "url": "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
-      "excerpt": "US studio IA has combined Craftsman-style detailing and a minimalist technical look with the details of a historic building for AI company Notion in San Francisco, California. IA designed the headquar",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "takaaki fuji + yuko fuji builds japanese home to be dismantled and moved with its residents",
-      "url": "https://www.designboom.com/architecture/takaaki-fuji-yuko-fuji-japanese-home-dismantled-circularity-cabin/",
-      "excerpt": "designed around a future road expansion, the timber house can be dismantled and assembled again on another site.\nThe post takaaki fuji + yuko fuji builds japanese home to be dismantled and moved with ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/circularity-cabin-takaaki-fuji-yuko-fuji-architecture-japan-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Level-up with the new IKEA and XBOX furniture collab",
-      "url": "https://www.wallpaper.com/design-interiors/ikea-and-xbox-collaboration",
-      "excerpt": "We lock in to the gaming collab between the Swedish flat-pack giant and the video game brand, live from Gamescom in Cologne",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VV39SJUTG5Rw3CyAyCqxwQ-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "luca fontana turns a timber factory into a walkable roofscape in vancouver",
-      "url": "https://www.designboom.com/architecture/luca-fontana-gives-vancouvers-timber-factory-a-roof-you-can-walk-on/",
-      "excerpt": "the plank factory reimagines mass timber manufacturing as public architecture in stanley park.\nThe post luca fontana turns a timber factory into a walkable roofscape in vancouver appeared first on des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467794/2026-08-22/luca-fontanas-mass-timber-plank-factory-choreographs-rainwater-in-vancouver-3-6a89fb9de3334.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Art takes flight at Gstaad-Saanen Airport with Chris Ofili, Wolfgang Tillmans and Max Ernst",
-      "url": "https://www.wallpaper.com/travel/travel-events/how-to-dance-in-flower-field-tarmak-22-exhibition-gstaad-saanen-airport",
-      "excerpt": "Tarmak22’s ‘How to Dance in Flower Fields’ exhibition features Alpine gentians, Surrealist blooms and work by eight international artists",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S6tbcGpJLM4JnVeJzJR2UV-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Gravity-powered mountain trike among projects from the University of Ljubljana",
-      "url": "https://www.dezeen.com/2026/08/26/gravity-powered-mountain-trike-university-ljubljana-slovenia-schoolshows/",
-      "excerpt": "Dezeen School Shows: a gravity-powered mountain trike designed to extend mountain tourism beyond the ski season is among the projects from the University of Ljubljana. Also featured is biodegradable p",
-      "today": false
+      "date": "2026.08.27",
+      "title": "T(errakota) House / Spacefiction Studio",
+      "url": "https://www.archdaily.com/1184036/t-errakota-house-spacefiction-studio",
+      "excerpt": "'Erra kota' translates to 'red fort' in the local Telugu language. The residence stands tall, bleeding with greenery over its contrasting terracotta walls, in the city of Warangal in Telangana, India.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/ec17/4253/0500/01ca/0f42/large_jpg/02.jpg?1787751796",
+      "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "El Trebol House / Engelman Estudio",
-      "url": "https://www.archdaily.com/1184015/el-trebol-house-engelman-estudio",
-      "excerpt": "Casa El Trébol stands on the highest point of the neighborhood of the same name in San Carlos de Bariloche, Río Negro, in Argentine Patagonia. Set within a dense native forest on a steep slope, the pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/c016/ab59/ca01/8994/77c0/large_jpg/casa-el-trebol-engelman-estudio_37.jpg?1787740200",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Tour a breezy Texas ranch house that looks as good as it did in 1985",
-      "url": "https://www.wallpaper.com/architecture/residential/lake-flato-texas-ranch-house",
-      "excerpt": "When the second-generation owners of a family vacation home needed a refresh, they naturally called on the architects who built it 40 years before",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8ZPc6naLtFuhHGqxQZqYra-1920-80.jpg",
-      "today": false
+      "date": "2026.08.27",
+      "title": "Campus Deleers / SMAK Architects",
+      "url": "https://www.archdaily.com/1183734/campus-deleers-smak-architects",
+      "excerpt": "Campus Deleers is Europe's first building to bring education and urban production together under one roof. Located along Brussels' canal, the project by SMAK Architects transforms a former industrial ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/da72/4253/0500/01c9/fd43/large_jpg/View_to_the_project_from_the_canal_-_PVG.jpg?1787288236",
+      "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "SEED 2026",
-      "url": "https://www.archdaily.com/1184033/seed-2026",
-      "excerpt": "SEED 2026 is a gathering for specialists, professionals, students, and those interested in exploring new relationships between territory, architecture, biomaterials, and regenerative systems. It is or",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/b10e/4253/0500/01ca/0dc7/large_jpg/SEED_2026.jpg?1787736341",
-      "today": false
+      "date": "2026.08.27",
+      "title": "The Opening of Powerhouse Parramatta and a New Open-Source App for Geolocated Reports: This Week’s Review",
+      "url": "https://www.archdaily.com/1184043/the-opening-of-powerhouse-parramatta-and-an-new-open-source-app-for-geolocated-reports-this-weeks-review",
+      "excerpt": "This week's news focused on how architecture engages with what already exists and communicates beyond the building itself. Several stories explored restoration and reuse, from the renewal of a histori",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/7efd/b71a/0f01/89f1/ae4b/large_jpg/this-weeks-review_1.jpg?1787789067",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "yayoi kusama, japanese artist who found infinity in a single dot, dies at 97",
+      "url": "https://www.designboom.com/art/yayoi-kusama-japanese-artist-infinity-single-dot-97/",
+      "excerpt": "the artist leaves behind a seven-decade career spanning painting, sculpture, installation, performance, fiction, and poetry.\nThe post yayoi kusama, japanese artist who found infinity in a single dot, ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yayoi-kusama-japanese-artist-infinity-single-dot-designboom-1200.jpg",
+      "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Guaratuba House / Estúdio 41",
-      "url": "https://www.archdaily.com/1183983/guaratuba-house-estudio-41",
-      "excerpt": "A refuge between the mountain and the sea. A veranda by the beach. A singular object in the landscape.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/0f76/4253/0500/01c9/f664/large_jpg/.2_IMG_1511.jpg?1787170768",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Relive 60 years of Notting Hill Carnival in pictures",
-      "url": "https://www.wallpaper.com/art/photography/notting-hill-carnival-ian-watts-photography",
-      "excerpt": "This year marks 60 years of the Notting Hill Carnival, and 50 years since Ian Watts began photographing it. Discover his images, free this weekend at London's Outernet",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7NNurstYWNjj2R3Zxa5MZN-1292-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "For sale, a secluded gallery-like retreat by Kengo Kuma in Nagakura, Japan",
-      "url": "https://www.wallpaper.com/architecture/residential/wild-bird-forest-lodge-kengo-kuma-japan",
-      "excerpt": "Wild Bird Forest Lodge is a luxuriously minimalist house in Japan’s Nagano Prefecture, shaped by Kengo Kuma & Associates and now for sale, contents included",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CrTUWNefb6TS7nLE4tt4ud-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "from waste to resource: what space reveals about circular design",
-      "url": "https://www.designboom.com/technology/waste-resource-space-circular-design/",
-      "excerpt": "from water recovery on the ISS to experiments in growing food and reusing materials, space habitats offer a useful test for how circular our buildings and products really are.\nThe post from waste to r",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/waste-resource-space-circular-design-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Pearce+ stacks reclaimed materials to create multi-species wildlife tower",
-      "url": "https://www.dezeen.com/2026/08/26/wildlife-tower-reclaimed-honeygar-farm-somerset-pearce/",
-      "excerpt": "Architecture studio Pearce+ has added a wildlife tower for bats, owls, kestrels, invertebrates and wetland species at Honeygar Farm in Somerset, UK. Built almost entirely from reclaimed materials foun",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "my archischool announces winners of international youth ARCHIDESIGN competition 2026",
-      "url": "https://www.designboom.com/architecture/my-archischool-winners-international-youth-archidesign-competition-2026/",
-      "excerpt": "developed using 3D rendering software like unreal engine and twinmotion, the winning proposals range from art  galleries to floating restaurants.     \nThe post my archischool announces winners of inte",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/my-archischool-designboom-facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Xbox teams up with IKEA for debut gaming furniture collection",
-      "url": "https://www.dezeen.com/2026/08/26/xbox-ikea-gaming-furniture-yxstaby/",
-      "excerpt": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "martin labbé builds pine chair without a single screw in stockholm",
-      "url": "https://www.designboom.com/design/martin-labbe-pine-chair-without-single-screw-stockholm/",
-      "excerpt": "common construction timber gets a more considered role as the architect lets the joints speak for themselves.\nThe post martin labbé builds pine chair without a single screw in stockholm appeared first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/IMG_5423_straightened.jpg",
-      "today": false
+      "date": "2026.08.27",
+      "title": "Yayoi Kusama, Artist of Dots, Repetition and Infinity, Dies at 97",
+      "url": "https://www.archdaily.com/1184060/yayoi-kusama-artist-of-dots-repetition-and-infinity-dies-at-97",
+      "excerpt": "Japanese artist Yayoi Kusama, whose seven-decade career encompassed painting, sculpture, installation, performance, literature and film, has died at the age of 97. Kusama died at a hospital in Tokyo o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/fa1a/c615/2701/88ac/3eba/large_jpg/yayoi-kusama-artist-of-dots-repetition-and-infinity-dies-at-97_5.jpg?1787820625",
+      "today": true
     },
     {
       "source": "岩崎電気",
@@ -406,16 +388,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -479,16 +451,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -496,16 +458,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
