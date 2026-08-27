@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.26  21:34",
+  "fetchedAt": "2026.08.27  02:48",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Yahoo!ニュース": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,52 +37,48 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.26",
+      "date": "2026.08.27",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.26",
+      "date": "2026.08.27",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,17 +98,17 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.26",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "date": "2026.08.27",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.26",
+      "date": "2026.08.27",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -122,7 +118,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.26",
+      "date": "2026.08.27",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -131,16 +127,36 @@ window.LUMINO_DATA = {
     {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.08.26",
+      "date": "2026.08.27",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.27",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.27",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "today": true
+    },
+    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.26",
+      "date": "2026.08.27",
       "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
       "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
@@ -148,14 +164,14 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.08.26",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン（khb東日本放送）",
-      "url": "https://news.yahoo.co.jp/articles/7aff1880dd2a70d2baeb22cf477ba61bed29e323",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260317-11725153-khbv-000-1-thumb.jpg?exp=10800",
-      "today": true
+      "title": "Arte Abierto / Sordo Madaleno Arquitectos",
+      "url": "https://www.archdaily.com/1183853/arte-abierto-javier-sordo-madaleno-bringas",
+      "excerpt": "Arte Abierto Baja opens in Los Cabos, introducing a new public art gallery to the region. Designed by Sordo Madaleno at Ánima Village, the open-air gallery brings Mexican and international artists int",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1c06/ab59/ca01/8994/6fb2/large_jpg/arte-abierto-javier-sordo-madaleno-bringas_5.jpg?1787567204",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -164,7 +180,7 @@ window.LUMINO_DATA = {
       "title": "Caá Porá Arquitectura creates teaching pavilion in the Amazon rainforest",
       "url": "https://www.dezeen.com/2026/08/26/wild-sumaco-research-pavilion-ecuador-caa-pora-arquitectura/",
       "excerpt": "Ecuadorian studio Caá Porá Arquitectura has worked with the local community to construct a pavilion in the Amazon rainforest that allows researchers to get a new perspective of the landscape in Pacto ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -174,7 +190,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183980/japu-house-aia-estudio",
       "excerpt": "Located in the mountainous region of Rio de Janeiro, Japú House sits on a plot of land where the relationship with the landscape was defining for its placement. Through earthmoving, a narrow flat stri",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/17b5/4253/0500/01c9/fa79/large_jpg/0461.AIAEstudio.CasaJapu-PedroKok0227.jpg?1787238365",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -183,7 +199,7 @@ window.LUMINO_DATA = {
       "title": "IA creates Craftsman-style office for AI company Notion in San Francisco",
       "url": "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
       "excerpt": "US studio IA has combined Craftsman-style detailing and a minimalist technical look with the details of a historic building for AI company Notion in San Francisco, California. IA designed the headquar",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -193,7 +209,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/takaaki-fuji-yuko-fuji-japanese-home-dismantled-circularity-cabin/",
       "excerpt": "designed around a future road expansion, the timber house can be dismantled and assembled again on another site.\nThe post takaaki fuji + yuko fuji builds japanese home to be dismantled and moved with ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/circularity-cabin-takaaki-fuji-yuko-fuji-architecture-japan-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -203,7 +219,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/ikea-and-xbox-collaboration",
       "excerpt": "We lock in to the gaming collab between the Swedish flat-pack giant and the video game brand, live from Gamescom in Cologne",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VV39SJUTG5Rw3CyAyCqxwQ-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -213,7 +229,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/luca-fontana-gives-vancouvers-timber-factory-a-roof-you-can-walk-on/",
       "excerpt": "the plank factory reimagines mass timber manufacturing as public architecture in stanley park.\nThe post luca fontana turns a timber factory into a walkable roofscape in vancouver appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467794/2026-08-22/luca-fontanas-mass-timber-plank-factory-choreographs-rainwater-in-vancouver-3-6a89fb9de3334.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -223,7 +239,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/travel-events/how-to-dance-in-flower-field-tarmak-22-exhibition-gstaad-saanen-airport",
       "excerpt": "Tarmak22’s ‘How to Dance in Flower Fields’ exhibition features Alpine gentians, Surrealist blooms and work by eight international artists",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/S6tbcGpJLM4JnVeJzJR2UV-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -232,7 +248,7 @@ window.LUMINO_DATA = {
       "title": "Gravity-powered mountain trike among projects from the University of Ljubljana",
       "url": "https://www.dezeen.com/2026/08/26/gravity-powered-mountain-trike-university-ljubljana-slovenia-schoolshows/",
       "excerpt": "Dezeen School Shows: a gravity-powered mountain trike designed to extend mountain tourism beyond the ski season is among the projects from the University of Ljubljana. Also featured is biodegradable p",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -242,7 +258,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184015/el-trebol-house-engelman-estudio",
       "excerpt": "Casa El Trébol stands on the highest point of the neighborhood of the same name in San Carlos de Bariloche, Río Negro, in Argentine Patagonia. Set within a dense native forest on a steep slope, the pr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/c016/ab59/ca01/8994/77c0/large_jpg/casa-el-trebol-engelman-estudio_37.jpg?1787740200",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -252,7 +268,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/lake-flato-texas-ranch-house",
       "excerpt": "When the second-generation owners of a family vacation home needed a refresh, they naturally called on the architects who built it 40 years before",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8ZPc6naLtFuhHGqxQZqYra-1920-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.26",
+      "title": "SEED 2026",
+      "url": "https://www.archdaily.com/1184033/seed-2026",
+      "excerpt": "SEED 2026 is a gathering for specialists, professionals, students, and those interested in exploring new relationships between territory, architecture, biomaterials, and regenerative systems. It is or",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/b10e/4253/0500/01ca/0dc7/large_jpg/SEED_2026.jpg?1787736341",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -262,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183983/guaratuba-house-estudio-41",
       "excerpt": "A refuge between the mountain and the sea. A veranda by the beach. A singular object in the landscape.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/0f76/4253/0500/01c9/f664/large_jpg/.2_IMG_1511.jpg?1787170768",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -272,17 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/notting-hill-carnival-ian-watts-photography",
       "excerpt": "This year marks 60 years of the Notting Hill Carnival, and 50 years since Ian Watts began photographing it. Discover his images, free this weekend at London's Outernet",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7NNurstYWNjj2R3Zxa5MZN-1292-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "House in Chérive / Paul Bernier Architecte",
-      "url": "https://www.archdaily.com/1183356/house-in-cherive-paul-bernier-architecte",
-      "excerpt": "Built in the heart of the Chérive domain in Magog, this 1970s house originally served as a recreational cottage. Renovated over the years into a family vacation home, it is now set to become its owner",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/1f73/3cf9/6c00/0178/2d2c/large_jpg/1._Cherive_01878_RThibodeau.jpg?1786716101",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -292,7 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/wild-bird-forest-lodge-kengo-kuma-japan",
       "excerpt": "Wild Bird Forest Lodge is a luxuriously minimalist house in Japan’s Nagano Prefecture, shaped by Kengo Kuma & Associates and now for sale, contents included",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CrTUWNefb6TS7nLE4tt4ud-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -302,7 +318,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/waste-resource-space-circular-design/",
       "excerpt": "from water recovery on the ISS to experiments in growing food and reusing materials, space habitats offer a useful test for how circular our buildings and products really are.\nThe post from waste to r",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/waste-resource-space-circular-design-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -311,7 +327,7 @@ window.LUMINO_DATA = {
       "title": "Pearce+ stacks reclaimed materials to create multi-species wildlife tower",
       "url": "https://www.dezeen.com/2026/08/26/wildlife-tower-reclaimed-honeygar-farm-somerset-pearce/",
       "excerpt": "Architecture studio Pearce+ has added a wildlife tower for bats, owls, kestrels, invertebrates and wetland species at Honeygar Farm in Somerset, UK. Built almost entirely from reclaimed materials foun",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -321,7 +337,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/my-archischool-winners-international-youth-archidesign-competition-2026/",
       "excerpt": "developed using 3D rendering software like unreal engine and twinmotion, the winning proposals range from art  galleries to floating restaurants.     \nThe post my archischool announces winners of inte",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/my-archischool-designboom-facebook.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -330,17 +346,7 @@ window.LUMINO_DATA = {
       "title": "Xbox teams up with IKEA for debut gaming furniture collection",
       "url": "https://www.dezeen.com/2026/08/26/xbox-ikea-gaming-furniture-yxstaby/",
       "excerpt": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.26",
-      "title": "Tróia 37 House / Fragmentos",
-      "url": "https://www.archdaily.com/1183897/troia-37-house-fragmentos",
-      "excerpt": "On one of the plots closest to the dunes and shoreline of Tróia, a private house steps back from the water's edge in a series of staggered, overlapping volumes that turn east toward the sea and the si",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/bc6a/4253/0500/01ca/05e5/large_jpg/Fragmentos_Tr_ia_37__Adalberto_Duarte_001.jpg?1787608228",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -350,7 +356,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/martin-labbe-pine-chair-without-single-screw-stockholm/",
       "excerpt": "common construction timber gets a more considered role as the architect lets the joints speak for themselves.\nThe post martin labbé builds pine chair without a single screw in stockholm appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/IMG_5423_straightened.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -360,7 +366,7 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/flood/avant_series/ship/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -370,7 +376,7 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
+      "today": false
     },
     {
       "source": "パナソニック",
