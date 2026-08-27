@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.27  13:37",
+  "fetchedAt": "2026.08.27  23:28",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "鉄道ファン・railf.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -45,25 +45,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "大光電機": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -85,16 +97,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.27",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -126,6 +128,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.27",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.08.27",
@@ -146,6 +158,114 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "鉄道ファン・railf.jp",
+      "cat": "展示・アート",
+      "date": "2026.08.27",
+      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
+      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "joshua vides’ mercedes SL500 looks like a drawing, and now it’s up for auction",
+      "url": "https://www.designboom.com/technology/joshua-vides-mercedes-benz-sl500-drawing-painted-black-white-auction/",
+      "excerpt": "joshua vides’ hand-painted mercedes SL500 -- now on auction -- turns a ’90s roadster into a full-scale automotive sketch. \nThe post joshua vides’ mercedes SL500 looks like a drawing, and now it’s up f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/joshua-vides-mercedes-art-car-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "US government may demolish Kennedy Center due to \"structural death spiral\"",
+      "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
+      "excerpt": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC,  the administration of US president Donald Trump has said it may have to demolish the Edward Durrell Stone-designed bui",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "lens installation uses rhythmic timber slats to frame island’s historic churches",
+      "url": "https://www.designboom.com/architecture/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home/",
+      "excerpt": "the modular timber installation combines a spatial portal with an integrated wooden bench.\nThe post lens installation uses rhythmic timber slats to frame island’s historic churches appeared first on d",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Lehrer Architects designs supportive housing for \"extremely narrow\" site in Los Angeles",
+      "url": "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/",
+      "excerpt": "US studio Lehrer Architects has completed Loma Verde, a supportive housing development for once-homeless residents that features a slender footprint and stucco walls adorned with splashes of colour. L",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "FPW House / Obra Arquitetos",
+      "url": "https://www.archdaily.com/1184094/fpw-house-obra-arquitetos",
+      "excerpt": "The spaces are organized to take advantage of the steep slope of the original topography. From the street, there is an unobstructed view of the surrounding landscape and the house's rooftops, as the s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9c8f/4253/0500/01ca/086f/large_jpg/FPW_NELSONKON_01.jpg?1787665584",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "quail green and rose gold frame the obsessive details of spyker’s C8 preliator XXV",
+      "url": "https://www.designboom.com/technology/quail-green-rose-gold-spyker-c8-preliator-xxv-monterey/",
+      "excerpt": "aircraft-inspired aluminum wraps the analog supercar built by spyker around an 800-hp V8 and a six-speed manual.\nThe post quail green and rose gold frame the obsessive details of spyker’s C8 preliator",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/spyker-c8-preliator-XXV-coupe-monterey-quail-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "The Breakers, Palm Beach's grande dame, gets an elegant new seaside dining destination. Here's a look inside",
+      "url": "https://www.wallpaper.com/travel/hotels/the-breakers-palm-beach-club-restaurant",
+      "excerpt": "With colours and furnishings straight from the Mediterranean, the revamped Beach Club proves that classics never go out of style",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnQQgYpgHJErmL9DeXERCa-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Casa Galería / Sommet",
+      "url": "https://www.archdaily.com/1184047/casa-galeria-sommet",
+      "excerpt": "Implanted on a steeply sloping site, Casa Galería begins with a fundamental premise: understanding topography not as a difficulty to be overcome, but as the condition that structures the project. The ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/ed3c/a25c/7b00/0125/f594/large_jpg/1T6A5558.jpg?1787817309",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "twelve tanks and dripping aqueduct trace water loss at mies van der rohe barcelona pavilion",
+      "url": "https://www.designboom.com/design/twelve-tanks-dripping-aqueduct-water-loss-mies-van-der-rohe-barcelona-pavilion-plou-prou-cierto-estudio-h3o-architects-metronom/",
+      "excerpt": "elevated tanks and a temporary aqueduct visualize the 12,000 liters of water estimated to evaporate from the mies van der rohe pavilion’s pool over 14 days.\nThe post twelve tanks and dripping aqueduct",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/plou-prou-ephemeral-intervention-cierto-estudio-h3o-architects-metronom-mies-van-der-rohe-pavilion-barcelona-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Casa Muda L13 / Pereira Miguel Arquitectos",
+      "url": "https://www.archdaily.com/1184076/casa-muda-l13-pereira-miguel-arquitectos",
+      "excerpt": "Located in Grândola, the Muda L13 residential project was designed to take advantage of the views over a small valley and natural light, particularly from the south and west.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/199d/4253/0500/01ca/0f91/large_jpg/073.jpg?1787763180",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.27",
@@ -153,6 +273,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/all-hearing-agent-driven-workplace-ai-gets-a-boost-thanks-to-the-new-plaud-one-earbuds",
       "excerpt": "Plaud is expanding its product suite with the Plaud One earbuds and standalone charge case, two pieces of kit that bring total recall to the workplace, with persistent memory and agent-driven actions",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LPUJ9QfnSPqjHMGzJseFxa-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Cherokee House / STUDIO KP2",
+      "url": "https://www.archdaily.com/1183695/cherokee-house-studio-kp2",
+      "excerpt": "Located in the heart of Miami Beach, Cherokee House explores the idea of refuge through a restrained composition of exposed concrete, natural materials and carefully controlled light. Defined by eleme",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/146f/4253/0500/01c9/fa13/large_jpg/01_StudioKP1_Miami01_DSF0504_sRGB.jpg?1787237523",
       "today": true
     },
     {
@@ -173,16 +303,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/speedo-iq-is-a-new-system-that-brings-tracking-and-metrics-to-the-world-of-serious-swimming",
       "excerpt": "Swim sensor tech takes another leap forwards with the introduction of Speedo iQ, smart goggles that help study your form",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eSjBRhhCp5RcNuLANdQoyb-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "clarence perry’s ‘neighborhood unit’: the century-old idea behind today’s 15-minute city",
-      "url": "https://www.designboom.com/architecture/clarence-perry-neighborhood-unit-15-minute-city/",
-      "excerpt": "the history of proximity planning reveals how ideas about walkability, community, and accessibility have changed over the past century.\nThe post clarence perry’s ‘neighborhood unit’: the century-old i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/clarence-perry-neighborhood-unit-15-minute-city-designboom-01.jpg",
       "today": true
     },
     {
@@ -214,6 +334,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Social Atrium — 54 Social Housing Units in Besòs / Peris+Toral.arquitectes",
+      "url": "https://www.archdaily.com/1184012/social-atrium-54-social-housing-units-in-besos-peris-plus-torarquitectes",
+      "excerpt": "SOCIAL ATRIUM combines 54 social rental housing units with a public facility on the ground floor and a naturally ventilated parking garage. The building's massing concentrates four units per landing a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/10a9/4253/0500/01ca/0315/large_jpg/VPO_BORRASA_2023_10_valla.jpg?1787564234",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.27",
@@ -224,120 +354,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Art deco architecture inspires Farid Karim’s characterful transformation of a London terrace",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/farid-karim-uk",
-      "excerpt": "We welcome the UK's Farid Karim to the Wallpaper* Architects’ Directory 2026, our annual listing of exciting emerging architecture practices – here, we tour the studio's Deco House",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UXmAMvDKdeHEWnfudvpfZS-1748-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.27",
       "title": "Volunteers tug 360-tonne castle tower towards its original site in Japan",
       "url": "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/",
       "excerpt": "Around 1,800 people have pulled the keep of the historic Hirosaki Castle two metres closer to its original location in Japan's Aomori prefecture, following restoration works. Using an ancient Japanese",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Dezeen Events Guide launches digital guide to London Design Festival 2026",
-      "url": "https://www.dezeen.com/2026/08/27/dezeen-events-guide-london-design-week-2026/",
-      "excerpt": "Dezeen Events Guide has launched its digital guide and interactive map for the 2026 edition of London Design Festival, which enters its 24th iteration. The festival takes place from 12 to 20 September",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "mark francis turns sound and frequency into vibrating abstract paintings",
-      "url": "https://www.designboom.com/art/mark-francis-sound-art-frequency-vibrating-abstract-paintings/",
-      "excerpt": "somewhere between a laboratory image and a lingering echo, the northern irish painter asks the eye to do a little listening.\nThe post mark francis turns sound and frequency into vibrating abstract pai",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/460817/2026-08-11/when-colour-begins-to-sound-mark-francis-chroma-at-bernhard-knaus-fine-art-7-6a7b1d6ea97fb.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Studio Three Sixty creates Sauna Theatre for Edinburgh Fringe festival",
-      "url": "https://www.dezeen.com/2026/08/27/studio-three-sixty-sauna-theatre-edinburgh-fringe-festival/",
-      "excerpt": "Design practice Studio Three Sixty has created a temporary sauna that is being used as a theatre during Edinburgh's Fringe festival for the performing arts. Designed by Studio Three Sixty director Luc",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
-      "url": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara",
-      "excerpt": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste. Two L-shaped blocks of exposed concrete enclose it, one of them twice the hei",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/8390/ab59/ca01/8994/5557/large_jpg/the-rise-and-afterlife-of-triestes-rozzol-melara_3.jpg?1786741716",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "27-square-meter steel and timber pavilion in chiang mai is built for flood resilience",
-      "url": "https://www.designboom.com/architecture/27-square-meter-steel-timber-pavilion-chiang-mai-thailand/",
-      "excerpt": "ROOF RAIN studio turns post-flood necessity into a place for cooking, gathering, and staying a little better prepared.\nThe post 27-square-meter steel and timber pavilion in chiang mai is built for flo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/460673/2026-08-10/sala-kin-khao-a-modular-open-kitchen-born-from-flood-resilience-and-local-hospitality-1-6a79e6ea155d2.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "T(errakota) House / Spacefiction Studio",
-      "url": "https://www.archdaily.com/1184036/t-errakota-house-spacefiction-studio",
-      "excerpt": "'Erra kota' translates to 'red fort' in the local Telugu language. The residence stands tall, bleeding with greenery over its contrasting terracotta walls, in the city of Warangal in Telangana, India.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/ec17/4253/0500/01ca/0f42/large_jpg/02.jpg?1787751796",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Campus Deleers / SMAK Architects",
-      "url": "https://www.archdaily.com/1183734/campus-deleers-smak-architects",
-      "excerpt": "Campus Deleers is Europe's first building to bring education and urban production together under one roof. Located along Brussels' canal, the project by SMAK Architects transforms a former industrial ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/da72/4253/0500/01c9/fd43/large_jpg/View_to_the_project_from_the_canal_-_PVG.jpg?1787288236",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "The Opening of Powerhouse Parramatta and a New Open-Source App for Geolocated Reports: This Week’s Review",
-      "url": "https://www.archdaily.com/1184043/the-opening-of-powerhouse-parramatta-and-an-new-open-source-app-for-geolocated-reports-this-weeks-review",
-      "excerpt": "This week's news focused on how architecture engages with what already exists and communicates beyond the building itself. Several stories explored restoration and reuse, from the renewal of a histori",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/7efd/b71a/0f01/89f1/ae4b/large_jpg/this-weeks-review_1.jpg?1787789067",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "yayoi kusama, japanese artist who found infinity in a single dot, dies at 97",
-      "url": "https://www.designboom.com/art/yayoi-kusama-japanese-artist-infinity-single-dot-97/",
-      "excerpt": "the artist leaves behind a seven-decade career spanning painting, sculpture, installation, performance, fiction, and poetry.\nThe post yayoi kusama, japanese artist who found infinity in a single dot, ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/yayoi-kusama-japanese-artist-infinity-single-dot-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Yayoi Kusama, Artist of Dots, Repetition and Infinity, Dies at 97",
-      "url": "https://www.archdaily.com/1184060/yayoi-kusama-artist-of-dots-repetition-and-infinity-dies-at-97",
-      "excerpt": "Japanese artist Yayoi Kusama, whose seven-decade career encompassed painting, sculpture, installation, performance, literature and film, has died at the age of 97. Kusama died at a hospital in Tokyo o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/fa1a/c615/2701/88ac/3eba/large_jpg/yayoi-kusama-artist-of-dots-repetition-and-infinity-dies-at-97_5.jpg?1787820625",
       "today": true
     },
     {
@@ -388,6 +410,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -451,6 +483,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -458,6 +500,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
