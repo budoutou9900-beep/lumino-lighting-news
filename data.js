@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.28  08:34",
+  "fetchedAt": "2026.08.28  20:37",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -61,17 +61,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "遠藤照明": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -157,196 +149,196 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.28",
-      "title": "Square-metre studio strapped to tree in \"exaggerated response\" to office rental prices",
-      "url": "https://www.dezeen.com/2026/08/28/baumhaus-office-square-metre-studio-tree-opposite-office/",
-      "excerpt": "German architecture studio Opposite Office has created a one-square-metre treehouse to work from, fixed to a tree at the Bauhaus University campus in Weimar. Opposite Office designed the compact tree-",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Moncler reimagines a footwear classic – the Clarks Originals Wallabee",
-      "url": "https://www.wallpaper.com/fashion-beauty/moncler-clarks-originals-wallabee-fragment",
-      "excerpt": "The Trailgrip Wallabee GTX sees the classic British footwear style reworked for rugged terrain",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pWCtzDA8agJtJ4VR762dCm-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "do ho suh maps four decades of home, memory, and migration at MMCA seoul retrospective",
-      "url": "https://www.designboom.com/art/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective/",
-      "excerpt": "the seoul exhibition brings together early experiments, architectural reconstructions, and intimate works centered on family and the body.\nThe post do ho suh maps four decades of home, memory, and mig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "lassie robot dog pairs quadrupedal mobility with a soft removable knitted suit",
-      "url": "https://www.designboom.com/technology/lassie-robot-dog-quadrupedal-mobility-soft-removable-knitted-suit/",
-      "excerpt": "lassie is designed to accompany walking, running, travel, and everyday routines.\nThe post lassie robot dog pairs quadrupedal mobility with a soft removable knitted suit appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lassie-robot-dog-companion-quadrupedal-mobility-soft-removable-knitted-suit-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Vacheron Constantin celebrates craft and the animal kingdom with six new concept watches",
-      "url": "https://www.wallpaper.com/watches-jewellery/vacheron-constantin-metiers-d-art-tribute-to-the-animal-kingdom",
-      "excerpt": "At Homo Faber, Vacheron Constantin unveils animal-themed collaborations with six artisans, each an ode to craft in all its forms",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bSWXfBnHhsaBD8pQaZPAVM-2276-80.jpg",
+      "title": "Eight stylish furnishings by Australian brands",
+      "url": "https://www.dezeen.com/2026/08/28/lighting-furniture-accessories-seating-australian-brands-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: from accessories and lights to seating and tables, the following items are all made down under by Australian design brands. The products stem from various established and emerging des",
       "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.28",
-      "title": "Sabine Marcelis captures movement of sunlight across water in Iittala glassware",
-      "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
-      "excerpt": "Storied Finnish glassworks Iittala has unveiled Unda, its debut collaboration with Sabine Marcelis – a range of lamps and vases that required the designer to develop a whole new production technique i",
+      "title": "Leroy Street Studio renovates historic New York City theatre for A24",
+      "url": "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
+      "excerpt": "For its first brick-and-mortar venue, production company A24 worked with New York design office Leroy Street Studio to overhaul the city's oldest Off-Broadway theatre to host live productions and scre",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.28",
-      "title": "Templeton Ford’s quirky sloped roof design has curve appeal in leafy West Sussex",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/templeton-ford-uk",
-      "excerpt": "Wallpaper* Architects’ Directory 2026 adds the UK’s Templeton Ford to its ranks of exciting emerging practices. We sloped off to West Sussex for a tour of the studio's Clay Rise project",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pL3sqttfNhDTxnc6AnGYpn-2560-80.jpg",
+      "title": "Inside the extraordinary legacy of pioneering Black architect Paul R. Williams",
+      "url": "https://www.wallpaper.com/architecture/paul-r-williams-guide-usa",
+      "excerpt": "Paul R. Williams, the US architect whose creativity triumphed over prejudice, is being celebrated with three shows in Los Angeles in the coming months; we take a deep dive into his work",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YskcZJF4EpWG686LNa8YMb-1169-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "helen & hard revives viking boatbuilding with whole-tree cabin on norway’s atlantic coast",
+      "url": "https://www.designboom.com/architecture/helen-hard-viking-boatbuilding-cabin-sande-norway/",
+      "excerpt": "helen & hard pairs viking-era boatbuilding logic with robotic milling to shape cabin sande’s expressive timber frame.\nThe post helen & hard revives viking boatbuilding with whole-tree cabin on norway’",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cabin-sande-helen-hard-architects-norway-designboom-FB.jpg",
       "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.28",
-      "title": "Entries open for The Brick in Architecture Awards 2026",
-      "url": "https://www.dezeen.com/2026/08/28/entries-open-for-the-brick-in-architecture-awards-2026/",
-      "excerpt": "Promotion: entries are now open for this year's edition of the Brick in Architecture Awards, which recognises the best brick buildings from the US and beyond. The annual award, which is accepting entr",
+      "title": "Nature-focused art market in Hong Kong among projects from My ArchiSchool",
+      "url": "https://www.dezeen.com/2026/08/28/nature-focused-art-market-hong-kong-my-archischool-schoolshows/",
+      "excerpt": "Dezeen School Shows: an art market with large glass walls overlooking pine trees in Hong Kong is among the student projects from My ArchiSchool. Also featured are a multifunctional recreational centre",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.28",
-      "title": "Hybrid Infrastructure  Doble Erre / Morphism",
-      "url": "https://www.archdaily.com/1183662/doble-erre-morphism",
-      "excerpt": "Located in the Usera neighborhood of Madrid, Doble Erre transforms a former cold storage facility for a pastry business into a hybrid infrastructure for practices at the intersection of art, design, a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/c0c0/4253/0500/01c9/f7b8/large_jpg/Copy_of_09-DOBLE-ERRE.jpg?1787216078",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Country House in Boladala Village / ARC Architects",
-      "url": "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects",
-      "excerpt": "The country house is located on the shore of the Charvak Reservoir, an artificial lake surrounded by mountains, approximately 80 km from Tashkent. The village of Boladala is one of the more remote set",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/21fa/ab59/ca01/8994/672d/large_jpg/country-house-in-boladala-village-arc-architects_11.jpg?1787241001",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Floral Pavilion / genarchitects",
-      "url": "https://www.archdaily.com/1183973/floral-pavilion-genarchitects",
-      "excerpt": "\"Floral Pavilion\" and the small railway station are two buildings located not far from one another in Tangshan, Jiangning District, Nanjing. The small train forms part of the park's transportation sys",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/f187/ac8b/af61/5221/18f0/large_jpg/floral-pavilion-genarchitects_18.jpg?1787687340",
+      "title": "House in Estancia El Terrón / Santiago Bertotti",
+      "url": "https://www.archdaily.com/1184087/house-in-estancia-el-terron-santiago-bertotti",
+      "excerpt": "Site and General Layout - Located in Estancia El Terrón, Mendiolaza, Córdoba, the house features a 600 m² volume that embraces the site's natural contours. The topography slopes down toward the golf c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/ee0d/a25c/7b00/0125/f5db/large_jpg/255_-_08-2026__-__S_BERTOTTI_ET2_ph_g_viramonte-1537-HDR.jpg?1787817501",
       "today": true
     },
     {
       "source": "designboom",
       "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "joshua vides’ mercedes SL500 looks like a drawing, and now it’s up for auction",
-      "url": "https://www.designboom.com/technology/joshua-vides-mercedes-benz-sl500-drawing-painted-black-white-auction/",
-      "excerpt": "joshua vides’ hand-painted mercedes SL500 -- now on auction -- turns a ’90s roadster into a full-scale automotive sketch. \nThe post joshua vides’ mercedes SL500 looks like a drawing, and now it’s up f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/joshua-vides-mercedes-art-car-designboom-FB.jpg",
-      "today": false
+      "date": "2026.08.28",
+      "title": "byunggwon na’s ALIT lamp balances ceramic, wood and light in one quiet composition",
+      "url": "https://www.designboom.com/design/byunggwon-na-alit-lamp-ceramic-wood-light/",
+      "excerpt": "seoul-based designer byunggwon na combines slip-cast ceramic and wood in ALIT, a modular lamp shaped by light, color and material.\nThe post byunggwon na’s ALIT lamp balances ceramic, wood and light in",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467612/2026-08-28/byunggwon-nas-alit-lamp-explores-how-ceramic-wood-and-light-interact-1-6a9127568681e.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "mamuli translates georgian culture and traditions into layered restaurant interior",
+      "url": "https://www.designboom.com/architecture/mamuli-georgian-culture-traditions-layered-restaurant-interior-soia-design/",
+      "excerpt": "the interior features intricate crafted elements like peppercorn balusters, beehive chandeliers, tree-trunk tables, and gold plaster.\nThe post mamuli translates georgian culture and traditions into la",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mamuli-georgia-layered-restaurant-interior-soia-design-designboom-1200-1.jpg",
+      "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "US government may demolish Kennedy Center due to \"structural death spiral\"",
-      "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
-      "excerpt": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC,  the administration of US president Donald Trump has said it may have to demolish the Edward Durell Stone-designed buil",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Cempasúchil Pavilion / COLAR Colectivo de Arquitectura",
-      "url": "https://www.archdaily.com/1184070/cempasuchil-pavilion-colar-colectivo-de-arquitectura",
-      "excerpt": "The pavilion arose from the need to create a temporary structure capable of providing shade and shelter over a four-day period. Conceived as a meeting place, it is organized around a single shared tab",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/b0e3/4253/0500/01ca/0db6/large_jpg/PABELLON_COLAR_RSOMF-EDIT_46.jpg?1787736410",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "lens installation uses rhythmic timber slats to frame island’s historic churches",
-      "url": "https://www.designboom.com/architecture/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home/",
-      "excerpt": "the modular timber installation combines a spatial portal with an integrated wooden bench.\nThe post lens installation uses rhythmic timber slats to frame island’s historic churches appeared first on d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Lehrer Architects designs supportive housing for \"extremely narrow\" site in Los Angeles",
-      "url": "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/",
-      "excerpt": "US studio Lehrer Architects has completed Loma Verde, a supportive housing development for once-homeless residents that features a slender footprint and stucco walls adorned with splashes of colour. L",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "FPW House / Obra Arquitetos",
-      "url": "https://www.archdaily.com/1184094/fpw-house-obra-arquitetos",
-      "excerpt": "The spaces are organized to take advantage of the steep slope of the original topography. From the street, there is an unobstructed view of the surrounding landscape and the house's rooftops, as the s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9c8f/4253/0500/01ca/086f/large_jpg/FPW_NELSONKON_01.jpg?1787665584",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "quail green and rose gold frame the obsessive details of spyker’s C8 preliator XXV",
-      "url": "https://www.designboom.com/technology/quail-green-rose-gold-spyker-c8-preliator-xxv-monterey/",
-      "excerpt": "aircraft-inspired aluminum wraps the analog supercar built by spyker around an 800-hp V8 and a six-speed manual.\nThe post quail green and rose gold frame the obsessive details of spyker’s C8 preliator",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/spyker-c8-preliator-XXV-coupe-monterey-quail-designboom-FB.jpg",
-      "today": false
+      "date": "2026.08.28",
+      "title": "Craighill rethinks the pocket lighter based on historical designs",
+      "url": "https://www.dezeen.com/2026/08/28/craighill-swingtop-lighter/",
+      "excerpt": "Brooklyn design studio Craighill has designed the Swingtop Lighter with a swinging mechanism and snuffer as part of the brand's brief to pay attention to overlooked everyday objects. The Swingtop Ligh",
+      "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "The Breakers, Palm Beach's grande dame, gets an elegant new seaside dining destination. Here's a look inside",
-      "url": "https://www.wallpaper.com/travel/hotels/the-breakers-palm-beach-club-restaurant",
-      "excerpt": "With colours and furnishings straight from the Mediterranean, the revamped Beach Club proves that classics never go out of style",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnQQgYpgHJErmL9DeXERCa-2000-80.jpg",
-      "today": false
+      "date": "2026.08.28",
+      "title": "Fara Homidi on creating her next cult beauty product – which just landed with a splash",
+      "url": "https://www.wallpaper.com/fashion-beauty/make-up/fara-homidi-pool-slick-lash-lacquer-mascara",
+      "excerpt": "In classic Homidi style, the Pool Slick Lash Lacquer mascara takes an innovative approach to a make-up staple",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2SsWgWoimFXVEbmmeT7UxM-2560-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Exa-tech facade tiles by Exagres",
+      "url": "https://www.dezeen.com/2026/08/28/exa-tech-facade-tiles-exagres-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: for high-performance exterior protection, Spanish tile brand Exagres offers Exa-tech, a ventilated facade system composed of extruded porcelain stoneware panels. Exa-tech is designed ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Tomaz Building / IDEIA1",
+      "url": "https://www.archdaily.com/1184135/tomaz-building-ideia1",
+      "excerpt": "Located in a traditional neighborhood of Porto Alegre, the Tomaz Building embraces the concept of architecture as a legacy, standing out for its abundant greenery. It features 34 apartments, all of wh",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9af4/4253/0500/01ca/0835/large_jpg/_08A2513-Pano_copyright_manuel_sa.jpg?1787665196",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Autocamp Sequoia / Waechter Architecture",
+      "url": "https://www.archdaily.com/1183669/autocamp-sequoia-waechter-architecture",
+      "excerpt": "AutoCamp Sequoia was conceived as a reimagining of an existing RV campground, with the surrounding landscape as the primary inspiration. Located along the Kaweah River between Sequoia and Kings Canyon",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/eac4/4253/0500/01c9/f82e/large_jpg/AutoCampSequoia-Matt_Kisiday-ArchDaily__1_.jpg?1787226857",
+      "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "All-hearing, agent-driven workplace AI gets a boost thanks to the new Plaud One earbuds",
-      "url": "https://www.wallpaper.com/tech/all-hearing-agent-driven-workplace-ai-gets-a-boost-thanks-to-the-new-plaud-one-earbuds",
-      "excerpt": "Plaud is expanding its product suite with the Plaud One earbuds and standalone charge case, two pieces of kit that bring total recall to the workplace, with persistent memory and agent-driven actions",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LPUJ9QfnSPqjHMGzJseFxa-2560-80.jpg",
-      "today": false
+      "date": "2026.08.28",
+      "title": "Five new turntables to level up any interior while giving voice to your vinyl collection",
+      "url": "https://www.wallpaper.com/tech/stylish-new-turntables",
+      "excerpt": "New record players from Technics, Argon Audio, Dual, Esoteric and Pro-Ject keep the decks spinning in the new analogue era",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZeZ3QtiAdLqqrchons5fDb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "neon signs and retro rooms: ellie seymour’s book maps mid-century motels across the US",
+      "url": "https://www.designboom.com/architecture/neon-signs-retro-rooms-ellie-seymour-book-maps-mid-century-motels-us-11-06-2025/",
+      "excerpt": "seymour documents 40 mid-century motels, revamped into contemporary boutique hotels while preserving the character of the past.\nThe post neon signs and retro rooms: ellie seymour’s book maps mid-centu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/11/neon-signs-retro-rooms-ellie-seymour-book-maps-mid-century-motels-us-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Casa PB16 / ESPECIE arquitectura",
+      "url": "https://www.archdaily.com/1183846/casa-pb16",
+      "excerpt": "Casa PB16 is a home extension and renovation project in a residential development on the outskirts of Murcia, designed by ESPECIE Arquitectura (Joaquín García Vicente + Tatiana Poggi).",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/0dce/4253/0500/01ca/0300/large_jpg/6.jpg?1787563507",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Discover a bijou Manhattan apartment that was designed to be a ‘Parisian jewel box’",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/lauren-carlucci-sutton-place-apartment",
+      "excerpt": "Designer Lauren Carlucci swapped dated 1990s decor for modernist glamour in one of New York's most coveted neighbourhoods. Go inside the renovation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NQeNUoNqTUoDmx4X7gSymE-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Call for Submissions: The Architecture Drawing Prize 2026",
+      "url": "https://www.archdaily.com/1184131/call-for-submissions-the-architecture-drawing-prize-2026",
+      "excerpt": "World Architecture Festival, in partnership with Make Architects and Sir John Soane's Museum, has opened entries for the ninth edition of The Architecture Drawing Prize, sponsored by Iris Ceramica Gro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/75b8/a25c/7b00/0125/fb59/large_jpg/TADP_Email_Header_2026.jpg?1787917758",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Coffee shop Cup of Joy’s London debut is built on solid grounds",
+      "url": "https://www.wallpaper.com/travel/cup-of-joy-london-review",
+      "excerpt": "The Istanbul coffee brand opens its first international outpost in Marylebone, with café interiors by EBBA Architects",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2TKsEtPNL56FiYMKJGRxcY-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "tato architects suspends arc tent somewhere between a hammock and a campsite",
+      "url": "https://www.designboom.com/design/tato-architects-arc-tent-hammock-outdoor-shelter/",
+      "excerpt": "tato architects’ arc tent combines a suspended triangular structure with lightweight weather-resistant fabrics.\nThe post tato architects suspends arc tent somewhere between a hammock and a campsite ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/391083/2026-08-25/arc-tent-11-6a8cf4ee88bee.jpg",
+      "today": true
     },
     {
       "source": "岩崎電気",
@@ -405,16 +397,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -478,16 +460,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -495,16 +467,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
