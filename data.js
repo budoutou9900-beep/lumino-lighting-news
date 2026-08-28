@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.27  23:28",
+  "fetchedAt": "2026.08.28  08:34",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "鉄道ファン・railf.jp": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -65,24 +65,20 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -92,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -102,7 +98,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -112,7 +108,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -121,7 +117,7 @@ window.LUMINO_DATA = {
     {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
@@ -130,7 +126,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -138,19 +134,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.27",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.27",
+      "date": "2026.08.28",
       "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
@@ -158,13 +144,120 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "鉄道ファン・railf.jp",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
-      "date": "2026.08.27",
-      "title": "嵯峨野観光鉄道，「春のライトアップ＆イルミネーション」を実施｜鉄道イベント｜2026年2月20日掲載｜鉄道ファン・railf.jp",
-      "url": "https://railf.jp/event/2026/02/20/123500.html",
+      "date": "2026.08.28",
+      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
+      "url": "https://takamatsu.keizai.biz/headline/1458/",
       "excerpt": "",
-      "thumbnailUrl": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/03/sq260301_sagano_start.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Square-metre studio strapped to tree in \"exaggerated response\" to office rental prices",
+      "url": "https://www.dezeen.com/2026/08/28/baumhaus-office-square-metre-studio-tree-opposite-office/",
+      "excerpt": "German architecture studio Opposite Office has created a one-square-metre treehouse to work from, fixed to a tree at the Bauhaus University campus in Weimar. Opposite Office designed the compact tree-",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Moncler reimagines a footwear classic – the Clarks Originals Wallabee",
+      "url": "https://www.wallpaper.com/fashion-beauty/moncler-clarks-originals-wallabee-fragment",
+      "excerpt": "The Trailgrip Wallabee GTX sees the classic British footwear style reworked for rugged terrain",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pWCtzDA8agJtJ4VR762dCm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "do ho suh maps four decades of home, memory, and migration at MMCA seoul retrospective",
+      "url": "https://www.designboom.com/art/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective/",
+      "excerpt": "the seoul exhibition brings together early experiments, architectural reconstructions, and intimate works centered on family and the body.\nThe post do ho suh maps four decades of home, memory, and mig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "lassie robot dog pairs quadrupedal mobility with a soft removable knitted suit",
+      "url": "https://www.designboom.com/technology/lassie-robot-dog-quadrupedal-mobility-soft-removable-knitted-suit/",
+      "excerpt": "lassie is designed to accompany walking, running, travel, and everyday routines.\nThe post lassie robot dog pairs quadrupedal mobility with a soft removable knitted suit appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lassie-robot-dog-companion-quadrupedal-mobility-soft-removable-knitted-suit-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Vacheron Constantin celebrates craft and the animal kingdom with six new concept watches",
+      "url": "https://www.wallpaper.com/watches-jewellery/vacheron-constantin-metiers-d-art-tribute-to-the-animal-kingdom",
+      "excerpt": "At Homo Faber, Vacheron Constantin unveils animal-themed collaborations with six artisans, each an ode to craft in all its forms",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bSWXfBnHhsaBD8pQaZPAVM-2276-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Sabine Marcelis captures movement of sunlight across water in Iittala glassware",
+      "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
+      "excerpt": "Storied Finnish glassworks Iittala has unveiled Unda, its debut collaboration with Sabine Marcelis – a range of lamps and vases that required the designer to develop a whole new production technique i",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Templeton Ford’s quirky sloped roof design has curve appeal in leafy West Sussex",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/templeton-ford-uk",
+      "excerpt": "Wallpaper* Architects’ Directory 2026 adds the UK’s Templeton Ford to its ranks of exciting emerging practices. We sloped off to West Sussex for a tour of the studio's Clay Rise project",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pL3sqttfNhDTxnc6AnGYpn-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Entries open for The Brick in Architecture Awards 2026",
+      "url": "https://www.dezeen.com/2026/08/28/entries-open-for-the-brick-in-architecture-awards-2026/",
+      "excerpt": "Promotion: entries are now open for this year's edition of the Brick in Architecture Awards, which recognises the best brick buildings from the US and beyond. The annual award, which is accepting entr",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Hybrid Infrastructure  Doble Erre / Morphism",
+      "url": "https://www.archdaily.com/1183662/doble-erre-morphism",
+      "excerpt": "Located in the Usera neighborhood of Madrid, Doble Erre transforms a former cold storage facility for a pastry business into a hybrid infrastructure for practices at the intersection of art, design, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/c0c0/4253/0500/01c9/f7b8/large_jpg/Copy_of_09-DOBLE-ERRE.jpg?1787216078",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Country House in Boladala Village / ARC Architects",
+      "url": "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects",
+      "excerpt": "The country house is located on the shore of the Charvak Reservoir, an artificial lake surrounded by mountains, approximately 80 km from Tashkent. The village of Boladala is one of the more remote set",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/21fa/ab59/ca01/8994/672d/large_jpg/country-house-in-boladala-village-arc-architects_11.jpg?1787241001",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.28",
+      "title": "Floral Pavilion / genarchitects",
+      "url": "https://www.archdaily.com/1183973/floral-pavilion-genarchitects",
+      "excerpt": "\"Floral Pavilion\" and the small railway station are two buildings located not far from one another in Tangshan, Jiangning District, Nanjing. The small train forms part of the park's transportation sys",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/f187/ac8b/af61/5221/18f0/large_jpg/floral-pavilion-genarchitects_18.jpg?1787687340",
       "today": true
     },
     {
@@ -175,7 +268,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/joshua-vides-mercedes-benz-sl500-drawing-painted-black-white-auction/",
       "excerpt": "joshua vides’ hand-painted mercedes SL500 -- now on auction -- turns a ’90s roadster into a full-scale automotive sketch. \nThe post joshua vides’ mercedes SL500 looks like a drawing, and now it’s up f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/joshua-vides-mercedes-art-car-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -183,8 +276,18 @@ window.LUMINO_DATA = {
       "date": "2026.08.27",
       "title": "US government may demolish Kennedy Center due to \"structural death spiral\"",
       "url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
-      "excerpt": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC,  the administration of US president Donald Trump has said it may have to demolish the Edward Durrell Stone-designed bui",
-      "today": true
+      "excerpt": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC,  the administration of US president Donald Trump has said it may have to demolish the Edward Durell Stone-designed buil",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.27",
+      "title": "Cempasúchil Pavilion / COLAR Colectivo de Arquitectura",
+      "url": "https://www.archdaily.com/1184070/cempasuchil-pavilion-colar-colectivo-de-arquitectura",
+      "excerpt": "The pavilion arose from the need to create a temporary structure capable of providing shade and shelter over a four-day period. Conceived as a meeting place, it is organized around a single shared tab",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/b0e3/4253/0500/01ca/0db6/large_jpg/PABELLON_COLAR_RSOMF-EDIT_46.jpg?1787736410",
+      "today": false
     },
     {
       "source": "designboom",
@@ -194,7 +297,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home/",
       "excerpt": "the modular timber installation combines a spatial portal with an integrated wooden bench.\nThe post lens installation uses rhythmic timber slats to frame island’s historic churches appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -203,7 +306,7 @@ window.LUMINO_DATA = {
       "title": "Lehrer Architects designs supportive housing for \"extremely narrow\" site in Los Angeles",
       "url": "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/",
       "excerpt": "US studio Lehrer Architects has completed Loma Verde, a supportive housing development for once-homeless residents that features a slender footprint and stucco walls adorned with splashes of colour. L",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -213,7 +316,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184094/fpw-house-obra-arquitetos",
       "excerpt": "The spaces are organized to take advantage of the steep slope of the original topography. From the street, there is an unobstructed view of the surrounding landscape and the house's rooftops, as the s",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9c8f/4253/0500/01ca/086f/large_jpg/FPW_NELSONKON_01.jpg?1787665584",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -223,7 +326,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/quail-green-rose-gold-spyker-c8-preliator-xxv-monterey/",
       "excerpt": "aircraft-inspired aluminum wraps the analog supercar built by spyker around an 800-hp V8 and a six-speed manual.\nThe post quail green and rose gold frame the obsessive details of spyker’s C8 preliator",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/spyker-c8-preliator-XXV-coupe-monterey-quail-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -233,37 +336,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/the-breakers-palm-beach-club-restaurant",
       "excerpt": "With colours and furnishings straight from the Mediterranean, the revamped Beach Club proves that classics never go out of style",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnQQgYpgHJErmL9DeXERCa-2000-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Casa Galería / Sommet",
-      "url": "https://www.archdaily.com/1184047/casa-galeria-sommet",
-      "excerpt": "Implanted on a steeply sloping site, Casa Galería begins with a fundamental premise: understanding topography not as a difficulty to be overcome, but as the condition that structures the project. The ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/ed3c/a25c/7b00/0125/f594/large_jpg/1T6A5558.jpg?1787817309",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "twelve tanks and dripping aqueduct trace water loss at mies van der rohe barcelona pavilion",
-      "url": "https://www.designboom.com/design/twelve-tanks-dripping-aqueduct-water-loss-mies-van-der-rohe-barcelona-pavilion-plou-prou-cierto-estudio-h3o-architects-metronom/",
-      "excerpt": "elevated tanks and a temporary aqueduct visualize the 12,000 liters of water estimated to evaporate from the mies van der rohe pavilion’s pool over 14 days.\nThe post twelve tanks and dripping aqueduct",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/plou-prou-ephemeral-intervention-cierto-estudio-h3o-architects-metronom-mies-van-der-rohe-pavilion-barcelona-designboom-1200-1-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Casa Muda L13 / Pereira Miguel Arquitectos",
-      "url": "https://www.archdaily.com/1184076/casa-muda-l13-pereira-miguel-arquitectos",
-      "excerpt": "Located in Grândola, the Muda L13 residential project was designed to take advantage of the views over a small valley and natural light, particularly from the south and west.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/199d/4253/0500/01ca/0f91/large_jpg/073.jpg?1787763180",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -273,94 +346,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/all-hearing-agent-driven-workplace-ai-gets-a-boost-thanks-to-the-new-plaud-one-earbuds",
       "excerpt": "Plaud is expanding its product suite with the Plaud One earbuds and standalone charge case, two pieces of kit that bring total recall to the workplace, with persistent memory and agent-driven actions",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LPUJ9QfnSPqjHMGzJseFxa-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Cherokee House / STUDIO KP2",
-      "url": "https://www.archdaily.com/1183695/cherokee-house-studio-kp2",
-      "excerpt": "Located in the heart of Miami Beach, Cherokee House explores the idea of refuge through a restrained composition of exposed concrete, natural materials and carefully controlled light. Defined by eleme",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/146f/4253/0500/01c9/fa13/large_jpg/01_StudioKP1_Miami01_DSF0504_sRGB.jpg?1787237523",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "1968 seoul residence is reshaped with courtyard, annex and timber frame",
-      "url": "https://www.designboom.com/architecture/1968-seoul-residence-is-reshaped-with-courtyard-annex-and-timber-frame/",
-      "excerpt": "Isak Chung and Jinpyo Hong renovate a 1968 residence in Seoul with a courtyard, annex and reused air-raid shelter.\nThe post 1968 seoul residence is reshaped with courtyard, annex and timber frame appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/saekdong-house-3-6a8c0925954ff.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Speedo iQ is a new system that brings tracking and metrics to the world of serious swimming",
-      "url": "https://www.wallpaper.com/tech/speedo-iq-is-a-new-system-that-brings-tracking-and-metrics-to-the-world-of-serious-swimming",
-      "excerpt": "Swim sensor tech takes another leap forwards with the introduction of Speedo iQ, smart goggles that help study your form",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eSjBRhhCp5RcNuLANdQoyb-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Globe-Trotter’s sold-out restored luggage collection returns for round two",
-      "url": "https://www.wallpaper.com/travel/globe-trotter-renewed-collection-restoration-edit",
-      "excerpt": "The second drop of The Renewed Collection gives used Globe-Trotter cases another journey while retaining their accumulated character",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/axHDN7VdSR3UMQzL7rDV6h-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Tato Architects uses silver-painted ceilings to draw light into Kyoto home",
-      "url": "https://www.dezeen.com/2026/08/27/tato-architects-house-in-shichiku-kyoto/",
-      "excerpt": "Skylights, an internal light well and silver-painted ceilings pull light deep into House in Shichiku, a home in Kyoto designed by local studio Tato Architects. Designed for a couple and their cat, the",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Yayoi Kusama dies aged 97",
-      "url": "https://www.dezeen.com/2026/08/27/yayoi-kusama-dies-aged-97/",
-      "excerpt": "Japanese artist Yayoi Kusama, known for her colourful polka dot artworks, has passed away in Tokyo from multiple organ failure at the age of 97. In a statement, Kusama's gallery, David Zwirner, announ",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Social Atrium — 54 Social Housing Units in Besòs / Peris+Toral.arquitectes",
-      "url": "https://www.archdaily.com/1184012/social-atrium-54-social-housing-units-in-besos-peris-plus-torarquitectes",
-      "excerpt": "SOCIAL ATRIUM combines 54 social rental housing units with a public facility on the ground floor and a naturally ventilated parking garage. The building's massing concentrates four units per landing a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/10a9/4253/0500/01ca/0315/large_jpg/VPO_BORRASA_2023_10_valla.jpg?1787564234",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Wallpaper* stages an unconventional beauty pageant for the September Style Issue men’s cover shoot",
-      "url": "https://www.wallpaper.com/fashion-beauty/mens-fashion-aw-2026-formal-wear-trend",
-      "excerpt": "Spare and streamlined looks took centre stage in Wallpaper’s September Issue men’s cover shoot, reflecting the A/W 2026 season’s shifting silhouette",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RaetFsA89WyzYt4bdWW3BH-2000-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.27",
-      "title": "Volunteers tug 360-tonne castle tower towards its original site in Japan",
-      "url": "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/",
-      "excerpt": "Around 1,800 people have pulled the keep of the historic Hirosaki Castle two metres closer to its original location in Japan's Aomori prefecture, following restoration works. Using an ancient Japanese",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -380,6 +366,15 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.08.26",
+      "title": "温室効果ガス排出削減目標について国際的イニシアチブ「SBT認定」を取得しました。",
+      "url": "https://www2.lighting-daiko.co.jp/topics/sbt_certification_2026/",
+      "excerpt": "",
       "today": false
     },
     {
@@ -567,16 +562,6 @@ window.LUMINO_DATA = {
       "date": "2026.07.15",
       "title": "イベント情報 - 「iSiTLUS(アイシトラス)」照明設計紹介ウェビナー",
       "url": "https://www.iwasaki.co.jp/NEWS/event/2026/iSiTLUS.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "新製品",
-      "date": "2026.07.14",
-      "title": "工事現場用照明",
-      "url": "https://www.iwasaki.co.jp/lighting/construction/",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
