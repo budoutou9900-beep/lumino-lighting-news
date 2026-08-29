@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.29  03:00",
+  "fetchedAt": "2026.08.29  10:40",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "高松経済新聞": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,37 +45,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -100,6 +88,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.29",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.29",
@@ -110,15 +108,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.29",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.29",
@@ -126,6 +115,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.29",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -148,16 +146,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.08.29",
-      "title": "高松・栗林公園で「春のライトアップ」 夜桜と扇イルミが幻想的に競演",
-      "url": "https://takamatsu.keizai.biz/headline/1458/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1774584787_photo.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.29",
@@ -168,14 +156,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Slanted facade encloses modular Czech home by Papundekl Architects",
+      "url": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
+      "excerpt": "A tilted facade with large glazed openings was designed to bring an adjacent forest \"directly into the interior\" of this home in the Czech Republic by Prague-based Papundekl Architects. Located in a S",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Six farmhouse renovations that bring their bucolic surroundings into view",
+      "url": "https://www.dezeen.com/2026/08/29/farmhouse-renovations/",
+      "excerpt": "Traditional farmhouses often have thick stone walls that block the view of the natural vistas that surround them. Below, we've gathered six examples of modern interventions that instead open up histor",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "ICON uses one construction system to 3D-print radically different ideas of home",
+      "url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
+      "excerpt": "ICON employs large-scale 3D-printing to build affordable housing, suburban communities, private homes and desert retreats.\nThe post ICON uses one construction system to 3D-print radically different id",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/icon-modes-habitation-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Sloane Square gets the full French treatment at Brasserie Olivia",
-      "url": "https://www.wallpaper.com/travel/restaurants/brasserie-olivia-london-review",
-      "excerpt": "From breakfast to late-night drinks, La Nouvelle Garde’s London debut brings the rhythm of a brasserie to Sloane Square",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vwTozJG42HEAPyhY5t4SjT-1600-80.jpg",
-      "today": false
+      "date": "2026.08.29",
+      "title": "This viral Instagram account is putting the ancient architecture of Leominster on the map",
+      "url": "https://www.wallpaper.com/architecture/leominster-heritage-viral-architecture-video",
+      "excerpt": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7SL9TM5GYy4wsrxt3B3zPX-1024-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Is your clothing in need of some respect? Then it deserves a proper wardrobe",
+      "url": "https://www.wallpaper.com/fashion-beauty/the-beauty-of-the-wardrobe",
+      "excerpt": "Taken from the Wallpaper* September Style Issue, Hugo Macdonald opines on the beauty of a standalone wardrobe",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Hgsq5mLAN5LVPY6oDfx2Zn-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Bruce of Los Angeles' vintage photographs celebrate cowboys at ease",
+      "url": "https://www.wallpaper.com/art/photography/bruce-of-los-angeles-paris-acne-paper-palais-royal",
+      "excerpt": "Vince Aletti curates a selection of Bruce of Los Angeles' photographs from his Rodeo series for an exhibition at Acne Paper Palais Royal, Paris",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5CfTnQmkZwGXQoJcJ6zouJ.gif",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "This week we reported on a colourful shirt that stops AI video surveillance",
+      "url": "https://www.dezeen.com/2026/08/29/anti-ai-shirt-this-week/",
+      "excerpt": "This week on Dezeen, designer Simon Weckert unveiled a colourful camouflage shirt that stops users being detected by AI video systems. Named Digital Camouflage, the shirt was developed in response to ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Lee Broom’s hypnotic lighting installation creates a sultry atmosphere",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/lee-broom-the-chant-chambers-london-design-festival-2026",
+      "excerpt": "For London Design Festival 2026, British designer Lee Broom expands his ‘Chant’ collection with varying compositions that are a nostalgic nod to the 1970s",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Pbfsx8h57WNnhwQpjPWjT7-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Kemi Lawson's new book celebrates the joy manifested in Black homes around the world",
+      "url": "https://www.wallpaper.com/architecture/residential/kemi-lawson-house-proud-book",
+      "excerpt": "'House Proud,' a new book written by Kemi Lawson and published by RIBA, explores Black interiors and architecture across eras and territories",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tAyHZ8vvWEMzGMrp2tcE3U-1421-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Semi-construction Site Office / ARCHWASTE",
+      "url": "https://www.archdaily.com/1184064/semi-construction-site-office-archwaste",
+      "excerpt": "ARCHWASTE transforms an irregular ground-floor commercial unit within a Shanghai residential compound into an evolving workplace where construction traces, exposed structures, and everyday functions r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/fba0/a25c/7b00/0125/f6af/large_jpg/14-01.jpg?1787821043",
+      "today": true
     },
     {
       "source": "designboom",
@@ -226,16 +301,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Inside the extraordinary legacy of pioneering Black architect Paul R. Williams",
-      "url": "https://www.wallpaper.com/architecture/paul-r-williams-guide-usa",
-      "excerpt": "Paul R. Williams, the US architect whose creativity triumphed over prejudice, is being celebrated with three shows in Los Angeles in the coming months; we take a deep dive into his work",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YskcZJF4EpWG686LNa8YMb-1169-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.28",
@@ -243,15 +308,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/helen-hard-viking-boatbuilding-cabin-sande-norway/",
       "excerpt": "helen & hard pairs viking-era boatbuilding logic with robotic milling to shape cabin sande’s expressive timber frame.\nThe post helen & hard revives viking boatbuilding with whole-tree cabin on norway’",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cabin-sande-helen-hard-architects-norway-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Nature-focused art market in Hong Kong among projects from My ArchiSchool",
-      "url": "https://www.dezeen.com/2026/08/28/nature-focused-art-market-hong-kong-my-archischool-schoolshows/",
-      "excerpt": "Dezeen School Shows: an art market with large glass walls overlooking pine trees in Hong Kong is among the student projects from My ArchiSchool. Also featured are a multifunctional recreational centre",
       "today": false
     },
     {
@@ -285,34 +341,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Craighill rethinks the pocket lighter based on historical designs",
-      "url": "https://www.dezeen.com/2026/08/28/craighill-swingtop-lighter/",
-      "excerpt": "Brooklyn design studio Craighill has designed the Swingtop Lighter with a swinging mechanism and snuffer as part of the brand's brief to pay attention to overlooked everyday objects. The Swingtop Ligh",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Fara Homidi on creating her next cult beauty product – which just landed with a splash",
-      "url": "https://www.wallpaper.com/fashion-beauty/make-up/fara-homidi-pool-slick-lash-lacquer-mascara",
-      "excerpt": "In classic Homidi style, the Pool Slick Lash Lacquer mascara takes an innovative approach to a make-up staple",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2SsWgWoimFXVEbmmeT7UxM-2560-80.png",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Exa-tech facade tiles by Exagres",
-      "url": "https://www.dezeen.com/2026/08/28/exa-tech-facade-tiles-exagres-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: for high-performance exterior protection, Spanish tile brand Exagres offers Exa-tech, a ventilated facade system composed of extruded porcelain stoneware panels. Exa-tech is designed ",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.08.28",
@@ -320,46 +348,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184135/tomaz-building-ideia1",
       "excerpt": "Located in a traditional neighborhood of Porto Alegre, the Tomaz Building embraces the concept of architecture as a legacy, standing out for its abundant greenery. It features 34 apartments, all of wh",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9af4/4253/0500/01ca/0835/large_jpg/_08A2513-Pano_copyright_manuel_sa.jpg?1787665196",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Autocamp Sequoia / Waechter Architecture",
-      "url": "https://www.archdaily.com/1183669/autocamp-sequoia-waechter-architecture",
-      "excerpt": "AutoCamp Sequoia was conceived as a reimagining of an existing RV campground, with the surrounding landscape as the primary inspiration. Located along the Kaweah River between Sequoia and Kings Canyon",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a86/eac4/4253/0500/01c9/f82e/large_jpg/AutoCampSequoia-Matt_Kisiday-ArchDaily__1_.jpg?1787226857",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Five new turntables to level up any interior while giving voice to your vinyl collection",
-      "url": "https://www.wallpaper.com/tech/stylish-new-turntables",
-      "excerpt": "New record players from Technics, Argon Audio, Dual, Esoteric and Pro-Ject keep the decks spinning in the new analogue era",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZeZ3QtiAdLqqrchons5fDb-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "neon signs and retro rooms: ellie seymour’s book maps mid-century motels across the US",
-      "url": "https://www.designboom.com/architecture/neon-signs-retro-rooms-ellie-seymour-book-maps-mid-century-motels-us-11-06-2025/",
-      "excerpt": "seymour documents 40 mid-century motels, revamped into contemporary boutique hotels while preserving the character of the past.\nThe post neon signs and retro rooms: ellie seymour’s book maps mid-centu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/11/neon-signs-retro-rooms-ellie-seymour-book-maps-mid-century-motels-us-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Discover a bijou Manhattan apartment that was designed to be a ‘Parisian jewel box’",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/lauren-carlucci-sutton-place-apartment",
-      "excerpt": "Designer Lauren Carlucci swapped dated 1990s decor for modernist glamour in one of New York's most coveted neighbourhoods. Go inside the renovation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NQeNUoNqTUoDmx4X7gSymE-1920-80.jpg",
       "today": false
     },
     {
@@ -419,16 +407,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -492,16 +470,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -509,16 +477,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
