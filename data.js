@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.29  10:40",
+  "fetchedAt": "2026.08.29  15:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,15 +17,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -61,9 +61,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -108,16 +116,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.08.29",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.08.29",
@@ -133,6 +131,16 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.29",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -184,6 +192,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Radically Collective: The Legacy of Cuba's Microbrigadas Housing Program",
+      "url": "https://www.archdaily.com/1183812/radically-collective-the-legacy-of-cubas-microbrigadas-housing-program",
+      "excerpt": "In the 1970s, Cuba faced a severe nationwide housing shortage due to population growth, rural-to-urban migration, and the degradation of existing housing stock. The government's answer was a system th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/bc03/ac8b/af01/892c/e4a6/large_jpg/concrete-and-repetition-the-legacy-of-cubas-microbrigadas-in-havana_3.jpg?1787345964",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -191,6 +209,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/leominster-heritage-viral-architecture-video",
       "excerpt": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7SL9TM5GYy4wsrxt3B3zPX-1024-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "A12 Apartment / DKA",
+      "url": "https://www.archdaily.com/1183511/a12-apartment-dka",
+      "excerpt": "A12 Apartment transforms a historic Roman apartment into a contemporary home by using color, geometry, and spatial continuity to establish a new relationship between the existing architecture and ever",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5531/3cf9/6c00/0178/383d/large_jpg/DKA_A12-living-_Serena-Eller-2.jpg?1787057528",
       "today": true
     },
     {
@@ -240,6 +268,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/kemi-lawson-house-proud-book",
       "excerpt": "'House Proud,' a new book written by Kemi Lawson and published by RIBA, explores Black interiors and architecture across eras and territories",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tAyHZ8vvWEMzGMrp2tcE3U-1421-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "sculptural table lamps combine 3D printing, graphic geometry, and saturated color",
+      "url": "https://www.designboom.com/design/sculptural-table-lamps-3d-printing-graphic-geometry-saturated-color-charlie-firth-colorful-rebellion/",
+      "excerpt": "charlie firth combines 3D printing with functional table lamps to create memphis-inspired sculptures for the modern-day home.\nThe post sculptural table lamps combine 3D printing, graphic geometry, and",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sculptural-table-lamps-3d-printing-graphic-geometr-saturated-color-charlie-firth-colorful-rebellion-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -311,16 +349,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "House in Estancia El Terrón / Santiago Bertotti",
-      "url": "https://www.archdaily.com/1184087/house-in-estancia-el-terron-santiago-bertotti",
-      "excerpt": "Site and General Layout - Located in Estancia El Terrón, Mendiolaza, Córdoba, the house features a 600 m² volume that embraces the site's natural contours. The topography slopes down toward the golf c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/ee0d/a25c/7b00/0125/f5db/large_jpg/255_-_08-2026__-__S_BERTOTTI_ET2_ph_g_viramonte-1537-HDR.jpg?1787817501",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.28",
@@ -328,26 +356,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/byunggwon-na-alit-lamp-ceramic-wood-light/",
       "excerpt": "seoul-based designer byunggwon na combines slip-cast ceramic and wood in ALIT, a modular lamp shaped by light, color and material.\nThe post byunggwon na’s ALIT lamp balances ceramic, wood and light in",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467612/2026-08-28/byunggwon-nas-alit-lamp-explores-how-ceramic-wood-and-light-interact-1-6a9127568681e.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "mamuli translates georgian culture and traditions into layered restaurant interior",
-      "url": "https://www.designboom.com/architecture/mamuli-georgian-culture-traditions-layered-restaurant-interior-soia-design/",
-      "excerpt": "the interior features intricate crafted elements like peppercorn balusters, beehive chandeliers, tree-trunk tables, and gold plaster.\nThe post mamuli translates georgian culture and traditions into la",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mamuli-georgia-layered-restaurant-interior-soia-design-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Tomaz Building / IDEIA1",
-      "url": "https://www.archdaily.com/1184135/tomaz-building-ideia1",
-      "excerpt": "Located in a traditional neighborhood of Porto Alegre, the Tomaz Building embraces the concept of architecture as a legacy, standing out for its abundant greenery. It features 34 apartments, all of wh",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9af4/4253/0500/01ca/0835/large_jpg/_08A2513-Pano_copyright_manuel_sa.jpg?1787665196",
       "today": false
     },
     {
@@ -407,6 +415,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -470,6 +488,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -477,6 +505,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
