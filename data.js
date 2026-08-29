@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.29  15:24",
+  "fetchedAt": "2026.08.29  19:05",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,27 +21,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -125,15 +125,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.08.29",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.08.29",
@@ -141,6 +132,15 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.08.29",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
       "today": true
     },
     {
@@ -161,6 +161,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=256739",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Lunar Cavern by Studio Khoa Vu is inspired by the dark side of the moon",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/studio-khoa-vu-profile-usa-vietnam",
+      "excerpt": "The US- and Vietnam-based practice, Studio Khoa Vu, joins the Wallpaper* Architects’ Directory 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b4CxnjExVuj62D3EF2oL7V-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Rehabilitation of the Orrios Exchange building / Oscar Escuder Arquitectura",
+      "url": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
+      "excerpt": "The Orrios Exchange (Lonja) building reflects the traditional \"Exchange–Town Hall\" typology characteristic of Teruel's vernacular architecture. The structure features a Renaissance loggia with masonry",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1204/4253/0500/01ca/038f/large_jpg/Lonja-12.jpg?1787564585",
       "today": true
     },
     {
@@ -261,16 +281,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Kemi Lawson's new book celebrates the joy manifested in Black homes around the world",
-      "url": "https://www.wallpaper.com/architecture/residential/kemi-lawson-house-proud-book",
-      "excerpt": "'House Proud,' a new book written by Kemi Lawson and published by RIBA, explores Black interiors and architecture across eras and territories",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tAyHZ8vvWEMzGMrp2tcE3U-1421-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -326,16 +336,6 @@ window.LUMINO_DATA = {
       "title": "Leroy Street Studio renovates historic New York City theatre for A24",
       "url": "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
       "excerpt": "For its first brick-and-mortar venue, production company A24 worked with New York design office Leroy Street Studio to overhaul the city's oldest Off-Broadway theatre to host live productions and scre",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Bom Retiro House / Michel Macedo Arquitetos",
-      "url": "https://www.archdaily.com/1184138/bom-retiro-house-michel-macedo-arquitetos",
-      "excerpt": "The Bom Retiro House suspends its bedrooms over a continuous 12-meter (39-foot) span, making this void the center of domestic life.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/1a31/4253/0500/01ca/0f9b/large_jpg/08_JO_O_VITOR_SARTURI.jpg?1787763315",
       "today": false
     },
     {
