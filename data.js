@@ -1,80 +1,93 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.29  19:05",
+  "fetchedAt": "2026.08.29  22:11",
   "sourceColors": {
-    "axismag.jp": {
+    "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "中日新聞Web": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "ファッションプレス": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Google ニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "アットエス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
+    {
+      "source": "Digital AV Magazine",
+      "cat": "展示・アート",
+      "date": "2026.08.29",
+      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
+      "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -154,13 +167,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.29",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "title": "the art of the miniature staircases at cooper hewitt design museum",
+      "url": "https://www.designboom.com/design/art-miniature-staircases-cooper-hewitt-design-museum/",
+      "excerpt": "somewhere between utilitarian model and artistic statuette, these small steps display a mastery of miniature making.\nThe post the art of the miniature staircases at cooper hewitt design museum appeare",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/stairs-cooper-hewitt-designboom-04.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "LPP Rice Bran Oil Refinery / PHTAA",
+      "url": "https://www.archdaily.com/1183945/lpp-rice-bran-oil-refinery-phtaa",
+      "excerpt": "The project explores how ordinary materials and simple construction systems can be carefully reassembled to create a high-performing industrial building. Rather than introducing sophisticated technolo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/d510/ab59/ca01/8994/7533/large_jpg/lpp-rice-bran-oil-refinery-phtaa_16.jpg?1787680026",
       "today": true
     },
     {
@@ -171,6 +194,36 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/studio-khoa-vu-profile-usa-vietnam",
       "excerpt": "The US- and Vietnam-based practice, Studio Khoa Vu, joins the Wallpaper* Architects’ Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b4CxnjExVuj62D3EF2oL7V-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Casa Loto / Ezequiel Farca Studio",
+      "url": "https://www.archdaily.com/1183850/casa-loto-ezequiel-farca-studio",
+      "excerpt": "Casa Loto is a single-story residence set on an elevated site overlooking the ocean in San José del Cabo, Mexico. The architectural concept is organized along a longitudinal axis that defines the arri",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1174/4253/0500/01ca/0357/large_jpg/13.-Casa-Loto.jpg?1787564434",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "ADS House / VOA Arquitetura",
+      "url": "https://www.archdaily.com/1184157/ads-house-voa-arquitetura",
+      "excerpt": "For over twenty years the family's favorite destination, Casa ADS, located on Baleia Beach in São Sebastião, on the coast of São Paulo, underwent its first major renovation, designed by the firm VOA A",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d70/4253/0500/01ca/08db/large_jpg/VOA_ADS__RafaelRenzo__-222.jpg?1787665814",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Sergipe Apartment / Terra Arquitetura",
+      "url": "https://www.archdaily.com/1184143/sergipe-apartment-terra-arquitetura",
+      "excerpt": "Located in a traditional building in Higienópolis, this 230-square-meter apartment underwent a complete transformation to adapt its layout to contemporary living. The firm Terra Arquitetura developed ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/101c/4253/0500/01ca/0be0/large_jpg/365A0154.jpg?1787695210",
       "today": true
     },
     {
@@ -212,16 +265,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Radically Collective: The Legacy of Cuba's Microbrigadas Housing Program",
-      "url": "https://www.archdaily.com/1183812/radically-collective-the-legacy-of-cubas-microbrigadas-housing-program",
-      "excerpt": "In the 1970s, Cuba faced a severe nationwide housing shortage due to population growth, rural-to-urban migration, and the degradation of existing housing stock. The government's answer was a system th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/bc03/ac8b/af01/892c/e4a6/large_jpg/concrete-and-repetition-the-legacy-of-cubas-microbrigadas-in-havana_3.jpg?1787345964",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -229,16 +272,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/leominster-heritage-viral-architecture-video",
       "excerpt": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7SL9TM5GYy4wsrxt3B3zPX-1024-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "A12 Apartment / DKA",
-      "url": "https://www.archdaily.com/1183511/a12-apartment-dka",
-      "excerpt": "A12 Apartment transforms a historic Roman apartment into a contemporary home by using color, geometry, and spatial continuity to establish a new relationship between the existing architecture and ever",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/5531/3cf9/6c00/0178/383d/large_jpg/DKA_A12-living-_Serena-Eller-2.jpg?1787057528",
       "today": true
     },
     {
@@ -291,16 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Semi-construction Site Office / ARCHWASTE",
-      "url": "https://www.archdaily.com/1184064/semi-construction-site-office-archwaste",
-      "excerpt": "ARCHWASTE transforms an irregular ground-floor commercial unit within a Shanghai residential compound into an evolving workplace where construction traces, exposed structures, and everyday functions r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/fba0/a25c/7b00/0125/f6af/large_jpg/14-01.jpg?1787821043",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.28",
@@ -308,16 +331,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/broken-ladders-bird-sculptures-hidden-faces-ricardo-luevano-tokyo-exhibition-the-sky-promised-nothing/",
       "excerpt": "the exhibition brings together paintings, sculptures, digital drawings, and mixed-media works to explore longing, hope, and the enduring human desire to reach beyond perceived limitations.\nThe post br",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ricardo-luevanos-the-sky-promised-nothing-exhibition-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Animà Village / Sordo Madaleno Arquitectos",
-      "url": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
-      "excerpt": "The design concept for The Animá Village has been to create a walkable, human-scale neighborhood with a strong public realm and generous planting.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/2310/ac8b/af01/892c/e6df/large_jpg/anima-village-javier-sordo-madaleno-bringas_10.jpg?1787568967",
       "today": false
     },
     {
@@ -346,16 +359,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/helen-hard-viking-boatbuilding-cabin-sande-norway/",
       "excerpt": "helen & hard pairs viking-era boatbuilding logic with robotic milling to shape cabin sande’s expressive timber frame.\nThe post helen & hard revives viking boatbuilding with whole-tree cabin on norway’",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/cabin-sande-helen-hard-architects-norway-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "byunggwon na’s ALIT lamp balances ceramic, wood and light in one quiet composition",
-      "url": "https://www.designboom.com/design/byunggwon-na-alit-lamp-ceramic-wood-light/",
-      "excerpt": "seoul-based designer byunggwon na combines slip-cast ceramic and wood in ALIT, a modular lamp shaped by light, color and material.\nThe post byunggwon na’s ALIT lamp balances ceramic, wood and light in",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/467612/2026-08-28/byunggwon-nas-alit-lamp-explores-how-ceramic-wood-and-light-interact-1-6a9127568681e.jpg",
       "today": false
     },
     {
