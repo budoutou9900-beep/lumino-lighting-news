@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.30  12:31",
+  "fetchedAt": "2026.08.30  17:08",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -65,9 +65,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -121,20 +129,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.08.30",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.08.30",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.08.30",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
@@ -149,13 +157,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.30",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "title": "designboom shop drop: serene lifestyle objects to design your quiet moments",
+      "url": "https://www.designboom.com/design/designboom-shop-drop-serene-lifestyle-objects-to-design-your-quiet-moments/",
+      "excerpt": "in an overstimulating world, this designboom shop drop helps you curate calm through sound, scent, light, and texture.\nThe post designboom shop drop: serene lifestyle objects to design your quiet mome",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-design-your-quiet-moments-design-objects-designboom02.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "gabled timber cabins by córr nestle into scotland’s rugged landscape",
+      "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
+      "excerpt": "na bothain is a collection of guest cabins designed by córr, perched above the isle of raasay distillery overlooking skye’s cuillin mountains.\nThe post gabled timber cabins by córr nestle into scotlan",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -334,26 +352,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "sculptural table lamps combine 3D printing, graphic geometry, and saturated color",
-      "url": "https://www.designboom.com/design/sculptural-table-lamps-3d-printing-graphic-geometry-saturated-color-charlie-firth-colorful-rebellion/",
-      "excerpt": "charlie firth combines 3D printing with functional table lamps to create memphis-inspired sculptures for the modern-day home.\nThe post sculptural table lamps combine 3D printing, graphic geometry, and",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sculptural-table-lamps-3d-printing-graphic-geometr-saturated-color-charlie-firth-colorful-rebellion-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "broken ladders, bird sculptures, and hidden faces shape ricardo luevanos’ tokyo exhibition",
-      "url": "https://www.designboom.com/art/broken-ladders-bird-sculptures-hidden-faces-ricardo-luevano-tokyo-exhibition-the-sky-promised-nothing/",
-      "excerpt": "the exhibition brings together paintings, sculptures, digital drawings, and mixed-media works to explore longing, hope, and the enduring human desire to reach beyond perceived limitations.\nThe post br",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ricardo-luevanos-the-sky-promised-nothing-exhibition-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "技術・LED",
       "date": "2026.08.26",
@@ -410,6 +408,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -473,6 +481,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -480,6 +498,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
