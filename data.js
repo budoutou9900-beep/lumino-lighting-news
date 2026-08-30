@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.30  00:58",
+  "fetchedAt": "2026.08.30  06:14",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,19 +33,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -159,6 +159,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "Explore the unexpected noble genealogy of the garden gnome",
+      "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome",
+      "excerpt": "In the eleventh instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the garden gnome, the design feature where house and garden meet",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RAtzYUshn2M3te3SAhhWtd-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "Why Art Smith remains a defining figure in modernist jewellery",
+      "url": "https://www.wallpaper.com/watches-jewellery/discover-art-smith-the-legendary-modernist-jewellery-designer",
+      "excerpt": "A new book, 'Bodyworks: The Jewelry of Art Smith,' published by Smithsonian Books, celebrates a jeweller who made modernist jewellery design his own",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YX3psX5LJk9MmypU2FXES-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "The Round Whitehorse Centre / Kerstin Thompson Architects + BKK Architects",
+      "url": "https://www.archdaily.com/1184112/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects",
+      "excerpt": "A public design competition process was led by CityLab and Whitehorse City Council to select the winning design team for the centre and civic precinct.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c85a/b71a/0f01/89f1/b412/large_jpg/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects_12.jpg?1787938913",
+      "today": false
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -237,16 +267,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Rehabilitation of the Orrios Exchange building / Oscar Escuder Arquitectura",
-      "url": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
-      "excerpt": "The Orrios Exchange (Lonja) building reflects the traditional \"Exchange–Town Hall\" typology characteristic of Teruel's vernacular architecture. The structure features a Renaissance loggia with masonry",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1204/4253/0500/01ca/038f/large_jpg/Lonja-12.jpg?1787564585",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -295,32 +315,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Bruce of Los Angeles' vintage photographs celebrate cowboys at ease",
-      "url": "https://www.wallpaper.com/art/photography/bruce-of-los-angeles-paris-acne-paper-palais-royal",
-      "excerpt": "Vince Aletti curates a selection of Bruce of Los Angeles' photographs from his Rodeo series for an exhibition at Acne Paper Palais Royal, Paris",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5CfTnQmkZwGXQoJcJ6zouJ.gif",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.29",
       "title": "This week we reported on a colourful shirt that stops AI video surveillance",
       "url": "https://www.dezeen.com/2026/08/29/anti-ai-shirt-this-week/",
       "excerpt": "This week on Dezeen, designer Simon Weckert unveiled a colourful camouflage shirt that stops users being detected by AI video systems. Named Digital Camouflage, the shirt was developed in response to ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Lee Broom’s hypnotic lighting installation creates a sultry atmosphere",
-      "url": "https://www.wallpaper.com/design-interiors/lighting/lee-broom-the-chant-chambers-london-design-festival-2026",
-      "excerpt": "For London Design Festival 2026, British designer Lee Broom expands his ‘Chant’ collection with varying compositions that are a nostalgic nod to the 1970s",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Pbfsx8h57WNnhwQpjPWjT7-1920-80.png",
       "today": false
     },
     {
