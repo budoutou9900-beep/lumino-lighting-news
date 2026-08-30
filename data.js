@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.30  20:24",
+  "fetchedAt": "2026.08.30  23:04",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -109,16 +109,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.30",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.08.30",
@@ -126,6 +116,16 @@ window.LUMINO_DATA = {
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.08.30",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -157,13 +157,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.08.30",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "manifesta 16 and the past, present, and future of ruhr’s churches",
+      "url": "https://www.designboom.com/art/manifesta-16-past-present-future-ruhr-churches/",
+      "excerpt": "twelve churches across four cities in germany come alive with contemporary art, performances, and community events.\nThe post manifesta 16 and the past, present, and future of ruhr’s churches appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/manifesta-16-ruhr-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "House in Shichiku",
+      "url": "https://www.archdaily.com/1184079/house-in-shichiku",
+      "excerpt": "House in Shichiku is a small Kyoto dwelling that turns away from its neighbors on all four sides, converting the leftover wedges of a cramped flag-shaped lot into gardens and gathering their light in ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/5327/a25c/7b00/0125/f89a/large_jpg/15hstk_094.jpg?1787843601",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "Boroló / AR-AR Martínez Arquitectura y Paisaje + María Paula González Bozzi",
+      "url": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
+      "excerpt": "Located in the Teusaquillo neighborhood—a central area of the city characterized by its historic brick architecture and vibrant cultural dynamics—Boroló offers a contemporary reinterpretation of the t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/f06d/a25c/7b00/0125/f5fb/large_jpg/0_Fachada_principal_Juan_Pi_eros_72.jpg?1787818202",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "Etchegoyen House / wasingerbarletti arquitectos",
+      "url": "https://www.archdaily.com/1184089/etchegoyen-house-wasingerbarletti-arquitectos",
+      "excerpt": "A weekend house among the trees, conceiving the existing landscape as an essential part of the architecture.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/edb7/a25c/7b00/0125/f5c0/large_jpg/04_LUIS_BARANDARI_N.jpg?1787817414",
       "today": true
     },
     {
@@ -265,26 +295,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
-      "url": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara",
-      "excerpt": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste. Two L-shaped blocks of exposed concrete enclose it, one of them twice the hei",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7f/8390/ab59/ca01/8994/5557/large_jpg/the-rise-and-afterlife-of-triestes-rozzol-melara_3.jpg?1786741716",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Public Library in Choszczówka / Ambient",
-      "url": "https://www.archdaily.com/1183710/public-library-in-choszczowka-ambient",
-      "excerpt": "Our goal was to create a place for the local community with inspiring architecture and environmental awareness - energy-efficient, based on renewable resources, using low-emission, natural materials, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/3da6/ac8b/af01/892c/deda/large_jpg/public-library-in-choszczowka-ambient_24.jpg?1787248067",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.30",
@@ -314,16 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Ripples Becoming Everyday Ground / TJAD Original Design Studio",
-      "url": "https://www.archdaily.com/1184066/ripples-becoming-everyday-ground-tjad-original-design-studio",
-      "excerpt": "The embankment dissolves into a chain of gentle mounds—undulating along the river's grain, as if wind-swept ripples were spreading across the water, wave after wave washing up the bank, swelling into ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/0837/c615/2701/88ac/3f75/large_jpg/ripples-becoming-everyday-ground-tjad-original-design-studio_34.jpg?1787824356",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -349,16 +349,6 @@ window.LUMINO_DATA = {
       "title": "Lauri Design Studio renovates \"calm, connected\" Michigan lake house",
       "url": "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
       "excerpt": "This waterfront residence overlooking Michigan's Grand Traverse Bay has been reimagined to include a \"mosh pit\" lounge by California-based Lauri Design Studio. Willow Point was originally built in 200",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "ICON uses one construction system to 3D-print radically different ideas of home",
-      "url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
-      "excerpt": "ICON employs large-scale 3D-printing to build affordable housing, suburban communities, private homes and desert retreats.\nThe post ICON uses one construction system to 3D-print radically different id",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/icon-modes-habitation-designboom-FB.jpg",
       "today": false
     },
     {
