@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.29  22:11",
+  "fetchedAt": "2026.08.30  00:58",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アットエス": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -65,24 +65,16 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
       "excerpt": "",
@@ -91,7 +83,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -101,7 +93,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -111,7 +103,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -121,7 +113,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -131,16 +123,25 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
     {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.08.30",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -148,18 +149,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.08.29",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.29",
+      "date": "2026.08.30",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -174,7 +166,25 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/art-miniature-staircases-cooper-hewitt-design-museum/",
       "excerpt": "somewhere between utilitarian model and artistic statuette, these small steps display a mastery of miniature making.\nThe post the art of the miniature staircases at cooper hewitt design museum appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/stairs-cooper-hewitt-designboom-04.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Art nouveau-style racecourse cafe among projects from the Hong Kong Design Institute",
+      "url": "https://www.dezeen.com/2026/08/29/art-nouveau-style-racecourse-cafe-hong-kong-design-institute-schoolshows/",
+      "excerpt": "Dezeen School Shows: an art neouveau-style cafe and shop located at a racecourse is among the projects from Hong Kong Design Institute. Also featured is a jewellery collection that symbolises healing,",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.29",
+      "title": "Lauri Design Studio renovates \"calm, connected\" Michigan lake house",
+      "url": "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
+      "excerpt": "This waterfront residence overlooking Michigan's Grand Traverse Bay has been reimagined to include a \"mosh pit\" lounge by California-based Lauri Design Studio. Willow Point was originally built in 200",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -184,7 +194,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183945/lpp-rice-bran-oil-refinery-phtaa",
       "excerpt": "The project explores how ordinary materials and simple construction systems can be carefully reassembled to create a high-performing industrial building. Rather than introducing sophisticated technolo",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/d510/ab59/ca01/8994/7533/large_jpg/lpp-rice-bran-oil-refinery-phtaa_16.jpg?1787680026",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -194,7 +204,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/studio-khoa-vu-profile-usa-vietnam",
       "excerpt": "The US- and Vietnam-based practice, Studio Khoa Vu, joins the Wallpaper* Architects’ Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/b4CxnjExVuj62D3EF2oL7V-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -204,7 +214,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183850/casa-loto-ezequiel-farca-studio",
       "excerpt": "Casa Loto is a single-story residence set on an elevated site overlooking the ocean in San José del Cabo, Mexico. The architectural concept is organized along a longitudinal axis that defines the arri",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1174/4253/0500/01ca/0357/large_jpg/13.-Casa-Loto.jpg?1787564434",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -214,7 +224,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184157/ads-house-voa-arquitetura",
       "excerpt": "For over twenty years the family's favorite destination, Casa ADS, located on Baleia Beach in São Sebastião, on the coast of São Paulo, underwent its first major renovation, designed by the firm VOA A",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d70/4253/0500/01ca/08db/large_jpg/VOA_ADS__RafaelRenzo__-222.jpg?1787665814",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -224,7 +234,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184143/sergipe-apartment-terra-arquitetura",
       "excerpt": "Located in a traditional building in Higienópolis, this 230-square-meter apartment underwent a complete transformation to adapt its layout to contemporary living. The firm Terra Arquitetura developed ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/101c/4253/0500/01ca/0be0/large_jpg/365A0154.jpg?1787695210",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -234,7 +244,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
       "excerpt": "The Orrios Exchange (Lonja) building reflects the traditional \"Exchange–Town Hall\" typology characteristic of Teruel's vernacular architecture. The structure features a Renaissance loggia with masonry",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/1204/4253/0500/01ca/038f/large_jpg/Lonja-12.jpg?1787564585",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -243,7 +253,7 @@ window.LUMINO_DATA = {
       "title": "Slanted facade encloses modular Czech home by Papundekl Architects",
       "url": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
       "excerpt": "A tilted facade with large glazed openings was designed to bring an adjacent forest \"directly into the interior\" of this home in the Czech Republic by Prague-based Papundekl Architects. Located in a S",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -252,7 +262,7 @@ window.LUMINO_DATA = {
       "title": "Six farmhouse renovations that bring their bucolic surroundings into view",
       "url": "https://www.dezeen.com/2026/08/29/farmhouse-renovations/",
       "excerpt": "Traditional farmhouses often have thick stone walls that block the view of the natural vistas that surround them. Below, we've gathered six examples of modern interventions that instead open up histor",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -262,7 +272,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
       "excerpt": "ICON employs large-scale 3D-printing to build affordable housing, suburban communities, private homes and desert retreats.\nThe post ICON uses one construction system to 3D-print radically different id",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/icon-modes-habitation-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -272,7 +282,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/leominster-heritage-viral-architecture-video",
       "excerpt": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7SL9TM5GYy4wsrxt3B3zPX-1024-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -282,7 +292,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/the-beauty-of-the-wardrobe",
       "excerpt": "Taken from the Wallpaper* September Style Issue, Hugo Macdonald opines on the beauty of a standalone wardrobe",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Hgsq5mLAN5LVPY6oDfx2Zn-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -292,7 +302,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/bruce-of-los-angeles-paris-acne-paper-palais-royal",
       "excerpt": "Vince Aletti curates a selection of Bruce of Los Angeles' photographs from his Rodeo series for an exhibition at Acne Paper Palais Royal, Paris",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5CfTnQmkZwGXQoJcJ6zouJ.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -301,7 +311,7 @@ window.LUMINO_DATA = {
       "title": "This week we reported on a colourful shirt that stops AI video surveillance",
       "url": "https://www.dezeen.com/2026/08/29/anti-ai-shirt-this-week/",
       "excerpt": "This week on Dezeen, designer Simon Weckert unveiled a colourful camouflage shirt that stops users being detected by AI video systems. Named Digital Camouflage, the shirt was developed in response to ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -311,7 +321,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/lighting/lee-broom-the-chant-chambers-london-design-festival-2026",
       "excerpt": "For London Design Festival 2026, British designer Lee Broom expands his ‘Chant’ collection with varying compositions that are a nostalgic nod to the 1970s",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Pbfsx8h57WNnhwQpjPWjT7-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -321,7 +331,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/sculptural-table-lamps-3d-printing-graphic-geometry-saturated-color-charlie-firth-colorful-rebellion/",
       "excerpt": "charlie firth combines 3D printing with functional table lamps to create memphis-inspired sculptures for the modern-day home.\nThe post sculptural table lamps combine 3D printing, graphic geometry, and",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/sculptural-table-lamps-3d-printing-graphic-geometr-saturated-color-charlie-firth-colorful-rebellion-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -331,24 +341,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/broken-ladders-bird-sculptures-hidden-faces-ricardo-luevano-tokyo-exhibition-the-sky-promised-nothing/",
       "excerpt": "the exhibition brings together paintings, sculptures, digital drawings, and mixed-media works to explore longing, hope, and the enduring human desire to reach beyond perceived limitations.\nThe post br",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/ricardo-luevanos-the-sky-promised-nothing-exhibition-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Eight stylish furnishings by Australian brands",
-      "url": "https://www.dezeen.com/2026/08/28/lighting-furniture-accessories-seating-australian-brands-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: from accessories and lights to seating and tables, the following items are all made down under by Australian design brands. The products stem from various established and emerging des",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.28",
-      "title": "Leroy Street Studio renovates historic New York City theatre for A24",
-      "url": "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
-      "excerpt": "For its first brick-and-mortar venue, production company A24 worked with New York design office Leroy Street Studio to overhaul the city's oldest Off-Broadway theatre to host live productions and scre",
       "today": false
     },
     {
@@ -421,16 +413,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -491,16 +473,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -508,16 +480,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
@@ -557,16 +519,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260717-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/shomei-kagaku.png",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "技術・LED",
-      "date": "2026.07.16",
-      "title": "製品ラインナップ「LEDユニットとリモコンだけで実現する簡単照明制御 Quickシリーズ」ページ公開のお知らせ",
-      "url": "https://www.endo-lighting.co.jp/news/20260716-01/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/Quick.news20260716.png",
       "today": false
     }
   ]
