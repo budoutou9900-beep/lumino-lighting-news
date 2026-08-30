@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.30  17:08",
+  "fetchedAt": "2026.08.30  20:24",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,11 +13,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -106,6 +106,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.30",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -174,6 +184,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
       "excerpt": "na bothain is a collection of guest cabins designed by córr, perched above the isle of raasay distillery overlooking skye’s cuillin mountains.\nThe post gabled timber cabins by córr nestle into scotlan",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "Scarlet House / Frederico Zanelato | Arquitetos",
+      "url": "https://www.archdaily.com/1184146/scarlet-house-frederico-zanelato-arquitetos",
+      "excerpt": "After several years of designing spaces along the beaches of southern Bahia, and moreover, experiencing them firsthand, we reached several conclusions that are materialized in this project. Constant s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/902a/b71a/0f01/89f1/b2c3/large_jpg/casa-escarlate-frederico-zanelato-arquitetos_13.jpg?1787924538",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "Garden Laneway House / Williamson Williamson",
+      "url": "https://www.archdaily.com/1183896/garden-laneway-house-williamson-williamson",
+      "excerpt": "The Garden Laneway House, nestled between garages facing a service lane, is a lyrical collection of modern lines, authentic materials and deliberate views. Clad in a distinct rotated brick facade, it ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/bafb/4253/0500/01ca/05db/large_jpg/22096-133B_sm.jpg?1787607831",
       "today": true
     },
     {
@@ -294,16 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "The Round Whitehorse Centre / Kerstin Thompson Architects + BKK Architects",
-      "url": "https://www.archdaily.com/1184112/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects",
-      "excerpt": "A public design competition process was led by CityLab and Whitehorse City Council to select the winning design team for the centre and civic precinct.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c85a/b71a/0f01/89f1/b412/large_jpg/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects_12.jpg?1787938913",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.29",
@@ -329,16 +349,6 @@ window.LUMINO_DATA = {
       "title": "Lauri Design Studio renovates \"calm, connected\" Michigan lake house",
       "url": "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
       "excerpt": "This waterfront residence overlooking Michigan's Grand Traverse Bay has been reimagined to include a \"mosh pit\" lounge by California-based Lauri Design Studio. Willow Point was originally built in 200",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "LPP Rice Bran Oil Refinery / PHTAA",
-      "url": "https://www.archdaily.com/1183945/lpp-rice-bran-oil-refinery-phtaa",
-      "excerpt": "The project explores how ordinary materials and simple construction systems can be carefully reassembled to create a high-performing industrial building. Rather than introducing sophisticated technolo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/d510/ab59/ca01/8994/7533/large_jpg/lpp-rice-bran-oil-refinery-phtaa_16.jpg?1787680026",
       "today": false
     },
     {
