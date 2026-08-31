@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.31  09:32",
+  "fetchedAt": "2026.08.31  17:21",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -65,9 +65,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -149,6 +157,85 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "John Galliano withdraws from landmark Metropolitan Museum exhibition, following controversy",
+      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/john-galliano-met-costume-institute-show-cancelled",
+      "excerpt": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjq8PqqtjUXTD6MvTcnFBa-1024-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "double-helix stairs frame wetland views inside xiang architects’ wuhan observation tower",
+      "url": "https://www.designboom.com/architecture/double-helix-stairs-wetland-xiang-architects-wuhan-observation-tower/",
+      "excerpt": "xiang architects uses a twisting stair system to turn birdwatching into a continuous climb through the wetland.\nThe post double-helix stairs frame wetland views inside xiang architects’ wuhan observat",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/a-tectonic-narrative-of-perception-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "mineral stone wall enclosure frames tectoniques’ cultural center in france",
+      "url": "https://www.designboom.com/architecture/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine/",
+      "excerpt": "stone, timber, and planted courtyards support the center’s mediterranean climate strategy.\nThe post mineral stone wall enclosure frames tectoniques’ cultural center in france appeared first on designb",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Mattaforma’s creative retreat in a Utah forest offers knotty, cedar-board workspace with a view",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/mattaforma-profile-usa",
+      "excerpt": "US practice Mattaforma and its founder, Lindsey Wikstrom, join the 2026 Wallpaper* Architects’ Directory",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gWHmPwSjbfRJoGxEiFWYbh-1493-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Aesop has redesigned its perfume bottles; its creative director tells us why",
+      "url": "https://www.wallpaper.com/fashion-beauty/aesops-creative-director-unforeseen-aer",
+      "excerpt": "After 20 years, Aesop's perfume bottles get a redesign to coincide with the launch of its latest fragrance. Creative director Aï Kato tells us more",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjFC4Z28bxnuLghesPaYoP-2134-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "António Costa Lima Arquitectos completes warehouse-style housing block in Lisbon",
+      "url": "https://www.dezeen.com/2026/08/31/antonio-costa-lima-arquitectos-praia-do-bom-housing-block-lisbon/",
+      "excerpt": "Portuguese studio António Costa Lima Arquitectos has completed Praia do Bom Sucesso, a block of three homes in Lisbon with an industrial-feeling structure of exposed brickwork and weathered steel. Loc",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Upon Harbor / tip architects",
+      "url": "https://www.archdaily.com/1184037/upon-harbor-tip-architects",
+      "excerpt": "The approach to the program began by understanding the existing complex (Mundet factory), its memory and relationship with the surroundings.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/136f/4253/0500/01ca/0f5f/large_jpg/007.jpg?1787761557",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "3rd DOCOMOMO-PR Seminar",
+      "url": "https://www.archdaily.com/1184241/3rd-docomomo-pr-seminar",
+      "excerpt": "Before establishing itself as a recognized language, modern architecture took shape through progressive shifts in ideas, experimentations, and critical revisions that traversed different cultural and ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/6d72/a25c/7b00/0126/01e5/large_jpg/LOGO_ID_R00_B_edited.jpg?1788177783",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.31",
@@ -168,6 +255,36 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "homo faber 2026 brings 500 craft artists to venice in es devlin’s ‘island of light’",
+      "url": "https://www.designboom.com/design/homo-faber-2026-500-craft-artists-venice-es-devlins-island-light/",
+      "excerpt": "es devlin’s 15 installations use light, water, mirrors, movement, and sound to reshape how visitors encounter contemporary craft.\nThe post homo faber 2026 brings 500 craft artists to venice in es devl",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/homo-faber-2026-500-craft-artists-venice-es-devlins-island-light-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "The City as a System of Health: Breaking Feedback Loops in Planning",
+      "url": "https://www.archdaily.com/1183859/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning",
+      "excerpt": "The spatial consequences of urban form are revealed when health outcomes are mapped over neighborhoods. Neighborhoods that support walking, daily errands, social interaction, and access to essential s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/ae77/ab59/ca01/8994/7733/large_jpg/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning_1.jpg?1787735678",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Weekend Villa / R+R Architects",
+      "url": "https://www.archdaily.com/1184204/weekend-villa-r-plus-r-architects",
+      "excerpt": "Set against the tranquil outskirts of Ahmedabad, the Weekend Villa is envisioned as a contemporary weekend retreat that blurs the boundaries between resort living and residential comfort. Conceived as",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a94/465a/a25c/7b00/0126/0020/large_jpg/Nest_Residence_by_RplusR-7.jpg?1788102328",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.31",
@@ -175,6 +292,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/melissa-auf-der-maurs-new-monograph-chronicles-life-at-the-heart-of-90s-rock-culture",
       "excerpt": "As bassist for Hole and the Smashing Pumpkins, Melissa Auf der Maur experienced the peaks and troughs of the music industry in the 90s. She talks to Wallpaper* about revisiting her contemporary photog",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iEUcWSw75DAGpdFbDvick8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Wildfires in Algeria Highlight the Scale of the Global Fire Landscape",
+      "url": "https://www.archdaily.com/1184225/wildfires-in-algeria-highlight-the-scale-of-the-global-fire-landscape",
+      "excerpt": "Severe late-August wildfires across northern Algeria have brought residential areas, agricultural lands, and critical transport corridors directly into the path of rapidly spreading flames. The destru",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/50fd/b71a/0f01/89f1/b78a/large_jpg/wildfires-in-algeria-highlight-the-scale-of-the-2026-global-fire-landscape_1.jpg?1788170564",
       "today": true
     },
     {
@@ -207,96 +334,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Between Memory and Matter: Inside the Work of Uzbekistan's ARC Architects",
-      "url": "https://www.archdaily.com/1183627/between-memory-and-matter-inside-the-work-of-uzbekistans-arc-architects",
-      "excerpt": "Amid the transformation of Uzbekistan's cities, ARC Architects develops an architecture that seeks to connect past and present. Founded in 2017 by Bobir Klichev, the studio emerged from Bukhara's arch",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/c14d/ac8b/af01/892c/d8a1/large_jpg/between-memory-and-matter-getting-to-know-the-work-of-uzbekistan-based-arc-architects_20.jpg?1787150680",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "A fun-filled office fit for French Touch star Flat Eric",
-      "url": "https://www.wallpaper.com/design-interiors/flat-office-by-state-twenty-eight-perth-australia",
-      "excerpt": "Interior design studio State Twenty Eight translates the glitchy, repetitive rhythm of Mr Oizo’s ‘Flat Beat’ – a track made famous by a yellow puppet in 1990s Levi’s ads – into an eye-catching office ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/P8wxy2qMFf5UktVSVUtZLQ-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Otway Beach House / Kerstin Thompson Architects",
-      "url": "https://www.archdaily.com/1184111/otway-beach-house-kerstin-thompson-architects",
-      "excerpt": "At the edge of a national park, on a site designated 'flame zone,' Otway Beach House takes the regulatory challenge of fire resistance as a generative architectural opportunity. A grounded and monolit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/f8ad/c615/2701/88ac/414e/large_jpg/otway-beach-house-kerstin-thompson-architects_1.jpg?1787885752",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "House in Hino / Shigeo Takizawa Architects",
-      "url": "https://www.archdaily.com/1184110/house-in-hino-shigeo-takizawa-architects",
-      "excerpt": "This house for a couple and their child stands in a quiet residential neighborhood developed on the Tama Hills during the 1960s. Formed by cutting into a north-facing slope, the surrounding landscape ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/f5fb/b71a/0f01/89f1/b0ea/large_jpg/house-in-hino-shigeo-takizawa-architects_4.jpg?1787885068",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Moganshan Liaoyuan Theater / INCLS (One Design)",
-      "url": "https://www.archdaily.com/1184065/moganshan-liaoyuan-theater-incls-one-design",
-      "excerpt": "Moganshan is one of China's oldest and most renowned summer retreats. Since its emergence as a resort destination, its close cultural and economic ties with Shanghai have shaped a distinctive conditio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/fc27/a25c/7b00/0125/f6e7/large_jpg/Zhu_Yumeng-27-web.jpg?1787821156",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "The Plinth House 2 / Luke Stanley Architects",
-      "url": "https://www.archdaily.com/1184208/the-plinth-house-2-luke-stanley-architects",
-      "excerpt": "The Plinth House 2 is the final in a triptych of projects in the bucolic setting of Langdons Hill, just south of Daylesford. The first, completed in 2014, was a compact, yet considered, renovation of ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a94/4ae1/a25c/7b00/0126/0052/large_jpg/01_LSA_Plinth_House_2_17.jpg?1788103424",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "manifesta 16 and the past, present, and future of ruhr’s churches",
-      "url": "https://www.designboom.com/art/manifesta-16-past-present-future-ruhr-churches/",
-      "excerpt": "twelve churches across four cities in germany come alive with contemporary art, performances, and community events.\nThe post manifesta 16 and the past, present, and future of ruhr’s churches appeared ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/manifesta-16-ruhr-designboom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "designboom shop drop: serene lifestyle objects to design your quiet moments",
-      "url": "https://www.designboom.com/design/designboom-shop-drop-serene-lifestyle-objects-to-design-your-quiet-moments/",
-      "excerpt": "in an overstimulating world, this designboom shop drop helps you curate calm through sound, scent, light, and texture.\nThe post designboom shop drop: serene lifestyle objects to design your quiet mome",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-design-your-quiet-moments-design-objects-designboom02.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "gabled timber cabins by córr nestle into scotland’s rugged landscape",
-      "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
-      "excerpt": "na bothain is a collection of guest cabins designed by córr, perched above the isle of raasay distillery overlooking skye’s cuillin mountains.\nThe post gabled timber cabins by córr nestle into scotlan",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.30",
@@ -306,41 +343,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Christine Sun Kim’s first book is a personal and humorous mediation on Deaf culture",
-      "url": "https://www.wallpaper.com/art/christine-sun-kim-deaf-material",
-      "excerpt": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SRSm3DhXNgCYqVfX28r55k.gif",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "An impressive two-volume tome is the ultimate companion to George Lucas’ new LA museum",
-      "url": "https://www.wallpaper.com/art/lucas-museum-of-narrative-art-taschen-book-review",
-      "excerpt": "Taschen takes the reins of the monograph accompanying the new Lucas Museum of Narrative Art monograph. We take a look inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JwWwM5dAZdbh2QyumLM8jT-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.30",
       "title": "Dezeen's top five houses of August 2026",
       "url": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
       "excerpt": "A stone house embedded into the Greek landscape and a sprawling American home with a retractable roof are among the most popular houses featured on Dezeen this month. Also included in our monthly roun",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Foster + Partners designs retail podium to highlight \"precision and modernity\" of Norton Motorcycles",
-      "url": "https://www.dezeen.com/2026/08/30/foster-partners-norton-motorcycles-showroom/",
-      "excerpt": "Foster + Partners Industrial Design has developed a showroom concept for British motorcycle brand Norton Motorcycles, including sleek metal display stands that present the vehicles like sculptures on ",
       "today": false
     },
     {
@@ -400,6 +408,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -463,6 +481,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -470,6 +498,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
