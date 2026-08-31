@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.31  02:59",
+  "fetchedAt": "2026.08.31  09:32",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,19 +21,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -65,17 +65,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -129,16 +121,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.08.31",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.08.31",
@@ -154,6 +136,124 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.08.31",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Dezeen's favourite furniture and lighting from August",
+      "url": "https://www.dezeen.com/2026/08/31/dezeens-favourite-furniture-lighting-august-roundup/",
+      "excerpt": "A scrap-metal-and-glass lamp and a bed made from a stack of pillows feature in this roundup of furniture and lighting spotted by design and interiors reporter Jane Englefield over the past month. Perr",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "ADN FÓRUM turns madrid pink with art, design and a temporary ‘dry port’",
+      "url": "https://www.designboom.com/art/adn-forum-turns-madrid-pink-with-art-design-and-a-temporary-dry-port/",
+      "excerpt": "ADN FÓRUM brings installation art, architecture and design to plaza de colón from september 24 to 27.\nThe post ADN FÓRUM turns madrid pink with art, design and a temporary ‘dry port’ appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adn-forum-turns-madrid-pink-with-art-design-and-a-temporary-dry-port-designboom-19.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Melissa Auf der Maur's new monograph chronicles life at the heart of 90s rock culture",
+      "url": "https://www.wallpaper.com/art/photography/melissa-auf-der-maurs-new-monograph-chronicles-life-at-the-heart-of-90s-rock-culture",
+      "excerpt": "As bassist for Hole and the Smashing Pumpkins, Melissa Auf der Maur experienced the peaks and troughs of the music industry in the 90s. She talks to Wallpaper* about revisiting her contemporary photog",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iEUcWSw75DAGpdFbDvick8-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "disposable retail price tags are reimagined as copper and enamel pins",
+      "url": "https://www.designboom.com/design/disposable-retail-price-tags-copper-enamel-pins-lucie-davis/",
+      "excerpt": "playful, ironic, and quietly provocative, the project invites us to reconsider how we assign value, and to look more closely at the overlooked details of everyday life.\nThe post disposable retail pric",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/precious-price-tag-pins-wearable-collectible-objects-lucie-davis-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "H3O uses \"playful and intelligent gestures\" to update historic Barcelona home",
+      "url": "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
+      "excerpt": "Barcelona-based H3O architects has renovated a 19th-century house in the city's Gracia neighbourhood, taking care to preserve heritage elements while introducing quirky details like hidden windows. Ca",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Managing an architecture icon: what's next for OMA?",
+      "url": "https://www.wallpaper.com/architecture/oma-evolution-netherlands",
+      "excerpt": "We discuss OMA's evolution and future with newly joint managing partners Marianne Anthonissen and David Gianotten – here's what they told us about where the leading architecture studio is heading and ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KUs5zNhYyJkscwpqGtTu-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Between Memory and Matter: Inside the Work of Uzbekistan's ARC Architects",
+      "url": "https://www.archdaily.com/1183627/between-memory-and-matter-inside-the-work-of-uzbekistans-arc-architects",
+      "excerpt": "Amid the transformation of Uzbekistan's cities, ARC Architects develops an architecture that seeks to connect past and present. Founded in 2017 by Bobir Klichev, the studio emerged from Bukhara's arch",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a85/c14d/ac8b/af01/892c/d8a1/large_jpg/between-memory-and-matter-getting-to-know-the-work-of-uzbekistan-based-arc-architects_20.jpg?1787150680",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "A fun-filled office fit for French Touch star Flat Eric",
+      "url": "https://www.wallpaper.com/design-interiors/flat-office-by-state-twenty-eight-perth-australia",
+      "excerpt": "Interior design studio State Twenty Eight translates the glitchy, repetitive rhythm of Mr Oizo’s ‘Flat Beat’ – a track made famous by a yellow puppet in 1990s Levi’s ads – into an eye-catching office ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/P8wxy2qMFf5UktVSVUtZLQ-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Otway Beach House / Kerstin Thompson Architects",
+      "url": "https://www.archdaily.com/1184111/otway-beach-house-kerstin-thompson-architects",
+      "excerpt": "At the edge of a national park, on a site designated 'flame zone,' Otway Beach House takes the regulatory challenge of fire resistance as a generative architectural opportunity. A grounded and monolit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/f8ad/c615/2701/88ac/414e/large_jpg/otway-beach-house-kerstin-thompson-architects_1.jpg?1787885752",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "House in Hino / Shigeo Takizawa Architects",
+      "url": "https://www.archdaily.com/1184110/house-in-hino-shigeo-takizawa-architects",
+      "excerpt": "This house for a couple and their child stands in a quiet residential neighborhood developed on the Tama Hills during the 1960s. Formed by cutting into a north-facing slope, the surrounding landscape ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/f5fb/b71a/0f01/89f1/b0ea/large_jpg/house-in-hino-shigeo-takizawa-architects_4.jpg?1787885068",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.31",
+      "title": "Moganshan Liaoyuan Theater / INCLS (One Design)",
+      "url": "https://www.archdaily.com/1184065/moganshan-liaoyuan-theater-incls-one-design",
+      "excerpt": "Moganshan is one of China's oldest and most renowned summer retreats. Since its emergence as a resort destination, its close cultural and economic ties with Shanghai have shaped a distinctive conditio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/fc27/a25c/7b00/0125/f6e7/large_jpg/Zhu_Yumeng-27-web.jpg?1787821156",
       "today": true
     },
     {
@@ -177,36 +277,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "House in Shichiku",
-      "url": "https://www.archdaily.com/1184079/house-in-shichiku",
-      "excerpt": "House in Shichiku is a small Kyoto dwelling that turns away from its neighbors on all four sides, converting the leftover wedges of a cramped flag-shaped lot into gardens and gathering their light in ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/5327/a25c/7b00/0125/f89a/large_jpg/15hstk_094.jpg?1787843601",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Boroló / AR-AR Martínez Arquitectura y Paisaje + María Paula González Bozzi",
-      "url": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
-      "excerpt": "Located in the Teusaquillo neighborhood—a central area of the city characterized by its historic brick architecture and vibrant cultural dynamics—Boroló offers a contemporary reinterpretation of the t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/f06d/a25c/7b00/0125/f5fb/large_jpg/0_Fachada_principal_Juan_Pi_eros_72.jpg?1787818202",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Etchegoyen House / wasingerbarletti arquitectos",
-      "url": "https://www.archdaily.com/1184089/etchegoyen-house-wasingerbarletti-arquitectos",
-      "excerpt": "A weekend house among the trees, conceiving the existing landscape as an essential part of the architecture.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/edb7/a25c/7b00/0125/f5c0/large_jpg/04_LUIS_BARANDARI_N.jpg?1787817414",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.08.30",
@@ -224,16 +294,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
       "excerpt": "na bothain is a collection of guest cabins designed by córr, perched above the isle of raasay distillery overlooking skye’s cuillin mountains.\nThe post gabled timber cabins by córr nestle into scotlan",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Scarlet House / Frederico Zanelato | Arquitetos",
-      "url": "https://www.archdaily.com/1184146/scarlet-house-frederico-zanelato-arquitetos",
-      "excerpt": "After several years of designing spaces along the beaches of southern Bahia, and moreover, experiencing them firsthand, we reached several conclusions that are materialized in this project. Constant s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/902a/b71a/0f01/89f1/b2c3/large_jpg/casa-escarlate-frederico-zanelato-arquitetos_13.jpg?1787924538",
       "today": false
     },
     {
@@ -275,80 +335,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "A dress and West African textiles are unexpected inspirations for Nwankpa Design’s California home",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/nwankpa-design-profile-usa",
-      "excerpt": "The Southern California practice Nwankpa Design joins the Wallpaper* Architects’ Directory 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AQBh74fAoVcuvXM9a3EBtB-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "C40 cities have built a framework for climate action, but which ones are actually delivering?",
-      "url": "https://www.designboom.com/architecture/c40-cities-framework-climate-action/",
-      "excerpt": "a closer look at emissions trajectories reveals a smaller group of cities that have turned those mechanisms into measurable reductions.\nThe post C40 cities have built a framework for climate action, b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/c40-cities-framework-climate-action-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Explore the unexpected noble genealogy of the garden gnome",
-      "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome",
-      "excerpt": "In the eleventh instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the garden gnome, the design feature where house and garden meet",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RAtzYUshn2M3te3SAhhWtd-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.08.30",
       "title": "Foster + Partners designs retail podium to highlight \"precision and modernity\" of Norton Motorcycles",
       "url": "https://www.dezeen.com/2026/08/30/foster-partners-norton-motorcycles-showroom/",
       "excerpt": "Foster + Partners Industrial Design has developed a showroom concept for British motorcycle brand Norton Motorcycles, including sleek metal display stands that present the vehicles like sculptures on ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Why Art Smith remains a defining figure in modernist jewellery",
-      "url": "https://www.wallpaper.com/watches-jewellery/discover-art-smith-the-legendary-modernist-jewellery-designer",
-      "excerpt": "A new book, 'Bodyworks: The Jewelry of Art Smith,' published by Smithsonian Books, celebrates a jeweller who made modernist jewellery design his own",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YX3psX5LJk9MmypU2FXES-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "the art of the miniature staircases at cooper hewitt design museum",
-      "url": "https://www.designboom.com/design/art-miniature-staircases-cooper-hewitt-design-museum/",
-      "excerpt": "somewhere between utilitarian model and artistic statuette, these small steps display a mastery of miniature making.\nThe post the art of the miniature staircases at cooper hewitt design museum appeare",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/stairs-cooper-hewitt-designboom-04.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Art nouveau-style racecourse cafe among projects from the Hong Kong Design Institute",
-      "url": "https://www.dezeen.com/2026/08/29/art-nouveau-style-racecourse-cafe-hong-kong-design-institute-schoolshows/",
-      "excerpt": "Dezeen School Shows: an art neouveau-style cafe and shop located at a racecourse is among the projects from Hong Kong Design Institute. Also featured is a jewellery collection that symbolises healing,",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.29",
-      "title": "Lauri Design Studio renovates \"calm, connected\" Michigan lake house",
-      "url": "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
-      "excerpt": "This waterfront residence overlooking Michigan's Grand Traverse Bay has been reimagined to include a \"mosh pit\" lounge by California-based Lauri Design Studio. Willow Point was originally built in 200",
       "today": false
     },
     {
@@ -408,16 +400,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -481,16 +463,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -498,16 +470,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
