@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.08.30  23:04",
+  "fetchedAt": "2026.08.31  02:59",
   "sourceColors": {
     "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -82,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
       "excerpt": "",
@@ -91,7 +91,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -101,7 +101,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -111,7 +111,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -121,7 +121,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -141,7 +141,7 @@ window.LUMINO_DATA = {
     {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
@@ -150,11 +150,21 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.08.30",
+      "date": "2026.08.31",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.08.30",
+      "title": "The Plinth House 2 / Luke Stanley Architects",
+      "url": "https://www.archdaily.com/1184208/the-plinth-house-2-luke-stanley-architects",
+      "excerpt": "The Plinth House 2 is the final in a triptych of projects in the bucolic setting of Langdons Hill, just south of Daylesford. The first, completed in 2014, was a compact, yet considered, renovation of ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a94/4ae1/a25c/7b00/0126/0052/large_jpg/01_LSA_Plinth_House_2_17.jpg?1788103424",
+      "today": false
     },
     {
       "source": "designboom",
@@ -164,7 +174,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/manifesta-16-past-present-future-ruhr-churches/",
       "excerpt": "twelve churches across four cities in germany come alive with contemporary art, performances, and community events.\nThe post manifesta 16 and the past, present, and future of ruhr’s churches appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/manifesta-16-ruhr-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -174,7 +184,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184079/house-in-shichiku",
       "excerpt": "House in Shichiku is a small Kyoto dwelling that turns away from its neighbors on all four sides, converting the leftover wedges of a cramped flag-shaped lot into gardens and gathering their light in ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/5327/a25c/7b00/0125/f89a/large_jpg/15hstk_094.jpg?1787843601",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -184,7 +194,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
       "excerpt": "Located in the Teusaquillo neighborhood—a central area of the city characterized by its historic brick architecture and vibrant cultural dynamics—Boroló offers a contemporary reinterpretation of the t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/f06d/a25c/7b00/0125/f5fb/large_jpg/0_Fachada_principal_Juan_Pi_eros_72.jpg?1787818202",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -194,7 +204,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184089/etchegoyen-house-wasingerbarletti-arquitectos",
       "excerpt": "A weekend house among the trees, conceiving the existing landscape as an essential part of the architecture.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8f/edb7/a25c/7b00/0125/f5c0/large_jpg/04_LUIS_BARANDARI_N.jpg?1787817414",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -204,7 +214,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-serene-lifestyle-objects-to-design-your-quiet-moments/",
       "excerpt": "in an overstimulating world, this designboom shop drop helps you curate calm through sound, scent, light, and texture.\nThe post designboom shop drop: serene lifestyle objects to design your quiet mome",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/designboom-shop-drop-design-your-quiet-moments-design-objects-designboom02.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -214,7 +224,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
       "excerpt": "na bothain is a collection of guest cabins designed by córr, perched above the isle of raasay distillery overlooking skye’s cuillin mountains.\nThe post gabled timber cabins by córr nestle into scotlan",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -224,17 +234,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184146/scarlet-house-frederico-zanelato-arquitetos",
       "excerpt": "After several years of designing spaces along the beaches of southern Bahia, and moreover, experiencing them firsthand, we reached several conclusions that are materialized in this project. Constant s",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/902a/b71a/0f01/89f1/b2c3/large_jpg/casa-escarlate-frederico-zanelato-arquitetos_13.jpg?1787924538",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Garden Laneway House / Williamson Williamson",
-      "url": "https://www.archdaily.com/1183896/garden-laneway-house-williamson-williamson",
-      "excerpt": "The Garden Laneway House, nestled between garages facing a service lane, is a lyrical collection of modern lines, authentic materials and deliberate views. Clad in a distinct rotated brick facade, it ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/bafb/4253/0500/01ca/05db/large_jpg/22096-133B_sm.jpg?1787607831",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -243,7 +243,7 @@ window.LUMINO_DATA = {
       "title": "Sloping green roofs \"keep the family connected\" at Indonesian home",
       "url": "https://www.dezeen.com/2026/08/30/split-mass-residence-k-thengono-design-studio-indonesia/",
       "excerpt": "Grassy rooftops and PE rattan facades characterise Split Mass Residence in Indonesia, which local firm K-Thengono Design Studio designed with multi-level social spaces for the family to gather. Locate",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -253,7 +253,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/christine-sun-kim-deaf-material",
       "excerpt": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SRSm3DhXNgCYqVfX28r55k.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -263,7 +263,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/lucas-museum-of-narrative-art-taschen-book-review",
       "excerpt": "Taschen takes the reins of the monograph accompanying the new Lucas Museum of Narrative Art monograph. We take a look inside",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JwWwM5dAZdbh2QyumLM8jT-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -272,7 +272,7 @@ window.LUMINO_DATA = {
       "title": "Dezeen's top five houses of August 2026",
       "url": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
       "excerpt": "A stone house embedded into the Greek landscape and a sprawling American home with a retractable roof are among the most popular houses featured on Dezeen this month. Also included in our monthly roun",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -282,7 +282,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/nwankpa-design-profile-usa",
       "excerpt": "The Southern California practice Nwankpa Design joins the Wallpaper* Architects’ Directory 2026",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AQBh74fAoVcuvXM9a3EBtB-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -292,7 +292,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/c40-cities-framework-climate-action/",
       "excerpt": "a closer look at emissions trajectories reveals a smaller group of cities that have turned those mechanisms into measurable reductions.\nThe post C40 cities have built a framework for climate action, b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/c40-cities-framework-climate-action-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -302,7 +302,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome",
       "excerpt": "In the eleventh instalment of ‘Objectify’, architect Carlo Ratti turns his attention to the garden gnome, the design feature where house and garden meet",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RAtzYUshn2M3te3SAhhWtd-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -311,7 +311,7 @@ window.LUMINO_DATA = {
       "title": "Foster + Partners designs retail podium to highlight \"precision and modernity\" of Norton Motorcycles",
       "url": "https://www.dezeen.com/2026/08/30/foster-partners-norton-motorcycles-showroom/",
       "excerpt": "Foster + Partners Industrial Design has developed a showroom concept for British motorcycle brand Norton Motorcycles, including sleek metal display stands that present the vehicles like sculptures on ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -321,7 +321,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/discover-art-smith-the-legendary-modernist-jewellery-designer",
       "excerpt": "A new book, 'Bodyworks: The Jewelry of Art Smith,' published by Smithsonian Books, celebrates a jeweller who made modernist jewellery design his own",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YX3psX5LJk9MmypU2FXES-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -537,16 +537,6 @@ window.LUMINO_DATA = {
       "title": "夏季休業のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20260724-1/",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "国内情報",
-      "date": "2026.07.17",
-      "title": "お役立ちBOOK発刊「照明科学」",
-      "url": "https://www.endo-lighting.co.jp/news/20260717-01/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/07/shomei-kagaku.png",
       "today": false
     }
   ]
