@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.01  20:24",
+  "fetchedAt": "2026.09.01  22:56",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,53 +25,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -86,13 +82,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.01",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.01",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -131,15 +137,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.01",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.01",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
     },
