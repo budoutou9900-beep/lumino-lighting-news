@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.01  07:06",
+  "fetchedAt": "2026.09.01  12:58",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,31 +13,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "sanyonews.jp": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "アットエス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,27 +45,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     }
@@ -95,30 +95,20 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.01",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "sanyonews.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.01",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.01",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -141,6 +131,160 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.01",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.01",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "julie blackmon’s midwest materials is a memory of the american landscape",
+      "url": "https://www.designboom.com/art/julie-blackmon-midwest-materials-photographs-memory-american-landscape/",
+      "excerpt": "with soccer balls flying, hot pavement, and summer days, blackmon depicts a bucolic vision of american suburban life that feels like it was lived just this afternoon.\nThe post julie blackmon’s midwest",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/midwest-materials-designboom-04.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "KOGAA transforms former industrial hall in Czech Republic into art gallery",
+      "url": "https://www.dezeen.com/2026/09/01/kogaa-smeral-art-factory/",
+      "excerpt": "Mint-green metal signals the transformation of this former industrial shed in the Czech Republic into Šmeral Art Factory, carried out by local architecture studio KOGAA. The exhibition and events spac",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Dyson's first toothbrush \"uses a camera to floss while you brush\"",
+      "url": "https://www.dezeen.com/2026/09/01/dyson-camerajet-first-toothbrush-floss/",
+      "excerpt": "Technology company Dyson has launched the CameraJet electric toothbrush, which includes a mouthwash jet that is directed by a camera to remove plaque between teeth. Named the Dyson CameraJet, the elec",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Hamburg’s Elbphilharmonie turns ten. Join the celebrations",
+      "url": "https://www.wallpaper.com/architecture/elbphilharmonie-anniversary-book-germany",
+      "excerpt": "The Elbphilharmonie by Herzog & de Meuron is about to mark its tenth anniversary and reveals a festive programme, including a celebratory concert, which you can watch live, below, on 1 September 2026 ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RGekbzHgdBWJDmhyAHcvnF-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "OMA co-founder Elia Zenghelis dies aged 89",
+      "url": "https://www.dezeen.com/2026/09/01/elia-zenghelis-obiturary/",
+      "excerpt": "Greek architect Elia Zenghelis, one of the co-founders of international architecture firm OMA, has passed away at the age of 89. Elia Zenghelis, who was also an influential architectural educator and ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "tamagotchi shrinks its classic digital pet into a wearable ring with LCD color screen",
+      "url": "https://www.designboom.com/technology/tamagotchi-classic-digital-pet-wearable-ring-lcd-color-screen-bandai/",
+      "excerpt": "users can feed, care for, and play with the digital creature directly from their finger.\nThe post tamagotchi shrinks its classic digital pet into a wearable ring with LCD color screen appeared first o",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tamagotchi-classic-digital-pet-wearable-ring-lcd-color-screen-Bandai-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "PoOR Collective celebrates London housing estates in its debut rug design for Floor Story",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/poor-collective-rug-design-floor-story-housing-estates",
+      "excerpt": "For its debut rug design, POoR Collective translates tower-block architecture into a joyful and optimistic flatwoven pattern",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/68UJbpY7JN9umXsg7bdjTT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Manchester City and Puma unveil AI-designed kit",
+      "url": "https://www.dezeen.com/2026/09/01/manchester-city-ai-kit-puma/",
+      "excerpt": "Sportswear brand Puma has launched a kit for English football team Manchester City that was designed by a fan using an AI generator. The shirt was designed using Puma's AI Creator, which is described ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Dyson CameraJet is a tech-driven toothbrush with an onboard optical system",
+      "url": "https://www.wallpaper.com/tech/dyson-camerajet-toothbrush",
+      "excerpt": "Dyson moves into oral healthcare. Early adopters can now acquire a WiFi-enabled, camera-equipped, high-tech toothbrush, trained on massive datasets to floss automatically",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/78GX5k8C9i6VCdekc6BteX-1819-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Escapism in Architecture: ArchDaily's September Editorial Focus",
+      "url": "https://www.archdaily.com/1184284/escapism-in-architecture-archdailys-september-editorial-focus",
+      "excerpt": "At a moment when architects across the globe are revisiting earthen construction, reassessing vernacular technologies, and forging visceral connections between communities and the land beneath their f",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/dcfa/060f/9201/8b20/bf1b/large_jpg/escapism-in-architecture-archdailys-september-editorial-focus_1.jpg?1788206339",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Climate Infrastructure at Human Scale: From Water Management to Urban Cooling",
+      "url": "https://www.archdaily.com/1184153/climate-infrastructure-at-human-scale-from-water-management-to-urban-cooling",
+      "excerpt": "Water management, air quality, and heat mitigation are usually planned through systems much larger than the spaces where people actually experience them. Drainage networks sit below the street. Air po",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/9d70/b71a/0f01/89f1/b30a/large_jpg/climate-infrastructure-at-human-scale_4.jpg?1787927926",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Eight architecture and design events in September from Dezeen Events Guide",
+      "url": "https://www.dezeen.com/2026/09/01/eight-architecture-design-events-september-dezeen-events-guide-2026/",
+      "excerpt": "Lake Como Design Festival, London Design Festival, Detroit Month of Design and Tallinn Design Festival are among the architecture and design events featured in Dezeen Events Guide this September. Othe",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "kengo kuma honored with andrée putman lifetime achievement award 2027",
+      "url": "https://www.designboom.com/architecture/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards/",
+      "excerpt": "the japanese architect is recognized for a career spanning more than three decades, shaped by an ongoing exploration of architecture’s relationship with nature, material, and tradition.\nThe post kengo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Kaymana Earth Villa / Pablo Luna Studio",
+      "url": "https://www.archdaily.com/1184232/kaymana-earth-villa-pablo-luna-studio",
+      "excerpt": "Earth Villa is part of Kaymana, a hospitality complex in Uluwatu, Bali, conceived around the ideas of solid flow, transition, and permanence. The architecture is rooted in the landscape: its solid, cu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/5bb3/a25c/7b00/0126/0170/large_jpg/Drone_3.jpg?1788173257",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.01",
@@ -148,6 +292,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/kvadrat-febrik-and-front-design-to-create-a-nature-inspired-fabric-for-bang-and-olufsen",
       "excerpt": "The Bang & Olufsen x Kvadrat Beosound A9 features Woolscape, a new fabric dreamt up by Kvadrat and Front, inspired by nature and tuned for acoustic perfection",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XyCbe82FFWq8fnZDNXvVMc-1200-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Kengo Kuma to Receive the 2027 Andrée Putman Lifetime Achievement Award",
+      "url": "https://www.archdaily.com/1184310/kengo-kuma-to-receive-the-2027-andree-putman-lifetime-achievement-award",
+      "excerpt": "Japanese architect Kengo Kuma has been selected to receive the Andrée Putman Lifetime Achievement Award at the 2027 Créateurs Design Awards (CDA). The award, one of two Legacy Awards presented by the ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/7f33/b853/2e01/895b/6afb/large_jpg/kengo-kuma-to-receive-the-2027-andree-putman-lifetime-achievement-award_11.jpg?1788247907",
       "today": true
     },
     {
@@ -161,6 +315,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "House on Concrete Walls / dolmus Architekten",
+      "url": "https://www.archdaily.com/1183911/house-on-concrete-walls-dolmus-architekten",
+      "excerpt": "The architectural placement of the house with a secondary apartment responds strongly to the sloping topography of the neighborhood.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/4e18/4253/0500/01ca/06c0/large_jpg/24.04_Schuepfheim_Haus-auf-Scheiben_Dolmus-Architekten_Egemen-Karakaya_Aussenfoto_01pg.jpg?1787645486",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.01",
@@ -168,16 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/obel-award-winner-2026-balearic-social-housing-model",
       "excerpt": "The Balearic Social Housing Model is crowned the OBEL Award winner 2026 for its pioneering approach, born from within a public administration",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vuj5VFidqse6SFwVTvJ93R-1126-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "In Tenerife, On unites with land artist Strijdom van der Merwe to mark its latest PAF collaboration",
-      "url": "https://www.wallpaper.com/fashion-beauty/on-collaboration-paf-strijdom-van-der-merwe-artist",
-      "excerpt": "The South African artist has created a trail running loop in Tenerife’s rugged Poris Desert, setting the stage for ‘Current Forms 5.0’, the latest collaboration between Swiss activewear brand On and K",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dTim6Qx7mnJxFidpewCNBG-1800-80.jpg",
       "today": true
     },
     {
@@ -189,151 +343,6 @@ window.LUMINO_DATA = {
       "excerpt": "atelier gram retains přerov city hall’s original 1969 modernist structure.\nThe post steel layered facade revives 1969 modernist city hall in czech republic appeared first on designboom | architecture ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/reconstruction-prerov-city-hall-open-multifunctional-civic-facility-atelier-gram-designboom-1200-1-1.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
-      "url": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
-      "excerpt": "The Yakisugi Cabin explores architecture shaped by what is already available — where material constraint becomes a generative design tool rather than a limitation. Conceived as a compact, relocatable ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/fdc6/b71a/0f01/89f1/b16a/large_jpg/the-yakisugi-cabin-alki-architecture-plus-design-studio_31.jpg?1787887073",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "The Balearic Social Housing Model Receives the 2026 OBEL Award",
-      "url": "https://www.archdaily.com/1184293/the-balearic-social-housing-model-receives-the-2026-obel-award",
-      "excerpt": "Amid growing economic, political, and climatic instability, the 2026 OBEL Award highlights the need for architectural approaches that rethink both existing and emerging infrastructures. The title for ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4b7b/b853/2e01/895b/69c6/large_jpg/the-balearic-social-housing-model-receives-the-2026-obel-award_21.jpg?1788234646",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Wanhua Green Heart Food Market, Yunlang Canteen / XU Studio",
-      "url": "https://www.archdaily.com/1184093/wanhua-green-heart-food-market-yunlang-canteen-xu-studio",
-      "excerpt": "Luhu Yunlang Canteen - Commissioned by Wanhua, XU Studio designed Yunlang Canteen and Lushang Youxuan Market as key commercial amenities for the Luhu residential community. The project is anchored aro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/6da4/b71a/0f01/89f1/b03a/large_jpg/wanhua-green-heart-food-market-yunlang-canteen-xu-studio_12.jpg?1787850159",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "seven porsches’ journey across europe turns into film, photography and installation artwork",
-      "url": "https://www.designboom.com/technology/seven-porsches-journey-europe-film-photography-installation-artwork-pawel-kalinowski/",
-      "excerpt": "seven classic porsches, twelve people and 4,000 km per car are being transformed into film, photography, artefacts, and a physical art installation.\nThe post seven porsches’ journey across europe turn",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/seven-classic-porsches-journey-film-photography-installation-pawel-kalinowski-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "The Balvenie releases the world’s oldest whisky. Discover it here",
-      "url": "https://www.wallpaper.com/entertaining/food-drink/the-balvenie-88-year-old-single-malt-whisky-daniel-arsham-collaboration",
-      "excerpt": "The 1931 Collection includes an 88-year-old Single Malt Scotch Whisky – like ‘a relic uncovered’ in its Daniel Arsham-designed sculptural showcase",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3JKdgiEetRxC4tS7t3hDWJ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Twelve installations designed by architects at Burning Man over the years",
-      "url": "https://www.dezeen.com/2026/08/31/burning-man-40-years-architects/",
-      "excerpt": "As Burning Man kicks off its 40th-anniversary event in Nevada, we rounded up the work of 12 architecture studios featured at the festival over the years, including BIG and Arthur Mamou-Mani. Larry Har",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "how architecture has made space for animals across history",
-      "url": "https://www.designboom.com/architecture/space-animals-history/",
-      "excerpt": "rom pigeon towers and silkworm lofts to aristocratic stables and industrial farms, architecture has long organized space around nonhuman life.\nThe post how architecture has made space for animals acro",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/space-animals-history-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Casa Attraverso il Patio / otro estudio",
-      "url": "https://www.archdaily.com/1184281/casa-attraverso-il-patio-otro-estudio",
-      "excerpt": "To cross through something. To be crossed by something. Crossing implies movement, an experience built over time. Daily, in one way or another, we inhabit these journeys. Gabi is about to embark on a ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/c75f/a43c/3b00/01ea/0f3f/large_jpg/Casa_Attraverso_il_patio___Ramiro_Sosa__14_.jpg?1788200872",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "beads, crystals, and steel visualize cloud formations within exhibition in china",
-      "url": "https://www.designboom.com/art/beads-crystals-steel-cloud-formations-exhibition-china-tia-thuy-nguyen-fields-resonance/",
-      "excerpt": "fields of resonance transforms shifting skies into tactile paintings, sculptures, and spatial installations at almine rech shanghai.\nThe post beads, crystals, and steel visualize cloud formations with",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/tia-thuy-nguyen-fields-resonance-cloud-exhibition-china-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Retirement Home / Ricardo Azevedo Arquitecto",
-      "url": "https://www.archdaily.com/1035548/retirement-home-ricardo-azevedo-arquitecto",
-      "excerpt": "It is widely acknowledged that the practice of architecture never begins with a blank slate. There is always something—no matter how small—intrinsic to ourselves and embedded in the surrounding contex",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6902/8922/f582/e201/8911/c278/large_jpg/moradia-do-retiro-ricardo-azevedo-arquitecto_15.jpg?1761773871",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "John Galliano withdraws from landmark Metropolitan Museum exhibition, following controversy",
-      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/john-galliano-met-costume-institute-show-cancelled",
-      "excerpt": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjq8PqqtjUXTD6MvTcnFBa-1024-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "António Costa Lima Arquitectos completes warehouse-style housing block in Lisbon",
-      "url": "https://www.dezeen.com/2026/08/31/antonio-costa-lima-arquitectos-praia-do-bom-housing-block-lisbon/",
-      "excerpt": "Portuguese studio António Costa Lima Arquitectos has completed Praia do Bom Sucesso, a block of three homes in Lisbon with an industrial-feeling structure of exposed brickwork and weathered steel. Loc",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Dezeen's favourite furniture and lighting from August",
-      "url": "https://www.dezeen.com/2026/08/31/dezeens-favourite-furniture-lighting-august-roundup/",
-      "excerpt": "A scrap-metal-and-glass lamp and a bed made from a stack of pillows feature in this roundup of furniture and lighting spotted by design and interiors reporter Jane Englefield over the past month. Perr",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "H3O uses \"playful and intelligent gestures\" to update historic Barcelona home",
-      "url": "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
-      "excerpt": "Barcelona-based H3O architects has renovated a 19th-century house in the city's Gracia neighbourhood, taking care to preserve heritage elements while introducing quirky details like hidden windows. Ca",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.08.30",
-      "title": "Sloping green roofs \"keep the family connected\" at Indonesian home",
-      "url": "https://www.dezeen.com/2026/08/30/split-mass-residence-k-thengono-design-studio-indonesia/",
-      "excerpt": "Grassy rooftops and PE rattan facades characterise Split Mass Residence in Indonesia, which local firm K-Thengono Design Studio designed with multi-level social spaces for the family to gather. Locate",
-      "today": false
     },
     {
       "source": "岩崎電気",
@@ -353,6 +362,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "遠藤照明",
+      "cat": "国内情報",
+      "date": "2026.08.26",
+      "title": "製品ラインナップ「光を「描く」という新しい照明表現 プロジェクター型スポットライト MUZÈO」ページ公開のお知らせ",
+      "url": "https://www.endo-lighting.co.jp/news/20260826-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/09/muzeo_news.png",
       "today": false
     },
     {
@@ -512,6 +531,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol52.html",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
+      "today": false
+    },
+    {
+      "source": "遠藤照明",
+      "cat": "国内情報",
+      "date": "2026.07.27",
+      "title": "製品ラインナップ「”魅せる”ことにこだわった調光調色照明 Synca Bright」ページ公開のお知らせ",
+      "url": "https://www.endo-lighting.co.jp/news/20260727-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/08/Synca-Bright-www.endo-lighting.co_.jp_-1.png",
       "today": false
     },
     {
