@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.01  12:58",
+  "fetchedAt": "2026.09.01  17:12",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "Google ニュース": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "アットエス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,10 +96,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.01",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -140,13 +144,119 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.01",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Alaska Airlines launches its first-ever International Business Class suites",
+      "url": "https://www.wallpaper.com/travel/alaska-airlines-international-business-class-suites-launch",
+      "excerpt": "Inside Alaska Airlines’ new Boeing 787-9 Business Class, with lie-flat suites, Filson amenities and destination-led dining",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5acADo3uMX6NEBTswgCpAA-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Gohar World dishes up a surrealist shoe collab with Asics. Shop it now",
+      "url": "https://www.wallpaper.com/fashion-beauty/accessories/gohar-world-asics-shoe-collab",
+      "excerpt": "These ballerinas feature a sporty silhouette and –yes –piercings. Snag a pair before they sell out",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4jco4MqoTFdE2gptxBPL4c-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Splash out on Tom Dixon’s new glassware collection for Nude",
+      "url": "https://www.wallpaper.com/design-interiors/splash-out-on-tom-dixons-new-glassware-collection-for-nude",
+      "excerpt": "The debut collection of British designer Tom Dixon and Turkish glass expert Nude, ‘Splash’, is a sensory treat inspired by watery ripples and ruffles",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VrEHiHQ6S74jDeibMbJSh7-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "concrete, firebrick, and steel form community oven in the alpine landscape",
+      "url": "https://www.designboom.com/design/concrete-firebrick-steel-community-oven-alpine-landscape-studio-carraldo-backdirwas-5/",
+      "excerpt": "the oven translates alpine construction traditions into contemporary materials.\nThe post concrete, firebrick, and steel form community oven in the alpine landscape appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-carraldo-backdirwas-5-community-oven-boden-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Exutoire’s Hanoi tube house makes a case for never demolishing",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/2026-exutoire-profile-vietnam",
+      "excerpt": "Vietnamese critical spatial practice Exutoire joins the Wallpaper* Architects’ Directory 2026 – take a tour of its 3m-wide 1990s property renovated for light, air and collective living",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hxMkxutk8No7PH3gz7NtpV-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "MVRDV to stack colorful WOMA housing around fornasetti mosaic plaza in miami",
+      "url": "https://www.designboom.com/architecture/mvrdv-colorful-woma-housing-fornasetti-miami-wynwood-uribe-schwarzkopf/",
+      "excerpt": "textile-inspired facades by MVRDV break a 163-home miami development into stacked blocks around a mosaic public plaza.\nThe post MVRDV to stack colorful WOMA housing around fornasetti mosaic plaza in m",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/woma-mvrdv-miami-wynwood-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "The Bentley Supersports sets the pace for the marque’s new era, without any electric motors",
+      "url": "https://www.wallpaper.com/transportation/bentley-supersports-review",
+      "excerpt": "On the eve of Bentley's EV debut, the company has also unveiled its high-powered Supersports, a race-tuned GT that doubles down on driver involvement",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8MairZnVRijLGn4K9W9ngk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "MVRDV \"prioritises human scale\" in design of colourful Miami building",
+      "url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
+      "excerpt": "Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami's Wynwood neighbourhood with a central plaza and a facade broken up into colour-blocked sections. Developed by Uribe S",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Theatre designed to mirror \"emotional arc of performance\" among projects by George Washington University",
+      "url": "https://www.dezeen.com/2026/09/01/theatre-emotional-arc-performance-george-washington-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a performing arts space for students influenced by the physical and emotional arc of performance itself is among the latest projects by George Washington University. Also featured",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "US Supreme Court says construction of Trump's White House ballroom can continue",
+      "url": "https://www.dezeen.com/2026/09/01/us-supreme-court-trump-white-house-ballroom-continue/",
+      "excerpt": "Yesterday, the United States' highest court said that the construction on the above-ground elements of the White House ballroom extension can continue. The Supreme Court lifted the temporary ban that ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Pangea Blue marble by Antolini",
+      "url": "https://www.dezeen.com/2026/09/01/pangea-blue-marble-antolini-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: an ocean-like swirl of deep blue, white and gold veining characterises the Pangea Blue marble offered by Italian stone brand Antolini. Part of Antolini's Exclusive Collection, Pangea ",
       "today": true
     },
     {
@@ -169,31 +279,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "Dyson's first toothbrush \"uses a camera to floss while you brush\"",
-      "url": "https://www.dezeen.com/2026/09/01/dyson-camerajet-first-toothbrush-floss/",
-      "excerpt": "Technology company Dyson has launched the CameraJet electric toothbrush, which includes a mouthwash jet that is directed by a camera to remove plaque between teeth. Named the Dyson CameraJet, the elec",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Hamburg’s Elbphilharmonie turns ten. Join the celebrations",
-      "url": "https://www.wallpaper.com/architecture/elbphilharmonie-anniversary-book-germany",
-      "excerpt": "The Elbphilharmonie by Herzog & de Meuron is about to mark its tenth anniversary and reveals a festive programme, including a celebratory concert, which you can watch live, below, on 1 September 2026 ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RGekbzHgdBWJDmhyAHcvnF-1416-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "OMA co-founder Elia Zenghelis dies aged 89",
-      "url": "https://www.dezeen.com/2026/09/01/elia-zenghelis-obiturary/",
-      "excerpt": "Greek architect Elia Zenghelis, one of the co-founders of international architecture firm OMA, has passed away at the age of 89. Elia Zenghelis, who was also an influential architectural educator and ",
+      "title": "Junqueira 307 Apartments  / Fragmentos",
+      "url": "https://www.archdaily.com/1183898/junqueira-307-apartments-fragmentos",
+      "excerpt": "On Rua da Junqueira, in the historic waterfront stretch of Lisbon between Alcântara and Belém, a former warehouse and plastics shop known as Mitera has been rehabilitated and extended into a residenti",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/bc6d/4253/0500/01ca/0604/large_jpg/Fragmentos_Junqueira_307__Tiago_Sales_010.jpg?1787608558",
       "today": true
     },
     {
@@ -207,32 +299,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "PoOR Collective celebrates London housing estates in its debut rug design for Floor Story",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/poor-collective-rug-design-floor-story-housing-estates",
-      "excerpt": "For its debut rug design, POoR Collective translates tower-block architecture into a joyful and optimistic flatwoven pattern",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/68UJbpY7JN9umXsg7bdjTT-2560-80.jpg",
+      "title": "Skin the Architect",
+      "url": "https://www.archdaily.com/1184322/skin-the-architect",
+      "excerpt": "SKIN THE ARCHITECT is an interactive installation by LAIDA - the Latvian Architecture and Design Union - created in response to the theme of this year's Tallinn Architecture Biennale: HOW MUCH? It is ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/d4b9/d93e/3d00/01db/812f/large_jpg/2-post-1080x1350.jpg?1788269759",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "Manchester City and Puma unveil AI-designed kit",
-      "url": "https://www.dezeen.com/2026/09/01/manchester-city-ai-kit-puma/",
-      "excerpt": "Sportswear brand Puma has launched a kit for English football team Manchester City that was designed by a fan using an AI generator. The shirt was designed using Puma's AI Creator, which is described ",
+      "title": "FAE 2026, Festival de Arquitectura en Español",
+      "url": "https://www.archdaily.com/1184318/fae-2026-festival-de-arquitectura-en-espanol",
+      "excerpt": "From September 2–4, 2026, the eighth edition of the Festival of Architecture in Spanish (FAE), will bring together architects from Mexico, Belgium, Portugal, Argentina, Spain, and Colombia across thre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/d42e/d93e/3d00/01db/8110/large_jpg/01_FAE_2026_Invitados.jpg?1788269630",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "Dyson CameraJet is a tech-driven toothbrush with an onboard optical system",
-      "url": "https://www.wallpaper.com/tech/dyson-camerajet-toothbrush",
-      "excerpt": "Dyson moves into oral healthcare. Early adopters can now acquire a WiFi-enabled, camera-equipped, high-tech toothbrush, trained on massive datasets to floss automatically",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/78GX5k8C9i6VCdekc6BteX-1819-80.jpg",
+      "title": "2026 in:situ Conference + CAA General Assembly",
+      "url": "https://www.archdaily.com/1184305/2026-in-situ-conference-plus-caa-general-assembly",
+      "excerpt": "Be Part of the most influential architectural gathering ever held in Aotearoa New Zealand.Te Kāhui Whaihanga New Zealand Institute of Architects (NZIA), in partnership with the Commonwealth Associatio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/752c/d93e/3d00/01db/8075/large_jpg/insitu_banner.jpg?1788245297",
       "today": true
     },
     {
@@ -246,25 +339,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Climate Infrastructure at Human Scale: From Water Management to Urban Cooling",
-      "url": "https://www.archdaily.com/1184153/climate-infrastructure-at-human-scale-from-water-management-to-urban-cooling",
-      "excerpt": "Water management, air quality, and heat mitigation are usually planned through systems much larger than the spaces where people actually experience them. Drainage networks sit below the street. Air po",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/9d70/b71a/0f01/89f1/b30a/large_jpg/climate-infrastructure-at-human-scale_4.jpg?1787927926",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Eight architecture and design events in September from Dezeen Events Guide",
-      "url": "https://www.dezeen.com/2026/09/01/eight-architecture-design-events-september-dezeen-events-guide-2026/",
-      "excerpt": "Lake Como Design Festival, London Design Festival, Detroit Month of Design and Tallinn Design Festival are among the architecture and design events featured in Dezeen Events Guide this September. Othe",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.01",
@@ -272,76 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards/",
       "excerpt": "the japanese architect is recognized for a career spanning more than three decades, shaped by an ongoing exploration of architecture’s relationship with nature, material, and tradition.\nThe post kengo",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Kaymana Earth Villa / Pablo Luna Studio",
-      "url": "https://www.archdaily.com/1184232/kaymana-earth-villa-pablo-luna-studio",
-      "excerpt": "Earth Villa is part of Kaymana, a hospitality complex in Uluwatu, Bali, conceived around the ideas of solid flow, transition, and permanence. The architecture is rooted in the landscape: its solid, cu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/5bb3/a25c/7b00/0126/0170/large_jpg/Drone_3.jpg?1788173257",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Kvadrat Febrik and Front Design to create a nature inspired fabric for Bang & Olufsen",
-      "url": "https://www.wallpaper.com/tech/kvadrat-febrik-and-front-design-to-create-a-nature-inspired-fabric-for-bang-and-olufsen",
-      "excerpt": "The Bang & Olufsen x Kvadrat Beosound A9 features Woolscape, a new fabric dreamt up by Kvadrat and Front, inspired by nature and tuned for acoustic perfection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XyCbe82FFWq8fnZDNXvVMc-1200-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Kengo Kuma to Receive the 2027 Andrée Putman Lifetime Achievement Award",
-      "url": "https://www.archdaily.com/1184310/kengo-kuma-to-receive-the-2027-andree-putman-lifetime-achievement-award",
-      "excerpt": "Japanese architect Kengo Kuma has been selected to receive the Andrée Putman Lifetime Achievement Award at the 2027 Créateurs Design Awards (CDA). The award, one of two Legacy Awards presented by the ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/7f33/b853/2e01/895b/6afb/large_jpg/kengo-kuma-to-receive-the-2027-andree-putman-lifetime-achievement-award_11.jpg?1788247907",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "designboom radar: exhibitions to see around the world this september",
-      "url": "https://www.designboom.com/art/exhibition-radar-september-2026/",
-      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this september appeared",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/september-exhibition-radar-2026-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "House on Concrete Walls / dolmus Architekten",
-      "url": "https://www.archdaily.com/1183911/house-on-concrete-walls-dolmus-architekten",
-      "excerpt": "The architectural placement of the house with a secondary apartment responds strongly to the sloping topography of the neighborhood.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/4e18/4253/0500/01ca/06c0/large_jpg/24.04_Schuepfheim_Haus-auf-Scheiben_Dolmus-Architekten_Egemen-Karakaya_Aussenfoto_01pg.jpg?1787645486",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Learning from the OBEL Award winner 2026. Here's to innovation where you least expect it",
-      "url": "https://www.wallpaper.com/architecture/obel-award-winner-2026-balearic-social-housing-model",
-      "excerpt": "The Balearic Social Housing Model is crowned the OBEL Award winner 2026 for its pioneering approach, born from within a public administration",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vuj5VFidqse6SFwVTvJ93R-1126-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "steel layered facade revives 1969 modernist city hall in czech republic",
-      "url": "https://www.designboom.com/architecture/steel-layered-facade-1969-modernist-city-hall-czech-republic-prerov-atelier-gram/",
-      "excerpt": "atelier gram retains přerov city hall’s original 1969 modernist structure.\nThe post steel layered facade revives 1969 modernist city hall in czech republic appeared first on designboom | architecture ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/reconstruction-prerov-city-hall-open-multifunctional-civic-facility-atelier-gram-designboom-1200-1-1.jpg",
       "today": true
     },
     {
