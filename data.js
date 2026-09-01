@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.01  17:12",
+  "fetchedAt": "2026.09.01  20:24",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -144,13 +144,31 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "orphea: a playable 13-key electronic piano that fits into your pocket",
+      "url": "https://www.designboom.com/technology/orphea-playable-13-key-electronic-piano-pocket-pianni/",
+      "excerpt": "designed as a portable musical sketchbook, orphea explores how small a piano can become while still remaining genuinely playable.\nThe post orphea: a playable 13-key electronic piano that fits into you",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/orphea-compact-13-key-electronic-piano-Pianni-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Mystone Pietra di Sicilia tiles by Marazzi",
+      "url": "https://www.dezeen.com/2026/09/01/mystone-pietra-di-sicilia-tiles-marazzi-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: the warmth of Sicilian stone is the inspiration for Italian brand Marazzi's Mystone Pietra di Sicilia collection of tiles. Mystone Pietra di Sicilia combines the high-performance char",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Gwyneth Paltrow and Michael Hsu create first Goop restaurant",
+      "url": "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
+      "excerpt": "US celebrity Gwyneth Paltrow has collaborated with Texas-based studio Michael Hsu Office of Architecture on the first sit-down restaurant for wellness company Goop, giving visitors \"a new way to exper",
       "today": true
     },
     {
@@ -251,12 +269,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "Pangea Blue marble by Antolini",
-      "url": "https://www.dezeen.com/2026/09/01/pangea-blue-marble-antolini-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: an ocean-like swirl of deep blue, white and gold veining characterises the Pangea Blue marble offered by Italian stone brand Antolini. Part of Antolini's Exclusive Collection, Pangea ",
+      "title": "Souvinha House / Parto",
+      "url": "https://www.archdaily.com/1184152/souvinha-house-parto",
+      "excerpt": "Beyond the river, the land spreads over the fields and valleys to the east, gazing at Senhora da Graça on the horizon. Oaks and cork oaks took over the plot pushing the house further down the slopes w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/9c1b/a25c/7b00/0125/fc60/large_jpg/22.-Ph.-Francisco-Ascen__o.jpg?1787927698",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Store With A Gap / Studio Cadena",
+      "url": "https://www.archdaily.com/1184188/store-with-a-gap-studio-cadena",
+      "excerpt": "Store With A Gap Trades Private Frontage for a Pocket of Public Space in Medellín. Studio Cadena's adaptive reuse project carves into an existing building to extend the sidewalk inward, layering retai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/d0e9/a25c/7b00/0125/feef/large_jpg/05_StoreWithAGap_StudioCadena_Juan_Camilo_Roa.jpg?1787941123",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "VhLab Sessions: \"From Space to Growth: Design as a Retail Strategy\"",
+      "url": "https://www.archdaily.com/1184355/vhlab-sessions-from-space-to-growth-design-as-a-retail-strategy",
+      "excerpt": "For decades, commercial space was primarily understood as the setting where a transaction took place. Today, in light of new forms of consumption and a shifting relationship between the physical and t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f13d/bed1/7f00/014d/254b/large_jpg/FI_evento.JPG.jpg?1788277061",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Call for Entries BAL 2027",
+      "url": "https://www.archdaily.com/1184360/call-for-entries-bal-2027",
+      "excerpt": "The Latin American Architecture Biennial (BAL) is a forum that, every two years since 2009, has brought together the most notable examples of young Latin American architecture in Spain. It is organize",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f2b6/bed1/7f00/014d/257e/large_jpg/BAL_2027.jpg?1788277437",
       "today": true
     },
     {
@@ -267,15 +316,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/julie-blackmon-midwest-materials-photographs-memory-american-landscape/",
       "excerpt": "with soccer balls flying, hot pavement, and summer days, blackmon depicts a bucolic vision of american suburban life that feels like it was lived just this afternoon.\nThe post julie blackmon’s midwest",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/midwest-materials-designboom-04.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "KOGAA transforms former industrial hall in Czech Republic into art gallery",
-      "url": "https://www.dezeen.com/2026/09/01/kogaa-smeral-art-factory/",
-      "excerpt": "Mint-green metal signals the transformation of this former industrial shed in the Czech Republic into Šmeral Art Factory, carried out by local architecture studio KOGAA. The exhibition and events spac",
       "today": true
     },
     {
@@ -296,56 +336,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/tamagotchi-classic-digital-pet-wearable-ring-lcd-color-screen-bandai/",
       "excerpt": "users can feed, care for, and play with the digital creature directly from their finger.\nThe post tamagotchi shrinks its classic digital pet into a wearable ring with LCD color screen appeared first o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tamagotchi-classic-digital-pet-wearable-ring-lcd-color-screen-Bandai-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Skin the Architect",
-      "url": "https://www.archdaily.com/1184322/skin-the-architect",
-      "excerpt": "SKIN THE ARCHITECT is an interactive installation by LAIDA - the Latvian Architecture and Design Union - created in response to the theme of this year's Tallinn Architecture Biennale: HOW MUCH? It is ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/d4b9/d93e/3d00/01db/812f/large_jpg/2-post-1080x1350.jpg?1788269759",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "FAE 2026, Festival de Arquitectura en Español",
-      "url": "https://www.archdaily.com/1184318/fae-2026-festival-de-arquitectura-en-espanol",
-      "excerpt": "From September 2–4, 2026, the eighth edition of the Festival of Architecture in Spanish (FAE), will bring together architects from Mexico, Belgium, Portugal, Argentina, Spain, and Colombia across thre",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/d42e/d93e/3d00/01db/8110/large_jpg/01_FAE_2026_Invitados.jpg?1788269630",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "2026 in:situ Conference + CAA General Assembly",
-      "url": "https://www.archdaily.com/1184305/2026-in-situ-conference-plus-caa-general-assembly",
-      "excerpt": "Be Part of the most influential architectural gathering ever held in Aotearoa New Zealand.Te Kāhui Whaihanga New Zealand Institute of Architects (NZIA), in partnership with the Commonwealth Associatio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/752c/d93e/3d00/01db/8075/large_jpg/insitu_banner.jpg?1788245297",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Escapism in Architecture: ArchDaily's September Editorial Focus",
-      "url": "https://www.archdaily.com/1184284/escapism-in-architecture-archdailys-september-editorial-focus",
-      "excerpt": "At a moment when architects across the globe are revisiting earthen construction, reassessing vernacular technologies, and forging visceral connections between communities and the land beneath their f",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/dcfa/060f/9201/8b20/bf1b/large_jpg/escapism-in-architecture-archdailys-september-editorial-focus_1.jpg?1788206339",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "kengo kuma honored with andrée putman lifetime achievement award 2027",
-      "url": "https://www.designboom.com/architecture/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards/",
-      "excerpt": "the japanese architect is recognized for a career spanning more than three decades, shaped by an ongoing exploration of architecture’s relationship with nature, material, and tradition.\nThe post kengo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards-designboom-1200-1.jpg",
       "today": true
     },
     {
