@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.01  01:34",
+  "fetchedAt": "2026.09.01  07:06",
   "sourceColors": {
-    "Digital AV Magazine": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "sanyonews.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,43 +25,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -71,15 +71,6 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
-    {
-      "source": "Digital AV Magazine",
-      "cat": "展示・アート",
-      "date": "2026.09.01",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
-      "excerpt": "",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -91,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.01",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -108,6 +99,26 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "sanyonews.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.01",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.01",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=252388",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
       "today": true
     },
     {
@@ -130,22 +141,83 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Kvadrat Febrik and Front Design to create a nature inspired fabric for Bang & Olufsen",
+      "url": "https://www.wallpaper.com/tech/kvadrat-febrik-and-front-design-to-create-a-nature-inspired-fabric-for-bang-and-olufsen",
+      "excerpt": "The Bang & Olufsen x Kvadrat Beosound A9 features Woolscape, a new fabric dreamt up by Kvadrat and Front, inspired by nature and tuned for acoustic perfection",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XyCbe82FFWq8fnZDNXvVMc-1200-80.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "designboom radar: exhibitions to see around the world this september",
+      "url": "https://www.designboom.com/art/exhibition-radar-september-2026/",
+      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this september appeared",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/september-exhibition-radar-2026-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Learning from the OBEL Award winner 2026. Here's to innovation where you least expect it",
+      "url": "https://www.wallpaper.com/architecture/obel-award-winner-2026-balearic-social-housing-model",
+      "excerpt": "The Balearic Social Housing Model is crowned the OBEL Award winner 2026 for its pioneering approach, born from within a public administration",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vuj5VFidqse6SFwVTvJ93R-1126-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "In Tenerife, On unites with land artist Strijdom van der Merwe to mark its latest PAF collaboration",
+      "url": "https://www.wallpaper.com/fashion-beauty/on-collaboration-paf-strijdom-van-der-merwe-artist",
+      "excerpt": "The South African artist has created a trail running loop in Tenerife’s rugged Poris Desert, setting the stage for ‘Current Forms 5.0’, the latest collaboration between Swiss activewear brand On and K",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dTim6Qx7mnJxFidpewCNBG-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "steel layered facade revives 1969 modernist city hall in czech republic",
+      "url": "https://www.designboom.com/architecture/steel-layered-facade-1969-modernist-city-hall-czech-republic-prerov-atelier-gram/",
+      "excerpt": "atelier gram retains přerov city hall’s original 1969 modernist structure.\nThe post steel layered facade revives 1969 modernist city hall in czech republic appeared first on designboom | architecture ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/reconstruction-prerov-city-hall-open-multifunctional-civic-facility-atelier-gram-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
+      "url": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
+      "excerpt": "The Yakisugi Cabin explores architecture shaped by what is already available — where material constraint becomes a generative design tool rather than a limitation. Conceived as a compact, relocatable ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/fdc6/b71a/0f01/89f1/b16a/large_jpg/the-yakisugi-cabin-alki-architecture-plus-design-studio_31.jpg?1787887073",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "The Balearic Social Housing Model Receives the 2026 OBEL Award",
+      "url": "https://www.archdaily.com/1184293/the-balearic-social-housing-model-receives-the-2026-obel-award",
+      "excerpt": "Amid growing economic, political, and climatic instability, the 2026 OBEL Award highlights the need for architectural approaches that rethink both existing and emerging infrastructures. The title for ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4b7b/b853/2e01/895b/69c6/large_jpg/the-balearic-social-housing-model-receives-the-2026-obel-award_21.jpg?1788234646",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Wanhua Green Heart Food Market, Yunlang Canteen / XU Studio",
+      "url": "https://www.archdaily.com/1184093/wanhua-green-heart-food-market-yunlang-canteen-xu-studio",
+      "excerpt": "Luhu Yunlang Canteen - Commissioned by Wanhua, XU Studio designed Yunlang Canteen and Lushang Youxuan Market as key commercial amenities for the Luhu residential community. The project is anchored aro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a90/6da4/b71a/0f01/89f1/b03a/large_jpg/wanhua-green-heart-food-market-yunlang-canteen-xu-studio_12.jpg?1787850159",
       "today": true
     },
     {
@@ -218,26 +290,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Parque IV House / Ricardo Azevedo Arquitecto",
-      "url": "https://www.archdaily.com/1030597/parque-iv-house-ricardo-azevedo-arquitecto",
-      "excerpt": "The building had long stood suspended in time and space, gradually falling into a state of disrepair—partially occupied, yet steadily losing structural integrity, quality, and a sense of safety.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6840/b2ed/3524/c657/f0b8/8c4e/large_jpg/casa-do-parque-iv-ricardo-azevedo-arquitecto_102.jpg?1749070611",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Rouxinol House / Sergio Sampaio Archi + Tectônica",
-      "url": "https://www.archdaily.com/1184262/rouxinol-house-sergio-sampaio-archi-plus-tectonica",
-      "excerpt": "ConceptThe 2,000-square-meter site of Rouxinol House, located in the Paraíba Valley in São Paulo, presented significant challenges in defining the architectural design. While it offered magnificent vi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a92/f0a7/c615/2723/9259/e6b7/large_jpg/casa-rouxinol-sergio-sampaio-archi-plus-tectonica_30.jpg?1788014841",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.08.31",
@@ -245,56 +297,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/john-galliano-met-costume-institute-show-cancelled",
       "excerpt": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjq8PqqtjUXTD6MvTcnFBa-1024-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "double-helix stairs frame wetland views inside xiang architects’ wuhan observation tower",
-      "url": "https://www.designboom.com/architecture/double-helix-stairs-wetland-xiang-architects-wuhan-observation-tower/",
-      "excerpt": "xiang architects uses a twisting stair system to turn birdwatching into a continuous climb through the wetland.\nThe post double-helix stairs frame wetland views inside xiang architects’ wuhan observat",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/a-tectonic-narrative-of-perception-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Akina House / Di Frenna Arquitectos",
-      "url": "https://www.archdaily.com/1184279/akina-house-di-frenna-arquitectos",
-      "excerpt": "Casa Akina announces itself without fully revealing its form. Its presence is restrained, almost silent. Before showing its true shape, it lets the light filter through, allows the vegetation to peek ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/c2cb/299e/1c00/01d2/d745/large_jpg/DFA-AKINA-2569.jpg?1788199655",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "mineral stone wall enclosure frames tectoniques’ cultural center in france",
-      "url": "https://www.designboom.com/architecture/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine/",
-      "excerpt": "stone, timber, and planted courtyards support the center’s mediterranean climate strategy.\nThe post mineral stone wall enclosure frames tectoniques’ cultural center in france appeared first on designb",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Mattaforma’s creative retreat in a Utah forest offers knotty, cedar-board workspace with a view",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/mattaforma-profile-usa",
-      "excerpt": "US practice Mattaforma and its founder, Lindsey Wikstrom, join the 2026 Wallpaper* Architects’ Directory",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gWHmPwSjbfRJoGxEiFWYbh-1493-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Aesop has redesigned its perfume bottles; its creative director tells us why",
-      "url": "https://www.wallpaper.com/fashion-beauty/aesops-creative-director-unforeseen-aer",
-      "excerpt": "After 20 years, Aesop's perfume bottles get a redesign to coincide with the launch of its latest fragrance. Creative director Aï Kato tells us more",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hjFC4Z28bxnuLghesPaYoP-2134-80.png",
       "today": false
     },
     {
@@ -313,16 +315,6 @@ window.LUMINO_DATA = {
       "title": "Dezeen's favourite furniture and lighting from August",
       "url": "https://www.dezeen.com/2026/08/31/dezeens-favourite-furniture-lighting-august-roundup/",
       "excerpt": "A scrap-metal-and-glass lamp and a bed made from a stack of pillows feature in this roundup of furniture and lighting spotted by design and interiors reporter Jane Englefield over the past month. Perr",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.08.31",
-      "title": "Melissa Auf der Maur's new monograph chronicles life at the heart of 90s rock culture",
-      "url": "https://www.wallpaper.com/art/photography/melissa-auf-der-maurs-new-monograph-chronicles-life-at-the-heart-of-90s-rock-culture",
-      "excerpt": "As bassist for Hole and the Smashing Pumpkins, Melissa Auf der Maur experienced the peaks and troughs of the music industry in the 90s. She talks to Wallpaper* about revisiting her contemporary photog",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iEUcWSw75DAGpdFbDvick8-2560-80.jpg",
       "today": false
     },
     {
@@ -403,6 +395,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -463,6 +465,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -470,6 +482,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
