@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  18:22",
+  "fetchedAt": "2026.09.02  21:30",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "時遊zine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "アメーバブログ": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "山陽新聞": {
+    "ameblo.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "徳島新聞デジタル": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,25 +45,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -88,23 +96,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "時遊zine",
+      "cat": "展示・アート",
       "date": "2026.09.02",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
+      "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
       "today": true
     },
     {
-      "source": "アメーバブログ",
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.02",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ameblo.jp",
       "cat": "展示・アート",
       "date": "2026.09.02",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
       "excerpt": "",
       "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.02",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -118,7 +146,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.02",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -127,13 +155,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "徳島新聞デジタル",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "那賀町の風車、今冬もLEDでライトアップ 来年１月５日まで",
-      "url": "https://www.topics.or.jp/articles/-/1361984",
-      "excerpt": "",
-      "thumbnailUrl": "https://tokushima.ismcdn.jp/mwimgs/5/0/1200wm/img_505107af37ae6dad5ac8a0fd6817d46799547.jpg",
+      "title": "BIG’s Suzhou Museum of Contemporary Art is now open, ribbon-like roofs and all",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/suzhou-museum-of-contemporary-art-big-china",
+      "excerpt": "Step inside Bjarke Ingels Group’s first completed art museum – the Suzhou Museum of Contemporary Art in China",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SwPo9Gc7AA6h9zyYDdjTK6-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "figure-eight knot casts into a glass light sculpture projecting shifting shadows",
+      "url": "https://www.designboom.com/art/figure-eight-knot-glass-light-sculpture-shifting-shadows-noeuds-marins-francois-hurtaud/",
+      "excerpt": "noeuds marins is a limited-edition light sculpture that freezes a figure-eight knot, then sets its shadow free.\nThe post figure-eight knot casts into a glass light sculpture projecting shifting shadow",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/noeuds-marins-francois-hurtaud-figure-eight-knot-light-sculpture-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Five products listed by Villeroy & Boch on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/02/five-bathroom-products-villeroy-boch-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Villeroy & Boch has published several of its new bathroom products on Dezeen Showroom, highlighting creative and sophisticated tapware, basins and vanity units. Among the products is ",
       "today": true
     },
     {
@@ -215,6 +262,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "KAYA Building / Jeff Svitak",
+      "url": "https://www.archdaily.com/1184429/kaya-building-jeff-svitak",
+      "excerpt": "At the intersection of Third Avenue and Nutmeg Street, KAYA rises alongside a new urban park in San Diego, opening up to a landscape that blends canyon, city, and ocean horizon. The central concept st",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/08d2/505a/cb00/0115/2582/large_jpg/_S__JEFF_SVITAK_INC_KAYA_19.jpg?1788350187",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -236,29 +293,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
+      "title": "Eco House / Mateus Castilho Arquitetura",
+      "url": "https://www.archdaily.com/1184431/eco-house-mateus-castilho-arquitetura",
+      "excerpt": "Casa Eco began to take shape in 2020, born from a couple's desire for a summer house dedicated to rest and gathering with family and friends. The project was conceived during the selection of the plot",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c4cb/a25c/7b00/0125/fdb4/large_jpg/04_08A7840-Pano-Edit_copyright_manuel_sa_0.jpg?1787938163",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
       "title": "High Bluff House / Mapos",
       "url": "https://www.archdaily.com/1183894/high-bluff-house-mapos",
       "excerpt": "On the high, sandy bluffs overlooking Peconic Bay, a new community is emerging as an alternative to the ultra-glamorous Hamptons scene. Along this coastline, kitesurfing, paddleboarding, reading and l",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/baa4/4253/0500/01ca/059b/large_jpg/2_House_Mapos_10_18_2023_shot_40.jpg?1787607754",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "David Lynch’s atmospheric LA photographs form a poignant first posthumous exhibition in his home city",
-      "url": "https://www.wallpaper.com/art/photography/david-lynch-la-pace-gallery",
-      "excerpt": "For filmmaker and artist David Lynch, Los Angeles was all about the light, a fascination Pace explores with an exhibition of photographs at its gallery in the city",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ipnmv8GBnJS8heytwzNjv9-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Jeroen Spee Architecten nestles pale brick Villa Bilt into Dutch forest",
-      "url": "https://www.dezeen.com/2026/09/02/villa-bilt-jeroen-spee-architecten/",
-      "excerpt": "Pale brickwork and ceramic tiles were used to highlight the dappled light and green hues of the woodland surrounding this home in Utrecht, completed by Dutch studio Jeroen Spee Architecten. Named Vill",
       "today": true
     },
     {
@@ -282,16 +330,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "DLR Group on translating urban density into intimate neighborhoods in the middle east",
-      "url": "https://www.designboom.com/architecture/interview-dlr-group-urban-density-intimate-neighborhoods-middle-east/",
-      "excerpt": "DLR Group explores how cross-disciplinary masterplanning, landscape, and interiors transform high-density urban developments across the middle east.\nThe post DLR Group on translating urban density int",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/DRL-group-middle-east-urbanism-designboom-interview-FB.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -302,6 +340,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -309,26 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184295/building-the-india-of-the-imagination-cinema-and-the-making-of-place",
       "excerpt": "Some of India's most convincing architectural worlds have never existed outside a film set. Courtyards, palaces, streets and even entire neighbourhoods have been constructed, lit and framed for the ca",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4950/3847/8a01/8b33/7043/large_jpg/building-the-india-of-the-imagination-cinema-and-the-making-of-place_8.jpg?1788234076",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "West Garden Florist  / LUO studio",
-      "url": "https://www.archdaily.com/1184291/west-garden-florist-luo-studio",
-      "excerpt": "Located in Haidian Park, Beijing, the project sits within one of the district's major urban green spaces, a setting where nearby residents gather for everyday leisure, exercise, and encounters with na",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/3053/3847/8a01/8b33/7032/large_jpg/west-garden-florist-luo-studio_46.jpg?1788227745",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "5 Women in the Building Industry Share How They Bring Light to Life",
-      "url": "https://www.archdaily.com/1183467/5-women-in-the-building-industry-share-how-they-bring-light-to-life",
-      "excerpt": "Across architecture and the building industry, women contribute to a wide range of fields, from design practice and construction to research and leadership. Their work reflects different approaches to",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/462a/ac8b/af01/892c/d1d9/large_jpg/5-women-in-the-building-industry-share-how-they-bring-light-to-life_19.jpg?1787053659",
       "today": true
     },
     {
@@ -401,6 +429,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -461,6 +499,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -468,6 +516,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
