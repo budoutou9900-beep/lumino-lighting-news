@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  10:25",
+  "fetchedAt": "2026.09.02  14:54",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,57 +13,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "DNライティング": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -98,23 +90,97 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.09.02",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.02",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Giant balconies line Delaware beach house by Ziger Snead",
+      "url": "https://www.dezeen.com/2026/09/02/dune-house-delaware-ziger-snead/",
+      "excerpt": "Accoya wood cladding and expansive terraces feature at the Dune House, which was designed by American studio Ziger Snead Architects for a tight site with many restrictions. Tucked into a dense area, t",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Stripes storage system by Jehs + Laub for Schönbuch",
+      "url": "https://www.dezeen.com/2026/09/02/stripes-storage-jehs-laub-schonbuch-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: German furniture brand Schönbuch and designers Jehs + Laub have updated their Stripes storage system, adding new finishes, accent colours and friendly shapes. A modular and fully cust",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "David Lynch’s atmospheric LA photographs form a poignant first posthumous exhibition in his home city",
+      "url": "https://www.wallpaper.com/art/photography/david-lynch-la-pace-gallery",
+      "excerpt": "For filmmaker and artist David Lynch, Los Angeles was all about the light, a fascination Pace explores with an exhibition of photographs at its gallery in the city",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ipnmv8GBnJS8heytwzNjv9-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Jeroen Spee Architecten nestles pale brick Villa Bilt into Dutch forest",
+      "url": "https://www.dezeen.com/2026/09/02/villa-bilt-jeroen-spee-architecten/",
+      "excerpt": "Pale brickwork and ceramic tiles were used to highlight the dappled light and green hues of the woodland surrounding this home in Utrecht, completed by Dutch studio Jeroen Spee Architecten. Named Vill",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong living space work 24 ways",
+      "url": "https://www.designboom.com/architecture/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways/",
+      "excerpt": "the hong kong architect treats time as another dimension of space, allowing one compact home to repeatedly change its function.\nThe post gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong l",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Range Rover unveils its first fully electric car",
+      "url": "https://www.dezeen.com/2026/09/02/range-rover-electric-car/",
+      "excerpt": "British carmaker JLR has combined the off-roading capabilities of a Range Rover with the improved responsiveness and torque of an EV for the brand's first all-electric car. Powered by two 260-kilowatt",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "BIG’s suzhou museum of contemporary art opens to the public as a village of 12 pavilions",
+      "url": "https://www.designboom.com/art/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-village-12-pavilions/",
+      "excerpt": "BIG's first completed art museum uses the spatial logic of the chinese garden to connect galleries, public spaces, and the waterfront of jinji lake.\nThe post BIG’s suzhou museum of contemporary art op",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-12-pavilions-roof-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "MAD unveils rippled glass extension in updated design for Rotterdam's Danshuis",
+      "url": "https://www.dezeen.com/2026/09/02/danshuis-mad-rotterdam-dance-centre/",
+      "excerpt": "Architecture studio MAD has revealed updated designs for the Danshuis dance centre in Rotterdam, the Netherlands, which will feature a billowing glass extension to an art deco warehouse. Situated in R",
       "today": true
     },
     {
@@ -128,30 +194,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "Construction photos reveal progress on giant HS2 station by WilkinsonEyre",
-      "url": "https://www.dezeen.com/2026/09/02/old-oak-common-hs2-station-wilkinsoneyre-construction/",
-      "excerpt": "Images have been released of the Old Oak Common station in west London, which is currently under construction as part of the high-speed rail network HS2. The design, led by architecture studio Wilkins",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Terramater tiles by Marazzi",
-      "url": "https://www.dezeen.com/2026/09/02/terramater-tiles-marazzi-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: three-dimensional, clay-coloured linear details emerge from the coloured glazes of the Terramater tiles, created by Italian manufacturer Marazzi as an ode to vintage ceramics. The Ter",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Tamagotchi is reborn as a tiny playable ring for its 30th birthday",
-      "url": "https://www.dezeen.com/2026/09/02/tamagochi-ring/",
-      "excerpt": "Japanese toy company Bandai has reimagined its cult video game Tamagotchi as a miniature wearable so fans can always have their digital pet to hand. Designed to mark the product's 30th anniversary, th",
+      "title": "The Makers Barn Residence / HUTCH design",
+      "url": "https://www.archdaily.com/1184288/the-makers-barn-hutch-design",
+      "excerpt": "Once an abandoned piggery, now a fine example of elemental architecture, The Makers Barn goes to great lengths to honour its agricultural origins. Borrowing its robust pitched roof from the nearby Tud",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/e3e2/d6d0/0400/0105/313a/large_jpg/MakersBarn_9X2A5555.jpg?1788208170",
       "today": true
     },
     {
@@ -195,22 +244,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "Kelly Wearstler launches \"relaxed and refined\" fashion collection for H&M",
-      "url": "https://www.dezeen.com/2026/09/02/kelly-wearstler-fashion-collection-hm/",
-      "excerpt": "Interior designer Kelly Wearstler has teamed up with fashion brand H&M to design a clothing line, which launches this week together with her H&M Home furniture collection that was unveiled in Milan. T",
+      "title": "Building the India of the Imagination: Cinema and the Making of Place",
+      "url": "https://www.archdaily.com/1184295/building-the-india-of-the-imagination-cinema-and-the-making-of-place",
+      "excerpt": "Some of India's most convincing architectural worlds have never existed outside a film set. Courtyards, palaces, streets and even entire neighbourhoods have been constructed, lit and framed for the ca",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4950/3847/8a01/8b33/7043/large_jpg/building-the-india-of-the-imagination-cinema-and-the-making-of-place_8.jpg?1788234076",
       "today": true
     },
     {
-      "source": "LPA",
-      "cat": "賞・コンペ",
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
+      "title": "West Garden Florist  / LUO studio",
+      "url": "https://www.archdaily.com/1184291/west-garden-florist-luo-studio",
+      "excerpt": "Located in Haidian Park, Beijing, the project sits within one of the district's major urban green spaces, a setting where nearby residents gather for everyday leisure, exercise, and encounters with na",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/3053/3847/8a01/8b33/7032/large_jpg/west-garden-florist-luo-studio_46.jpg?1788227745",
       "today": true
     },
     {
@@ -227,20 +277,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "Transformation of a farmhouse in Grandvillard  / Bard Yersin Architectes",
-      "url": "https://www.archdaily.com/1183987/transformation-of-a-farmhouse-in-grandvillard-bard-yersin-architectes",
-      "excerpt": "Bard Yersin Architects undertook the refurbishment and transformation of an unusual 18th-century farmhouse in the heart of Grandvillard's historic village.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/766d/4253/0500/01ca/0c45/large_jpg/BARD-YERSIN_GJR_1.jpg?1787721358",
+      "title": "5 Women in the Building Industry Share How They Bring Light to Life",
+      "url": "https://www.archdaily.com/1183467/5-women-in-the-building-industry-share-how-they-bring-light-to-life",
+      "excerpt": "Across architecture and the building industry, women contribute to a wide range of fields, from design practice and construction to research and leadership. Their work reflects different approaches to",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/462a/ac8b/af01/892c/d1d9/large_jpg/5-women-in-the-building-industry-share-how-they-bring-light-to-life_19.jpg?1787053659",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "\"If You Build Ugly Social Housing, You Will Create Social Problems\": An Interview with the OBEL Award 2026 Recipients",
-      "url": "https://www.archdaily.com/1184412/if-you-build-ugly-social-housing-you-will-create-social-problems-an-interview-with-the-obel-award-2026-recipients",
-      "excerpt": "On 1 September 2026, the Balearic Social Housing Model was announced as the recipient of the 2026 OBEL Award. The focus of this award's cycle was \"Systems' Hack,\" calling on architecture to critically",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/b0b3/8db7/ac01/89d5/433b/large_jpg/if-you-build-ugly-social-housing-you-will-create-social-problems-an-interview-with-the-obel-award-2026-recipients_1.jpg?1788326094",
+      "title": "ArchDaily Student Ambassadors 2026/2027. Apply Now!",
+      "url": "https://www.archdaily.com/1042447/archdaily-student-ambassadors-2026-2027-apply-now",
+      "excerpt": "Due to popular demand, we are briefly reopening applications for the ArchDaily Student Ambassador Program 2026/2027.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a30/0a08/aa48/ad01/89b7/d01a/large_jpg/archdaily-student-ambassadors-2026-2027_1.jpg?1781533219",
       "today": true
     },
     {
@@ -252,75 +302,6 @@ window.LUMINO_DATA = {
       "excerpt": "after the last sip explores how discarded tea leaves and spent coffee grounds can be processed into composite materials for large-scale robotic 3D printing.\nThe post used london tea leaves and coffee ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip-designboom-1200-1.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Piercy & Company introduces curves and cutouts in guesthouse Apartment 21",
-      "url": "https://www.dezeen.com/2026/09/02/piercy-company-apartment-21/",
-      "excerpt": "London studio Piercy & Company has taken over an apartment in the north of the city and given it a new interior featuring custom timber joinery and a mysterious curved corridor. Apartment 21 was conce",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "‘Wild Comfort’ is a coffee-table tome that’s designed to give you upscale cabin envy",
-      "url": "https://www.wallpaper.com/architecture/residential/wild-comfort-book-review",
-      "excerpt": "‘Wild Comfort: Contemporary Homes in the Wilderness’ assembles 30 of the finest recent remotely sited private dwellings, exploring architectural solutions that are dovetailed into their surroundings",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HYqQpbhrYj73mQkyGyupeK-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Tallinn Architecture City Guide: 13 Projects in a Capital Reclaiming its Waterfront",
-      "url": "https://www.archdaily.com/1183823/tallinn-architecture-city-guide-13-projects-in-a-capital-reclaiming-its-waterfront",
-      "excerpt": "Seen from the water, Tallinn presents the skyline of a Hanseatic merchant town. During the Soviet period, most of the seafront was a restricted military zone, leaving the harbour as one of the few pla",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/dde8/d600/9e01/899b/8e60/large_jpg/tallinn-architecture-city-guide-13-projects-in-a-capital-reclaiming-its-waterfront_17.jpg?1788272118",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Dạ Homestay / 3fconcept",
-      "url": "https://www.archdaily.com/1184236/da-homestay-3fconcept",
-      "excerpt": "Vĩ Dạ is a historically and culturally rich area in Hue City, Vietnam, deeply embedded in local poetry and art. However, rapid urbanization is gradually blurring its inherent identity, replacing the p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/6007/a25c/7b00/0126/01b4/large_jpg/04.jpg?1788174386",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "3D printed concrete and cork shape 36 student homes in denmark",
-      "url": "https://www.designboom.com/architecture/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter/",
-      "excerpt": "six low-rise clusters form the student housing development arranged around shared courtyards and gardens.\nThe post 3D printed concrete and cork shape 36 student homes in denmark appeared first on desi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Lighthouse Residence / Architecture Discipline",
-      "url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
-      "excerpt": "True luxury isn't characterized by excess, but the simple interplay of light, air, and landscape with the built. Lighthouse, a residence designed by Architecture Discipline in New Delhi, responds to t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/0e72/b71a/0f01/89f1/b733/large_jpg/lighthouse-residence-architecture-discipline_12.jpg?1788153491",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "MAD’s lucas museum floats above los angeles garden ahead of september opening",
-      "url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-los-angeles-completion-2026-debut-07-16-2025/",
-      "excerpt": "the institution focuses on storytelling across classic illustration, muralism, comic art, science fiction imagery, and cinematic artifacts.\nThe post MAD’s lucas museum floats above los angeles garden ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-lucas-museum-narrative-art-los-angeles-california-september-preview-2026-designboom-FB.jpg",
-      "today": false
     },
     {
       "source": "岩崎電気",
@@ -392,16 +373,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -462,16 +433,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -479,16 +440,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
