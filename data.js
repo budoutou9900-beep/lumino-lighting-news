@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  00:49",
+  "fetchedAt": "2026.09.02  05:21",
   "sourceColors": {
-    "axismag.jp": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "sortiraparis.com": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,15 +25,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -56,9 +56,27 @@ window.LUMINO_DATA = {
     "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
+    {
+      "source": "ginza.keizai.biz",
+      "cat": "展示・アート",
+      "date": "2026.09.02",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -77,16 +95,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.02",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -110,13 +118,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "used london tea leaves and coffee waste recast as large-scale 3D printed sculptural objects",
+      "url": "https://www.designboom.com/design/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip/",
+      "excerpt": "after the last sip explores how discarded tea leaves and spent coffee grounds can be processed into composite materials for large-scale robotic 3D printing.\nThe post used london tea leaves and coffee ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "‘Wild Comfort’ is a coffee-table tome that’s designed to give you upscale cabin envy",
+      "url": "https://www.wallpaper.com/architecture/residential/wild-comfort-book-review",
+      "excerpt": "‘Wild Comfort: Contemporary Homes in the Wilderness’ assembles 30 of the finest recent remotely sited private dwellings, exploring architectural solutions that are dovetailed into their surroundings",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HYqQpbhrYj73mQkyGyupeK-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Fineline Architecture’s simple New Zealand home embraces the natural rhythms of daily life",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/fineline-architecture-new-zealand",
+      "excerpt": "The Aotearoa New Zealand-based practice Fineline Architecture joins the Wallpaper* Architects’ Directory 2026; explore its understated renovation project in Nelson",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KahNHfeGDd2oE9g7zXQ7tW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "3D printed concrete and cork shape 36 student homes in denmark",
+      "url": "https://www.designboom.com/architecture/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter/",
+      "excerpt": "six low-rise clusters form the student housing development arranged around shared courtyards and gardens.\nThe post 3D printed concrete and cork shape 36 student homes in denmark appeared first on desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Chengdu Haiyang Road Middle School / Changwu Architects",
+      "url": "https://www.archdaily.com/1184290/chengdu-haiyang-road-middle-school-changwu-architects",
+      "excerpt": "When most urban campuses are compressed into efficiency-first functional containers, Chengdu Haiyang Road Middle School seeks to cultivate the relaxed, leisurely atmosphere of Chengdu's iconic \"Wide a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/0a07/72d9/ef01/89f1/0608/large_jpg/chengdu-haiyang-road-middle-school-changwu-architects_9.jpg?1788217892",
       "today": true
     },
     {
@@ -140,6 +188,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Vivienda E.ME / INDARQ",
+      "url": "https://www.archdaily.com/1184391/vivienda-eme-indarq",
+      "excerpt": "A simple, careful expression deeply connected to the territory and landscape is the core intention behind E.ME House. The design strategy focuses on achieving a compact dwelling with rich views and sp",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/fe49/bed1/7f00/014d/261d/large_jpg/Vivienda_Elwin_Visconte__Arquitecto_Visconte___Renato_Duria__2_.jpg?1788280431",
+      "today": false
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.01",
@@ -155,6 +213,16 @@ window.LUMINO_DATA = {
       "title": "Gwyneth Paltrow and Michael Hsu create first Goop restaurant",
       "url": "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
       "excerpt": "US celebrity Gwyneth Paltrow has collaborated with Texas-based studio Michael Hsu Office of Architecture on the first sit-down restaurant for wellness company Goop, giving visitors \"a new way to exper",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Vista House / Studio Gontijo Arquitetura",
+      "url": "https://www.archdaily.com/1184349/vista-house-studio-gontijo-arquitetura",
+      "excerpt": "Casa Vista was born from the complete renovation of an existing residence, which was originally characterized by a compartmentalized layout that no longer suited the dynamics of the new family. The pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/d257/a25c/7b00/0125/ff10/large_jpg/Studio_Gontijo_-_07_-_Joana_Fran_a.jpg?1787941492",
       "today": false
     },
     {
@@ -198,36 +266,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Exutoire’s Hanoi tube house makes a case for never demolishing",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/2026-exutoire-profile-vietnam",
-      "excerpt": "Vietnamese critical spatial practice Exutoire joins the Wallpaper* Architects’ Directory 2026 – take a tour of its 3m-wide 1990s property renovated for light, air and collective living",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hxMkxutk8No7PH3gz7NtpV-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "MVRDV to stack colorful WOMA housing around fornasetti mosaic plaza in miami",
-      "url": "https://www.designboom.com/architecture/mvrdv-colorful-woma-housing-fornasetti-miami-wynwood-uribe-schwarzkopf/",
-      "excerpt": "textile-inspired facades by MVRDV break a 163-home miami development into stacked blocks around a mosaic public plaza.\nThe post MVRDV to stack colorful WOMA housing around fornasetti mosaic plaza in m",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/woma-mvrdv-miami-wynwood-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "The Bentley Supersports sets the pace for the marque’s new era, without any electric motors",
-      "url": "https://www.wallpaper.com/transportation/bentley-supersports-review",
-      "excerpt": "On the eve of Bentley's EV debut, the company has also unveiled its high-powered Supersports, a race-tuned GT that doubles down on driver involvement",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8MairZnVRijLGn4K9W9ngk-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.01",
@@ -243,6 +281,16 @@ window.LUMINO_DATA = {
       "title": "Theatre designed to mirror \"emotional arc of performance\" among projects by George Washington University",
       "url": "https://www.dezeen.com/2026/09/01/theatre-emotional-arc-performance-george-washington-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a performing arts space for students influenced by the physical and emotional arc of performance itself is among the latest projects by George Washington University. Also featured",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.01",
+      "title": "Casa Tepoztlán / DOSA STUDIO",
+      "url": "https://www.archdaily.com/1184371/casa-tepoztlan-dosa-studio",
+      "excerpt": "Tepoztlán, a magical town of adobe and volcanic stone guarded by high hills, possesses a mystical identity closely tied to its history and natural environment. In this setting, a house was conceived w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/fe33/bed1/7f00/014d/2606/large_jpg/dosa-tepoz-fabianml-013.jpg?1788280541",
       "today": false
     },
     {
@@ -262,56 +310,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184152/souvinha-house-parto",
       "excerpt": "Beyond the river, the land spreads over the fields and valleys to the east, gazing at Senhora da Graça on the horizon. Oaks and cork oaks took over the plot pushing the house further down the slopes w",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/9c1b/a25c/7b00/0125/fc60/large_jpg/22.-Ph.-Francisco-Ascen__o.jpg?1787927698",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Store With A Gap / Studio Cadena",
-      "url": "https://www.archdaily.com/1184188/store-with-a-gap-studio-cadena",
-      "excerpt": "Store With A Gap Trades Private Frontage for a Pocket of Public Space in Medellín. Studio Cadena's adaptive reuse project carves into an existing building to extend the sidewalk inward, layering retai",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/d0e9/a25c/7b00/0125/feef/large_jpg/05_StoreWithAGap_StudioCadena_Juan_Camilo_Roa.jpg?1787941123",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "VhLab Sessions: \"From Space to Growth: Design as a Retail Strategy\"",
-      "url": "https://www.archdaily.com/1184355/vhlab-sessions-from-space-to-growth-design-as-a-retail-strategy",
-      "excerpt": "For decades, commercial space was primarily understood as the setting where a transaction took place. Today, in light of new forms of consumption and a shifting relationship between the physical and t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f13d/bed1/7f00/014d/254b/large_jpg/FI_evento.JPG.jpg?1788277061",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Call for Entries BAL 2027",
-      "url": "https://www.archdaily.com/1184360/call-for-entries-bal-2027",
-      "excerpt": "The Latin American Architecture Biennial (BAL) is a forum that, every two years since 2009, has brought together the most notable examples of young Latin American architecture in Spain. It is organize",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f2b6/bed1/7f00/014d/257e/large_jpg/BAL_2027.jpg?1788277437",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "julie blackmon’s midwest materials is a memory of the american landscape",
-      "url": "https://www.designboom.com/art/julie-blackmon-midwest-materials-photographs-memory-american-landscape/",
-      "excerpt": "with soccer balls flying, hot pavement, and summer days, blackmon depicts a bucolic vision of american suburban life that feels like it was lived just this afternoon.\nThe post julie blackmon’s midwest",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/midwest-materials-designboom-04.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Junqueira 307 Apartments  / Fragmentos",
-      "url": "https://www.archdaily.com/1183898/junqueira-307-apartments-fragmentos",
-      "excerpt": "On Rua da Junqueira, in the historic waterfront stretch of Lisbon between Alcântara and Belém, a former warehouse and plastics shop known as Mitera has been rehabilitated and extended into a residenti",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/bc6d/4253/0500/01ca/0604/large_jpg/Fragmentos_Junqueira_307__Tiago_Sales_010.jpg?1787608558",
       "today": false
     },
     {
@@ -384,6 +382,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -444,6 +452,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -451,6 +469,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
