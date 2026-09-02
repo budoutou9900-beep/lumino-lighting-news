@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.01  22:56",
+  "fetchedAt": "2026.09.02  00:49",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -17,64 +17,52 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "sortiraparis.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットエス": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "DNライティング": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.01",
+      "date": "2026.09.02",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -82,9 +70,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.01",
+      "date": "2026.09.02",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -94,7 +82,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.01",
+      "date": "2026.09.02",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -104,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.01",
+      "date": "2026.09.02",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -114,7 +102,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.01",
+      "date": "2026.09.02",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -122,9 +110,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
-      "date": "2026.09.01",
+      "date": "2026.09.02",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -132,13 +120,14 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットエス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.01",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
-      "today": true
+      "title": "MAD’s lucas museum floats above los angeles garden ahead of september opening",
+      "url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-los-angeles-completion-2026-debut-07-16-2025/",
+      "excerpt": "the institution focuses on storytelling across classic illustration, muralism, comic art, science fiction imagery, and cinematic artifacts.\nThe post MAD’s lucas museum floats above los angeles garden ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-lucas-museum-narrative-art-los-angeles-california-september-preview-2026-designboom-FB.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -148,7 +137,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/orphea-playable-13-key-electronic-piano-pocket-pianni/",
       "excerpt": "designed as a portable musical sketchbook, orphea explores how small a piano can become while still remaining genuinely playable.\nThe post orphea: a playable 13-key electronic piano that fits into you",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/orphea-compact-13-key-electronic-piano-Pianni-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -157,7 +146,7 @@ window.LUMINO_DATA = {
       "title": "Mystone Pietra di Sicilia tiles by Marazzi",
       "url": "https://www.dezeen.com/2026/09/01/mystone-pietra-di-sicilia-tiles-marazzi-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: the warmth of Sicilian stone is the inspiration for Italian brand Marazzi's Mystone Pietra di Sicilia collection of tiles. Mystone Pietra di Sicilia combines the high-performance char",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -166,7 +155,7 @@ window.LUMINO_DATA = {
       "title": "Gwyneth Paltrow and Michael Hsu create first Goop restaurant",
       "url": "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
       "excerpt": "US celebrity Gwyneth Paltrow has collaborated with Texas-based studio Michael Hsu Office of Architecture on the first sit-down restaurant for wellness company Goop, giving visitors \"a new way to exper",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -176,7 +165,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/alaska-airlines-international-business-class-suites-launch",
       "excerpt": "Inside Alaska Airlines’ new Boeing 787-9 Business Class, with lie-flat suites, Filson amenities and destination-led dining",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5acADo3uMX6NEBTswgCpAA-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -186,7 +175,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/accessories/gohar-world-asics-shoe-collab",
       "excerpt": "These ballerinas feature a sporty silhouette and –yes –piercings. Snag a pair before they sell out",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4jco4MqoTFdE2gptxBPL4c-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -196,7 +185,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/splash-out-on-tom-dixons-new-glassware-collection-for-nude",
       "excerpt": "The debut collection of British designer Tom Dixon and Turkish glass expert Nude, ‘Splash’, is a sensory treat inspired by watery ripples and ruffles",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VrEHiHQ6S74jDeibMbJSh7-1600-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -206,7 +195,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/concrete-firebrick-steel-community-oven-alpine-landscape-studio-carraldo-backdirwas-5/",
       "excerpt": "the oven translates alpine construction traditions into contemporary materials.\nThe post concrete, firebrick, and steel form community oven in the alpine landscape appeared first on designboom | archi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-carraldo-backdirwas-5-community-oven-boden-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -216,7 +205,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-directory/2026-exutoire-profile-vietnam",
       "excerpt": "Vietnamese critical spatial practice Exutoire joins the Wallpaper* Architects’ Directory 2026 – take a tour of its 3m-wide 1990s property renovated for light, air and collective living",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hxMkxutk8No7PH3gz7NtpV-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -226,7 +215,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/mvrdv-colorful-woma-housing-fornasetti-miami-wynwood-uribe-schwarzkopf/",
       "excerpt": "textile-inspired facades by MVRDV break a 163-home miami development into stacked blocks around a mosaic public plaza.\nThe post MVRDV to stack colorful WOMA housing around fornasetti mosaic plaza in m",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/woma-mvrdv-miami-wynwood-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -236,7 +225,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/bentley-supersports-review",
       "excerpt": "On the eve of Bentley's EV debut, the company has also unveiled its high-powered Supersports, a race-tuned GT that doubles down on driver involvement",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8MairZnVRijLGn4K9W9ngk-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -245,7 +234,7 @@ window.LUMINO_DATA = {
       "title": "MVRDV \"prioritises human scale\" in design of colourful Miami building",
       "url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
       "excerpt": "Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami's Wynwood neighbourhood with a central plaza and a facade broken up into colour-blocked sections. Developed by Uribe S",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -254,7 +243,7 @@ window.LUMINO_DATA = {
       "title": "Theatre designed to mirror \"emotional arc of performance\" among projects by George Washington University",
       "url": "https://www.dezeen.com/2026/09/01/theatre-emotional-arc-performance-george-washington-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a performing arts space for students influenced by the physical and emotional arc of performance itself is among the latest projects by George Washington University. Also featured",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -263,7 +252,7 @@ window.LUMINO_DATA = {
       "title": "US Supreme Court says construction of Trump's White House ballroom can continue",
       "url": "https://www.dezeen.com/2026/09/01/us-supreme-court-trump-white-house-ballroom-continue/",
       "excerpt": "Yesterday, the United States' highest court said that the construction on the above-ground elements of the White House ballroom extension can continue. The Supreme Court lifted the temporary ban that ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -273,7 +262,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184152/souvinha-house-parto",
       "excerpt": "Beyond the river, the land spreads over the fields and valleys to the east, gazing at Senhora da Graça on the horizon. Oaks and cork oaks took over the plot pushing the house further down the slopes w",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/9c1b/a25c/7b00/0125/fc60/large_jpg/22.-Ph.-Francisco-Ascen__o.jpg?1787927698",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -283,7 +272,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184188/store-with-a-gap-studio-cadena",
       "excerpt": "Store With A Gap Trades Private Frontage for a Pocket of Public Space in Medellín. Studio Cadena's adaptive reuse project carves into an existing building to extend the sidewalk inward, layering retai",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/d0e9/a25c/7b00/0125/feef/large_jpg/05_StoreWithAGap_StudioCadena_Juan_Camilo_Roa.jpg?1787941123",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -293,7 +282,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184355/vhlab-sessions-from-space-to-growth-design-as-a-retail-strategy",
       "excerpt": "For decades, commercial space was primarily understood as the setting where a transaction took place. Today, in light of new forms of consumption and a shifting relationship between the physical and t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f13d/bed1/7f00/014d/254b/large_jpg/FI_evento.JPG.jpg?1788277061",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -303,7 +292,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184360/call-for-entries-bal-2027",
       "excerpt": "The Latin American Architecture Biennial (BAL) is a forum that, every two years since 2009, has brought together the most notable examples of young Latin American architecture in Spain. It is organize",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f2b6/bed1/7f00/014d/257e/large_jpg/BAL_2027.jpg?1788277437",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -313,7 +302,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/julie-blackmon-midwest-materials-photographs-memory-american-landscape/",
       "excerpt": "with soccer balls flying, hot pavement, and summer days, blackmon depicts a bucolic vision of american suburban life that feels like it was lived just this afternoon.\nThe post julie blackmon’s midwest",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/midwest-materials-designboom-04.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -323,17 +312,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183898/junqueira-307-apartments-fragmentos",
       "excerpt": "On Rua da Junqueira, in the historic waterfront stretch of Lisbon between Alcântara and Belém, a former warehouse and plastics shop known as Mitera has been rehabilitated and extended into a residenti",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/bc6d/4253/0500/01ca/0604/large_jpg/Fragmentos_Junqueira_307__Tiago_Sales_010.jpg?1787608558",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "tamagotchi shrinks its classic digital pet into a wearable ring with LCD color screen",
-      "url": "https://www.designboom.com/technology/tamagotchi-classic-digital-pet-wearable-ring-lcd-color-screen-bandai/",
-      "excerpt": "users can feed, care for, and play with the digital creature directly from their finger.\nThe post tamagotchi shrinks its classic digital pet into a wearable ring with LCD color screen appeared first o",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tamagotchi-classic-digital-pet-wearable-ring-lcd-color-screen-Bandai-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -405,16 +384,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -475,16 +444,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -492,16 +451,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
