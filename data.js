@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  21:30",
+  "fetchedAt": "2026.09.02  23:46",
   "sourceColors": {
-    "銀座経済新聞": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "時遊zine": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "マカオ新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ameblo.jp": {
+    "時遊zine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "アメーバブログ": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "山陽新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,44 +37,58 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.02",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
@@ -86,13 +100,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.09.02",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "マカオ新聞",
       "cat": "展示・アート",
       "date": "2026.09.02",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "マカオの冬を彩るイルミイベント「ライトアップマカオ2025」開催概要発表",
+      "url": "https://www.macaushimbun.com/archives/58063",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://www.macaushimbun.com/2023/wp-content/uploads/2025/11/MGTO2025112702.webp",
       "today": true
     },
     {
@@ -106,17 +130,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.02",
-      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
-      "url": "https://www.sanyonews.jp/article/1823145",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ameblo.jp",
+      "source": "アメーバブログ",
       "cat": "展示・アート",
       "date": "2026.09.02",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
@@ -146,12 +160,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "when home becomes life support: designing habitats for mars and the moon",
+      "url": "https://www.designboom.com/architecture/home-becomes-life-support-habitats-mars-moon-big-icon-saga-nasa/",
+      "excerpt": "lunar and martian habitat experiments turn privacy, waste, repair, and resources into questions of domestic design.\nThe post when home becomes life support: designing habitats for mars and the moon ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/habitats-beyond-earth-designboom-FB.jpg",
       "today": true
     },
     {
@@ -317,16 +332,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways/",
       "excerpt": "the hong kong architect treats time as another dimension of space, allowing one compact home to repeatedly change its function.\nThe post gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong l",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "BIG’s suzhou museum of contemporary art opens to the public as a village of 12 pavilions",
-      "url": "https://www.designboom.com/art/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-village-12-pavilions/",
-      "excerpt": "BIG's first completed art museum uses the spatial logic of the chinese garden to connect galleries, public spaces, and the waterfront of jinji lake.\nThe post BIG’s suzhou museum of contemporary art op",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-12-pavilions-roof-designboom-1200.jpg",
       "today": true
     },
     {
