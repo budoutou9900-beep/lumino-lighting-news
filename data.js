@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  14:54",
+  "fetchedAt": "2026.09.02  18:22",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,49 +13,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "アメーバブログ": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "ozmall.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "徳島新聞デジタル": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -90,6 +98,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.02",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.09.02",
@@ -100,12 +118,100 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.02",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "徳島新聞デジタル",
+      "cat": "展示・アート",
+      "date": "2026.09.02",
+      "title": "那賀町の風車、今冬もLEDでライトアップ 来年１月５日まで",
+      "url": "https://www.topics.or.jp/articles/-/1361984",
+      "excerpt": "",
+      "thumbnailUrl": "https://tokushima.ismcdn.jp/mwimgs/5/0/1200wm/img_505107af37ae6dad5ac8a0fd6817d46799547.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "The Tamagotchi ring is an unexpected piece of wearable, nostalgia-loaded tech",
+      "url": "https://www.wallpaper.com/tech/tamagotchi-ring",
+      "excerpt": "You can now wear your digital pet on your finger with the smaller and lighter Tamagotchi ring",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4UZY4Xvv9QaF4L3rgtXZy7-815-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Take a look inside the Obama Presidential Center in this video",
+      "url": "https://www.dezeen.com/2026/09/02/obama-presidential-center-video-chicago-tod-williams-billie-tsien/",
+      "excerpt": "Take a short tour of the recently opened Obama Presidential Center in Chicago, USA, is this video filmed by Dezeen. Designed by US studio Tod Williams Billie Tsien Architects to honour US president Ba",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "A local’s guide to Seoul by artist Guimi You",
+      "url": "https://www.wallpaper.com/travel/locals-guide-seoul-guimi-you",
+      "excerpt": "As Frieze Seoul 2026 takes over the South Korean capital, artist Guimi You shares her go-to spots in her hometown",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7E5Sutn4GysoQ4mTWj96HT-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Stroll with style thanks to the arrival of the new Bugaboo x Stella McCartney collection",
+      "url": "https://www.wallpaper.com/tech/bugaboo-x-stella-mccartney-collection",
+      "excerpt": "The fashion designer teams up with the design-focused Dutch stroller specialist to launch the Bugaboo x Stella McCartney collection of three high-end baby buggies",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eiYDwj9BQcQ6gqrCbbjfUc-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Snoopy is the star of Fashion Week in this adorable New York exhibition",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/snoopy-in-style-nyc",
+      "excerpt": "‘Snoopy in Style’, now open in Manhattan, celebrates the enduring influence of the Peanuts comic strip on fashion. Peek inside",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xEtyYFHeccArxXw4rELcp9-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "every apartment gets an atlantic view in carlo ratti’s zig-zag west palm beach tower",
+      "url": "https://www.designboom.com/architecture/apartment-atlantic-view-cra-carlo-ratti-zig-zag-west-palm-beach-tower-mimar-florida/",
+      "excerpt": "in west palm beach, zig-zag geometry distributes sea views across a 25-story tower above a historic fire station.\nThe post every apartment gets an atlantic view in carlo ratti’s zig-zag west palm beac",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/MI-MAR-CRA-carlo-ratti-associati-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "discarded aluminum blinds transform into cylindrical lighting system",
+      "url": "https://www.designboom.com/design/discarded-aluminum-blinds-cylindrical-lighting-system-keker-collection-reza-raeisifar/",
+      "excerpt": "keker translates a familiar architectural component into a lighting collection.\nThe post discarded aluminum blinds transform into cylindrical lighting system appeared first on designboom | architectur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/discarded-aluminum-blinds-cylindrical-lighting-system-keker-collection-reza-raeisifar-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Ten innovative designs set to be featured at London Design Festival by New Designers",
+      "url": "https://www.dezeen.com/2026/09/02/ten-designs-london-design-festival-new-designers-schoolshows/",
+      "excerpt": "Dezeen School Shows: a lamp crafted from minimally processed wood is among designs by participants of New Designers that will be displayed during the London Design Festival this year. Also included is",
       "today": true
     },
     {
@@ -124,6 +230,16 @@ window.LUMINO_DATA = {
       "title": "Stripes storage system by Jehs + Laub for Schönbuch",
       "url": "https://www.dezeen.com/2026/09/02/stripes-storage-jehs-laub-schonbuch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: German furniture brand Schönbuch and designers Jehs + Laub have updated their Stripes storage system, adding new finishes, accent colours and friendly shapes. A modular and fully cust",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "High Bluff House / Mapos",
+      "url": "https://www.archdaily.com/1183894/high-bluff-house-mapos",
+      "excerpt": "On the high, sandy bluffs overlooking Peconic Bay, a new community is emerging as an alternative to the ultra-glamorous Hamptons scene. Along this coastline, kitesurfing, paddleboarding, reading and l",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/baa4/4253/0500/01ca/059b/large_jpg/2_House_Mapos_10_18_2023_shot_40.jpg?1787607754",
       "today": true
     },
     {
@@ -156,15 +272,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Range Rover unveils its first fully electric car",
-      "url": "https://www.dezeen.com/2026/09/02/range-rover-electric-car/",
-      "excerpt": "British carmaker JLR has combined the off-roading capabilities of a Range Rover with the improved responsiveness and torque of an EV for the brand's first all-electric car. Powered by two 260-kilowatt",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -172,15 +279,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-village-12-pavilions/",
       "excerpt": "BIG's first completed art museum uses the spatial logic of the chinese garden to connect galleries, public spaces, and the waterfront of jinji lake.\nThe post BIG’s suzhou museum of contemporary art op",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-12-pavilions-roof-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "MAD unveils rippled glass extension in updated design for Rotterdam's Danshuis",
-      "url": "https://www.dezeen.com/2026/09/02/danshuis-mad-rotterdam-dance-centre/",
-      "excerpt": "Architecture studio MAD has revealed updated designs for the Danshuis dance centre in Rotterdam, the Netherlands, which will feature a billowing glass extension to an art deco warehouse. Situated in R",
       "today": true
     },
     {
@@ -204,46 +302,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Hender Scheme dresses Artek classics in leather – including ‘shoes’ for ‘Stool 60’",
-      "url": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
-      "excerpt": "Ryo Kashiwazaki, founder of the Tokyo leather brand, on the evolution of a collaborative collection, set to debut at London Design Week 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9S7DZssgMebV9ztBySPNqW-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "An oceanfront modernist house by one of Frank Lloyd Wright's disciples hits the market",
-      "url": "https://www.wallpaper.com/architecture/residential/the-anderson-residence-by-aaron-g-green-for-sale",
-      "excerpt": "The Judge & Jeannie Anderson Residence by Aaron G Green goes on sale for $7.8m; take a look around",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6mXgMW5dNF32AnXFCMjkZf-1500-80.webp",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "The eccentric, elegant and ultra-rare Bristol Fighter spearheads a doughty brand’s rebirth",
-      "url": "https://www.wallpaper.com/transportation/bristol-cars-bristol-fighter-continuation-edition",
-      "excerpt": "Bristol Cars is a famed British manufacturer with a rich engineering history and a quirky stylistic image. A continuation edition of five examples of its final production car, the Bristol Fighter, her",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7uDam8DKddJmQMGJdPpqeZ-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "OMA’s taipei housing renewal lets residents shape an alternative to the standard tower",
-      "url": "https://www.designboom.com/architecture/oma-taipei-housing-renewal-residents-alternative-standard-tower/",
-      "excerpt": "replacing a block of aging walk-ups, the proposal organizes two residential towers around balconies, shared platforms, gardens, and communal spaces.\nThe post OMA’s taipei housing renewal lets resident",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/omas-taipei-housing-renewal-residents-alternative-standard-tower-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -264,16 +322,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Discover these seven watch releases at Geneva Watch Days 2026",
-      "url": "https://www.wallpaper.com/watches-jewellery/geneva-watch-days-2026-highlights",
-      "excerpt": "The watch fair has opened its doors. Here are the new releases we are most excited about",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bJ9YHsnVyLHrrUa8GtfrXV.gif",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -281,26 +329,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183467/5-women-in-the-building-industry-share-how-they-bring-light-to-life",
       "excerpt": "Across architecture and the building industry, women contribute to a wide range of fields, from design practice and construction to research and leadership. Their work reflects different approaches to",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/462a/ac8b/af01/892c/d1d9/large_jpg/5-women-in-the-building-industry-share-how-they-bring-light-to-life_19.jpg?1787053659",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "ArchDaily Student Ambassadors 2026/2027. Apply Now!",
-      "url": "https://www.archdaily.com/1042447/archdaily-student-ambassadors-2026-2027-apply-now",
-      "excerpt": "Due to popular demand, we are briefly reopening applications for the ArchDaily Student Ambassador Program 2026/2027.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a30/0a08/aa48/ad01/89b7/d01a/large_jpg/archdaily-student-ambassadors-2026-2027_1.jpg?1781533219",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "used london tea leaves and coffee waste recast as large-scale 3D printed sculptural objects",
-      "url": "https://www.designboom.com/design/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip/",
-      "excerpt": "after the last sip explores how discarded tea leaves and spent coffee grounds can be processed into composite materials for large-scale robotic 3D printing.\nThe post used london tea leaves and coffee ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip-designboom-1200-1.jpg",
       "today": true
     },
     {
