@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  05:21",
+  "fetchedAt": "2026.09.02  10:25",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -25,50 +25,50 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ArchDaily": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
     "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "岩崎電気": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "遠藤照明": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "大光電機": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "パナソニック": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
     "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "ArchDaily": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "遠藤照明": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "パナソニック": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.02",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -121,10 +121,145 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.02",
+      "title": "DLR Group on translating urban density into intimate neighborhoods in the middle east",
+      "url": "https://www.designboom.com/architecture/interview-dlr-group-urban-density-intimate-neighborhoods-middle-east/",
+      "excerpt": "DLR Group explores how cross-disciplinary masterplanning, landscape, and interiors transform high-density urban developments across the middle east.\nThe post DLR Group on translating urban density int",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/DRL-group-middle-east-urbanism-designboom-interview-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Construction photos reveal progress on giant HS2 station by WilkinsonEyre",
+      "url": "https://www.dezeen.com/2026/09/02/old-oak-common-hs2-station-wilkinsoneyre-construction/",
+      "excerpt": "Images have been released of the Old Oak Common station in west London, which is currently under construction as part of the high-speed rail network HS2. The design, led by architecture studio Wilkins",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Terramater tiles by Marazzi",
+      "url": "https://www.dezeen.com/2026/09/02/terramater-tiles-marazzi-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: three-dimensional, clay-coloured linear details emerge from the coloured glazes of the Terramater tiles, created by Italian manufacturer Marazzi as an ode to vintage ceramics. The Ter",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Tamagotchi is reborn as a tiny playable ring for its 30th birthday",
+      "url": "https://www.dezeen.com/2026/09/02/tamagochi-ring/",
+      "excerpt": "Japanese toy company Bandai has reimagined its cult video game Tamagotchi as a miniature wearable so fans can always have their digital pet to hand. Designed to mark the product's 30th anniversary, th",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Hender Scheme dresses Artek classics in leather – including ‘shoes’ for ‘Stool 60’",
+      "url": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
+      "excerpt": "Ryo Kashiwazaki, founder of the Tokyo leather brand, on the evolution of a collaborative collection, set to debut at London Design Week 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9S7DZssgMebV9ztBySPNqW-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "An oceanfront modernist house by one of Frank Lloyd Wright's disciples hits the market",
+      "url": "https://www.wallpaper.com/architecture/residential/the-anderson-residence-by-aaron-g-green-for-sale",
+      "excerpt": "The Judge & Jeannie Anderson Residence by Aaron G Green goes on sale for $7.8m; take a look around",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6mXgMW5dNF32AnXFCMjkZf-1500-80.webp",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "The eccentric, elegant and ultra-rare Bristol Fighter spearheads a doughty brand’s rebirth",
+      "url": "https://www.wallpaper.com/transportation/bristol-cars-bristol-fighter-continuation-edition",
+      "excerpt": "Bristol Cars is a famed British manufacturer with a rich engineering history and a quirky stylistic image. A continuation edition of five examples of its final production car, the Bristol Fighter, her",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7uDam8DKddJmQMGJdPpqeZ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "OMA’s taipei housing renewal lets residents shape an alternative to the standard tower",
+      "url": "https://www.designboom.com/architecture/oma-taipei-housing-renewal-residents-alternative-standard-tower/",
+      "excerpt": "replacing a block of aging walk-ups, the proposal organizes two residential towers around balconies, shared platforms, gardens, and communal spaces.\nThe post OMA’s taipei housing renewal lets resident",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/omas-taipei-housing-renewal-residents-alternative-standard-tower-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Kelly Wearstler launches \"relaxed and refined\" fashion collection for H&M",
+      "url": "https://www.dezeen.com/2026/09/02/kelly-wearstler-fashion-collection-hm/",
+      "excerpt": "Interior designer Kelly Wearstler has teamed up with fashion brand H&M to design a clothing line, which launches this week together with her H&M Home furniture collection that was unveiled in Milan. T",
+      "today": true
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Discover these seven watch releases at Geneva Watch Days 2026",
+      "url": "https://www.wallpaper.com/watches-jewellery/geneva-watch-days-2026-highlights",
+      "excerpt": "The watch fair has opened its doors. Here are the new releases we are most excited about",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bJ9YHsnVyLHrrUa8GtfrXV.gif",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Transformation of a farmhouse in Grandvillard  / Bard Yersin Architectes",
+      "url": "https://www.archdaily.com/1183987/transformation-of-a-farmhouse-in-grandvillard-bard-yersin-architectes",
+      "excerpt": "Bard Yersin Architects undertook the refurbishment and transformation of an unusual 18th-century farmhouse in the heart of Grandvillard's historic village.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/766d/4253/0500/01ca/0c45/large_jpg/BARD-YERSIN_GJR_1.jpg?1787721358",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "\"If You Build Ugly Social Housing, You Will Create Social Problems\": An Interview with the OBEL Award 2026 Recipients",
+      "url": "https://www.archdaily.com/1184412/if-you-build-ugly-social-housing-you-will-create-social-problems-an-interview-with-the-obel-award-2026-recipients",
+      "excerpt": "On 1 September 2026, the Balearic Social Housing Model was announced as the recipient of the 2026 OBEL Award. The focus of this award's cycle was \"Systems' Hack,\" calling on architecture to critically",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/b0b3/8db7/ac01/89d5/433b/large_jpg/if-you-build-ugly-social-housing-you-will-create-social-problems-an-interview-with-the-obel-award-2026-recipients_1.jpg?1788326094",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.02",
       "title": "used london tea leaves and coffee waste recast as large-scale 3D printed sculptural objects",
       "url": "https://www.designboom.com/design/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip/",
       "excerpt": "after the last sip explores how discarded tea leaves and spent coffee grounds can be processed into composite materials for large-scale robotic 3D printing.\nThe post used london tea leaves and coffee ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Piercy & Company introduces curves and cutouts in guesthouse Apartment 21",
+      "url": "https://www.dezeen.com/2026/09/02/piercy-company-apartment-21/",
+      "excerpt": "London studio Piercy & Company has taken over an apartment in the north of the city and given it a new interior featuring custom timber joinery and a mysterious curved corridor. Apartment 21 was conce",
       "today": true
     },
     {
@@ -138,13 +273,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "Fineline Architecture’s simple New Zealand home embraces the natural rhythms of daily life",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/fineline-architecture-new-zealand",
-      "excerpt": "The Aotearoa New Zealand-based practice Fineline Architecture joins the Wallpaper* Architects’ Directory 2026; explore its understated renovation project in Nelson",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KahNHfeGDd2oE9g7zXQ7tW-2560-80.jpg",
+      "title": "Tallinn Architecture City Guide: 13 Projects in a Capital Reclaiming its Waterfront",
+      "url": "https://www.archdaily.com/1183823/tallinn-architecture-city-guide-13-projects-in-a-capital-reclaiming-its-waterfront",
+      "excerpt": "Seen from the water, Tallinn presents the skyline of a Hanseatic merchant town. During the Soviet period, most of the seafront was a restricted military zone, leaving the harbour as one of the few pla",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/dde8/d600/9e01/899b/8e60/large_jpg/tallinn-architecture-city-guide-13-projects-in-a-capital-reclaiming-its-waterfront_17.jpg?1788272118",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Dạ Homestay / 3fconcept",
+      "url": "https://www.archdaily.com/1184236/da-homestay-3fconcept",
+      "excerpt": "Vĩ Dạ is a historically and culturally rich area in Hue City, Vietnam, deeply embedded in local poetry and art. However, rapid urbanization is gradually blurring its inherent identity, replacing the p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/6007/a25c/7b00/0126/01b4/large_jpg/04.jpg?1788174386",
       "today": true
     },
     {
@@ -161,10 +306,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.02",
-      "title": "Chengdu Haiyang Road Middle School / Changwu Architects",
-      "url": "https://www.archdaily.com/1184290/chengdu-haiyang-road-middle-school-changwu-architects",
-      "excerpt": "When most urban campuses are compressed into efficiency-first functional containers, Chengdu Haiyang Road Middle School seeks to cultivate the relaxed, leisurely atmosphere of Chengdu's iconic \"Wide a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/0a07/72d9/ef01/89f1/0608/large_jpg/chengdu-haiyang-road-middle-school-changwu-architects_9.jpg?1788217892",
+      "title": "Lighthouse Residence / Architecture Discipline",
+      "url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
+      "excerpt": "True luxury isn't characterized by excess, but the simple interplay of light, air, and landscape with the built. Lighthouse, a residence designed by Architecture Discipline in New Delhi, responds to t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/0e72/b71a/0f01/89f1/b733/large_jpg/lighthouse-residence-architecture-discipline_12.jpg?1788153491",
       "today": true
     },
     {
@@ -175,141 +320,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-los-angeles-completion-2026-debut-07-16-2025/",
       "excerpt": "the institution focuses on storytelling across classic illustration, muralism, comic art, science fiction imagery, and cinematic artifacts.\nThe post MAD’s lucas museum floats above los angeles garden ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-lucas-museum-narrative-art-los-angeles-california-september-preview-2026-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "orphea: a playable 13-key electronic piano that fits into your pocket",
-      "url": "https://www.designboom.com/technology/orphea-playable-13-key-electronic-piano-pocket-pianni/",
-      "excerpt": "designed as a portable musical sketchbook, orphea explores how small a piano can become while still remaining genuinely playable.\nThe post orphea: a playable 13-key electronic piano that fits into you",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/orphea-compact-13-key-electronic-piano-Pianni-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Vivienda E.ME / INDARQ",
-      "url": "https://www.archdaily.com/1184391/vivienda-eme-indarq",
-      "excerpt": "A simple, careful expression deeply connected to the territory and landscape is the core intention behind E.ME House. The design strategy focuses on achieving a compact dwelling with rich views and sp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/fe49/bed1/7f00/014d/261d/large_jpg/Vivienda_Elwin_Visconte__Arquitecto_Visconte___Renato_Duria__2_.jpg?1788280431",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Mystone Pietra di Sicilia tiles by Marazzi",
-      "url": "https://www.dezeen.com/2026/09/01/mystone-pietra-di-sicilia-tiles-marazzi-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: the warmth of Sicilian stone is the inspiration for Italian brand Marazzi's Mystone Pietra di Sicilia collection of tiles. Mystone Pietra di Sicilia combines the high-performance char",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Gwyneth Paltrow and Michael Hsu create first Goop restaurant",
-      "url": "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
-      "excerpt": "US celebrity Gwyneth Paltrow has collaborated with Texas-based studio Michael Hsu Office of Architecture on the first sit-down restaurant for wellness company Goop, giving visitors \"a new way to exper",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Vista House / Studio Gontijo Arquitetura",
-      "url": "https://www.archdaily.com/1184349/vista-house-studio-gontijo-arquitetura",
-      "excerpt": "Casa Vista was born from the complete renovation of an existing residence, which was originally characterized by a compartmentalized layout that no longer suited the dynamics of the new family. The pr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/d257/a25c/7b00/0125/ff10/large_jpg/Studio_Gontijo_-_07_-_Joana_Fran_a.jpg?1787941492",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Alaska Airlines launches its first-ever International Business Class suites",
-      "url": "https://www.wallpaper.com/travel/alaska-airlines-international-business-class-suites-launch",
-      "excerpt": "Inside Alaska Airlines’ new Boeing 787-9 Business Class, with lie-flat suites, Filson amenities and destination-led dining",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5acADo3uMX6NEBTswgCpAA-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Gohar World dishes up a surrealist shoe collab with Asics. Shop it now",
-      "url": "https://www.wallpaper.com/fashion-beauty/accessories/gohar-world-asics-shoe-collab",
-      "excerpt": "These ballerinas feature a sporty silhouette and –yes –piercings. Snag a pair before they sell out",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4jco4MqoTFdE2gptxBPL4c-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Splash out on Tom Dixon’s new glassware collection for Nude",
-      "url": "https://www.wallpaper.com/design-interiors/splash-out-on-tom-dixons-new-glassware-collection-for-nude",
-      "excerpt": "The debut collection of British designer Tom Dixon and Turkish glass expert Nude, ‘Splash’, is a sensory treat inspired by watery ripples and ruffles",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VrEHiHQ6S74jDeibMbJSh7-1600-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "concrete, firebrick, and steel form community oven in the alpine landscape",
-      "url": "https://www.designboom.com/design/concrete-firebrick-steel-community-oven-alpine-landscape-studio-carraldo-backdirwas-5/",
-      "excerpt": "the oven translates alpine construction traditions into contemporary materials.\nThe post concrete, firebrick, and steel form community oven in the alpine landscape appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/studio-carraldo-backdirwas-5-community-oven-boden-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "MVRDV \"prioritises human scale\" in design of colourful Miami building",
-      "url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
-      "excerpt": "Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami's Wynwood neighbourhood with a central plaza and a facade broken up into colour-blocked sections. Developed by Uribe S",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Theatre designed to mirror \"emotional arc of performance\" among projects by George Washington University",
-      "url": "https://www.dezeen.com/2026/09/01/theatre-emotional-arc-performance-george-washington-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a performing arts space for students influenced by the physical and emotional arc of performance itself is among the latest projects by George Washington University. Also featured",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Casa Tepoztlán / DOSA STUDIO",
-      "url": "https://www.archdaily.com/1184371/casa-tepoztlan-dosa-studio",
-      "excerpt": "Tepoztlán, a magical town of adobe and volcanic stone guarded by high hills, possesses a mystical identity closely tied to its history and natural environment. In this setting, a house was conceived w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/fe33/bed1/7f00/014d/2606/large_jpg/dosa-tepoz-fabianml-013.jpg?1788280541",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "US Supreme Court says construction of Trump's White House ballroom can continue",
-      "url": "https://www.dezeen.com/2026/09/01/us-supreme-court-trump-white-house-ballroom-continue/",
-      "excerpt": "Yesterday, the United States' highest court said that the construction on the above-ground elements of the White House ballroom extension can continue. The Supreme Court lifted the temporary ban that ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.01",
-      "title": "Souvinha House / Parto",
-      "url": "https://www.archdaily.com/1184152/souvinha-house-parto",
-      "excerpt": "Beyond the river, the land spreads over the fields and valleys to the east, gazing at Senhora da Graça on the horizon. Oaks and cork oaks took over the plot pushing the house further down the slopes w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/9c1b/a25c/7b00/0125/fc60/large_jpg/22.-Ph.-Francisco-Ascen__o.jpg?1787927698",
       "today": false
     },
     {
