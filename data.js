@@ -1,74 +1,100 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.03  02:34",
+  "fetchedAt": "2026.09.03  07:38",
   "sourceColors": {
-    "銀座経済新聞": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "ginza.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "axismag.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ウェザーニュース": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "東京ベイ経済新聞": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "マカオ新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "時遊zine": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "sanyonews.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "アメーバブログ": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "sanyonews.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "DNライティング": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.03",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
+    {
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.09.03",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -78,13 +104,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "ウェザーニュース",
       "cat": "国内情報",
       "date": "2026.09.03",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "ミライトいずも2025",
+      "url": "https://weathernews.jp/illumi/spot/9009845/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "東京ベイ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "お台場のイルミネーション「YAKEI」が冬仕様に 青くライトアップ",
+      "url": "https://tokyobay.keizai.biz/headline/2495/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/tokyobay_keizai/headline/1762933845_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "東京スカイツリータウンで本格クリスマスマーケット＆イルミネーション、ツリー風ライトアップも",
+      "url": "https://www.fashion-press.net/news/139284",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/139284/top.jpg?1760510913",
       "today": true
     },
     {
@@ -104,6 +160,7 @@ window.LUMINO_DATA = {
       "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
       "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
       "excerpt": "",
+      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
       "today": true
     },
     {
@@ -117,23 +174,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
+      "title": "house-like concrete play structures frame community arc park in chihuahua",
+      "url": "https://www.designboom.com/architecture/house-like-concrete-play-structures-community-arc-park-chihuahua-urbanika/",
+      "excerpt": "arc park places recreation and community gathering at the center of the mixed-use development.\nThe post house-like concrete play structures frame community arc park in chihuahua appeared first on desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/arc-park-urbanika-community-park-chihuahua-mexico-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
+      "title": "Garnier & Linker brings its elegant lighting outdoors for the first time",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/garnier-and-linker-aurora-collection",
+      "excerpt": "Debuting at Paris Design Week, the French lighting brand’s first outdoor collection swaps bronze and plaster for cast aluminium, proving that durability needn’t come at the expense of aesthetics",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MuYMXCqbDxXJqh94ytX4v5-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.09.03",
+      "title": "納入事例にホテル・旅館物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Greentown ThinkWorks / LYCS Architecture + GLA",
+      "url": "https://www.archdaily.com/1184224/greentown-thinkworks-lycs-architecture",
+      "excerpt": "As cities grow denser and industrial upgrading accelerates, vertical manufacturing has become an inevitable trend. The Greentown ThinkWorks project, located in the core of Hangzhou's Zijingang Science",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/1d28/a25c/7b00/0126/00fd/large_jpg/01___________North_elevation_of_podium_and_tower_______LYCS.jpg?1788157253",
       "today": true
     },
     {
@@ -235,16 +312,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Snoopy is the star of Fashion Week in this adorable New York exhibition",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/snoopy-in-style-nyc",
-      "excerpt": "‘Snoopy in Style’, now open in Manhattan, celebrates the enduring influence of the Peanuts comic strip on fashion. Peek inside",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xEtyYFHeccArxXw4rELcp9-2000-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.02",
@@ -312,23 +379,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
+      "source": "LPA",
+      "cat": "賞・コンペ",
       "date": "2026.09.02",
-      "title": "High Bluff House / Mapos",
-      "url": "https://www.archdaily.com/1183894/high-bluff-house-mapos",
-      "excerpt": "On the high, sandy bluffs overlooking Peconic Bay, a new community is emerging as an alternative to the ultra-glamorous Hamptons scene. Along this coastline, kitesurfing, paddleboarding, reading and l",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/baa4/4253/0500/01ca/059b/large_jpg/2_House_Mapos_10_18_2023_shot_40.jpg?1787607754",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong living space work 24 ways",
-      "url": "https://www.designboom.com/architecture/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways/",
-      "excerpt": "the hong kong architect treats time as another dimension of space, allowing one compact home to repeatedly change its function.\nThe post gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong l",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways-designboom-1200.jpg",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -401,6 +458,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -408,16 +475,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/179",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/179/260527_1989.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.08.07",
-      "title": "納入事例に住宅物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
@@ -461,6 +518,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -468,6 +535,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
