@@ -1,94 +1,96 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.03  16:51",
+  "fetchedAt": "2026.09.03  19:34",
   "sourceColors": {
-    "pronews.com": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "銀座経済新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "axismag.jp": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "NEXCO 西日本 企業情報": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ウェザーニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "日テレNEWS NNN": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "city.okayama.jp": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "選挙ドットコム": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "広島ニュース 食べタインジャー": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "AGARA紀伊民報": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "Yahoo!ニュース": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "instagram.com": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "夜景FAN": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "高松経済新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
-    {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.03",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
-      "today": true
-    },
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
@@ -110,53 +112,131 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "NEXCO 西日本 企業情報",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "中国自動車道 加西SA（上り線）が「イルミネーション」でライトアップされます。",
-      "url": "https://corp.w-nexco.co.jp/newly/h19/1129/",
-      "excerpt": "",
-      "thumbnailUrl": "https://corp.w-nexco.co.jp/images/common/icn_siteselect_search_out.gif",
-      "today": true
-    },
-    {
-      "source": "ウェザーニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "盛岡城跡公園石垣ライトアップ",
-      "url": "https://weathernews.jp/illumi/spot/1202003/",
-      "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
-      "today": true
-    },
-    {
-      "source": "日テレNEWS NNN",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "「ヒマワリとイルミネーションが素敵」ヒマワリ畑をライトアップ（仙台市・せんだい農業園芸センター）",
-      "url": "https://news.ntv.co.jp/n/mmt/category/society/mm98d7f5fe01384130ac26452bec4c87c9",
-      "excerpt": "",
-      "thumbnailUrl": "https://image.gallery.play.jp/mmt-news/articles/22e4c138855548599ea69ef23483e0fc/6eb1c14c-cf78-40b0-8900-0dd6a1dfaabe.jpg?w=1200",
-      "today": true
-    },
-    {
-      "source": "city.okayama.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.03",
-      "title": "西川夏あかり2026 開催します",
-      "url": "https://www.city.okayama.jp/kankou/0000030935.html",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://www.city.okayama.jp/design_img/",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "国内情報",
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
       "date": "2026.09.03",
-      "title": "ライティング情報【公式】東京スカイツリー TOKYO SKYTREE - tokyo-skytree.jp",
-      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
+      "title": "群馬・みなかみ町温泉街の秋ライトアップイベント、虹色イルミネーションが彩る公園＆ナイト足湯も",
+      "url": "https://www.fashion-press.net/news/139231",
       "excerpt": "",
-      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/139231/top.jpg?1760416724",
+      "today": true
+    },
+    {
+      "source": "選挙ドットコム",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "町田市&周辺エリアの冬のイルミネーション完全ガイド｜子連れで楽しめるクリスマスライトアップ情報",
+      "url": "https://go2senkyo.com/seijika/197689/posts/1245700",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "広島ニュース 食べタインジャー",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "ここならではのイルミ・ライトアップ！5日間限定開催でキッチンカーも来る",
+      "url": "https://tabetainjya.com/archives/itsukaichi2/pageant2025/",
+      "excerpt": "",
+      "thumbnailUrl": "https://tabetainjya.com/img/2511/pegent.jpg",
+      "today": true
+    },
+    {
+      "source": "AGARA紀伊民報",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "日本一のイルミネーションストリート「けやきライトパレード by FeStA LuCe」、今年も和歌山で開催決定！「世界一」認定を目指し、点灯エリアをさらに拡大",
+      "url": "https://www.agara.co.jp/article/656099",
+      "excerpt": "",
+      "thumbnailUrl": "https://prtimes.jp/img/93160/37/resize/d93160-37-d8672a12648b99507900-0.jpg",
+      "today": true
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "レインボーブリッジ 7月7日にライトアップ消灯へ 首都高が発表（くるまのニュース）",
+      "url": "https://news.yahoo.co.jp/articles/1b660f3a4b3a26bb59bf81dd93c52d9d7174fd8f",
+      "excerpt": "",
+      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260623-01077237-kurumans-000-1-view.jpg?exp=10800",
+      "today": true
+    },
+    {
+      "source": "instagram.com",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
+      "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
+      "excerpt": "",
+      "thumbnailUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lOEYD8WgbiAQ7kNvwGIZch7&_nc_oc=Adrfpe8TObYsp4g2QWp0n1VWLUNlocqQYmV8syREU9Qf9WsLVdU70WNemoSpK8Ou2ak&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=ZeVdN8K57bbE0_76arRY-Q&_nc_ss=7e60f&oh=00_AQIfIJYQ1l-DmfLM23Dr9F5VSYOTK1Dpnz4_uxMVOlSXiw&oe=6A9F8722",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
+      "source": "高松経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "やしまーるの建物もイルミネーションで彩られる＝屋島山上でライトアップとプロジェクションマッピング",
+      "url": "https://takamatsu.keizai.biz/photoflash/5448/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/photonews/1764562346_b.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "This device slows Citi Bikes in \"rent-burdened\" New York blocks",
+      "url": "https://www.dezeen.com/2026/09/03/justin-blinder-citibike-ground-truth-new-york-city-housing/",
+      "excerpt": "New York artist Justin Blinder has created a device that slows the city's paid-share bikes as they pass through parts of the city that are under \"greater housing pressure\". For the Ground Truth projec",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "MAD transforms 1923 art deco warehouse into rotterdam’s house for dance",
+      "url": "https://www.designboom.com/architecture/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis/",
+      "excerpt": "studios, public performance spaces, and a rooftop salle des fêtes will bring professional and amateur dancers together beside MAD’s neighboring fenix museum.\nThe post MAD transforms 1923 art deco ware",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "The Palace creative universe and Wallpaper* guest edit",
+      "url": "https://www.wallpaper.com/fashion-beauty/palace-skateboards-guest-edit-and-creative-universe",
+      "excerpt": "Palace Skateboards guest-edits Wallpaper* October 2026. Here, the founders turn the lens from themselves to profile the wide-reaching Palace community",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JziotKVozkxdkm7yawyMBC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Es Devlin casts Homo Faber 2026 in a new light",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-homo-faber-2026-review",
+      "excerpt": "On Venice’s San Giorgio Maggiore, the British artist gathers more than 700 handcrafted objects in an exploration of human skill, material and time",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y9gvBPHoKKSpa93qp78EAD-2560-80.jpg",
       "today": true
     },
     {
@@ -200,26 +280,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Bonnie Prince Billy is part of Palace's Creative Universe",
-      "url": "https://www.wallpaper.com/fashion-beauty/bonnie-prince-billy-interview-palace",
-      "excerpt": "As part of the 30th anniversary edition of Wallpaper*, Palace Skateboards take the reins as Guest Editors to shine a light on their vast creative community. Meet musician Bonnie Prince Billy",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PKRv4wPorMmFaBwiwg2KfQ-1500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Moto Guzzi opens a new museum at its historic Lake Como factory",
-      "url": "https://www.wallpaper.com/design-interiors/moto-guzzi-museum-greg-lynn-italy",
-      "excerpt": "The legendary Italian motorcycle manufacturer unveils its transformed Mandello del Lario headquarters, with a new museum and production facilities designed by American architect Greg Lynn",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n7qw8UufKcxPeH9oNVniHH-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.03",
@@ -236,6 +296,26 @@ window.LUMINO_DATA = {
       "title": "Imagina Abstract tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/09/03/imagina-abstract-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: designers can create mural-like feature walls and wallpaper-esque finishes using the artistic Imagina Abstract tile range by Casalgrande Padana. The Italian company's Imagina Abstract",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "BF2 House / Peninsula Arquitetura",
+      "url": "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura",
+      "excerpt": "Located in Perdizes, São Paulo, this 1950s townhouse underwent a complete renovation designed by the office Península Arquitetura. The property, with 200 m² of built area, was acquired in poor conditi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/346c/7475/ba00/011c/a9b3/large_jpg/365A1669.jpg?1783968981",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Veil House / Turkel Design",
+      "url": "https://www.archdaily.com/1184160/veil-house-turkel-design",
+      "excerpt": "Emerging from a forest of black oak and tupelo that populates the northwest edge of Martha's Vineyard, Veil House is a study in careful modulation. Commissioned by a doctor and a visual artist, the si",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/b74a/a25c/7b00/0125/fd24/large_jpg/19_-_Veil_House_by_Turkel_Design_-_Draper_White.jpg?1787934557",
       "today": true
     },
     {
@@ -286,15 +366,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Emeco sues Zara Home over chairs designed by Norman Foster",
-      "url": "https://www.dezeen.com/2026/09/03/emeco-sues-zara-home-20-06-chair-norman-foster/",
-      "excerpt": "US furniture brand Emeco has begun legal action against Zara Home for allegedly copying a chair and a stool designed for the brand by architect Norman Foster. Emeco filed the lawsuit in the Hamburg Di",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.03",
@@ -315,16 +386,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "MAD’s lucas museum of narrative art opens in LA this month: take an early look inside",
-      "url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-early-look-inside/",
-      "excerpt": "mad architects’ lucas museum of narrative art opens in los angeles with 9,290 square meters of galleries.\nThe post MAD’s lucas museum of narrative art opens in LA this month: take an early look inside",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-lucas-museum-narrative-art-early-look-inside-designboom-11.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
@@ -332,26 +393,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183979/the-kitchen-edge-service-storage-and-domestic-boundaries-in-compact-interiors",
       "excerpt": "In compact homes, the kitchen is rarely only a room for cooking. It often operates as an edge: a service wall or a boundary between domestic work and social life. Its importance lies not only in food ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/5144/ac8b/af01/892c/ed3f/large_jpg/the-kitchen-edge-service-storage-and-domestic-boundaries-in-compact-apac-interiors_1.jpg?1787711825",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Tenjin Business Center II / OMA",
-      "url": "https://www.archdaily.com/1184460/tenjin-business-center-ii-oma",
-      "excerpt": "Fukuoka is the seventh biggest city in Japan and its central location among major cities of East Asia positions the city as a gateway into Japan, contributing to its standing as the economic center of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/8e87/4348/7022/5037/0b6c/large_jpg/tenjin-business-center-ii-oma_1.jpg?1788382889",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "What Does a Museum Need? Inside the Exhibition Architecture of the Natural History Museum Oslo",
-      "url": "https://www.archdaily.com/1182454/what-does-a-museum-need-inside-the-exhibition-architecture-of-the-natural-history-museum-oslo",
-      "excerpt": "Designing a museum interior means negotiating between the needs of the collection and those of the visitor: objects must be protected and carefully displayed, while spaces need to remain accessible, l",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/8073/ac8b/af01/892c/b6c2/large_jpg/what-does-a-museum-need-inside-the-exhibition-architecture-of-the-natural-history-museum-oslo_1.jpg?1786347672",
       "today": true
     },
     {
