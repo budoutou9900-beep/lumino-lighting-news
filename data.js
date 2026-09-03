@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.02  23:46",
+  "fetchedAt": "2026.09.03  02:34",
   "sourceColors": {
-    "pronews.com": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "マカオ新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "マカオ新聞": {
+    "時遊zine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "時遊zine": {
+    "sanyonews.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "山陽新聞": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,54 +45,32 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "パナソニック": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "DNライティング": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.02",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
-      "today": true
-    },
-    {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.02",
+      "date": "2026.09.03",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -102,7 +80,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.02",
+      "date": "2026.09.03",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -112,7 +90,7 @@ window.LUMINO_DATA = {
     {
       "source": "マカオ新聞",
       "cat": "展示・アート",
-      "date": "2026.09.02",
+      "date": "2026.09.03",
       "title": "マカオの冬を彩るイルミイベント「ライトアップマカオ2025」開催概要発表",
       "url": "https://www.macaushimbun.com/archives/58063",
       "excerpt": "",
@@ -122,17 +100,26 @@ window.LUMINO_DATA = {
     {
       "source": "時遊zine",
       "cat": "展示・アート",
-      "date": "2026.09.02",
+      "date": "2026.09.03",
       "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
       "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
       "excerpt": "",
-      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
+      "today": true
+    },
+    {
+      "source": "sanyonews.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "街を包むイルミの光 岡山、倉敷市でライトアップ",
+      "url": "https://www.sanyonews.jp/article/1823145",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/0/2/f/6/02f6551f169997fbfe3b0b536cd99651_1.jpg",
       "today": true
     },
     {
       "source": "アメーバブログ",
       "cat": "展示・アート",
-      "date": "2026.09.02",
+      "date": "2026.09.03",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
       "excerpt": "",
@@ -142,21 +129,11 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.02",
+      "date": "2026.09.03",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.02",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
       "today": true
     },
     {
@@ -167,7 +144,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/home-becomes-life-support-habitats-mars-moon-big-icon-saga-nasa/",
       "excerpt": "lunar and martian habitat experiments turn privacy, waste, repair, and resources into questions of domestic design.\nThe post when home becomes life support: designing habitats for mars and the moon ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/habitats-beyond-earth-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -177,7 +154,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/suzhou-museum-of-contemporary-art-big-china",
       "excerpt": "Step inside Bjarke Ingels Group’s first completed art museum – the Suzhou Museum of Contemporary Art in China",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SwPo9Gc7AA6h9zyYDdjTK6-2560-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Casa Circular / Ignacio Muñoz",
+      "url": "https://www.archdaily.com/1184347/casa-circular-ignacio-munoz",
+      "excerpt": "Casa Circular turns six discarded refrigerated shipping containers into the structural backbone of a single-family home, proving that a circular economy can operate at the scale of everyday domestic l",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f209/bed1/7f00/014d/256c/large_jpg/CASA-CIRCULAR-IGNACIO-MUNOZ-JAG-9723web.jpg?1788277278",
+      "today": false
     },
     {
       "source": "designboom",
@@ -187,7 +174,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/figure-eight-knot-glass-light-sculpture-shifting-shadows-noeuds-marins-francois-hurtaud/",
       "excerpt": "noeuds marins is a limited-edition light sculpture that freezes a figure-eight knot, then sets its shadow free.\nThe post figure-eight knot casts into a glass light sculpture projecting shifting shadow",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/noeuds-marins-francois-hurtaud-figure-eight-knot-light-sculpture-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -196,7 +183,7 @@ window.LUMINO_DATA = {
       "title": "Five products listed by Villeroy & Boch on Dezeen Showroom",
       "url": "https://www.dezeen.com/2026/09/02/five-bathroom-products-villeroy-boch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Villeroy & Boch has published several of its new bathroom products on Dezeen Showroom, highlighting creative and sophisticated tapware, basins and vanity units. Among the products is ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -206,7 +193,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/tamagotchi-ring",
       "excerpt": "You can now wear your digital pet on your finger with the smaller and lighter Tamagotchi ring",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4UZY4Xvv9QaF4L3rgtXZy7-815-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -215,7 +202,17 @@ window.LUMINO_DATA = {
       "title": "Take a look inside the Obama Presidential Center in this video",
       "url": "https://www.dezeen.com/2026/09/02/obama-presidential-center-video-chicago-tod-williams-billie-tsien/",
       "excerpt": "Take a short tour of the recently opened Obama Presidential Center in Chicago, USA, is this video filmed by Dezeen. Designed by US studio Tod Williams Billie Tsien Architects to honour US president Ba",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.02",
+      "title": "Adentro House / TETRO Arquitetura",
+      "url": "https://www.archdaily.com/1184190/adentro-house-tetro-arquitetura",
+      "excerpt": "Located on an approximately 5,000 m2 site in Lagoa Santa, near Belo Horizonte, the house begins with a central question: how can an extensive program be accommodated on a densely wooded plot while pre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/e713/a25c/7b00/0125/ff49/large_jpg/1.jpg?1787946810",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -225,7 +222,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/locals-guide-seoul-guimi-you",
       "excerpt": "As Frieze Seoul 2026 takes over the South Korean capital, artist Guimi You shares her go-to spots in her hometown",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7E5Sutn4GysoQ4mTWj96HT-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -235,7 +232,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/bugaboo-x-stella-mccartney-collection",
       "excerpt": "The fashion designer teams up with the design-focused Dutch stroller specialist to launch the Bugaboo x Stella McCartney collection of three high-end baby buggies",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eiYDwj9BQcQ6gqrCbbjfUc-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -245,7 +242,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/snoopy-in-style-nyc",
       "excerpt": "‘Snoopy in Style’, now open in Manhattan, celebrates the enduring influence of the Peanuts comic strip on fashion. Peek inside",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xEtyYFHeccArxXw4rELcp9-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -255,7 +252,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/apartment-atlantic-view-cra-carlo-ratti-zig-zag-west-palm-beach-tower-mimar-florida/",
       "excerpt": "in west palm beach, zig-zag geometry distributes sea views across a 25-story tower above a historic fire station.\nThe post every apartment gets an atlantic view in carlo ratti’s zig-zag west palm beac",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/MI-MAR-CRA-carlo-ratti-associati-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -265,7 +262,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/discarded-aluminum-blinds-cylindrical-lighting-system-keker-collection-reza-raeisifar/",
       "excerpt": "keker translates a familiar architectural component into a lighting collection.\nThe post discarded aluminum blinds transform into cylindrical lighting system appeared first on designboom | architectur",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/discarded-aluminum-blinds-cylindrical-lighting-system-keker-collection-reza-raeisifar-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -274,7 +271,7 @@ window.LUMINO_DATA = {
       "title": "Ten innovative designs set to be featured at London Design Festival by New Designers",
       "url": "https://www.dezeen.com/2026/09/02/ten-designs-london-design-festival-new-designers-schoolshows/",
       "excerpt": "Dezeen School Shows: a lamp crafted from minimally processed wood is among designs by participants of New Designers that will be displayed during the London Design Festival this year. Also included is",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -284,7 +281,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184429/kaya-building-jeff-svitak",
       "excerpt": "At the intersection of Third Avenue and Nutmeg Street, KAYA rises alongside a new urban park in San Diego, opening up to a landscape that blends canyon, city, and ocean horizon. The central concept st",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/08d2/505a/cb00/0115/2582/large_jpg/_S__JEFF_SVITAK_INC_KAYA_19.jpg?1788350187",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -293,7 +290,7 @@ window.LUMINO_DATA = {
       "title": "Giant balconies line Delaware beach house by Ziger Snead",
       "url": "https://www.dezeen.com/2026/09/02/dune-house-delaware-ziger-snead/",
       "excerpt": "Accoya wood cladding and expansive terraces feature at the Dune House, which was designed by American studio Ziger Snead Architects for a tight site with many restrictions. Tucked into a dense area, t",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -302,7 +299,7 @@ window.LUMINO_DATA = {
       "title": "Stripes storage system by Jehs + Laub for Schönbuch",
       "url": "https://www.dezeen.com/2026/09/02/stripes-storage-jehs-laub-schonbuch-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: German furniture brand Schönbuch and designers Jehs + Laub have updated their Stripes storage system, adding new finishes, accent colours and friendly shapes. A modular and fully cust",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -312,7 +309,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184431/eco-house-mateus-castilho-arquitetura",
       "excerpt": "Casa Eco began to take shape in 2020, born from a couple's desire for a summer house dedicated to rest and gathering with family and friends. The project was conceived during the selection of the plot",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c4cb/a25c/7b00/0125/fdb4/large_jpg/04_08A7840-Pano-Edit_copyright_manuel_sa_0.jpg?1787938163",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -322,7 +319,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183894/high-bluff-house-mapos",
       "excerpt": "On the high, sandy bluffs overlooking Peconic Bay, a new community is emerging as an alternative to the ultra-glamorous Hamptons scene. Along this coastline, kitesurfing, paddleboarding, reading and l",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/baa4/4253/0500/01ca/059b/large_jpg/2_House_Mapos_10_18_2023_shot_40.jpg?1787607754",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -332,37 +329,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways/",
       "excerpt": "the hong kong architect treats time as another dimension of space, allowing one compact home to repeatedly change its function.\nThe post gary chang’s ‘domestic transformer’ makes 32 sqm of hong kong l",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/gary-chang-domestic-transformer-32-sqm-hong-kong-living-space-24-ways-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "The Makers Barn Residence / HUTCH design",
-      "url": "https://www.archdaily.com/1184288/the-makers-barn-hutch-design",
-      "excerpt": "Once an abandoned piggery, now a fine example of elemental architecture, The Makers Barn goes to great lengths to honour its agricultural origins. Borrowing its robust pitched roof from the nearby Tud",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/e3e2/d6d0/0400/0105/313a/large_jpg/MakersBarn_9X2A5555.jpg?1788208170",
-      "today": true
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.02",
-      "title": "Building the India of the Imagination: Cinema and the Making of Place",
-      "url": "https://www.archdaily.com/1184295/building-the-india-of-the-imagination-cinema-and-the-making-of-place",
-      "excerpt": "Some of India's most convincing architectural worlds have never existed outside a film set. Courtyards, palaces, streets and even entire neighbourhoods have been constructed, lit and framed for the ca",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4950/3847/8a01/8b33/7043/large_jpg/building-the-india-of-the-imagination-cinema-and-the-making-of-place_8.jpg?1788234076",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -434,16 +401,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -504,16 +461,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -521,16 +468,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
