@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.03  19:34",
+  "fetchedAt": "2026.09.03  22:09",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,85 +9,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "選挙ドットコム": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "広島ニュース 食べタインジャー": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "AGARA紀伊民報": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Yahoo!ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "instagram.com": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "夜景FAN": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "高松経済新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "designboom": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ArchDaily": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "DNライティング": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -112,13 +104,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
       "date": "2026.09.03",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "title": "御殿場高原 時之栖で春の花見イベント - 富士山麓に咲く約5,000本の桜、ライトアップも",
+      "url": "https://www.fashion-press.net/news/144468",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/144468/top.jpg?1773727911",
       "today": true
     },
     {
@@ -177,7 +169,7 @@ window.LUMINO_DATA = {
       "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
       "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
       "excerpt": "",
-      "thumbnailUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lOEYD8WgbiAQ7kNvwGIZch7&_nc_oc=Adrfpe8TObYsp4g2QWp0n1VWLUNlocqQYmV8syREU9Qf9WsLVdU70WNemoSpK8Ou2ak&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=ZeVdN8K57bbE0_76arRY-Q&_nc_ss=7e60f&oh=00_AQIfIJYQ1l-DmfLM23Dr9F5VSYOTK1Dpnz4_uxMVOlSXiw&oe=6A9F8722",
+      "thumbnailUrl": "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lOEYD8WgbiAQ7kNvwF_ZNEn&_nc_oc=Adp1qCZ04S2DAphvmczpqK8qGqdO3VRyQ_wXYVcHexM68I8LPuUEdU15bhXS2JbVysg&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=GbKucePap5rDNkArhUSphQ&_nc_ss=7e60f&oh=00_AQKBYlP-b7-ZCCTTCaFpoXpK6fK670bn2FJZtWWyobYb8A&oe=6A9FBF62",
       "today": true
     },
     {
@@ -191,13 +183,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "やしまーるの建物もイルミネーションで彩られる＝屋島山上でライトアップとプロジェクションマッピング",
-      "url": "https://takamatsu.keizai.biz/photoflash/5448/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/photonews/1764562346_b.jpg",
+      "title": "why japanese architects carve parking into tiny urban homes",
+      "url": "https://www.designboom.com/architecture/japanese-carve-parking-tiny-urban-homes-tokyo/",
+      "excerpt": "across japanese cities, tiny urban houses carve parking directly into their plans and sections to create a car-sized void.\nThe post why japanese architects carve parking into tiny urban homes appeared",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/car-shaped-hole-japanese-houses-tokyo-parking-architecture-designboom-FB.jpg",
       "today": true
     },
     {
@@ -290,6 +282,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Los Navegantes House / María Catalina Picon Meleda + Alberto Browne Cruz",
+      "url": "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz",
+      "excerpt": "Los Navegantes House is the expansion and renovation of a 1963 home in Pedro de Valdivia Norte, a central residential neighborhood shaped by the presence of San Cristóbal Hill, its vegetation, and its",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9586/15d8/6f00/01a2/eced/large_jpg/_F8A9418-HDR-2_LQ.jpg?1788450289",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.03",
@@ -366,16 +368,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "do ho suh maps four decades of home, memory, and migration at MMCA seoul retrospective",
-      "url": "https://www.designboom.com/art/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective/",
-      "excerpt": "the seoul exhibition brings together early experiments, architectural reconstructions, and intimate works centered on family and the body.\nThe post do ho suh maps four decades of home, memory, and mig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
@@ -383,16 +375,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184470/utopian-hours-ten-years-edition-part-2",
       "excerpt": "The international festival of city making returns for Part 2 of its Ten Years Edition after a successful event in Rotterdam last May.Over two days, the festival will bring together architects, develop",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/157f/15d8/6f00/01a2/eaad/large_jpg/lineup__Torino_green__3_.jpg?1788417426",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "The Kitchen Edge: Service, Storage, and Domestic Boundaries in Compact Interiors",
-      "url": "https://www.archdaily.com/1183979/the-kitchen-edge-service-storage-and-domestic-boundaries-in-compact-interiors",
-      "excerpt": "In compact homes, the kitchen is rarely only a room for cooking. It often operates as an edge: a service wall or a boundary between domestic work and social life. Its importance lies not only in food ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/5144/ac8b/af01/892c/ed3f/large_jpg/the-kitchen-edge-service-storage-and-domestic-boundaries-in-compact-apac-interiors_1.jpg?1787711825",
       "today": true
     },
     {
