@@ -1,149 +1,241 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.03  12:29",
+  "fetchedAt": "2026.09.03  16:51",
   "sourceColors": {
-    "最新不動産ニュースサイト「R.E.port」": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "東京新聞": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ゴムタイムス": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "新建ハウジング": {
+    "NEXCO 西日本 企業情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ベガルタ仙台オフィシャルサイト": {
+    "ウェザーニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "日テレNEWS NNN": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "city.okayama.jp": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "Google ニュース": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "Wallpaper*": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "DNライティング": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
-      "source": "最新不動産ニュースサイト「R.E.port」",
-      "cat": "賞・コンペ",
-      "date": "2026.09.03",
-      "title": "札幌・大通公園のタワーマンション、「平成24年照明普及賞」受賞／大京",
-      "url": "https://www.re-port.net/article/news/0000032667/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.re-port.net/picture_l/report/0000032667_00.jpg",
-      "today": true
-    },
-    {
-      "source": "東京新聞",
+      "source": "pronews.com",
       "cat": "国内情報",
       "date": "2026.09.03",
-      "title": "吉井澄雄さん死去 照明家、劇団四季創立",
-      "url": "https://www.tokyo-np.co.jp/article/420952",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
       "excerpt": "",
-      "thumbnailUrl": "https://static.tokyo-np.co.jp/image/article/size1/f/0/b/a/f0ba001d69e2e8e61caa3aae3c376754_1.jpg",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
       "today": true
     },
     {
-      "source": "ゴムタイムス",
-      "cat": "賞・コンペ",
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
       "date": "2026.09.03",
-      "title": "朝日ラバーと埼玉大学が受賞 インテリジェントＨＣＬ照明システムで",
-      "url": "https://www.gomutimes.co.jp/?p=184664",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.gomutimes.co.jp/wp-content/uploads/2023/06/20230614.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
       "today": true
     },
     {
-      "source": "新建ハウジング",
-      "cat": "賞・コンペ",
+      "source": "axismag.jp",
+      "cat": "展示・アート",
       "date": "2026.09.03",
-      "title": "アイリスオーヤマ、高効率ＬＥＤ照明が省エネ大賞を受賞",
-      "url": "https://www.s-housing.jp/archives/122047",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
-      "source": "ベガルタ仙台オフィシャルサイト",
-      "cat": "賞・コンペ",
+      "source": "NEXCO 西日本 企業情報",
+      "cat": "展示・アート",
       "date": "2026.09.03",
-      "title": "バックナンバー2018 | 6月15日(金)、ユアテックスタジアム仙台が「照明普及賞」を受賞しました。",
-      "url": "https://www.vegalta.co.jp/backnumber/2018/news/online_news/2018/06/post-6089.html",
+      "title": "中国自動車道 加西SA（上り線）が「イルミネーション」でライトアップされます。",
+      "url": "https://corp.w-nexco.co.jp/newly/h19/1129/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.vegalta.co.jp/backnumber/img/emb.svg",
+      "thumbnailUrl": "https://corp.w-nexco.co.jp/images/common/icn_siteselect_search_out.gif",
+      "today": true
+    },
+    {
+      "source": "ウェザーニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "盛岡城跡公園石垣ライトアップ",
+      "url": "https://weathernews.jp/illumi/spot/1202003/",
+      "excerpt": "",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "日テレNEWS NNN",
+      "cat": "展示・アート",
+      "date": "2026.09.03",
+      "title": "「ヒマワリとイルミネーションが素敵」ヒマワリ畑をライトアップ（仙台市・せんだい農業園芸センター）",
+      "url": "https://news.ntv.co.jp/n/mmt/category/society/mm98d7f5fe01384130ac26452bec4c87c9",
+      "excerpt": "",
+      "thumbnailUrl": "https://image.gallery.play.jp/mmt-news/articles/22e4c138855548599ea69ef23483e0fc/6eb1c14c-cf78-40b0-8900-0dd6a1dfaabe.jpg?w=1200",
+      "today": true
+    },
+    {
+      "source": "city.okayama.jp",
+      "cat": "国内情報",
+      "date": "2026.09.03",
+      "title": "西川夏あかり2026 開催します",
+      "url": "https://www.city.okayama.jp/kankou/0000030935.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.city.okayama.jp/design_img/",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "国内情報",
+      "date": "2026.09.03",
+      "title": "ライティング情報【公式】東京スカイツリー TOKYO SKYTREE - tokyo-skytree.jp",
+      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Es Devlin, Carrie Mae Weems and Palace Skateboards guest-edit Wallpaper’s big birthday issue – on sale now",
-      "url": "https://www.wallpaper.com/design-interiors/october-2026-guest-editors-issue-read-more",
-      "excerpt": "Special covers, extraordinary sections and a landmark birthday as Wallpaper* turns 30 and three creative giants take the reins of the October 2026 issue, on newsstands now",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GYgqReMkNdh4hN5VtxswmM-2560-80.jpg",
+      "title": "Bar Blondie knows how to make a scene in Queen’s Park",
+      "url": "https://www.wallpaper.com/travel/restaurants/bar-blondie-london-review",
+      "excerpt": "An award-winning sommelier, an Aussie restaurateur and the pioneer of the spaghetti Western genre walk into a bar on Lonsdale Road, London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCNZRJApLbpowYV4bcLppZ-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "motorola gives its razr a quilted shell covered in swarovski crystals",
+      "url": "https://www.designboom.com/technology/motorola-razr-quilted-swarovski-crystals-flip-phone/",
+      "excerpt": "the folding phone pairs a dark quilted surface with thirty-five hand-placed crystals which catch light as the device moves. \nThe post motorola gives its razr a quilted shell covered in swarovski cryst",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/motorola-razr-swarovski-flip-phone-maria-jose-martin-designboom-FB.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Es Devlin guest-edits Wallpaper*",
-      "url": "https://www.wallpaper.com/design-interiors/es-devlin-guest-edits-wallpaper",
-      "excerpt": "The multidisciplinary designer, artist and self-confessed ‘everythingist’ brings the full wonder of her 30 years in practice to Wallpaper’s October 2026 issue as one of three visionary guest editors –",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Jsd7H8Bijdup8UnkoTKruc-1477-80.jpg",
+      "title": "Alexandrino Da Silva is part of Palace's Creative Universe",
+      "url": "https://www.wallpaper.com/fashion-beauty/alexandrino-da-silva-interview-palace-creative-universe",
+      "excerpt": "As Guest Editors of Wallpaper's 30th anniversary magazine, Palace Skateboards have turned the lens on their creative universe. Meet skateboarder and storyteller Alexandrino Da Silva",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KWHPkBS2gRcQs7ZunchneQ-1500-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Victoria Beckham’s New York flagship is her ‘home away from home’",
-      "url": "https://www.wallpaper.com/fashion-beauty/victoria-beckham-new-york-soho-store",
-      "excerpt": "Marking her second permanent store after London’s Dover Street, the ‘warm, intimate’ SoHo address was designed alongside artist Alexander May and designer Ole Lund of LNP and draws inspiration from ar",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/s2LzTTXD3iJNH8TkqDPeWo-2560-80.jpg",
+      "title": "Ben Drury is part of Palace's Creative Universe",
+      "url": "https://www.wallpaper.com/design-interiors/visual-comms/ben-drury-interview-palace-creative-universe",
+      "excerpt": "As Palace Skateboards Guest Edit Wallpaper* Magazine, October 2026, they turn the lens on their creative universe, profiling their friends, collaborators and muses. With that in mind, meet designer Be",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iTZrowp5XqEXUx9XYDSQsj-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Bonnie Prince Billy is part of Palace's Creative Universe",
+      "url": "https://www.wallpaper.com/fashion-beauty/bonnie-prince-billy-interview-palace",
+      "excerpt": "As part of the 30th anniversary edition of Wallpaper*, Palace Skateboards take the reins as Guest Editors to shine a light on their vast creative community. Meet musician Bonnie Prince Billy",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PKRv4wPorMmFaBwiwg2KfQ-1500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Moto Guzzi opens a new museum at its historic Lake Como factory",
+      "url": "https://www.wallpaper.com/design-interiors/moto-guzzi-museum-greg-lynn-italy",
+      "excerpt": "The legendary Italian motorcycle manufacturer unveils its transformed Mandello del Lario headquarters, with a new museum and production facilities designed by American architect Greg Lynn",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n7qw8UufKcxPeH9oNVniHH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "giant poké ball becomes human-sized sleeping pod in japan",
+      "url": "https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/",
+      "excerpt": "the familiar red-and-white sphere is finally letting humans in, although only a few lucky sleepers will get the key\nThe post giant poké ball becomes human-sized sleeping pod in japan appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/giant-poke-ball-human-sized-sleeping-pod-japa9-818x653.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Imagina Abstract tiles by Casalgrande Padana",
+      "url": "https://www.dezeen.com/2026/09/03/imagina-abstract-tiles-casalgrande-padana-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: designers can create mural-like feature walls and wallpaper-esque finishes using the artistic Imagina Abstract tile range by Casalgrande Padana. The Italian company's Imagina Abstract",
       "today": true
     },
     {
@@ -184,21 +276,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Emeco sues Zara Home over chairs designed by Norman Foster",
-      "url": "https://www.dezeen.com/2026/09/03/emeco-sues-zara-home-20-06-chair-norman-foster/",
-      "excerpt": "US furniture brand Emeco has begun legal action against Zara Home for allegedly copying a chair and a stool designed for the brand by architect Norman Foster. Emeco filed the lawsuit in the Hamburg Di",
+      "title": "House / José Adrião Arquitetos",
+      "url": "https://www.archdaily.com/1184481/house-jose-adriao-arquitetos",
+      "excerpt": "In 1889, the land belonging to several estates in Campolide was subdivided, leading to the construction of three working-class villa communities: Amarante, Cabaço, and Maia. Located within Vila Maia i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5d17/505a/cb00/0115/26df/large_jpg/00__2_.jpg?1788370235",
       "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Strut table and pouf by Yağmur Köylü for Yet Design Studio",
-      "url": "https://www.dezeen.com/2026/09/03/strut-table-pouf-yagmur-koylu-yet-design-studio-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Istanbul and London-based Yet Design Studio has launched a matching pouf and table made from aluminium angle profiles commonly used in construction. The Strut table and pouf join Yet ",
+      "title": "Emeco sues Zara Home over chairs designed by Norman Foster",
+      "url": "https://www.dezeen.com/2026/09/03/emeco-sues-zara-home-20-06-chair-norman-foster/",
+      "excerpt": "US furniture brand Emeco has begun legal action against Zara Home for allegedly copying a chair and a stool designed for the brand by architect Norman Foster. Emeco filed the lawsuit in the Hamburg Di",
       "today": true
     },
     {
@@ -212,103 +305,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Utopian Hours Ten Years Edition Part 2",
+      "url": "https://www.archdaily.com/1184470/utopian-hours-ten-years-edition-part-2",
+      "excerpt": "The international festival of city making returns for Part 2 of its Ten Years Edition after a successful event in Rotterdam last May.Over two days, the festival will bring together architects, develop",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/157f/15d8/6f00/01a2/eaad/large_jpg/lineup__Torino_green__3_.jpg?1788417426",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "MAD’s lucas opens in LA this month: take an early look inside",
+      "title": "MAD’s lucas museum of narrative art opens in LA this month: take an early look inside",
       "url": "https://www.designboom.com/architecture/mad-lucas-museum-narrative-art-early-look-inside/",
-      "excerpt": "mad architects’ lucas museum of narrative art opens in los angeles with 9,290 square meters of galleries.\nThe post MAD’s lucas opens in LA this month: take an early look inside appeared first on desig",
+      "excerpt": "mad architects’ lucas museum of narrative art opens in los angeles with 9,290 square meters of galleries.\nThe post MAD’s lucas museum of narrative art opens in LA this month: take an early look inside",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-lucas-museum-narrative-art-early-look-inside-designboom-11.jpg",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "With a towering wall of paper lanterns, this LA boutique deftly layers Asian and American design influences",
-      "url": "https://www.wallpaper.com/design-interiors/lang-boutique-los-angeles",
-      "excerpt": "Studio Paul Chan cleverly mixes materials and craft techniques for Lang, a mission-driven retail concept that doubles as a gallery and performance venue",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bfHgvfuSskUXwPoMpZh7D8-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "designboom’s guide to paris design week 2026: highlights in and out of maison&objet",
-      "url": "https://www.designboom.com/design/designboom-guide-paris-design-week-2026-highlights-maisonobjet/",
-      "excerpt": "from historic monuments to independent galleries and temporary spaces, discover the exhibitions, installations, and design events shaping paris design week 2026.\nThe post designboom’s guide to paris d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/07/designboom-guide-paris-design-week-highlights-maison-objet-2026-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "house-like concrete play structures frame community arc park in chihuahua",
-      "url": "https://www.designboom.com/architecture/house-like-concrete-play-structures-community-arc-park-chihuahua-urbanika/",
-      "excerpt": "arc park places recreation and community gathering at the center of the mixed-use development.\nThe post house-like concrete play structures frame community arc park in chihuahua appeared first on desi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/arc-park-urbanika-community-park-chihuahua-mexico-designboom-1200.jpg",
+      "title": "The Kitchen Edge: Service, Storage, and Domestic Boundaries in Compact Interiors",
+      "url": "https://www.archdaily.com/1183979/the-kitchen-edge-service-storage-and-domestic-boundaries-in-compact-interiors",
+      "excerpt": "In compact homes, the kitchen is rarely only a room for cooking. It often operates as an edge: a service wall or a boundary between domestic work and social life. Its importance lies not only in food ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/5144/ac8b/af01/892c/ed3f/large_jpg/the-kitchen-edge-service-storage-and-domestic-boundaries-in-compact-apac-interiors_1.jpg?1787711825",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Crystal Sauna for Skellefteå / Bigert & Bergström",
-      "url": "https://www.archdaily.com/1183940/crystal-sauna-for-skelleftea-bigert-and-bergstrom",
-      "excerpt": "Guided by the philosophy \"From Waste to Promise,\" WasteLand transforms a heavily contaminated former industrial site into a public park where regenerative urban development, contemporary art, and clim",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d23/4253/0500/01ca/0893/large_jpg/_BB_9300-2_Photo_Pa_r_Olofsson-low-res.jpg?1787665717",
+      "title": "Tenjin Business Center II / OMA",
+      "url": "https://www.archdaily.com/1184460/tenjin-business-center-ii-oma",
+      "excerpt": "Fukuoka is the seventh biggest city in Japan and its central location among major cities of East Asia positions the city as a gateway into Japan, contributing to its standing as the economic center of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/8e87/4348/7022/5037/0b6c/large_jpg/tenjin-business-center-ii-oma_1.jpg?1788382889",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
-      "title": "Suzhou Museum of Contemporary Art Opens as BIG's First Completed Art Museum",
-      "url": "https://www.archdaily.com/1184463/suzhou-museum-of-contemporary-art-opens-as-bigs-first-completed-art-museum",
-      "excerpt": "The Suzhou Museum of Contemporary Art is now officially open to the public on the shores of Jinji Lake in Suzhou, China. The 60,000 m² building was designed by BIG – Bjarke Ingels Group, ARTS Group, V",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/d856/cc78/e301/8820/ddac/large_jpg/the-suzhou-museum-of-contemporary-art-opens-to-the-public-marking-bigs-first-completed-art-museum_23.jpg?1788401771",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "From Residual Land to Civic Places: 6 Mexican Public Parks",
-      "url": "https://www.archdaily.com/1184217/from-residual-land-to-civic-places-6-mexican-public-parks",
-      "excerpt": "Mexico's rapid urban growth over recent decades has left many cities struggling with fragmented neighborhoods, high crime rates, and severe shortages of quality public spaces. In many low-income urban",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a94/aec0/c615/2701/88ac/46e8/large_jpg/restoring-the-urban-fabric-5-mexican-public-parks-that-convert-residual-land-into-civic-corridors_8.jpg?1788128971",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Garnier & Linker brings its elegant lighting outdoors for the first time",
-      "url": "https://www.wallpaper.com/design-interiors/lighting/garnier-and-linker-aurora-collection",
-      "excerpt": "Debuting at Paris Design Week, the French lighting brand’s first outdoor collection swaps bronze and plaster for cast aluminium, proving that durability needn’t come at the expense of aesthetics",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MuYMXCqbDxXJqh94ytX4v5-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "House of Wall Forest / IGArchitects",
-      "url": "https://www.archdaily.com/1184375/house-of-wall-forest-igarchitects",
-      "excerpt": "This house was designed for a couple and their child on a uniquely shaped site resembling a crab's claw, with a greenway to the south and a transmission tower standing to the east. Rather than imposin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/294e/5557/cb01/8894/ac6d/large_jpg/house-of-wall-forest-igarchitects_6.jpg?1788291426",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "PIN’N PAN House / ForX Design Studio",
-      "url": "https://www.archdaily.com/1184382/pinn-pan-house-forx-design-studio",
-      "excerpt": "PINN'N PAN house is inspired from the young couple owner who was an aircraft engineer and local entrepreneur. The requirements, which consist of 10% for resident 40% for pig farm and 50% for sustainab",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2d05/5557/cb01/8894/aca6/large_jpg/pan-hires-031-12.jpg?1788292398",
+      "title": "What Does a Museum Need? Inside the Exhibition Architecture of the Natural History Museum Oslo",
+      "url": "https://www.archdaily.com/1182454/what-does-a-museum-need-inside-the-exhibition-architecture-of-the-natural-history-museum-oslo",
+      "excerpt": "Designing a museum interior means negotiating between the needs of the collection and those of the visitor: objects must be protected and carefully displayed, while spaces need to remain accessible, l",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a79/8073/ac8b/af01/892c/b6c2/large_jpg/what-does-a-museum-need-inside-the-exhibition-architecture-of-the-natural-history-museum-oslo_1.jpg?1786347672",
       "today": true
     },
     {
