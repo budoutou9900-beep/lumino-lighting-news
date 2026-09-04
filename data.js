@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  17:59",
+  "fetchedAt": "2026.09.04  20:34",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "時遊zine": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "徳島新聞デジタル": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "徳島新聞デジタル": {
+    "るるぶWeb": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "kurumefan.com": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,37 +45,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -97,16 +93,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "時遊zine",
-      "cat": "展示・アート",
-      "date": "2026.09.04",
-      "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
-      "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
-      "excerpt": "",
-      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
       "today": true
     },
     {
@@ -140,6 +126,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "るるぶWeb",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "【2ページ目】福島県のおすすめイルミネーション&雪まつりのライトアップ（2025-2026）",
+      "url": "https://rurubu.jp/andmore/article/5064?page=2",
+      "excerpt": "",
+      "thumbnailUrl": "https://rurubu.jp/img_srw/andmore/images/0000722221/l_yUdyTQ4avznYhn6gDGpf1GBPcmJKcMFIPdn6H0tR.jpg",
+      "today": true
+    },
+    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.09.04",
@@ -149,12 +145,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurumefan.com",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
+      "title": "voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo",
+      "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
+      "excerpt": "the vertical residence responds to changing daylight, airflow, and seasonal conditions.\nThe post voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/takumi-wakui-riho-wakui-architects-house-kagurazaka-designboom-1200.jpg",
       "today": true
     },
     {
@@ -165,6 +162,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/spok-brillor-geometry-tennis-court-felipe-pantone-casa-axis/",
       "excerpt": "created during a 12-day residency, spok’s painted tennis court appears to sink through layers of repeating metallic geometry.\nThe post spok bends the geometry of tennis into an optical loop at felipe ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hard-court-2-felipe-pantone-casa-axis-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Perichón House / ODB Arquitectos",
+      "url": "https://www.archdaily.com/1184583/perichon-house-odb-arquitectos",
+      "excerpt": "Perichón House begins before its form is even defined. The starting point is to carefully recognize what already exists: a wooded lot, a clearing among the vegetation, and the environmental conditions",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/cf0b/15d8/6f00/01a2/f014/large_jpg/Perich_n_-_WEB___Ramiro_Sosa__46_.jpg?1788530520",
       "today": true
     },
     {
@@ -266,16 +273,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "IKEA builds tiny houses to prove a point: compact spaces can hold identity",
-      "url": "https://www.designboom.com/design/ikea-tiny-house-store-organize-report-2026/",
-      "excerpt": "reflecting insights from IKEA’s store and organise report 2026, tiny houses installation highlights a global cultural shift toward warm, lived-in spaces.\nThe post IKEA builds tiny houses to prove a po",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ikea_designboom-fb-03.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -321,16 +318,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/pan-african-biennale-2026-guide",
       "excerpt": "We guide you through the Pan-African Biennale 2026, the first-ever architecture festival of its kind, curated by architect Omar Degan to ‘belong to all of Africa’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YgLAamnYkWheKNp5fHxHNo-1416-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "UDL Thesis Publication Seminar 2026",
-      "url": "https://www.archdaily.com/1184537/udl-thesis-publication-seminar-2026",
-      "excerpt": "The UDL Thesis Publication Seminar 2026 is a two-day international online seminar organized by Urban Design Lab, bringing together selected undergraduate and postgraduate thesis projects from across t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/b2a2/15d8/6f00/01a2/ee94/large_jpg/Poster_UDL_Thesis_Publication_2026-01.jpg.jpg?1788523194",
       "today": true
     },
     {
