@@ -1,77 +1,85 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  00:38",
+  "fetchedAt": "2026.09.04  05:22",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "るるぶWeb": {
+    "instagram.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "fujitv.co.jp": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "調布経済新聞": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ウェザーニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "高松経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "東京ベイ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "DNライティング": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -86,16 +94,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.04",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.09.04",
@@ -106,44 +104,104 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "るるぶWeb",
-      "cat": "展示・アート",
+      "source": "中日新聞Web",
+      "cat": "国内情報",
       "date": "2026.09.04",
-      "title": "この冬行きたいイルミネーション！竹のライトアップが幻想的な『Bamboo Winter Lights 2020』｜るるぶ&more.",
-      "url": "https://rurubu.jp/andmore/article/12512",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "thumbnailUrl": "https://rurubu.jp/img_srw/andmore/images/0000307255/l_ENvQQLCJ5yuYYI93b3x5xXmbO3fT8l7GmPBIr1tP.jpeg",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
-      "source": "fujitv.co.jp",
+      "source": "instagram.com",
       "cat": "展示・アート",
       "date": "2026.09.04",
-      "title": "社屋イルミネーションAURORA を活用しアウェアネスカラーライトアップを実施",
-      "url": "https://www.fujitv.co.jp/csr/activities_report_2020/syakai/report/0435.html",
+      "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
+      "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fujitv.co.jp/csr/images/common/header_title02.png",
+      "thumbnailUrl": "https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lOEYD8WgbiAQ7kNvwEUZNtR&_nc_oc=Ado0M18miWp0u40lKLMfJgAtMeoJ71q3bsXyiaYmAGqYz4IGu__4MPxM9GIfWaRtbVc&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=CR1_xUV3GWasMp-ChmdnMg&_nc_ss=7e60f&oh=00_AQKti3J8EvPKGMaCfnHq5MmvZygq3ARtblmLlKDMb5IfcQ&oe=6AA02FE2",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
+      "source": "調布経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "よみうりランドでイルミネーション 新観覧車は両面で異なるライトアップ",
+      "url": "https://chofu.keizai.biz/headline/4690/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/chofu_keizai/headline/1761179839_photo.jpg",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.04",
-      "title": "江の島イルミネーション「湘南の宝石」絶景展望台ライトアップや輝くシャンデリアのトンネルなど",
-      "url": "https://www.fashion-press.net/news/81379",
+      "title": "東京スカイツリータウンで本格クリスマスマーケット＆イルミネーション、ツリー風ライトアップも",
+      "url": "https://www.fashion-press.net/news/139284",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/81379/top.jpg?1638497248",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/139284/top.jpg?1760510913",
       "today": true
     },
     {
-      "source": "ウェザーニュース",
+      "source": "高松経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.04",
-      "title": "盛岡城跡公園石垣ライトアップ",
-      "url": "https://weathernews.jp/illumi/spot/1202003/",
+      "title": "やしまーるの建物もイルミネーションで彩られる＝屋島山上でライトアップとプロジェクションマッピング",
+      "url": "https://takamatsu.keizai.biz/photoflash/5448/",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/photonews/1764562346_b.jpg",
       "today": true
+    },
+    {
+      "source": "東京ベイ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "お台場のイルミネーション「YAKEI」が冬仕様に 青くライトアップ",
+      "url": "https://tokyobay.keizai.biz/headline/2495/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/tokyobay_keizai/headline/1762933845_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Wallpaper* Architects’ Directory 2026 is here. These are the emerging studios to watch",
+      "url": "https://www.wallpaper.com/architecture/architects-directory/wallpaper-architects-directory-2026",
+      "excerpt": "Wallpaper’s latest annual Architects’ Directory is unveiled, celebrating 30 exciting young studios to know, from 27 countries",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Buvfx5WWvt2fYbbjYsW6S7-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "a vase that follows the full arc of a flower’s life, even as petals fall",
+      "url": "https://www.designboom.com/design/vase-full-arc-flower-life-petals-fall-vita-vase-houbi/",
+      "excerpt": "vita vase rethinks the vase around the full life cycle of a flower, making space for petals as they fall and for stems that unexpectedly rise towards the light.\nThe post a vase that follows the full a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/vita-vase-houbi-full-arc-flower-life-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "travertine, timber, and desert-toned textures shape groundeddesign’s villa limni in dubai",
+      "url": "https://www.designboom.com/architecture/travertine-timber-desert-toned-textures-groundeddesign-villa-limni-dubai/",
+      "excerpt": "interior’s restrained material palette extends to the exterior through a travertine-clad facade.\nThe post travertine, timber, and desert-toned textures shape groundeddesign’s villa limni in dubai appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/dubai-villa-limni-groundeddesign-designboom-1200-1-1.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -245,26 +303,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Ben Drury is part of Palace's Creative Universe",
-      "url": "https://www.wallpaper.com/design-interiors/visual-comms/ben-drury-interview-palace-creative-universe",
-      "excerpt": "As Palace Skateboards Guest Edit Wallpaper* Magazine, October 2026, they turn the lens on their creative universe, profiling their friends, collaborators and muses. With that in mind, meet designer Be",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iTZrowp5XqEXUx9XYDSQsj-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "giant poké ball becomes human-sized sleeping pod in japan",
-      "url": "https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/",
-      "excerpt": "the familiar red-and-white sphere is finally letting humans in, although only a few lucky sleepers will get the key\nThe post giant poké ball becomes human-sized sleeping pod in japan appeared first on",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/giant-poke-ball-human-sized-sleeping-pod-japa9-818x653.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.03",
@@ -301,16 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184160/veil-house-turkel-design",
       "excerpt": "Emerging from a forest of black oak and tupelo that populates the northwest edge of Martha's Vineyard, Veil House is a study in careful modulation. Commissioned by a doctor and a visual artist, the si",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/b74a/a25c/7b00/0125/fd24/large_jpg/19_-_Veil_House_by_Turkel_Design_-_Draper_White.jpg?1787934557",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "‘handmade utopia’ traces radical homes of northern california’s back-to-the-land movement",
-      "url": "https://www.designboom.com/architecture/handmade-utopia-radical-homes-northern-california-land-movement/",
-      "excerpt": "half a century after the back-to-the-land movement transformed northern california, the book documents the handmade homes and personal histories of those who attempted to build an alternative way of l",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/handmade-utopia-radical-homes-northern-california-land-movement-designboom-1200.jpg",
       "today": false
     },
     {
@@ -426,7 +454,6 @@ window.LUMINO_DATA = {
       "title": "新製品：縦曲げ・横曲げで屋外の曲線に対応｜IP67対応・屋外用LEDモジュール「FXC-LED-WP」",
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
