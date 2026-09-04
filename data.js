@@ -1,39 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  05:22",
+  "fetchedAt": "2026.09.04  10:24",
   "sourceColors": {
-    "pronews.com": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "instagram.com": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "夜景FAN": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "調布経済新聞": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "高松経済新聞": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "東京ベイ経済新聞": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,136 +13,173 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "DNライティング": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "国内情報",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "title": "IKEA builds tiny houses to prove a point: compact spaces can hold identity",
+      "url": "https://www.designboom.com/design/ikea-tiny-house-store-organize-report-2026/",
+      "excerpt": "reflecting insights from IKEA’s store and organise report 2026, tiny houses installation highlights a global cultural shift toward warm, lived-in spaces.\nThe post IKEA builds tiny houses to prove a po",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ikea_designboom-fb-03.jpg",
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "title": "Studio Cadena fills Medellín cafe with 31 towering wooden columns",
+      "url": "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
+      "excerpt": "Architetcure firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere withou",
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "title": "Finnish company launches \"world's most carbon-storing building material\"",
+      "url": "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
+      "excerpt": "Finnish firm Elementic has unveiled MO6, a wall-surfacing material produced from forestry industry offcuts that is almost pure carbon. Called MO6, the product takes the form of thick, lightweight tile",
       "today": true
     },
     {
-      "source": "instagram.com",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
-      "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
-      "excerpt": "",
-      "thumbnailUrl": "https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lOEYD8WgbiAQ7kNvwEUZNtR&_nc_oc=Ado0M18miWp0u40lKLMfJgAtMeoJ71q3bsXyiaYmAGqYz4IGu__4MPxM9GIfWaRtbVc&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=CR1_xUV3GWasMp-ChmdnMg&_nc_ss=7e60f&oh=00_AQKti3J8EvPKGMaCfnHq5MmvZygq3ARtblmLlKDMb5IfcQ&oe=6AA02FE2",
+      "title": "The Pan-African Biennale 2026 guide – explore the first architecture festival of its kind",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/pan-african-biennale-2026-guide",
+      "excerpt": "We guide you through the Pan-African Biennale 2026, the first-ever architecture festival of its kind, curated by architect Omar Degan to ‘belong to all of Africa’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YgLAamnYkWheKNp5fHxHNo-1416-80.jpg",
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "title": "Dyson toothbrush updates \"a cleaning routine that has remained largely unchanged for decades\"",
+      "url": "https://www.dezeen.com/2026/09/04/dyson-toothbrush-camerajet-interview/",
+      "excerpt": "Following the unveiling of Dyson's CameraJet, the brand's Niamh Turney explained why it decided to redesign the toothbrush. Revealed earlier this week, the Dyson CameraJet toothbrush includes a mouthw",
       "today": true
     },
     {
-      "source": "調布経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "よみうりランドでイルミネーション 新観覧車は両面で異なるライトアップ",
-      "url": "https://chofu.keizai.biz/headline/4690/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/chofu_keizai/headline/1761179839_photo.jpg",
+      "title": "Dyson introduces new intelligent machines for home cleaning, haircare and air purification",
+      "url": "https://www.wallpaper.com/tech/dyson-2026-new-products-unveiled",
+      "excerpt": "From robot vacuum cleaners to smart straighteners and powerful purifiers, Dyson has dropped a dozen new products that share its new emphasis on sensors, intelligence and machine learning",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cfQwBw3WYwrjEoqpCDXY9g-2560-80.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "東京スカイツリータウンで本格クリスマスマーケット＆イルミネーション、ツリー風ライトアップも",
-      "url": "https://www.fashion-press.net/news/139284",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/139284/top.jpg?1760510913",
+      "title": "why entering the japanese design market requires more than exporting nordic aesthetics",
+      "url": "https://www.designboom.com/design/japanese-market-nordic-scandinavian-aesthetics-interview/",
+      "excerpt": "elna nykänen andersson explores how shared values and deep cultural translation connect finnish craft with japanese rituals.\nThe post why entering the japanese design market requires more than exporti",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/navigators-of-design-designboom-FB.jpg",
       "today": true
     },
     {
-      "source": "高松経済新聞",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "やしまーるの建物もイルミネーションで彩られる＝屋島山上でライトアップとプロジェクションマッピング",
-      "url": "https://takamatsu.keizai.biz/photoflash/5448/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/takamatsu_keizai/photonews/1764562346_b.jpg",
+      "title": "Fitbit founders launch AI-powered wristband to monitor health of whole family",
+      "url": "https://www.dezeen.com/2026/09/04/fitbit-luffu-link-ai-powered-wristband-health-family/",
+      "excerpt": "Luffu Link is a sleek, wireless wristband designed to track multiple users at once, conceived by wearable technology company Fitbit to \"bring your family's health and safety together\". Available in on",
       "today": true
     },
     {
-      "source": "東京ベイ経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "お台場のイルミネーション「YAKEI」が冬仕様に 青くライトアップ",
-      "url": "https://tokyobay.keizai.biz/headline/2495/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/tokyobay_keizai/headline/1762933845_photo.jpg",
+      "title": "The Jensen Interceptor GTX is a ferocious proof of concept for the bold revival of a classic GT",
+      "url": "https://www.wallpaper.com/transportation/jensen-interceptor-gtx",
+      "excerpt": "One of British motoring’s great lost names, Jensen, is roaring back to relevance with the reveal of the Interceptor GTX, a track-only enhanced prototype that prefigures a return to high-performance lu",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SEpHjBeLNDc7Lk7TGRUzA4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "broken eiffel tower crashes into nevada desert for burning man 2026",
+      "url": "https://www.designboom.com/art/broken-eiffel-tower-nevada-desert-burning-man-2026-philippe-maindron/",
+      "excerpt": "a 29-tonne fractured replica of the eiffel tower by philippe maindron has risen from the dust of nevada’s black rock desert for burning man 2026.\nThe post broken eiffel tower crashes into nevada deser",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/broken-eiffel-tower-nevada-desert-burning-man-2026-philippe-maindron-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Solange Calio’s new family house near São Paulo is spacious, playful and dynamic",
+      "url": "https://www.wallpaper.com/architecture/residential/solange-calios-house-design-sao-paulo-brazil",
+      "excerpt": "This single-storey Brazilian house by Solange Calio envelops landscaped gardens, pools and ponds to create the feel of a life on permanent vacation",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wnh9zDffYzyPS3UjLkiVvP-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "hissy cooling jacket pairs CO₂ cartridges with technical apparel for extreme urban heat",
+      "url": "https://www.designboom.com/technology/hissy-cooling-jacket-co%e2%82%82-cartridges-technical-apparel-extreme-urban-heat/",
+      "excerpt": "micro-perforations direct airflow toward the body’s major heat-generating areas.\nThe post hissy cooling jacket pairs CO₂ cartridges with technical apparel for extreme urban heat appeared first on desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hissy-co2-cartridges-technical-apparel-cooling-extreme-urban-heat-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Ryno equips London rooftop with integrated terracing system",
+      "url": "https://www.dezeen.com/2026/09/04/ryno-london-rooftop-terrace-integrated-terracing-system/",
+      "excerpt": "Promotion: construction systems manufacturer Ryno's TerraSmart Lattice Rail System was chosen to connect the planting, balustrading, seating and entertainment spaces for interior studio Thirdway Group",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Green Space and the Price of a Home on the US West Coast",
+      "url": "https://www.archdaily.com/1183990/green-space-and-the-price-of-a-home-on-the-us-west-coast",
+      "excerpt": "Every housing crisis eventually becomes a land question, and every land question eventually becomes a values question. The United States' West Coast has arrived at that point. As cities from Los Angel",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/79e0/ac8b/af01/892c/edbe/large_jpg/green-space-and-the-price-of-a-home-on-the-west-coast_1.jpg?1787722213",
       "today": true
     },
     {
@@ -184,6 +193,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Kaymana Wave Reception / Pablo Luna Studio",
+      "url": "https://www.archdaily.com/1184237/kaymana-wave-reception-pablo-luna-studio",
+      "excerpt": "Wave Reception, located in Uluwatu, Bali, takes its form from the image of a wave breaking along the coastline. The architectural gesture is intentionally simple: a single continuous curve that captur",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/6128/a25c/7b00/0126/01d4/large_jpg/1.jpg?1788174651",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -194,24 +213,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "travertine, timber, and desert-toned textures shape groundeddesign’s villa limni in dubai",
-      "url": "https://www.designboom.com/architecture/travertine-timber-desert-toned-textures-groundeddesign-villa-limni-dubai/",
-      "excerpt": "interior’s restrained material palette extends to the exterior through a travertine-clad facade.\nThe post travertine, timber, and desert-toned textures shape groundeddesign’s villa limni in dubai appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/dubai-villa-limni-groundeddesign-designboom-1200-1-1.jpg",
-      "today": false
+      "date": "2026.09.04",
+      "title": "House in Kamiyasu / Yutaka Yoshida Architect & Associates",
+      "url": "https://www.archdaily.com/1184338/house-in-kamiyasu-yutaka-yoshida-architect-and-associates",
+      "excerpt": "This residence is built on a flagpole-shaped lot surrounded by single-family homes. Neighboring houses are close to the south and east sides of the lot, while on the west and north sides, it borders a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/dac3/d93e/3d00/01db/820e/large_jpg/14.jpg?1788271354",
+      "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "why japanese architects carve parking into tiny urban homes",
-      "url": "https://www.designboom.com/architecture/japanese-carve-parking-tiny-urban-homes-tokyo/",
-      "excerpt": "across japanese cities, tiny urban houses carve parking directly into their plans and sections to create a car-sized void.\nThe post why japanese architects carve parking into tiny urban homes appeared",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/car-shaped-hole-japanese-houses-tokyo-parking-architecture-designboom-FB.jpg",
-      "today": false
+      "date": "2026.09.04",
+      "title": "Qingdeng Village Art Museum / atelier anonymous",
+      "url": "https://www.archdaily.com/1184302/qingdeng-village-art-museum-atelier-anonymous",
+      "excerpt": "From Administrative Void to Contemporary Village Entrance: Reviving Public Life in Qingdeng VillageThe design finds its inspiration in the quiet disappearance of public life in Jiangnan's countryside.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/6ed0/b853/2e01/895b/6a7d/large_jpg/qingdeng-village-art-museum-atelier-anonymous_48.jpg?1788243725",
+      "today": true
     },
     {
       "source": "ArchDaily",
@@ -221,151 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184512/casa-solis-21-ihouse-estudio",
       "excerpt": "Casa Solís 21 is a temporary residence located in a rural setting in Soca, Canelones, conceived as a weekend home for a family seeking a space to gather and rest within easy reach of Montevideo.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f1d9/bed1/7f00/014d/2552/large_jpg/03_-_Solis_21.jpg?1788277229",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "This device slows Citi Bikes in \"rent-burdened\" New York blocks",
-      "url": "https://www.dezeen.com/2026/09/03/justin-blinder-citibike-ground-truth-new-york-city-housing/",
-      "excerpt": "New York artist Justin Blinder has created a device that slows the city's paid-share bikes as they pass through parts of the city that are under \"greater housing pressure\". For the Ground Truth projec",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "MAD transforms 1923 art deco warehouse into rotterdam’s house for dance",
-      "url": "https://www.designboom.com/architecture/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis/",
-      "excerpt": "studios, public performance spaces, and a rooftop salle des fêtes will bring professional and amateur dancers together beside MAD’s neighboring fenix museum.\nThe post MAD transforms 1923 art deco ware",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "The Palace creative universe and Wallpaper* guest edit",
-      "url": "https://www.wallpaper.com/fashion-beauty/palace-skateboards-guest-edit-and-creative-universe",
-      "excerpt": "Palace Skateboards guest-edits Wallpaper* October 2026. Here, the founders turn the lens from themselves to profile the wide-reaching Palace community",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JziotKVozkxdkm7yawyMBC-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Beacon School High School / Andrade Morettin Arquitetos Associados + Guido Otero Arquitetura + Ricardo Gusmão Arquitetos",
-      "url": "https://www.archdaily.com/1184487/beacon-school-high-school-andrade-morettin-arquitetos-associados-plus-guido-otero-arquitetura-plus-ricardo-gusmao-arquitetos",
-      "excerpt": "The design for the Beacon School high school building is an integral part of a master plan, developed in 2016, for the establishment of the school's new campus, located in the former industrial neighb",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/e769/d6d0/0400/0105/314c/large_jpg/Alberto_Ricci_29DJI_0566.jpg?1788209034",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Es Devlin casts Homo Faber 2026 in a new light",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-homo-faber-2026-review",
-      "excerpt": "On Venice’s San Giorgio Maggiore, the British artist gathers more than 700 handcrafted objects in an exploration of human skill, material and time",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y9gvBPHoKKSpa93qp78EAD-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Bar Blondie knows how to make a scene in Queen’s Park",
-      "url": "https://www.wallpaper.com/travel/restaurants/bar-blondie-london-review",
-      "excerpt": "An award-winning sommelier, an Aussie restaurateur and the pioneer of the spaghetti Western genre walk into a bar on Lonsdale Road, London",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCNZRJApLbpowYV4bcLppZ-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "motorola gives its razr a quilted shell covered in swarovski crystals",
-      "url": "https://www.designboom.com/technology/motorola-razr-quilted-swarovski-crystals-flip-phone/",
-      "excerpt": "the folding phone pairs a dark quilted surface with thirty-five hand-placed crystals which catch light as the device moves. \nThe post motorola gives its razr a quilted shell covered in swarovski cryst",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/motorola-razr-swarovski-flip-phone-maria-jose-martin-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Alexandrino Da Silva is part of Palace's Creative Universe",
-      "url": "https://www.wallpaper.com/fashion-beauty/alexandrino-da-silva-interview-palace-creative-universe",
-      "excerpt": "As Guest Editors of Wallpaper's 30th anniversary magazine, Palace Skateboards have turned the lens on their creative universe. Meet skateboarder and storyteller Alexandrino Da Silva",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KWHPkBS2gRcQs7ZunchneQ-1500-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Los Navegantes House / María Catalina Picon Meleda + Alberto Browne Cruz",
-      "url": "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz",
-      "excerpt": "Los Navegantes House is the expansion and renovation of a 1963 home in Pedro de Valdivia Norte, a central residential neighborhood shaped by the presence of San Cristóbal Hill, its vegetation, and its",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9586/15d8/6f00/01a2/eced/large_jpg/_F8A9418-HDR-2_LQ.jpg?1788450289",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Imagina Abstract tiles by Casalgrande Padana",
-      "url": "https://www.dezeen.com/2026/09/03/imagina-abstract-tiles-casalgrande-padana-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: designers can create mural-like feature walls and wallpaper-esque finishes using the artistic Imagina Abstract tile range by Casalgrande Padana. The Italian company's Imagina Abstract",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "BF2 House / Peninsula Arquitetura",
-      "url": "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura",
-      "excerpt": "Located in Perdizes, São Paulo, this 1950s townhouse underwent a complete renovation designed by the office Península Arquitetura. The property, with 200 m² of built area, was acquired in poor conditi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/346c/7475/ba00/011c/a9b3/large_jpg/365A1669.jpg?1783968981",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Veil House / Turkel Design",
-      "url": "https://www.archdaily.com/1184160/veil-house-turkel-design",
-      "excerpt": "Emerging from a forest of black oak and tupelo that populates the northwest edge of Martha's Vineyard, Veil House is a study in careful modulation. Commissioned by a doctor and a visual artist, the si",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/b74a/a25c/7b00/0125/fd24/large_jpg/19_-_Veil_House_by_Turkel_Design_-_Draper_White.jpg?1787934557",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "MAD's spaceship-like Lucas Museum revealed ahead of opening",
-      "url": "https://www.dezeen.com/2026/09/03/lucas-museum-los-angeles-mad-open/",
-      "excerpt": "Architecture studios MAD and Stantec have placed more than 1,200 curved panels on the \"dream-like\" Lucas Museum of Narrative Art in Los Angeles, which is set to open later this month. Set in a 13-acre",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Fourteen must-see exhibitions and installations at London Design Festival 2026",
-      "url": "https://www.dezeen.com/2026/09/03/london-design-festival-2026-highlights/",
-      "excerpt": "A takeover of Richmond's Ham House and Garden, a sound installation at Wapping Hydraulic Power Station and a group show of 102 emerging designers are among the highlights at this year's London Design ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Historic England claims City of London office development could risk Tower of London's UNESCO status",
-      "url": "https://www.dezeen.com/2026/09/03/tower-of-london-historic-england/",
-      "excerpt": "Preservation body Historic England and the City of London are in dispute over the impact future skyscraper development will have on the Tower of London. In the latest hearing to determine the City Pla",
       "today": false
     },
     {
@@ -454,6 +328,7 @@ window.LUMINO_DATA = {
       "title": "新製品：縦曲げ・横曲げで屋外の曲線に対応｜IP67対応・屋外用LEDモジュール「FXC-LED-WP」",
       "url": "https://www.dnlighting.co.jp/media/pr/260821",
       "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
