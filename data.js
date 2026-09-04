@@ -1,92 +1,94 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.03  22:09",
+  "fetchedAt": "2026.09.04  00:38",
   "sourceColors": {
-    "銀座経済新聞": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "銀座経済新聞": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "るるぶWeb": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "fujitv.co.jp": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ファッションプレス": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "選挙ドットコム": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "広島ニュース 食べタインジャー": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "AGARA紀伊民報": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Yahoo!ニュース": {
+    "ウェザーニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "instagram.com": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "夜景FAN": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "大光電機": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "岩崎電気": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.04",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
+    {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.03",
+      "date": "2026.09.04",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -96,7 +98,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.03",
+      "date": "2026.09.04",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -104,82 +106,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "るるぶWeb",
       "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "御殿場高原 時之栖で春の花見イベント - 富士山麓に咲く約5,000本の桜、ライトアップも",
-      "url": "https://www.fashion-press.net/news/144468",
+      "date": "2026.09.04",
+      "title": "この冬行きたいイルミネーション！竹のライトアップが幻想的な『Bamboo Winter Lights 2020』｜るるぶ&more.",
+      "url": "https://rurubu.jp/andmore/article/12512",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/144468/top.jpg?1773727911",
+      "thumbnailUrl": "https://rurubu.jp/img_srw/andmore/images/0000307255/l_ENvQQLCJ5yuYYI93b3x5xXmbO3fT8l7GmPBIr1tP.jpeg",
+      "today": true
+    },
+    {
+      "source": "fujitv.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "社屋イルミネーションAURORA を活用しアウェアネスカラーライトアップを実施",
+      "url": "https://www.fujitv.co.jp/csr/activities_report_2020/syakai/report/0435.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fujitv.co.jp/csr/images/common/header_title02.png",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "群馬・みなかみ町温泉街の秋ライトアップイベント、虹色イルミネーションが彩る公園＆ナイト足湯も",
-      "url": "https://www.fashion-press.net/news/139231",
+      "date": "2026.09.04",
+      "title": "江の島イルミネーション「湘南の宝石」絶景展望台ライトアップや輝くシャンデリアのトンネルなど",
+      "url": "https://www.fashion-press.net/news/81379",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/139231/top.jpg?1760416724",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/81379/top.jpg?1638497248",
       "today": true
     },
     {
-      "source": "選挙ドットコム",
+      "source": "ウェザーニュース",
       "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "町田市&周辺エリアの冬のイルミネーション完全ガイド｜子連れで楽しめるクリスマスライトアップ情報",
-      "url": "https://go2senkyo.com/seijika/197689/posts/1245700",
+      "date": "2026.09.04",
+      "title": "盛岡城跡公園石垣ライトアップ",
+      "url": "https://weathernews.jp/illumi/spot/1202003/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "広島ニュース 食べタインジャー",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "ここならではのイルミ・ライトアップ！5日間限定開催でキッチンカーも来る",
-      "url": "https://tabetainjya.com/archives/itsukaichi2/pageant2025/",
-      "excerpt": "",
-      "thumbnailUrl": "https://tabetainjya.com/img/2511/pegent.jpg",
-      "today": true
-    },
-    {
-      "source": "AGARA紀伊民報",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "日本一のイルミネーションストリート「けやきライトパレード by FeStA LuCe」、今年も和歌山で開催決定！「世界一」認定を目指し、点灯エリアをさらに拡大",
-      "url": "https://www.agara.co.jp/article/656099",
-      "excerpt": "",
-      "thumbnailUrl": "https://prtimes.jp/img/93160/37/resize/d93160-37-d8672a12648b99507900-0.jpg",
-      "today": true
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "レインボーブリッジ 7月7日にライトアップ消灯へ 首都高が発表（くるまのニュース）",
-      "url": "https://news.yahoo.co.jp/articles/1b660f3a4b3a26bb59bf81dd93c52d9d7174fd8f",
-      "excerpt": "",
-      "thumbnailUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260623-01077237-kurumans-000-1-view.jpg?exp=10800",
-      "today": true
-    },
-    {
-      "source": "instagram.com",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "【色鮮やかな和傘のイルミネーション 神山町の黒松八幡神社で15日まで】 神山町上分の黒松八幡神社の境内で、色鮮やかなデザインの和傘を使ったイルミネーションが地域住民の目を楽しませています✨。15日まで。 総代会が、4年ほど前の秋から境内にある大イチョウのライト",
-      "url": "https://www.instagram.com/p/DTIIn9pjXbE/",
-      "excerpt": "",
-      "thumbnailUrl": "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/608638527_1294996375983486_4616105086897353922_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lOEYD8WgbiAQ7kNvwF_ZNEn&_nc_oc=Adp1qCZ04S2DAphvmczpqK8qGqdO3VRyQ_wXYVcHexM68I8LPuUEdU15bhXS2JbVysg&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=GbKucePap5rDNkArhUSphQ&_nc_ss=7e60f&oh=00_AQKBYlP-b7-ZCCTTCaFpoXpK6fK670bn2FJZtWWyobYb8A&oe=6A9FBF62",
-      "today": true
-    },
-    {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.09.03",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
       "today": true
     },
     {
@@ -190,7 +153,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/japanese-carve-parking-tiny-urban-homes-tokyo/",
       "excerpt": "across japanese cities, tiny urban houses carve parking directly into their plans and sections to create a car-sized void.\nThe post why japanese architects carve parking into tiny urban homes appeared",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/car-shaped-hole-japanese-houses-tokyo-parking-architecture-designboom-FB.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Casa Solis 21 / iHouse estudio",
+      "url": "https://www.archdaily.com/1184512/casa-solis-21-ihouse-estudio",
+      "excerpt": "Casa Solís 21 is a temporary residence located in a rural setting in Soca, Canelones, conceived as a weekend home for a family seeking a space to gather and rest within easy reach of Montevideo.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f1d9/bed1/7f00/014d/2552/large_jpg/03_-_Solis_21.jpg?1788277229",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -199,7 +172,7 @@ window.LUMINO_DATA = {
       "title": "This device slows Citi Bikes in \"rent-burdened\" New York blocks",
       "url": "https://www.dezeen.com/2026/09/03/justin-blinder-citibike-ground-truth-new-york-city-housing/",
       "excerpt": "New York artist Justin Blinder has created a device that slows the city's paid-share bikes as they pass through parts of the city that are under \"greater housing pressure\". For the Ground Truth projec",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -209,7 +182,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis/",
       "excerpt": "studios, public performance spaces, and a rooftop salle des fêtes will bring professional and amateur dancers together beside MAD’s neighboring fenix museum.\nThe post MAD transforms 1923 art deco ware",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -219,7 +192,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/palace-skateboards-guest-edit-and-creative-universe",
       "excerpt": "Palace Skateboards guest-edits Wallpaper* October 2026. Here, the founders turn the lens from themselves to profile the wide-reaching Palace community",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JziotKVozkxdkm7yawyMBC-2560-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.03",
+      "title": "Beacon School High School / Andrade Morettin Arquitetos Associados + Guido Otero Arquitetura + Ricardo Gusmão Arquitetos",
+      "url": "https://www.archdaily.com/1184487/beacon-school-high-school-andrade-morettin-arquitetos-associados-plus-guido-otero-arquitetura-plus-ricardo-gusmao-arquitetos",
+      "excerpt": "The design for the Beacon School high school building is an integral part of a master plan, developed in 2016, for the establishment of the school's new campus, located in the former industrial neighb",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/e769/d6d0/0400/0105/314c/large_jpg/Alberto_Ricci_29DJI_0566.jpg?1788209034",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -229,7 +212,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-homo-faber-2026-review",
       "excerpt": "On Venice’s San Giorgio Maggiore, the British artist gathers more than 700 handcrafted objects in an exploration of human skill, material and time",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y9gvBPHoKKSpa93qp78EAD-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -239,7 +222,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/bar-blondie-london-review",
       "excerpt": "An award-winning sommelier, an Aussie restaurateur and the pioneer of the spaghetti Western genre walk into a bar on Lonsdale Road, London",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCNZRJApLbpowYV4bcLppZ-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -249,7 +232,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/motorola-razr-quilted-swarovski-crystals-flip-phone/",
       "excerpt": "the folding phone pairs a dark quilted surface with thirty-five hand-placed crystals which catch light as the device moves. \nThe post motorola gives its razr a quilted shell covered in swarovski cryst",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/motorola-razr-swarovski-flip-phone-maria-jose-martin-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -259,7 +242,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/alexandrino-da-silva-interview-palace-creative-universe",
       "excerpt": "As Guest Editors of Wallpaper's 30th anniversary magazine, Palace Skateboards have turned the lens on their creative universe. Meet skateboarder and storyteller Alexandrino Da Silva",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KWHPkBS2gRcQs7ZunchneQ-1500-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -269,7 +252,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/visual-comms/ben-drury-interview-palace-creative-universe",
       "excerpt": "As Palace Skateboards Guest Edit Wallpaper* Magazine, October 2026, they turn the lens on their creative universe, profiling their friends, collaborators and muses. With that in mind, meet designer Be",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iTZrowp5XqEXUx9XYDSQsj-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -279,7 +262,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/",
       "excerpt": "the familiar red-and-white sphere is finally letting humans in, although only a few lucky sleepers will get the key\nThe post giant poké ball becomes human-sized sleeping pod in japan appeared first on",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/giant-poke-ball-human-sized-sleeping-pod-japa9-818x653.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -289,7 +272,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz",
       "excerpt": "Los Navegantes House is the expansion and renovation of a 1963 home in Pedro de Valdivia Norte, a central residential neighborhood shaped by the presence of San Cristóbal Hill, its vegetation, and its",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9586/15d8/6f00/01a2/eced/large_jpg/_F8A9418-HDR-2_LQ.jpg?1788450289",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -298,7 +281,7 @@ window.LUMINO_DATA = {
       "title": "Imagina Abstract tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/09/03/imagina-abstract-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: designers can create mural-like feature walls and wallpaper-esque finishes using the artistic Imagina Abstract tile range by Casalgrande Padana. The Italian company's Imagina Abstract",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -308,7 +291,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura",
       "excerpt": "Located in Perdizes, São Paulo, this 1950s townhouse underwent a complete renovation designed by the office Península Arquitetura. The property, with 200 m² of built area, was acquired in poor conditi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a55/346c/7475/ba00/011c/a9b3/large_jpg/365A1669.jpg?1783968981",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -318,7 +301,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184160/veil-house-turkel-design",
       "excerpt": "Emerging from a forest of black oak and tupelo that populates the northwest edge of Martha's Vineyard, Veil House is a study in careful modulation. Commissioned by a doctor and a visual artist, the si",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/b74a/a25c/7b00/0125/fd24/large_jpg/19_-_Veil_House_by_Turkel_Design_-_Draper_White.jpg?1787934557",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -328,7 +311,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/handmade-utopia-radical-homes-northern-california-land-movement/",
       "excerpt": "half a century after the back-to-the-land movement transformed northern california, the book documents the handmade homes and personal histories of those who attempted to build an alternative way of l",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/handmade-utopia-radical-homes-northern-california-land-movement-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -337,7 +320,7 @@ window.LUMINO_DATA = {
       "title": "MAD's spaceship-like Lucas Museum revealed ahead of opening",
       "url": "https://www.dezeen.com/2026/09/03/lucas-museum-los-angeles-mad-open/",
       "excerpt": "Architecture studios MAD and Stantec have placed more than 1,200 curved panels on the \"dream-like\" Lucas Museum of Narrative Art in Los Angeles, which is set to open later this month. Set in a 13-acre",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -346,7 +329,7 @@ window.LUMINO_DATA = {
       "title": "Fourteen must-see exhibitions and installations at London Design Festival 2026",
       "url": "https://www.dezeen.com/2026/09/03/london-design-festival-2026-highlights/",
       "excerpt": "A takeover of Richmond's Ham House and Garden, a sound installation at Wapping Hydraulic Power Station and a group show of 102 emerging designers are among the highlights at this year's London Design ",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -355,27 +338,7 @@ window.LUMINO_DATA = {
       "title": "Historic England claims City of London office development could risk Tower of London's UNESCO status",
       "url": "https://www.dezeen.com/2026/09/03/tower-of-london-historic-england/",
       "excerpt": "Preservation body Historic England and the City of London are in dispute over the impact future skyscraper development will have on the Tower of London. In the latest hearing to determine the City Pla",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "House / José Adrião Arquitetos",
-      "url": "https://www.archdaily.com/1184481/house-jose-adriao-arquitetos",
-      "excerpt": "In 1889, the land belonging to several estates in Campolide was subdivided, leading to the construction of three working-class villa communities: Amarante, Cabaço, and Maia. Located within Vila Maia i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5d17/505a/cb00/0115/26df/large_jpg/00__2_.jpg?1788370235",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Utopian Hours Ten Years Edition Part 2",
-      "url": "https://www.archdaily.com/1184470/utopian-hours-ten-years-edition-part-2",
-      "excerpt": "The international festival of city making returns for Part 2 of its Ten Years Edition after a successful event in Rotterdam last May.Over two days, the festival will bring together architects, develop",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/157f/15d8/6f00/01a2/eaad/large_jpg/lineup__Torino_green__3_.jpg?1788417426",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -385,7 +348,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "LPA",
