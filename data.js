@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  20:34",
+  "fetchedAt": "2026.09.04  22:44",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "時遊zine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "徳島新聞デジタル": {
+    "山陽新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "るるぶWeb": {
+    "徳島新聞デジタル": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -96,13 +96,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
+      "source": "時遊zine",
       "cat": "展示・アート",
       "date": "2026.09.04",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
+      "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
+      "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
       "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
       "today": true
     },
     {
@@ -116,6 +116,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
       "source": "徳島新聞デジタル",
       "cat": "展示・アート",
       "date": "2026.09.04",
@@ -123,16 +133,6 @@ window.LUMINO_DATA = {
       "url": "https://www.topics.or.jp/articles/-/1361984",
       "excerpt": "",
       "thumbnailUrl": "https://tokushima.ismcdn.jp/mwimgs/5/0/1200wm/img_505107af37ae6dad5ac8a0fd6817d46799547.jpg",
-      "today": true
-    },
-    {
-      "source": "るるぶWeb",
-      "cat": "展示・アート",
-      "date": "2026.09.04",
-      "title": "【2ページ目】福島県のおすすめイルミネーション&雪まつりのライトアップ（2025-2026）",
-      "url": "https://rurubu.jp/andmore/article/5064?page=2",
-      "excerpt": "",
-      "thumbnailUrl": "https://rurubu.jp/img_srw/andmore/images/0000722221/l_yUdyTQ4avznYhn6gDGpf1GBPcmJKcMFIPdn6H0tR.jpg",
       "today": true
     },
     {
@@ -148,10 +148,30 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.04",
+      "title": "le studio d’orphée and the home-studio of new wave director jean-luc godard",
+      "url": "https://www.designboom.com/art/le-studio-dorphee-home-studio-french-new-wave-director-jean-luc-godard/",
+      "excerpt": "among the pocket-sized images, coat rack, and loungers, this recreation of the auteur's home-studio gives a glimpse into his process.  \nThe post le studio d’orphée and the home-studio of new wave dire",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studio-dorphee-prada-designboom-27.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
       "title": "voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo",
       "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
       "excerpt": "the vertical residence responds to changing daylight, airflow, and seasonal conditions.\nThe post voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/takumi-wakui-riho-wakui-architects-house-kagurazaka-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Doutor Leite Lopes State Airport / Bacco Arquitetos Associados",
+      "url": "https://www.archdaily.com/1184574/doutor-leite-lopes-state-airport-bacco-arquitetos-associados",
+      "excerpt": "In contrast to the concept of the \"non-place,\" the design transforms the airport into an active urban element integrated into the Ribeirão Preto community. The Glued Laminated Timber (glulam) structur",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/e106/15d8/6f00/01a2/ed83/large_jpg/AEROPORT_RIBEIRAO_PRET0_ANA_MELLO_10.jpg?1788469532",
       "today": true
     },
     {
@@ -254,16 +274,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "les caryatides de guyancourt: a photo essay on the postmodernist complex of suburban paris",
-      "url": "https://www.designboom.com/architecture/caryatides-guyancourt-photo-essay-postmodernist-complex-suburban-paris-manuel-nunez-yanowsky-12-29-2025/",
-      "excerpt": "designboom visits les caryatides in guyancourt to explore the iconic building in person and unveil its beauty and peculiarities.\nThe post les caryatides de guyancourt: a photo essay on the postmoderni",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/06/18-giant-venuses-manuel-nunez-yanowskys-postmodern-housing-block-suburban-paris-caryatides-guyancourt-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -298,16 +308,6 @@ window.LUMINO_DATA = {
       "title": "Finnish company launches \"world's most carbon-storing building material\"",
       "url": "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "excerpt": "Finnish firm Elementic has unveiled MO6, a wall-surfacing material produced from forestry industry offcuts that is almost pure carbon. Called MO6, the product takes the form of thick, lightweight tile",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "ISOCARP Women in Planning Awards Nominations",
-      "url": "https://www.archdaily.com/1184542/isocarp-women-in-planning-awards-nominations",
-      "excerpt": "ISOCARP Women in Planning is entering an exciting new chapter! This November in Glasgow, the Women in Planning Awards will be held for the first time as a standalone awards ceremony accompanied by a f",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/b885/15d8/6f00/01a2/eebd/large_jpg/1785565408132.jpg?1788524681",
       "today": true
     },
     {
