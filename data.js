@@ -1,15 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  10:24",
+  "fetchedAt": "2026.09.04  14:43",
   "sourceColors": {
+    "pronews.com": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "axismag.jp": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "山陽新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "walkerplus.com": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "徳島新聞デジタル": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "アットエス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
     "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -48,6 +76,142 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.04",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.09.04",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://www.sanyonews.jp/article/1833776",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "walkerplus.com",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "徳島新聞デジタル",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "那賀町の風車、今冬もLEDでライトアップ 来年１月５日まで",
+      "url": "https://www.topics.or.jp/articles/-/1361984",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "playful covers made of bio-based PLA+ rethink the conventional light switch",
+      "url": "https://www.designboom.com/design/playful-covers-bio-based-pla-conventional-light-switch-kovr-studio/",
+      "excerpt": "kovr studio gives an overlooked functional element a considered material presence.\nThe post playful covers made of bio-based PLA+ rethink the conventional light switch appeared first on designboom | a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kovr-studio-light-switches-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Giorgetti takes a beautifully tactile seat at the Homo Faber table",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/giorgetti-summa-pouf-homo-faber-2026",
+      "excerpt": "Es Devlin brings Giorgetti’s ‘Summa’ pouf to her visual feast at Venice’s biennial celebration of artisanship, revealing the craft and material complexity behind it – watch the film",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ozafE4ukVQqUL9x6pCopy7-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Imagina Floral tiles by Casalgrande Padana",
+      "url": "https://www.dezeen.com/2026/09/04/imagina-floral-tiles-casalgrande-padana-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: designers can create feature walls of lush, modern botanicals using Imagina Floral large-scale decorative tiles, created by Casalgrande Padana. The Italian manufacturer's Imagina Flor",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "daniel arsham turns barley grains into moving sculpture for the balvenie at frieze seoul",
+      "url": "https://www.designboom.com/art/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul/",
+      "excerpt": "at space S50, performers reshape a circular bed of malted barley on the floor while an 88-year-old single malt is housed within an eight-layered patinated bronze sculpture mirroring oxidized copper st",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul-designboom1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Emirates introduces the world’s first electric Premium Economy seat",
+      "url": "https://www.wallpaper.com/travel/emirates-electric-premium-economy-seat-launch",
+      "excerpt": "Emirates draws from Business Class for its new electric Premium Economy seat, featuring a full-height adjustable divider",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8dFR69n9GEcUiPTAer9XLh-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "les caryatides de guyancourt: a photo essay on the postmodernist complex of suburban paris",
+      "url": "https://www.designboom.com/architecture/caryatides-guyancourt-photo-essay-postmodernist-complex-suburban-paris-manuel-nunez-yanowsky-12-29-2025/",
+      "excerpt": "designboom visits les caryatides in guyancourt to explore the iconic building in person and unveil its beauty and peculiarities.\nThe post les caryatides de guyancourt: a photo essay on the postmoderni",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2025/06/18-giant-venuses-manuel-nunez-yanowskys-postmodern-housing-block-suburban-paris-caryatides-guyancourt-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Tato Architects combines skinny home with ceramics studio in Kyoto",
+      "url": "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
+      "excerpt": "Skylit ceilings and zigzagging staircases animate this tall, skinny home and ceramics studio in Japan, completed by local studio Tato Architects. Named House and Studio in Kyoto, the project was desig",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -63,7 +227,7 @@ window.LUMINO_DATA = {
       "date": "2026.09.04",
       "title": "Studio Cadena fills Medellín cafe with 31 towering wooden columns",
       "url": "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
-      "excerpt": "Architetcure firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere withou",
+      "excerpt": "Architecture firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere withou",
       "today": true
     },
     {
@@ -83,6 +247,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/pan-african-biennale-2026-guide",
       "excerpt": "We guide you through the Pan-African Biennale 2026, the first-ever architecture festival of its kind, curated by architect Omar Degan to ‘belong to all of Africa’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YgLAamnYkWheKNp5fHxHNo-1416-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "UDL Thesis Publication Seminar 2026",
+      "url": "https://www.archdaily.com/1184537/udl-thesis-publication-seminar-2026",
+      "excerpt": "The UDL Thesis Publication Seminar 2026 is a two-day international online seminar organized by Urban Design Lab, bringing together selected undergraduate and postgraduate thesis projects from across t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/b2a2/15d8/6f00/01a2/ee94/large_jpg/Poster_UDL_Thesis_Publication_2026-01.jpg.jpg?1788523194",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Tbilisi Architecture Forum",
+      "url": "https://www.archdaily.com/1184533/tbilisi-architecture-forum",
+      "excerpt": "Tbilisi Architecture Forum 2026 Announces \"Places in Transition\"Tbilisi, Georgia — Tbilisi Architecture Forum (TAF) 2026 will take place 18–20 September 2026, bringing together leading international a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/b1f2/15d8/6f00/01a2/ee73/large_jpg/BILLBOARD_MOCKUP.jpg?1788523002",
       "today": true
     },
     {
@@ -115,12 +299,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "Fitbit founders launch AI-powered wristband to monitor health of whole family",
-      "url": "https://www.dezeen.com/2026/09/04/fitbit-luffu-link-ai-powered-wristband-health-family/",
-      "excerpt": "Luffu Link is a sleek, wireless wristband designed to track multiple users at once, conceived by wearable technology company Fitbit to \"bring your family's health and safety together\". Available in on",
+      "title": "ArchDaily Next Practices Awards 2026: Meet the Jury",
+      "url": "https://www.archdaily.com/1184370/archdaily-next-practices-awards-2026-meet-the-jury",
+      "excerpt": "Since its launch in 2020, the ArchDaily Next Practices Awards have spotlighted forward-thinking architecture practices that are redefining the boundaries of the discipline. Over five editions, the ini",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/1275/d9a0/5901/87c6/89d0/large_jpg/archdaily-2026-next-practices-awards-meet-the-jury_1.jpg?1788285577",
       "today": true
     },
     {
@@ -134,113 +319,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "broken eiffel tower crashes into nevada desert for burning man 2026",
-      "url": "https://www.designboom.com/art/broken-eiffel-tower-nevada-desert-burning-man-2026-philippe-maindron/",
-      "excerpt": "a 29-tonne fractured replica of the eiffel tower by philippe maindron has risen from the dust of nevada’s black rock desert for burning man 2026.\nThe post broken eiffel tower crashes into nevada deser",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/broken-eiffel-tower-nevada-desert-burning-man-2026-philippe-maindron-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Solange Calio’s new family house near São Paulo is spacious, playful and dynamic",
-      "url": "https://www.wallpaper.com/architecture/residential/solange-calios-house-design-sao-paulo-brazil",
-      "excerpt": "This single-storey Brazilian house by Solange Calio envelops landscaped gardens, pools and ponds to create the feel of a life on permanent vacation",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wnh9zDffYzyPS3UjLkiVvP-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "hissy cooling jacket pairs CO₂ cartridges with technical apparel for extreme urban heat",
-      "url": "https://www.designboom.com/technology/hissy-cooling-jacket-co%e2%82%82-cartridges-technical-apparel-extreme-urban-heat/",
-      "excerpt": "micro-perforations direct airflow toward the body’s major heat-generating areas.\nThe post hissy cooling jacket pairs CO₂ cartridges with technical apparel for extreme urban heat appeared first on desi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hissy-co2-cartridges-technical-apparel-cooling-extreme-urban-heat-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Ryno equips London rooftop with integrated terracing system",
-      "url": "https://www.dezeen.com/2026/09/04/ryno-london-rooftop-terrace-integrated-terracing-system/",
-      "excerpt": "Promotion: construction systems manufacturer Ryno's TerraSmart Lattice Rail System was chosen to connect the planting, balustrading, seating and entertainment spaces for interior studio Thirdway Group",
+      "title": "Nairobi Architecture City Guide: 11 Projects Building a Post-Independence Identity",
+      "url": "https://www.archdaily.com/1184396/nairobi-architecture-city-guide-11-projects-building-a-post-independence-identity",
+      "excerpt": "Nairobi's architectural identity was transformed by Kenya's independence in 1963. As the new nation sought to define itself, the city became a testing ground for a modern architecture that could embod",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/51cf/8db7/ac01/89d5/419e/large_jpg/nairobi-architecture-city-guide_4.jpg?1788301829",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.04",
-      "title": "Green Space and the Price of a Home on the US West Coast",
-      "url": "https://www.archdaily.com/1183990/green-space-and-the-price-of-a-home-on-the-us-west-coast",
-      "excerpt": "Every housing crisis eventually becomes a land question, and every land question eventually becomes a values question. The United States' West Coast has arrived at that point. As cities from Los Angel",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/79e0/ac8b/af01/892c/edbe/large_jpg/green-space-and-the-price-of-a-home-on-the-west-coast_1.jpg?1787722213",
+      "title": "A Seaside Swing Installation / XBTW OFFICE",
+      "url": "https://www.archdaily.com/1184407/a-seaside-swing-installation-xbtw-office",
+      "excerpt": "\"Coral\" is a swing art installation located at the northwest corner of West Park at Longfor Puti Coast in Yantai, China. Facing tidal flats and sea, the site is shaped by the daily rhythm of tides, se",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/b887/8db7/ac01/89d5/4363/large_jpg/a-seaside-swing-installation-xbtw-office_42.jpg?1788328095",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Wallpaper* Architects’ Directory 2026 is here. These are the emerging studios to watch",
-      "url": "https://www.wallpaper.com/architecture/architects-directory/wallpaper-architects-directory-2026",
-      "excerpt": "Wallpaper’s latest annual Architects’ Directory is unveiled, celebrating 30 exciting young studios to know, from 27 countries",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Buvfx5WWvt2fYbbjYsW6S7-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Kaymana Wave Reception / Pablo Luna Studio",
-      "url": "https://www.archdaily.com/1184237/kaymana-wave-reception-pablo-luna-studio",
-      "excerpt": "Wave Reception, located in Uluwatu, Bali, takes its form from the image of a wave breaking along the coastline. The architectural gesture is intentionally simple: a single continuous curve that captur",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a95/6128/a25c/7b00/0126/01d4/large_jpg/1.jpg?1788174651",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "a vase that follows the full arc of a flower’s life, even as petals fall",
-      "url": "https://www.designboom.com/design/vase-full-arc-flower-life-petals-fall-vita-vase-houbi/",
-      "excerpt": "vita vase rethinks the vase around the full life cycle of a flower, making space for petals as they fall and for stems that unexpectedly rise towards the light.\nThe post a vase that follows the full a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/vita-vase-houbi-full-arc-flower-life-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "House in Kamiyasu / Yutaka Yoshida Architect & Associates",
-      "url": "https://www.archdaily.com/1184338/house-in-kamiyasu-yutaka-yoshida-architect-and-associates",
-      "excerpt": "This residence is built on a flagpole-shaped lot surrounded by single-family homes. Neighboring houses are close to the south and east sides of the lot, while on the west and north sides, it borders a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/dac3/d93e/3d00/01db/820e/large_jpg/14.jpg?1788271354",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Qingdeng Village Art Museum / atelier anonymous",
-      "url": "https://www.archdaily.com/1184302/qingdeng-village-art-museum-atelier-anonymous",
-      "excerpt": "From Administrative Void to Contemporary Village Entrance: Reviving Public Life in Qingdeng VillageThe design finds its inspiration in the quiet disappearance of public life in Jiangnan's countryside.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/6ed0/b853/2e01/895b/6a7d/large_jpg/qingdeng-village-art-museum-atelier-anonymous_48.jpg?1788243725",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.03",
-      "title": "Casa Solis 21 / iHouse estudio",
-      "url": "https://www.archdaily.com/1184512/casa-solis-21-ihouse-estudio",
-      "excerpt": "Casa Solís 21 is a temporary residence located in a rural setting in Soca, Canelones, conceived as a weekend home for a family seeking a space to gather and rest within easy reach of Montevideo.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/f1d9/bed1/7f00/014d/2552/large_jpg/03_-_Solis_21.jpg?1788277229",
-      "today": false
     },
     {
       "source": "大光電機",
