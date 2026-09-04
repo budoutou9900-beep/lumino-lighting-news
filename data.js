@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  14:43",
+  "fetchedAt": "2026.09.04  17:59",
   "sourceColors": {
-    "pronews.com": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "時遊zine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "walkerplus.com": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -29,62 +29,56 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "kurumefan.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
-    {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.04",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
-      "today": true
-    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -106,6 +100,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "時遊zine",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
+      "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
+      "excerpt": "",
+      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
+      "today": true
+    },
+    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.09.04",
@@ -116,7 +120,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.04",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
@@ -132,6 +136,7 @@ window.LUMINO_DATA = {
       "title": "那賀町の風車、今冬もLEDでライトアップ 来年１月５日まで",
       "url": "https://www.topics.or.jp/articles/-/1361984",
       "excerpt": "",
+      "thumbnailUrl": "https://tokushima.ismcdn.jp/mwimgs/5/0/1200wm/img_505107af37ae6dad5ac8a0fd6817d46799547.jpg",
       "today": true
     },
     {
@@ -141,6 +146,35 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "kurumefan.com",
+      "cat": "展示・アート",
+      "date": "2026.09.04",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "spok bends the geometry of tennis into an optical loop at felipe pantone’s casa axis",
+      "url": "https://www.designboom.com/art/spok-brillor-geometry-tennis-court-felipe-pantone-casa-axis/",
+      "excerpt": "created during a 12-day residency, spok’s painted tennis court appears to sink through layers of repeating metallic geometry.\nThe post spok bends the geometry of tennis into an optical loop at felipe ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hard-court-2-felipe-pantone-casa-axis-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Paul Smith’s latest collaboration with Barbour is a colourful ‘Highland odyssey’",
+      "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026",
+      "excerpt": "The third collaboration between the two British powerhouses looks northwards to the Scottish tradition of the Highland Games",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wp836xyb5J3EYQUqz2N43E-1800-80.jpg",
       "today": true
     },
     {
@@ -170,6 +204,26 @@ window.LUMINO_DATA = {
       "title": "Imagina Floral tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/09/04/imagina-floral-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: designers can create feature walls of lush, modern botanicals using Imagina Floral large-scale decorative tiles, created by Casalgrande Padana. The Italian manufacturer's Imagina Flor",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Encontros Sculpture / Estudio Guto Requena",
+      "url": "https://www.archdaily.com/1184560/encontros-sculpture-estudio-guto-requena",
+      "excerpt": "The Encontros (\"Encounters\") sculpture is the new public artwork created by Estudio Guto Requena, a tribute to Guto's hometown of Sorocaba (\"torn land\" in the native Tupi-Guarani language).",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/3247/bed1/7f00/014d/27b3/large_jpg/Design_sem_nome__10_.jpg?1788293881",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "210 South 12th Building / RSHP",
+      "url": "https://www.archdaily.com/1184462/210-south-12th-building-rshp",
+      "excerpt": "Located in the heart of downtown Philadelphia, RSHP and co-architects Perkins Eastman have completed 210 South 12th for developer Midwood Investment & Development, a 31storey mixed-use tower offering ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/a5f5/2b2b/3f01/89f4/090e/large_jpg/210-south-12th-building-rshp_6.jpg?1788388885",
       "today": true
     },
     {
@@ -231,12 +285,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Pracownia - The Workshop / ACOS (A Collection of Stories)",
+      "url": "https://www.archdaily.com/1030853/pracownia-workshop-acos-a-collection-of-stories",
+      "excerpt": "Pracownia is a story about holistic design, where a relationship between the user's needs and matter, both existing and conceived, forms a multi-layered spatial experience. It integrates local culture",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6840/595a/c36d/4c00/019e/5ade/large_jpg/PS_ACOS_0_0016.jpg?1749047786",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.04",
       "title": "Finnish company launches \"world's most carbon-storing building material\"",
       "url": "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "excerpt": "Finnish firm Elementic has unveiled MO6, a wall-surfacing material produced from forestry industry offcuts that is almost pure carbon. Called MO6, the product takes the form of thick, lightweight tile",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "ISOCARP Women in Planning Awards Nominations",
+      "url": "https://www.archdaily.com/1184542/isocarp-women-in-planning-awards-nominations",
+      "excerpt": "ISOCARP Women in Planning is entering an exciting new chapter! This November in Glasgow, the Women in Planning Awards will be held for the first time as a standalone awards ceremony accompanied by a f",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/b885/15d8/6f00/01a2/eebd/large_jpg/1785565408132.jpg?1788524681",
       "today": true
     },
     {
@@ -260,16 +334,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Tbilisi Architecture Forum",
-      "url": "https://www.archdaily.com/1184533/tbilisi-architecture-forum",
-      "excerpt": "Tbilisi Architecture Forum 2026 Announces \"Places in Transition\"Tbilisi, Georgia — Tbilisi Architecture Forum (TAF) 2026 will take place 18–20 September 2026, bringing together leading international a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/b1f2/15d8/6f00/01a2/ee73/large_jpg/BILLBOARD_MOCKUP.jpg?1788523002",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -286,56 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/dyson-2026-new-products-unveiled",
       "excerpt": "From robot vacuum cleaners to smart straighteners and powerful purifiers, Dyson has dropped a dozen new products that share its new emphasis on sensors, intelligence and machine learning",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cfQwBw3WYwrjEoqpCDXY9g-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "why entering the japanese design market requires more than exporting nordic aesthetics",
-      "url": "https://www.designboom.com/design/japanese-market-nordic-scandinavian-aesthetics-interview/",
-      "excerpt": "elna nykänen andersson explores how shared values and deep cultural translation connect finnish craft with japanese rituals.\nThe post why entering the japanese design market requires more than exporti",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/navigators-of-design-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "ArchDaily Next Practices Awards 2026: Meet the Jury",
-      "url": "https://www.archdaily.com/1184370/archdaily-next-practices-awards-2026-meet-the-jury",
-      "excerpt": "Since its launch in 2020, the ArchDaily Next Practices Awards have spotlighted forward-thinking architecture practices that are redefining the boundaries of the discipline. Over five editions, the ini",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/1275/d9a0/5901/87c6/89d0/large_jpg/archdaily-2026-next-practices-awards-meet-the-jury_1.jpg?1788285577",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "The Jensen Interceptor GTX is a ferocious proof of concept for the bold revival of a classic GT",
-      "url": "https://www.wallpaper.com/transportation/jensen-interceptor-gtx",
-      "excerpt": "One of British motoring’s great lost names, Jensen, is roaring back to relevance with the reveal of the Interceptor GTX, a track-only enhanced prototype that prefigures a return to high-performance lu",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SEpHjBeLNDc7Lk7TGRUzA4-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Nairobi Architecture City Guide: 11 Projects Building a Post-Independence Identity",
-      "url": "https://www.archdaily.com/1184396/nairobi-architecture-city-guide-11-projects-building-a-post-independence-identity",
-      "excerpt": "Nairobi's architectural identity was transformed by Kenya's independence in 1963. As the new nation sought to define itself, the city became a testing ground for a modern architecture that could embod",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/51cf/8db7/ac01/89d5/419e/large_jpg/nairobi-architecture-city-guide_4.jpg?1788301829",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "A Seaside Swing Installation / XBTW OFFICE",
-      "url": "https://www.archdaily.com/1184407/a-seaside-swing-installation-xbtw-office",
-      "excerpt": "\"Coral\" is a swing art installation located at the northwest corner of West Park at Longfor Puti Coast in Yantai, China. Facing tidal flats and sea, the site is shaped by the daily rhythm of tides, se",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/b887/8db7/ac01/89d5/4363/large_jpg/a-seaside-swing-installation-xbtw-office_42.jpg?1788328095",
       "today": true
     },
     {
