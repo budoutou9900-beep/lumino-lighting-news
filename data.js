@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  18:45",
+  "fetchedAt": "2026.09.05  20:54",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -13,31 +13,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "アットエス": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "久留米ファン": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -102,15 +102,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "アットエス",
       "cat": "展示・アート",
       "date": "2026.09.05",
@@ -129,6 +120,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "paul clemence on how skyscraper crowns become landmarks of shanghai",
+      "url": "https://www.designboom.com/architecture/paul-clemence-skyscraper-crowns-landmarks-shanghai-guest-essay/",
+      "excerpt": "from the 81st floor of the shanghai world financial center, paul clemence reflects on how the city’s skyscraper crowns act as landmarks.\nThe post paul clemence on how skyscraper crowns become landmark",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/paul-clemence-skyscraper-crowns-landmarks-shanghai-guest-essay-designboom-4.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -144,6 +155,16 @@ window.LUMINO_DATA = {
       "title": "Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank",
       "url": "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
       "excerpt": "Canada's Ivy Studio has transformed a 1970s bank into a veterinary clinic for exotic animals in Laval, Quebec, featuring minimalist interiors and soft lighting. The Fauna clinic occupies a standalone ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "continuous white DJ console integrates turntables, mixers, and hidden cables",
+      "url": "https://www.designboom.com/design/continuous-white-dj-console-turntables-mixers-hidden-cables-modek-evolution-pro/",
+      "excerpt": "a monocoque body conceals the technical infrastructure within the furniture.\nThe post continuous white DJ console integrates turntables, mixers, and hidden cables appeared first on designboom | archit",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/modek-imagine-sound-furniture-dj-booths-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -302,26 +323,6 @@ window.LUMINO_DATA = {
       "excerpt": "A Village Where Street Culture, Community, and Nature Converge - Bangkok is a cultural palimpsest shaped by layers of street markets, temples, contemporary skyscrapers, and organically evolved urban s",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/727a/d93e/3d00/01db/8069/large_jpg/Profile_CARNIVAL_PHOTO_11_WenStudio.jpg?1788244657",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "le studio d’orphée and the home-studio of new wave director jean-luc godard",
-      "url": "https://www.designboom.com/art/le-studio-dorphee-home-studio-french-new-wave-director-jean-luc-godard/",
-      "excerpt": "among the pocket-sized images, coat rack, and loungers, this recreation of the auteur's home-studio gives a glimpse into his process.  \nThe post le studio d’orphée and the home-studio of new wave dire",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studio-dorphee-prada-designboom-27.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo",
-      "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
-      "excerpt": "the vertical residence responds to changing daylight, airflow, and seasonal conditions.\nThe post voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo appeared f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/takumi-wakui-riho-wakui-architects-house-kagurazaka-designboom-1200.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
