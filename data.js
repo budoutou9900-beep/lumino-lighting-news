@@ -1,112 +1,84 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  09:50",
+  "fetchedAt": "2026.09.05  13:12",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "ぴあエンタメ情報": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "axismag.jp": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "PR TIMES": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "中日新聞Web": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "オズモール": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "アットエス": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
-    "TKU テレビ熊本": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "kurumefan.com": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+    "久留米ファン": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "designboom": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ぴあエンタメ情報",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.05",
-      "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
       "today": true
     },
     {
@@ -114,26 +86,9 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "賞・コンペ",
-      "date": "2026.09.05",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
-      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -141,17 +96,9 @@ window.LUMINO_DATA = {
       "cat": "国内情報",
       "date": "2026.09.05",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
+      "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.09.05",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
@@ -159,16 +106,7 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZVR6LTByRzYyeS1NaTJPSVZCVHphTV9ObEpTVE1jcG41SGFXZ0N6STZoemtLNnREYnRwZWFKZ05kWEI4ZDNyMFBJeUFmejNmZXlaQ1VVMWlNZDF1cWc?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51d1N6b1EzTGU2RDM0dk1jMUowVVNUS3Z0dEhINjluVEh4TENvQnM0aDVGNm94RWx4SF9ZSS1wSTlPZUE4d1R2VzRYeEVjbWoxUDdvN1dEMElpbC14S2wxVk94bUJkbnRmaWc?oc=5",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
     },
@@ -177,53 +115,46 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85MGo1c0xXVDRUd2hHRk0ta1VPMVJWNGstNjVxdHlIaVozZzNUX185MGkzM0NFRTNTRnpnU2Jrd3doZUVUcm04b19oVnZBZmJBUzBV?oc=5",
+      "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "TKU テレビ熊本",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "サクラマチクマモトライトアップイルミネーション | 英太郎のかたらんね-かたってよかですか",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IZUppaDlTNXpXUkFPaVlzdGYwUkVfRkV4ZjZKdGNvSmxIcFFiNFNWYmtfUnFkSzJNZExUc2JHWGlQdlV0YWtGV1hLbnJHNzZ4a2MzS19hR3hQRkVBV0ZkTGozSlhQak9kQ3JPRWo5SlpzbURtOEJkcWs1emo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "国内情報",
-      "date": "2026.09.05",
-      "title": "松島ハーバーライト2026 in 宮城県松島離宮 11月29日(土)より開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybFkzRTRhems4VlF0YUxzajR2Yy04bnBBdHBKRkM4aTIwZ2JMUXdYM2U1Ykk0Z3hPdzhvazVCdWdScS1vWGRUUWdYcW9xb2hNczlHcmh1U0Fyd19uM3pVNHBnMjdhcWo4MkE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "kurumefan.com",
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yeHhzbE5HbjlaM2gtczZqalJ5c0tBcDJmVlRpeXNiaHY1dXptcXlIaktUWWk2LXhERkozTnJNOFE5LVVnOWRJSmJmd3pOVzZZSUVjZW50Nmc?oc=5",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "PR TIMES",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.05",
-      "title": "【銀座三越のイルミネーション＆当日ケーキ】銀座の夜空のもとに３Dマッピング技術を使用したLEDイルミネーション登場、クリスマス直前は予約なしで買える140種以上のケーキも大集合",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93VnhxQzBEaWNmLV9wdUs3RXRzNDNXbXlrczBrQU5MdFBZS1NxYUVaRndmTDFCTVlVTDF4ZEVvaWlnMjNIXzZBdXY0SXpsSU5Kdlpvc0NtNEM5VWlJbFprVTNkYXFiWVYtNUE?oc=5",
-      "excerpt": "",
+      "title": "How We Host: Dinner with Nicole Hollis will quickly turn into a dance party",
+      "url": "https://www.wallpaper.com/entertaining/how-we-host-nicole-hollis",
+      "excerpt": "Still life tablescapes, and a Britpop playlist – the interior designer knows how to throw a party",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zpFrGs2gJeGRv56x2yqn6f-2560-80.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.05",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DQndjSVlUMklZbTFnSkVudjFRaGlUQlUtYW9KUURaNndpNlR5SGUwLWc4blp4QUpvX0dabGtRem1LUXpIMzlnQW1NdENIdw?oc=5",
-      "excerpt": "",
+      "title": "Discover Rachel Boston’s chic and modern engagement rings for men",
+      "url": "https://www.wallpaper.com/watches-jewellery/rachel-boston-relic-collection-mens-engagement-rings",
+      "excerpt": "Meet the designer rethinking men’s jewellery with a new ten-piece collection, ‘Relic’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ftFVbX7A4hzKKzHP7duXUX.gif",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Cluster of rock-like volumes make up rural Irish house by McGonigle McGrath",
+      "url": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
+      "excerpt": "A cluster of monolithic forms lined with grey brick and built into a steep bank defines Tollymore, a riverside house in Northern Ireland by Belfast studio McGonigle McGrath. Located off a narrow road ",
       "today": true
     },
     {
@@ -276,6 +207,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "The City as a System of Health: Breaking Feedback Loops in Planning",
+      "url": "https://www.archdaily.com/1183859/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning",
+      "excerpt": "The spatial consequences of urban form are revealed when health outcomes are mapped over neighborhoods. Neighborhoods that support walking, daily errands, social interaction, and access to essential s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/ae77/ab59/ca01/8994/7733/large_jpg/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning_1.jpg?1787735678",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -283,6 +224,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/kitsilano-house-vancouver-canada",
       "excerpt": "Kitsilano House by Scott and Scott Architects captures the beauty of the changing seasons",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hkTkcHis72vNRvb5EFKxoM-1875-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Renovation of a Lock Keeper's house / Atelier APA",
+      "url": "https://www.archdaily.com/1183931/renovation-of-a-lock-keepers-house-atelier-apa",
+      "excerpt": "The former Lock-Keeper's house is located on the edge of the Canal du Midi, and boasts a number of landscaping features that give it a special atmosphere: a waterside terrace and large century-old tre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/94a0/4253/0500/01ca/07df/large_jpg/ATELIERAPA_MAISONECLUSIERE_33.jpg?1787664036",
       "today": true
     },
     {
@@ -370,55 +321,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184574/doutor-leite-lopes-state-airport-bacco-arquitetos-associados",
       "excerpt": "In contrast to the concept of the \"non-place,\" the design transforms the airport into an active urban element integrated into the Ribeirão Preto community. The Glued Laminated Timber (glulam) structur",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/e106/15d8/6f00/01a2/ed83/large_jpg/AEROPORT_RIBEIRAO_PRET0_ANA_MELLO_10.jpg?1788469532",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Perichón House / ODB Arquitectos",
-      "url": "https://www.archdaily.com/1184583/perichon-house-odb-arquitectos",
-      "excerpt": "Perichón House begins before its form is even defined. The starting point is to carefully recognize what already exists: a wooded lot, a clearing among the vegetation, and the environmental conditions",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/cf0b/15d8/6f00/01a2/f014/large_jpg/Perich_n_-_WEB___Ramiro_Sosa__46_.jpg?1788530520",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Paul Smith’s latest collaboration with Barbour is a colourful ‘Highland odyssey’",
-      "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026",
-      "excerpt": "The third collaboration between the two British powerhouses looks northwards to the Scottish tradition of the Highland Games",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wp836xyb5J3EYQUqz2N43E-1800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Giorgetti takes a beautifully tactile seat at the Homo Faber table",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/giorgetti-summa-pouf-homo-faber-2026",
-      "excerpt": "Es Devlin brings Giorgetti’s ‘Summa’ pouf to her visual feast at Venice’s biennial celebration of artisanship, revealing the craft and material complexity behind it – watch the film",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ozafE4ukVQqUL9x6pCopy7-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Imagina Floral tiles by Casalgrande Padana",
-      "url": "https://www.dezeen.com/2026/09/04/imagina-floral-tiles-casalgrande-padana-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: designers can create feature walls of lush, modern botanicals using Imagina Floral large-scale decorative tiles, created by Casalgrande Padana. The Italian manufacturer's Imagina Flor",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Encontros Sculpture / Estudio Guto Requena",
-      "url": "https://www.archdaily.com/1184560/encontros-sculpture-estudio-guto-requena",
-      "excerpt": "The Encontros (\"Encounters\") sculpture is the new public artwork created by Estudio Guto Requena, a tribute to Guto's hometown of Sorocaba (\"torn land\" in the native Tupi-Guarani language).",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/3247/bed1/7f00/014d/27b3/large_jpg/Design_sem_nome__10_.jpg?1788293881",
       "today": false
     },
     {
