@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  16:28",
+  "fetchedAt": "2026.09.05  18:45",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -72,7 +72,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -126,6 +126,34 @@ window.LUMINO_DATA = {
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Modular combat boots among footwear projects from Häme University of Applied Sciences",
+      "url": "https://www.dezeen.com/2026/09/05/combat-boots-accessories-footwear-projects-hame-university-of-applied-sciences-schoolshows/",
+      "excerpt": "Dezeen School Shows: black leather modular boots informed by punk culture are among the projects from Häme University of Applied Sciences. Also featured are woven shoes with 3D-printed soles and shoes",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank",
+      "url": "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
+      "excerpt": "Canada's Ivy Studio has transformed a 1970s bank into a veterinary clinic for exotic animals in Laval, Quebec, featuring minimalist interiors and soft lighting. The Fauna clinic occupies a standalone ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Ocean House / Biazus Arquitetura",
+      "url": "https://www.archdaily.com/1184454/ocean-house-biazus-arquitetura",
+      "excerpt": "Architecture that relies on the strength of horizontal planes to create shade, comfort, and presence. At the client's request, we developed a home for the family to spend extended periods at the beach",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c1a4/a25c/7b00/0125/fd77/large_jpg/Casa_Ocean_Side-3.jpg?1787937236",
       "today": true
     },
     {
@@ -286,16 +314,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Rain Rhizome / TANAT + Rizoma del Agua",
-      "url": "https://www.archdaily.com/1184555/rain-rhizome-tanat-plus-rizoma-del-agua",
-      "excerpt": "In many Mexican cities, drinking water has not simply disappeared from public life; it has been reorganized through a dense economy of substitution. It arrives by truck, in plastic bottles, in twenty-",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/e471/cc78/e35f/2293/85b4/large_jpg/rizoma-de-lluvia-tanat_13.jpg?1788535955",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -303,24 +321,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
       "excerpt": "the vertical residence responds to changing daylight, airflow, and seasonal conditions.\nThe post voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/takumi-wakui-riho-wakui-architects-house-kagurazaka-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Five opportunities in the USA featured on Dezeen Jobs",
-      "url": "https://www.dezeen.com/2026/09/04/five-opportunities-usa-dezeen-jobs/",
-      "excerpt": "We've rounded up five USA-based vacancies on Dezeen Jobs, including roles at CetraRuddy, Allied Works and OMA. Senior designer (project architect) at Rapt Studio Rapt is seeking senior designers (proj",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Surrane Design uses \"stages of the rice plant\" to tone Thai restaurant in New York",
-      "url": "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
-      "excerpt": "New York studio Surrane Design has outfitted Thai restaurant Hommali in New York with a terracotta floor, a central \"courtyard\" space and personal items of the founders to create a space that resemble",
       "today": false
     },
     {
