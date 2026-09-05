@@ -1,84 +1,98 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.04  22:44",
+  "fetchedAt": "2026.09.05  00:34",
   "sourceColors": {
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "chunichi.co.jp": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "時遊zine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "山陽新聞": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "ウォーカープラス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "徳島新聞デジタル": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アットエス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.04",
+      "date": "2026.09.05",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -86,9 +100,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
-      "date": "2026.09.04",
+      "date": "2026.09.05",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -96,9 +110,18 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.05",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "時遊zine",
       "cat": "展示・アート",
-      "date": "2026.09.04",
+      "date": "2026.09.05",
       "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
       "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
       "excerpt": "",
@@ -106,19 +129,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.09.04",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.09.04",
+      "date": "2026.09.05",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
@@ -126,22 +139,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
       "source": "徳島新聞デジタル",
       "cat": "展示・アート",
-      "date": "2026.09.04",
+      "date": "2026.09.05",
       "title": "那賀町の風車、今冬もLEDでライトアップ 来年１月５日まで",
       "url": "https://www.topics.or.jp/articles/-/1361984",
       "excerpt": "",
       "thumbnailUrl": "https://tokushima.ismcdn.jp/mwimgs/5/0/1200wm/img_505107af37ae6dad5ac8a0fd6817d46799547.jpg",
-      "today": true
-    },
-    {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.09.04",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
       "today": true
     },
     {
@@ -152,7 +166,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/le-studio-dorphee-home-studio-french-new-wave-director-jean-luc-godard/",
       "excerpt": "among the pocket-sized images, coat rack, and loungers, this recreation of the auteur's home-studio gives a glimpse into his process.  \nThe post le studio d’orphée and the home-studio of new wave dire",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studio-dorphee-prada-designboom-27.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -162,7 +176,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
       "excerpt": "the vertical residence responds to changing daylight, airflow, and seasonal conditions.\nThe post voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/takumi-wakui-riho-wakui-architects-house-kagurazaka-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -172,7 +186,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184574/doutor-leite-lopes-state-airport-bacco-arquitetos-associados",
       "excerpt": "In contrast to the concept of the \"non-place,\" the design transforms the airport into an active urban element integrated into the Ribeirão Preto community. The Glued Laminated Timber (glulam) structur",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/e106/15d8/6f00/01a2/ed83/large_jpg/AEROPORT_RIBEIRAO_PRET0_ANA_MELLO_10.jpg?1788469532",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -182,7 +196,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/spok-brillor-geometry-tennis-court-felipe-pantone-casa-axis/",
       "excerpt": "created during a 12-day residency, spok’s painted tennis court appears to sink through layers of repeating metallic geometry.\nThe post spok bends the geometry of tennis into an optical loop at felipe ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hard-court-2-felipe-pantone-casa-axis-designboom-FB-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -192,7 +206,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184583/perichon-house-odb-arquitectos",
       "excerpt": "Perichón House begins before its form is even defined. The starting point is to carefully recognize what already exists: a wooded lot, a clearing among the vegetation, and the environmental conditions",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/cf0b/15d8/6f00/01a2/f014/large_jpg/Perich_n_-_WEB___Ramiro_Sosa__46_.jpg?1788530520",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -202,7 +216,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026",
       "excerpt": "The third collaboration between the two British powerhouses looks northwards to the Scottish tradition of the Highland Games",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wp836xyb5J3EYQUqz2N43E-1800-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -212,7 +226,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/playful-covers-bio-based-pla-conventional-light-switch-kovr-studio/",
       "excerpt": "kovr studio gives an overlooked functional element a considered material presence.\nThe post playful covers made of bio-based PLA+ rethink the conventional light switch appeared first on designboom | a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kovr-studio-light-switches-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -222,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/giorgetti-summa-pouf-homo-faber-2026",
       "excerpt": "Es Devlin brings Giorgetti’s ‘Summa’ pouf to her visual feast at Venice’s biennial celebration of artisanship, revealing the craft and material complexity behind it – watch the film",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ozafE4ukVQqUL9x6pCopy7-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -231,7 +245,7 @@ window.LUMINO_DATA = {
       "title": "Imagina Floral tiles by Casalgrande Padana",
       "url": "https://www.dezeen.com/2026/09/04/imagina-floral-tiles-casalgrande-padana-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: designers can create feature walls of lush, modern botanicals using Imagina Floral large-scale decorative tiles, created by Casalgrande Padana. The Italian manufacturer's Imagina Flor",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -241,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184560/encontros-sculpture-estudio-guto-requena",
       "excerpt": "The Encontros (\"Encounters\") sculpture is the new public artwork created by Estudio Guto Requena, a tribute to Guto's hometown of Sorocaba (\"torn land\" in the native Tupi-Guarani language).",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/3247/bed1/7f00/014d/27b3/large_jpg/Design_sem_nome__10_.jpg?1788293881",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -251,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184462/210-south-12th-building-rshp",
       "excerpt": "Located in the heart of downtown Philadelphia, RSHP and co-architects Perkins Eastman have completed 210 South 12th for developer Midwood Investment & Development, a 31storey mixed-use tower offering ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/a5f5/2b2b/3f01/89f4/090e/large_jpg/210-south-12th-building-rshp_6.jpg?1788388885",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -261,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul/",
       "excerpt": "at space S50, performers reshape a circular bed of malted barley on the floor while an 88-year-old single malt is housed within an eight-layered patinated bronze sculpture mirroring oxidized copper st",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul-designboom1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -271,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/emirates-electric-premium-economy-seat-launch",
       "excerpt": "Emirates draws from Business Class for its new electric Premium Economy seat, featuring a full-height adjustable divider",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8dFR69n9GEcUiPTAer9XLh-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -280,7 +294,7 @@ window.LUMINO_DATA = {
       "title": "Tato Architects combines skinny home with ceramics studio in Kyoto",
       "url": "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
       "excerpt": "Skylit ceilings and zigzagging staircases animate this tall, skinny home and ceramics studio in Japan, completed by local studio Tato Architects. Named House and Studio in Kyoto, the project was desig",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -289,7 +303,7 @@ window.LUMINO_DATA = {
       "title": "Studio Cadena fills Medellín cafe with 31 towering wooden columns",
       "url": "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
       "excerpt": "Architecture firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere withou",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -299,7 +313,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1030853/pracownia-workshop-acos-a-collection-of-stories",
       "excerpt": "Pracownia is a story about holistic design, where a relationship between the user's needs and matter, both existing and conceived, forms a multi-layered spatial experience. It integrates local culture",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6840/595a/c36d/4c00/019e/5ade/large_jpg/PS_ACOS_0_0016.jpg?1749047786",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -308,7 +322,7 @@ window.LUMINO_DATA = {
       "title": "Finnish company launches \"world's most carbon-storing building material\"",
       "url": "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "excerpt": "Finnish firm Elementic has unveiled MO6, a wall-surfacing material produced from forestry industry offcuts that is almost pure carbon. Called MO6, the product takes the form of thick, lightweight tile",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -318,7 +332,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/pan-african-biennale-2026-guide",
       "excerpt": "We guide you through the Pan-African Biennale 2026, the first-ever architecture festival of its kind, curated by architect Omar Degan to ‘belong to all of Africa’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YgLAamnYkWheKNp5fHxHNo-1416-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -327,7 +341,7 @@ window.LUMINO_DATA = {
       "title": "Dyson toothbrush updates \"a cleaning routine that has remained largely unchanged for decades\"",
       "url": "https://www.dezeen.com/2026/09/04/dyson-toothbrush-camerajet-interview/",
       "excerpt": "Following the unveiling of Dyson's CameraJet, the brand's Niamh Turney explained why it decided to redesign the toothbrush. Revealed earlier this week, the Dyson CameraJet toothbrush includes a mouthw",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -337,7 +351,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/dyson-2026-new-products-unveiled",
       "excerpt": "From robot vacuum cleaners to smart straighteners and powerful purifiers, Dyson has dropped a dozen new products that share its new emphasis on sensors, intelligence and machine learning",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cfQwBw3WYwrjEoqpCDXY9g-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
