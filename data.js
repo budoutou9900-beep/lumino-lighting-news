@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  05:11",
+  "fetchedAt": "2026.09.05  09:50",
   "sourceColors": {
-    "axismag.jp": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "PR TIMES": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "アメーバブログ": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,60 +33,107 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "TKU テレビ熊本": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "kurumefan.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
+    {
+      "source": "news.mynavi.jp",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ぴあエンタメ情報",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "賞・コンペ",
+      "date": "2026.09.05",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
       "today": true
     },
     {
@@ -94,9 +141,8 @@ window.LUMINO_DATA = {
       "cat": "国内情報",
       "date": "2026.09.05",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
       "today": true
     },
     {
@@ -104,38 +150,8 @@ window.LUMINO_DATA = {
       "cat": "賞・コンペ",
       "date": "2026.09.05",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/article/1833776",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
-      "today": true
-    },
-    {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
-      "today": true
-    },
-    {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
@@ -143,7 +159,16 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZVR6LTByRzYyeS1NaTJPSVZCVHphTV9ObEpTVE1jcG41SGFXZ0N6STZoemtLNnREYnRwZWFKZ05kWEI4ZDNyMFBJeUFmejNmZXlaQ1VVMWlNZDF1cWc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51d1N6b1EzTGU2RDM0dk1jMUowVVNUS3Z0dEhINjluVEh4TENvQnM0aDVGNm94RWx4SF9ZSS1wSTlPZUE4d1R2VzRYeEVjbWoxUDdvN1dEMElpbC14S2wxVk94bUJkbnRmaWc?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -152,8 +177,121 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.05",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85MGo1c0xXVDRUd2hHRk0ta1VPMVJWNGstNjVxdHlIaVozZzNUX185MGkzM0NFRTNTRnpnU2Jrd3doZUVUcm04b19oVnZBZmJBUzBV?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TKU テレビ熊本",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "サクラマチクマモトライトアップイルミネーション | 英太郎のかたらんね-かたってよかですか",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IZUppaDlTNXpXUkFPaVlzdGYwUkVfRkV4ZjZKdGNvSmxIcFFiNFNWYmtfUnFkSzJNZExUc2JHWGlQdlV0YWtGV1hLbnJHNzZ4a2MzS19hR3hQRkVBV0ZkTGozSlhQak9kQ3JPRWo5SlpzbURtOEJkcWs1emo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "国内情報",
+      "date": "2026.09.05",
+      "title": "松島ハーバーライト2026 in 宮城県松島離宮 11月29日(土)より開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybFkzRTRhems4VlF0YUxzajR2Yy04bnBBdHBKRkM4aTIwZ2JMUXdYM2U1Ykk0Z3hPdzhvazVCdWdScS1vWGRUUWdYcW9xb2hNczlHcmh1U0Fyd19uM3pVNHBnMjdhcWo4MkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "kurumefan.com",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yeHhzbE5HbjlaM2gtczZqalJ5c0tBcDJmVlRpeXNiaHY1dXptcXlIaktUWWk2LXhERkozTnJNOFE5LVVnOWRJSmJmd3pOVzZZSUVjZW50Nmc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "【銀座三越のイルミネーション＆当日ケーキ】銀座の夜空のもとに３Dマッピング技術を使用したLEDイルミネーション登場、クリスマス直前は予約なしで買える140種以上のケーキも大集合",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93VnhxQzBEaWNmLV9wdUs3RXRzNDNXbXlrczBrQU5MdFBZS1NxYUVaRndmTDFCTVlVTDF4ZEVvaWlnMjNIXzZBdXY0SXpsSU5Kdlpvc0NtNEM5VWlJbFprVTNkYXFiWVYtNUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DQndjSVlUMklZbTFnSkVudjFRaGlUQlUtYW9KUURaNndpNlR5SGUwLWc4blp4QUpvX0dabGtRem1LUXpIMzlnQW1NdENIdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "The best bookable cabins around the world for design lovers",
+      "url": "https://www.wallpaper.com/travel/best-cabin-stays",
+      "excerpt": "Architecture goes off-grid in our pick of the best cabin stays, from Ecuador’s cloud forest to the Norwegian treetops",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wVJQwxkkW2N9xJS3FCmJMj-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival",
+      "url": "https://www.designboom.com/architecture/temporary-timber-pavilion-cedar-cypress-reclaimed-clt-japan-forest-festival-onodatesho-yano-aoyama/",
+      "excerpt": "three asymmetrical planes rotate around an imaginary axis.\nThe post temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival appeared first on designboom | architecture & ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/onodatesho-temporary-timber-pavilion-japan-forest-festival-yano-aoyama-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "amsterdam fashion week 2026 turns the city into a stage for design and performance",
+      "url": "https://www.designboom.com/design/amsterdam-fashion-week-2026-design-highlights-performance/",
+      "excerpt": "from supermarket aisles to a monumental windmill, AFW26 explores identity, community and everyday life through fashion.\nThe post amsterdam fashion week 2026 turns the city into a stage for design and ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/amsterdam-fashion-week-2026-design-highlights-performance-designboom-644-667x1000.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Five anti-AI designs that give an element of control back to humans",
+      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
+      "excerpt": "With artificial intelligence encroaching on more and more aspects of daily life, there is a rising trend of fatigue and cynicism around the technology. Here, we round up five designs that push back on",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "when the power goes out, how can the architecture keep a house cool?",
+      "url": "https://www.designboom.com/architecture/power-goes-out-keep-house-cooling-passive-survivability/",
+      "excerpt": "as temperatures rise and grids strain, 'passive survivability' asks how long architecture can keep a home habitable.\nThe post when the power goes out, how can the architecture keep a house cool? appea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/cooling-without-electricity-architecture-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "In Kitsilano, Vancouver, oak trees and magnolias frame this cabin-like house",
+      "url": "https://www.wallpaper.com/architecture/residential/kitsilano-house-vancouver-canada",
+      "excerpt": "Kitsilano House by Scott and Scott Architects captures the beauty of the changing seasons",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hkTkcHis72vNRvb5EFKxoM-1875-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "This week Dyson unveiled its first electric toothbrush",
+      "url": "https://www.dezeen.com/2026/09/05/dyson-first-electric-toothbrush-this-week/",
+      "excerpt": "This week on Dezeen, technology brand Dyson launched its first toothbrush, which includes a mouthwash spray designed to replace flossing. Named Dyson CameraJet, the electric toothbrush combines brushi",
       "today": true
     },
     {
@@ -167,13 +305,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.05",
-      "title": "temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival",
-      "url": "https://www.designboom.com/architecture/temporary-timber-pavilion-cedar-cypress-reclaimed-clt-japan-forest-festival-onodatesho-yano-aoyama/",
-      "excerpt": "three asymmetrical planes rotate around an imaginary axis.\nThe post temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival appeared first on designboom | architecture & ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/onodatesho-temporary-timber-pavilion-japan-forest-festival-yano-aoyama-designboom-1200-1.jpg",
+      "title": "Housing CARNIVAL / Studio Profile",
+      "url": "https://www.archdaily.com/1184304/housing-carnival-studio-profile",
+      "excerpt": "A Village Where Street Culture, Community, and Nature Converge - Bangkok is a cultural palimpsest shaped by layers of street markets, temples, contemporary skyscrapers, and organically evolved urban s",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/727a/d93e/3d00/01db/8069/large_jpg/Profile_CARNIVAL_PHOTO_11_WenStudio.jpg?1788244657",
       "today": true
     },
     {
@@ -235,16 +373,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "spok bends the geometry of tennis into an optical loop at felipe pantone’s casa axis",
-      "url": "https://www.designboom.com/art/spok-brillor-geometry-tennis-court-felipe-pantone-casa-axis/",
-      "excerpt": "created during a 12-day residency, spok’s painted tennis court appears to sink through layers of repeating metallic geometry.\nThe post spok bends the geometry of tennis into an optical loop at felipe ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hard-court-2-felipe-pantone-casa-axis-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -262,16 +390,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/paul-smith-barbour-collaboration-aw-2026",
       "excerpt": "The third collaboration between the two British powerhouses looks northwards to the Scottish tradition of the Highland Games",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wp836xyb5J3EYQUqz2N43E-1800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "playful covers made of bio-based PLA+ rethink the conventional light switch",
-      "url": "https://www.designboom.com/design/playful-covers-bio-based-pla-conventional-light-switch-kovr-studio/",
-      "excerpt": "kovr studio gives an overlooked functional element a considered material presence.\nThe post playful covers made of bio-based PLA+ rethink the conventional light switch appeared first on designboom | a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kovr-studio-light-switches-designboom-1200.jpg",
       "today": false
     },
     {
@@ -301,54 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184560/encontros-sculpture-estudio-guto-requena",
       "excerpt": "The Encontros (\"Encounters\") sculpture is the new public artwork created by Estudio Guto Requena, a tribute to Guto's hometown of Sorocaba (\"torn land\" in the native Tupi-Guarani language).",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/3247/bed1/7f00/014d/27b3/large_jpg/Design_sem_nome__10_.jpg?1788293881",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "210 South 12th Building / RSHP",
-      "url": "https://www.archdaily.com/1184462/210-south-12th-building-rshp",
-      "excerpt": "Located in the heart of downtown Philadelphia, RSHP and co-architects Perkins Eastman have completed 210 South 12th for developer Midwood Investment & Development, a 31storey mixed-use tower offering ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/a5f5/2b2b/3f01/89f4/090e/large_jpg/210-south-12th-building-rshp_6.jpg?1788388885",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Emirates introduces the world’s first electric Premium Economy seat",
-      "url": "https://www.wallpaper.com/travel/emirates-electric-premium-economy-seat-launch",
-      "excerpt": "Emirates draws from Business Class for its new electric Premium Economy seat, featuring a full-height adjustable divider",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8dFR69n9GEcUiPTAer9XLh-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Tato Architects combines skinny home with ceramics studio in Kyoto",
-      "url": "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
-      "excerpt": "Skylit ceilings and zigzagging staircases animate this tall, skinny home and ceramics studio in Japan, completed by local studio Tato Architects. Named House and Studio in Kyoto, the project was desig",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Studio Cadena fills Medellín cafe with 31 towering wooden columns",
-      "url": "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
-      "excerpt": "Architecture firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere withou",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "The Pan-African Biennale 2026 guide – explore the first architecture festival of its kind",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/pan-african-biennale-2026-guide",
-      "excerpt": "We guide you through the Pan-African Biennale 2026, the first-ever architecture festival of its kind, curated by architect Omar Degan to ‘belong to all of Africa’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YgLAamnYkWheKNp5fHxHNo-1416-80.jpg",
       "today": false
     },
     {
