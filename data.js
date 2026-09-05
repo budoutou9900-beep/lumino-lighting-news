@@ -1,47 +1,47 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  00:34",
+  "fetchedAt": "2026.09.05  05:11",
   "sourceColors": {
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "山陽新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "時遊zine": {
+    "アメーバブログ": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "山陽新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ウォーカープラス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "徳島新聞デジタル": {
+    "アットエス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -80,16 +80,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.09.05",
@@ -100,7 +90,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.05",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -119,16 +109,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "時遊zine",
-      "cat": "展示・アート",
-      "date": "2026.09.05",
-      "title": "西日本イルミネーションランキング、煌びやかな冬のライトアップ【トップ10】はこれだ！",
-      "url": "https://jiyuzine.com/trip/westjapan-illumi2025/",
-      "excerpt": "",
-      "thumbnailUrl": "https://jiyuzine.com/img/2511/irumi0.jpg",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.09.05",
@@ -136,6 +116,16 @@ window.LUMINO_DATA = {
       "url": "https://www.sanyonews.jp/article/1833776",
       "excerpt": "",
       "thumbnailUrl": "https://static.sanyonews.jp/image/article/size1/7/9/9/a/799a204ec80f14ac27c191ca3b06c98c_4.jpg",
+      "today": true
+    },
+    {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
       "today": true
     },
     {
@@ -149,13 +139,41 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "徳島新聞デジタル",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.05",
-      "title": "那賀町の風車、今冬もLEDでライトアップ 来年１月５日まで",
-      "url": "https://www.topics.or.jp/articles/-/1361984",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "thumbnailUrl": "https://tokushima.ismcdn.jp/mwimgs/5/0/1200wm/img_505107af37ae6dad5ac8a0fd6817d46799547.jpg",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.05",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "It’s our 30th birthday – and we demanded cake",
+      "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes",
+      "excerpt": "Happy birthday to us! To celebrate Wallpaper* turning the big 3-0, we asked our friends and family to ‘bake’ us a cake. Naturally, they got creative",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tbRCXiXWFoNsXiunJsV349-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival",
+      "url": "https://www.designboom.com/architecture/temporary-timber-pavilion-cedar-cypress-reclaimed-clt-japan-forest-festival-onodatesho-yano-aoyama/",
+      "excerpt": "three asymmetrical planes rotate around an imaginary axis.\nThe post temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival appeared first on designboom | architecture & ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/onodatesho-temporary-timber-pavilion-japan-forest-festival-yano-aoyama-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -169,6 +187,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Rain Rhizome / TANAT + Rizoma del Agua",
+      "url": "https://www.archdaily.com/1184555/rain-rhizome-tanat-plus-rizoma-del-agua",
+      "excerpt": "In many Mexican cities, drinking water has not simply disappeared from public life; it has been reorganized through a dense economy of substitution. It arrives by truck, in plastic bottles, in twenty-",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/e471/cc78/e35f/2293/85b4/large_jpg/rizoma-de-lluvia-tanat_13.jpg?1788535955",
+      "today": false
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -176,6 +204,24 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
       "excerpt": "the vertical residence responds to changing daylight, airflow, and seasonal conditions.\nThe post voids and vertical space reinterpret traditional japanese machiya on a compact site in tokyo appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/takumi-wakui-riho-wakui-architects-house-kagurazaka-designboom-1200.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Five opportunities in the USA featured on Dezeen Jobs",
+      "url": "https://www.dezeen.com/2026/09/04/five-opportunities-usa-dezeen-jobs/",
+      "excerpt": "We've rounded up five USA-based vacancies on Dezeen Jobs, including roles at CetraRuddy, Allied Works and OMA. Senior designer (project architect) at Rapt Studio Rapt is seeking senior designers (proj",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.04",
+      "title": "Surrane Design uses \"stages of the rice plant\" to tone Thai restaurant in New York",
+      "url": "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
+      "excerpt": "New York studio Surrane Design has outfitted Thai restaurant Hommali in New York with a terracotta floor, a central \"courtyard\" space and personal items of the founders to create a space that resemble",
       "today": false
     },
     {
@@ -268,16 +314,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "daniel arsham turns barley grains into moving sculpture for the balvenie at frieze seoul",
-      "url": "https://www.designboom.com/art/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul/",
-      "excerpt": "at space S50, performers reshape a circular bed of malted barley on the floor while an 88-year-old single malt is housed within an eight-layered patinated bronze sculpture mirroring oxidized copper st",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul-designboom1200.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -306,25 +342,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Pracownia - The Workshop / ACOS (A Collection of Stories)",
-      "url": "https://www.archdaily.com/1030853/pracownia-workshop-acos-a-collection-of-stories",
-      "excerpt": "Pracownia is a story about holistic design, where a relationship between the user's needs and matter, both existing and conceived, forms a multi-layered spatial experience. It integrates local culture",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6840/595a/c36d/4c00/019e/5ade/large_jpg/PS_ACOS_0_0016.jpg?1749047786",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Finnish company launches \"world's most carbon-storing building material\"",
-      "url": "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
-      "excerpt": "Finnish firm Elementic has unveiled MO6, a wall-surfacing material produced from forestry industry offcuts that is almost pure carbon. Called MO6, the product takes the form of thick, lightweight tile",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.04",
@@ -332,25 +349,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/pan-african-biennale-2026-guide",
       "excerpt": "We guide you through the Pan-African Biennale 2026, the first-ever architecture festival of its kind, curated by architect Omar Degan to ‘belong to all of Africa’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YgLAamnYkWheKNp5fHxHNo-1416-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Dyson toothbrush updates \"a cleaning routine that has remained largely unchanged for decades\"",
-      "url": "https://www.dezeen.com/2026/09/04/dyson-toothbrush-camerajet-interview/",
-      "excerpt": "Following the unveiling of Dyson's CameraJet, the brand's Niamh Turney explained why it decided to redesign the toothbrush. Revealed earlier this week, the Dyson CameraJet toothbrush includes a mouthw",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Dyson introduces new intelligent machines for home cleaning, haircare and air purification",
-      "url": "https://www.wallpaper.com/tech/dyson-2026-new-products-unveiled",
-      "excerpt": "From robot vacuum cleaners to smart straighteners and powerful purifiers, Dyson has dropped a dozen new products that share its new emphasis on sensors, intelligence and machine learning",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cfQwBw3WYwrjEoqpCDXY9g-2560-80.jpg",
       "today": false
     },
     {
