@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  20:54",
+  "fetchedAt": "2026.09.05  22:35",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -158,6 +158,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Yarumos Apartment / Trópico Arquitectura",
+      "url": "https://www.archdaily.com/1184609/yarumos-apartment-tropico-arquitectura",
+      "excerpt": "An apartment designed for a young couple, aimed at optimizing financial resources while taking advantage of the structural spatial characteristics.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/f5b5/15d8/6f00/01a2/f0b1/large_jpg/12.jpg?1788540457",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "João Moura Apartment / Margem Arquitetos",
+      "url": "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
+      "excerpt": "The renovation project for the João Moura Apartment is organized around the search for a living space capable of operating at different scales of occupation: both for gatherings and the collective, as",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5b39/505a/cb00/0115/26a5/large_jpg/Leila_Viegas_Paulo_Petrucci-6409.jpg?1788369957",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -286,16 +306,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Renovation of a Lock Keeper's house / Atelier APA",
-      "url": "https://www.archdaily.com/1183931/renovation-of-a-lock-keepers-house-atelier-apa",
-      "excerpt": "The former Lock-Keeper's house is located on the edge of the Canal du Midi, and boasts a number of landscaping features that give it a special atmosphere: a waterside terrace and large century-old tre",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/94a0/4253/0500/01ca/07df/large_jpg/ATELIERAPA_MAISONECLUSIERE_33.jpg?1787664036",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -312,16 +322,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/wallpaper-30-birthday-cakes",
       "excerpt": "Happy birthday to us! To celebrate Wallpaper* turning the big 3-0, we asked our friends and family to ‘bake’ us a cake. Naturally, they got creative",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tbRCXiXWFoNsXiunJsV349-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Housing CARNIVAL / Studio Profile",
-      "url": "https://www.archdaily.com/1184304/housing-carnival-studio-profile",
-      "excerpt": "A Village Where Street Culture, Community, and Nature Converge - Bangkok is a cultural palimpsest shaped by layers of street markets, temples, contemporary skyscrapers, and organically evolved urban s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/727a/d93e/3d00/01db/8069/large_jpg/Profile_CARNIVAL_PHOTO_11_WenStudio.jpg?1788244657",
       "today": true
     },
     {
