@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.05  13:12",
+  "fetchedAt": "2026.09.05  16:28",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -136,6 +136,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/how-we-host-nicole-hollis",
       "excerpt": "Still life tablescapes, and a Britpop playlist – the interior designer knows how to throw a party",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zpFrGs2gJeGRv56x2yqn6f-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.05",
+      "title": "Mr. Fool Moves a Mountain / Schwartz and Architecture",
+      "url": "https://www.archdaily.com/1183499/mr-fool-moves-a-mountain-schwartz-and-architecture",
+      "excerpt": "For almost nine years, we have been helping our client, Qing, build a 730-square-foot cottage on the water in Bodega Bay, California, the foggy coastal village where Alfred Hitchcock filmed The Birds ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/431d/3cf9/6c00/0178/370d/large_jpg/1205BH_PhotoByBruceDamonte_02_edit.jpg?1787052902",
       "today": true
     },
     {
@@ -311,16 +321,6 @@ window.LUMINO_DATA = {
       "title": "Surrane Design uses \"stages of the rice plant\" to tone Thai restaurant in New York",
       "url": "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
       "excerpt": "New York studio Surrane Design has outfitted Thai restaurant Hommali in New York with a terracotta floor, a central \"courtyard\" space and personal items of the founders to create a space that resemble",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.04",
-      "title": "Doutor Leite Lopes State Airport / Bacco Arquitetos Associados",
-      "url": "https://www.archdaily.com/1184574/doutor-leite-lopes-state-airport-bacco-arquitetos-associados",
-      "excerpt": "In contrast to the concept of the \"non-place,\" the design transforms the airport into an active urban element integrated into the Ribeirão Preto community. The Glued Laminated Timber (glulam) structur",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/e106/15d8/6f00/01a2/ed83/large_jpg/AEROPORT_RIBEIRAO_PRET0_ANA_MELLO_10.jpg?1788469532",
       "today": false
     },
     {
