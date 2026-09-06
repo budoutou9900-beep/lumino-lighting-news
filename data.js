@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  13:54",
+  "fetchedAt": "2026.09.06  16:39",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -95,7 +95,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -121,16 +121,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.06",
@@ -141,13 +131,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "atlas re-edificatoria exhibition connects renovation photography with catalan art",
+      "url": "https://www.designboom.com/art/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula/",
+      "excerpt": "the exhibition organizes the photographs into seventeen chapters, each corresponding to a significant phase or action in the renovation process.\nThe post atlas re-edificatoria exhibition connects reno",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "The Overlook House / Migration Studios",
+      "url": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
+      "excerpt": "The Overlook reinterprets Idaho's mountain cabin as a high-performance mass-timber retreat that steps lightly through a mature ponderosa forest.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5b7f/505a/cb00/0115/26c1/large_jpg/19.jpg?1788369853",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Aguacate Space / ALE Estudio",
+      "url": "https://www.archdaily.com/1184615/aguacate-space-ale-estudio",
+      "excerpt": "Located on Aguacate Street in the Carabanchel district, Espacio Aguacate is nestled in one of Madrid’s most rapidly transforming neighborhoods. Historically associated with a working-class identity, C",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/0d7c/4253/0500/01ca/02eb/large_jpg/ALE_Aguacate_05.jpg?1787563506",
       "today": true
     },
     {
@@ -277,26 +297,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Yarumos Apartment / Trópico Arquitectura",
-      "url": "https://www.archdaily.com/1184609/yarumos-apartment-tropico-arquitectura",
-      "excerpt": "An apartment designed for a young couple, aimed at optimizing financial resources while taking advantage of the structural spatial characteristics.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/f5b5/15d8/6f00/01a2/f0b1/large_jpg/12.jpg?1788540457",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "João Moura Apartment / Margem Arquitetos",
-      "url": "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
-      "excerpt": "The renovation project for the João Moura Apartment is organized around the search for a living space capable of operating at different scales of occupation: both for gatherings and the collective, as",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5b39/505a/cb00/0115/26a5/large_jpg/Leila_Viegas_Paulo_Petrucci-6409.jpg?1788369957",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -333,16 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/temporary-timber-pavilion-cedar-cypress-reclaimed-clt-japan-forest-festival-onodatesho-yano-aoyama/",
       "excerpt": "three asymmetrical planes rotate around an imaginary axis.\nThe post temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival appeared first on designboom | architecture & ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/onodatesho-temporary-timber-pavilion-japan-forest-festival-yano-aoyama-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "amsterdam fashion week 2026 turns the city into a stage for design and performance",
-      "url": "https://www.designboom.com/design/amsterdam-fashion-week-2026-design-highlights-performance/",
-      "excerpt": "from supermarket aisles to a monumental windmill, AFW26 explores identity, community and everyday life through fashion.\nThe post amsterdam fashion week 2026 turns the city into a stage for design and ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/amsterdam-fashion-week-2026-design-highlights-performance-designboom-644-667x1000.jpg",
       "today": false
     },
     {
