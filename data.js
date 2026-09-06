@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  16:39",
+  "fetchedAt": "2026.09.06  18:48",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "久留米ファン": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -92,6 +92,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.09.06",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.06",
@@ -99,15 +108,6 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
       "today": true
     },
     {
@@ -121,6 +121,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.06",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.06",
@@ -131,13 +141,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -154,10 +164,29 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.06",
+      "title": "Plaza Corporate - North Tower / Biselli Katchborian Arquitetos",
+      "url": "https://www.archdaily.com/1184457/plaza-corporate-north-tower-biselli-katchborian-arquitetos",
+      "excerpt": "Part of an urban intervention project that expanded an existing shopping mall and incorporated adjacent lots to form a multifunctional complex, Plaza Corporate includes two towers with distinct uses: ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c331/a25c/7b00/0125/fd93/large_jpg/_MG_1783-Editar_1.jpg?1787937607",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
       "title": "The Overlook House / Migration Studios",
       "url": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
       "excerpt": "The Overlook reinterprets Idaho's mountain cabin as a high-performance mass-timber retreat that steps lightly through a mature ponderosa forest.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5b7f/505a/cb00/0115/26c1/large_jpg/19.jpg?1788369853",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Hudson Architects transforms neglected nightclub into King's Lynn Library",
+      "url": "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library/",
+      "excerpt": "UK studio Hudson Architects has converted a disused commercial building in Norfolk into a public library, wrapping its existing concrete structure in a skin of cement shingles. Named King's Lynn Libra",
       "today": true
     },
     {
@@ -259,16 +288,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Spitfire Roastery / Nota Architects",
-      "url": "https://www.archdaily.com/1184405/spitfire-roastery-nota-architects",
-      "excerpt": "In contemporary China, an increasing number of young people are drawn to the countryside, bringing with them new forms of urban life. Cafés, independent shops, bistros and other lifestyle destinations",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/9ab2/505a/cb00/0115/2442/large_jpg/Facade___Shan_Liang________.jpg?1788320450",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -314,15 +333,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/how-we-host-nicole-hollis",
       "excerpt": "Still life tablescapes, and a Britpop playlist – the interior designer knows how to throw a party",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zpFrGs2gJeGRv56x2yqn6f-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Cluster of rock-like volumes make up rural Irish house by McGonigle McGrath",
-      "url": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
-      "excerpt": "A cluster of monolithic forms lined with grey brick and built into a steep bank defines Tollymore, a riverside house in Northern Ireland by Belfast studio McGonigle McGrath. Located off a narrow road ",
       "today": false
     },
     {
