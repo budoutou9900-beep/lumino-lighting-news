@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  18:48",
+  "fetchedAt": "2026.09.06  21:00",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -141,13 +141,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.06",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "A new house in Croatia is broken down into components to create a curious composition",
+      "url": "https://www.wallpaper.com/architecture/residential/a-new-house-in-croatia-is-broken-down-into-components-to-create-a-curious-composition",
+      "excerpt": "FORVM’s Curious House in Zagreb is a family residence formed from three elements, integrated into the landscape and shaped for privacy and views",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V9K6vJLead5GP4Nri6DXo7-1998-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Hot Lab and Garage Italia give the Fiat 500 Spiaggina restomod a nautical makeover",
+      "url": "https://www.wallpaper.com/transportation/fiat-500-spiaggina-restomod",
+      "excerpt": "The ultimate superyacht companion piece, Garage Italia’s Fiat 500 Spiaggina runabout has been turned into a toy that can be stowed aboard and shipped out for island adventures",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/o3tcGp38D2PhFN3JbxECi-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Silk fashion collection informed by robins among projects from Häme University of Applied Sciences",
+      "url": "https://www.dezeen.com/2026/09/06/silk-fashion-collection-robins-hame-university-of-applied-sciences-schoolshows/",
+      "excerpt": "Dezeen School Shows: hand-painted silk clothing inspired by robins is among the projects from Häme University of Applied Sciences. Also featured is a fashion collection that takes its shape from archi",
       "today": true
     },
     {
@@ -278,16 +297,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Inside the Zaha Hadid Foundation and the iconic architect’s remarkable archive",
-      "url": "https://www.wallpaper.com/architecture/zaha-hadid-foundation-and-archive-london-uk",
-      "excerpt": "The Zaha Hadid Foundation is entering a bold new era, driven by a visionary director intent on protecting, preserving and promoting the late, great architect’s legacy",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ptJt5JbZTRGKBf9NG6zDeA-2000-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -307,15 +316,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank",
-      "url": "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
-      "excerpt": "Canada's Ivy Studio has transformed a 1970s bank into a veterinary clinic for exotic animals in Laval, Quebec, featuring minimalist interiors and soft lighting. The Fauna clinic occupies a standalone ",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -323,16 +323,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/continuous-white-dj-console-turntables-mixers-hidden-cables-modek-evolution-pro/",
       "excerpt": "a monocoque body conceals the technical infrastructure within the furniture.\nThe post continuous white DJ console integrates turntables, mixers, and hidden cables appeared first on designboom | archit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/modek-imagine-sound-furniture-dj-booths-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "How We Host: Dinner with Nicole Hollis will quickly turn into a dance party",
-      "url": "https://www.wallpaper.com/entertaining/how-we-host-nicole-hollis",
-      "excerpt": "Still life tablescapes, and a Britpop playlist – the interior designer knows how to throw a party",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zpFrGs2gJeGRv56x2yqn6f-2560-80.jpg",
       "today": false
     },
     {
