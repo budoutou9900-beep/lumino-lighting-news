@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  05:25",
+  "fetchedAt": "2026.09.06  10:06",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "city.okayama.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,15 +17,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "ひろしまリード": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "weathernews.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,37 +33,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -88,42 +96,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
+      "source": "city.okayama.jp",
+      "cat": "国内情報",
       "date": "2026.09.06",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "title": "西川夏あかり2026 開催します",
+      "url": "https://www.city.okayama.jp/kankou/0000030935.html",
       "excerpt": "",
+      "thumbnailUrl": "https://www.city.okayama.jp/design_img/",
       "today": true
     },
     {
       "source": "Google ニュース",
-      "cat": "展示・アート",
+      "cat": "国内情報",
       "date": "2026.09.06",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "ライティング情報【公式】東京スカイツリー TOKYO SKYTREE - tokyo-skytree.jp",
+      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ひろしまリード",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "【12/1～】松江市の日本庭園 由志園のライトアップイルミネーション「黄金の島ジパング2024-2025」クリスマスシーズンがはじまる！",
+      "url": "https://hread.home-tv.co.jp/post-448938/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://hread.home-tv.co.jp/wp-content/uploads/2024/11/20241120yuushien.jpg",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "「関西のイルミネーション2024-2025」大阪・神戸のライトアップ情報・冬のデートスポット",
+      "url": "https://www.fashion-press.net/news/121015",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/121015/top.jpg?1729484799",
+      "today": true
+    },
+    {
+      "source": "weathernews.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.06",
+      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
+      "url": "https://weathernews.jp/illumi/spot/4102007/",
+      "excerpt": "",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Eight wooden staircases that make the most of the material",
+      "url": "https://www.dezeen.com/2026/09/06/eight-wooden-staircases-lookbooks/",
+      "excerpt": "Blue-stained plywood and knotted larch feature in our latest lookbook of residential interiors anchored by statement wooden staircases. There is no end to architects' appetite for building with wood, ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Thunderbird is OMI’s multidimensional orbital laboratory developed for Max Space",
+      "url": "https://www.wallpaper.com/tech/thunderbird-space-station-concept-by-omi-for-max-space",
+      "excerpt": "Industrial design studio OMI has created a conceptual modular space station for astronautical start-up Max Space, compressing a substantial orbital structure into a single rocket payload complete with",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YvkjDYo2CB4Fa6eT5Ww3uT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "leisurama’s prefabricated promise of fabulous, mid-century vacationing for all",
+      "url": "https://www.designboom.com/design/leisurama-promise-fabulous-mid-century-vacationing-for-all/",
+      "excerpt": "designed by andrew geller and raymond loewy, the nearly too-good-to-be true vacation homes have intrigued travelers for decades. \nThe post leisurama’s prefabricated promise of fabulous, mid-century va",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leisurama-designboom-49.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "From Kendrick Lamar to Lou Reed: a new book reveals David Bowie’s favourite music",
+      "url": "https://www.wallpaper.com/art/music/david-bowie-music-lover-book-review",
+      "excerpt": "‘David Bowie: Music Lover’, published by ACC Art Books, highlights more than 100 of Bowie’s favourite musical artists",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/83buuMx6SAgHUwA5d3vcnb.gif",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Plana House is a free-to-download design for a compact timber home",
+      "url": "https://www.dezeen.com/2026/09/06/plana-house-kristijan-markoc-downloadable-timber-home/",
+      "excerpt": "Architect Kristijan Markoc has created a downloadable template for a \"deliberately modest\", two-bedroom timber home designed to be adapted to any site. Named Plana House, the replicable home design ha",
       "today": true
     },
     {
@@ -144,6 +211,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/zaha-hadid-foundation-and-archive-london-uk",
       "excerpt": "The Zaha Hadid Foundation is entering a bold new era, driven by a visionary director intent on protecting, preserving and promoting the late, great architect’s legacy",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ptJt5JbZTRGKBf9NG6zDeA-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Spitfire Roastery / Nota Architects",
+      "url": "https://www.archdaily.com/1184405/spitfire-roastery-nota-architects",
+      "excerpt": "In contemporary China, an increasing number of young people are drawn to the countryside, bringing with them new forms of urban life. Cafés, independent shops, bistros and other lifestyle destinations",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/9ab2/505a/cb00/0115/2442/large_jpg/Facade___Shan_Liang________.jpg?1788320450",
       "today": true
     },
     {
@@ -235,32 +312,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Discover Rachel Boston’s chic and modern engagement rings for men",
-      "url": "https://www.wallpaper.com/watches-jewellery/rachel-boston-relic-collection-mens-engagement-rings",
-      "excerpt": "Meet the designer rethinking men’s jewellery with a new ten-piece collection, ‘Relic’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ftFVbX7A4hzKKzHP7duXUX.gif",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.05",
       "title": "Cluster of rock-like volumes make up rural Irish house by McGonigle McGrath",
       "url": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
       "excerpt": "A cluster of monolithic forms lined with grey brick and built into a steep bank defines Tollymore, a riverside house in Northern Ireland by Belfast studio McGonigle McGrath. Located off a narrow road ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "The best bookable cabins around the world for design lovers",
-      "url": "https://www.wallpaper.com/travel/best-cabin-stays",
-      "excerpt": "Architecture goes off-grid in our pick of the best cabin stays, from Ecuador’s cloud forest to the Norwegian treetops",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wVJQwxkkW2N9xJS3FCmJMj-2560-80.jpg",
       "today": false
     },
     {
@@ -281,44 +338,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/amsterdam-fashion-week-2026-design-highlights-performance/",
       "excerpt": "from supermarket aisles to a monumental windmill, AFW26 explores identity, community and everyday life through fashion.\nThe post amsterdam fashion week 2026 turns the city into a stage for design and ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/amsterdam-fashion-week-2026-design-highlights-performance-designboom-644-667x1000.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Five anti-AI designs that give an element of control back to humans",
-      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
-      "excerpt": "With artificial intelligence encroaching on more and more aspects of daily life, there is a rising trend of fatigue and cynicism around the technology. Here, we round up five designs that push back on",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "when the power goes out, how can the architecture keep a house cool?",
-      "url": "https://www.designboom.com/architecture/power-goes-out-keep-house-cooling-passive-survivability/",
-      "excerpt": "as temperatures rise and grids strain, 'passive survivability' asks how long architecture can keep a home habitable.\nThe post when the power goes out, how can the architecture keep a house cool? appea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/cooling-without-electricity-architecture-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "The City as a System of Health: Breaking Feedback Loops in Planning",
-      "url": "https://www.archdaily.com/1183859/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning",
-      "excerpt": "The spatial consequences of urban form are revealed when health outcomes are mapped over neighborhoods. Neighborhoods that support walking, daily errands, social interaction, and access to essential s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/ae77/ab59/ca01/8994/7733/large_jpg/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning_1.jpg?1787735678",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "This week Dyson unveiled its first electric toothbrush",
-      "url": "https://www.dezeen.com/2026/09/05/dyson-first-electric-toothbrush-this-week/",
-      "excerpt": "This week on Dezeen, technology brand Dyson launched its first toothbrush, which includes a mouthwash spray designed to replace flossing. Named Dyson CameraJet, the electric toothbrush combines brushi",
       "today": false
     },
     {
