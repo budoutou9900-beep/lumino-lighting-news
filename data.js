@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  21:00",
+  "fetchedAt": "2026.09.06  22:51",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -104,7 +104,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
@@ -167,6 +167,26 @@ window.LUMINO_DATA = {
       "title": "Silk fashion collection informed by robins among projects from Häme University of Applied Sciences",
       "url": "https://www.dezeen.com/2026/09/06/silk-fashion-collection-robins-hame-university-of-applied-sciences-schoolshows/",
       "excerpt": "Dezeen School Shows: hand-painted silk clothing inspired by robins is among the projects from Häme University of Applied Sciences. Also featured is a fashion collection that takes its shape from archi",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Grava House / remyarchitects",
+      "url": "https://www.archdaily.com/1184612/grava-house-remyarchitects",
+      "excerpt": "Grava House is a residence located in Pilar, situated on a lot with open views of the golf course. The project is developed from a sequence of volumes and split levels that define both its exterior ex",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9483/15d8/6f00/01a2/ec93/large_jpg/remyarchitects-arquitectura-pilar-buenos-aires-arquitectos-remy-andres-concreto-hormigon-visto-moderno-golf-casa-country-grava-archdaily__3_.jpg?1788449948",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Floresta Apartment / VAGA arquitetura",
+      "url": "https://www.archdaily.com/1184597/floresta-apartment-vaga-arquitetura",
+      "excerpt": "In the Vila Ipojuca neighborhood of São Paulo, a 66-square-meter apartment renovated by VAGA Arquitetura translates the idea of belonging through an atmosphere defined by materiality, memory, and perm",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/13d9/cc78/e301/8820/e479/large_jpg/apartamento-floresta-vaga-arquitetura_45.jpg?1788548164",
       "today": true
     },
     {
@@ -245,26 +265,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/leisurama-promise-fabulous-mid-century-vacationing-for-all/",
       "excerpt": "designed by andrew geller and raymond loewy, the nearly too-good-to-be true vacation homes have intrigued travelers for decades. \nThe post leisurama’s prefabricated promise of fabulous, mid-century va",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leisurama-designboom-49.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Building the India of the Imagination: Cinema and the Making of Place",
-      "url": "https://www.archdaily.com/1184295/building-the-india-of-the-imagination-cinema-and-the-making-of-place",
-      "excerpt": "Some of India's most convincing architectural worlds have never existed outside a film set. Courtyards, palaces, streets and even entire neighbourhoods have been constructed, lit and framed for the ca",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4950/3847/8a01/8b33/7043/large_jpg/building-the-india-of-the-imagination-cinema-and-the-making-of-place_8.jpg?1788234076",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Chleboteka \"Okrąglak\" / CUDO:",
-      "url": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
-      "excerpt": "The main inspiration was Okrąglak itself – one of Wrocław's iconic modernist buildings. Rather than recreating its historical interior, we translated its architectural language into a contemporary spa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d76/4253/0500/01ca/08ec/large_jpg/migdal_cudo_chleboteka_9.jpg?1787665835",
       "today": true
     },
     {
