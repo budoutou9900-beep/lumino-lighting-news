@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  10:06",
+  "fetchedAt": "2026.09.06  13:54",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "city.okayama.jp": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "ひろしまリード": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "ファッションプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "weathernews.jp": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "パナソニック": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -96,53 +92,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "city.okayama.jp",
-      "cat": "国内情報",
-      "date": "2026.09.06",
-      "title": "西川夏あかり2026 開催します",
-      "url": "https://www.city.okayama.jp/kankou/0000030935.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.city.okayama.jp/design_img/",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
-      "cat": "国内情報",
-      "date": "2026.09.06",
-      "title": "ライティング情報【公式】東京スカイツリー TOKYO SKYTREE - tokyo-skytree.jp",
-      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
-      "today": true
-    },
-    {
-      "source": "ひろしまリード",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "【12/1～】松江市の日本庭園 由志園のライトアップイルミネーション「黄金の島ジパング2024-2025」クリスマスシーズンがはじまる！",
-      "url": "https://hread.home-tv.co.jp/post-448938/",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://hread.home-tv.co.jp/wp-content/uploads/2024/11/20241120yuushien.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.09.06",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
       "today": true
     },
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "「関西のイルミネーション2024-2025」大阪・神戸のライトアップ情報・冬のデートスポット",
-      "url": "https://www.fashion-press.net/news/121015",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/121015/top.jpg?1729484799",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
-      "source": "weathernews.jp",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.06",
-      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/4102007/",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.06",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.06",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -172,6 +177,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/leisurama-promise-fabulous-mid-century-vacationing-for-all/",
       "excerpt": "designed by andrew geller and raymond loewy, the nearly too-good-to-be true vacation homes have intrigued travelers for decades. \nThe post leisurama’s prefabricated promise of fabulous, mid-century va",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leisurama-designboom-49.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Building the India of the Imagination: Cinema and the Making of Place",
+      "url": "https://www.archdaily.com/1184295/building-the-india-of-the-imagination-cinema-and-the-making-of-place",
+      "excerpt": "Some of India's most convincing architectural worlds have never existed outside a film set. Courtyards, palaces, streets and even entire neighbourhoods have been constructed, lit and framed for the ca",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/4950/3847/8a01/8b33/7043/large_jpg/building-the-india-of-the-imagination-cinema-and-the-making-of-place_8.jpg?1788234076",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.06",
+      "title": "Chleboteka \"Okrąglak\" / CUDO:",
+      "url": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
+      "excerpt": "The main inspiration was Okrąglak itself – one of Wrocław's iconic modernist buildings. Rather than recreating its historical interior, we translated its architectural language into a contemporary spa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d76/4253/0500/01ca/08ec/large_jpg/migdal_cudo_chleboteka_9.jpg?1787665835",
       "today": true
     },
     {
@@ -282,16 +307,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Ocean House / Biazus Arquitetura",
-      "url": "https://www.archdaily.com/1184454/ocean-house-biazus-arquitetura",
-      "excerpt": "Architecture that relies on the strength of horizontal planes to create shade, comfort, and presence. At the client's request, we developed a home for the family to spend extended periods at the beach",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c1a4/a25c/7b00/0125/fd77/large_jpg/Casa_Ocean_Side-3.jpg?1787937236",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -299,16 +314,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/how-we-host-nicole-hollis",
       "excerpt": "Still life tablescapes, and a Britpop playlist – the interior designer knows how to throw a party",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zpFrGs2gJeGRv56x2yqn6f-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Mr. Fool Moves a Mountain / Schwartz and Architecture",
-      "url": "https://www.archdaily.com/1183499/mr-fool-moves-a-mountain-schwartz-and-architecture",
-      "excerpt": "For almost nine years, we have been helping our client, Qing, build a 730-square-foot cottage on the water in Bodega Bay, California, the foggy coastal village where Alfred Hitchcock filmed The Birds ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a84/431d/3cf9/6c00/0178/370d/large_jpg/1205BH_PhotoByBruceDamonte_02_edit.jpg?1787052902",
       "today": false
     },
     {
