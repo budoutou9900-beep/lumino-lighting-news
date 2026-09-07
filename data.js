@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.07  21:00",
+  "fetchedAt": "2026.09.07  23:54",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "アットエス": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "ozmall.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,41 +45,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "武蔵野美術大学": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "武蔵野美術大学": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -111,15 +107,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.09.07",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
       "today": true
     },
     {
@@ -162,12 +149,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.07",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Jewellery designer Shaun Leane's new commission-only atelier will create 12 special pieces a year",
+      "url": "https://www.wallpaper.com/watches-jewellery/shaun-leane-launches-12-atelier",
+      "excerpt": "With the launch of 12, Shaun Leane is shifting towards a slower way of creating",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/q5AfG2dUefxMjVdiWPmZug-2560-80.jpg",
       "today": true
     },
     {
@@ -181,6 +178,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Kay Kay de Monkul Lookout Walkway / Gonzalo Verdugo + Carlos Seguel Arquitectos",
+      "url": "https://www.archdaily.com/1184696/kay-kay-de-monkul-lookout-walkway-gonzalo-verdugo-plus-carlos-seguel-arquitectos",
+      "excerpt": "Located in the Monkul Wetland, one of the most valuable coastal ecosystems in southern Chile, this wooden boardwalk was conceived as a low-impact infrastructure that allows visitors to traverse and co",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/2db1/13b9/4100/01df/6c62/large_jpg/DJI_0685.jpg?1788816871",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.07",
@@ -188,6 +195,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/xbox-controller-furniture-ikea-yxstaby-collection-gaming/",
       "excerpt": "a tilting thumbstick stool leads IKEA and Xbox’s upcoming furniture collection for gaming across the home.\nThe post Xbox controller shapes become furniture in IKEA’s nine-piece YXSTABY collection appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ikea-xbox-YXSTABY-gaming-collection-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Lapa Townhouse Renovation / Estudio Piloti Arquitetura",
+      "url": "https://www.archdaily.com/1184594/lapa-townhouse-renovation-estudio-piloti-arquitetura",
+      "excerpt": "Located in a charming gated village in the Lapa neighborhood, the original property consisted of two small stacked houses. To accommodate a family of five—a couple and their three children—the project",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/0057/bed1/7f00/014d/2637/large_jpg/Estudio-Piloti-Arquitetura-foto-Luiza-Florenzano-001.jpg?1788280961",
       "today": true
     },
     {
@@ -217,6 +234,16 @@ window.LUMINO_DATA = {
       "title": "Construction of \"Arc de Trump\" set to begin in next two weeks",
       "url": "https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/",
       "excerpt": "The construction of a 250-foot-high triumphal arch in Washington DC designed by Atlanta-based Harrison Design, is set to begin \"over the next two-week period\". Plans to begin construction of the giant",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Casa MDL / Estudio Maria Strada",
+      "url": "https://www.archdaily.com/1184496/casa-mdl",
+      "excerpt": "The house was born from the search for a balance between an urban spirit — one the client feels deeply connected to — and a strong, ever-present relationship with the landscape. Although located on th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/944c/15d8/6f00/01a2/ec6f/large_jpg/1._MS_Martindale_Frente_2.jpg?1788449913",
       "today": true
     },
     {
@@ -299,16 +326,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "At Silver Lake’s Hotel Lucile, a landmark church is reborn with a divine restaurant",
-      "url": "https://www.wallpaper.com/travel/hotels/hotel-lucile-silver-lake-review",
-      "excerpt": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6WWQmcgHuXT8x4uGVLE8A-1600-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.07",
@@ -327,42 +344,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Curious House / FORVM",
-      "url": "https://www.archdaily.com/1183941/curious-house-forvm",
-      "excerpt": "Curious House transforms a steep, densely vegetated site in Zagreb into a layered domestic landscape where architecture, topography, and existing trees shape everyday life together.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d2d/4253/0500/01ca/08a7/large_jpg/06_FORVM_-_Curious_House_-_photo_Bosnic_Dorotic.jpg?1787665731",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.07",
       "title": "Grace tiles by Ceramiche Keope",
       "url": "https://www.dezeen.com/2026/09/07/grace-tile-collection-ceramiche-keope-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Ceramiche Keope has recreated the subtle allure of limestone in its Grace collection of porcelain stoneware tiles. The Grace collection was created with reference to lim",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Madrid Region and the City of Leganés Launch an Open Call Urban Design Contest for the new “Puerta de Madrid” Sustainable District in Leganés (Madrid)",
-      "url": "https://www.archdaily.com/1184667/madrid-region-and-the-city-of-leganes-launch-an-open-call-urban-design-contest-for-the-new-puerta-de-madrid-sustainable-district-in-leganes-madrid",
-      "excerpt": "Community of Madrid, (Madrid’s Regional Government) and the City Council of Leganés have launched an urban planning design contest aimed at obtaining the best planning proposals for the sustainable an",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/c47f/cc78/e301/8820/e820/large_jpg/madrid-region-and-the-city-of-leganes-launch-an-open-call-urban-design-contest-for-the-new-puerta-de-madrid-sustainable-district-in-leganes-madrid_2.jpg?1788789894",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Chromatic Architecture",
-      "url": "https://www.archdaily.com/1184663/chromatic-architecture",
-      "excerpt": "Colour is one of the most meaningful and expressive elements that can be used in the design of buildings. It is also the most neglected: students are rarely taught about it, and many architects are fe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/c310/15d8/6f00/01a2/f6b7/large_jpg/Final_CA_Cover_Image.jpg?1788789527",
       "today": true
     },
     {
