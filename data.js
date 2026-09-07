@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.07  17:04",
+  "fetchedAt": "2026.09.07  21:00",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,23 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "アットエス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "kurumefan.com": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -114,6 +114,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.07",
@@ -121,15 +139,6 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "kurumefan.com",
-      "cat": "展示・アート",
-      "date": "2026.09.07",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
       "today": true
     },
     {
@@ -162,13 +171,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "triangular timber structure encloses tsukumo kiln ceramic studio in kobe, japan",
+      "url": "https://www.designboom.com/architecture/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa/",
+      "excerpt": "translucent FRP panels create a continuous exterior surface that changes appearance with shifting daylight.\nThe post triangular timber structure encloses tsukumo kiln ceramic studio in kobe, japan app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Xbox controller shapes become furniture in IKEA’s nine-piece YXSTABY collection",
+      "url": "https://www.designboom.com/design/xbox-controller-furniture-ikea-yxstaby-collection-gaming/",
+      "excerpt": "a tilting thumbstick stool leads IKEA and Xbox’s upcoming furniture collection for gaming across the home.\nThe post Xbox controller shapes become furniture in IKEA’s nine-piece YXSTABY collection appe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ikea-xbox-YXSTABY-gaming-collection-designboom-01.jpg",
       "today": true
     },
     {
@@ -230,6 +249,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "House on David Melgueiro / Aurora Arquitectos",
+      "url": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos",
+      "excerpt": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades. Over the years, many of these homes hav",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/dfa6/15d8/6f00/01a2/ed6d/large_jpg/29.jpg?1788470091",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.07",
@@ -250,6 +279,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Gradient House and Studio / Observation Studio",
+      "url": "https://www.archdaily.com/1184379/gradient-house-and-studio-observation-studio",
+      "excerpt": "Gradient transforms a postwar house in the St. Johns neighborhood of Portland into a timely and sophisticated live work campus. United by a shared roof and material palette, the house and studio frame",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2a02/bed1/7f00/014d/270a/large_jpg/Gradient_07_ArchDaily.jpg?1788291675",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.07",
@@ -267,16 +306,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/hotel-lucile-silver-lake-review",
       "excerpt": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6WWQmcgHuXT8x4uGVLE8A-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "what kind of life should housing make possible? 33 projects offer answers",
-      "url": "https://www.designboom.com/architecture/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview/",
-      "excerpt": "the book brings together 33 european housing projects, asking how architecture can respond to existing buildings, care, and the everyday systems that shape domestic life.\nThe post what kind of life sh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview-designboom-1200.jpg",
       "today": true
     },
     {
@@ -334,36 +363,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184663/chromatic-architecture",
       "excerpt": "Colour is one of the most meaningful and expressive elements that can be used in the design of buildings. It is also the most neglected: students are rarely taught about it, and many architects are fe",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/c310/15d8/6f00/01a2/f6b7/large_jpg/Final_CA_Cover_Image.jpg?1788789527",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "UNFOLD 2027: Call for Design Schools to Showcase at Milan Design Week",
-      "url": "https://www.archdaily.com/1184653/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week",
-      "excerpt": "Domus Academy opens the Call for Participation for UNFOLD 2027, the fourth edition of its international project competition for design schools and institutions, taking place during Milan Design Week, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/b930/15d8/6f00/01a2/f601/large_jpg/UNFOLD_2027_-_project_presentation_Page_01.jpg?1788787000",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Call for Papers Dearq 50: Architectures that Linger",
-      "url": "https://www.archdaily.com/1184649/call-for-papers-dearq-50-architectures-that-linger",
-      "excerpt": "There is a way of dwelling that seeks not to impose itself, but to endure, a way of dwelling that, in response to the accelerated rhythms of contemporary life, creates space for contemplation, explora",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/b260/15d8/6f00/01a2/f5e1/large_jpg/archdaily-eng.jpg?1788785258",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "purple fabric reflects sunlight and releases heat to stay cool in the sun",
-      "url": "https://www.designboom.com/technology/purple-fabric-sunlight-heat-cool-sun-research-zhengzhou-university-adelaide/",
-      "excerpt": "researchers from china and australia develop an electrospun textile that remains up to 6.2°C cooler than conventional purple cotton under direct sunlight.\nThe post purple fabric reflects sunlight and ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/purple-fabric-sunlight-heat-cool-sun-research-zhengzhou-university-adelaide-designboom-1200.jpg",
       "today": true
     },
     {
