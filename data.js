@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.07  05:37",
+  "fetchedAt": "2026.09.07  11:20",
   "sourceColors": {
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "久留米ファン": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "武蔵野美術大学": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,28 +49,50 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "武蔵野美術大学": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
+    {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
@@ -150,13 +172,118 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "A multifunctional ice hockey arena in Czech Republic is a fan favourite",
+      "url": "https://www.wallpaper.com/architecture/jihlava-municipal-arena-chybik-and-kristof-czech-republic",
+      "excerpt": "CHYBÍK + KRIŠTOF's multi-purpose arena in the historic Czech town of Jihlava has a sports hall, running track, gym, and hotel",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4EAkFXj38gzmB5cNcYHRVh-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "what kind of life should housing make possible? 33 projects offer answers",
+      "url": "https://www.designboom.com/architecture/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview/",
+      "excerpt": "the book brings together 33 european housing projects, asking how architecture can respond to existing buildings, care, and the everyday systems that shape domestic life.\nThe post what kind of life sh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Design overtakes retail as biggest contributor to UK economy",
+      "url": "https://www.dezeen.com/2026/09/07/design-council-economy-report/",
+      "excerpt": "Britain's design industry has grown by 40 per cent and is now responsible for £1 in every £20 generated across the country, according to a landmark report from the Design Council. Published today, the",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Grace tiles by Ceramiche Keope",
+      "url": "https://www.dezeen.com/2026/09/07/grace-tile-collection-ceramiche-keope-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian brand Ceramiche Keope has recreated the subtle allure of limestone in its Grace collection of porcelain stoneware tiles. The Grace collection was created with reference to lim",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Badweather converts derelict canal boat into London's first off-grid bathhouse",
+      "url": "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather/",
+      "excerpt": "Architecture collective Badweather has transformed a 17-metre canal boat into Soak, an off-grid bathhouse that moves to a new location along London's waterways every two weeks. Soak combines a wood-fi",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Oliver Stiff designs collectible \"fashion furniture\"",
+      "url": "https://www.dezeen.com/2026/09/07/oliver-stiff-fashion-furniture-chairs/",
+      "excerpt": "Royal College of Art graduate Oliver Stiff has created a series of sculptural furniture pieces that aim to \"bring the language, attitude and materials of fashion design into furniture\". The London-bas",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "purple fabric reflects sunlight and releases heat to stay cool in the sun",
+      "url": "https://www.designboom.com/technology/purple-fabric-sunlight-heat-cool-sun-research-zhengzhou-university-adelaide/",
+      "excerpt": "researchers from china and australia develop an electrospun textile that remains up to 6.2°C cooler than conventional purple cotton under direct sunlight.\nThe post purple fabric reflects sunlight and ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/purple-fabric-sunlight-heat-cool-sun-research-zhengzhou-university-adelaide-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Strut table and pouf by Yet Design Studio among new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/07/strut-table-pouf-yet-design-studio-furniture-lighting-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a matching pouf and table made from aluminium is among 12 new products featured on Dezeen Showroom. Strut table and pouf by Yağmur Köylü for Yet Design Studio The Istanbul and London-",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Health Centre Rosenthal / kit",
+      "url": "https://www.archdaily.com/1184619/health-centre-rosenthal-kit",
+      "excerpt": "The Rosenthal Health Centre translates the spatial qualities of a village into a contemporary setting for care, healthcare, and assisted living, bringing the previously dispersed facilities of the Dre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6b16/15d8/6f00/01a2/f3d2/large_jpg/02_kit_Rosenthal_Fassade_Garten.jpg?1788701485",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Isabel + Helen celebrate their studio's first decade with an exhibition that gives you glimpse into their creative process (and things you can buy)",
+      "url": "https://www.wallpaper.com/design-interiors/isabel-helen-the-conran-shop-motion-sickness-london-design-festival-2026",
+      "excerpt": "London Design Festival 2026: the creative world's literal movers and shakers, Isabel + Helen mark ten years of the studio at The Conran Shop with an exhibition (12-20 September 2026 ) titled 'Motion S",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tqN9KebUCs4eSBnhgSMqaN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "The German Pavilion Examines Coexistence and Democracy Through \"CONVIVERE\" at the 2027 Venice Architecture Biennale",
+      "url": "https://www.archdaily.com/1184577/the-german-pavilion-examines-coexistence-and-democracy-through-convivere-at-the-2027-venice-architecture-biennale",
+      "excerpt": "The German Federal Ministry for Housing, Urban Development and Building has appointed Kawahara Krause Architects, Andres Lepik, and Olga Cobuscean as curators for the German Pavilion at the 20th Inter",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/2d6a/cc78/e301/8820/e4b3/large_jpg/german-pavilion_8.jpg?1788554613",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "One House, Many Climates: When Greenhouse Design Enters the Home",
+      "url": "https://www.archdaily.com/1184398/one-house-many-climates-when-greenhouse-design-enters-the-home",
+      "excerpt": "A greenhouse is a building designed to create one climate inside another. By controlling sunlight, heat, and ventilation through its enclosure, it produces conditions that differ from those outside. T",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/8897/8db7/ac01/89d5/426c/large_jpg/transforming-domestic-architecture-the-greenhouse-concept-for-homes_3.jpg?1788315806",
       "today": true
     },
     {
@@ -167,6 +294,26 @@ window.LUMINO_DATA = {
       "url": "https://www.musabi.ac.jp/topics/20260907_03_02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2026/09/t_20260907_02.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "The Doctor’s House / Jose Costa",
+      "url": "https://www.archdaily.com/1184469/the-doctors-house-jose-costa",
+      "excerpt": "In 1941, Nilda's grandparents rented this house in Turís, Valencia, a dwelling built fifteen years earlier and distinguished by its generous backyard, which at the time still opened onto surrounding f",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/19fc/1fe7/3101/8863/01a4/large_jpg/the-doctors-house-jose-costa_6.jpg?1788418653",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Oneness School Nonthaburi / Imaginary Objects",
+      "url": "https://www.archdaily.com/1184628/oneness-school-nonthaburi-imaginary-objects",
+      "excerpt": "Oneness School's curriculum centers on wellbeing, sustainability, and children's connection to nature. Our master plan for the new campus responds to these values through a climate-responsive design t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/3112/15d8/6f00/01a2/f4ca/large_jpg/1.iO_Oneness_Nonthaburi.jpg?1788752164",
       "today": true
     },
     {
@@ -200,25 +347,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Silk fashion collection informed by robins among projects from Häme University of Applied Sciences",
-      "url": "https://www.dezeen.com/2026/09/06/silk-fashion-collection-robins-hame-university-of-applied-sciences-schoolshows/",
-      "excerpt": "Dezeen School Shows: hand-painted silk clothing inspired by robins is among the projects from Häme University of Applied Sciences. Also featured is a fashion collection that takes its shape from archi",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Grava House / remyarchitects",
-      "url": "https://www.archdaily.com/1184612/grava-house-remyarchitects",
-      "excerpt": "Grava House is a residence located in Pilar, situated on a lot with open views of the golf course. The project is developed from a sequence of volumes and split levels that define both its exterior ex",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9483/15d8/6f00/01a2/ec93/large_jpg/remyarchitects-arquitectura-pilar-buenos-aires-arquitectos-remy-andres-concreto-hormigon-visto-moderno-golf-casa-country-grava-archdaily__3_.jpg?1788449948",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.09.07",
@@ -229,16 +357,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Floresta Apartment / VAGA arquitetura",
-      "url": "https://www.archdaily.com/1184597/floresta-apartment-vaga-arquitetura",
-      "excerpt": "In the Vila Ipojuca neighborhood of São Paulo, a 66-square-meter apartment renovated by VAGA Arquitetura translates the idea of belonging through an atmosphere defined by materiality, memory, and perm",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/13d9/cc78/e301/8820/e479/large_jpg/apartamento-floresta-vaga-arquitetura_45.jpg?1788548164",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.06",
@@ -246,54 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula/",
       "excerpt": "the exhibition organizes the photographs into seventeen chapters, each corresponding to a significant phase or action in the renovation process.\nThe post atlas re-edificatoria exhibition connects reno",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Plaza Corporate - North Tower / Biselli Katchborian Arquitetos",
-      "url": "https://www.archdaily.com/1184457/plaza-corporate-north-tower-biselli-katchborian-arquitetos",
-      "excerpt": "Part of an urban intervention project that expanded an existing shopping mall and incorporated adjacent lots to form a multifunctional complex, Plaza Corporate includes two towers with distinct uses: ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c331/a25c/7b00/0125/fd93/large_jpg/_MG_1783-Editar_1.jpg?1787937607",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "The Overlook House / Migration Studios",
-      "url": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
-      "excerpt": "The Overlook reinterprets Idaho's mountain cabin as a high-performance mass-timber retreat that steps lightly through a mature ponderosa forest.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5b7f/505a/cb00/0115/26c1/large_jpg/19.jpg?1788369853",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Hudson Architects transforms neglected nightclub into King's Lynn Library",
-      "url": "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library/",
-      "excerpt": "UK studio Hudson Architects has converted a disused commercial building in Norfolk into a public library, wrapping its existing concrete structure in a skin of cement shingles. Named King's Lynn Libra",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Aguacate Space / ALE Estudio",
-      "url": "https://www.archdaily.com/1184615/aguacate-space-ale-estudio",
-      "excerpt": "Located on Aguacate Street in the Carabanchel district, Espacio Aguacate is nestled in one of Madrid’s most rapidly transforming neighborhoods. Historically associated with a working-class identity, C",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/0d7c/4253/0500/01ca/02eb/large_jpg/ALE_Aguacate_05.jpg?1787563506",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Eight wooden staircases that make the most of the material",
-      "url": "https://www.dezeen.com/2026/09/06/eight-wooden-staircases-lookbooks/",
-      "excerpt": "Blue-stained plywood and knotted larch feature in our latest lookbook of residential interiors anchored by statement wooden staircases. There is no end to architects' appetite for building with wood, ",
       "today": false
     },
     {
@@ -317,35 +387,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "From Kendrick Lamar to Lou Reed: a new book reveals David Bowie’s favourite music",
-      "url": "https://www.wallpaper.com/art/music/david-bowie-music-lover-book-review",
-      "excerpt": "‘David Bowie: Music Lover’, published by ACC Art Books, highlights more than 100 of Bowie’s favourite musical artists",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/83buuMx6SAgHUwA5d3vcnb.gif",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Plana House is a free-to-download design for a compact timber home",
-      "url": "https://www.dezeen.com/2026/09/06/plana-house-kristijan-markoc-downloadable-timber-home/",
-      "excerpt": "Architect Kristijan Markoc has created a downloadable template for a \"deliberately modest\", two-bedroom timber home designed to be adapted to any site. Named Plana House, the replicable home design ha",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "How the beach bucket and spade challenge our obsession with permanence",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-bucket-and-spade",
-      "excerpt": "In the 12th instalment of his series ‘Objectify’, architect Carlo Ratti turns his attention to the bucket and spade, the beach accessory that allows everyone to be a builder",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ExmuJoTkyApCaohdLXKjVG-1600-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.05",
@@ -356,35 +397,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "Modular combat boots among footwear projects from Häme University of Applied Sciences",
-      "url": "https://www.dezeen.com/2026/09/05/combat-boots-accessories-footwear-projects-hame-university-of-applied-sciences-schoolshows/",
-      "excerpt": "Dezeen School Shows: black leather modular boots informed by punk culture are among the projects from Häme University of Applied Sciences. Also featured are woven shoes with 3D-printed soles and shoes",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "continuous white DJ console integrates turntables, mixers, and hidden cables",
-      "url": "https://www.designboom.com/design/continuous-white-dj-console-turntables-mixers-hidden-cables-modek-evolution-pro/",
-      "excerpt": "a monocoque body conceals the technical infrastructure within the furniture.\nThe post continuous white DJ console integrates turntables, mixers, and hidden cables appeared first on designboom | archit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/modek-imagine-sound-furniture-dj-booths-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival",
-      "url": "https://www.designboom.com/architecture/temporary-timber-pavilion-cedar-cypress-reclaimed-clt-japan-forest-festival-onodatesho-yano-aoyama/",
-      "excerpt": "three asymmetrical planes rotate around an imaginary axis.\nThe post temporary pavilion uses cedar, cypress, and reclaimed CLT for japan’s forest festival appeared first on designboom | architecture & ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/onodatesho-temporary-timber-pavilion-japan-forest-festival-yano-aoyama-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.09.03",
@@ -392,6 +404,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -464,6 +486,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -504,6 +536,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -511,6 +553,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
