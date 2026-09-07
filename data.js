@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.06  22:51",
+  "fetchedAt": "2026.09.07  00:38",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ウェザーニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "city.fukuoka.lg.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "函館市公式観光サイト": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.06",
+      "date": "2026.09.07",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.06",
+      "date": "2026.09.07",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -92,52 +92,52 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "date": "2026.09.07",
+      "title": "イノシシ撃退！LEDイルミネーションライトアップ大作戦 - miyazaki-u.ac.jp",
+      "url": "https://www.miyazaki-u.ac.jp/newsrelease/topics-info/led.html",
       "excerpt": "",
       "today": true
     },
     {
       "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "cat": "国内情報",
+      "date": "2026.09.07",
+      "title": "ライティング情報 - tokyo-skytree.jp",
+      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "ウェザーニュース",
       "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "date": "2026.09.07",
+      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
+      "url": "https://weathernews.jp/illumi/spot/4102007/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "city.fukuoka.lg.jp",
       "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "date": "2026.09.07",
+      "title": "博多ポートタワーライトアップ情報",
+      "url": "https://www.city.fukuoka.lg.jp/kowan/somu/hakata-port/port_museum_3.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "http://www.city.fukuoka.lg.jp/data/common/images/socialmedia/ogp.jpg",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.09.06",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "source": "函館市公式観光サイト",
+      "cat": "国内情報",
+      "date": "2026.09.07",
+      "title": "湯の川冬の灯り - はこぶら",
+      "url": "https://www.hakobura.jp/events/155",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.hakobura.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM1MzUsInB1ciI6ImJsb2JfaWQifX0=--feedeeabc54fe2231c4b6df68f117677f926b29b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTAyNCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--75eb20f0126afb7070d4ba36c24ce15eafe14cd2/%E2%80%BB%E5%87%BD%E9%A4%A8%E6%96%B0%E8%81%9E%E7%A4%BE%E6%92%AE%E5%BD%B1%E2%80%BB%20%E6%B9%AF%E3%81%AE%E5%B7%9D%E5%86%AC%E3%81%AE%E7%81%AF%E3%82%8A%20(8).JPG",
       "today": true
     },
     {
@@ -148,7 +148,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/a-new-house-in-croatia-is-broken-down-into-components-to-create-a-curious-composition",
       "excerpt": "FORVM’s Curious House in Zagreb is a family residence formed from three elements, integrated into the landscape and shaped for privacy and views",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V9K6vJLead5GP4Nri6DXo7-1998-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -158,7 +158,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/fiat-500-spiaggina-restomod",
       "excerpt": "The ultimate superyacht companion piece, Garage Italia’s Fiat 500 Spiaggina runabout has been turned into a toy that can be stowed aboard and shipped out for island adventures",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/o3tcGp38D2PhFN3JbxECi-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -167,7 +167,7 @@ window.LUMINO_DATA = {
       "title": "Silk fashion collection informed by robins among projects from Häme University of Applied Sciences",
       "url": "https://www.dezeen.com/2026/09/06/silk-fashion-collection-robins-hame-university-of-applied-sciences-schoolshows/",
       "excerpt": "Dezeen School Shows: hand-painted silk clothing inspired by robins is among the projects from Häme University of Applied Sciences. Also featured is a fashion collection that takes its shape from archi",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -177,7 +177,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184612/grava-house-remyarchitects",
       "excerpt": "Grava House is a residence located in Pilar, situated on a lot with open views of the golf course. The project is developed from a sequence of volumes and split levels that define both its exterior ex",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9483/15d8/6f00/01a2/ec93/large_jpg/remyarchitects-arquitectura-pilar-buenos-aires-arquitectos-remy-andres-concreto-hormigon-visto-moderno-golf-casa-country-grava-archdaily__3_.jpg?1788449948",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184597/floresta-apartment-vaga-arquitetura",
       "excerpt": "In the Vila Ipojuca neighborhood of São Paulo, a 66-square-meter apartment renovated by VAGA Arquitetura translates the idea of belonging through an atmosphere defined by materiality, memory, and perm",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/13d9/cc78/e301/8820/e479/large_jpg/apartamento-floresta-vaga-arquitetura_45.jpg?1788548164",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -197,7 +197,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula/",
       "excerpt": "the exhibition organizes the photographs into seventeen chapters, each corresponding to a significant phase or action in the renovation process.\nThe post atlas re-edificatoria exhibition connects reno",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -207,7 +207,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184457/plaza-corporate-north-tower-biselli-katchborian-arquitetos",
       "excerpt": "Part of an urban intervention project that expanded an existing shopping mall and incorporated adjacent lots to form a multifunctional complex, Plaza Corporate includes two towers with distinct uses: ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/c331/a25c/7b00/0125/fd93/large_jpg/_MG_1783-Editar_1.jpg?1787937607",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -217,7 +217,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
       "excerpt": "The Overlook reinterprets Idaho's mountain cabin as a high-performance mass-timber retreat that steps lightly through a mature ponderosa forest.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/5b7f/505a/cb00/0115/26c1/large_jpg/19.jpg?1788369853",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -226,7 +226,7 @@ window.LUMINO_DATA = {
       "title": "Hudson Architects transforms neglected nightclub into King's Lynn Library",
       "url": "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library/",
       "excerpt": "UK studio Hudson Architects has converted a disused commercial building in Norfolk into a public library, wrapping its existing concrete structure in a skin of cement shingles. Named King's Lynn Libra",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -236,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184615/aguacate-space-ale-estudio",
       "excerpt": "Located on Aguacate Street in the Carabanchel district, Espacio Aguacate is nestled in one of Madrid’s most rapidly transforming neighborhoods. Historically associated with a working-class identity, C",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/0d7c/4253/0500/01ca/02eb/large_jpg/ALE_Aguacate_05.jpg?1787563506",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -245,7 +245,7 @@ window.LUMINO_DATA = {
       "title": "Eight wooden staircases that make the most of the material",
       "url": "https://www.dezeen.com/2026/09/06/eight-wooden-staircases-lookbooks/",
       "excerpt": "Blue-stained plywood and knotted larch feature in our latest lookbook of residential interiors anchored by statement wooden staircases. There is no end to architects' appetite for building with wood, ",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -255,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/thunderbird-space-station-concept-by-omi-for-max-space",
       "excerpt": "Industrial design studio OMI has created a conceptual modular space station for astronautical start-up Max Space, compressing a substantial orbital structure into a single rocket payload complete with",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YvkjDYo2CB4Fa6eT5Ww3uT-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -265,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/leisurama-promise-fabulous-mid-century-vacationing-for-all/",
       "excerpt": "designed by andrew geller and raymond loewy, the nearly too-good-to-be true vacation homes have intrigued travelers for decades. \nThe post leisurama’s prefabricated promise of fabulous, mid-century va",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leisurama-designboom-49.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -275,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/music/david-bowie-music-lover-book-review",
       "excerpt": "‘David Bowie: Music Lover’, published by ACC Art Books, highlights more than 100 of Bowie’s favourite musical artists",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/83buuMx6SAgHUwA5d3vcnb.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -284,7 +284,7 @@ window.LUMINO_DATA = {
       "title": "Plana House is a free-to-download design for a compact timber home",
       "url": "https://www.dezeen.com/2026/09/06/plana-house-kristijan-markoc-downloadable-timber-home/",
       "excerpt": "Architect Kristijan Markoc has created a downloadable template for a \"deliberately modest\", two-bedroom timber home designed to be adapted to any site. Named Plana House, the replicable home design ha",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -294,7 +294,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-bucket-and-spade",
       "excerpt": "In the 12th instalment of his series ‘Objectify’, architect Carlo Ratti turns his attention to the bucket and spade, the beach accessory that allows everyone to be a builder",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ExmuJoTkyApCaohdLXKjVG-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -542,15 +542,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260727-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/08/Synca-Bright-www.endo-lighting.co_.jp_-1.png",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "国内情報",
-      "date": "2026.07.24",
-      "title": "夏季休業のお知らせ",
-      "url": "https://www.endo-lighting.co.jp/news/20260724-1/",
-      "excerpt": "",
       "today": false
     }
   ]
