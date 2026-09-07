@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.07  11:20",
+  "fetchedAt": "2026.09.07  17:04",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "久留米ファン": {
+    "kurumefan.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -124,7 +124,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "kurumefan.com",
       "cat": "展示・アート",
       "date": "2026.09.07",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
@@ -143,15 +143,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.07",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.07",
@@ -159,6 +150,15 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -172,13 +172,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "from refuge to prototype: why cabins keep redefining how we live",
+      "url": "https://www.designboom.com/architecture/refuge-prototype-cabins-keep-redefining-how-we-live/",
+      "excerpt": "our renewed obsession with cabins reveals what contemporary life may be getting wrong about comfort, connection and escape.\nThe post from refuge to prototype: why cabins keep redefining how we live ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/refuge-prototype-cabins-keep-redefining-how-we-live-designboom-4.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "A multifunctional ice hockey arena in Czech Republic is a fan favourite",
-      "url": "https://www.wallpaper.com/architecture/jihlava-municipal-arena-chybik-and-kristof-czech-republic",
-      "excerpt": "CHYBÍK + KRIŠTOF's multi-purpose arena in the historic Czech town of Jihlava has a sports hall, running track, gym, and hotel",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4EAkFXj38gzmB5cNcYHRVh-2560-80.jpg",
+      "title": "For sale, a contemporary valley house by Canada’s Superkül exploits its sylvan setting",
+      "url": "https://www.wallpaper.com/architecture/residential/for-sale-valley-house-superkul-canada",
+      "excerpt": "Valley House is a family house in suburban Toronto with a highly crafted interior overlooking a forested ravine; and it's currently on the market",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FcxLCctMDgi8CVy6NPcRqh-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Construction of \"Arc de Trump\" set to begin in next two weeks",
+      "url": "https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/",
+      "excerpt": "The construction of a 250-foot-high triumphal arch in Washington DC designed by Atlanta-based Harrison Design, is set to begin \"over the next two-week period\". Plans to begin construction of the giant",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "white stainless-steel cylinders form coral-like swing installation on chinese coast",
+      "url": "https://www.designboom.com/art/white-stainless-steel-cylinders-coral-like-swing-installation-chinese-coast-xbtw-office/",
+      "excerpt": "the perforated stainless-steel surfaces depict silhouettes of starfish, octopuses, and seashells.\nThe post white stainless-steel cylinders form coral-like swing installation on chinese coast appeared ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/white-stainless-steel-cylinders-coral-swing-installation-china-xbtw-office-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "esoteric’s T-01 turntable lets magnets do the spinning, with no belt in sight",
+      "url": "https://www.designboom.com/technology/esoterics-t-01-turntable-magnets-spinning-magnedrive-system/",
+      "excerpt": "esoteric t-01 turntable uses patented magnedrive technology for contactless, vibration-free vinyl playback\nThe post esoteric’s T-01 turntable lets magnets do the spinning, with no belt in sight appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/esoteric-turntable-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Breccia Rosa 4D slab tile by Iris Ceramica Group",
+      "url": "https://www.dezeen.com/2026/09/07/breccia-rosa-4d-tile-iris-ceramica-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian manufacturer Iris Ceramica Group has recreated the warm elegance of an unmistakable pink Italian marble in its Breccia Rosa 4D slab tile. Produced by its subsidiary Sapienston",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Luca Guadagnino and Stefano Baisi unveil a blockbuster lifestyle collection for Zara Home",
+      "url": "https://www.wallpaper.com/design-interiors/luca-guadagnino-stefano-baisi-zara-home",
+      "excerpt": "Luca Guadagnino and Stefano Baisi's first commercial furniture and fashion collection spans more than 200 pieces, from sofas and lighting to clothing, tableware and scent",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bbLXKDX9i7YZ4EFTtSWzzL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "London’s omakase scene gets a meaty new contender",
+      "url": "https://www.wallpaper.com/travel/restaurants/wagyu-yakiniku-ushio-london-review",
+      "excerpt": "The first European outpost of Fukuoka favourite Yakiniku Ushio introduces Fitzrovia to lean wagyu, grilled and served omakase-style",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QDW9VuKTspnWD8VQh6u4xk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "How Armani took over the Venice Film Festival",
+      "url": "https://www.wallpaper.com/fashion-beauty/armani-beauty-venice-film-festival-2026",
+      "excerpt": "Giorgio Armani made his eponymous house synonymous with cinema, including at the annual Venice Film Festival. This continues with Armani Beauty’s star-studded sponsorship of the event, which unfolds i",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/abf2u2FWTsqdXCQ2F4WWT9-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "At Silver Lake’s Hotel Lucile, a landmark church is reborn with a divine restaurant",
+      "url": "https://www.wallpaper.com/travel/hotels/hotel-lucile-silver-lake-review",
+      "excerpt": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6WWQmcgHuXT8x4uGVLE8A-1600-80.jpg",
       "today": true
     },
     {
@@ -195,9 +283,28 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.07",
+      "title": "Groupwork completes \"world-first\" high-rise held up by stone exoskeleton",
+      "url": "https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/",
+      "excerpt": "A thousand tons of volcanic rock replace concrete and steel in Petra Heights, a housing development in north London by architecture studio Groupwork and engineer Webb Yates. The apartment building at ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.07",
       "title": "Design overtakes retail as biggest contributor to UK economy",
       "url": "https://www.dezeen.com/2026/09/07/design-council-economy-report/",
       "excerpt": "Britain's design industry has grown by 40 per cent and is now responsible for £1 in every £20 generated across the country, according to a landmark report from the Design Council. Published today, the",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Curious House / FORVM",
+      "url": "https://www.archdaily.com/1183941/curious-house-forvm",
+      "excerpt": "Curious House transforms a steep, densely vegetated site in Zagreb into a layered domestic landscape where architecture, topography, and existing trees shape everyday life together.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d2d/4253/0500/01ca/08a7/large_jpg/06_FORVM_-_Curious_House_-_photo_Bosnic_Dorotic.jpg?1787665731",
       "today": true
     },
     {
@@ -210,21 +317,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "Badweather converts derelict canal boat into London's first off-grid bathhouse",
-      "url": "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather/",
-      "excerpt": "Architecture collective Badweather has transformed a 17-metre canal boat into Soak, an off-grid bathhouse that moves to a new location along London's waterways every two weeks. Soak combines a wood-fi",
+      "title": "Madrid Region and the City of Leganés Launch an Open Call Urban Design Contest for the new “Puerta de Madrid” Sustainable District in Leganés (Madrid)",
+      "url": "https://www.archdaily.com/1184667/madrid-region-and-the-city-of-leganes-launch-an-open-call-urban-design-contest-for-the-new-puerta-de-madrid-sustainable-district-in-leganes-madrid",
+      "excerpt": "Community of Madrid, (Madrid’s Regional Government) and the City Council of Leganés have launched an urban planning design contest aimed at obtaining the best planning proposals for the sustainable an",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/c47f/cc78/e301/8820/e820/large_jpg/madrid-region-and-the-city-of-leganes-launch-an-open-call-urban-design-contest-for-the-new-puerta-de-madrid-sustainable-district-in-leganes-madrid_2.jpg?1788789894",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "Oliver Stiff designs collectible \"fashion furniture\"",
-      "url": "https://www.dezeen.com/2026/09/07/oliver-stiff-fashion-furniture-chairs/",
-      "excerpt": "Royal College of Art graduate Oliver Stiff has created a series of sculptural furniture pieces that aim to \"bring the language, attitude and materials of fashion design into furniture\". The London-bas",
+      "title": "Chromatic Architecture",
+      "url": "https://www.archdaily.com/1184663/chromatic-architecture",
+      "excerpt": "Colour is one of the most meaningful and expressive elements that can be used in the design of buildings. It is also the most neglected: students are rarely taught about it, and many architects are fe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/c310/15d8/6f00/01a2/f6b7/large_jpg/Final_CA_Cover_Image.jpg?1788789527",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "UNFOLD 2027: Call for Design Schools to Showcase at Milan Design Week",
+      "url": "https://www.archdaily.com/1184653/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week",
+      "excerpt": "Domus Academy opens the Call for Participation for UNFOLD 2027, the fourth edition of its international project competition for design schools and institutions, taking place during Milan Design Week, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/b930/15d8/6f00/01a2/f601/large_jpg/UNFOLD_2027_-_project_presentation_Page_01.jpg?1788787000",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.07",
+      "title": "Call for Papers Dearq 50: Architectures that Linger",
+      "url": "https://www.archdaily.com/1184649/call-for-papers-dearq-50-architectures-that-linger",
+      "excerpt": "There is a way of dwelling that seeks not to impose itself, but to endure, a way of dwelling that, in response to the accelerated rhythms of contemporary life, creates space for contemplation, explora",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/b260/15d8/6f00/01a2/f5e1/large_jpg/archdaily-eng.jpg?1788785258",
       "today": true
     },
     {
@@ -238,55 +367,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Strut table and pouf by Yet Design Studio among new products on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/09/07/strut-table-pouf-yet-design-studio-furniture-lighting-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: a matching pouf and table made from aluminium is among 12 new products featured on Dezeen Showroom. Strut table and pouf by Yağmur Köylü for Yet Design Studio The Istanbul and London-",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Health Centre Rosenthal / kit",
-      "url": "https://www.archdaily.com/1184619/health-centre-rosenthal-kit",
-      "excerpt": "The Rosenthal Health Centre translates the spatial qualities of a village into a contemporary setting for care, healthcare, and assisted living, bringing the previously dispersed facilities of the Dre",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6b16/15d8/6f00/01a2/f3d2/large_jpg/02_kit_Rosenthal_Fassade_Garten.jpg?1788701485",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Isabel + Helen celebrate their studio's first decade with an exhibition that gives you glimpse into their creative process (and things you can buy)",
-      "url": "https://www.wallpaper.com/design-interiors/isabel-helen-the-conran-shop-motion-sickness-london-design-festival-2026",
-      "excerpt": "London Design Festival 2026: the creative world's literal movers and shakers, Isabel + Helen mark ten years of the studio at The Conran Shop with an exhibition (12-20 September 2026 ) titled 'Motion S",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tqN9KebUCs4eSBnhgSMqaN-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "The German Pavilion Examines Coexistence and Democracy Through \"CONVIVERE\" at the 2027 Venice Architecture Biennale",
-      "url": "https://www.archdaily.com/1184577/the-german-pavilion-examines-coexistence-and-democracy-through-convivere-at-the-2027-venice-architecture-biennale",
-      "excerpt": "The German Federal Ministry for Housing, Urban Development and Building has appointed Kawahara Krause Architects, Andres Lepik, and Olga Cobuscean as curators for the German Pavilion at the 20th Inter",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/2d6a/cc78/e301/8820/e4b3/large_jpg/german-pavilion_8.jpg?1788554613",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "One House, Many Climates: When Greenhouse Design Enters the Home",
-      "url": "https://www.archdaily.com/1184398/one-house-many-climates-when-greenhouse-design-enters-the-home",
-      "excerpt": "A greenhouse is a building designed to create one climate inside another. By controlling sunlight, heat, and ventilation through its enclosure, it produces conditions that differ from those outside. T",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/8897/8db7/ac01/89d5/426c/large_jpg/transforming-domestic-architecture-the-greenhouse-concept-for-homes_3.jpg?1788315806",
-      "today": true
-    },
-    {
       "source": "武蔵野美術大学",
       "cat": "デザイン",
       "date": "2026.09.07",
@@ -294,26 +374,6 @@ window.LUMINO_DATA = {
       "url": "https://www.musabi.ac.jp/topics/20260907_03_02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2026/09/t_20260907_02.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "The Doctor’s House / Jose Costa",
-      "url": "https://www.archdaily.com/1184469/the-doctors-house-jose-costa",
-      "excerpt": "In 1941, Nilda's grandparents rented this house in Turís, Valencia, a dwelling built fifteen years earlier and distinguished by its generous backyard, which at the time still opened onto surrounding f",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/19fc/1fe7/3101/8863/01a4/large_jpg/the-doctors-house-jose-costa_6.jpg?1788418653",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Oneness School Nonthaburi / Imaginary Objects",
-      "url": "https://www.archdaily.com/1184628/oneness-school-nonthaburi-imaginary-objects",
-      "excerpt": "Oneness School's curriculum centers on wellbeing, sustainability, and children's connection to nature. Our master plan for the new campus responds to these values through a climate-responsive design t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/3112/15d8/6f00/01a2/f4ca/large_jpg/1.iO_Oneness_Nonthaburi.jpg?1788752164",
       "today": true
     },
     {
@@ -327,26 +387,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "A new house in Croatia is broken down into components to create a curious composition",
-      "url": "https://www.wallpaper.com/architecture/residential/a-new-house-in-croatia-is-broken-down-into-components-to-create-a-curious-composition",
-      "excerpt": "FORVM’s Curious House in Zagreb is a family residence formed from three elements, integrated into the landscape and shaped for privacy and views",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V9K6vJLead5GP4Nri6DXo7-1998-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Hot Lab and Garage Italia give the Fiat 500 Spiaggina restomod a nautical makeover",
-      "url": "https://www.wallpaper.com/transportation/fiat-500-spiaggina-restomod",
-      "excerpt": "The ultimate superyacht companion piece, Garage Italia’s Fiat 500 Spiaggina runabout has been turned into a toy that can be stowed aboard and shipped out for island adventures",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/o3tcGp38D2PhFN3JbxECi-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.09.07",
@@ -355,46 +395,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "atlas re-edificatoria exhibition connects renovation photography with catalan art",
-      "url": "https://www.designboom.com/art/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula/",
-      "excerpt": "the exhibition organizes the photographs into seventeen chapters, each corresponding to a significant phase or action in the renovation process.\nThe post atlas re-edificatoria exhibition connects reno",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "Thunderbird is OMI’s multidimensional orbital laboratory developed for Max Space",
-      "url": "https://www.wallpaper.com/tech/thunderbird-space-station-concept-by-omi-for-max-space",
-      "excerpt": "Industrial design studio OMI has created a conceptual modular space station for astronautical start-up Max Space, compressing a substantial orbital structure into a single rocket payload complete with",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/YvkjDYo2CB4Fa6eT5Ww3uT-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.06",
-      "title": "leisurama’s prefabricated promise of fabulous, mid-century vacationing for all",
-      "url": "https://www.designboom.com/design/leisurama-promise-fabulous-mid-century-vacationing-for-all/",
-      "excerpt": "designed by andrew geller and raymond loewy, the nearly too-good-to-be true vacation homes have intrigued travelers for decades. \nThe post leisurama’s prefabricated promise of fabulous, mid-century va",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leisurama-designboom-49.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.05",
-      "title": "paul clemence on how skyscraper crowns become landmarks of shanghai",
-      "url": "https://www.designboom.com/architecture/paul-clemence-skyscraper-crowns-landmarks-shanghai-guest-essay/",
-      "excerpt": "from the 81st floor of the shanghai world financial center, paul clemence reflects on how the city’s skyscraper crowns act as landmarks.\nThe post paul clemence on how skyscraper crowns become landmark",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/paul-clemence-skyscraper-crowns-landmarks-shanghai-guest-essay-designboom-4.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
