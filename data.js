@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.07  00:38",
+  "fetchedAt": "2026.09.07  05:37",
   "sourceColors": {
     "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,51 +13,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ウェザーニュース": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "city.fukuoka.lg.jp": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "函館市公式観光サイト": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "大光電機": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "岩崎電気": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "遠藤照明": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "パナソニック": {
+    "武蔵野美術大学": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,7 +37,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Dezeen": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "designboom": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     }
@@ -95,49 +95,88 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.07",
-      "title": "イノシシ撃退！LEDイルミネーションライトアップ大作戦 - miyazaki-u.ac.jp",
-      "url": "https://www.miyazaki-u.ac.jp/newsrelease/topics-info/led.html",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.07",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
-      "cat": "国内情報",
-      "date": "2026.09.07",
-      "title": "ライティング情報 - tokyo-skytree.jp",
-      "url": "https://www.tokyo-skytree.jp/enjoy/lighting/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.tokyo-skytree.jp/ogp.jpg",
-      "today": true
-    },
-    {
-      "source": "ウェザーニュース",
       "cat": "展示・アート",
       "date": "2026.09.07",
-      "title": "由志園紅葉ライトアップ - イルミネーション情報【2025-2026】",
-      "url": "https://weathernews.jp/illumi/spot/4102007/",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
-      "thumbnailUrl": "https://smtgvs.cdn.weathernews.jp/s/illumi/szy/image/4402003.png",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
-      "source": "city.fukuoka.lg.jp",
-      "cat": "展示・アート",
+      "source": "武蔵野美術大学",
+      "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "博多ポートタワーライトアップ情報",
-      "url": "https://www.city.fukuoka.lg.jp/kowan/somu/hakata-port/port_museum_3.html",
+      "title": "視覚伝達デザイン学科3年Ⅰ群課題展示「ライティングスペースデザイン」",
+      "url": "https://www.musabi.ac.jp/topics/20260907_03_02/",
       "excerpt": "",
-      "thumbnailUrl": "http://www.city.fukuoka.lg.jp/data/common/images/socialmedia/ogp.jpg",
+      "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2026/09/t_20260907_02.jpg",
       "today": true
     },
     {
-      "source": "函館市公式観光サイト",
-      "cat": "国内情報",
+      "source": "DNライティング",
+      "cat": "デザイン",
       "date": "2026.09.07",
-      "title": "湯の川冬の灯り - はこぶら",
-      "url": "https://www.hakobura.jp/events/155",
+      "title": "納入事例に「千葉神社参集殿増改築」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/191",
       "excerpt": "",
-      "thumbnailUrl": "https://www.hakobura.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM1MzUsInB1ciI6ImJsb2JfaWQifX0=--feedeeabc54fe2231c4b6df68f117677f926b29b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTAyNCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--75eb20f0126afb7070d4ba36c24ce15eafe14cd2/%E2%80%BB%E5%87%BD%E9%A4%A8%E6%96%B0%E8%81%9E%E7%A4%BE%E6%92%AE%E5%BD%B1%E2%80%BB%20%E6%B9%AF%E3%81%AE%E5%B7%9D%E5%86%AC%E3%81%AE%E7%81%AF%E3%82%8A%20(8).JPG",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/191/chiba_jinja_031.jpg",
       "today": true
     },
     {
@@ -178,6 +217,16 @@ window.LUMINO_DATA = {
       "excerpt": "Grava House is a residence located in Pilar, situated on a lot with open views of the golf course. The project is developed from a sequence of volumes and split levels that define both its exterior ex",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/9483/15d8/6f00/01a2/ec93/large_jpg/remyarchitects-arquitectura-pilar-buenos-aires-arquitectos-remy-andres-concreto-hormigon-visto-moderno-golf-casa-country-grava-archdaily__3_.jpg?1788449948",
       "today": false
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "新製品",
+      "date": "2026.09.07",
+      "title": "景観照明 Breathing Light into the Landscape",
+      "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
+      "excerpt": "",
+      "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": true
     },
     {
       "source": "ArchDaily",
@@ -346,16 +395,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "技術・LED",
       "date": "2026.08.26",
@@ -425,16 +464,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -475,26 +504,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.08.06",
-      "title": "納入事例に「ISHIYA G 大井町トラックス」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/187",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/187/_5027232.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -502,16 +511,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
