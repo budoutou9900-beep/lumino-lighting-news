@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.08  02:37",
+  "fetchedAt": "2026.09.08  07:42",
   "sourceColors": {
     "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -175,10 +175,79 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.08",
+      "title": "attention-seeking AI robot becomes a mobile vase for a single orchid",
+      "url": "https://www.designboom.com/art/attention-seeking-ai-robot-mobile-vase-single-orchid-batten-kamp-beauty-seeker-seeker/",
+      "excerpt": "batten and kamp's embodied AI vase, beauty seeker seeker, interrogates the 21st-century attention economy.\nThe post attention-seeking AI robot becomes a mobile vase for a single orchid appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/attention-seeking-ai-robot-mobile-vase-orchid-batten-kamp-beauty-seeker-seeker-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Behind the scenes of Laika's forthcoming film Wildwood",
+      "url": "https://www.wallpaper.com/design-interiors/laika-animation-studio-wildwood-design-museum-exhibition-london-2026",
+      "excerpt": "Opening at the Design Museum in London in October 2026, a behind-the-scenes look at the output of Oscar nominee Laika showcases the handcrafted precision and rich visual narrative of the Portland-base",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SPfnvTZEpdPNrYhiv7q6sQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Seven collectible pieces from Design Miami Seoul that reimagine traditional Korean crafts",
+      "url": "https://www.dezeen.com/2026/09/08/design-miami-seoul-in-situ/",
+      "excerpt": "Chairs made of wood lacquer and a lighting installation informed by paper-twining were among the highlights of the In Situ exhibition during Design Miami Seoul. Taking place from 31 August to 6 Septem",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "An Italian retreat balances contrast and colour to blissfully harmonious results",
+      "url": "https://www.wallpaper.com/architecture/residential/italian-retreat-calvi-brambilla",
+      "excerpt": "An eye-catching grid pattern and an earthy colour palette provide the creative framework for this countryside retreat in Emilia-Romagna",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/square-feat-PWbaZqfSJfFXBzX9HqK2Vg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "6AM House  / Studio PKA",
+      "url": "https://www.archdaily.com/1184681/6am-house-studio-pka",
+      "excerpt": "Emerging from the ground, 6AM House is a weekend home created for two families. What started as a one-acre plot has now evolved into a merger of the new and the existing adjacent lot as well. Located ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/de8c/a2b1/8101/8af4/8c85/large_jpg/6am-house-studio-pka_6.jpg?1788796688",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.08",
       "title": "tangent lifts porsche 911 three inches for a chicago-built urban safari",
       "url": "https://www.designboom.com/technology/tangent-porsche-911-chicago-urban-safari-car/",
       "excerpt": "a 3D-scanned porsche 911 is transformed with custom bodywork and a three-inch lift.\nThe post tangent lifts porsche 911 three inches for a chicago-built urban safari appeared first on designboom | arch",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tangent-porsche-911-C4-safari-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "La Balance Clinic / Only Human",
+      "url": "https://www.archdaily.com/1184685/la-balance-clinic-only-human",
+      "excerpt": "The project was initiated by La Balance Physiotherapy Clinic with the intention of creating two structures: a physiotherapy clinic and a coffee extraction house.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/e645/237b/e901/899c/0b06/large_jpg/la-balance-clinic-only-human_1.jpg?1788798555",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Aranya Wuling Mountain - Sean Canteen / llLab.",
+      "url": "https://www.archdaily.com/1184514/aranya-wuling-mountain-sean-canteen-lllab",
+      "excerpt": "Nestled deep within the Wuling Mountain National Nature Reserve in Chengde, Hebei, the Aranya Wuling Mountain resort community sits quietly in its natural surroundings. Life here unfolds along mountai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/1695/1fe7/3101/8863/03cf/large_jpg/aranya-wuling-mountain-sean-canteen-iilab_14.jpg?1788483228",
       "today": true
     },
     {
@@ -261,42 +330,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Casa MDL / Estudio Maria Strada",
-      "url": "https://www.archdaily.com/1184496/casa-mdl",
-      "excerpt": "The house was born from the search for a balance between an urban spirit — one the client feels deeply connected to — and a strong, ever-present relationship with the landscape. Although located on th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/944c/15d8/6f00/01a2/ec6f/large_jpg/1._MS_Martindale_Frente_2.jpg?1788449913",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "white stainless-steel cylinders form coral-like swing installation on chinese coast",
-      "url": "https://www.designboom.com/art/white-stainless-steel-cylinders-coral-like-swing-installation-chinese-coast-xbtw-office/",
-      "excerpt": "the perforated stainless-steel surfaces depict silhouettes of starfish, octopuses, and seashells.\nThe post white stainless-steel cylinders form coral-like swing installation on chinese coast appeared ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/white-stainless-steel-cylinders-coral-swing-installation-china-xbtw-office-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.07",
       "title": "Breccia Rosa 4D slab tile by Iris Ceramica Group",
       "url": "https://www.dezeen.com/2026/09/07/breccia-rosa-4d-tile-iris-ceramica-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian manufacturer Iris Ceramica Group has recreated the warm elegance of an unmistakable pink Italian marble in its Breccia Rosa 4D slab tile. Produced by its subsidiary Sapienston",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "House on David Melgueiro / Aurora Arquitectos",
-      "url": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos",
-      "excerpt": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades. Over the years, many of these homes hav",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/dfa6/15d8/6f00/01a2/ed6d/large_jpg/29.jpg?1788470091",
       "today": false
     },
     {
@@ -307,36 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/luca-guadagnino-stefano-baisi-zara-home",
       "excerpt": "Luca Guadagnino and Stefano Baisi's first commercial furniture and fashion collection spans more than 200 pieces, from sofas and lighting to clothing, tableware and scent",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bbLXKDX9i7YZ4EFTtSWzzL-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "London’s omakase scene gets a meaty new contender",
-      "url": "https://www.wallpaper.com/travel/restaurants/wagyu-yakiniku-ushio-london-review",
-      "excerpt": "The first European outpost of Fukuoka favourite Yakiniku Ushio introduces Fitzrovia to lean wagyu, grilled and served omakase-style",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QDW9VuKTspnWD8VQh6u4xk-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Gradient House and Studio / Observation Studio",
-      "url": "https://www.archdaily.com/1184379/gradient-house-and-studio-observation-studio",
-      "excerpt": "Gradient transforms a postwar house in the St. Johns neighborhood of Portland into a timely and sophisticated live work campus. United by a shared roof and material palette, the house and studio frame",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2a02/bed1/7f00/014d/270a/large_jpg/Gradient_07_ArchDaily.jpg?1788291675",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "How Armani took over the Venice Film Festival",
-      "url": "https://www.wallpaper.com/fashion-beauty/armani-beauty-venice-film-festival-2026",
-      "excerpt": "Giorgio Armani made his eponymous house synonymous with cinema, including at the annual Venice Film Festival. This continues with Armani Beauty’s star-studded sponsorship of the event, which unfolds i",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/abf2u2FWTsqdXCQ2F4WWT9-2560-80.jpg",
       "today": false
     },
     {
@@ -355,15 +364,6 @@ window.LUMINO_DATA = {
       "title": "Design overtakes retail as biggest contributor to UK economy",
       "url": "https://www.dezeen.com/2026/09/07/design-council-economy-report/",
       "excerpt": "Britain's design industry has grown by 40 per cent and is now responsible for £1 in every £20 generated across the country, according to a landmark report from the Design Council. Published today, the",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Grace tiles by Ceramiche Keope",
-      "url": "https://www.dezeen.com/2026/09/07/grace-tile-collection-ceramiche-keope-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Italian brand Ceramiche Keope has recreated the subtle allure of limestone in its Grace collection of porcelain stoneware tiles. The Grace collection was created with reference to lim",
       "today": false
     },
     {
