@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.07  23:54",
+  "fetchedAt": "2026.09.08  02:37",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,52 +37,56 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "武蔵野美術大学": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "武蔵野美術大学": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -92,7 +96,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
@@ -102,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -112,7 +116,7 @@ window.LUMINO_DATA = {
     {
       "source": "久留米ファン",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
       "excerpt": "",
@@ -121,7 +125,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -131,7 +135,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -141,7 +145,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -149,12 +153,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.07",
+      "date": "2026.09.08",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.08",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "tangent lifts porsche 911 three inches for a chicago-built urban safari",
+      "url": "https://www.designboom.com/technology/tangent-porsche-911-chicago-urban-safari-car/",
+      "excerpt": "a 3D-scanned porsche 911 is transformed with custom bodywork and a three-inch lift.\nThe post tangent lifts porsche 911 three inches for a chicago-built urban safari appeared first on designboom | arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tangent-porsche-911-C4-safari-designboom-FB-1.jpg",
       "today": true
     },
     {
@@ -165,7 +189,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/shaun-leane-launches-12-atelier",
       "excerpt": "With the launch of 12, Shaun Leane is shifting towards a slower way of creating",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/q5AfG2dUefxMjVdiWPmZug-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -175,7 +199,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa/",
       "excerpt": "translucent FRP panels create a continuous exterior surface that changes appearance with shifting daylight.\nThe post triangular timber structure encloses tsukumo kiln ceramic studio in kobe, japan app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -185,7 +209,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184696/kay-kay-de-monkul-lookout-walkway-gonzalo-verdugo-plus-carlos-seguel-arquitectos",
       "excerpt": "Located in the Monkul Wetland, one of the most valuable coastal ecosystems in southern Chile, this wooden boardwalk was conceived as a low-impact infrastructure that allows visitors to traverse and co",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/2db1/13b9/4100/01df/6c62/large_jpg/DJI_0685.jpg?1788816871",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -195,7 +219,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/xbox-controller-furniture-ikea-yxstaby-collection-gaming/",
       "excerpt": "a tilting thumbstick stool leads IKEA and Xbox’s upcoming furniture collection for gaming across the home.\nThe post Xbox controller shapes become furniture in IKEA’s nine-piece YXSTABY collection appe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ikea-xbox-YXSTABY-gaming-collection-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -205,7 +229,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184594/lapa-townhouse-renovation-estudio-piloti-arquitetura",
       "excerpt": "Located in a charming gated village in the Lapa neighborhood, the original property consisted of two small stacked houses. To accommodate a family of five—a couple and their three children—the project",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/0057/bed1/7f00/014d/2637/large_jpg/Estudio-Piloti-Arquitetura-foto-Luiza-Florenzano-001.jpg?1788280961",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -215,7 +239,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/refuge-prototype-cabins-keep-redefining-how-we-live/",
       "excerpt": "our renewed obsession with cabins reveals what contemporary life may be getting wrong about comfort, connection and escape.\nThe post from refuge to prototype: why cabins keep redefining how we live ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/refuge-prototype-cabins-keep-redefining-how-we-live-designboom-4.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -225,7 +249,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/for-sale-valley-house-superkul-canada",
       "excerpt": "Valley House is a family house in suburban Toronto with a highly crafted interior overlooking a forested ravine; and it's currently on the market",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FcxLCctMDgi8CVy6NPcRqh-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -234,7 +258,7 @@ window.LUMINO_DATA = {
       "title": "Construction of \"Arc de Trump\" set to begin in next two weeks",
       "url": "https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/",
       "excerpt": "The construction of a 250-foot-high triumphal arch in Washington DC designed by Atlanta-based Harrison Design, is set to begin \"over the next two-week period\". Plans to begin construction of the giant",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -244,7 +268,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184496/casa-mdl",
       "excerpt": "The house was born from the search for a balance between an urban spirit — one the client feels deeply connected to — and a strong, ever-present relationship with the landscape. Although located on th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/944c/15d8/6f00/01a2/ec6f/large_jpg/1._MS_Martindale_Frente_2.jpg?1788449913",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -254,17 +278,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/white-stainless-steel-cylinders-coral-like-swing-installation-chinese-coast-xbtw-office/",
       "excerpt": "the perforated stainless-steel surfaces depict silhouettes of starfish, octopuses, and seashells.\nThe post white stainless-steel cylinders form coral-like swing installation on chinese coast appeared ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/white-stainless-steel-cylinders-coral-swing-installation-china-xbtw-office-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "esoteric’s T-01 turntable lets magnets do the spinning, with no belt in sight",
-      "url": "https://www.designboom.com/technology/esoterics-t-01-turntable-magnets-spinning-magnedrive-system/",
-      "excerpt": "esoteric t-01 turntable uses patented magnedrive technology for contactless, vibration-free vinyl playback\nThe post esoteric’s T-01 turntable lets magnets do the spinning, with no belt in sight appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/esoteric-turntable-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -273,7 +287,7 @@ window.LUMINO_DATA = {
       "title": "Breccia Rosa 4D slab tile by Iris Ceramica Group",
       "url": "https://www.dezeen.com/2026/09/07/breccia-rosa-4d-tile-iris-ceramica-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian manufacturer Iris Ceramica Group has recreated the warm elegance of an unmistakable pink Italian marble in its Breccia Rosa 4D slab tile. Produced by its subsidiary Sapienston",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -283,7 +297,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos",
       "excerpt": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades. Over the years, many of these homes hav",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/dfa6/15d8/6f00/01a2/ed6d/large_jpg/29.jpg?1788470091",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -293,7 +307,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/luca-guadagnino-stefano-baisi-zara-home",
       "excerpt": "Luca Guadagnino and Stefano Baisi's first commercial furniture and fashion collection spans more than 200 pieces, from sofas and lighting to clothing, tableware and scent",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bbLXKDX9i7YZ4EFTtSWzzL-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -303,7 +317,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/wagyu-yakiniku-ushio-london-review",
       "excerpt": "The first European outpost of Fukuoka favourite Yakiniku Ushio introduces Fitzrovia to lean wagyu, grilled and served omakase-style",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QDW9VuKTspnWD8VQh6u4xk-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -313,7 +327,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184379/gradient-house-and-studio-observation-studio",
       "excerpt": "Gradient transforms a postwar house in the St. Johns neighborhood of Portland into a timely and sophisticated live work campus. United by a shared roof and material palette, the house and studio frame",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2a02/bed1/7f00/014d/270a/large_jpg/Gradient_07_ArchDaily.jpg?1788291675",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -323,7 +337,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/armani-beauty-venice-film-festival-2026",
       "excerpt": "Giorgio Armani made his eponymous house synonymous with cinema, including at the annual Venice Film Festival. This continues with Armani Beauty’s star-studded sponsorship of the event, which unfolds i",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/abf2u2FWTsqdXCQ2F4WWT9-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -332,7 +346,7 @@ window.LUMINO_DATA = {
       "title": "Groupwork completes \"world-first\" high-rise held up by stone exoskeleton",
       "url": "https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/",
       "excerpt": "A thousand tons of volcanic rock replace concrete and steel in Petra Heights, a housing development in north London by architecture studio Groupwork and engineer Webb Yates. The apartment building at ",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -341,7 +355,7 @@ window.LUMINO_DATA = {
       "title": "Design overtakes retail as biggest contributor to UK economy",
       "url": "https://www.dezeen.com/2026/09/07/design-council-economy-report/",
       "excerpt": "Britain's design industry has grown by 40 per cent and is now responsible for £1 in every £20 generated across the country, according to a landmark report from the Design Council. Published today, the",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -350,7 +364,7 @@ window.LUMINO_DATA = {
       "title": "Grace tiles by Ceramiche Keope",
       "url": "https://www.dezeen.com/2026/09/07/grace-tile-collection-ceramiche-keope-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian brand Ceramiche Keope has recreated the subtle allure of limestone in its Grace collection of porcelain stoneware tiles. The Grace collection was created with reference to lim",
-      "today": true
+      "today": false
     },
     {
       "source": "武蔵野美術大学",
@@ -360,7 +374,7 @@ window.LUMINO_DATA = {
       "url": "https://www.musabi.ac.jp/topics/20260907_03_02/",
       "excerpt": "",
       "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2026/09/t_20260907_02.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -370,7 +384,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/191",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/191/chiba_jinja_031.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
@@ -380,7 +394,7 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
