@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.08  17:00",
+  "fetchedAt": "2026.09.08  19:48",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.09.08",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -172,6 +172,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "kinetic constellation of fresnel lenses by vincent leroy distorts bali’s landscape",
+      "url": "https://www.designboom.com/art/kinetic-constellation-fresnel-lenses-vincent-leroy-bali-landscape/",
+      "excerpt": "composed of a constellation of fresnel lenses, the kinetic sculpture responds to the wind, continuously reframing, fragmenting, and displacing its surroundings.\nThe post kinetic constellation of fresn",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kinetic-constellation-fresnel-eccentric-lenses-vincent-leroy-bali-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "OMHU attempts to \"outdupe\" copiers with its own dupe of Teddy sofa",
+      "url": "https://www.dezeen.com/2026/09/08/omhu-tedy-teddy-dupe-sofa/",
+      "excerpt": "Danish furniture brand OMHU has released a version of its Teddy sofa bed to be sold on websites for a fraction of its usual price to draw attention to copy culture. According to OMHU, the project is b",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -230,6 +249,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "House 22 / Loft7",
+      "url": "https://www.archdaily.com/1184746/house-22-loft7",
+      "excerpt": "Located on the coastline of Pichilemu, south of Punta de Lobos, Casa 22 is situated on a sloping lot that descends toward the northwest, offering direct views of the Pacific Ocean and wide expanses of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/bf94/15d8/6f00/01a2/f674/large_jpg/CASA_22_04_FABI_N_ACU_A.jpg?1788788662",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -257,6 +286,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/celine-reebok-collaboration-freestyle-lo-cneaker",
       "excerpt": "First appearing as part of the house’s June menswear show and available later this week, the collaboration sees Michael Rider put a colourful spin on the Reebok Freestyle Lo 1982",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xbpwrdnzar3aeBRS6t4CK4-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Bernoulli College Vale do Sereno / BCMF Arquitetos",
+      "url": "https://www.archdaily.com/1184774/bernoulli-college-vale-do-sereno-bcmf-arquitetos",
+      "excerpt": "The Colégio Bernoulli campus in Vale do Sereno inaugurates research developed by BCMF Arquitetos on the architecture of learning spaces. Conceived as the first of a series of new campuses for the inst",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/5ac5/1fe7/3101/8863/0837/large_jpg/colegio-bernoulli-vale-do-sereno-bcmf-arquitetos_3.jpg?1788566249",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Woods Retreat / BE Design",
+      "url": "https://www.archdaily.com/1184760/woods-retreat-be-design",
+      "excerpt": "Tucked within a wooded landscape in Springs, New York, this 600-square-foot retreat is conceived as an intimate wellness sanctuary for meditation, kundalini yoga, and restorative sauna and ice bathing",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/1cae/5c4d/8601/88ab/7a08/large_jpg/woods-retreat-be-design_1.jpg?1788878018",
       "today": true
     },
     {
@@ -308,15 +357,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "HIMACS Terrazzo is now available in five new colourways",
-      "url": "https://www.dezeen.com/2026/09/08/himacs-terrazzo-new-colourways-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: HIMACS has added five colourways to its terrazzo-inspired collection, which have received a prestigious Red Dot Design Award 2026 in the product category. The HIMACS Terrazzo collecti",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -324,46 +364,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184716/aia-south-korea-2026-design-awards",
       "excerpt": "AIA South Korea, one of six regional sections established under AIA International to connect local members more closely with the global community of the American Institute of Architects, is pleased to",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/dea8/13b9/4100/01df/6d5c/large_jpg/AIA_SK_Awards__600x500.jpg?1788862133",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "alaïa reopens shanghai boutique with perforated facade and curved interior",
-      "url": "https://www.designboom.com/architecture/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66/",
-      "excerpt": "the boutique brings together contrasting materials, sculptural furniture, and a contemporary artwork by guan xiao.\nThe post alaïa reopens shanghai boutique with perforated facade and curved interior a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "The Great Garuda: Jakarta's Unfinished Vision for a Climate-Proof Coast",
-      "url": "https://www.archdaily.com/1184300/the-great-garuda-jakartas-unfinished-vision-for-a-climate-proof-coast",
-      "excerpt": "At one point, Jakarta's future coastal defense took the form of a giant Garuda rising from the sea. The mythical bird, Indonesia's national symbol, gave form to a vast coastal intervention intended to",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/0e88/cc78/e301/8820/e433/large_jpg/the-great-garuda-jakartas-unfinished-vision-for-a-climate-proof-coast_12.jpg?1788546721",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "IXCAMPUS / Baumschlager Eberle Architekten",
-      "url": "https://www.archdaily.com/1184644/ixcampus-baumschlager-eberle-architekten",
-      "excerpt": "Expertise in timber construction and the reinterpretation of building typologies are among the distinctive strengths of Baumschlager Eberle Architects. The IXCAMPUS project in Saint-Germain-en-Laye, n",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/bbe6/1fe7/3101/8863/0abb/large_jpg/ixcampus-baumschlager-eberle-architekten_25.jpg?1788787697",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "How Material Intelligence Solves What BIM Can’t",
-      "url": "https://www.archdaily.com/1183861/how-material-intelligence-solves-what-bim-cant",
-      "excerpt": "The original promise of BIM (Building Information Modeling) went far beyond the three-dimensional representation of a building. Its ambition was to turn the model into a coordinated information struct",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8c/3cda/ab59/ca01/8994/70a0/large_jpg/how-material-intelligence-addresses-a-gap-bim-has-yet-to-solve_1.jpg?1787575541",
       "today": true
     },
     {
