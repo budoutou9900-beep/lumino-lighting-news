@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.08  19:48",
+  "fetchedAt": "2026.09.08  22:17",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -84,7 +84,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.08",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -123,13 +123,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.08",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -140,16 +140,6 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.08",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -172,6 +162,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.08",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "how do california architects design a house to live with wildfire?",
+      "url": "https://www.designboom.com/architecture/california-design-house-live-wildfire-fire-resistant/",
+      "excerpt": "these california homes reveal how architecture changes when fire becomes something the house is expected to encounter.\nThe post how do california architects design a house to live with wildfire? appea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designing-for-wildfires-houses-habitation-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -185,9 +195,19 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.08",
-      "title": "OMHU attempts to \"outdupe\" copiers with its own dupe of Teddy sofa",
+      "title": "OMHU attempts to \"outdupe\" copiers with its own Teddy sofa dupe",
       "url": "https://www.dezeen.com/2026/09/08/omhu-tedy-teddy-dupe-sofa/",
-      "excerpt": "Danish furniture brand OMHU has released a version of its Teddy sofa bed to be sold on websites for a fraction of its usual price to draw attention to copy culture. According to OMHU, the project is b",
+      "excerpt": "Danish furniture brand OMHU has released a version of its Teddy sofa bed on third-party websites for a fraction of its usual price to draw attention to copy culture and to work as marketing. Last week",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Espatódias House / Leo Romano",
+      "url": "https://www.archdaily.com/1184749/espatodias-house-leo-romano",
+      "excerpt": "Beneath a concrete roof that seems to float over the site, Espatódias House dissolves the boundaries between architecture and landscape, transforming every room into an extension of the surrounding ga",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/1dc6/15d8/6f00/01a2/f2e0/large_jpg/250408_Casa_SL_0892-Editar.jpg?1788550634",
       "today": true
     },
     {
@@ -328,16 +348,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "first single-family home in greece achieves LEED platinum certification for sustainable living",
-      "url": "https://www.designboom.com/architecture/eclede-sustainable-home-greece-leed-platinum-certification/",
-      "excerpt": "demonstrates how high-performance environmental engineering can coexist with tactile materiality and refined spatial intimacy.\nThe post first single-family home in greece achieves LEED platinum certif",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/eclede_designboom_facebook.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -354,16 +364,6 @@ window.LUMINO_DATA = {
       "title": "Dulux reveals sage green as Colour of the Year 2027",
       "url": "https://www.dezeen.com/2026/09/08/sage-green-colour-year-2027-dulux/",
       "excerpt": "Paint brand Dulux has announced Soulful Sage – \"a versatile green that provides a flexible foundation for schemes\" – as its colour of the year for 2027. Dulux selected the soft grey-green as its annua",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "AIA South Korea 2026 Design Awards",
-      "url": "https://www.archdaily.com/1184716/aia-south-korea-2026-design-awards",
-      "excerpt": "AIA South Korea, one of six regional sections established under AIA International to connect local members more closely with the global community of the American Institute of Architects, is pleased to",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/dea8/13b9/4100/01df/6d5c/large_jpg/AIA_SK_Awards__600x500.jpg?1788862133",
       "today": true
     },
     {
