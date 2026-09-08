@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.08  07:42",
+  "fetchedAt": "2026.09.08  12:31",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "銀座経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "久留米ファン": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,50 +41,83 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "武蔵野美術大学": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "武蔵野美術大学": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.08",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "国内情報",
+      "date": "2026.09.08",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～ - global-produce.jp",
+      "url": "https://www.global-produce.jp/gpjournal/others/member-takemura/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.08",
+      "title": "照明：松山嘉人 電通クリエイティブピクチャーズ",
+      "url": "https://jp.pronews.com/special/202506091356586596.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2025/03/eizohumanfiles2025_DENTSU_matsuyama.jpg",
+      "today": true
+    },
+    {
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.08",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -111,6 +144,24 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.08",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.08",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
       "today": true
     },
     {
@@ -143,32 +194,108 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.08",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "title": "Audi brings back the A2 name to adorn its newest and most efficient all-electric car",
+      "url": "https://www.wallpaper.com/transportation/audi-a2-etron",
+      "excerpt": "The new Audi A2 e-tron is a compact car that wants to push the limits of range and the levels of recycling. Offering a visual nod to the 1990s-era aluminium-bodied A2, Audi hopes its newest EV will se",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/a4De5zED9q3GuLEQvKp9JL-2560-80.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.08",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
+      "title": "BIG’s hanna johansson on designing ‘park rise’ as a vertical extension of athens’ landscape",
+      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-interview/",
+      "excerpt": "as 'park rise' takes shape within the ellinikon, johansson discusses the project’s cascading form, its relationship with athens and the potential for a new model of urban living.\nThe post BIG’s hanna ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.08",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "Two decades ago, Freitag’s tottering container tower became an unexpected design icon",
+      "url": "https://www.wallpaper.com/architecture/freitag-container-tower-flagship-store-zurich",
+      "excerpt": "The Freitag Flagship Store in Zurich is the original pop-up, an assemblage of 19 shipping containers that put the recycled bag maker on the creative map",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/H3ySRuSHwXEjYa4S2DiUnN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Chinese library complex encourages \"connections between people and the city\"",
+      "url": "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/",
+      "excerpt": "A sweeping white roof informed by the pages of a book crowns Chang'an Academy Xi'an Public Library, a cultural centre in Shanxi Province. Overlooking the Ba River and Olympic Sports Centre in Xi'an's ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "first single-family home in greece achieves LEED platinum certification for sustainable living",
+      "url": "https://www.designboom.com/architecture/eclede-sustainable-home-greece-leed-platinum-certification/",
+      "excerpt": "demonstrates how high-performance environmental engineering can coexist with tactile materiality and refined spatial intimacy.\nThe post first single-family home in greece achieves LEED platinum certif",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/eclede_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Dulux reveals sage green as Colour of the Year 2027",
+      "url": "https://www.dezeen.com/2026/09/08/sage-green-colour-year-2027-dulux/",
+      "excerpt": "Paint brand Dulux has announced Soulful Sage – \"a versatile green that provides a flexible foundation for schemes\" – as its colour of the year for 2027. Dulux selected the soft grey-green as its annua",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "HIMACS Terrazzo is now available in five new colourways",
+      "url": "https://www.dezeen.com/2026/09/08/himacs-terrazzo-new-colourways-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: HIMACS has added five colourways to its terrazzo-inspired collection, which have received a prestigious Red Dot Design Award 2026 in the product category. The HIMACS Terrazzo collecti",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Daniel Libeskind wins 2026 Praemium Imperiale for architecture",
+      "url": "https://www.dezeen.com/2026/09/08/daniel-libeskind-2026-praemium-imperiale-architecture-news/",
+      "excerpt": "Polish-American architect Daniel Libeskind has been named architecture laureate for this year's Praemium Imperiale awards by the Japan Art Association. Libeskind, who leads the New York-based Studio L",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Bugaboo makes pram from orange peel and old egg cartons",
+      "url": "https://www.dezeen.com/2026/09/08/bugaboo-biomaterial-pram-aalto-university-finland/",
+      "excerpt": "Students at Finland's Aalto University have collaborated with Dutch pram brand Bugaboo to create a pushchair using bio-based and biodegradable materials. Amsterdam brand Bugaboo originally approached ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "alaïa reopens shanghai boutique with perforated facade and curved interior",
+      "url": "https://www.designboom.com/architecture/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66/",
+      "excerpt": "the boutique brings together contrasting materials, sculptural furniture, and a contemporary artwork by guan xiao.\nThe post alaïa reopens shanghai boutique with perforated facade and curved interior a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "World’s Most Liveable Cities in 2026: Copenhagen Holds First Place as Asia Rises",
+      "url": "https://www.archdaily.com/1184707/worlds-most-liveable-cities-in-2026-copenhagen-holds-first-place-as-asia-rises",
+      "excerpt": "Global city rankings offer one way of looking at how urban environments support everyday life. The Economist Intelligence Unit's (EIU) Global Liveability Index evaluates 173 cities across stability, h",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/d204/a228/5801/8aa2/3562/large_jpg/worlds-most-liveable-cities-in-2026-discover-the-worlds-top-ranked-cities_2.jpg?1788858928",
       "today": true
     },
     {
@@ -182,6 +309,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Tskneti Residences  / MUA",
+      "url": "https://www.archdaily.com/1184639/tskneti-residences-mua",
+      "excerpt": "Situated in Tskneti, a small settlement elevated on the hillsides just 8 kilometers from Tbilisi, the residence sits on a prominent plot of land surrounded by a dense forest of mild broadleaf trees. E",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/928c/15d8/6f00/01a2/f556/large_jpg/3.jpg?1788777131",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -192,12 +329,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.08",
-      "title": "Seven collectible pieces from Design Miami Seoul that reimagine traditional Korean crafts",
-      "url": "https://www.dezeen.com/2026/09/08/design-miami-seoul-in-situ/",
-      "excerpt": "Chairs made of wood lacquer and a lighting installation informed by paper-twining were among the highlights of the In Situ exhibition during Design Miami Seoul. Taking place from 31 August to 6 Septem",
+      "title": "City Governments Transform Industrial Buildings into Circular Construction Hubs in New York, London, and Brussels",
+      "url": "https://www.archdaily.com/1184701/city-governments-transform-industrial-buildings-into-circular-construction-hubs-in-new-york-london-and-brussels",
+      "excerpt": "During the last week of August, the New York City government announced a new project for the MADE Bush Terminal in Sunset Park, Brooklyn. It involves the transformation of the old industrial building ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/b39a/5c4d/8601/88ab/7652/large_jpg/city-governments-transform-industrial-buildings-into-circular-construction-hubs-in-new-york-london-and-brussels_7.jpg?1788851128",
       "today": true
     },
     {
@@ -208,6 +346,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/italian-retreat-calvi-brambilla",
       "excerpt": "An eye-catching grid pattern and an earthy colour palette provide the creative framework for this countryside retreat in Emilia-Romagna",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/square-feat-PWbaZqfSJfFXBzX9HqK2Vg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "The Right to Be Naive: How Architecture Turned Innocence into a Position",
+      "url": "https://www.archdaily.com/1184317/the-right-to-be-naive-how-architecture-turned-innocence-into-a-position",
+      "excerpt": "Since the 2008 crash, a scatter of small practices (none more than fifteen years old and none large enough to need a manifesto in the traditional sense) have arrived, independently of one another, at ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a96/ce0f/3847/8a01/8b33/7247/large_jpg/the-right-to-be-naive-how-architecture-turned-innocence-into-a-position_11.jpg?1788268053",
       "today": true
     },
     {
@@ -231,26 +379,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "La Balance Clinic / Only Human",
-      "url": "https://www.archdaily.com/1184685/la-balance-clinic-only-human",
-      "excerpt": "The project was initiated by La Balance Physiotherapy Clinic with the intention of creating two structures: a physiotherapy clinic and a coffee extraction house.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/e645/237b/e901/899c/0b06/large_jpg/la-balance-clinic-only-human_1.jpg?1788798555",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Aranya Wuling Mountain - Sean Canteen / llLab.",
-      "url": "https://www.archdaily.com/1184514/aranya-wuling-mountain-sean-canteen-lllab",
-      "excerpt": "Nestled deep within the Wuling Mountain National Nature Reserve in Chengde, Hebei, the Aranya Wuling Mountain resort community sits quietly in its natural surroundings. Life here unfolds along mountai",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/1695/1fe7/3101/8863/03cf/large_jpg/aranya-wuling-mountain-sean-canteen-iilab_14.jpg?1788483228",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.07",
@@ -258,112 +386,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/shaun-leane-launches-12-atelier",
       "excerpt": "With the launch of 12, Shaun Leane is shifting towards a slower way of creating",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/q5AfG2dUefxMjVdiWPmZug-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "triangular timber structure encloses tsukumo kiln ceramic studio in kobe, japan",
-      "url": "https://www.designboom.com/architecture/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa/",
-      "excerpt": "translucent FRP panels create a continuous exterior surface that changes appearance with shifting daylight.\nThe post triangular timber structure encloses tsukumo kiln ceramic studio in kobe, japan app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Kay Kay de Monkul Lookout Walkway / Gonzalo Verdugo + Carlos Seguel Arquitectos",
-      "url": "https://www.archdaily.com/1184696/kay-kay-de-monkul-lookout-walkway-gonzalo-verdugo-plus-carlos-seguel-arquitectos",
-      "excerpt": "Located in the Monkul Wetland, one of the most valuable coastal ecosystems in southern Chile, this wooden boardwalk was conceived as a low-impact infrastructure that allows visitors to traverse and co",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/2db1/13b9/4100/01df/6c62/large_jpg/DJI_0685.jpg?1788816871",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Xbox controller shapes become furniture in IKEA’s nine-piece YXSTABY collection",
-      "url": "https://www.designboom.com/design/xbox-controller-furniture-ikea-yxstaby-collection-gaming/",
-      "excerpt": "a tilting thumbstick stool leads IKEA and Xbox’s upcoming furniture collection for gaming across the home.\nThe post Xbox controller shapes become furniture in IKEA’s nine-piece YXSTABY collection appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ikea-xbox-YXSTABY-gaming-collection-designboom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Lapa Townhouse Renovation / Estudio Piloti Arquitetura",
-      "url": "https://www.archdaily.com/1184594/lapa-townhouse-renovation-estudio-piloti-arquitetura",
-      "excerpt": "Located in a charming gated village in the Lapa neighborhood, the original property consisted of two small stacked houses. To accommodate a family of five—a couple and their three children—the project",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/0057/bed1/7f00/014d/2637/large_jpg/Estudio-Piloti-Arquitetura-foto-Luiza-Florenzano-001.jpg?1788280961",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "from refuge to prototype: why cabins keep redefining how we live",
-      "url": "https://www.designboom.com/architecture/refuge-prototype-cabins-keep-redefining-how-we-live/",
-      "excerpt": "our renewed obsession with cabins reveals what contemporary life may be getting wrong about comfort, connection and escape.\nThe post from refuge to prototype: why cabins keep redefining how we live ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/refuge-prototype-cabins-keep-redefining-how-we-live-designboom-4.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "For sale, a contemporary valley house by Canada’s Superkül exploits its sylvan setting",
-      "url": "https://www.wallpaper.com/architecture/residential/for-sale-valley-house-superkul-canada",
-      "excerpt": "Valley House is a family house in suburban Toronto with a highly crafted interior overlooking a forested ravine; and it's currently on the market",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FcxLCctMDgi8CVy6NPcRqh-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Construction of \"Arc de Trump\" set to begin in next two weeks",
-      "url": "https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/",
-      "excerpt": "The construction of a 250-foot-high triumphal arch in Washington DC designed by Atlanta-based Harrison Design, is set to begin \"over the next two-week period\". Plans to begin construction of the giant",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Breccia Rosa 4D slab tile by Iris Ceramica Group",
-      "url": "https://www.dezeen.com/2026/09/07/breccia-rosa-4d-tile-iris-ceramica-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Italian manufacturer Iris Ceramica Group has recreated the warm elegance of an unmistakable pink Italian marble in its Breccia Rosa 4D slab tile. Produced by its subsidiary Sapienston",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Luca Guadagnino and Stefano Baisi unveil a blockbuster lifestyle collection for Zara Home",
-      "url": "https://www.wallpaper.com/design-interiors/luca-guadagnino-stefano-baisi-zara-home",
-      "excerpt": "Luca Guadagnino and Stefano Baisi's first commercial furniture and fashion collection spans more than 200 pieces, from sofas and lighting to clothing, tableware and scent",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bbLXKDX9i7YZ4EFTtSWzzL-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Groupwork completes \"world-first\" high-rise held up by stone exoskeleton",
-      "url": "https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/",
-      "excerpt": "A thousand tons of volcanic rock replace concrete and steel in Petra Heights, a housing development in north London by architecture studio Groupwork and engineer Webb Yates. The apartment building at ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "Design overtakes retail as biggest contributor to UK economy",
-      "url": "https://www.dezeen.com/2026/09/07/design-council-economy-report/",
-      "excerpt": "Britain's design industry has grown by 40 per cent and is now responsible for £1 in every £20 generated across the country, according to a landmark report from the Design Council. Published today, the",
       "today": false
     },
     {
