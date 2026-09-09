@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  21:28",
+  "fetchedAt": "2026.09.09  23:46",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,57 +13,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -95,15 +103,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -143,6 +142,25 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Seiko marks the anniversary of the Honda Motocompo, a weird and wonderful folding motorbike",
+      "url": "https://www.wallpaper.com/watches-jewellery/seiko-marks-the-anniversary-of-the-honda-motocompo-a-weird-and-wonderful-folding-motorbike",
+      "excerpt": "It’s long been the case that watches and cars have gone hand in hand. But sometimes the associations are more nerdy and small-scale – take Seiko's new watch, released to mark the anniversary of the Ho",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iwY98BR6uTemsiHhkxW3WD-2000-80.jpg",
       "today": true
     },
     {
@@ -213,6 +231,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Casa Itu / Nitsche Arquitetos",
+      "url": "https://www.archdaily.com/1184675/casa-itu-nitsche-arquitetos",
+      "excerpt": "The choice of the site was the starting point for the Casa Itu project. After several months of visiting and analyzing different sites, considering topography, sun exposure, and the surrounding contex",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/cdeb/1fe7/3101/8863/0bbb/large_jpg/casa-itu-nitsche-arquitetos_26.jpg?1788792316",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.09",
@@ -230,6 +258,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/stefano-boeri-affordable-housing-ibiza-modular-timber-blocks-sa-casa/",
       "excerpt": "four prefabricated timber blocks create adaptable apartments and shared gardens for a new Ibiza housing complex.\nThe post stefano boeri plans gardened affordable housing in ibiza as four modular timbe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/SA-casa-stefano-boeri-architetti-affordable-housing-ibiza-spain-designboom-fb.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Florinda House / Alvariño & Felipe Arquitectos",
+      "url": "https://www.archdaily.com/1184824/florinda-house-alvarino-and-felipe-arquitectos",
+      "excerpt": "Casa Florinda began with a question: what to do with the old earthen house that stood in ruins on the land we had acquired to build our home? Although our first plans involved tearing it down, somethi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/33b4/13b9/4100/01df/703e/large_jpg/DJI_0013.jpg?1788883955",
       "today": true
     },
     {
@@ -262,6 +300,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Jury-led design competition for sustainable and innovative urban planning proposals for the \"Puerta de Madrid\" area in Leganés (Madrid)",
+      "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid",
+      "excerpt": "The Community of Madrid and the Leganés City Council have launched an urban planning competition to solicit the best proposals for the sustainable and innovative development of the new 'Puerta de Madr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/76fc/05b6/9900/01b5/35ed/large_jpg/Im_genes_Puerta_de_Madrid_Legan_s.jpg?1788966675",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.09",
@@ -271,13 +319,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "Richard and Su Rogers’ house, a modernist masterpiece, enters the National Trust",
-      "url": "https://www.wallpaper.com/architecture/residential/richard-and-su-rogers-house-22-parkside-national-trust-uk",
-      "excerpt": "22 Parkside in Wimbledon, a landmark example of pioneering 20th-century design, has been given to the nation by the Rogers family",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Mm8euWjWBMuQUTkiaZohYH-1415-80.jpg",
+      "title": "Boavista 339 Residential Building / PAULO MERLINI architects",
+      "url": "https://www.archdaily.com/1184792/boavista-339-paulo-merlini-architects",
+      "excerpt": "The clients' intention was to create a residential building with studio and one-bedroom apartments. With only 88m2, a frontage of 5.50m facing the street and 2.00m wide on the rear elevation, the plot",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/7556/05b6/9900/01b5/3487/large_jpg/20231219-PAULO-MERLINI-BOAVISTA-339-075.jpg?1788900767",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Coronation Park Sports and Recreation Centre / hcma architecture + design + Dub Architects + FaulknerBrowns Architects",
+      "url": "https://www.archdaily.com/1184434/coronation-park-sports-and-recreation-centre-hcma-architecture-plus-design-plus-dub-architects-plus-faulknerbrowns-architects",
+      "excerpt": "The City of Edmonton's Coronation Park Sports and Recreation Centre, designed in joint venture by hcma architecture + design and Dub Architects, in collaboration with velodrome experts FaulknerBrowns,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/0f35/505a/cb00/0115/25dd/large_jpg/_CPSRC__Aerial_of_entrance_and_link_to_Peter_Hemingway_Aquatic_Centre_Credit_Nic_Lehoux.jpg?1788350291",
       "today": true
     },
     {
@@ -288,56 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland/",
       "excerpt": "nine cabins designed by kengo kuma & associates, elemental, studio MK27 and other practices provide dedicated spaces for writers and translators to live and work.\nThe post architect-designed cabins of",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Tomas & Katrien House  / Atelier Vens Vanbelle",
-      "url": "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle",
-      "excerpt": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the im",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/f862/4253/0500/01ca/028b/large_jpg/002.jpg?1787558040",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "The Role of Urban Design in Women's Safety: Lessons from Four Public Spaces",
-      "url": "https://www.archdaily.com/1184374/the-role-of-urban-design-in-womens-safety-lessons-from-four-public-spaces",
-      "excerpt": "Public space is often intended to be perceived as universal, but access is unevenly experienced. For many women, moving through the city involves a continuous assessment of exposure, visibility, proxi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2105/d9a0/5901/87c6/8a5a/large_jpg/designing-safety-for-women-in-public-spaces_1.jpg?1788289291",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Librairie Avant-Garde Huize Baiwu Bookstore / Jiakun Architects",
-      "url": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
-      "excerpt": "Librairie Avant-Garde Huize Baiwu Bookstore is situated in Baiwu Village, Huize County, Qujing, Yunnan. Baiwu Village is a historic and cultural village where Hui, Yi, Bai, Han, and other ethnic group",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/d7a6/a228/5801/8aa2/35b0/large_jpg/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects_15.jpg?1788860438",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "“Sun the Quilt” Wins the 2026 VELUX Light of Tomorrow Global Award with a Responsive Facade Inspired by Daily Rituals",
-      "url": "https://www.archdaily.com/1184122/sun-the-quilt-wins-the-2026-velux-light-of-tomorrow-global-award-with-a-responsive-facade-inspired-by-daily-rituals",
-      "excerpt": "How can daylight tackle global challenges? This question lies at the heart of Light of Tomorrow by VELUX, a global student competition that encourages architecture students to explore the future poten",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/570f/b71a/0f01/89f1/b245/large_jpg/sun-the-quilt-wins-the-2026-velux-light-of-tomorrow-global-award-with-a-responsive-facade-inspired-by-daily-rituals_15.jpg?1787909908",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "“Living with Contrasts Is Something Very Meaningful:” Salwa and Selma Mikoü on Architecture and Craft in Louisiana Channel Interview",
-      "url": "https://www.archdaily.com/1184803/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview",
-      "excerpt": "French-Moroccan architects and twin sisters Salwa and Selma Mikoü have developed a practice that brings together architecture, engineering, craftsmanship, and cultural memory. Founders of the Paris-ba",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/282f/237b/e901/8be9/6017/large_jpg/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview_4.jpg?1788946488",
       "today": true
     },
     {
@@ -450,6 +458,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -487,6 +505,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/img/office01.webp",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
       "today": false
     },
     {
