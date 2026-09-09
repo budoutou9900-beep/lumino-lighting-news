@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  10:37",
+  "fetchedAt": "2026.09.09  14:59",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,37 +33,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -98,10 +106,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.09",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -156,10 +164,77 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "plywood and reflective steel build retro-futurist print shop in tbilisi’s former factory",
+      "url": "https://www.designboom.com/architecture/plywood-reflective-steel-retro-futurist-print-shop-tbilisi-former-factory-sandro-kvirikadze/",
+      "excerpt": "jpg print shop connects fabrika’s industrial memory with contemporary design scene.\nThe post plywood and reflective steel build retro-futurist print shop in tbilisi’s former factory appeared first on ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/plywood-reflective-steel-retro-futurist-print-shop-tbilisi-former-factory-sandro-kvirikadze-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "A pioneering force in Afro, mixed and curly hair culture, stylist Charlotte Mensah has a London exhibition",
+      "url": "https://www.wallpaper.com/fashion-beauty/hair/charlotte-mensah-london-exhibition",
+      "excerpt": "‘Charlotte Mensah: Community Matters’ traces the career of one of Britain's most groundbreaking hair artists",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5Hf77ENiDiFPvDFXpuoFEi-1147-80.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "Five design galleries injecting renewed energy into the London scene",
+      "title": "TNK500 Aurea task chair by Alegre Design for Actiu",
+      "url": "https://www.dezeen.com/2026/09/09/tnk500-aurea-task-chair-alegre-design-actiu-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Spanish brand Actiu and design firm Alegre Design have updated the TNK500 task chair, adding lightweight robustness and distinctive metallic finishes. An evolution of the 15-year-old ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Richard and Su Rogers’ house, a modernist masterpiece, enters the National Trust",
+      "url": "https://www.wallpaper.com/architecture/residential/richard-and-su-rogers-house-22-parkside-national-trust-uk",
+      "excerpt": "22 Parkside in Wimbledon, a landmark example of pioneering 20th-century design, has been given to the nation by the Rogers family",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Mm8euWjWBMuQUTkiaZohYH-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "architect-designed cabins offer temporary homes for writers at jan michalski foundation",
+      "url": "https://www.designboom.com/architecture/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland/",
+      "excerpt": "nine cabins designed by kengo kuma & associates, elemental, studio MK27 and other practices provide dedicated spaces for writers and translators to live and work.\nThe post architect-designed cabins of",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Studio KO transforms \"basilica-like\" tram depot into Tashkent art centre",
+      "url": "https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/",
+      "excerpt": "A metal tunnel guides visitors from underground into a lofty exhibition hall within a tram depot at the Centre for Contemporary Arts Tashkent, which was designed by French architecture practice Studio",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Richard and Su Roger's seminal house in London \"gifted to the nation\"",
+      "url": "https://www.dezeen.com/2026/09/09/22-parkside-richard-su-rogers-national-trust/",
+      "excerpt": "The modernist 22 Parkside house in Wimbledon, London, by Richard and Su Rogers has been given over to conservation charity The National Trust. Designed by the pair in the late 1960s for Richard Rogers",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Five galleries injecting renewed energy into the London design scene",
       "url": "https://www.dezeen.com/2026/09/09/london-design-galleries/",
       "excerpt": "A clutch of young design galleries and grassroots platforms are shaking the cobwebs off London's design scene. In the lead-up to the city's annual design festival, we profile five that you should know",
       "today": true
@@ -172,6 +247,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/future-interior-design-human-behavior-if-design-award/",
       "excerpt": "from flexible floor plans to interactive lamps, discover 8 award-winning projects redefining how architecture and design respond to human behavior.\nThe post how interior design evolves to meet new hum",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/if-design-award-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Le Labo pays homage to Beijing in a new, limited-edition fragrance",
+      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/le-labo-beijing-shiu-25",
+      "excerpt": "Shiu 25 is the latest scent from the niche New York fragrance house, available in Le Labo stores around the world for one month only",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uDD3FMxxvyRT8iHQZQbB9N-1198-80.jpg",
       "today": true
     },
     {
@@ -190,34 +275,67 @@ window.LUMINO_DATA = {
       "title": "rodolphe parente and marion mailaender revive the spirit of 1985 paris sports club",
       "url": "https://www.designboom.com/architecture/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club/",
       "excerpt": "facing the eiffel tower, the renewed ken club turns fitness into an all-day social environment, using saturated color, curved forms, and references to its 1985 identity.\nThe post rodolphe parente and ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club-designboom-1200.jpg",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club-designboom-1200-1.jpg",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "Béton Brut and Isokon reimagine Marcel Breuer furniture in masur birch",
-      "url": "https://www.dezeen.com/2026/09/09/beton-brut-isokon-marcel-breuer-furniture-masur-birch/",
-      "excerpt": "Design gallery Béton Brut has teamed up with manufacturer Isokon to reinterpret Marcel Breuer's plywood furniture for the company, showcasing it \"in a new way\" with the Masur Edition at London Design ",
+      "title": "Michele De Lucchi takes design to the seas for the first time with Azimut",
+      "url": "https://www.wallpaper.com/design-interiors/azimut-magellano-27m-superyacht-michele-de-lucchi-amdl-circle",
+      "excerpt": "New superyacht Magellano 27M’s sculpted wooden interior designed by AMDL Circle embraces both adventure and self-exploration",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y4yL7JiqwUB6BrJ9cA3VAc-2560-80.jpg",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "Anam Design Studio adds club-like dining room to East Sussex home",
-      "url": "https://www.dezeen.com/2026/09/09/east-sussex-house-anam-design-studio/",
-      "excerpt": "A red travertine kitchen and a dark dining room with rounded timber walls form the heart of this home in East Sussex by Irish interiors firm Anam Design Studio. Anam Design Studio overhauled the home ",
+      "title": "The AMB 002 Roadster is the culmination of Aston Martin’s ongoing motorbike side quest",
+      "url": "https://www.wallpaper.com/transportation/amb-002-roadster-superbike-aston-martin-brough-superior",
+      "excerpt": "The new superbike is spawned from the long-running partnership between Aston Martin and bespoke bike manufacturer Brough Superior. Unlike its predecessors, it’s designed for the road and not the track",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wKvXJ7iJAGrDoRwEpvZBJi-2300-80.jpg",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "See the 50 projects from Europe, Middle East and Africa selected for Dezeen Awards 2026 Regional Showcases",
-      "url": "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/",
-      "excerpt": "Dezeen has announced the 50 projects featured in the Top 50: Europe, Middle East and Africa list as part of the Regional Showcases for Dezeen Awards 2026. Launched as a new initiative for the 2026 edi",
+      "title": "The Role of Urban Design in Women's Safety: Lessons from Four Public Spaces",
+      "url": "https://www.archdaily.com/1184374/the-role-of-urban-design-in-womens-safety-lessons-from-four-public-spaces",
+      "excerpt": "Public space is often intended to be perceived as universal, but access is unevenly experienced. For many women, moving through the city involves a continuous assessment of exposure, visibility, proxi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2105/d9a0/5901/87c6/8a5a/large_jpg/designing-safety-for-women-in-public-spaces_1.jpg?1788289291",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Librairie Avant-Garde Huize Baiwu Bookstore / Jiakun Architects",
+      "url": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
+      "excerpt": "Librairie Avant-Garde Huize Baiwu Bookstore is situated in Baiwu Village, Huize County, Qujing, Yunnan. Baiwu Village is a historic and cultural village where Hui, Yi, Bai, Han, and other ethnic group",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/d7a6/a228/5801/8aa2/35b0/large_jpg/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects_15.jpg?1788860438",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "“Sun the Quilt” Wins the 2026 VELUX Light of Tomorrow Global Award with a Responsive Facade Inspired by Daily Rituals",
+      "url": "https://www.archdaily.com/1184122/sun-the-quilt-wins-the-2026-velux-light-of-tomorrow-global-award-with-a-responsive-facade-inspired-by-daily-rituals",
+      "excerpt": "How can daylight tackle global challenges? This question lies at the heart of Light of Tomorrow by VELUX, a global student competition that encourages architecture students to explore the future poten",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/570f/b71a/0f01/89f1/b245/large_jpg/sun-the-quilt-wins-the-2026-velux-light-of-tomorrow-global-award-with-a-responsive-facade-inspired-by-daily-rituals_15.jpg?1787909908",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "“Living with Contrasts Is Something Very Meaningful:” Salwa and Selma Mikoü on Architecture and Craft in Louisiana Channel Interview",
+      "url": "https://www.archdaily.com/1184803/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview",
+      "excerpt": "French-Moroccan architects and twin sisters Salwa and Selma Mikoü have developed a practice that brings together architecture, engineering, craftsmanship, and cultural memory. Founders of the Paris-ba",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/282f/237b/e901/8be9/6017/large_jpg/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview_4.jpg?1788946488",
       "today": true
     },
     {
@@ -234,71 +352,11 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
-      "url": "https://www.archdaily.com/1184771/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture",
-      "excerpt": "The Praemium Imperiale is a global arts prize that recognizes exceptional achievements in architecture, painting, sculpture, music, and theater or film. The award has been presented annually since 198",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/24af/5c4d/8601/88ab/7a5e/large_jpg/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture_1.jpg?1788880075",
+      "title": "Villa Mahler / Philipp Architekten",
+      "url": "https://www.archdaily.com/1183827/villa-mahler-philipp-architekten",
+      "excerpt": "Villa Mahler by Philipp Architekten is conceived as a habitable sculpture — a home that behaves like a piece of art. Created for an internationally acclaimed artist, it becomes both sanctuary and stag",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/b931/4253/0500/01ca/0209/large_jpg/03-philipparchitekten-annaphilipp-villa-mahler_041_web.jpg?1787541828",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "From Oculus to Orbit: The Symbolism of the Circle in Architecture",
-      "url": "https://www.archdaily.com/1184600/from-oculus-to-orbit-the-symbolism-of-the-circle-in-architecture",
-      "excerpt": "Throughout the history of architecture, the circle has been associated with multiple meanings—from the cosmic geometry of ancient temples and the oculus of classical buildings to the rose windows of G",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/b98a/1fe7/3101/8863/092c/large_jpg/the-circle-as-an-architectural-symbol-of-the-future_14.jpg?1788721553",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "El Poli / MEII ESTUDIO",
-      "url": "https://www.archdaily.com/1184500/el-poli-meii-estudio",
-      "excerpt": "In La Unión, the municipal sports centre is much more than a sports facility. Known  by everyone as El Poli, it is one of the town's main meeting places—a space where  sport, leisure and everyday soci",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/95b7/15d8/6f00/01a2/ed17/large_jpg/Preview_Meii_Polideportivo-116.jpg?1788450339",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "four-level white platform stands as a collective throne at the western edge of greece",
-      "url": "https://www.designboom.com/art/four-level-white-platform-collective-throne-western-edge-greece-dimitris-kontodimos/",
-      "excerpt": "the work transforms othonoi island’s ancient association with the ‘throne’ into a functional four-level sculpture for collective use.\nThe post four-level white platform stands as a collective throne a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/four-level-white-platform-collective-throne-western-edge-greece-dimitris-kontodimos-designboom-1200-1-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "SOW and GROW House / nevertheless /  Yusuke Sagawa Architects",
-      "url": "https://www.archdaily.com/1184758/sow-and-grow-house-nevertheless-yusuke-sagawa-architects",
-      "excerpt": "This is the architect's own residence and atelier. Considering both the sunlight reaching the field and the presence of the house within the landscape, the house takes on the vernacular character of a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/1aea/13b9/4100/01df/6f7c/large_jpg/29.jpg?1788877653",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Modum Atelier Office Extension & SANGO / Modum Atelier",
-      "url": "https://www.archdaily.com/1184409/modum-atelier-office-extension-and-sango-modum-atelier",
-      "excerpt": "In 2024, Modum Atelier moved its office to Guochuang Park. In 2026, as the practice grew, we needed more space and decided to take over the adjacent bay. Using our own office as a testing ground, we e",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/a96f/505a/cb00/0115/24a4/large_jpg/01Overall_Elevation___Liu_Guowei.jpg?1788324288",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "how do california architects design a house to live with wildfire?",
-      "url": "https://www.designboom.com/architecture/california-design-house-live-wildfire-fire-resistant/",
-      "excerpt": "these california homes reveal how architecture changes when fire becomes something the house is expected to encounter.\nThe post how do california architects design a house to live with wildfire? appea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designing-for-wildfires-houses-habitation-designboom-FB.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
