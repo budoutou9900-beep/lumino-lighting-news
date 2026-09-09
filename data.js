@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  05:48",
+  "fetchedAt": "2026.09.09  10:37",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,43 +25,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     }
@@ -88,7 +88,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.09",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -98,20 +98,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.09",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -157,23 +147,117 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.09",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "Everything you need to know about New York Fashion Week",
-      "url": "https://www.wallpaper.com/fashion-beauty/new-york-fashion-week-ss-2027-schedule-best-moments",
-      "excerpt": "Debuts, schedule shifts, names to know – Wallpaper* breaks down all the key moments from New York Fashion Week S/S 2027, which begins today (9 September 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7ue5CgP897hWYhH7tALbjX-1539-80.jpg",
+      "title": "Five design galleries injecting renewed energy into the London scene",
+      "url": "https://www.dezeen.com/2026/09/09/london-design-galleries/",
+      "excerpt": "A clutch of young design galleries and grassroots platforms are shaking the cobwebs off London's design scene. In the lead-up to the city's annual design festival, we profile five that you should know",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "how interior design evolves to meet new human behaviors and shifting habits",
+      "url": "https://www.designboom.com/design/future-interior-design-human-behavior-if-design-award/",
+      "excerpt": "from flexible floor plans to interactive lamps, discover 8 award-winning projects redefining how architecture and design respond to human behavior.\nThe post how interior design evolves to meet new hum",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/if-design-award-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "First Sway carpet by Modulyss",
+      "url": "https://www.dezeen.com/2026/09/09/first-sway-carpet-modulyss-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: dynamic patterning meets elegant muted colour in the First Sway line of carpet tiles and broadloom, created by Belgian flooring company Modulyss. Part of the Modulyss' First collectio",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "rodolphe parente and marion mailaender revive the spirit of 1985 paris sports club",
+      "url": "https://www.designboom.com/architecture/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club/",
+      "excerpt": "facing the eiffel tower, the renewed ken club turns fitness into an all-day social environment, using saturated color, curved forms, and references to its 1985 identity.\nThe post rodolphe parente and ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Béton Brut and Isokon reimagine Marcel Breuer furniture in masur birch",
+      "url": "https://www.dezeen.com/2026/09/09/beton-brut-isokon-marcel-breuer-furniture-masur-birch/",
+      "excerpt": "Design gallery Béton Brut has teamed up with manufacturer Isokon to reinterpret Marcel Breuer's plywood furniture for the company, showcasing it \"in a new way\" with the Masur Edition at London Design ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Anam Design Studio adds club-like dining room to East Sussex home",
+      "url": "https://www.dezeen.com/2026/09/09/east-sussex-house-anam-design-studio/",
+      "excerpt": "A red travertine kitchen and a dark dining room with rounded timber walls form the heart of this home in East Sussex by Irish interiors firm Anam Design Studio. Anam Design Studio overhauled the home ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "See the 50 projects from Europe, Middle East and Africa selected for Dezeen Awards 2026 Regional Showcases",
+      "url": "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/",
+      "excerpt": "Dezeen has announced the 50 projects featured in the Top 50: Europe, Middle East and Africa list as part of the Regional Showcases for Dezeen Awards 2026. Launched as a new initiative for the 2026 edi",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "abandoned canal site in london transforms into a community playscape garden",
+      "url": "https://www.designboom.com/architecture/abandoned-canal-site-london-community-playscape-garden/",
+      "excerpt": "what happens when a community center stops behaving like a building and starts becoming a landscape?\nThe post abandoned canal site in london transforms into a community playscape garden appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/abandoned-canal-site-london-community-playscape-garden-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
+      "url": "https://www.archdaily.com/1184771/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture",
+      "excerpt": "The Praemium Imperiale is a global arts prize that recognizes exceptional achievements in architecture, painting, sculpture, music, and theater or film. The award has been presented annually since 198",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/24af/5c4d/8601/88ab/7a5e/large_jpg/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture_1.jpg?1788880075",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "From Oculus to Orbit: The Symbolism of the Circle in Architecture",
+      "url": "https://www.archdaily.com/1184600/from-oculus-to-orbit-the-symbolism-of-the-circle-in-architecture",
+      "excerpt": "Throughout the history of architecture, the circle has been associated with multiple meanings—from the cosmic geometry of ancient temples and the oculus of classical buildings to the rose windows of G",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/b98a/1fe7/3101/8863/092c/large_jpg/the-circle-as-an-architectural-symbol-of-the-future_14.jpg?1788721553",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "El Poli / MEII ESTUDIO",
+      "url": "https://www.archdaily.com/1184500/el-poli-meii-estudio",
+      "excerpt": "In La Unión, the municipal sports centre is much more than a sports facility. Known  by everyone as El Poli, it is one of the town's main meeting places—a space where  sport, leisure and everyday soci",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/95b7/15d8/6f00/01a2/ed17/large_jpg/Preview_Meii_Polideportivo-116.jpg?1788450339",
       "today": true
     },
     {
@@ -190,21 +274,21 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.09",
+      "title": "SOW and GROW House / nevertheless /  Yusuke Sagawa Architects",
+      "url": "https://www.archdaily.com/1184758/sow-and-grow-house-nevertheless-yusuke-sagawa-architects",
+      "excerpt": "This is the architect's own residence and atelier. Considering both the sunlight reaching the field and the presence of the house within the landscape, the house takes on the vernacular character of a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/1aea/13b9/4100/01df/6f7c/large_jpg/29.jpg?1788877653",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
       "title": "Modum Atelier Office Extension & SANGO / Modum Atelier",
       "url": "https://www.archdaily.com/1184409/modum-atelier-office-extension-and-sango-modum-atelier",
       "excerpt": "In 2024, Modum Atelier moved its office to Guochuang Park. In 2026, as the practice grew, we needed more space and decided to take over the adjacent bay. Using our own office as a testing ground, we e",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/a96f/505a/cb00/0115/24a4/large_jpg/01Overall_Elevation___Liu_Guowei.jpg?1788324288",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Inside the new Lego Ninjago collaboration, with New York artist Futura",
-      "url": "https://www.wallpaper.com/architecture/lego-futura-collaboration-ninjago-anniversary",
-      "excerpt": "Lego has worked with Futura to celebrate the Ninjago world’s 15th anniversary, with custom figurines and an entirely new character – the ‘Ninja of the Futura’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vdo4UjgLDzDFxYziu8tCh4-1258-80.jpg",
-      "today": false
     },
     {
       "source": "designboom",
@@ -214,151 +298,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/california-design-house-live-wildfire-fire-resistant/",
       "excerpt": "these california homes reveal how architecture changes when fire becomes something the house is expected to encounter.\nThe post how do california architects design a house to live with wildfire? appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designing-for-wildfires-houses-habitation-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Casa One / Jorgelina Tortorici & Asociados",
-      "url": "https://www.archdaily.com/1184657/casa-one-jorgelina-tortorici-and-asociados",
-      "excerpt": "Casa One resolves the tension between privacy and openness through a layered system of skins, filters, and voids that mediates between the house and its surroundings.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/bde2/15d8/6f00/01a2/f621/large_jpg/0T7A3970.jpg?1788788250",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "kinetic constellation of fresnel lenses by vincent leroy distorts bali’s landscape",
-      "url": "https://www.designboom.com/art/kinetic-constellation-fresnel-lenses-vincent-leroy-bali-landscape/",
-      "excerpt": "composed of a constellation of fresnel lenses, the kinetic sculpture responds to the wind, continuously reframing, fragmenting, and displacing its surroundings.\nThe post kinetic constellation of fresn",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kinetic-constellation-fresnel-eccentric-lenses-vincent-leroy-bali-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "OMHU attempts to \"outdupe\" copiers with its own Teddy sofa dupe",
-      "url": "https://www.dezeen.com/2026/09/08/omhu-tedy-teddy-dupe-sofa/",
-      "excerpt": "Danish furniture brand OMHU has released a version of its Teddy sofa bed on third-party websites for a fraction of its usual price to draw attention to copy culture and to work as marketing. Last week",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Espatódias House / Leo Romano",
-      "url": "https://www.archdaily.com/1184749/espatodias-house-leo-romano",
-      "excerpt": "Beneath a concrete roof that seems to float over the site, Espatódias House dissolves the boundaries between architecture and landscape, transforming every room into an extension of the surrounding ga",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/1dc6/15d8/6f00/01a2/f2e0/large_jpg/250408_Casa_SL_0892-Editar.jpg?1788550634",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Amelia Cross blends tailoring and painting, with unique and uncanny results",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/amelia-cross-rules-for-disappearance-incubator-london-interview",
-      "excerpt": "The artist’s superbly observed works draw from the worlds of fashion and art; ‘I like the idea of the double take,’ she says as a new exhibition opens at London’s Incubator",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Xr3cgTWpxc2ooPMe25KpJD-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "’50 chairs at christie’s’ traces how designers keep reinventing the act of sitting",
-      "url": "https://www.designboom.com/architecture/50-chairs-christies-exhibition-basic-space-beverly-hills/",
-      "excerpt": "curated by basic.space, a collection of fifty chairs spans historic icons and contemporary experiments.\nThe post ’50 chairs at christie’s’ traces how designers keep reinventing the act of sitting appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/basic-space-50-chairs-christies-beverly-hills-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Stable Palms Club gives midcentury design a new restaurant in Calgary",
-      "url": "https://www.wallpaper.com/travel/restaurants/stable-palms-club-calgary-review",
-      "excerpt": "Block Hospitality’s latest hot ticket pairs American modernism with conversation pits and a playful cocktail programme",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JNcnusx84JRNjqL3Nwfo3a-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Populous and Moody Nolan design 76ers and Flyers arena as \"landmark\" for Philadelphia",
-      "url": "https://www.dezeen.com/2026/09/08/76ers-arena-philadelphia-populous-moody-nolan/",
-      "excerpt": "Architecture studios Populous and Moody Nolan have released designs for a professional basketball and hockey arena based on the shape of Philadelphia's iconic Spectrum arena. The planned arena will se",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "After 40 years in Shoreditch, SCP makes a new home in Clerkenwell",
-      "url": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening",
-      "excerpt": "As the British furniture brand opens its new townhouse showroom on Clerkenwell Green, founder Sheridan Coakley explains why it was time for a change",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Z7hvYz9c6CxA8XAZ847ngg-2424-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Mobility device for elderly travellers among projects by Basel Academy of Art and Design",
-      "url": "https://www.dezeen.com/2026/09/08/mobility-device-elderly-travellers-basel-academy-of-art-and-design-schoolshows/",
-      "excerpt": "Dezeen School Shows: a product aiming to give confidence and physical support to elderly travellers is among projects by students at the Basel Academy of Art and Design. Also featured is a collection ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "House 22 / Loft7",
-      "url": "https://www.archdaily.com/1184746/house-22-loft7",
-      "excerpt": "Located on the coastline of Pichilemu, south of Punta de Lobos, Casa 22 is situated on a sloping lot that descends toward the northwest, offering direct views of the Pacific Ocean and wide expanses of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/bf94/15d8/6f00/01a2/f674/large_jpg/CASA_22_04_FABI_N_ACU_A.jpg?1788788662",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "ground becomes roof, shielding inhabitable civic landscape on roosevelt island",
-      "url": "https://www.designboom.com/architecture/ground-roof-inhabitable-civic-landscape-roosevelt-island-zehua-zhang/",
-      "excerpt": "the sculptural curved form contrasts with new york's predominantly rectilinear skyline.\nThe post ground becomes roof, shielding inhabitable civic landscape on roosevelt island appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zehua-zhang-civic-inhabitable-landscape-roosevelt-island-cultural-plaza-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Bernoulli College Vale do Sereno / BCMF Arquitetos",
-      "url": "https://www.archdaily.com/1184774/bernoulli-college-vale-do-sereno-bcmf-arquitetos",
-      "excerpt": "The Colégio Bernoulli campus in Vale do Sereno inaugurates research developed by BCMF Arquitetos on the architecture of learning spaces. Conceived as the first of a series of new campuses for the inst",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/5ac5/1fe7/3101/8863/0837/large_jpg/colegio-bernoulli-vale-do-sereno-bcmf-arquitetos_3.jpg?1788566249",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Chinese library complex encourages \"connections between people and the city\"",
-      "url": "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/",
-      "excerpt": "A sweeping white roof informed by the pages of a book crowns Chang'an Academy Xi'an Public Library, a cultural centre in Shanxi Province. Overlooking the Ba River and Olympic Sports Centre in Xi'an's ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Dulux reveals sage green as Colour of the Year 2027",
-      "url": "https://www.dezeen.com/2026/09/08/sage-green-colour-year-2027-dulux/",
-      "excerpt": "Paint brand Dulux has announced Soulful Sage – \"a versatile green that provides a flexible foundation for schemes\" – as its colour of the year for 2027. Dulux selected the soft grey-green as its annua",
       "today": false
     },
     {
@@ -389,6 +328,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -461,6 +410,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -501,6 +460,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.07.29",
+      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
+      "url": "https://www.yamagiwa.co.jp/news/79785/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -508,6 +477,16 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.07.28",
+      "title": "THE PASONA natureverse retreat開業",
+      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
