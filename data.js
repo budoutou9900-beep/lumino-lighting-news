@@ -1,39 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  14:59",
+  "fetchedAt": "2026.09.09  18:24",
   "sourceColors": {
-    "銀座経済新聞": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Google ニュース": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -76,91 +48,32 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "title": "Inside Buccellati’s decadent new Milanese caviar bar",
+      "url": "https://www.wallpaper.com/travel/restaurants/buccellati-caviar-bar-palazzo-gavazzi-milan",
+      "excerpt": "Chahan Minassian lines the private client salon at Palazzo Gavazzi with copper-toned mirrors, Fortuny fabrics and Murano chandeliers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4n3WNbNPSCDGVAV3DKTH8n-1600-80.jpg",
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "title": "stefano boeri plans gardened affordable housing in ibiza as four modular timber blocks",
+      "url": "https://www.designboom.com/architecture/stefano-boeri-affordable-housing-ibiza-modular-timber-blocks-sa-casa/",
+      "excerpt": "four prefabricated timber blocks create adaptable apartments and shared gardens for a new Ibiza housing complex.\nThe post stefano boeri plans gardened affordable housing in ibiza as four modular timbe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/SA-casa-stefano-boeri-architetti-affordable-housing-ibiza-spain-designboom-fb.jpg",
       "today": true
     },
     {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.09",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Four upcoming NFL stadiums that show the future of the league",
+      "url": "https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/",
+      "excerpt": "With the professional American football season kicking off today, we take a look at some upcoming stadiums and overhauls, from Washington DC to Kansas City. Late this summer, global architecture studi",
       "today": true
     },
     {
@@ -250,6 +163,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Tomas & Katrien House  / Atelier Vens Vanbelle",
+      "url": "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle",
+      "excerpt": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the im",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/f862/4253/0500/01ca/028b/large_jpg/002.jpg?1787558040",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.09",
@@ -257,15 +180,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fragrance/le-labo-beijing-shiu-25",
       "excerpt": "Shiu 25 is the latest scent from the niche New York fragrance house, available in Le Labo stores around the world for one month only",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uDD3FMxxvyRT8iHQZQbB9N-1198-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "First Sway carpet by Modulyss",
-      "url": "https://www.dezeen.com/2026/09/09/first-sway-carpet-modulyss-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: dynamic patterning meets elegant muted colour in the First Sway line of carpet tiles and broadloom, created by Belgian flooring company Modulyss. Part of the Modulyss' First collectio",
       "today": true
     },
     {
@@ -286,16 +200,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/azimut-magellano-27m-superyacht-michele-de-lucchi-amdl-circle",
       "excerpt": "New superyacht Magellano 27M’s sculpted wooden interior designed by AMDL Circle embraces both adventure and self-exploration",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y4yL7JiqwUB6BrJ9cA3VAc-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "The AMB 002 Roadster is the culmination of Aston Martin’s ongoing motorbike side quest",
-      "url": "https://www.wallpaper.com/transportation/amb-002-roadster-superbike-aston-martin-brough-superior",
-      "excerpt": "The new superbike is spawned from the long-running partnership between Aston Martin and bespoke bike manufacturer Brough Superior. Unlike its predecessors, it’s designed for the road and not the track",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wKvXJ7iJAGrDoRwEpvZBJi-2300-80.jpg",
       "today": true
     },
     {
@@ -336,26 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184803/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview",
       "excerpt": "French-Moroccan architects and twin sisters Salwa and Selma Mikoü have developed a practice that brings together architecture, engineering, craftsmanship, and cultural memory. Founders of the Paris-ba",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/282f/237b/e901/8be9/6017/large_jpg/living-with-contrasts-is-something-very-meaningful-salwa-and-selma-mikou-on-architecture-and-craft-in-louisiana-channel-interview_4.jpg?1788946488",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "abandoned canal site in london transforms into a community playscape garden",
-      "url": "https://www.designboom.com/architecture/abandoned-canal-site-london-community-playscape-garden/",
-      "excerpt": "what happens when a community center stops behaving like a building and starts becoming a landscape?\nThe post abandoned canal site in london transforms into a community playscape garden appeared first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/abandoned-canal-site-london-community-playscape-garden-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Villa Mahler / Philipp Architekten",
-      "url": "https://www.archdaily.com/1183827/villa-mahler-philipp-architekten",
-      "excerpt": "Villa Mahler by Philipp Architekten is conceived as a habitable sculpture — a home that behaves like a piece of art. Created for an internationally acclaimed artist, it becomes both sanctuary and stag",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/b931/4253/0500/01ca/0209/large_jpg/03-philipparchitekten-annaphilipp-villa-mahler_041_web.jpg?1787541828",
       "today": true
     },
     {
