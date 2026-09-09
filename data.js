@@ -1,52 +1,217 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  18:24",
+  "fetchedAt": "2026.09.09  21:28",
   "sourceColors": {
-    "Wallpaper*": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
+    {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.09.09",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=252388",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "inside the serpentine world of javier senosiain’s quetzalcóatl park",
+      "url": "https://www.designboom.com/architecture/inside-the-serpentine-world-of-javier-senosiains-quetzalcoatl-park/",
+      "excerpt": "on every twist and turn, this park in naucalpan is a rainbow-filled display of the mexican architect's fluid and imaginative design style. \nThe post inside the serpentine world of javier senosiain’s q",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/senosiain-quetzalcoatl-designboom-11.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Tactile wallcoverings have become a \"defining force\" in luxury interiors says Selected Wallpapers",
+      "url": "https://www.dezeen.com/2026/09/09/tactile-wallcoverings-luxury-interiors-selected-wallpapers/",
+      "excerpt": "Promotion: according to wallpaper specialist Selected Wallpapers, wallcoverings are increasingly equipped with woven, sound-absorbing and embossed qualities, which is changing \"what a wall is asked to",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Apple folds and follows the new high-end smartphone format. Meet the Apple iPhone Duo",
+      "url": "https://www.wallpaper.com/tech/apple-iphone-duo-18-pro-max",
+      "excerpt": "Alongside its first folding flagship, Apple’s 2026 September Event saw the debut of the iPhone 18 Pro and 18 Pro Max, new AirPods 5, Apple Watch Series 12 and Ultra 4",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BvtdE63UtMEwueGAg2qEg6-2276-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "2026 London Design Medals winners ‘demonstrate the transformative power of design’",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-medals-2026",
+      "excerpt": "The London Design Medals 2026 are awarded to Jonathan Anderson, Sir Christopher Frayling, Anab Jain and Solveiga Pakštaitė",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/totpFYzEKFFYkqtJScrc35-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "meet iphone duo: apple’s first foldable smartphone",
+      "url": "https://www.designboom.com/technology/iphone-duo-apple-first-foldable-smartphone/",
+      "excerpt": "the 'duo', apple’s first foldable iphone, pairs two screens with a 100-part hinge, opening into a 7.6-inch workspace.\nThe post meet iphone duo: apple’s first foldable smartphone appeared first on desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/iphone-duo-foldable-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Apple releases its first folding smartphone with \"size of a passport\"",
+      "url": "https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/",
+      "excerpt": "Technology company Apple has released its first folding smartphone that has the largest screen of any iPhone. Called iPhone Duo, the phone is the first folding-screen device in Apple's product lineup.",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Casalgrande Padana lists five of its tile designs on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/09/casalgrande-padana-porcelain-tiles-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian tile brand Casalgrande Padana has advertised a selection of its latest tiles on Dezeen Showroom, showing the varied and expressive potential of porcelain stoneware. Among the ",
+      "today": true
+    },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
@@ -126,43 +291,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Studio KO transforms \"basilica-like\" tram depot into Tashkent art centre",
-      "url": "https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/",
-      "excerpt": "A metal tunnel guides visitors from underground into a lofty exhibition hall within a tram depot at the Centre for Contemporary Arts Tashkent, which was designed by French architecture practice Studio",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Richard and Su Roger's seminal house in London \"gifted to the nation\"",
-      "url": "https://www.dezeen.com/2026/09/09/22-parkside-richard-su-rogers-national-trust/",
-      "excerpt": "The modernist 22 Parkside house in Wimbledon, London, by Richard and Su Rogers has been given over to conservation charity The National Trust. Designed by the pair in the late 1960s for Richard Rogers",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Five galleries injecting renewed energy into the London design scene",
-      "url": "https://www.dezeen.com/2026/09/09/london-design-galleries/",
-      "excerpt": "A clutch of young design galleries and grassroots platforms are shaking the cobwebs off London's design scene. In the lead-up to the city's annual design festival, we profile five that you should know",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "how interior design evolves to meet new human behaviors and shifting habits",
-      "url": "https://www.designboom.com/design/future-interior-design-human-behavior-if-design-award/",
-      "excerpt": "from flexible floor plans to interactive lamps, discover 8 award-winning projects redefining how architecture and design respond to human behavior.\nThe post how interior design evolves to meet new hum",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/if-design-award-FB.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.09",
@@ -170,36 +298,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle",
       "excerpt": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the im",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8b/f862/4253/0500/01ca/028b/large_jpg/002.jpg?1787558040",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Le Labo pays homage to Beijing in a new, limited-edition fragrance",
-      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/le-labo-beijing-shiu-25",
-      "excerpt": "Shiu 25 is the latest scent from the niche New York fragrance house, available in Le Labo stores around the world for one month only",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uDD3FMxxvyRT8iHQZQbB9N-1198-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "rodolphe parente and marion mailaender revive the spirit of 1985 paris sports club",
-      "url": "https://www.designboom.com/architecture/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club/",
-      "excerpt": "facing the eiffel tower, the renewed ken club turns fitness into an all-day social environment, using saturated color, curved forms, and references to its 1985 identity.\nThe post rodolphe parente and ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/rodolphe-parente-marion-mailaender-spirit-1985-paris-sports-ken-club-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Michele De Lucchi takes design to the seas for the first time with Azimut",
-      "url": "https://www.wallpaper.com/design-interiors/azimut-magellano-27m-superyacht-michele-de-lucchi-amdl-circle",
-      "excerpt": "New superyacht Magellano 27M’s sculpted wooden interior designed by AMDL Circle embraces both adventure and self-exploration",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Y4yL7JiqwUB6BrJ9cA3VAc-2560-80.jpg",
       "today": true
     },
     {
@@ -352,16 +450,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -399,16 +487,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/img/office01.webp",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
       "today": false
     },
     {
