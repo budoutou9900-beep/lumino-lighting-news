@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  00:58",
+  "fetchedAt": "2026.09.09  05:48",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "久留米ファン": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "sortiraparis.com": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,45 +37,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "武蔵野美術大学": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "遠藤照明": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "パナソニック": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -100,22 +88,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.09",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "久留米ファン",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
       "today": true
     },
     {
@@ -148,13 +127,73 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.09",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
       "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=252388",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.09",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Everything you need to know about New York Fashion Week",
+      "url": "https://www.wallpaper.com/fashion-beauty/new-york-fashion-week-ss-2027-schedule-best-moments",
+      "excerpt": "Debuts, schedule shifts, names to know – Wallpaper* breaks down all the key moments from New York Fashion Week S/S 2027, which begins today (9 September 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7ue5CgP897hWYhH7tALbjX-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "four-level white platform stands as a collective throne at the western edge of greece",
+      "url": "https://www.designboom.com/art/four-level-white-platform-collective-throne-western-edge-greece-dimitris-kontodimos/",
+      "excerpt": "the work transforms othonoi island’s ancient association with the ‘throne’ into a functional four-level sculpture for collective use.\nThe post four-level white platform stands as a collective throne a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/four-level-white-platform-collective-throne-western-edge-greece-dimitris-kontodimos-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.09",
+      "title": "Modum Atelier Office Extension & SANGO / Modum Atelier",
+      "url": "https://www.archdaily.com/1184409/modum-atelier-office-extension-and-sango-modum-atelier",
+      "excerpt": "In 2024, Modum Atelier moved its office to Guochuang Park. In 2026, as the practice grew, we needed more space and decided to take over the adjacent bay. Using our own office as a testing ground, we e",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/a96f/505a/cb00/0115/24a4/large_jpg/01Overall_Elevation___Liu_Guowei.jpg?1788324288",
       "today": true
     },
     {
@@ -175,6 +214,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/california-design-house-live-wildfire-fire-resistant/",
       "excerpt": "these california homes reveal how architecture changes when fire becomes something the house is expected to encounter.\nThe post how do california architects design a house to live with wildfire? appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designing-for-wildfires-houses-habitation-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.08",
+      "title": "Casa One / Jorgelina Tortorici & Asociados",
+      "url": "https://www.archdaily.com/1184657/casa-one-jorgelina-tortorici-and-asociados",
+      "excerpt": "Casa One resolves the tension between privacy and openness through a layered system of skins, filters, and voids that mediates between the house and its surroundings.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/bde2/15d8/6f00/01a2/f621/large_jpg/0T7A3970.jpg?1788788250",
       "today": false
     },
     {
@@ -285,16 +334,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Snap up a collectors' edition of Wallpaper* – with Es Devlin's 16-page concertina cover",
-      "url": "https://www.wallpaper.com/design-interiors/es-devlin-16-page-concertina-cover-for-october-2026-wallpaper",
-      "excerpt": "One of three guest editors of Wallpaper* October 2026, Es Devlin went all out to create a spectacular, strictly limited-edition cover that lets her story unfold. Here's how to get yours.",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DHieAsLumcLTfNBC4NBwTB-2500-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.08",
@@ -302,26 +341,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184774/bernoulli-college-vale-do-sereno-bcmf-arquitetos",
       "excerpt": "The Colégio Bernoulli campus in Vale do Sereno inaugurates research developed by BCMF Arquitetos on the architecture of learning spaces. Conceived as the first of a series of new campuses for the inst",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/5ac5/1fe7/3101/8863/0837/large_jpg/colegio-bernoulli-vale-do-sereno-bcmf-arquitetos_3.jpg?1788566249",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Woods Retreat / BE Design",
-      "url": "https://www.archdaily.com/1184760/woods-retreat-be-design",
-      "excerpt": "Tucked within a wooded landscape in Springs, New York, this 600-square-foot retreat is conceived as an intimate wellness sanctuary for meditation, kundalini yoga, and restorative sauna and ice bathing",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/1cae/5c4d/8601/88ab/7a08/large_jpg/woods-retreat-be-design_1.jpg?1788878018",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "BIG’s hanna johansson on designing ‘park rise’ as a vertical extension of athens’ landscape",
-      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-interview/",
-      "excerpt": "as 'park rise' takes shape within the ellinikon, johansson discusses the project’s cascading form, its relationship with athens and the potential for a new model of urban living.\nThe post BIG’s hanna ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-designboom-1200.jpg",
       "today": false
     },
     {
@@ -334,32 +353,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.08",
-      "title": "Verdure Kiosk / Haus of hu",
-      "url": "https://www.archdaily.com/1183814/verdure-kiosk-haus-of-hu",
-      "excerpt": "The Verdure Kiosk sits on a narrow edge along the river; it is a contemporary translation of a Chinese Courtyard Garden.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/8c22/4253/0500/01ca/0163/large_jpg/3.jpg?1787399432",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.08",
       "title": "Dulux reveals sage green as Colour of the Year 2027",
       "url": "https://www.dezeen.com/2026/09/08/sage-green-colour-year-2027-dulux/",
       "excerpt": "Paint brand Dulux has announced Soulful Sage – \"a versatile green that provides a flexible foundation for schemes\" – as its colour of the year for 2027. Dulux selected the soft grey-green as its annua",
-      "today": false
-    },
-    {
-      "source": "武蔵野美術大学",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "視覚伝達デザイン学科3年Ⅰ群課題展示「ライティングスペースデザイン」",
-      "url": "https://www.musabi.ac.jp/topics/20260907_03_02/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.musabi.ac.jp/wp-content/uploads/2026/09/t_20260907_02.jpg",
       "today": false
     },
     {
@@ -390,16 +389,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -472,16 +461,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.08.20",
@@ -522,16 +501,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.07.29",
@@ -539,16 +508,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     },
     {
