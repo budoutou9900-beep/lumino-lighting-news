@@ -1,51 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.09  23:46",
+  "fetchedAt": "2026.09.10  02:40",
   "sourceColors": {
-    "銀座経済新聞": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アットエス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
     "designboom": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Wallpaper*": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Dezeen": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -76,81 +48,23 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "cut, rotated, and suspended concrete pipes create reusable pavilion in mumbai",
+      "url": "https://www.designboom.com/architecture/cut-rotated-suspended-concrete-pipes-reusable-pavilion-mumbai/",
+      "excerpt": "longitudinal cuts transform cylindrical pipes into curved architectural elements.\nThe post cut, rotated, and suspended concrete pipes create reusable pavilion in mumbai appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/re-concrete-pipes-reusable-pavilion-mumbai-designboom-1200-1.jpg",
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "納入事例に「アインズ＆トルペ池袋東武ホープセンター店」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/182",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.09.09",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "アットエス",
-      "cat": "展示・アート",
-      "date": "2026.09.09",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/182/04.jpg",
       "today": true
     },
     {
@@ -161,7 +75,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/seiko-marks-the-anniversary-of-the-honda-motocompo-a-weird-and-wonderful-folding-motorbike",
       "excerpt": "It’s long been the case that watches and cars have gone hand in hand. But sometimes the associations are more nerdy and small-scale – take Seiko's new watch, released to mark the anniversary of the Ho",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iwY98BR6uTemsiHhkxW3WD-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -171,7 +85,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/inside-the-serpentine-world-of-javier-senosiains-quetzalcoatl-park/",
       "excerpt": "on every twist and turn, this park in naucalpan is a rainbow-filled display of the mexican architect's fluid and imaginative design style. \nThe post inside the serpentine world of javier senosiain’s q",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/senosiain-quetzalcoatl-designboom-11.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -180,7 +94,7 @@ window.LUMINO_DATA = {
       "title": "Tactile wallcoverings have become a \"defining force\" in luxury interiors says Selected Wallpapers",
       "url": "https://www.dezeen.com/2026/09/09/tactile-wallcoverings-luxury-interiors-selected-wallpapers/",
       "excerpt": "Promotion: according to wallpaper specialist Selected Wallpapers, wallcoverings are increasingly equipped with woven, sound-absorbing and embossed qualities, which is changing \"what a wall is asked to",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -190,7 +104,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/apple-iphone-duo-18-pro-max",
       "excerpt": "Alongside its first folding flagship, Apple’s 2026 September Event saw the debut of the iPhone 18 Pro and 18 Pro Max, new AirPods 5, Apple Watch Series 12 and Ultra 4",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BvtdE63UtMEwueGAg2qEg6-2276-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -200,7 +114,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-medals-2026",
       "excerpt": "The London Design Medals 2026 are awarded to Jonathan Anderson, Sir Christopher Frayling, Anab Jain and Solveiga Pakštaitė",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/totpFYzEKFFYkqtJScrc35-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -210,7 +124,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/iphone-duo-apple-first-foldable-smartphone/",
       "excerpt": "the 'duo', apple’s first foldable iphone, pairs two screens with a 100-part hinge, opening into a 7.6-inch workspace.\nThe post meet iphone duo: apple’s first foldable smartphone appeared first on desi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/iphone-duo-foldable-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -219,7 +133,7 @@ window.LUMINO_DATA = {
       "title": "Apple releases its first folding smartphone with \"size of a passport\"",
       "url": "https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/",
       "excerpt": "Technology company Apple has released its first folding smartphone that has the largest screen of any iPhone. Called iPhone Duo, the phone is the first folding-screen device in Apple's product lineup.",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -228,7 +142,7 @@ window.LUMINO_DATA = {
       "title": "Casalgrande Padana lists five of its tile designs on Dezeen Showroom",
       "url": "https://www.dezeen.com/2026/09/09/casalgrande-padana-porcelain-tiles-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Italian tile brand Casalgrande Padana has advertised a selection of its latest tiles on Dezeen Showroom, showing the varied and expressive potential of porcelain stoneware. Among the ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -238,7 +152,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184675/casa-itu-nitsche-arquitetos",
       "excerpt": "The choice of the site was the starting point for the Casa Itu project. After several months of visiting and analyzing different sites, considering topography, sun exposure, and the surrounding contex",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/cdeb/1fe7/3101/8863/0bbb/large_jpg/casa-itu-nitsche-arquitetos_26.jpg?1788792316",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -248,7 +162,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/buccellati-caviar-bar-palazzo-gavazzi-milan",
       "excerpt": "Chahan Minassian lines the private client salon at Palazzo Gavazzi with copper-toned mirrors, Fortuny fabrics and Murano chandeliers",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4n3WNbNPSCDGVAV3DKTH8n-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -258,7 +172,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/stefano-boeri-affordable-housing-ibiza-modular-timber-blocks-sa-casa/",
       "excerpt": "four prefabricated timber blocks create adaptable apartments and shared gardens for a new Ibiza housing complex.\nThe post stefano boeri plans gardened affordable housing in ibiza as four modular timbe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/SA-casa-stefano-boeri-architetti-affordable-housing-ibiza-spain-designboom-fb.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -268,7 +182,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184824/florinda-house-alvarino-and-felipe-arquitectos",
       "excerpt": "Casa Florinda began with a question: what to do with the old earthen house that stood in ruins on the land we had acquired to build our home? Although our first plans involved tearing it down, somethi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/33b4/13b9/4100/01df/703e/large_jpg/DJI_0013.jpg?1788883955",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -277,7 +191,7 @@ window.LUMINO_DATA = {
       "title": "Four upcoming NFL stadiums that show the future of the league",
       "url": "https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/",
       "excerpt": "With the professional American football season kicking off today, we take a look at some upcoming stadiums and overhauls, from Washington DC to Kansas City. Late this summer, global architecture studi",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -287,7 +201,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/plywood-reflective-steel-retro-futurist-print-shop-tbilisi-former-factory-sandro-kvirikadze/",
       "excerpt": "jpg print shop connects fabrika’s industrial memory with contemporary design scene.\nThe post plywood and reflective steel build retro-futurist print shop in tbilisi’s former factory appeared first on ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/plywood-reflective-steel-retro-futurist-print-shop-tbilisi-former-factory-sandro-kvirikadze-designboom-1200-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -297,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/hair/charlotte-mensah-london-exhibition",
       "excerpt": "‘Charlotte Mensah: Community Matters’ traces the career of one of Britain's most groundbreaking hair artists",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5Hf77ENiDiFPvDFXpuoFEi-1147-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -307,7 +221,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid",
       "excerpt": "The Community of Madrid and the Leganés City Council have launched an urban planning competition to solicit the best proposals for the sustainable and innovative development of the new 'Puerta de Madr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/76fc/05b6/9900/01b5/35ed/large_jpg/Im_genes_Puerta_de_Madrid_Legan_s.jpg?1788966675",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -316,7 +230,7 @@ window.LUMINO_DATA = {
       "title": "TNK500 Aurea task chair by Alegre Design for Actiu",
       "url": "https://www.dezeen.com/2026/09/09/tnk500-aurea-task-chair-alegre-design-actiu-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Spanish brand Actiu and design firm Alegre Design have updated the TNK500 task chair, adding lightweight robustness and distinctive metallic finishes. An evolution of the 15-year-old ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -326,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184792/boavista-339-paulo-merlini-architects",
       "excerpt": "The clients' intention was to create a residential building with studio and one-bedroom apartments. With only 88m2, a frontage of 5.50m facing the street and 2.00m wide on the rear elevation, the plot",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/7556/05b6/9900/01b5/3487/large_jpg/20231219-PAULO-MERLINI-BOAVISTA-339-075.jpg?1788900767",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -336,17 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184434/coronation-park-sports-and-recreation-centre-hcma-architecture-plus-design-plus-dub-architects-plus-faulknerbrowns-architects",
       "excerpt": "The City of Edmonton's Coronation Park Sports and Recreation Centre, designed in joint venture by hcma architecture + design and Dub Architects, in collaboration with velodrome experts FaulknerBrowns,",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a98/0f35/505a/cb00/0115/25dd/large_jpg/_CPSRC__Aerial_of_entrance_and_link_to_Peter_Hemingway_Aquatic_Centre_Credit_Nic_Lehoux.jpg?1788350291",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "architect-designed cabins offer temporary homes for writers at jan michalski foundation",
-      "url": "https://www.designboom.com/architecture/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland/",
-      "excerpt": "nine cabins designed by kengo kuma & associates, elemental, studio MK27 and other practices provide dedicated spaces for writers and translators to live and work.\nThe post architect-designed cabins of",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kengo-kuma-elemental-cabins-writers-jan-michalski-foundation-switzerland-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -488,16 +392,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "納入事例に「Hachioji Garage Project」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/180",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/180/05 南東側外観(夜景).jpg",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "賞・コンペ",
       "date": "2026.08.06",
@@ -555,16 +449,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol52.html",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "国内情報",
-      "date": "2026.07.27",
-      "title": "製品ラインナップ「”魅せる”ことにこだわった調光調色照明 Synca Bright」ページ公開のお知らせ",
-      "url": "https://www.endo-lighting.co.jp/news/20260727-01/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/08/Synca-Bright-www.endo-lighting.co_.jp_-1.png",
       "today": false
     }
   ]
