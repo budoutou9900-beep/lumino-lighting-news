@@ -1,34 +1,6 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.10  12:37",
+  "fetchedAt": "2026.09.10  16:52",
   "sourceColors": {
-    "ginza.keizai.biz": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "chunichi.co.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Dezeen": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
     "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
@@ -37,116 +9,130 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "title": "community-led cultural hub provides permanent home for black creative education in new orleans",
+      "url": "https://www.designboom.com/architecture/community-cultural-hub-permanent-home-black-creative-education-new-orleans/",
+      "excerpt": "the black school creates a permanent space for creative education, neighborhood gathering, and black self-determination shaped through 18 months of community design research.\nThe post community-led cu",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/community-cultural-hub-permanent-home-black-creative-education-new-orleans-designboom-1200.jpg",
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
-      "cat": "国内情報",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
-      "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "title": "BWGTBLD is more than an office – there, creativity is 'meant to be shared'",
+      "url": "https://www.wallpaper.com/architecture/bwgtbld-office-gallery-berlin-germany",
+      "excerpt": "The BWGTBLD office, the headquarters of Philipp Ramhofer's production company in Berlin, becomes an art gallery and a celebration of creative endeavour when the business invites the public in",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fB2is3sfY5DgYsvdMfU49S-1259-80.jpg",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "title": "Reimagining of historic Bristol boatyard among Cardiff University projects",
+      "url": "https://www.dezeen.com/2026/09/10/reimagining-historic-bristol-boatyard-cardiff-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a \"cohesive yet layered industrial cluster\" of boatyard buildings on Bristol's harbourside is among the architecture projects from Cardiff University. Also featured is the concept",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "Contemporary furniture and archival rug designs come together in an exhibition from Max Radford Gallery and Christopher Farr",
+      "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
+      "excerpt": "As part of London Design Festival, ‘Progressive Permanence’ by Max Radford Gallery and Christopher Farr creates new dialogues between art, craft and design – and puts forward the masterpieces of the f",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1024-80.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "2,977 drones used to recreate Twin Towers for 9/11 anniversary",
+      "url": "https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/",
+      "excerpt": "Design studio Drift and architect Shigeru Ban have worked to recreate the Twin Towers with lighted drones for the 25th anniversary of 9/11, with each light representing a life lost in the World Trade ",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "title": "artist gerhard richter designs hexagonal doha pavilion from his strip paintings",
+      "url": "https://www.designboom.com/architecture/gerhard-richter-hexagonal-doha-pavilion-strip-paintings-qatar-sellforf/",
+      "excerpt": "a digital experiment begun more than a decade ago expands across the walls and interior of gerhard richter’s new pavilion in doha, qatar.\nThe post artist gerhard richter designs hexagonal doha pavilio",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/selldorf-architects-doha-pavilion-gerhard-richter-designboom-qatar-FB.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "light-absorbing fabric creates monumental black square in utah’s white salt flats",
+      "url": "https://www.designboom.com/art/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light/",
+      "excerpt": "gregory orekhov’s shadow of light site-specific installation introduces a dark geometric form into the landscape.\nThe post light-absorbing fabric creates monumental black square in utah’s white salt f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light-designboom-1200-1.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア - at-s.com",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
+      "title": "Tschabalala Self's Lady in Blue towers over Trafalgar Square",
+      "url": "https://www.wallpaper.com/art/tschabalala-selfs-lady-in-blue-towers-over-trafalgar-square",
+      "excerpt": "The American artist brings a monumental ‘everywoman’ to London’s Fourth Plinth with ‘Lady in Blue’, a celebration of ambition, purpose and everyday life",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BVH7fBGBhA8V6cXmPe9HKV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Taschen celebrates America’s 250th anniversary with a colossal new book",
+      "url": "https://www.wallpaper.com/travel/taschen-national-geographic-the-united-states-of-america-book",
+      "excerpt": "‘National Geographic. The United States of America’ captures all 50 states through over 700 images of landscape, leisure, industry and social change",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zkHox5fzh4Trz434j4tSiN-1600-80.jpg",
       "today": true
     },
     {
@@ -178,30 +164,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Sejaca House / G+A Architect",
+      "url": "https://www.archdaily.com/1184618/sejaca-house-g-plus-a-architect",
+      "excerpt": "The house rises on a green hill, built entirely of red brick and concrete that give it a strong architectural character and a natural connection to the surrounding landscape. Its form is cubic and cle",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6ae6/15d8/6f00/01a2/f3b7/large_jpg/Sejaca_House_3.jpg?1788701440",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.10",
       "title": "Jonathan Anderson and Anab Jain among winners of London Design Medal",
       "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/",
       "excerpt": "JW Anderson founder Jonathan Anderson has won this year's London Design Medal for his work \"blending high fashion, art and craft\". While Anderson won the London Design Medal, the award scheme's highes",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "\"Industry in Germany is no longer open to what design can do\" say Currents Berlin organisers",
-      "url": "https://www.dezeen.com/2026/09/10/currents-berlin-interview/",
-      "excerpt": "As Currents festival kicks off in Berlin, founders Laura Ewert and Jasmin Jouhar tell Dezeen why they hope the event will finally bring the local design community the recognition it deserves. Running ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Orms plans to add rooftop swimming pool to London's BT Tower",
-      "url": "https://www.dezeen.com/2026/09/10/bt-tower-renovation-swimming-pool-orms/",
-      "excerpt": "Architecture studio Orms has submitted a planning application to transform the BT Tower in London into a hotel with a rooftop swimming pool for American hotelier MCR. Orms will restore the Grade II-li",
       "today": true
     },
     {
@@ -225,33 +203,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "Lego teams up with Formula 1 to create new family activities at Billund’s Lego House",
-      "url": "https://www.wallpaper.com/transportation/lego-teams-up-with-formula-1-to-create-new-family-activities-at-billunds-lego-house",
-      "excerpt": "A visit to Lego House kickstarts a brick-built Porsche and a deep dive into the company’s four-wheeled collaborations",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oQJrYaXQEh49ePi5rhSzNW-2392-80.jpg",
+      "title": "Digital Worlds and the Limits of Frictionless Space: Rethinking Scale and Materiality",
+      "url": "https://www.archdaily.com/1184807/digital-worlds-and-the-limits-of-frictionless-space-rethinking-scale-and-materiality",
+      "excerpt": "Historically, the way we design has been closely linked to the way we build. Architecture moved through physical testing, trial and error, projection drawings, mock-ups, and physical models: each intr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/2d41/237b/e901/8be9/6044/large_jpg/digital-worlds-and-the-limits-of-frictionless-space-rethinking-scale-and-materiality_1.jpg?1788947783",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "Inside this Toronto home, heritage and modern living combine",
-      "url": "https://www.wallpaper.com/architecture/residential/hcd-house-toronto-home-comn-architects-canada",
-      "excerpt": "Blending a sense of history with contemporary functionality, HCD House balances raw and honest materiality with warm joinery",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EHzZ9t5v3Jsei5kALpq98D-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "IED master of arts graduates deploy design against the loss of common goods",
-      "url": "https://www.designboom.com/design/ied-master-of-arts-graduates-design-x-commons/",
-      "excerpt": "tackling climate, labor, and urban issues, the thesis projects present design as a force for transformative intervention.\nThe post IED master of arts graduates deploy design against the loss of common",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ied_designboom_facebook-2.jpg",
+      "title": "Hasselt Beguinage Institute / Bovenbouw",
+      "url": "https://www.archdaily.com/1183932/hasselt-beguinage-institute-bovenbouw",
+      "excerpt": "The Hasselt Beguinage is the largest green public space within the historic town center. Once a secluded sanctuary primarily designed to exclude the city, it now becomes an inviting public space. The ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/94fc/4253/0500/01ca/07f3/large_jpg/BO-DK-HASS-1526-_StijnBollaert-SR.jpg?1787663632",
       "today": true
     },
     {
@@ -265,16 +233,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "KIAS pairs textured brick facade with planted atrium for headquarters in japan",
-      "url": "https://www.designboom.com/architecture/kias-textured-brick-facade-planted-atrium-headquarters-japan-kawamura-electric/",
-      "excerpt": "kawamura electric’s headquarters occupies a seven-story building in central nagoya.\nThe post KIAS pairs textured brick facade with planted atrium for headquarters in japan appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kias-textured-brick-facade-planted-atrium-headquarters-japan-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -282,56 +240,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184725/ruin-house-nijl-a-multigenerational-holiday-home-studio-okami-architects",
       "excerpt": "Sometimes one comes across a project brief so special that they immediately sense the outcome will be a truly unique dwelling. For this particular assignment, the clients asked the architects to renov",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/e80c/13b9/4100/01df/6dc8/large_jpg/Marc_Goodwin_Archmospheres_23.jpg?1788864616",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "A Proposal for a New World Map and Two New Sports Complexes: This Week’s Review",
-      "url": "https://www.archdaily.com/1184844/a-proposal-for-a-new-world-map-and-two-new-sports-complexes-this-weeks-review",
-      "excerpt": "This week's stories share a common thread: the value of looking beyond established frameworks. Two French-Moroccan architects reflected on what architecture can learn from Moroccan culture and local k",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/2df3/237b/e901/8be9/62f6/large_jpg/this-weeks-review_10.jpg?1789013503",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "2,977 lights recreate twin towers over new york harbor 25 years after 9/11",
-      "url": "https://www.designboom.com/art/lights-twin-towers-new-york-harbor-25-years-after-9-11/",
-      "excerpt": "the lights spiral through the night before briefly returning a vanished piece of new york’s skyline to the air.\nThe post 2,977 lights recreate twin towers over new york harbor 25 years after 9/11 appe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lights-twin-towers-new-york-harbor-25-years-after-9-11-designboom-7.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Ralph Lauren opens New York Fashion Week with a romantic gesture",
-      "url": "https://www.wallpaper.com/fashion-beauty/ralph-lauren-ss-2027-runway-show-review",
-      "excerpt": "‘An irreverent take on romance’ is how Ralph Lauren described his latest womenswear show, which provided the opening act of New York Fashion Week yesterday (9 September 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dzDn6sjLCTN9tYFPwG5YxY-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Oslo Architecture City Guide: 12 Buildings Contrasting Historic and Contemporary Design",
-      "url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design",
-      "excerpt": "Oslo is the capital of Norway as well as its largest city, serving as the country's political, economic, and cultural center. Nestled at the head of the Oslofjord and surrounded by forested hills, it'",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/4082/875c/6501/89ea/b615/large_jpg/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design_16.jpg?1788887186",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "This is Lumeah / Pepper & Well",
-      "url": "https://www.archdaily.com/1184827/this-is-lumeah-pepper-and-well",
-      "excerpt": "Lumeah is a careful renovation of one of the most intact houses designed by modernist architect Paul Couch. Located in Macedon on Wurundjeri Woi Wurrung Country, the house—formerly known as the Harley",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/8c8c/43f9/c501/88fd/19ca/large_jpg/this-is-lumeah-pepper-and-well_20.jpg?1788972192",
       "today": true
     },
     {
@@ -343,16 +251,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/182/04.jpg",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Seiko marks the anniversary of the Honda Motocompo, a weird and wonderful folding motorbike",
-      "url": "https://www.wallpaper.com/watches-jewellery/seiko-marks-the-anniversary-of-the-honda-motocompo-a-weird-and-wonderful-folding-motorbike",
-      "excerpt": "It’s long been the case that watches and cars have gone hand in hand. But sometimes the associations are more nerdy and small-scale – take Seiko's new watch, released to mark the anniversary of the Ho",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iwY98BR6uTemsiHhkxW3WD-2000-80.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
