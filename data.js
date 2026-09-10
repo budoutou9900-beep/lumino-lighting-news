@@ -1,15 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.10  16:52",
+  "fetchedAt": "2026.09.10  19:26",
   "sourceColors": {
-    "designboom": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "chunichi.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
+    "ファッションプレス": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "sortiraparis.com": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "Google ニュース": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "ozmall.co.jp": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "アットエス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
     "Dezeen": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "designboom": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -47,6 +75,103 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "chunichi.co.jp",
+      "cat": "国内情報",
+      "date": "2026.09.10",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://www.chunichi.co.jp/article/377429",
+      "excerpt": "",
+      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
+      "source": "sortiraparis.com",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=252388",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Qastic creates stacked ADUs for \"alternative approach to small-scale housing\" in Los Angeles",
+      "url": "https://www.dezeen.com/2026/09/10/qastic-asa-plus-accessory-dwelling-unit-qastic-los-angeles/",
+      "excerpt": "Two accessory dwelling units are contained within a double-level, arched metal building, which was created by design-build studo Qastic. The project is located in a residential neighbourhood dominated",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "curved joinery and bold color reframe 1960s apartment in madrid",
+      "url": "https://www.designboom.com/architecture/curved-joinery-bold-color-1960s-apartment-madrid-imperial-alessio-lamarca-marta-ciabattini/",
+      "excerpt": "built-in furniture, curved geometries, and color organize the compact apartment around daily life.\nThe post curved joinery and bold color reframe 1960s apartment in madrid appeared first on designboom",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/madrid-imperial-apartment-renovation-alessio-lamarca-marta-ciabattini-designboom-1200.jpg",
+      "today": true
+    },
     {
       "source": "designboom",
       "cat": "デザイン",
@@ -116,6 +241,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Tejo Engenharia  / SAINZ arquitetura",
+      "url": "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura",
+      "excerpt": "Located in Brasília and designed by Sainz Arquitetura, the Tejo Engineering Office was conceived as a spatial experience shaped through sequence, permanence and materiality.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/52b7/a228/5801/8aa2/3513/large_jpg/tejo-engenharia-sainz-arquitetura_27.jpg?1788826303",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -133,6 +268,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/taschen-national-geographic-the-united-states-of-america-book",
       "excerpt": "‘National Geographic. The United States of America’ captures all 50 states through over 700 images of landscape, leisure, industry and social change",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zkHox5fzh4Trz434j4tSiN-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Sequitur Winery / Observation Studio",
+      "url": "https://www.archdaily.com/1184380/sequitur-winery-observation-studio",
+      "excerpt": "The Etzel Farm sits at a seam between loamy wetland meadows and forested hillsides in the Chehalem Creek Valley, outside Newberg, Oregon, one of the most fecund ribbons of soil for pinot noir vines in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2a70/bed1/7f00/014d/273b/large_jpg/Sequitur_02_ArchDaily.jpg?1788291849",
       "today": true
     },
     {
@@ -174,25 +319,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Jonathan Anderson and Anab Jain among winners of London Design Medal",
-      "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/",
-      "excerpt": "JW Anderson founder Jonathan Anderson has won this year's London Design Medal for his work \"blending high fashion, art and craft\". While Anderson won the London Design Medal, the award scheme's highes",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "AMDL circle plans new public life for milan’s palazzo litta",
-      "url": "https://www.designboom.com/architecture/amdl-circle-public-life-milan-palazzo-litta/",
-      "excerpt": "the strategic plan reorganizes a working baroque palace around exhibitions, offices, new circulation, and the return of its historic garden to public life.\nThe post AMDL circle plans new public life f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/amdl-circle-public-life-milan-palazzo-litta-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -220,26 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183932/hasselt-beguinage-institute-bovenbouw",
       "excerpt": "The Hasselt Beguinage is the largest green public space within the historic town center. Once a secluded sanctuary primarily designed to exclude the city, it now becomes an inviting public space. The ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/94fc/4253/0500/01ca/07f3/large_jpg/BO-DK-HASS-1526-_StijnBollaert-SR.jpg?1787663632",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Stefano Boeri Architetti Wins Competition for Timber Affordable Housing in Ibiza",
-      "url": "https://www.archdaily.com/1184832/stefano-boeri-architetti-wins-competition-for-timber-affordable-housing-in-ibiza",
-      "excerpt": "Stefano Boeri Architetti has won the competition launched by Spain's Entidad Estatal de Vivienda, Casa 47, for a new affordable housing development in Ibiza. Named \"Sa Casa,\" the project proposes appr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/b781/43f9/c501/88fd/1a62/large_jpg/stefano-boeri-architetti-wins-competition-for-timber-affordable-housing-in-ibiza_1.jpg?1788983188",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Ruin House - Nijl a Multigenerational holiday home / Studio Okami Architects",
-      "url": "https://www.archdaily.com/1184725/ruin-house-nijl-a-multigenerational-holiday-home-studio-okami-architects",
-      "excerpt": "Sometimes one comes across a project brief so special that they immediately sense the outcome will be a truly unique dwelling. For this particular assignment, the clients asked the architects to renov",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/e80c/13b9/4100/01df/6dc8/large_jpg/Marc_Goodwin_Archmospheres_23.jpg?1788864616",
       "today": true
     },
     {
