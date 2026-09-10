@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.10  07:47",
+  "fetchedAt": "2026.09.10  12:37",
   "sourceColors": {
     "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "chunichi.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,45 +33,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -86,23 +82,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.10",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
       "today": true
     },
     {
@@ -145,12 +141,107 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットエス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.10",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア - at-s.com",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Oatelier draws on traditional rural architecture for timber home in Slovakia",
+      "url": "https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/",
+      "excerpt": "Local architecture studio Oatelier has completed Husárik Hut, a barn-like timber home in Slovakia that was designed as a contemporary take on the area's traditional shepherd's huts. Perched on a slopi",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "\"In these conditions, how can we be optimistic?\" asks Anab Jain",
+      "url": "https://www.dezeen.com/2026/09/10/anab-jain-superflux-interview/",
+      "excerpt": "Superflux co-founder Anab Jain has been awarded this year's LDF Design Innovation Medal. In this interview, she argues speculative design can still be a source of hope even in dark times. It's yet ano",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "ancient korean hanji paper transformed into sustainable biomaterials at maison&objet 2026",
+      "url": "https://www.designboom.com/design/korean-hanji-paper-sustainable-biomaterial-maison-et-objet-2026/",
+      "excerpt": "korean designers reimagine thousand-year-old hanji mulberry paper into tactile, light-diffusing biomaterial at maison&objet 2026.\nThe post ancient korean hanji paper transformed into sustainable bioma",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kcdf_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Jonathan Anderson and Anab Jain among winners of London Design Medal",
+      "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/",
+      "excerpt": "JW Anderson founder Jonathan Anderson has won this year's London Design Medal for his work \"blending high fashion, art and craft\". While Anderson won the London Design Medal, the award scheme's highes",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "\"Industry in Germany is no longer open to what design can do\" say Currents Berlin organisers",
+      "url": "https://www.dezeen.com/2026/09/10/currents-berlin-interview/",
+      "excerpt": "As Currents festival kicks off in Berlin, founders Laura Ewert and Jasmin Jouhar tell Dezeen why they hope the event will finally bring the local design community the recognition it deserves. Running ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Orms plans to add rooftop swimming pool to London's BT Tower",
+      "url": "https://www.dezeen.com/2026/09/10/bt-tower-renovation-swimming-pool-orms/",
+      "excerpt": "Architecture studio Orms has submitted a planning application to transform the BT Tower in London into a hotel with a rooftop swimming pool for American hotelier MCR. Orms will restore the Grade II-li",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "AMDL circle plans new public life for milan’s palazzo litta",
+      "url": "https://www.designboom.com/architecture/amdl-circle-public-life-milan-palazzo-litta/",
+      "excerpt": "the strategic plan reorganizes a working baroque palace around exhibitions, offices, new circulation, and the return of its historic garden to public life.\nThe post AMDL circle plans new public life f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/amdl-circle-public-life-milan-palazzo-litta-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Moncler just opened its largest-ever global flagship. Take a look inside",
+      "url": "https://www.wallpaper.com/fashion-beauty/moncler-new-york-flagship",
+      "excerpt": "Designed by acclaimed French firm Gilles & Boissier, the new Fifth Avenue store blends the spirit of the mountains with the exhilaration of Manhattan",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LNU8uq2wwKGjiB5PQcAjUU-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Lego teams up with Formula 1 to create new family activities at Billund’s Lego House",
+      "url": "https://www.wallpaper.com/transportation/lego-teams-up-with-formula-1-to-create-new-family-activities-at-billunds-lego-house",
+      "excerpt": "A visit to Lego House kickstarts a brick-built Porsche and a deep dive into the company’s four-wheeled collaborations",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oQJrYaXQEh49ePi5rhSzNW-2392-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Inside this Toronto home, heritage and modern living combine",
+      "url": "https://www.wallpaper.com/architecture/residential/hcd-house-toronto-home-comn-architects-canada",
+      "excerpt": "Blending a sense of history with contemporary functionality, HCD House balances raw and honest materiality with warm joinery",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EHzZ9t5v3Jsei5kALpq98D-2560-80.jpg",
       "today": true
     },
     {
@@ -164,6 +255,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Stefano Boeri Architetti Wins Competition for Timber Affordable Housing in Ibiza",
+      "url": "https://www.archdaily.com/1184832/stefano-boeri-architetti-wins-competition-for-timber-affordable-housing-in-ibiza",
+      "excerpt": "Stefano Boeri Architetti has won the competition launched by Spain's Entidad Estatal de Vivienda, Casa 47, for a new affordable housing development in Ibiza. Named \"Sa Casa,\" the project proposes appr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/b781/43f9/c501/88fd/1a62/large_jpg/stefano-boeri-architetti-wins-competition-for-timber-affordable-housing-in-ibiza_1.jpg?1788983188",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -174,12 +275,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "Lozi designs modular plywood furniture to make the most of compact bedrooms",
-      "url": "https://www.dezeen.com/2026/09/10/lozi-modular-plywood-furniture-compact-bedrooms/",
-      "excerpt": "During this year's London Design Festival, plywood furniture specialist Lozi will debut a modular system, including clean-lined wardrobes and a fold-down bed, that aims to offer an affordable alternat",
+      "title": "Ruin House - Nijl a Multigenerational holiday home / Studio Okami Architects",
+      "url": "https://www.archdaily.com/1184725/ruin-house-nijl-a-multigenerational-holiday-home-studio-okami-architects",
+      "excerpt": "Sometimes one comes across a project brief so special that they immediately sense the outcome will be a truly unique dwelling. For this particular assignment, the clients asked the architects to renov",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/e80c/13b9/4100/01df/6dc8/large_jpg/Marc_Goodwin_Archmospheres_23.jpg?1788864616",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "A Proposal for a New World Map and Two New Sports Complexes: This Week’s Review",
+      "url": "https://www.archdaily.com/1184844/a-proposal-for-a-new-world-map-and-two-new-sports-complexes-this-weeks-review",
+      "excerpt": "This week's stories share a common thread: the value of looking beyond established frameworks. Two French-Moroccan architects reflected on what architecture can learn from Moroccan culture and local k",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/2df3/237b/e901/8be9/62f6/large_jpg/this-weeks-review_10.jpg?1789013503",
       "today": true
     },
     {
@@ -203,12 +315,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "25th edition of Tile of Spain Awards opens for entries",
-      "url": "https://www.dezeen.com/2026/09/10/25th-edition-of-tile-spain-awards-opens-entries/",
-      "excerpt": "Promotion: Tile of Spain has announced its 2026 awards competition, inviting creatives to submit projects that spotlight the innovative use of Spanish ceramics. The annual Tile of Spain Awards in Arch",
+      "title": "Oslo Architecture City Guide: 12 Buildings Contrasting Historic and Contemporary Design",
+      "url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design",
+      "excerpt": "Oslo is the capital of Norway as well as its largest city, serving as the country's political, economic, and cultural center. Nestled at the head of the Oslofjord and surrounded by forested hills, it'",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/4082/875c/6501/89ea/b615/large_jpg/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design_16.jpg?1788887186",
       "today": true
     },
     {
@@ -222,36 +335,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "cut, rotated, and suspended concrete pipes create reusable pavilion in mumbai",
-      "url": "https://www.designboom.com/architecture/cut-rotated-suspended-concrete-pipes-reusable-pavilion-mumbai/",
-      "excerpt": "longitudinal cuts transform cylindrical pipes into curved architectural elements.\nThe post cut, rotated, and suspended concrete pipes create reusable pavilion in mumbai appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/re-concrete-pipes-reusable-pavilion-mumbai-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "WA SSL House / AZAZ Architects",
-      "url": "https://www.archdaily.com/1184767/wa-ssl-house-azaz-architects",
-      "excerpt": "Wa ssl, meaning connection, is a private retreat designed by Azaz Architects and constructed by LayCon, located dramatically on the edge of a cliff overlooking the Alwasseel valley in Al Jubaylah. The",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/1fb3/13b9/4100/01df/6fd1/large_jpg/Stone_House_01.jpg?1788878860",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "When Security Becomes Part of the Architecture",
-      "url": "https://www.archdaily.com/1042358/designing-thresholds-how-architecture-shapes-the-sense-of-security-at-home",
-      "excerpt": "What transforms a space of living into a home? Beyond ownership or shelter, a home is tied to a quieter sense of certainty: the feeling that one can retreat, rest, and momentarily step away from the w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a2a/5e60/aa48/ad01/89b7/c072/large_jpg/designing-the-threshold-how-architecture-shapes-the-sense-of-security-at-home_4.jpg?1781161584",
-      "today": true
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -262,16 +345,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Huizhou Vernacular Historic Bridges Micro-Museum / LUO studio",
-      "url": "https://www.archdaily.com/1184712/huizhou-vernacular-historic-bridges-micro-museum-luo-studio",
-      "excerpt": "Following the Sandstone Wood Pavilion designed for the \"HU SHI GUANG · Art Eco Site\" program in Longyou, Zhejiang, we were once again invited by Fengyuzhu—this time to engage in a regional-scale curat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/e023/5c4d/8601/88ab/777e/large_jpg/huizhou-vernacular-historic-bridges-micro-museum-luo-studio_1.jpg?1788862543",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.09",
@@ -279,83 +352,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/seiko-marks-the-anniversary-of-the-honda-motocompo-a-weird-and-wonderful-folding-motorbike",
       "excerpt": "It’s long been the case that watches and cars have gone hand in hand. But sometimes the associations are more nerdy and small-scale – take Seiko's new watch, released to mark the anniversary of the Ho",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/iwY98BR6uTemsiHhkxW3WD-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "inside the serpentine world of javier senosiain’s quetzalcóatl park",
-      "url": "https://www.designboom.com/architecture/inside-the-serpentine-world-of-javier-senosiains-quetzalcoatl-park/",
-      "excerpt": "on every twist and turn, this park in naucalpan is a rainbow-filled display of the mexican architect's fluid and imaginative design style. \nThe post inside the serpentine world of javier senosiain’s q",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/senosiain-quetzalcoatl-designboom-11.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Tactile wallcoverings have become a \"defining force\" in luxury interiors says Selected Wallpapers",
-      "url": "https://www.dezeen.com/2026/09/09/tactile-wallcoverings-luxury-interiors-selected-wallpapers/",
-      "excerpt": "Promotion: according to wallpaper specialist Selected Wallpapers, wallcoverings are increasingly equipped with woven, sound-absorbing and embossed qualities, which is changing \"what a wall is asked to",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Apple folds and follows the new high-end smartphone format. Meet the Apple iPhone Duo",
-      "url": "https://www.wallpaper.com/tech/apple-iphone-duo-18-pro-max",
-      "excerpt": "Alongside its first folding flagship, Apple’s 2026 September Event saw the debut of the iPhone 18 Pro and 18 Pro Max, new AirPods 5, Apple Watch Series 12 and Ultra 4",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BvtdE63UtMEwueGAg2qEg6-2276-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "2026 London Design Medals winners ‘demonstrate the transformative power of design’",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-medals-2026",
-      "excerpt": "The London Design Medals 2026 are awarded to Jonathan Anderson, Sir Christopher Frayling, Anab Jain and Solveiga Pakštaitė",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/totpFYzEKFFYkqtJScrc35-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "House in Los Cóndores / Malachowski Arquitectos",
-      "url": "https://www.archdaily.com/1184743/house-in-los-condores-malachowski-arquitectos",
-      "excerpt": "This single-family home in Los Cóndores, on the outskirts of Lima, is born from a clear decision: to let the slope of the site organize the project. The result is a sequence of platforms, roofs, and o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/beff/15d8/6f00/01a2/f654/large_jpg/33.jpg?1788788573",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Apple releases its first folding smartphone with \"size of a passport\"",
-      "url": "https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/",
-      "excerpt": "Technology company Apple has released its first folding smartphone that has the largest screen of any iPhone. Called iPhone Duo, the phone is the first folding-screen device in Apple's product lineup.",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Casalgrande Padana lists five of its tile designs on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/09/09/casalgrande-padana-porcelain-tiles-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Italian tile brand Casalgrande Padana has advertised a selection of its latest tiles on Dezeen Showroom, showing the varied and expressive potential of porcelain stoneware. Among the ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.09",
-      "title": "Inside Buccellati’s decadent new Milanese caviar bar",
-      "url": "https://www.wallpaper.com/travel/restaurants/buccellati-caviar-bar-palazzo-gavazzi-milan",
-      "excerpt": "Chahan Minassian lines the private client salon at Palazzo Gavazzi with copper-toned mirrors, Fortuny fabrics and Murano chandeliers",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4n3WNbNPSCDGVAV3DKTH8n-1600-80.jpg",
       "today": false
     },
     {
