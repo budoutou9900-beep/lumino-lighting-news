@@ -1,27 +1,27 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.10  19:26",
+  "fetchedAt": "2026.09.10  22:11",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "sortiraparis.com": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "sortiraparis.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ozmall.co.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -86,13 +86,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.10",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.10",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -136,7 +145,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.10",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -151,6 +160,26 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Henry Zankov on his Diane von Furstenberg debut: ‘It’s all about body language’",
+      "url": "https://www.wallpaper.com/fashion-beauty/diane-von-furstenberg-ss-2027-henry-zankov-debut-interview",
+      "excerpt": "Movement was at the heart of Henry Zankov’s first collection for Diane von Furstenberg, which sought to capture its namesake designer’s liberatory spirit",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sJW3RtAjpBMLg223gpcUeC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "building a life in virtual worlds: the places we inhabit and lose",
+      "url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
+      "excerpt": "from minecraft shelters and animal crossing islands to VR bedrooms and contested digital real estate, video games have become places where people build a sense of home.\nThe post building a life in vir",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-07.jpg",
       "today": true
     },
     {
@@ -209,6 +238,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
       "excerpt": "As part of London Design Festival, ‘Progressive Permanence’ by Max Radford Gallery and Christopher Farr creates new dialogues between art, craft and design – and puts forward the masterpieces of the f",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1024-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Casa Malonic / HW-STUDIO",
+      "url": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
+      "excerpt": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/d539/43f9/c523/bff9/d978/large_jpg/casa-malonic-hw-studio_19.jpg?1789056345",
       "today": true
     },
     {
@@ -299,16 +338,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "ancient korean hanji paper transformed into sustainable biomaterials at maison&objet 2026",
-      "url": "https://www.designboom.com/design/korean-hanji-paper-sustainable-biomaterial-maison-et-objet-2026/",
-      "excerpt": "korean designers reimagine thousand-year-old hanji mulberry paper into tactile, light-diffusing biomaterial at maison&objet 2026.\nThe post ancient korean hanji paper transformed into sustainable bioma",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kcdf_designboom_facebook.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -319,33 +348,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Moncler just opened its largest-ever global flagship. Take a look inside",
-      "url": "https://www.wallpaper.com/fashion-beauty/moncler-new-york-flagship",
-      "excerpt": "Designed by acclaimed French firm Gilles & Boissier, the new Fifth Avenue store blends the spirit of the mountains with the exhilaration of Manhattan",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LNU8uq2wwKGjiB5PQcAjUU-2000-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
-      "title": "Digital Worlds and the Limits of Frictionless Space: Rethinking Scale and Materiality",
-      "url": "https://www.archdaily.com/1184807/digital-worlds-and-the-limits-of-frictionless-space-rethinking-scale-and-materiality",
-      "excerpt": "Historically, the way we design has been closely linked to the way we build. Architecture moved through physical testing, trial and error, projection drawings, mock-ups, and physical models: each intr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/2d41/237b/e901/8be9/6044/large_jpg/digital-worlds-and-the-limits-of-frictionless-space-rethinking-scale-and-materiality_1.jpg?1788947783",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Hasselt Beguinage Institute / Bovenbouw",
-      "url": "https://www.archdaily.com/1183932/hasselt-beguinage-institute-bovenbouw",
-      "excerpt": "The Hasselt Beguinage is the largest green public space within the historic town center. Once a secluded sanctuary primarily designed to exclude the city, it now becomes an inviting public space. The ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/94fc/4253/0500/01ca/07f3/large_jpg/BO-DK-HASS-1526-_StijnBollaert-SR.jpg?1787663632",
+      "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, and Events",
+      "url": "https://www.archdaily.com/1184851/national-open-competition-for-architecture-urbanism-and-landscape-architecture-for-the-ufc-center-for-arts-culture-and-events",
+      "excerpt": "The Federal University of Ceará (UFC), in partnership with the Institute of Architects of Brazil – Ceará Department (IAB/CE), has launched the National Public Competition for Architecture, Urbanism, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/6a88/05b6/9900/01b5/3732/large_jpg/CACE__banner_site_DN_2560_x_1059_.jpg?1789029011",
       "today": true
     },
     {
