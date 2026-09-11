@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.11  00:46",
+  "fetchedAt": "2026.09.11  05:32",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "アットエス": {
+    "sortiraparis.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "KNB WEB": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -72,11 +72,15 @@ window.LUMINO_DATA = {
     "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "照明学会": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.09.11",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -96,6 +100,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "url": "https://www.fashion-press.net/news/138846",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "today": true
+    },
+    {
+      "source": "sortiraparis.com",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
@@ -106,13 +139,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -125,32 +167,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.11",
-      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
-      "url": "https://www.fashion-press.net/news/140039",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/140039/top.jpg?1762513325",
+      "title": "Is this former prison Japan’s most unusual luxury stay?",
+      "url": "https://www.wallpaper.com/travel/hotels/hoshinoya-nara-prison-review",
+      "excerpt": "A landmark Great Meiji Prison reopens as a 48-suite Hoshinoya hotel, with its cells, barred windows and Romanesque architecture intact",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oKnTXchrkvSQc5mzJW58c-2560-80.jpg",
       "today": true
     },
     {
-      "source": "KNB WEB",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.11",
-      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
-      "url": "https://www.knb.ne.jp/nannan/6857/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.11",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "title": "colorful oil paintings capture quiet scenes of everyday japan",
+      "url": "https://www.designboom.com/art/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko/",
+      "excerpt": "through simplified colors and forms, naru hiko’s oil paintings invite viewers to see familiar everyday landscapes in japan with fresh eyes.\nThe post colorful oil paintings capture quiet scenes of ever",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -171,6 +204,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
       "excerpt": "from minecraft shelters and animal crossing islands to VR bedrooms and contested digital real estate, video games have become places where people build a sense of home.\nThe post building a life in vir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-07.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Cholán Nests House / La Cabina de la Curiosidad",
+      "url": "https://www.archdaily.com/1184903/cholan-nests-house-la-cabina-de-la-curiosidad",
+      "excerpt": "The original house is a simple construction in the rural area of Perucho (35 km from Quito), with a block structure and walls, which was initially planned as a storage room. Over time, it was graduall",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/dc66/43f9/c52e/5503/ec36/large_jpg/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad_2.jpg?1789058167",
       "today": false
     },
     {
@@ -271,16 +314,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "light-absorbing fabric creates monumental black square in utah’s white salt flats",
-      "url": "https://www.designboom.com/art/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light/",
-      "excerpt": "gregory orekhov’s shadow of light site-specific installation introduces a dark geometric form into the landscape.\nThe post light-absorbing fabric creates monumental black square in utah’s white salt f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -298,16 +331,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/tschabalala-selfs-lady-in-blue-towers-over-trafalgar-square",
       "excerpt": "The American artist brings a monumental ‘everywoman’ to London’s Fourth Plinth with ‘Lady in Blue’, a celebration of ambition, purpose and everyday life",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BVH7fBGBhA8V6cXmPe9HKV-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Taschen celebrates America’s 250th anniversary with a colossal new book",
-      "url": "https://www.wallpaper.com/travel/taschen-national-geographic-the-united-states-of-america-book",
-      "excerpt": "‘National Geographic. The United States of America’ captures all 50 states through over 700 images of landscape, leisure, industry and social change",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zkHox5fzh4Trz434j4tSiN-1600-80.jpg",
       "today": false
     },
     {
@@ -336,16 +359,6 @@ window.LUMINO_DATA = {
       "title": "\"In these conditions, how can we be optimistic?\" asks Anab Jain",
       "url": "https://www.dezeen.com/2026/09/10/anab-jain-superflux-interview/",
       "excerpt": "Superflux co-founder Anab Jain has been awarded this year's LDF Design Innovation Medal. In this interview, she argues speculative design can still be a source of hope even in dark times. It's yet ano",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Sejaca House / G+A Architect",
-      "url": "https://www.archdaily.com/1184618/sejaca-house-g-plus-a-architect",
-      "excerpt": "The house rises on a green hill, built entirely of red brick and concrete that give it a strong architectural character and a natural connection to the surrounding landscape. Its form is cubic and cle",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6ae6/15d8/6f00/01a2/f3b7/large_jpg/Sejaca_House_3.jpg?1788701440",
       "today": false
     },
     {
@@ -505,6 +518,15 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/img/office01.webp",
+      "today": false
+    },
+    {
+      "source": "照明学会",
+      "cat": "国内情報",
+      "date": "2026.07.31",
+      "title": "照明学会全国大会（9/15-17奈良女子大学）",
+      "url": "https://www.ieij.or.jp/event/annualconfer.html",
+      "excerpt": "",
       "today": false
     },
     {
