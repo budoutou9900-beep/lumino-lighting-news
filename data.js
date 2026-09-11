@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.10  22:11",
+  "fetchedAt": "2026.09.11  00:46",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "sortiraparis.com": {
+    "アットエス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "KNB WEB": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.10",
+      "date": "2026.09.11",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -88,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.10",
+      "date": "2026.09.11",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -96,38 +96,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.10",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.10",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
-      "today": true
-    },
-    {
-      "source": "sortiraparis.com",
-      "cat": "展示・アート",
-      "date": "2026.09.10",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.10",
+      "date": "2026.09.11",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -135,31 +106,51 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.09.10",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
+      "date": "2026.09.11",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.10",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
       "today": true
     },
     {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.09.10",
+      "date": "2026.09.11",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
+      "url": "https://www.fashion-press.net/news/140039",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/140039/top.jpg?1762513325",
+      "today": true
+    },
+    {
+      "source": "KNB WEB",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://www.knb.ne.jp/nannan/6857/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=256739",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
       "today": true
     },
     {
@@ -170,7 +161,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/diane-von-furstenberg-ss-2027-henry-zankov-debut-interview",
       "excerpt": "Movement was at the heart of Henry Zankov’s first collection for Diane von Furstenberg, which sought to capture its namesake designer’s liberatory spirit",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sJW3RtAjpBMLg223gpcUeC-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -180,7 +171,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
       "excerpt": "from minecraft shelters and animal crossing islands to VR bedrooms and contested digital real estate, video games have become places where people build a sense of home.\nThe post building a life in vir",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-07.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -189,7 +180,7 @@ window.LUMINO_DATA = {
       "title": "Qastic creates stacked ADUs for \"alternative approach to small-scale housing\" in Los Angeles",
       "url": "https://www.dezeen.com/2026/09/10/qastic-asa-plus-accessory-dwelling-unit-qastic-los-angeles/",
       "excerpt": "Two accessory dwelling units are contained within a double-level, arched metal building, which was created by design-build studo Qastic. The project is located in a residential neighbourhood dominated",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -199,7 +190,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/curved-joinery-bold-color-1960s-apartment-madrid-imperial-alessio-lamarca-marta-ciabattini/",
       "excerpt": "built-in furniture, curved geometries, and color organize the compact apartment around daily life.\nThe post curved joinery and bold color reframe 1960s apartment in madrid appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/madrid-imperial-apartment-renovation-alessio-lamarca-marta-ciabattini-designboom-1200.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.10",
+      "title": "Santa Cruz School Kindergarten / Andrade Morettin Arquitetos Associados",
+      "url": "https://www.archdaily.com/1184838/santa-cruz-school-kindergarten-andrade-morettin-arquitetos-associados",
+      "excerpt": "The proximity to the main school campus and the site's orientation toward the Marginal Pinheiros expressway were defining factors in the design strategy for the new kindergarten. Access is planned fro",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/b7d4/05b6/9900/01b5/3668/large_jpg/Nelson_Kon_01K_9360_06.jpg?1788983329",
+      "today": false
     },
     {
       "source": "designboom",
@@ -209,7 +210,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/community-cultural-hub-permanent-home-black-creative-education-new-orleans/",
       "excerpt": "the black school creates a permanent space for creative education, neighborhood gathering, and black self-determination shaped through 18 months of community design research.\nThe post community-led cu",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/community-cultural-hub-permanent-home-black-creative-education-new-orleans-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -219,7 +220,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/bwgtbld-office-gallery-berlin-germany",
       "excerpt": "The BWGTBLD office, the headquarters of Philipp Ramhofer's production company in Berlin, becomes an art gallery and a celebration of creative endeavour when the business invites the public in",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fB2is3sfY5DgYsvdMfU49S-1259-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -228,7 +229,7 @@ window.LUMINO_DATA = {
       "title": "Reimagining of historic Bristol boatyard among Cardiff University projects",
       "url": "https://www.dezeen.com/2026/09/10/reimagining-historic-bristol-boatyard-cardiff-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a \"cohesive yet layered industrial cluster\" of boatyard buildings on Bristol's harbourside is among the architecture projects from Cardiff University. Also featured is the concept",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -238,7 +239,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
       "excerpt": "As part of London Design Festival, ‘Progressive Permanence’ by Max Radford Gallery and Christopher Farr creates new dialogues between art, craft and design – and puts forward the masterpieces of the f",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1024-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -248,7 +249,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
       "excerpt": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almo",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/d539/43f9/c523/bff9/d978/large_jpg/casa-malonic-hw-studio_19.jpg?1789056345",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -257,7 +258,7 @@ window.LUMINO_DATA = {
       "title": "2,977 drones used to recreate Twin Towers for 9/11 anniversary",
       "url": "https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/",
       "excerpt": "Design studio Drift and architect Shigeru Ban have worked to recreate the Twin Towers with lighted drones for the 25th anniversary of 9/11, with each light representing a life lost in the World Trade ",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -267,7 +268,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/gerhard-richter-hexagonal-doha-pavilion-strip-paintings-qatar-sellforf/",
       "excerpt": "a digital experiment begun more than a decade ago expands across the walls and interior of gerhard richter’s new pavilion in doha, qatar.\nThe post artist gerhard richter designs hexagonal doha pavilio",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/selldorf-architects-doha-pavilion-gerhard-richter-designboom-qatar-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -277,7 +278,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light/",
       "excerpt": "gregory orekhov’s shadow of light site-specific installation introduces a dark geometric form into the landscape.\nThe post light-absorbing fabric creates monumental black square in utah’s white salt f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/light-absorbing-fabric-monumental-black-square-utah-white-salt-flats-gregory-orekhov-shadow-of-light-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -287,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura",
       "excerpt": "Located in Brasília and designed by Sainz Arquitetura, the Tejo Engineering Office was conceived as a spatial experience shaped through sequence, permanence and materiality.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/52b7/a228/5801/8aa2/3513/large_jpg/tejo-engenharia-sainz-arquitetura_27.jpg?1788826303",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -297,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/tschabalala-selfs-lady-in-blue-towers-over-trafalgar-square",
       "excerpt": "The American artist brings a monumental ‘everywoman’ to London’s Fourth Plinth with ‘Lady in Blue’, a celebration of ambition, purpose and everyday life",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BVH7fBGBhA8V6cXmPe9HKV-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -307,7 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/taschen-national-geographic-the-united-states-of-america-book",
       "excerpt": "‘National Geographic. The United States of America’ captures all 50 states through over 700 images of landscape, leisure, industry and social change",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zkHox5fzh4Trz434j4tSiN-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -317,7 +318,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184380/sequitur-winery-observation-studio",
       "excerpt": "The Etzel Farm sits at a seam between loamy wetland meadows and forested hillsides in the Chehalem Creek Valley, outside Newberg, Oregon, one of the most fecund ribbons of soil for pinot noir vines in",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2a70/bed1/7f00/014d/273b/large_jpg/Sequitur_02_ArchDaily.jpg?1788291849",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -326,7 +327,7 @@ window.LUMINO_DATA = {
       "title": "Oatelier draws on traditional rural architecture for timber home in Slovakia",
       "url": "https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/",
       "excerpt": "Local architecture studio Oatelier has completed Husárik Hut, a barn-like timber home in Slovakia that was designed as a contemporary take on the area's traditional shepherd's huts. Perched on a slopi",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -335,7 +336,7 @@ window.LUMINO_DATA = {
       "title": "\"In these conditions, how can we be optimistic?\" asks Anab Jain",
       "url": "https://www.dezeen.com/2026/09/10/anab-jain-superflux-interview/",
       "excerpt": "Superflux co-founder Anab Jain has been awarded this year's LDF Design Innovation Medal. In this interview, she argues speculative design can still be a source of hope even in dark times. It's yet ano",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -345,17 +346,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184618/sejaca-house-g-plus-a-architect",
       "excerpt": "The house rises on a green hill, built entirely of red brick and concrete that give it a strong architectural character and a natural connection to the surrounding landscape. Its form is cubic and cle",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6ae6/15d8/6f00/01a2/f3b7/large_jpg/Sejaca_House_3.jpg?1788701440",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, and Events",
-      "url": "https://www.archdaily.com/1184851/national-open-competition-for-architecture-urbanism-and-landscape-architecture-for-the-ufc-center-for-arts-culture-and-events",
-      "excerpt": "The Federal University of Ceará (UFC), in partnership with the Institute of Architects of Brazil – Ceará Department (IAB/CE), has launched the National Public Competition for Architecture, Urbanism, a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/6a88/05b6/9900/01b5/3732/large_jpg/CACE__banner_site_DN_2560_x_1059_.jpg?1789029011",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -365,7 +356,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/182",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/182/04.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -544,26 +535,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.07.28",
-      "title": "カタログ「EXTERIOR LIGHTING vol.2」を公開しました。",
-      "url": "https://src.lighting-daiko.co.jp/iportal/CatalogSearch.do?method=catalogSearchByDefaultSettingCategories&volumeID=DIK00003&designID=DKDDPC01",
-      "excerpt": "",
-      "thumbnailUrl": "https://src.lighting-daiko.co.jp/iportal/designCustomize/type_DKDDPC01/images/text_skip_top.gif",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.07.28",
-      "title": "Pro's Way 住宅照明のヒミツを更新しました。",
-      "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol52.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
       "today": false
     }
   ]
