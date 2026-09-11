@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.11  18:06",
+  "fetchedAt": "2026.09.11  21:31",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "アットエス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "レッツエンジョイ東京": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -100,19 +100,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.11",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -167,6 +158,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "レッツエンジョイ東京",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
+      "url": "https://www.enjoytokyo.jp/event/2072456/",
+      "excerpt": "",
+      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof in ecuador",
+      "url": "https://www.designboom.com/architecture/cabina-curiosidad-timber-nests-eucalyptus-roof-ecuador-cholan/",
+      "excerpt": "an elevated eucalyptus structure brings bedrooms and daylight above the retained block walls of this perucho home.\nThe post la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof i",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -183,6 +194,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/georgia-okeeffe-architecture-detroit-institute-of-arts",
       "excerpt": "‘Georgia O’Keeffe: Architecture,’ is a first-of-its kind exhibition exploring the artist’s long fascination with the built environment, from dreamy cityscapes to vernacular buildings",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/skmmK6bDFmMsuSupngMFMX-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "3D printing, AI and reused objects form a bathing prototype for year 2050",
+      "url": "https://www.designboom.com/readers/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens/",
+      "excerpt": "reused industrial objects and digital fabrication form a new architectural system.\nThe post 3D printing, AI and reused objects form a bathing prototype for year 2050 appeared first on designboom | arc",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Casa Rosabaya / Arkina",
+      "url": "https://www.archdaily.com/1184902/casa-rosabaya-arkina",
+      "excerpt": "Casa Rosabaya began as a geometry constraint: twelve bedrooms, every one of them facing the water, on a lot with only 37 meters of sea frontage.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/d926/05b6/9900/01b5/3a3b/large_jpg/20210318-Arkina-Rosabaya-Victor-Stonem-76.jpg?1789057367",
       "today": true
     },
     {
@@ -224,6 +255,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "RP02 House / Cornetta Arquitetura",
+      "url": "https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura",
+      "excerpt": "The RP02 House stems from an unusual premise in residential design: utilizing industrialized systems, typically found in large-scale construction, as the foundation for a 2,700-square-foot (250 m²) ho",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/1ee5/15d8/6f00/01a2/f300/large_jpg/casas_minimalistas_fachadas_concreto_estrutura_metalica_pre_fabricadas_industrial.jpg?1788550902",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -249,7 +290,6 @@ window.LUMINO_DATA = {
       "title": "‘less materiality means more humanity’: philippe starck on the designeuropa lifetime award",
       "url": "https://www.designboom.com/design/philippe-starck-designeuropa-lifetime-award-interview/",
       "excerpt": "philippe starck discusses dematerialization and the future of design as the lucrative of the designeuropa lifetime achievement award 2026.\nThe post ‘less materiality means more humanity’: philippe sta",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/OTS-FB.jpg",
       "today": true
     },
     {
@@ -321,46 +361,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "MAD Reveals Design to Transform 1923 Warehouse Into Danshuis in Rotterdam",
-      "url": "https://www.archdaily.com/1184920/mad-reveals-design-to-transform-1923-warehouse-into-danshuis-in-rotterdam",
-      "excerpt": "MAD, the architecture studio founded by Ma Yansong, has revealed the designs for Danshuis, a new dance center planned for Rotterdam, the Netherlands. Located on a landmark site in the city's historic ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/1437/237b/e901/8be9/668a/large_jpg/mad-reveals-design-to-transform-1923-warehouse-into-danshuis-in-rotterdam_4.jpg?1789072450",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "inside tom sachs’ handmade ’31 rue cambon’, plywood becomes chanel couture",
-      "url": "https://www.designboom.com/art/tom-sachs-handmade-31-rue-cambon-plywood-chanel-couture-flagship-new-york/",
-      "excerpt": "thirty-one plywood suits fill tom sachs’ handmade version of chanel’s historic paris address in downtown new york.\nThe post inside tom sachs’ handmade ’31 rue cambon’, plywood becomes chanel couture a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tom-sachs-rue-cambon-new-york-chanel-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Residential House in Lower Pavilnys, Vilnius / Inblum Architects",
-      "url": "https://www.archdaily.com/1184858/residential-house-in-lower-pavilnys-vilnius-inblum-architects",
-      "excerpt": "The house is located in Lower Pavilnys, one of Vilnius' most distinctive neighborhoods, where rolling topography and mature woodland define the unique character of the place.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/b971/05b6/9900/01b5/37a4/large_jpg/Low_res___Aiste_Rakauskaite-13.jpg?1789049246",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "colorful oil paintings capture quiet scenes of everyday japan",
-      "url": "https://www.designboom.com/art/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko/",
-      "excerpt": "through simplified colors and forms, NARUHIKO’s oil paintings invite viewers to see familiar everyday landscapes in japan with fresh eyes.\nThe post colorful oil paintings capture quiet scenes of every",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -387,7 +387,6 @@ window.LUMINO_DATA = {
       "title": "納入事例に「千葉神社参集殿増改築」を追加しました。",
       "url": "https://www.dnlighting.co.jp/case/detail/191",
       "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/191/chiba_jinja_031.jpg",
       "today": false
     },
     {
