@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.11  05:32",
+  "fetchedAt": "2026.09.11  10:27",
   "sourceColors": {
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "sortiraparis.com": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,39 +29,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -80,7 +80,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.11",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -100,15 +100,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.11",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.11",
@@ -119,7 +110,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.11",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -132,7 +123,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
@@ -142,7 +133,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
@@ -167,6 +158,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "‘less materiality means more humanity’: philippe starck on the designeuropa lifetime award",
+      "url": "https://www.designboom.com/design/philippe-starck-designeuropa-lifetime-award-interview/",
+      "excerpt": "philippe starck discusses dematerialization and the future of design as the lucrative of the designeuropa lifetime achievement award 2026.\nThe post ‘less materiality means more humanity’: philippe sta",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/OTS-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "How London designers are making it work",
+      "url": "https://www.dezeen.com/2026/09/11/london-designers-making-it-work/",
+      "excerpt": "London may have a lot to shout about design-wise, but is it actually possible to survive as a creative in one of the world's most expensive cities? Ahead of London Design Festival, we spoke to five lo",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
+      "url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
+      "excerpt": "set on the steep slopes of banyalbufar, the family home turns the practical difficulties of building in a remote village into part of its architecture.\nThe post KOSMOS transforms mallorcan townhouse b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Cattle armchair by Gibson Karlo for Design By Them",
+      "url": "https://www.dezeen.com/2026/09/11/cattle-chair-gibson-karlo-design-by-them-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: the rugged aesthetic of the Australian outback meets the sophistication of contemporary design in the Cattle armchair, created by Gibson Karlo for the brand Design By Them. Karlo took",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Our thoughts on the Dyson CameraJet toothbrush",
+      "url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
+      "excerpt": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "compact forest cabin by wiki world takes shape as a red wooden submarine",
+      "url": "https://www.designboom.com/architecture/compact-forest-cabin-wiki-world-red-wooden-submarine-china/",
+      "excerpt": "the elevated structure allows the woodland to remain continuous beneath the house.\nThe post compact forest cabin by wiki world takes shape as a red wooden submarine appeared first on designboom | arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/red-submarine-cabin-wiki-world-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Read LDF edition of Dezeen Dispatch online now!",
+      "url": "https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/",
+      "excerpt": "Dezeen is back in print! A special London Design Festival edition of Dezeen Dispatch will be available at locations across the city during the event. Everyone else can read a digital version here. Wri",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Craft x Tech finds \"point of connection\" between Japanese craftsmanship and global design",
+      "url": "https://www.dezeen.com/2026/09/11/craft-x-tech-japanese-crafts-london-design-festival/",
+      "excerpt": "The Craft x Tech exhibition at the V&A will see artisans from Japan's Tokai region collaborate with international designers, including Philippe Malouin and Bethan Laura Wood, for London Design Festiva",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Explore this pop-up library dedicated to queer creativity in London",
+      "url": "https://www.wallpaper.com/design-interiors/london-design-festival-brompton-reading-room-alex-tieghi-walker-books",
+      "excerpt": "At London Design Festival 2026, Alex Tieghi-Walker presents The Reading Room (part of his wider curation for the Brompton Design District), dedicated to queer design, creativity and cultural history i",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KGQPKmwDrwaNk4LjEsVpMC-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "inside tom sachs’ handmade ’31 rue cambon’, plywood becomes chanel couture",
+      "url": "https://www.designboom.com/art/tom-sachs-handmade-31-rue-cambon-plywood-chanel-couture-flagship-new-york/",
+      "excerpt": "thirty-one plywood suits fill tom sachs’ handmade version of chanel’s historic paris address in downtown new york.\nThe post inside tom sachs’ handmade ’31 rue cambon’, plywood becomes chanel couture a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tom-sachs-rue-cambon-new-york-chanel-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -174,6 +260,36 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/hoshinoya-nara-prison-review",
       "excerpt": "A landmark Great Meiji Prison reopens as a 48-suite Hoshinoya hotel, with its cells, barred windows and Romanesque architecture intact",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oKnTXchrkvSQc5mzJW58c-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Structures of Memory: 5 Unbuilt Projects on Heritage from the ArchDaily Community",
+      "url": "https://www.archdaily.com/1184837/structures-of-memory-5-unbuilt-projects-on-heritage-from-the-archdaily-community",
+      "excerpt": "In broad terms, a structure is a testament to its time. An architectural project's proposal and material scale often exceed the lifespan of a single human being, becoming, in this way, part of a histo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/c052/237b/e901/8be9/6273/large_jpg/_21.jpg?1788985447",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Dookkuubi Jib Toad House / NOMAL + ONJIUM Housing Studio",
+      "url": "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
+      "excerpt": "\"Toad, oh toad, take the old house and give me a new one.\" An English husband and a Korean wife, living in Dubai, decided to build a home in Seochon. Having spent many years outside Korea, the hanok w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/be4c/237b/e92d/dc07/1f17/large_jpg/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio_3.jpg?1789050464",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Barefoot Dreams House / Ameet Mirpuri Design Studio",
+      "url": "https://www.archdaily.com/1184861/barefoot-dreams-house-ameet-mirpuri-design-studio",
+      "excerpt": "A contemporary retreat where architecture, landscape, and nature exist as one. Nestled within the lush coastal landscape of Morjim, Goa, India, Barefoot Dreams is a contemporary holiday home that embr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/bad7/05b6/9900/01b5/3804/large_jpg/Ameet_Goa_Pilot_house-11.jpg?1789049676",
       "today": true
     },
     {
@@ -187,6 +303,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Luxelakes - CorNori Commercial Park / Atelier OO",
+      "url": "https://www.archdaily.com/1184772/luxelakes-cornori-commercial-park-atelier-oo",
+      "excerpt": "At REDSTONE Park, the first thing you see is the canopy. It spreads across CorNori, set within a terraced sunken park at LUXELAKES, Chengdu: a nearly ten-metre change in level is negotiated by gently ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/32af/a228/5801/8aa2/38cf/large_jpg/luxelakes-cornori-commercial-park-atelier-oo_1.jpg?1788883652",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -194,16 +320,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/diane-von-furstenberg-ss-2027-henry-zankov-debut-interview",
       "excerpt": "Movement was at the heart of Henry Zankov’s first collection for Diane von Furstenberg, which sought to capture its namesake designer’s liberatory spirit",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sJW3RtAjpBMLg223gpcUeC-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "building a life in virtual worlds: the places we inhabit and lose",
-      "url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
-      "excerpt": "from minecraft shelters and animal crossing islands to VR bedrooms and contested digital real estate, video games have become places where people build a sense of home.\nThe post building a life in vir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-07.jpg",
       "today": false
     },
     {
@@ -217,45 +333,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Qastic creates stacked ADUs for \"alternative approach to small-scale housing\" in Los Angeles",
-      "url": "https://www.dezeen.com/2026/09/10/qastic-asa-plus-accessory-dwelling-unit-qastic-los-angeles/",
-      "excerpt": "Two accessory dwelling units are contained within a double-level, arched metal building, which was created by design-build studo Qastic. The project is located in a residential neighbourhood dominated",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "curved joinery and bold color reframe 1960s apartment in madrid",
-      "url": "https://www.designboom.com/architecture/curved-joinery-bold-color-1960s-apartment-madrid-imperial-alessio-lamarca-marta-ciabattini/",
-      "excerpt": "built-in furniture, curved geometries, and color organize the compact apartment around daily life.\nThe post curved joinery and bold color reframe 1960s apartment in madrid appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/madrid-imperial-apartment-renovation-alessio-lamarca-marta-ciabattini-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Santa Cruz School Kindergarten / Andrade Morettin Arquitetos Associados",
-      "url": "https://www.archdaily.com/1184838/santa-cruz-school-kindergarten-andrade-morettin-arquitetos-associados",
-      "excerpt": "The proximity to the main school campus and the site's orientation toward the Marginal Pinheiros expressway were defining factors in the design strategy for the new kindergarten. Access is planned fro",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/b7d4/05b6/9900/01b5/3668/large_jpg/Nelson_Kon_01K_9360_06.jpg?1788983329",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "community-led cultural hub provides permanent home for black creative education in new orleans",
-      "url": "https://www.designboom.com/architecture/community-cultural-hub-permanent-home-black-creative-education-new-orleans/",
-      "excerpt": "the black school creates a permanent space for creative education, neighborhood gathering, and black self-determination shaped through 18 months of community design research.\nThe post community-led cu",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/community-cultural-hub-permanent-home-black-creative-education-new-orleans-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.10",
@@ -263,15 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/bwgtbld-office-gallery-berlin-germany",
       "excerpt": "The BWGTBLD office, the headquarters of Philipp Ramhofer's production company in Berlin, becomes an art gallery and a celebration of creative endeavour when the business invites the public in",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fB2is3sfY5DgYsvdMfU49S-1259-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Reimagining of historic Bristol boatyard among Cardiff University projects",
-      "url": "https://www.dezeen.com/2026/09/10/reimagining-historic-bristol-boatyard-cardiff-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a \"cohesive yet layered industrial cluster\" of boatyard buildings on Bristol's harbourside is among the architecture projects from Cardiff University. Also featured is the concept",
       "today": false
     },
     {
@@ -285,80 +353,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
+      "source": "遠藤照明",
+      "cat": "国内情報",
       "date": "2026.09.10",
-      "title": "Casa Malonic / HW-STUDIO",
-      "url": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
-      "excerpt": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/d539/43f9/c523/bff9/d978/large_jpg/casa-malonic-hw-studio_19.jpg?1789056345",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "2,977 drones used to recreate Twin Towers for 9/11 anniversary",
-      "url": "https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/",
-      "excerpt": "Design studio Drift and architect Shigeru Ban have worked to recreate the Twin Towers with lighted drones for the 25th anniversary of 9/11, with each light representing a life lost in the World Trade ",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "artist gerhard richter designs hexagonal doha pavilion from his strip paintings",
-      "url": "https://www.designboom.com/architecture/gerhard-richter-hexagonal-doha-pavilion-strip-paintings-qatar-sellforf/",
-      "excerpt": "a digital experiment begun more than a decade ago expands across the walls and interior of gerhard richter’s new pavilion in doha, qatar.\nThe post artist gerhard richter designs hexagonal doha pavilio",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/selldorf-architects-doha-pavilion-gerhard-richter-designboom-qatar-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Tejo Engenharia  / SAINZ arquitetura",
-      "url": "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura",
-      "excerpt": "Located in Brasília and designed by Sainz Arquitetura, the Tejo Engineering Office was conceived as a spatial experience shaped through sequence, permanence and materiality.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/52b7/a228/5801/8aa2/3513/large_jpg/tejo-engenharia-sainz-arquitetura_27.jpg?1788826303",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Tschabalala Self's Lady in Blue towers over Trafalgar Square",
-      "url": "https://www.wallpaper.com/art/tschabalala-selfs-lady-in-blue-towers-over-trafalgar-square",
-      "excerpt": "The American artist brings a monumental ‘everywoman’ to London’s Fourth Plinth with ‘Lady in Blue’, a celebration of ambition, purpose and everyday life",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BVH7fBGBhA8V6cXmPe9HKV-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Sequitur Winery / Observation Studio",
-      "url": "https://www.archdaily.com/1184380/sequitur-winery-observation-studio",
-      "excerpt": "The Etzel Farm sits at a seam between loamy wetland meadows and forested hillsides in the Chehalem Creek Valley, outside Newberg, Oregon, one of the most fecund ribbons of soil for pinot noir vines in",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2a70/bed1/7f00/014d/273b/large_jpg/Sequitur_02_ArchDaily.jpg?1788291849",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Oatelier draws on traditional rural architecture for timber home in Slovakia",
-      "url": "https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/",
-      "excerpt": "Local architecture studio Oatelier has completed Husárik Hut, a barn-like timber home in Slovakia that was designed as a contemporary take on the area's traditional shepherd's huts. Perched on a slopi",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "\"In these conditions, how can we be optimistic?\" asks Anab Jain",
-      "url": "https://www.dezeen.com/2026/09/10/anab-jain-superflux-interview/",
-      "excerpt": "Superflux co-founder Anab Jain has been awarded this year's LDF Design Innovation Medal. In this interview, she argues speculative design can still be a source of hope even in dark times. It's yet ano",
+      "title": "事例集発刊：商空間特集号ー商空間の価値をつくる、これからの光",
+      "url": "https://www.endo-lighting.co.jp/news/20260910-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/09/shoukukan_jirei2560.png",
       "today": false
     },
     {
@@ -547,16 +548,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.07.28",
-      "title": "THE PASONA natureverse retreat開業",
-      "url": "https://www.lighting.co.jp/2026/07/28/the-pasona-natureverse-retreat/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/07/TP010_DSCF9815-300x200.jpg",
       "today": false
     }
   ]
