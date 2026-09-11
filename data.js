@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.11  10:27",
+  "fetchedAt": "2026.09.11  14:48",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -123,7 +123,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.11",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
@@ -155,6 +155,73 @@ window.LUMINO_DATA = {
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "The buildings on the World Trade Center site 25 years later",
+      "url": "https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/",
+      "excerpt": "Multiple skyscrapers and smaller structures have been constructed since the terrorist attacks on 11 September 2001 devastated Lower Manhattan. Here, we take a look at the site 25 years on. In 1973, th",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Dacia upsizes its offering with the brilliant Bigster, an SUV without pretensions",
+      "url": "https://www.wallpaper.com/transportation/dacia-upsizes-its-offering-with-the-brilliant-bigster-an-suv-without-pretensions",
+      "excerpt": "The Dacia Bigster brings the brand’s admirable ethos to bear on the SUV sector, creating a characterful car that doesn’t overwhelm",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K2v8cASpV5g95hiPj5faUZ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "These intricate rugs replicate the microscopic workings of Earth’s tiniest creatures",
+      "url": "https://www.wallpaper.com/design-interiors/rdai-creative-matters-rugs-zoometry-mouvements-modernes-2026",
+      "excerpt": "RDAI and Creative Matters present Zoometry, a collection of six fine rugs, now on display at Galerie Mouvements Modernes (on view until 23 September 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kZ493QQY9MhjodC2S5grjf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Six handy items of storage on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/11/storage-cupboards-cabinets-furnishings-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: from pieces designed to blend into the background to others that make a visual statement, the following storage products conceal clutter within capacious forms. These products come fr",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "A family house in Dallas offers a combination of sanctuary and expansive living spaces",
+      "url": "https://www.wallpaper.com/architecture/residential/dallas-modern-family-home",
+      "excerpt": "Smitharc architecture + interiors have completed the Northaven Residence in Dallas, find architectural expression of a family dynamic through its mix of grand public spaces and private personal retrea",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ixeWxMwpf6MK9aqQnsiS3D-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "2026 London Open House highlights – from the architecture festival that opens doors of all kinds",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/2026-london-open-house-festival-uk",
+      "excerpt": "London Open House is about to kick off – we explore what to see, as well as the unexpected impact of this city-wide architecture celebration. Here’s how the festival works for you year-round",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/maY8LiAjnexjoXYyFc78zH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Keiji Ashizawa clads House in Yatsugatake in charred cedar",
+      "url": "https://www.dezeen.com/2026/09/11/keiji-ashizawa-house-yatsugatake/",
+      "excerpt": "An \"angled, folded form\" clad in charred cedar defines this holiday home, designed by Japanese studio Keiji Ashizawa Design to embrace the surrounding landscape while maintaining its inhabitants' priv",
       "today": true
     },
     {
@@ -196,15 +263,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Our thoughts on the Dyson CameraJet toothbrush",
-      "url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
-      "excerpt": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -215,21 +273,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.11",
-      "title": "Read LDF edition of Dezeen Dispatch online now!",
-      "url": "https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/",
-      "excerpt": "Dezeen is back in print! A special London Design Festival edition of Dezeen Dispatch will be available at locations across the city during the event. Everyone else can read a digital version here. Wri",
+      "title": "Mapping Narratives: What the UN Map Reveals About Symbolic Reparations",
+      "url": "https://www.archdaily.com/1184890/mapping-narratives-what-the-un-map-reveals-about-symbolic-reparations",
+      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/c6cf/237b/e901/8be9/6542/large_jpg/mapping-narratives-what-the-un-map-reveals-about-symbolic-reparations_1.jpg?1789052633",
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.11",
-      "title": "Craft x Tech finds \"point of connection\" between Japanese craftsmanship and global design",
-      "url": "https://www.dezeen.com/2026/09/11/craft-x-tech-japanese-crafts-london-design-festival/",
-      "excerpt": "The Craft x Tech exhibition at the V&A will see artisans from Japan's Tokai region collaborate with international designers, including Philippe Malouin and Bethan Laura Wood, for London Design Festiva",
+      "title": "Non-Formal Kindergarten / ZEIA Studio",
+      "url": "https://www.archdaily.com/1184759/non-formal-kindergarten",
+      "excerpt": "A Citadel for Children - The non-formal kindergarten is conceived as a house for Rroma children from disadvantaged families. Initiated by Casa Bună Association and built with the support of volunteers",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/1b7f/13b9/4100/01df/6f90/large_jpg/14.jpg?1788877722",
       "today": true
     },
     {
@@ -243,6 +303,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "MAD Reveals Design to Transform 1923 Warehouse Into Danshuis in Rotterdam",
+      "url": "https://www.archdaily.com/1184920/mad-reveals-design-to-transform-1923-warehouse-into-danshuis-in-rotterdam",
+      "excerpt": "MAD, the architecture studio founded by Ma Yansong, has revealed the designs for Danshuis, a new dance center planned for Rotterdam, the Netherlands. Located on a landmark site in the city's historic ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/1437/237b/e901/8be9/668a/large_jpg/mad-reveals-design-to-transform-1923-warehouse-into-danshuis-in-rotterdam_4.jpg?1789072450",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -253,43 +323,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.11",
-      "title": "Is this former prison Japan’s most unusual luxury stay?",
-      "url": "https://www.wallpaper.com/travel/hotels/hoshinoya-nara-prison-review",
-      "excerpt": "A landmark Great Meiji Prison reopens as a 48-suite Hoshinoya hotel, with its cells, barred windows and Romanesque architecture intact",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oKnTXchrkvSQc5mzJW58c-2560-80.jpg",
+      "title": "Residential House in Lower Pavilnys, Vilnius / Inblum Architects",
+      "url": "https://www.archdaily.com/1184858/residential-house-in-lower-pavilnys-vilnius-inblum-architects",
+      "excerpt": "The house is located in Lower Pavilnys, one of Vilnius' most distinctive neighborhoods, where rolling topography and mature woodland define the unique character of the place.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/b971/05b6/9900/01b5/37a4/large_jpg/Low_res___Aiste_Rakauskaite-13.jpg?1789049246",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.11",
-      "title": "Structures of Memory: 5 Unbuilt Projects on Heritage from the ArchDaily Community",
-      "url": "https://www.archdaily.com/1184837/structures-of-memory-5-unbuilt-projects-on-heritage-from-the-archdaily-community",
-      "excerpt": "In broad terms, a structure is a testament to its time. An architectural project's proposal and material scale often exceed the lifespan of a single human being, becoming, in this way, part of a histo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/c052/237b/e901/8be9/6273/large_jpg/_21.jpg?1788985447",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Dookkuubi Jib Toad House / NOMAL + ONJIUM Housing Studio",
-      "url": "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
-      "excerpt": "\"Toad, oh toad, take the old house and give me a new one.\" An English husband and a Korean wife, living in Dubai, decided to build a home in Seochon. Having spent many years outside Korea, the hanok w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/be4c/237b/e92d/dc07/1f17/large_jpg/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio_3.jpg?1789050464",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Barefoot Dreams House / Ameet Mirpuri Design Studio",
-      "url": "https://www.archdaily.com/1184861/barefoot-dreams-house-ameet-mirpuri-design-studio",
-      "excerpt": "A contemporary retreat where architecture, landscape, and nature exist as one. Nestled within the lush coastal landscape of Morjim, Goa, India, Barefoot Dreams is a contemporary holiday home that embr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/bad7/05b6/9900/01b5/3804/large_jpg/Ameet_Goa_Pilot_house-11.jpg?1789049676",
+      "title": "Buenos Aires Architecture Biennial Celebrates 40 Years With a Free Program Under the Theme of Inhabiting",
+      "url": "https://www.archdaily.com/1184927/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting",
+      "excerpt": "The Buenos Aires International Architecture Biennial marks 40 years of history this year, across 20 editions. As one of the most important architecture gatherings in Latin America, it will celebrate t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/38b1/43f9/c501/88fd/1f12/large_jpg/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting_40.jpg?1789081837",
       "today": true
     },
     {
@@ -301,56 +351,6 @@ window.LUMINO_DATA = {
       "excerpt": "through simplified colors and forms, naru hiko’s oil paintings invite viewers to see familiar everyday landscapes in japan with fresh eyes.\nThe post colorful oil paintings capture quiet scenes of ever",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko-designboom-1200-1.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Luxelakes - CorNori Commercial Park / Atelier OO",
-      "url": "https://www.archdaily.com/1184772/luxelakes-cornori-commercial-park-atelier-oo",
-      "excerpt": "At REDSTONE Park, the first thing you see is the canopy. It spreads across CorNori, set within a terraced sunken park at LUXELAKES, Chengdu: a nearly ten-metre change in level is negotiated by gently ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/32af/a228/5801/8aa2/38cf/large_jpg/luxelakes-cornori-commercial-park-atelier-oo_1.jpg?1788883652",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Henry Zankov on his Diane von Furstenberg debut: ‘It’s all about body language’",
-      "url": "https://www.wallpaper.com/fashion-beauty/diane-von-furstenberg-ss-2027-henry-zankov-debut-interview",
-      "excerpt": "Movement was at the heart of Henry Zankov’s first collection for Diane von Furstenberg, which sought to capture its namesake designer’s liberatory spirit",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/sJW3RtAjpBMLg223gpcUeC-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Cholán Nests House / La Cabina de la Curiosidad",
-      "url": "https://www.archdaily.com/1184903/cholan-nests-house-la-cabina-de-la-curiosidad",
-      "excerpt": "The original house is a simple construction in the rural area of Perucho (35 km from Quito), with a block structure and walls, which was initially planned as a storage room. Over time, it was graduall",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/dc66/43f9/c52e/5503/ec36/large_jpg/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad_2.jpg?1789058167",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "BWGTBLD is more than an office – there, creativity is 'meant to be shared'",
-      "url": "https://www.wallpaper.com/architecture/bwgtbld-office-gallery-berlin-germany",
-      "excerpt": "The BWGTBLD office, the headquarters of Philipp Ramhofer's production company in Berlin, becomes an art gallery and a celebration of creative endeavour when the business invites the public in",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fB2is3sfY5DgYsvdMfU49S-1259-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "Contemporary furniture and archival rug designs come together in an exhibition from Max Radford Gallery and Christopher Farr",
-      "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
-      "excerpt": "As part of London Design Festival, ‘Progressive Permanence’ by Max Radford Gallery and Christopher Farr creates new dialogues between art, craft and design – and puts forward the masterpieces of the f",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1024-80.jpg",
-      "today": false
     },
     {
       "source": "遠藤照明",
