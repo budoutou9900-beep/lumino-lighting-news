@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.11  14:48",
+  "fetchedAt": "2026.09.11  18:06",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -100,6 +100,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.11",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.11",
@@ -158,6 +167,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
+      "url": "https://www.wallpaper.com/tech/yoto-makes-audio-players-for-small-hands-to-help-stave-off-doomscrolling-and-social-media",
+      "excerpt": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Georgia O’Keeffe was captivated by architecture, as a landmark new show at the Detroit Institute of Arts proves",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/georgia-okeeffe-architecture-detroit-institute-of-arts",
+      "excerpt": "‘Georgia O’Keeffe: Architecture,’ is a first-of-its kind exhibition exploring the artist’s long fascination with the built environment, from dreamy cityscapes to vernacular buildings",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/skmmK6bDFmMsuSupngMFMX-1920-80.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -206,16 +234,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "2026 London Open House highlights – from the architecture festival that opens doors of all kinds",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/2026-london-open-house-festival-uk",
-      "excerpt": "London Open House is about to kick off – we explore what to see, as well as the unexpected impact of this city-wide architecture celebration. Here’s how the festival works for you year-round",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/maY8LiAjnexjoXYyFc78zH-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -232,6 +250,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/philippe-starck-designeuropa-lifetime-award-interview/",
       "excerpt": "philippe starck discusses dematerialization and the future of design as the lucrative of the designeuropa lifetime achievement award 2026.\nThe post ‘less materiality means more humanity’: philippe sta",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/OTS-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Market Street 52 / MWArchitekten",
+      "url": "https://www.archdaily.com/1184624/market-street-52-mwarchitekten",
+      "excerpt": "Market street 52 was revitalized as another component of the market street development and redensified at the rear. Market street 52a is located in the second building line. Here, the gap in the build",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6e23/15d8/6f00/01a2/f4a0/large_jpg/MWA_Hohenems_Marktstra_e___Dominic-Kummer_2026-18.jpg?1788702370",
       "today": true
     },
     {
@@ -293,16 +321,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Explore this pop-up library dedicated to queer creativity in London",
-      "url": "https://www.wallpaper.com/design-interiors/london-design-festival-brompton-reading-room-alex-tieghi-walker-books",
-      "excerpt": "At London Design Festival 2026, Alex Tieghi-Walker presents The Reading Room (part of his wider curation for the Brompton Design District), dedicated to queer design, creativity and cultural history i",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KGQPKmwDrwaNk4LjEsVpMC-1920-80.png",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -333,22 +351,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Buenos Aires Architecture Biennial Celebrates 40 Years With a Free Program Under the Theme of Inhabiting",
-      "url": "https://www.archdaily.com/1184927/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting",
-      "excerpt": "The Buenos Aires International Architecture Biennial marks 40 years of history this year, across 20 editions. As one of the most important architecture gatherings in Latin America, it will celebrate t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/38b1/43f9/c501/88fd/1f12/large_jpg/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting_40.jpg?1789081837",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.11",
       "title": "colorful oil paintings capture quiet scenes of everyday japan",
       "url": "https://www.designboom.com/art/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko/",
-      "excerpt": "through simplified colors and forms, naru hiko’s oil paintings invite viewers to see familiar everyday landscapes in japan with fresh eyes.\nThe post colorful oil paintings capture quiet scenes of ever",
+      "excerpt": "through simplified colors and forms, NARUHIKO’s oil paintings invite viewers to see familiar everyday landscapes in japan with fresh eyes.\nThe post colorful oil paintings capture quiet scenes of every",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/colorful-oil-paintings-quiet-scenes-everyday-japan-naru-hiko-designboom-1200-1.jpg",
       "today": true
     },
