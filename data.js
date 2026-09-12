@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.11  23:48",
+  "fetchedAt": "2026.09.12  02:42",
   "sourceColors": {
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,43 +9,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Sortir à Paris": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "レッツエンジョイ東京": {
+    "アットエス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -84,9 +84,9 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -96,7 +96,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -104,9 +104,27 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.12",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.12",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -116,7 +134,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -126,7 +144,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -136,7 +154,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
@@ -146,7 +164,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -155,20 +173,20 @@ window.LUMINO_DATA = {
     {
       "source": "アットエス",
       "cat": "展示・アート",
-      "date": "2026.09.11",
+      "date": "2026.09.12",
       "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
       "url": "https://www.at-s.com/event/article/118922",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "レッツエンジョイ東京",
-      "cat": "展示・アート",
-      "date": "2026.09.11",
-      "title": "白山一里野イルミネーション「灯りでつなぐ白山」～灯りに祈りを込めて～｜レッツエンジョイ東京",
-      "url": "https://www.enjoytokyo.jp/event/2072456/",
-      "excerpt": "",
-      "thumbnailUrl": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/c6/2072456/img_1.jpg?1782906084&p=t&w=1200",
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "m²ft architects stacks woodland branches into modular biodiversity pavilion in italy",
+      "url": "https://www.designboom.com/design/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy/",
+      "excerpt": "a modular pavilion bridging human and non-human environments, using woodland prunings to foster biodiversity and offer a shared refuge.\nThe post m²ft architects stacks woodland branches into modular b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -179,7 +197,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/tory-burch-ss-2027-new-york-fashion-week-review",
       "excerpt": "The American designer showed her S/S 2027 collection at Isamu Noguchi’s Sunken Garden yesterday evening, capturing a mood of ‘joy and optimism’ through its playful combinations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/37KdMDvU8gtx6kfePpy7Ya-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -189,7 +207,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/dubai-gallery-open-white-exhibition-halls-concealed-brick-toned-museum-room-gary-tatintsian-mast/",
       "excerpt": "walls held back from the glazed facade frame glimpses of the art while preserving a continuous interior volume.\nThe post dubai gallery pairs open white exhibition halls with a concealed, brick-toned m",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gary-tatintsian-gallery-dubai-mast-designboom-1200-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "Hanji House exhibition celebrates traditional Korean papermaking",
+      "url": "https://www.dezeen.com/2026/09/11/hanji-house-exhibition-maison-et-objet/",
+      "excerpt": "Promotion: an exhibition during this year's Maison&Objet furniture fair in Paris is set to demonstrate the continued relevance of Hanji, a thousand-year-old Korean papermaking technique. Located withi",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.11",
+      "title": "PC Inhouse / Arcieri Arquitectura",
+      "url": "https://www.archdaily.com/1184948/pc-inhouse-arcieri-arquitectura",
+      "excerpt": "Located in the Tamba neighborhood of Punta Colorada, Uruguay, PC Inhouse brings together two independent residences into a single architectural composition. Conceived as a single project from its ince",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/fb0d/15d8/6f00/01a2/f10c/large_jpg/03-PuntaColorada.jpg?1788541733",
+      "today": false
     },
     {
       "source": "designboom",
@@ -199,7 +236,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cabina-curiosidad-timber-nests-eucalyptus-roof-ecuador-cholan/",
       "excerpt": "an elevated eucalyptus structure brings bedrooms and daylight above the retained block walls of this perucho home.\nThe post la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof i",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad-designboom-FB-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -209,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
       "excerpt": "Sited on a 10 x 50-meter lot, the studio building was designed to house a ceramics school. The clients' desire for a landscaped entrance prompted the building to be set back further than required by z",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/ccbe/237b/e901/8be9/628d/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_29.jpg?1788988620",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -218,7 +255,7 @@ window.LUMINO_DATA = {
       "title": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
       "url": "https://www.wallpaper.com/tech/yoto-makes-audio-players-for-small-hands-to-help-stave-off-doomscrolling-and-social-media",
       "excerpt": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -228,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/georgia-okeeffe-architecture-detroit-institute-of-arts",
       "excerpt": "‘Georgia O’Keeffe: Architecture,’ is a first-of-its kind exhibition exploring the artist’s long fascination with the built environment, from dreamy cityscapes to vernacular buildings",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/skmmK6bDFmMsuSupngMFMX-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -238,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/readers/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens/",
       "excerpt": "reused industrial objects and digital fabrication form a new architectural system.\nThe post 3D printing, AI and reused objects form a bathing prototype for year 2050 appeared first on designboom | arc",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -248,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184902/casa-rosabaya-arkina",
       "excerpt": "Casa Rosabaya began as a geometry constraint: twelve bedrooms, every one of them facing the water, on a lot with only 37 meters of sea frontage.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/d926/05b6/9900/01b5/3a3b/large_jpg/20210318-Arkina-Rosabaya-Victor-Stonem-76.jpg?1789057367",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -257,7 +294,7 @@ window.LUMINO_DATA = {
       "title": "The buildings on the World Trade Center site 25 years later",
       "url": "https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/",
       "excerpt": "Multiple skyscrapers and smaller structures have been constructed since the terrorist attacks on 11 September 2001 devastated Lower Manhattan. Here, we take a look at the site 25 years on. In 1973, th",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -267,7 +304,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/dacia-upsizes-its-offering-with-the-brilliant-bigster-an-suv-without-pretensions",
       "excerpt": "The Dacia Bigster brings the brand’s admirable ethos to bear on the SUV sector, creating a characterful car that doesn’t overwhelm",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K2v8cASpV5g95hiPj5faUZ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -277,7 +314,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/rdai-creative-matters-rugs-zoometry-mouvements-modernes-2026",
       "excerpt": "RDAI and Creative Matters present Zoometry, a collection of six fine rugs, now on display at Galerie Mouvements Modernes (on view until 23 September 2026)",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kZ493QQY9MhjodC2S5grjf-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -286,7 +323,7 @@ window.LUMINO_DATA = {
       "title": "Six handy items of storage on Dezeen Showroom",
       "url": "https://www.dezeen.com/2026/09/11/storage-cupboards-cabinets-furnishings-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: from pieces designed to blend into the background to others that make a visual statement, the following storage products conceal clutter within capacious forms. These products come fr",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -296,7 +333,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura",
       "excerpt": "The RP02 House stems from an unusual premise in residential design: utilizing industrialized systems, typically found in large-scale construction, as the foundation for a 2,700-square-foot (250 m²) ho",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/1ee5/15d8/6f00/01a2/f300/large_jpg/casas_minimalistas_fachadas_concreto_estrutura_metalica_pre_fabricadas_industrial.jpg?1788550902",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -305,7 +342,7 @@ window.LUMINO_DATA = {
       "title": "Keiji Ashizawa clads House in Yatsugatake in charred cedar",
       "url": "https://www.dezeen.com/2026/09/11/keiji-ashizawa-house-yatsugatake/",
       "excerpt": "An \"angled, folded form\" clad in charred cedar defines this holiday home, designed by Japanese studio Keiji Ashizawa Design to embrace the surrounding landscape while maintaining its inhabitants' priv",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -315,7 +352,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/philippe-starck-designeuropa-lifetime-award-interview/",
       "excerpt": "philippe starck discusses dematerialization and the future of design as the lucrative of the designeuropa lifetime achievement award 2026.\nThe post ‘less materiality means more humanity’: philippe sta",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/OTS-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -325,7 +362,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184624/market-street-52-mwarchitekten",
       "excerpt": "Market street 52 was revitalized as another component of the market street development and redensified at the rear. Market street 52a is located in the second building line. Here, the gap in the build",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6e23/15d8/6f00/01a2/f4a0/large_jpg/MWA_Hohenems_Marktstra_e___Dominic-Kummer_2026-18.jpg?1788702370",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -334,36 +371,7 @@ window.LUMINO_DATA = {
       "title": "How London designers are making it work",
       "url": "https://www.dezeen.com/2026/09/11/london-designers-making-it-work/",
       "excerpt": "London may have a lot to shout about design-wise, but is it actually possible to survive as a creative in one of the world's most expensive cities? Ahead of London Design Festival, we spoke to five lo",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
-      "url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
-      "excerpt": "set on the steep slopes of banyalbufar, the family home turns the practical difficulties of building in a remote village into part of its architecture.\nThe post KOSMOS transforms mallorcan townhouse b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Cattle armchair by Gibson Karlo for Design By Them",
-      "url": "https://www.dezeen.com/2026/09/11/cattle-chair-gibson-karlo-design-by-them-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: the rugged aesthetic of the Australian outback meets the sophistication of contemporary design in the Cattle armchair, created by Gibson Karlo for the brand Design By Them. Karlo took",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Mapping Narratives: What the UN Map Reveals About Symbolic Reparations",
-      "url": "https://www.archdaily.com/1184890/mapping-narratives-what-the-un-map-reveals-about-symbolic-reparations",
-      "excerpt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/c6cf/237b/e901/8be9/6542/large_jpg/mapping-narratives-what-the-un-map-reveals-about-symbolic-reparations_1.jpg?1789052633",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
@@ -551,16 +559,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79785/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「NOISELESS LAND SCAPE」の製品情報を公開しました。",
-      "url": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/led_products/products_info/noiseless_landscape/img/main_img.webp",
       "today": false
     }
   ]
