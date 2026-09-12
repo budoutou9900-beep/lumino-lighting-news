@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.12  20:02",
+  "fetchedAt": "2026.09.12  22:46",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "sortiraparis.com": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,45 +33,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "照明学会": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "照明学会": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -93,6 +97,15 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.12",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -125,7 +138,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.12",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -154,6 +167,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
+      "url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
+      "excerpt": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life.\nThe post superstudio’s 12 ideal cities question the price of a pe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "New York beach home by BAAO contains a \"house within a house\"",
+      "url": "https://www.dezeen.com/2026/09/12/breezy-point-house-queens-new-york-baao-studio/",
+      "excerpt": "Indents and slices across an offset gabled volume bring natural light into this beach house in Queens, New York, by Brooklyn-based BAAO Studio. The 2,655-square-foot (247-square-metre) residence is lo",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Enso / Compartment S4",
+      "url": "https://www.archdaily.com/1184968/enso-compartment-s4",
+      "excerpt": "Industrial buildings are typically designed as fixed objects—efficient, economical, and tailored to immediate production requirements. When growth occurs, expansion is often improvised through attache",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0f01/7a61/df00/0183/be80/large_jpg/9.jpg?1789136658",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -161,6 +203,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism",
       "excerpt": "Architect Fred Hollingsworth created many outstanding residences but the Mahogany House in Canyon Heights is perhaps the most coherent design of all. Now it’s on the market for the first time in over ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FZg7xKLH4aH5kcyoK5DDtm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Paroissien House / Veronica Gilotaux",
+      "url": "https://www.archdaily.com/1184498/paroissien-house",
+      "excerpt": "The project consists of a single-family residence located in Buenos Aires, situated across from a park that serves as a green lung for both the neighbors and the surrounding houses. The lot featured a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/94c0/15d8/6f00/01a2/ecb4/large_jpg/VG-Paroissien-01.jpg?1788450017",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "37 Dwellings in L'Hospitalet de Llobregat / b720 Fermín Vázquez Arquitectos",
+      "url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
+      "excerpt": "A humble \"build to rent\" building of 37 dwellings in L'Hospitalet de Llobregat, located in a peripheral area, in an urban fabric in constant transformation from an industrial to a residential area and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6757/6665/db5c/2001/8806/a88a/large_jpg/37-viviendas-en-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos_3.jpg?1733781234",
       "today": true
     },
     {
@@ -262,26 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Building as Political Practice: USINA and the Legacy of Collective Construction in Brazil",
-      "url": "https://www.archdaily.com/1184105/building-as-political-practice-usina-and-the-legacy-of-collective-construction-in-brazil",
-      "excerpt": "Filippo Brunelleschi and the dome of Santa Maria del Fiore, completed in 1436 in the Italian city of Florence, represent an important chapter in the history of architecture, often associated with the ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/af7e/b71a/0f01/89f1/b360/large_jpg/building-as-political-practice-usina-and-the-legacy-of-collective-construction-in-brazil_23.jpg?1787932547",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Bramberg Residence Renovation / Gut Deubelbeiss Nill Architekten",
-      "url": "https://www.archdaily.com/1183815/bramberg-renovated-residence-gut-deubelbeiss-nill-architekten",
-      "excerpt": "The single-family house on Brambergstrasse, built in 1920/21, was still mostly preserved in its original condition at the start of the project. Through careful and considered work, the house was gentl",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/8ce0/4253/0500/01ca/0180/large_jpg/gd_bramberg_130492_1.jpg?1787399452",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -301,16 +343,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Red Submarine Cabin / Wiki World",
-      "url": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
-      "excerpt": "Red Submarine Cabin is a modular cabin product designed by Wiki World, as a modular spatial system, is the ultimate \"Plug-in for the Wild.\" Powered by Digital Wood technology, it merges the precision ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/7fff/15d8/6f00/01a2/f50f/large_jpg/00.jpg?1788772373",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -327,25 +359,6 @@ window.LUMINO_DATA = {
       "title": "Hanji House exhibition celebrates traditional Korean papermaking",
       "url": "https://www.dezeen.com/2026/09/11/hanji-house-exhibition-maison-et-objet/",
       "excerpt": "Promotion: an exhibition during this year's Maison&Objet furniture fair in Paris is set to demonstrate the continued relevance of Hanji, a thousand-year-old Korean papermaking technique. Located withi",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof in ecuador",
-      "url": "https://www.designboom.com/architecture/cabina-curiosidad-timber-nests-eucalyptus-roof-ecuador-cholan/",
-      "excerpt": "an elevated eucalyptus structure brings bedrooms and daylight above the retained block walls of this perucho home.\nThe post la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "The buildings on the World Trade Center site 25 years later",
-      "url": "https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/",
-      "excerpt": "Multiple skyscrapers and smaller structures have been constructed since the terrorist attacks on 11 September 2001 devastated Lower Manhattan. Here, we take a look at the site 25 years on. In 1973, th",
       "today": false
     },
     {
