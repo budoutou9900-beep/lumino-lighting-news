@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.12  11:54",
+  "fetchedAt": "2026.09.12  14:50",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "chunichi.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -80,15 +80,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
-      "url": "https://news.mynavi.jp/techplus/article/20140707-a135/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.12",
@@ -99,13 +90,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.12",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.12",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
@@ -151,10 +151,29 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.12",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.12",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Flexjet’s new UK hub for high flyers marks a welcome design departure",
+      "url": "https://www.wallpaper.com/transportation/flexjets-new-uk-hub-for-high-flyers-marks-a-welcome-design-departure",
+      "excerpt": "The private aviation giant’s new dedicated Farnborough terminal is a multifunctional ‘home from home’ for its users, and gives interiors and hospitality top billing",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k6DsGb2LYnnK4DXX8FLqkL-2500-80.jpg",
       "today": true
     },
     {
@@ -321,16 +340,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
       "excerpt": "Sited on a 10 x 50-meter lot, the studio building was designed to house a ceramics school. The clients' desire for a landscaped entrance prompted the building to be set back further than required by z",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/ccbe/237b/e901/8be9/628d/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_29.jpg?1788988620",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
-      "url": "https://www.wallpaper.com/tech/yoto-makes-audio-players-for-small-hands-to-help-stave-off-doomscrolling-and-social-media",
-      "excerpt": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C4N2jSrzJySHFiMXNjLgEP-2560-80.jpg",
       "today": false
     },
     {
