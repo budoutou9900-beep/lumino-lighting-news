@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.12  07:36",
+  "fetchedAt": "2026.09.12  11:54",
   "sourceColors": {
-    "銀座経済新聞": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットエス": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -80,6 +80,15 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "news.mynavi.jp",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
+      "url": "https://news.mynavi.jp/techplus/article/20140707-a135/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.12",
@@ -90,13 +99,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.12",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -113,7 +131,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.12",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
@@ -133,28 +151,68 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.12",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.12",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Mossy rooftop crowns Bather's Cabin in East Sussex woodland",
+      "url": "https://www.dezeen.com/2026/09/12/bathers-cabin-built-works/",
+      "excerpt": "Visitors to this woodland cabin in East Sussex enter via a planted roof terrace, which its architect, British studio Built Works, has \"devoted entirely to the ritual of bathing\". Nestled in woodland i",
       "today": true
     },
     {
-      "source": "アットエス",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.12",
-      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
-      "url": "https://www.at-s.com/event/article/118922",
-      "excerpt": "",
+      "title": "Four products that Dyson successfully revolutionised, and four it didn't",
+      "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/",
+      "excerpt": "As Dyson seeks to disrupt the toothbrush market with its CameraJet, we look back at how the technology company has fared in its attempts to transform other product categories over the years. Founded i",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Svenskt Tenn celebrates Anna Petrus, Sweden’s trailblazing 20th-century metal designer",
+      "url": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn",
+      "excerpt": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cPioRhP7DhBN4Gev8TrzeG-959-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "why does living underground feel so strange?",
+      "url": "https://www.designboom.com/architecture/why-does-living-underground-feel-so-strange/",
+      "excerpt": "underground homes reveal a tension between the physical comfort of shelter and the psychological pull of the world above.\nThe post why does living underground feel so strange? appeared first on design",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/living-underground-architecture-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Circadian brews a new ritual inside Berlin’s brutalist Funkhaus",
+      "url": "https://www.wallpaper.com/travel/bars/circadian-tea-atelier-berlin",
+      "excerpt": "At its minimalist new GDR-era HQ, Berlin-based atelier Circadian creates a contemporary ritual using Japan’s rare, shade-grown gyokuro tea",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCyeDtMwUFnah4BV4gK8tn-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Building as Political Practice: USINA and the Legacy of Collective Construction in Brazil",
+      "url": "https://www.archdaily.com/1184105/building-as-political-practice-usina-and-the-legacy-of-collective-construction-in-brazil",
+      "excerpt": "Filippo Brunelleschi and the dome of Santa Maria del Fiore, completed in 1436 in the Italian city of Florence, represent an important chapter in the history of architecture, often associated with the ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a91/af7e/b71a/0f01/89f1/b360/large_jpg/building-as-political-practice-usina-and-the-legacy-of-collective-construction-in-brazil_23.jpg?1787932547",
       "today": true
     },
     {
@@ -165,6 +223,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/as-jesse-glazzard-arrives-at-londons-ica-step-into-his-tender-dirty-decade",
       "excerpt": "British photographer Jesse Glazzard presents his first book, The Sound of Dirt and Beauty",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3LVDzjTURLiskWhZ5Kfi9K-1575-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Bramberg Residence Renovation / Gut Deubelbeiss Nill Architekten",
+      "url": "https://www.archdaily.com/1183815/bramberg-renovated-residence-gut-deubelbeiss-nill-architekten",
+      "excerpt": "The single-family house on Brambergstrasse, built in 1920/21, was still mostly preserved in its original condition at the start of the project. Through careful and considered work, the house was gentl",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/8ce0/4253/0500/01ca/0180/large_jpg/gd_bramberg_130492_1.jpg?1787399452",
       "today": true
     },
     {
@@ -184,6 +252,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy/",
       "excerpt": "a modular pavilion bridging human and non-human environments, using woodland prunings to foster biodiversity and offer a shared refuge.\nThe post m²ft architects stacks woodland branches into modular b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Red Submarine Cabin / Wiki World",
+      "url": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
+      "excerpt": "Red Submarine Cabin is a modular cabin product designed by Wiki World, as a modular spatial system, is the ultimate \"Plug-in for the Wild.\" Powered by Digital Wood technology, it merges the precision ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/7fff/15d8/6f00/01a2/f50f/large_jpg/00.jpg?1788772373",
       "today": true
     },
     {
@@ -252,16 +330,7 @@ window.LUMINO_DATA = {
       "title": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
       "url": "https://www.wallpaper.com/tech/yoto-makes-audio-players-for-small-hands-to-help-stave-off-doomscrolling-and-social-media",
       "excerpt": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Georgia O’Keeffe was captivated by architecture, as a landmark new show at the Detroit Institute of Arts proves",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/georgia-okeeffe-architecture-detroit-institute-of-arts",
-      "excerpt": "‘Georgia O’Keeffe: Architecture,’ is a first-of-its kind exhibition exploring the artist’s long fascination with the built environment, from dreamy cityscapes to vernacular buildings",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/skmmK6bDFmMsuSupngMFMX-1920-80.jpg",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C4N2jSrzJySHFiMXNjLgEP-2560-80.jpg",
       "today": false
     },
     {
@@ -275,80 +344,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Casa Rosabaya / Arkina",
-      "url": "https://www.archdaily.com/1184902/casa-rosabaya-arkina",
-      "excerpt": "Casa Rosabaya began as a geometry constraint: twelve bedrooms, every one of them facing the water, on a lot with only 37 meters of sea frontage.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/d926/05b6/9900/01b5/3a3b/large_jpg/20210318-Arkina-Rosabaya-Victor-Stonem-76.jpg?1789057367",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.11",
       "title": "The buildings on the World Trade Center site 25 years later",
       "url": "https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/",
       "excerpt": "Multiple skyscrapers and smaller structures have been constructed since the terrorist attacks on 11 September 2001 devastated Lower Manhattan. Here, we take a look at the site 25 years on. In 1973, th",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Dacia upsizes its offering with the brilliant Bigster, an SUV without pretensions",
-      "url": "https://www.wallpaper.com/transportation/dacia-upsizes-its-offering-with-the-brilliant-bigster-an-suv-without-pretensions",
-      "excerpt": "The Dacia Bigster brings the brand’s admirable ethos to bear on the SUV sector, creating a characterful car that doesn’t overwhelm",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K2v8cASpV5g95hiPj5faUZ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Six handy items of storage on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/09/11/storage-cupboards-cabinets-furnishings-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: from pieces designed to blend into the background to others that make a visual statement, the following storage products conceal clutter within capacious forms. These products come fr",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "RP02 House / Cornetta Arquitetura",
-      "url": "https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura",
-      "excerpt": "The RP02 House stems from an unusual premise in residential design: utilizing industrialized systems, typically found in large-scale construction, as the foundation for a 2,700-square-foot (250 m²) ho",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9b/1ee5/15d8/6f00/01a2/f300/large_jpg/casas_minimalistas_fachadas_concreto_estrutura_metalica_pre_fabricadas_industrial.jpg?1788550902",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Keiji Ashizawa clads House in Yatsugatake in charred cedar",
-      "url": "https://www.dezeen.com/2026/09/11/keiji-ashizawa-house-yatsugatake/",
-      "excerpt": "An \"angled, folded form\" clad in charred cedar defines this holiday home, designed by Japanese studio Keiji Ashizawa Design to embrace the surrounding landscape while maintaining its inhabitants' priv",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "‘less materiality means more humanity’: philippe starck on the designeuropa lifetime award",
-      "url": "https://www.designboom.com/design/philippe-starck-designeuropa-lifetime-award-interview/",
-      "excerpt": "philippe starck discusses dematerialization and the future of design as the lucrative of the designeuropa lifetime achievement award 2026.\nThe post ‘less materiality means more humanity’: philippe sta",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/OTS-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Market Street 52 / MWArchitekten",
-      "url": "https://www.archdaily.com/1184624/market-street-52-mwarchitekten",
-      "excerpt": "Market street 52 was revitalized as another component of the market street development and redensified at the rear. Market street 52a is located in the second building line. Here, the gap in the build",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6e23/15d8/6f00/01a2/f4a0/large_jpg/MWA_Hohenems_Marktstra_e___Dominic-Kummer_2026-18.jpg?1788702370",
       "today": false
     },
     {
@@ -527,16 +528,6 @@ window.LUMINO_DATA = {
       "title": "照明学会全国大会（9/15-17奈良女子大学）",
       "url": "https://www.ieij.or.jp/event/annualconfer.html",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.07.29",
-      "title": "「TALIESIN®」シリーズに新色「TALIESIN® WHITE」が登場",
-      "url": "https://www.yamagiwa.co.jp/news/79785/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/08/260331YAMAGIWA1772-1-1024x768.jpg",
       "today": false
     }
   ]
