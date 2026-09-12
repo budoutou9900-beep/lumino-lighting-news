@@ -1,31 +1,31 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.12  14:50",
+  "fetchedAt": "2026.09.12  17:38",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "アットエス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -90,22 +90,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.12",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.09.12",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -131,7 +122,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.12",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
@@ -151,7 +142,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.12",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
@@ -164,6 +155,45 @@ window.LUMINO_DATA = {
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットエス",
+      "cat": "展示・アート",
+      "date": "2026.09.12",
+      "title": "焼津ライトアップ・イルミネーション2025 海空ファンタジア",
+      "url": "https://www.at-s.com/event/article/118922",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Fred Hollingsworth’s Mahogany House is a hidden jewel of mid-century modernism",
+      "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism",
+      "excerpt": "Architect Fred Hollingsworth created many outstanding residences but the Mahogany House in Canyon Heights is perhaps the most coherent design of all. Now it’s on the market for the first time in over ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FZg7xKLH4aH5kcyoK5DDtm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "Calvin Klein Collection’s showspace featured the work of pioneering American Minimalist Walter De Maria",
+      "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-collection-walter-de-maria-veronica-leoni-antwaun-sargent",
+      "excerpt": "Curator Antwaun Sargent tells Wallpaper* the story behind the Chelsea Terminal showspace, which backdropped a stripped-back collection from creative director Veronica Leoni",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MzQNtAAFc3M3QhXSVDc9BH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "suspended metal grid ceiling meets translucent and reflective surfaces inside french café",
+      "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
+      "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -183,6 +213,16 @@ window.LUMINO_DATA = {
       "title": "Mossy rooftop crowns Bather's Cabin in East Sussex woodland",
       "url": "https://www.dezeen.com/2026/09/12/bathers-cabin-built-works/",
       "excerpt": "Visitors to this woodland cabin in East Sussex enter via a planted roof terrace, which its architect, British studio Built Works, has \"devoted entirely to the ritual of bathing\". Nestled in woodland i",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "House Z / Atelier Zafari",
+      "url": "https://www.archdaily.com/1184859/house-z-atelier-zafari",
+      "excerpt": "The mixed-use residential and commercial building on Schadowstraße in Berlin-Mitte was developed as part of an invited architectural competition in 2017 and completed in March 2026.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/b9c2/05b6/9900/01b5/37ae/large_jpg/Jan_Bitter_01.jpg?1789049302",
       "today": true
     },
     {
@@ -235,16 +275,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "As Jesse Glazzard arrives at London's ICA, step into his tender, dirty decade",
-      "url": "https://www.wallpaper.com/art/photography/as-jesse-glazzard-arrives-at-londons-ica-step-into-his-tender-dirty-decade",
-      "excerpt": "British photographer Jesse Glazzard presents his first book, The Sound of Dirt and Beauty",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3LVDzjTURLiskWhZ5Kfi9K-1575-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -284,16 +314,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "At New York Fashion Week, Tory Burch says ‘more is more’",
-      "url": "https://www.wallpaper.com/fashion-beauty/tory-burch-ss-2027-new-york-fashion-week-review",
-      "excerpt": "The American designer showed her S/S 2027 collection at Isamu Noguchi’s Sunken Garden yesterday evening, capturing a mood of ‘joy and optimism’ through its playful combinations",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/37KdMDvU8gtx6kfePpy7Ya-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.11",
@@ -330,26 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cabina-curiosidad-timber-nests-eucalyptus-roof-ecuador-cholan/",
       "excerpt": "an elevated eucalyptus structure brings bedrooms and daylight above the retained block walls of this perucho home.\nThe post la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof i",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-los-nidos-del-cholan-la-cabina-de-la-curiosidad-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Vila da Saúde Studio / Plareng + Consoante Arquitetura e Integração",
-      "url": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
-      "excerpt": "Sited on a 10 x 50-meter lot, the studio building was designed to house a ceramics school. The clients' desire for a landscaped entrance prompted the building to be set back further than required by z",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/ccbe/237b/e901/8be9/628d/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_29.jpg?1788988620",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "3D printing, AI and reused objects form a bathing prototype for year 2050",
-      "url": "https://www.designboom.com/readers/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens/",
-      "excerpt": "reused industrial objects and digital fabrication form a new architectural system.\nThe post 3D printing, AI and reused objects form a bathing prototype for year 2050 appeared first on designboom | arc",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens-designboom-1200.jpg",
       "today": false
     },
     {
