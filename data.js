@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  05:35",
+  "fetchedAt": "2026.09.13  10:57",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,15 +21,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "sortiraparis.com": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -125,7 +125,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.13",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -142,6 +142,92 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.13",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Johan Sundberg Arkitektur nestles timber summer house within Swedish woodland",
+      "url": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
+      "excerpt": "Swedish studio Johan Sundberg Arkitektur has designed the Pine House holiday home with a cross-shaped plan that stretches into its forested site in southern Sweden. Perched on a north-facing slope on ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Seven interiors where billiard tables are available on cue",
+      "url": "https://www.dezeen.com/2026/09/13/interiors-billiard-tables-lookbooks/",
+      "excerpt": "From bars and hotels to private homes, this lookbook explores interiors where billiard tables are on hand for spontaneous games. Billiard tables – comprising a cloth-covered surface surrounded by cush",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "A contemporary passive house elevates sustainable courtyard living in Hertfordshire",
+      "url": "https://www.wallpaper.com/architecture/residential/three-rivers-passive-house-gbolade-design-studio-uk",
+      "excerpt": "Explore Three Rivers Passive House by Gbolade Design Studio, a sustainable, CLT-framed home in a suburban Hertfordshire valley",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oHa3CBak9SUUJbpND6UqL8-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Love or hate? Why the Monobloc plastic chair inspires strong emotions",
+      "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-italian-summer-monobloc",
+      "excerpt": "In the penultimate instalment of ‘Objectify’, architect Carlo Ratti turns his attention to Italy's most hated (or loved?) chair - meet the Monobloc",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u494K2jubgdiwLxceDP2K8-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "how domestic work became built into the floor plan of the modern home",
+      "url": "https://www.designboom.com/architecture/domestic-work-floor-plan-modern-home-corridor/",
+      "excerpt": "the corridor began as a way to separate movement from rooms, leaving a spatial logic that still shapes homes today.\nThe post how domestic work became built into the floor plan of the modern home appea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-invisible-work-homes-corridor-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "This Cartier collection is the perfect accompaniment to black tie",
+      "url": "https://www.wallpaper.com/watches-jewellery/this-cartier-collection-is-the-perfect-accompaniment-to-black-tie",
+      "excerpt": "An enduring Cartier collection, ‘Grain de Café’, celebrates a bewitching ingredient",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2uLfnVMdhdA9sV9pYaWBG-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "South Asian design crosses borders at London Design Festival",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/south-asian-designers-london-design-festival-2026",
+      "excerpt": "In Shoreditch during London Design Festival 2026, Raw Collaborative brings together 25 boundary-pushing studios from South Asia, presenting a compelling cross-section of fine art, collectible and func",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FAjrdatrZx8hfMzNzVfUCB-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybik + Kristof",
+      "url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
+      "excerpt": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart o",
       "today": true
     },
     {
@@ -194,16 +280,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Fred Hollingsworth’s Mahogany House is a hidden jewel of mid-century modernism",
-      "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism",
-      "excerpt": "Architect Fred Hollingsworth created many outstanding residences but the Mahogany House in Canyon Heights is perhaps the most coherent design of all. Now it’s on the market for the first time in over ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FZg7xKLH4aH5kcyoK5DDtm-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -224,16 +300,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Calvin Klein Collection’s showspace featured the work of pioneering American Minimalist Walter De Maria",
-      "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-collection-walter-de-maria-veronica-leoni-antwaun-sargent",
-      "excerpt": "Curator Antwaun Sargent tells Wallpaper* the story behind the Chelsea Terminal showspace, which backdropped a stripped-back collection from creative director Veronica Leoni",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MzQNtAAFc3M3QhXSVDc9BH-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -241,16 +307,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
       "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Flexjet’s new UK hub for high flyers marks a welcome design departure",
-      "url": "https://www.wallpaper.com/transportation/flexjets-new-uk-hub-for-high-flyers-marks-a-welcome-design-departure",
-      "excerpt": "The private aviation giant’s new dedicated Farnborough terminal is a multifunctional ‘home from home’ for its users, and gives interiors and hospitality top billing",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k6DsGb2LYnnK4DXX8FLqkL-2500-80.jpg",
       "today": false
     },
     {
@@ -273,25 +329,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Four products that Dyson successfully revolutionised, and four it didn't",
-      "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/",
-      "excerpt": "As Dyson seeks to disrupt the toothbrush market with its CameraJet, we look back at how the technology company has fared in its attempts to transform other product categories over the years. Founded i",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Svenskt Tenn celebrates Anna Petrus, Sweden’s trailblazing 20th-century metal designer",
-      "url": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn",
-      "excerpt": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cPioRhP7DhBN4Gev8TrzeG-959-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -302,15 +339,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "This week we revealed a stone high-rise in London",
-      "url": "https://www.dezeen.com/2026/09/12/stone-high-rise-london-this-week/",
-      "excerpt": "This week on Dezeen, we published Petra Heights, an innovative high-rise building in London with a stone exoskeleton, designed by Groupwork and Webb Yates. The highly distinctive 10-storey building on",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -318,25 +346,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy/",
       "excerpt": "a modular pavilion bridging human and non-human environments, using woodland prunings to foster biodiversity and offer a shared refuge.\nThe post m²ft architects stacks woodland branches into modular b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "dubai gallery pairs open white exhibition halls with a concealed, brick-toned museum room",
-      "url": "https://www.designboom.com/art/dubai-gallery-open-white-exhibition-halls-concealed-brick-toned-museum-room-gary-tatintsian-mast/",
-      "excerpt": "walls held back from the glazed facade frame glimpses of the art while preserving a continuous interior volume.\nThe post dubai gallery pairs open white exhibition halls with a concealed, brick-toned m",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gary-tatintsian-gallery-dubai-mast-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.11",
-      "title": "Hanji House exhibition celebrates traditional Korean papermaking",
-      "url": "https://www.dezeen.com/2026/09/11/hanji-house-exhibition-maison-et-objet/",
-      "excerpt": "Promotion: an exhibition during this year's Maison&Objet furniture fair in Paris is set to demonstrate the continued relevance of Hanji, a thousand-year-old Korean papermaking technique. Located withi",
       "today": false
     },
     {
