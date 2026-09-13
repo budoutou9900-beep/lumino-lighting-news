@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  10:57",
+  "fetchedAt": "2026.09.13  14:47",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -96,6 +96,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.13",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.13",
@@ -145,12 +155,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.13",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion",
+      "url": "https://www.designboom.com/architecture/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio/",
+      "excerpt": "reflections blur the distinction between architecture, debris, and bodies.\nThe post salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion appeared first on design",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "What’s new in roaming homes big and small from the 2026 Düsseldorf Caravan Salon",
+      "url": "https://www.wallpaper.com/transportation/whats-new-in-roaming-homes-big-and-small-from-the-2026-dusseldorf-salon",
+      "excerpt": "The 2026 Düsseldorf Salon is the European caravan industry’s main event. This year offered up fresh trends, innovations and a host of aspirational machines for those in love with the idea of life on t",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M3i4ZoddRm6uZW3Whh27gf-2560-80.jpg",
       "today": true
     },
     {
@@ -202,6 +223,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "The Role of Urban Design in Women's Safety: Lessons from Four Public Spaces",
+      "url": "https://www.archdaily.com/1184374/the-role-of-urban-design-in-womens-safety-lessons-from-four-public-spaces",
+      "excerpt": "Public space is often intended to be perceived as universal, but access is unevenly experienced. For many women, moving through the city involves a continuous assessment of exposure, visibility, proxi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2105/d9a0/5901/87c6/8a5a/large_jpg/designing-safety-for-women-in-public-spaces_1.jpg?1788289291",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.13",
@@ -209,6 +240,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/this-cartier-collection-is-the-perfect-accompaniment-to-black-tie",
       "excerpt": "An enduring Cartier collection, ‘Grain de Café’, celebrates a bewitching ingredient",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2uLfnVMdhdA9sV9pYaWBG-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Mobile Chicken Coop / Gerrit Müller-Scheeßel + Z.O.P. - Institute for Spatial Design",
+      "url": "https://www.archdaily.com/1184943/mobile-chicken-coop-gerrit-muller-scheessel-plus-zop-institute-for-spatial-design",
+      "excerpt": "Outsider magazine's Thinking Hands summer school transformed the winning proposal of its international Chicken Coop of the Future competition into a full-scale timber structure. Selected from 226 entr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/d370/7a61/df00/0183/bcff/large_jpg/Photo_Jana_Jocif_55469570761_812e6e19d5_o.jpg?1789121465",
       "today": true
     },
     {
@@ -228,16 +269,6 @@ window.LUMINO_DATA = {
       "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybik + Kristof",
       "url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
       "excerpt": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart o",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Seven lighting designs to discover at London Design Festival 2026",
-      "url": "https://www.wallpaper.com/design-interiors/lighting-designs-at-london-design-festival-2026",
-      "excerpt": "Here are seven illuminating designs our team is looking forward to seeing across the city's exhibitions during London Design Festival 2026",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/58smppidYh37ukTqeeurf9-1575-80.jpg",
       "today": true
     },
     {
@@ -290,16 +321,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "37 Dwellings in L'Hospitalet de Llobregat / b720 Fermín Vázquez Arquitectos",
-      "url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
-      "excerpt": "A humble \"build to rent\" building of 37 dwellings in L'Hospitalet de Llobregat, located in a peripheral area, in an urban fabric in constant transformation from an industrial to a residential area and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6757/6665/db5c/2001/8806/a88a/large_jpg/37-viviendas-en-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos_3.jpg?1733781234",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -307,16 +328,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
       "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Sassi House / Galeria 733",
-      "url": "https://www.archdaily.com/1184870/sassi-house-galeria-733",
-      "excerpt": "Casa Sassi occupies a double lot bordered at the rear by a remnant of native forest in a residential gated community in Caxias do Sul, in the Serra Gaúcha region. The generous size of the plot allowed",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2f02/bed1/7f00/014d/2762/large_jpg/002_GALERIA_733_CASA_SASSI.jpg?1788292887",
       "today": false
     },
     {
@@ -336,16 +347,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/why-does-living-underground-feel-so-strange/",
       "excerpt": "underground homes reveal a tension between the physical comfort of shelter and the psychological pull of the world above.\nThe post why does living underground feel so strange? appeared first on design",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/living-underground-architecture-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "m²ft architects stacks woodland branches into modular biodiversity pavilion in italy",
-      "url": "https://www.designboom.com/design/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy/",
-      "excerpt": "a modular pavilion bridging human and non-human environments, using woodland prunings to foster biodiversity and offer a shared refuge.\nThe post m²ft architects stacks woodland branches into modular b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy-designboom-1200-1-1.jpg",
       "today": false
     },
     {
