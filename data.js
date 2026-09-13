@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  00:33",
+  "fetchedAt": "2026.09.13  05:35",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -21,23 +21,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "sortiraparis.com": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -96,7 +96,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.13",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -125,7 +125,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "sortiraparis.com",
       "cat": "展示・アート",
       "date": "2026.09.13",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
@@ -145,13 +145,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.13",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "Seven lighting designs to discover at London Design Festival 2026",
+      "url": "https://www.wallpaper.com/design-interiors/lighting-designs-at-london-design-festival-2026",
+      "excerpt": "Here are seven illuminating designs our team is looking forward to seeing across the city's exhibitions during London Design Festival 2026",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/58smppidYh37ukTqeeurf9-1575-80.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.12",
+      "title": "House Above The Trees / Wallflower Architecture + Design",
+      "url": "https://www.archdaily.com/1184983/house-above-the-trees-wallflower-architecture-plus-design",
+      "excerpt": "At the top of a hill, the city meets the forest. The site lies at the edge of Singapore's Central Nature Catchment Reserve, one of the island's most extensive natural landscapes. It seemed to offer an",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa5/87c6/a74d/1200/0125/debb/large_jpg/00_House_Above_The_Trees_Wallflower_Architects.jpg?1789233253",
+      "today": false
     },
     {
       "source": "designboom",
@@ -262,16 +273,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "House Z / Atelier Zafari",
-      "url": "https://www.archdaily.com/1184859/house-z-atelier-zafari",
-      "excerpt": "The mixed-use residential and commercial building on Schadowstraße in Berlin-Mitte was developed as part of an invited architectural competition in 2017 and completed in March 2026.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/b9c2/05b6/9900/01b5/37ae/large_jpg/Jan_Bitter_01.jpg?1789049302",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.12",
@@ -298,16 +299,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/why-does-living-underground-feel-so-strange/",
       "excerpt": "underground homes reveal a tension between the physical comfort of shelter and the psychological pull of the world above.\nThe post why does living underground feel so strange? appeared first on design",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/living-underground-architecture-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Circadian brews a new ritual inside Berlin’s brutalist Funkhaus",
-      "url": "https://www.wallpaper.com/travel/bars/circadian-tea-atelier-berlin",
-      "excerpt": "At its minimalist new GDR-era HQ, Berlin-based atelier Circadian creates a contemporary ritual using Japan’s rare, shade-grown gyokuro tea",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCyeDtMwUFnah4BV4gK8tn-1600-80.jpg",
       "today": false
     },
     {
