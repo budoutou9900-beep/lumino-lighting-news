@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  17:51",
+  "fetchedAt": "2026.09.13  20:08",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ozmall.co.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,41 +33,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "照明学会": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "照明学会": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,7 +96,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.13",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.13",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -101,10 +115,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.13",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -141,15 +155,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.13",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.13",
@@ -157,6 +162,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio/",
       "excerpt": "reflections blur the distinction between architecture, debris, and bodies.\nThe post salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion appeared first on design",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Costa Cabral Building / ATA - Atelier Tiago Antero + ENTRETEMPOS",
+      "url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
+      "excerpt": "The project intents to solve the urban void by constructing a building that takes as reference the heights, alignments and constructive principles of the adjacent structures. As such, the building was",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/large_jpg/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
       "today": true
     },
     {
@@ -285,16 +300,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
       "excerpt": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart o",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "House Above The Trees / Wallflower Architecture + Design",
-      "url": "https://www.archdaily.com/1184983/house-above-the-trees-wallflower-architecture-plus-design",
-      "excerpt": "At the top of a hill, the city meets the forest. The site lies at the edge of Singapore's Central Nature Catchment Reserve, one of the island's most extensive natural landscapes. It seemed to offer an",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa5/87c6/a74d/1200/0125/debb/large_jpg/00_House_Above_The_Trees_Wallflower_Architects.jpg?1789233253",
-      "today": false
     },
     {
       "source": "designboom",
