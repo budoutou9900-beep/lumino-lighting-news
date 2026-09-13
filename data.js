@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.12  22:46",
+  "fetchedAt": "2026.09.13  00:33",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,80 +9,76 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "ozmall.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "Google ニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Sortir à Paris": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "遠藤照明": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "照明学会": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "照明学会": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -92,7 +88,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -100,18 +96,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.09.12",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -120,7 +107,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -130,7 +117,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -140,7 +127,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -150,7 +137,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
@@ -158,9 +145,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
-      "date": "2026.09.12",
+      "date": "2026.09.13",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
@@ -174,7 +161,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
       "excerpt": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life.\nThe post superstudio’s 12 ideal cities question the price of a pe",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -183,7 +170,7 @@ window.LUMINO_DATA = {
       "title": "New York beach home by BAAO contains a \"house within a house\"",
       "url": "https://www.dezeen.com/2026/09/12/breezy-point-house-queens-new-york-baao-studio/",
       "excerpt": "Indents and slices across an offset gabled volume bring natural light into this beach house in Queens, New York, by Brooklyn-based BAAO Studio. The 2,655-square-foot (247-square-metre) residence is lo",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -193,7 +180,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184968/enso-compartment-s4",
       "excerpt": "Industrial buildings are typically designed as fixed objects—efficient, economical, and tailored to immediate production requirements. When growth occurs, expansion is often improvised through attache",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0f01/7a61/df00/0183/be80/large_jpg/9.jpg?1789136658",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -203,7 +190,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/fred-hollingsworths-mahogany-house-is-a-hidden-jewel-of-mid-century-modernism",
       "excerpt": "Architect Fred Hollingsworth created many outstanding residences but the Mahogany House in Canyon Heights is perhaps the most coherent design of all. Now it’s on the market for the first time in over ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FZg7xKLH4aH5kcyoK5DDtm-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -213,7 +200,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184498/paroissien-house",
       "excerpt": "The project consists of a single-family residence located in Buenos Aires, situated across from a park that serves as a green lung for both the neighbors and the surrounding houses. The lot featured a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/94c0/15d8/6f00/01a2/ecb4/large_jpg/VG-Paroissien-01.jpg?1788450017",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -223,7 +210,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
       "excerpt": "A humble \"build to rent\" building of 37 dwellings in L'Hospitalet de Llobregat, located in a peripheral area, in an urban fabric in constant transformation from an industrial to a residential area and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6757/6665/db5c/2001/8806/a88a/large_jpg/37-viviendas-en-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos_3.jpg?1733781234",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -233,7 +220,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/calvin-klein-collection-walter-de-maria-veronica-leoni-antwaun-sargent",
       "excerpt": "Curator Antwaun Sargent tells Wallpaper* the story behind the Chelsea Terminal showspace, which backdropped a stripped-back collection from creative director Veronica Leoni",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MzQNtAAFc3M3QhXSVDc9BH-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -243,7 +230,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
       "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -253,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/flexjets-new-uk-hub-for-high-flyers-marks-a-welcome-design-departure",
       "excerpt": "The private aviation giant’s new dedicated Farnborough terminal is a multifunctional ‘home from home’ for its users, and gives interiors and hospitality top billing",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k6DsGb2LYnnK4DXX8FLqkL-2500-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -263,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184870/sassi-house-galeria-733",
       "excerpt": "Casa Sassi occupies a double lot bordered at the rear by a remnant of native forest in a residential gated community in Caxias do Sul, in the Serra Gaúcha region. The generous size of the plot allowed",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2f02/bed1/7f00/014d/2762/large_jpg/002_GALERIA_733_CASA_SASSI.jpg?1788292887",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -272,7 +259,7 @@ window.LUMINO_DATA = {
       "title": "Mossy rooftop crowns Bather's Cabin in East Sussex woodland",
       "url": "https://www.dezeen.com/2026/09/12/bathers-cabin-built-works/",
       "excerpt": "Visitors to this woodland cabin in East Sussex enter via a planted roof terrace, which its architect, British studio Built Works, has \"devoted entirely to the ritual of bathing\". Nestled in woodland i",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -282,7 +269,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184859/house-z-atelier-zafari",
       "excerpt": "The mixed-use residential and commercial building on Schadowstraße in Berlin-Mitte was developed as part of an invited architectural competition in 2017 and completed in March 2026.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/b9c2/05b6/9900/01b5/37ae/large_jpg/Jan_Bitter_01.jpg?1789049302",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -291,7 +278,7 @@ window.LUMINO_DATA = {
       "title": "Four products that Dyson successfully revolutionised, and four it didn't",
       "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/",
       "excerpt": "As Dyson seeks to disrupt the toothbrush market with its CameraJet, we look back at how the technology company has fared in its attempts to transform other product categories over the years. Founded i",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -301,7 +288,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn",
       "excerpt": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cPioRhP7DhBN4Gev8TrzeG-959-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -311,7 +298,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/why-does-living-underground-feel-so-strange/",
       "excerpt": "underground homes reveal a tension between the physical comfort of shelter and the psychological pull of the world above.\nThe post why does living underground feel so strange? appeared first on design",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/living-underground-architecture-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -321,7 +308,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/bars/circadian-tea-atelier-berlin",
       "excerpt": "At its minimalist new GDR-era HQ, Berlin-based atelier Circadian creates a contemporary ritual using Japan’s rare, shade-grown gyokuro tea",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCyeDtMwUFnah4BV4gK8tn-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -330,7 +317,7 @@ window.LUMINO_DATA = {
       "title": "This week we revealed a stone high-rise in London",
       "url": "https://www.dezeen.com/2026/09/12/stone-high-rise-london-this-week/",
       "excerpt": "This week on Dezeen, we published Petra Heights, an innovative high-rise building in London with a stone exoskeleton, designed by Groupwork and Webb Yates. The highly distinctive 10-storey building on",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -340,7 +327,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy/",
       "excerpt": "a modular pavilion bridging human and non-human environments, using woodland prunings to foster biodiversity and offer a shared refuge.\nThe post m²ft architects stacks woodland branches into modular b",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy-designboom-1200-1-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
