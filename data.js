@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  14:47",
+  "fetchedAt": "2026.09.13  17:51",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Sortir à Paris": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,41 +37,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "照明学会": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "照明学会": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -96,16 +92,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.13",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.13",
@@ -115,10 +101,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.13",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -155,6 +141,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.13",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.13",
@@ -175,12 +170,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Trailcenter Rytterknægten / Matters architects",
+      "url": "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects",
+      "excerpt": "Trailcenter Rytterknægten is part of the nationwide initiative Danish Trailcentres, buildings designed to promote outdoor activity and nature access across Denmark. Designed by Matters in 2021, built ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68b5/bd71/f0a1/3200/01f3/5445/large_jpg/Rasmus_Hjortshoj__Trail_Center_WEB-23.jpg?1756741007",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.13",
       "title": "Johan Sundberg Arkitektur nestles timber summer house within Swedish woodland",
       "url": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
       "excerpt": "Swedish studio Johan Sundberg Arkitektur has designed the Pine House holiday home with a cross-shaped plan that stretches into its forested site in southern Sweden. Perched on a north-facing slope on ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Bota Dürnten School Building / Lukas Raeber Architects",
+      "url": "https://www.archdaily.com/1033838/bota-durnten-school-building-lukas-raeber-architects",
+      "excerpt": "The area encompassing the Bogenacker and Tannenbühl sites previously consisted of two primary school buildings and several small structures surrounding an undefined central space.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68ba/eee5/3dba/9b00/01d5/c991/large_jpg/lukasraeber_schuleb_willempab_170825_08.jpg?1757081448",
       "today": true
     },
     {
@@ -298,26 +313,6 @@ window.LUMINO_DATA = {
       "title": "New York beach home by BAAO contains a \"house within a house\"",
       "url": "https://www.dezeen.com/2026/09/12/breezy-point-house-queens-new-york-baao-studio/",
       "excerpt": "Indents and slices across an offset gabled volume bring natural light into this beach house in Queens, New York, by Brooklyn-based BAAO Studio. The 2,655-square-foot (247-square-metre) residence is lo",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Enso / Compartment S4",
-      "url": "https://www.archdaily.com/1184968/enso-compartment-s4",
-      "excerpt": "Industrial buildings are typically designed as fixed objects—efficient, economical, and tailored to immediate production requirements. When growth occurs, expansion is often improvised through attache",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0f01/7a61/df00/0183/be80/large_jpg/9.jpg?1789136658",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Paroissien House / Veronica Gilotaux",
-      "url": "https://www.archdaily.com/1184498/paroissien-house",
-      "excerpt": "The project consists of a single-family residence located in Buenos Aires, situated across from a park that serves as a green lung for both the neighbors and the surrounding houses. The lot featured a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/94c0/15d8/6f00/01a2/ecb4/large_jpg/VG-Paroissien-01.jpg?1788450017",
       "today": false
     },
     {
