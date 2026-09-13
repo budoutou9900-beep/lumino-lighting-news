@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  20:08",
+  "fetchedAt": "2026.09.13  22:47",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -158,10 +158,28 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.13",
+      "title": "georgia o’keeffe: architecture and the artist’s homes, buildings, and landscapes",
+      "url": "https://www.designboom.com/art/georgia-okeeffe-architecture-and-the-artists-homes-buildings-and-landscapes/",
+      "excerpt": "through nearly forty paintings, the detroit show goes inside the built structures the famed american painter depicted in her lifetime. \nThe post georgia o’keeffe: architecture and the artist’s homes, ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "House and Studio in Kyoto / Tato Architects",
+      "url": "https://www.archdaily.com/1184960/house-and-studio-in-kyoto-tato-architects",
+      "excerpt": "This is a combined studio and residence for a couple of ceramic artists, located in a commercial district in central Kyoto, where the surroundings are already being rebuilt into dense mid- and high-ri",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0ba9/7a61/df00/0183/be08/large_jpg/01_House_and_Studio_in_Kyoto.jpg?1789135815",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.13",
       "title": "salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion",
       "url": "https://www.designboom.com/architecture/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio/",
       "excerpt": "reflections blur the distinction between architecture, debris, and bodies.\nThe post salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio-designboom-1200.jpg",
       "today": true
     },
     {
@@ -249,7 +267,6 @@ window.LUMINO_DATA = {
       "title": "how domestic work became built into the floor plan of the modern home",
       "url": "https://www.designboom.com/architecture/domestic-work-floor-plan-modern-home-corridor/",
       "excerpt": "the corridor began as a way to separate movement from rooms, leaving a spatial logic that still shapes homes today.\nThe post how domestic work became built into the floor plan of the modern home appea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-invisible-work-homes-corridor-designboom-FB.jpg",
       "today": true
     },
     {
@@ -270,16 +287,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/this-cartier-collection-is-the-perfect-accompaniment-to-black-tie",
       "excerpt": "An enduring Cartier collection, ‘Grain de Café’, celebrates a bewitching ingredient",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2uLfnVMdhdA9sV9pYaWBG-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Mobile Chicken Coop / Gerrit Müller-Scheeßel + Z.O.P. - Institute for Spatial Design",
-      "url": "https://www.archdaily.com/1184943/mobile-chicken-coop-gerrit-muller-scheessel-plus-zop-institute-for-spatial-design",
-      "excerpt": "Outsider magazine's Thinking Hands summer school transformed the winning proposal of its international Chicken Coop of the Future competition into a full-scale timber structure. Selected from 226 entr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/d370/7a61/df00/0183/bcff/large_jpg/Photo_Jana_Jocif_55469570761_812e6e19d5_o.jpg?1789121465",
       "today": true
     },
     {
@@ -308,7 +315,6 @@ window.LUMINO_DATA = {
       "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
       "url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
       "excerpt": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life.\nThe post superstudio’s 12 ideal cities question the price of a pe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
       "today": false
     },
     {
@@ -327,7 +333,6 @@ window.LUMINO_DATA = {
       "title": "suspended metal grid ceiling meets translucent and reflective surfaces inside french café",
       "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
       "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
       "today": false
     },
     {
@@ -337,16 +342,6 @@ window.LUMINO_DATA = {
       "title": "Mossy rooftop crowns Bather's Cabin in East Sussex woodland",
       "url": "https://www.dezeen.com/2026/09/12/bathers-cabin-built-works/",
       "excerpt": "Visitors to this woodland cabin in East Sussex enter via a planted roof terrace, which its architect, British studio Built Works, has \"devoted entirely to the ritual of bathing\". Nestled in woodland i",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "why does living underground feel so strange?",
-      "url": "https://www.designboom.com/architecture/why-does-living-underground-feel-so-strange/",
-      "excerpt": "underground homes reveal a tension between the physical comfort of shelter and the psychological pull of the world above.\nThe post why does living underground feel so strange? appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/living-underground-architecture-designboom-FB.jpg",
       "today": false
     },
     {
