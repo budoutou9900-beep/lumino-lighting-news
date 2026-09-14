@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.14  05:40",
+  "fetchedAt": "2026.09.14  11:31",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,65 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ozmall.co.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "オズモール": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Sortir à Paris": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -92,7 +96,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.14",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.14",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -141,12 +154,187 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.14",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "designboom.paris: a week of conversations, gatherings, and making in the marais",
+      "url": "https://www.designboom.com/design/designboom-paris-design-week-conversations-gatherings-people-marais-indxglobal-clarks-originals-topologie/",
+      "excerpt": "the first stop of our new travelling series brought together designers, architects, collaborators, and friends for a week of conversations, gatherings, and hands-on activities in the marais.\nThe post ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designboom-paris-design-week-conversations-gatherings-people-marais-indxglobal-clarks-originals-topologie-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Ryuichi Sasaki Architecture uses trapezoid motifs for concrete housing in Tokyo",
+      "url": "https://www.dezeen.com/2026/09/14/ryuichi-sasaki-architecture-shin-nakano-trapezoidal/",
+      "excerpt": "Trapezoidal motifs appear throughout this concrete condominium block in Tokyo, designed by Japanese studio Ryuichi Sasaki Architecture. Named Shin Nakano Trapezoidal, the five-storey block of 11 resid",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Studio Saar tops LDF pavilion with police and rain shields",
+      "url": "https://www.dezeen.com/2026/09/14/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion/",
+      "excerpt": "This year's London Design Festival landmark project, The Pangolin Shield, explores Britain and India's colonial history through a bamboo-grid pavilion covered with shields used both for protection and",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Design Academy Eindhoven students reinvent the bathroom for a resource-scarce future",
+      "url": "https://www.dezeen.com/2026/09/14/design-academy-eindhoven-kaldewei-behind-closed-doors/",
+      "excerpt": "Tiles decorated with hair and a dissolving washbasin made of soap are among the student projects featured in Behind Closed Doors, an exhibition by the Design Academy Eindhoven and Kaldewei at Berlin d",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "groundbreaking smart tech winners fueling the A’ design award 2026 call for entries",
+      "url": "https://www.designboom.com/technology/smart-tech-winners-a-design-award-and-competition-2026-call-for-entries/",
+      "excerpt": "discover award-winning tech products curated by designboom and enter the A' design award 2026 to showcase your design on an international stage. \nThe post groundbreaking smart tech winners fueling the",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adesign-award_designbooom_012-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Vipp453 Swivel chair by Vipp",
+      "url": "https://www.dezeen.com/2026/09/14/vipp453-swivel-chair-vipp-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: modernist style and high levels of comfort combine in the Vipp453 Swivel chair, created by Danish brand Vipp for both conference rooms and home offices. The Vipp453 Swivel chair is de",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "what we learned: modes of habitation",
+      "url": "https://www.designboom.com/design/what-we-learned-modes-of-habitation/",
+      "excerpt": "the spaces we inhabit reveal themselves as active participants in everyday life, shaping how we move, work, rest, and meet others.\nThe post what we learned: modes of habitation appeared first on desig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/what-we-learned-modes-of-habitation-designboom-4.jpg",
+      "today": true
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "\"Is touching really asking too much?\"",
+      "url": "https://www.dezeen.com/2026/09/14/touching-design-alice-fisher-opinion/",
+      "excerpt": "Look-but-don't-touch design exhibitions are inherently unfulfilling so it's good that some designers are finding ways to let people properly interact with their work, writes Alice Fisher. In the 1990s",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "We audition the Ineos Quartermaster across field and dale to check out its true credentials",
+      "url": "https://www.wallpaper.com/transportation/we-audition-the-ineos-quartermaster-across-field-and-dale-to-check-out-its-true-credentials",
+      "excerpt": "Ineos gives no quarter with its all-conquering double-cab pickup truck. Is the Quartermaster the most brutally practical car on the market or an expensive way to play dress up in the shires?",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bw8c22kvpaSD9DELGy9LCN-1024-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Willo Perron creates a triumphant set design for Céline Dion's return to the stage",
+      "url": "https://www.wallpaper.com/design-interiors/celine-dion-paris-stage-willo-perron-2026",
+      "excerpt": "On Saturday, Céline Dion's fans welcomed her back to the stage in Paris. We take a look behind the scenes of the set design, by Wallpaper* Designer of the Year Willo Perron",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cXT4voNf4B9pAtsw2J8a6P-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Socialist Hotels is Fuel Publishing’s newest study of a fast vanishing design aesthetic",
+      "url": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
+      "excerpt": "This new photographic compendium offers over 150 examples of socialist hospitality design, from Albania to Ukraine",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QNvXbF35LFqiYpMjZ9YPhP-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Hug House / TTAD Arquitetura",
+      "url": "https://www.archdaily.com/1184893/hug-house-ttad-arquitetura",
+      "excerpt": "Casa do Abraço was conceived from the relationship between social interaction and privacy, organizing the residence to accommodate a family routine marked by different forms of use: gatherings, work, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/3536/bed1/7f00/014d/27c2/large_jpg/260624_Casa_Abra_o_0073.jpg?1788294624",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "a series of joinery elements replaces walls in 1970s athens apartment renovation",
+      "url": "https://www.designboom.com/architecture/joinery-elements-walls-1970s-athens-apartment-renovation-georgios-apostolopoulos-architects/",
+      "excerpt": "the apartment is organized through spatial relationships instead of separate rooms.\nThe post a series of joinery elements replaces walls in 1970s athens apartment renovation appeared first on designbo",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kifisia-1970s-apartment-athens-georgios-apostolopoulos-architects-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Reinterpreting the Ruyi Knot as a Cultural Symbol in Contemporary Metalwork",
+      "url": "https://www.archdaily.com/1184531/reinterpreting-the-ruyi-knot-as-a-cultural-symbol-in-contemporary-metalwork",
+      "excerpt": "Symbols have always traveled through architecture. They appear in carved stone, woven textiles, painted ceilings and walls, door hardware, and everyday objects, carrying the beliefs, rituals, and hist",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/a9f5/1fe7/3101/8863/0501/large_jpg/translating-cultural-symbols-into-contemporary-design-the-story-of-the-ruyi-knot_4.jpg?1788520992",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "SAGA Space Architects and 3DCP Group Complete 36-Unit 3D-Printed Student Village in Denmark",
+      "url": "https://www.archdaily.com/1185029/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark",
+      "excerpt": "3DCP Group has completed Skovsporet, a 3D-printed student housing development in Holstebro, Denmark, designed by SAGA Space Architects in collaboration with MS+. Located near VIA University College, t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c9ce/069c/1b01/89fb/72fa/large_jpg/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark_5.jpg?1789381124",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "KEBAG Enova - Waste to Energy Plant / Penzel Valier",
+      "url": "https://www.archdaily.com/1183744/kebag-enova-waste-to-energy-plant",
+      "excerpt": "The spatial form of the building is shaped by two key design principles. First, rather than reinforcing the delivery and process bunkers - comprising both existing and new structures with ribs, extend",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/322d/4253/0500/01c9/fe2b/large_jpg/89_260519_BAU_B0004446_web.jpg?1787310660",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Assemble to Transform Grade II*-Listed Bromley Hall into a New Creative and Light Industrial Workspace in London",
+      "url": "https://www.archdaily.com/1184991/assemble-to-transform-grade-ii-star-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london",
+      "excerpt": "London-based art, architecture, and design collective Assemble has recently announced a new workspace project in the English capital. Since its founding in 2010, the studio has built a community aroun",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa5/ea88/c1eb/5301/897f/18a9/large_jpg/assemble-to-transform-grade-ii-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london_6.jpg?1789258401",
       "today": true
     },
     {
@@ -170,16 +358,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "JH Gwangan Mixed-use building  / U.GA Architects",
-      "url": "https://www.archdaily.com/1184999/jh-gwangan-mixed-use-building-uga-architects",
-      "excerpt": "Situated in Mangmi-dong, Busan, the site occupies a sharp, acute-angled corner where a dynamic, high-traffic arterial road heading towards Haeundae collides with the quaint charm of an old residential",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa6/ccc1/a74d/1200/0125/df93/large_jpg/LUCY__3_.jpg?1789316326",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.13",
@@ -190,56 +368,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "House and Studio in Kyoto / Tato Architects",
-      "url": "https://www.archdaily.com/1184960/house-and-studio-in-kyoto-tato-architects",
-      "excerpt": "This is a combined studio and residence for a couple of ceramic artists, located in a commercial district in central Kyoto, where the surroundings are already being rebuilt into dense mid- and high-ri",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0ba9/7a61/df00/0183/be08/large_jpg/01_House_and_Studio_in_Kyoto.jpg?1789135815",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Base Rupanco / remo estudio",
-      "url": "https://www.archdaily.com/1185004/base-rupanco-remo-estudio",
-      "excerpt": "Located in a forest in Chile's Los Lagos Region, on a plot of land crossed by a river near the mouth of Lake Rupanco, this project arose from the need to complement an existing way of living. The owne",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/53a8/069c/1b01/89fb/7165/large_jpg/base-rupanco-remo-estudio_12.jpg?1789350844",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Marinas House / Pirca Arquitectura",
-      "url": "https://www.archdaily.com/1185008/marinas-house-pirca-arquitectura",
-      "excerpt": "Situated in front of a lake, the house was developed from a constant search to blur the boundaries between interior and exterior, allowing natural light, views, and vegetation to define the atmosphere",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/e14e/05b6/9900/01b5/3ac4/large_jpg/PIRCA_-_PUERTOS_-1.jpg?1789059493",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion",
-      "url": "https://www.designboom.com/architecture/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio/",
-      "excerpt": "reflections blur the distinction between architecture, debris, and bodies.\nThe post salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Costa Cabral Building / ATA - Atelier Tiago Antero + ENTRETEMPOS",
-      "url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
-      "excerpt": "The project intents to solve the urban void by constructing a building that takes as reference the heights, alignments and constructive principles of the adjacent structures. As such, the building was",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/large_jpg/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.13",
@@ -247,111 +375,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/whats-new-in-roaming-homes-big-and-small-from-the-2026-dusseldorf-salon",
       "excerpt": "The 2026 Düsseldorf Salon is the European caravan industry’s main event. This year offered up fresh trends, innovations and a host of aspirational machines for those in love with the idea of life on t",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M3i4ZoddRm6uZW3Whh27gf-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Johan Sundberg Arkitektur nestles timber summer house within Swedish woodland",
-      "url": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
-      "excerpt": "Swedish studio Johan Sundberg Arkitektur has designed the Pine House holiday home with a cross-shaped plan that stretches into its forested site in southern Sweden. Perched on a north-facing slope on ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Seven interiors where billiard tables are available on cue",
-      "url": "https://www.dezeen.com/2026/09/13/interiors-billiard-tables-lookbooks/",
-      "excerpt": "From bars and hotels to private homes, this lookbook explores interiors where billiard tables are on hand for spontaneous games. Billiard tables – comprising a cloth-covered surface surrounded by cush",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "A contemporary passive house elevates sustainable courtyard living in Hertfordshire",
-      "url": "https://www.wallpaper.com/architecture/residential/three-rivers-passive-house-gbolade-design-studio-uk",
-      "excerpt": "Explore Three Rivers Passive House by Gbolade Design Studio, a sustainable, CLT-framed home in a suburban Hertfordshire valley",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oHa3CBak9SUUJbpND6UqL8-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Love or hate? Why the Monobloc plastic chair inspires strong emotions",
-      "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-italian-summer-monobloc",
-      "excerpt": "In the penultimate instalment of ‘Objectify’, architect Carlo Ratti turns his attention to Italy's most hated (or loved?) chair - meet the Monobloc",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u494K2jubgdiwLxceDP2K8-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "how domestic work became built into the floor plan of the modern home",
-      "url": "https://www.designboom.com/architecture/domestic-work-floor-plan-modern-home-corridor/",
-      "excerpt": "the corridor began as a way to separate movement from rooms, leaving a spatial logic that still shapes homes today.\nThe post how domestic work became built into the floor plan of the modern home appea",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-invisible-work-homes-corridor-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "This Cartier collection is the perfect accompaniment to black tie",
-      "url": "https://www.wallpaper.com/watches-jewellery/this-cartier-collection-is-the-perfect-accompaniment-to-black-tie",
-      "excerpt": "An enduring Cartier collection, ‘Grain de Café’, celebrates a bewitching ingredient",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2uLfnVMdhdA9sV9pYaWBG-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybik + Kristof",
-      "url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
-      "excerpt": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart o",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
-      "url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
-      "excerpt": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life.\nThe post superstudio’s 12 ideal cities question the price of a pe",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "New York beach home by BAAO contains a \"house within a house\"",
-      "url": "https://www.dezeen.com/2026/09/12/breezy-point-house-queens-new-york-baao-studio/",
-      "excerpt": "Indents and slices across an offset gabled volume bring natural light into this beach house in Queens, New York, by Brooklyn-based BAAO Studio. The 2,655-square-foot (247-square-metre) residence is lo",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "suspended metal grid ceiling meets translucent and reflective surfaces inside french café",
-      "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
-      "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.12",
-      "title": "Mossy rooftop crowns Bather's Cabin in East Sussex woodland",
-      "url": "https://www.dezeen.com/2026/09/12/bathers-cabin-built-works/",
-      "excerpt": "Visitors to this woodland cabin in East Sussex enter via a planted roof terrace, which its architect, British studio Built Works, has \"devoted entirely to the ritual of bathing\". Nestled in woodland i",
       "today": false
     },
     {
