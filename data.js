@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.14  11:31",
+  "fetchedAt": "2026.09.14  17:26",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,23 +17,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,37 +41,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "パナソニック": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -96,12 +88,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "Google ニュース",
+      "cat": "展示・アート",
       "date": "2026.09.14",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -114,10 +107,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.14",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -154,12 +147,72 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.14",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
-      "excerpt": "",
+      "title": "SO arquitetura stacks tiny azores home onto 13 square-meter footprint",
+      "url": "https://www.designboom.com/architecture/so-arquitetura-tiny-azores-home-mini-atalhada-portugal/",
+      "excerpt": "built upward from a tiny footprint, the compact home orients its brightest living spaces toward the sea.\nThe post SO arquitetura stacks tiny azores home onto 13 square-meter footprint appeared first o",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/SO-arquitecura-mini-atalhada-portugal-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Horse-mounted ecological regeneration system among projects by IE University",
+      "url": "https://www.dezeen.com/2026/09/14/horse-mounted-ecological-regeneration-system-ie-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a portable structure made from natural materials that disperses native seed types from horseback is among projects by IE University students. Also featured is a hospital interior ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "greenhouse converts into inhabitable light installation for music festival in the UK",
+      "url": "https://www.designboom.com/art/greenhouse-inhabitable-light-installation-music-festival-uk-kren-shed/",
+      "excerpt": "sprayed yellow aluminum, black PVC and off-the-shelf fixings transform this domestic garden structure into a glowing beacon and gathering space.\nThe post greenhouse converts into inhabitable light ins",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kren-shed-light-greenhouse-installation-music-festival-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "London Design Festival 2026: live updates from the Wallpaper* team",
+      "url": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026",
+      "excerpt": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vPoa38f8GMFZxkznQ5oWAT-1448-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Rimowa partners with Faber Castell on an case that is an artist's dream",
+      "url": "https://www.wallpaper.com/design-interiors/rimowa-faber-castell-artist-case",
+      "excerpt": "Discover the Rimowa x Faber Castell Artist Case, featuring specially-designed pencils and tools, and 120 Polychromos colour pencils",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bYGEwGvQeFs2eZsfr52CeV-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "One to watch: Ollie Olanipekun takes a bird's eye view of social responsibility, community and connection",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/flock-together-ollie-olanipekun-shoreditch-london-design-festival-2026",
+      "excerpt": "Challenging perceptions and stereotypes through the (binocular) lens of nature, multidisciplinary creative Ollie Olanipekun and his birdwatching club Flock Together are combatting the underrepresentat",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wghih6LUhWJeGix3SJrHC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "The evening bag is having a renaissance. Here’s eight of the best",
+      "url": "https://www.wallpaper.com/fashion-beauty/accessories/best-evening-bags-trend",
+      "excerpt": "Designers are embracing the evening bag for the easy flourish of glamour it brings to an outfit. From a Dior ‘frog’ to hedonistic Gucci chainmail, we pick eight unexpected evening bags for autumn",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ubRKTJyAAndXzMZVuyw6GJ-2560-80.jpg",
       "today": true
     },
     {
@@ -210,6 +263,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "House Südeifel / PUR+ Architekten",
+      "url": "https://www.archdaily.com/1184860/house-sudeifel-pur-plus-architekten",
+      "excerpt": "Located within the historic village structure of Germany's southern Eifel region, Haus Südeifel sensitively transforms a heritage-listed 18th-century farmstead into a contemporary home and retreat. Th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/ba4d/05b6/9900/01b5/37da/large_jpg/PP_Beilingen___Dominic-Kummer_2026-18_verkleinert.jpg?1789049476",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.14",
@@ -229,6 +292,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Hidden Forces",
+      "url": "https://www.archdaily.com/1185047/hidden-forces",
+      "excerpt": "Hidden Forces is a research project dedicated to the less visible dimensions that contribute to shaping architecture. Through an exhibition and a public programme of talks, the project transforms Bolo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/f468/a74d/1200/0125/e248/large_jpg/Hidden_Forces_Invito_Mostra.jpg?1789391993",
+      "today": true
+    },
+    {
       "source": "LPA",
       "cat": "デザイン",
       "date": "2026.09.14",
@@ -236,15 +309,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "\"Is touching really asking too much?\"",
-      "url": "https://www.dezeen.com/2026/09/14/touching-design-alice-fisher-opinion/",
-      "excerpt": "Look-but-don't-touch design exhibitions are inherently unfulfilling so it's good that some designers are finding ways to let people properly interact with their work, writes Alice Fisher. In the 1990s",
       "today": true
     },
     {
@@ -258,23 +322,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.14",
-      "title": "Willo Perron creates a triumphant set design for Céline Dion's return to the stage",
-      "url": "https://www.wallpaper.com/design-interiors/celine-dion-paris-stage-willo-perron-2026",
-      "excerpt": "On Saturday, Céline Dion's fans welcomed her back to the stage in Paris. We take a look behind the scenes of the set design, by Wallpaper* Designer of the Year Willo Perron",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cXT4voNf4B9pAtsw2J8a6P-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Socialist Hotels is Fuel Publishing’s newest study of a fast vanishing design aesthetic",
-      "url": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
-      "excerpt": "This new photographic compendium offers over 150 examples of socialist hospitality design, from Albania to Ukraine",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QNvXbF35LFqiYpMjZ9YPhP-2560-80.jpg",
+      "title": "A House Above the Water: The Story of Amancio and Delfina Williams' Modernist Gem",
+      "url": "https://www.archdaily.com/1184793/a-house-above-the-water-the-story-of-amancio-and-delfina-williams-modernist-gem",
+      "excerpt": "What happens to a house when the life it was designed for ends? In Casa sobre el Arroyo, the answer developed gradually as the building changed use, ownership, and condition over nearly eight decades.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/a4c6/237b/e901/8be9/5f77/large_jpg/from-house-to-heritage-preserving-casa-sobre-el-arroyo_2.jpg?1788912866",
       "today": true
     },
     {
@@ -288,16 +342,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "a series of joinery elements replaces walls in 1970s athens apartment renovation",
-      "url": "https://www.designboom.com/architecture/joinery-elements-walls-1970s-athens-apartment-renovation-georgios-apostolopoulos-architects/",
-      "excerpt": "the apartment is organized through spatial relationships instead of separate rooms.\nThe post a series of joinery elements replaces walls in 1970s athens apartment renovation appeared first on designbo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kifisia-1970s-apartment-athens-georgios-apostolopoulos-architects-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.14",
@@ -305,46 +349,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184531/reinterpreting-the-ruyi-knot-as-a-cultural-symbol-in-contemporary-metalwork",
       "excerpt": "Symbols have always traveled through architecture. They appear in carved stone, woven textiles, painted ceilings and walls, door hardware, and everyday objects, carrying the beliefs, rituals, and hist",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/a9f5/1fe7/3101/8863/0501/large_jpg/translating-cultural-symbols-into-contemporary-design-the-story-of-the-ruyi-knot_4.jpg?1788520992",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "SAGA Space Architects and 3DCP Group Complete 36-Unit 3D-Printed Student Village in Denmark",
-      "url": "https://www.archdaily.com/1185029/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark",
-      "excerpt": "3DCP Group has completed Skovsporet, a 3D-printed student housing development in Holstebro, Denmark, designed by SAGA Space Architects in collaboration with MS+. Located near VIA University College, t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c9ce/069c/1b01/89fb/72fa/large_jpg/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark_5.jpg?1789381124",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "KEBAG Enova - Waste to Energy Plant / Penzel Valier",
-      "url": "https://www.archdaily.com/1183744/kebag-enova-waste-to-energy-plant",
-      "excerpt": "The spatial form of the building is shaped by two key design principles. First, rather than reinforcing the delivery and process bunkers - comprising both existing and new structures with ribs, extend",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a88/322d/4253/0500/01c9/fe2b/large_jpg/89_260519_BAU_B0004446_web.jpg?1787310660",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Assemble to Transform Grade II*-Listed Bromley Hall into a New Creative and Light Industrial Workspace in London",
-      "url": "https://www.archdaily.com/1184991/assemble-to-transform-grade-ii-star-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london",
-      "excerpt": "London-based art, architecture, and design collective Assemble has recently announced a new workspace project in the English capital. Since its founding in 2010, the studio has built a community aroun",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa5/ea88/c1eb/5301/897f/18a9/large_jpg/assemble-to-transform-grade-ii-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london_6.jpg?1789258401",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Check into Bloomsbury’s newly reimagined grande dame",
-      "url": "https://www.wallpaper.com/travel/hotels/the-imperial-bloomsbury-london-review",
-      "excerpt": "The Imperial Bloomsbury enters a new era with tactile interiors, a rooftop bar and a distinctly bookish London address",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BdcfBmsuzgEPQEsH8ePDLX-2000-80.jpg",
       "today": true
     },
     {
@@ -356,26 +360,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "georgia o’keeffe: architecture and the artist’s homes, buildings, and landscapes",
-      "url": "https://www.designboom.com/art/georgia-okeeffe-architecture-and-the-artists-homes-buildings-and-landscapes/",
-      "excerpt": "through nearly forty paintings, the detroit show goes inside the built structures the famed american painter depicted in her lifetime. \nThe post georgia o’keeffe: architecture and the artist’s homes, ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/okeefe-architecture-designboom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "What’s new in roaming homes big and small from the 2026 Düsseldorf Caravan Salon",
-      "url": "https://www.wallpaper.com/transportation/whats-new-in-roaming-homes-big-and-small-from-the-2026-dusseldorf-salon",
-      "excerpt": "The 2026 Düsseldorf Salon is the European caravan industry’s main event. This year offered up fresh trends, innovations and a host of aspirational machines for those in love with the idea of life on t",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M3i4ZoddRm6uZW3Whh27gf-2560-80.jpg",
-      "today": false
     },
     {
       "source": "遠藤照明",
