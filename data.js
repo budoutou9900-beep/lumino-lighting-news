@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.14  00:36",
+  "fetchedAt": "2026.09.14  05:40",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,35 +25,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.14",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -141,13 +141,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.14",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Check into Bloomsbury’s newly reimagined grande dame",
+      "url": "https://www.wallpaper.com/travel/hotels/the-imperial-bloomsbury-london-review",
+      "excerpt": "The Imperial Bloomsbury enters a new era with tactile interiors, a rooftop bar and a distinctly bookish London address",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/BdcfBmsuzgEPQEsH8ePDLX-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.09.14",
+      "title": "納入事例にホテル・旅館物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "JH Gwangan Mixed-use building  / U.GA Architects",
+      "url": "https://www.archdaily.com/1184999/jh-gwangan-mixed-use-building-uga-architects",
+      "excerpt": "Situated in Mangmi-dong, Busan, the site occupies a sharp, acute-angled corner where a dynamic, high-traffic arterial road heading towards Haeundae collides with the quaint charm of an old residential",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa6/ccc1/a74d/1200/0125/df93/large_jpg/LUCY__3_.jpg?1789316326",
+      "today": false
     },
     {
       "source": "designboom",
@@ -167,6 +197,26 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184960/house-and-studio-in-kyoto-tato-architects",
       "excerpt": "This is a combined studio and residence for a couple of ceramic artists, located in a commercial district in central Kyoto, where the surroundings are already being rebuilt into dense mid- and high-ri",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0ba9/7a61/df00/0183/be08/large_jpg/01_House_and_Studio_in_Kyoto.jpg?1789135815",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Base Rupanco / remo estudio",
+      "url": "https://www.archdaily.com/1185004/base-rupanco-remo-estudio",
+      "excerpt": "Located in a forest in Chile's Los Lagos Region, on a plot of land crossed by a river near the mouth of Lake Rupanco, this project arose from the need to complement an existing way of living. The owne",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/53a8/069c/1b01/89fb/7165/large_jpg/base-rupanco-remo-estudio_12.jpg?1789350844",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.13",
+      "title": "Marinas House / Pirca Arquitectura",
+      "url": "https://www.archdaily.com/1185008/marinas-house-pirca-arquitectura",
+      "excerpt": "Situated in front of a lake, the house was developed from a constant search to blur the boundaries between interior and exterior, allowing natural light, views, and vegetation to define the atmosphere",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/e14e/05b6/9900/01b5/3ac4/large_jpg/PIRCA_-_PUERTOS_-1.jpg?1789059493",
       "today": false
     },
     {
@@ -200,32 +250,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Trailcenter Rytterknægten / Matters architects",
-      "url": "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects",
-      "excerpt": "Trailcenter Rytterknægten is part of the nationwide initiative Danish Trailcentres, buildings designed to promote outdoor activity and nature access across Denmark. Designed by Matters in 2021, built ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68b5/bd71/f0a1/3200/01f3/5445/large_jpg/Rasmus_Hjortshoj__Trail_Center_WEB-23.jpg?1756741007",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.13",
       "title": "Johan Sundberg Arkitektur nestles timber summer house within Swedish woodland",
       "url": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
       "excerpt": "Swedish studio Johan Sundberg Arkitektur has designed the Pine House holiday home with a cross-shaped plan that stretches into its forested site in southern Sweden. Perched on a north-facing slope on ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "Bota Dürnten School Building / Lukas Raeber Architects",
-      "url": "https://www.archdaily.com/1033838/bota-durnten-school-building-lukas-raeber-architects",
-      "excerpt": "The area encompassing the Bogenacker and Tannenbühl sites previously consisted of two primary school buildings and several small structures surrounding an undefined central space.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68ba/eee5/3dba/9b00/01d5/c991/large_jpg/lukasraeber_schuleb_willempab_170825_08.jpg?1757081448",
       "today": false
     },
     {
@@ -268,16 +298,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "The Role of Urban Design in Women's Safety: Lessons from Four Public Spaces",
-      "url": "https://www.archdaily.com/1184374/the-role-of-urban-design-in-womens-safety-lessons-from-four-public-spaces",
-      "excerpt": "Public space is often intended to be perceived as universal, but access is unevenly experienced. For many women, moving through the city involves a continuous assessment of exposure, visibility, proxi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2105/d9a0/5901/87c6/8a5a/large_jpg/designing-safety-for-women-in-public-spaces_1.jpg?1788289291",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.13",
@@ -285,16 +305,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/this-cartier-collection-is-the-perfect-accompaniment-to-black-tie",
       "excerpt": "An enduring Cartier collection, ‘Grain de Café’, celebrates a bewitching ingredient",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2uLfnVMdhdA9sV9pYaWBG-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.13",
-      "title": "South Asian design crosses borders at London Design Festival",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/south-asian-designers-london-design-festival-2026",
-      "excerpt": "In Shoreditch during London Design Festival 2026, Raw Collaborative brings together 25 boundary-pushing studios from South Asia, presenting a compelling cross-section of fine art, collectible and func",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FAjrdatrZx8hfMzNzVfUCB-1920-80.png",
       "today": false
     },
     {
@@ -382,16 +392,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.09.03",
-      "title": "納入事例にホテル・旅館物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
