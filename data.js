@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.14  17:26",
+  "fetchedAt": "2026.09.14  21:18",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -150,6 +150,45 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.14",
+      "title": "luminous globes extend from branched metal tree installation in pakistan",
+      "url": "https://www.designboom.com/design/luminous-globes-branched-metal-tree-installation-pakistan-raza-zahid-atelier/",
+      "excerpt": "while the branching pattern has an organic appearance, its composition is based on precise pentagonal geometry.\nThe post luminous globes extend from branched metal tree installation in pakistan appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tree-of-light-raza-zahid-atelier-lighting-installation-lahore-pakistan-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "JR sends giant wave across vatican apostolic library facade with ‘diluvium’",
+      "url": "https://www.designboom.com/art/jr-sends-giant-wave-across-vatican-apostolic-library-facade-with-diluvium/",
+      "excerpt": "JR's 70 meter-wide wave sweeps across the facade of the vatican's library, turning its deepest conservation fear into a monumental image.\nThe post JR sends giant wave across vatican apostolic library ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/JR-wave-vatican-designboom-02-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "three centuries-old japanese craft traditions converge in loudspeaker collection",
+      "url": "https://www.designboom.com/technology/three-centuries-old-japanese-craft-traditions-loudspeaker-collection-animism-objects/",
+      "excerpt": "animism objects explores a japanese design approach that gives human and spiritual qualities to objects, bringing technology, centuries-old craft, material, and ritual together in a unified speaker de",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/three-japanese-craft-traditions-loudspeaker-collection-animism-objects-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina",
+      "url": "https://www.dezeen.com/2026/09/14/gonzalo-bardach-casa-jr-argentina/",
+      "excerpt": "Local studio Gonzalo Bardach Architecture has created a concrete house with shading screens and green roofs for \"atmospheres that support everyday inhabitation with calm and depth\" in Argentina. The s",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.14",
       "title": "SO arquitetura stacks tiny azores home onto 13 square-meter footprint",
       "url": "https://www.designboom.com/architecture/so-arquitetura-tiny-azores-home-mini-atalhada-portugal/",
       "excerpt": "built upward from a tiny footprint, the compact home orients its brightest living spaces toward the sea.\nThe post SO arquitetura stacks tiny azores home onto 13 square-meter footprint appeared first o",
@@ -163,6 +202,16 @@ window.LUMINO_DATA = {
       "title": "Horse-mounted ecological regeneration system among projects by IE University",
       "url": "https://www.dezeen.com/2026/09/14/horse-mounted-ecological-regeneration-system-ie-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a portable structure made from natural materials that disperses native seed types from horseback is among projects by IE University students. Also featured is a hospital interior ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "La Colmena - Multi-family Housing as Shared Neighborhood Infrastructure / Ancestra + Natura Futura",
+      "url": "https://www.archdaily.com/1185061/la-colmena-multi-family-housing-as-shared-neighborhood-infrastructure-ancestra-plus-natura-futura",
+      "excerpt": "Located in Durán, a satellite city of Guayaquil, the project is set in an environment marked by social and urban tensions. These conditions have increasingly promoted closed, isolated living spaces, r",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/0f27/069c/1b01/89fb/74b2/large_jpg/la-colmena-ancestra-plus-natura-futura_38.jpg?1789398838",
       "today": true
     },
     {
@@ -216,13 +265,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.14",
-      "title": "designboom.paris: a week of conversations, gatherings, and making in the marais",
-      "url": "https://www.designboom.com/design/designboom-paris-design-week-conversations-gatherings-people-marais-indxglobal-clarks-originals-topologie/",
-      "excerpt": "the first stop of our new travelling series brought together designers, architects, collaborators, and friends for a week of conversations, gatherings, and hands-on activities in the marais.\nThe post ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designboom-paris-design-week-conversations-gatherings-people-marais-indxglobal-clarks-originals-topologie-designboom-1200.jpg",
+      "title": "Enlevo Residence / Drucker Arquitetos Associados",
+      "url": "https://www.archdaily.com/1184677/enlevo-residence-drucker-arquitetos-associados",
+      "excerpt": "What If the Structure Is the Architecture? — Enlevo House, in Paraná, Brazil, was commissioned by a couple of entrepreneurs. They asked for a residence that would provide complete privacy from the nei",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/d1d4/cc78/e301/8820/e8cf/large_jpg/enlevo-residence-drucker-arquitetos-associados_5.jpg?1788793325",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Canopy House / Lamoureux Architect Inc.",
+      "url": "https://www.archdaily.com/1184863/canopy-house-lamoureux-architect-inc",
+      "excerpt": "Set on a heavily treed, side-sloping site that runs parallel to the street, the home terraces upward with the natural topography, transforming grade change into a sequence of inhabitable platforms and",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/bbfa/05b6/9900/01b5/383e/large_jpg/The-Collingwood-Residence-1001Photoshoped-Compressed.jpg?1789049889",
       "today": true
     },
     {
@@ -253,16 +312,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "groundbreaking smart tech winners fueling the A’ design award 2026 call for entries",
-      "url": "https://www.designboom.com/technology/smart-tech-winners-a-design-award-and-competition-2026-call-for-entries/",
-      "excerpt": "discover award-winning tech products curated by designboom and enter the A' design award 2026 to showcase your design on an international stage. \nThe post groundbreaking smart tech winners fueling the",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/adesign-award_designbooom_012-1.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.14",
@@ -270,25 +319,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184860/house-sudeifel-pur-plus-architekten",
       "excerpt": "Located within the historic village structure of Germany's southern Eifel region, Haus Südeifel sensitively transforms a heritage-listed 18th-century farmstead into a contemporary home and retreat. Th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/ba4d/05b6/9900/01b5/37da/large_jpg/PP_Beilingen___Dominic-Kummer_2026-18_verkleinert.jpg?1789049476",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Vipp453 Swivel chair by Vipp",
-      "url": "https://www.dezeen.com/2026/09/14/vipp453-swivel-chair-vipp-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: modernist style and high levels of comfort combine in the Vipp453 Swivel chair, created by Danish brand Vipp for both conference rooms and home offices. The Vipp453 Swivel chair is de",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "what we learned: modes of habitation",
-      "url": "https://www.designboom.com/design/what-we-learned-modes-of-habitation/",
-      "excerpt": "the spaces we inhabit reveal themselves as active participants in everyday life, shaping how we move, work, rest, and meet others.\nThe post what we learned: modes of habitation appeared first on desig",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/what-we-learned-modes-of-habitation-designboom-4.jpg",
       "today": true
     },
     {
@@ -319,36 +349,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/we-audition-the-ineos-quartermaster-across-field-and-dale-to-check-out-its-true-credentials",
       "excerpt": "Ineos gives no quarter with its all-conquering double-cab pickup truck. Is the Quartermaster the most brutally practical car on the market or an expensive way to play dress up in the shires?",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bw8c22kvpaSD9DELGy9LCN-1024-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "A House Above the Water: The Story of Amancio and Delfina Williams' Modernist Gem",
-      "url": "https://www.archdaily.com/1184793/a-house-above-the-water-the-story-of-amancio-and-delfina-williams-modernist-gem",
-      "excerpt": "What happens to a house when the life it was designed for ends? In Casa sobre el Arroyo, the answer developed gradually as the building changed use, ownership, and condition over nearly eight decades.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa0/a4c6/237b/e901/8be9/5f77/large_jpg/from-house-to-heritage-preserving-casa-sobre-el-arroyo_2.jpg?1788912866",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Hug House / TTAD Arquitetura",
-      "url": "https://www.archdaily.com/1184893/hug-house-ttad-arquitetura",
-      "excerpt": "Casa do Abraço was conceived from the relationship between social interaction and privacy, organizing the residence to accommodate a family routine marked by different forms of use: gatherings, work, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/3536/bed1/7f00/014d/27c2/large_jpg/260624_Casa_Abra_o_0073.jpg?1788294624",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Reinterpreting the Ruyi Knot as a Cultural Symbol in Contemporary Metalwork",
-      "url": "https://www.archdaily.com/1184531/reinterpreting-the-ruyi-knot-as-a-cultural-symbol-in-contemporary-metalwork",
-      "excerpt": "Symbols have always traveled through architecture. They appear in carved stone, woven textiles, painted ceilings and walls, door hardware, and everyday objects, carrying the beliefs, rituals, and hist",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9a/a9f5/1fe7/3101/8863/0501/large_jpg/translating-cultural-symbols-into-contemporary-design-the-story-of-the-ruyi-knot_4.jpg?1788520992",
       "today": true
     },
     {
