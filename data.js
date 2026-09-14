@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.13  22:47",
+  "fetchedAt": "2026.09.14  00:36",
   "sourceColors": {
     "銀座経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ozmall.co.jp": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -68,17 +68,13 @@ window.LUMINO_DATA = {
     "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "照明学会": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -88,7 +84,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -96,19 +92,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.13",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "ozmall.co.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -117,7 +103,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
@@ -127,7 +113,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
@@ -137,7 +123,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
       "excerpt": "",
@@ -147,11 +133,20 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.13",
+      "date": "2026.09.14",
       "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=252388",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.14",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -161,7 +156,8 @@ window.LUMINO_DATA = {
       "title": "georgia o’keeffe: architecture and the artist’s homes, buildings, and landscapes",
       "url": "https://www.designboom.com/art/georgia-okeeffe-architecture-and-the-artists-homes-buildings-and-landscapes/",
       "excerpt": "through nearly forty paintings, the detroit show goes inside the built structures the famed american painter depicted in her lifetime. \nThe post georgia o’keeffe: architecture and the artist’s homes, ",
-      "today": true
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/okeefe-architecture-designboom-01.jpg",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -171,7 +167,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184960/house-and-studio-in-kyoto-tato-architects",
       "excerpt": "This is a combined studio and residence for a couple of ceramic artists, located in a commercial district in central Kyoto, where the surroundings are already being rebuilt into dense mid- and high-ri",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/0ba9/7a61/df00/0183/be08/large_jpg/01_House_and_Studio_in_Kyoto.jpg?1789135815",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -180,7 +176,8 @@ window.LUMINO_DATA = {
       "title": "salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion",
       "url": "https://www.designboom.com/architecture/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio/",
       "excerpt": "reflections blur the distinction between architecture, debris, and bodies.\nThe post salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion appeared first on design",
-      "today": true
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio-designboom-1200.jpg",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -190,7 +187,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
       "excerpt": "The project intents to solve the urban void by constructing a building that takes as reference the heights, alignments and constructive principles of the adjacent structures. As such, the building was",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/large_jpg/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -200,7 +197,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/whats-new-in-roaming-homes-big-and-small-from-the-2026-dusseldorf-salon",
       "excerpt": "The 2026 Düsseldorf Salon is the European caravan industry’s main event. This year offered up fresh trends, innovations and a host of aspirational machines for those in love with the idea of life on t",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/M3i4ZoddRm6uZW3Whh27gf-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -210,7 +207,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects",
       "excerpt": "Trailcenter Rytterknægten is part of the nationwide initiative Danish Trailcentres, buildings designed to promote outdoor activity and nature access across Denmark. Designed by Matters in 2021, built ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68b5/bd71/f0a1/3200/01f3/5445/large_jpg/Rasmus_Hjortshoj__Trail_Center_WEB-23.jpg?1756741007",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -219,7 +216,7 @@ window.LUMINO_DATA = {
       "title": "Johan Sundberg Arkitektur nestles timber summer house within Swedish woodland",
       "url": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
       "excerpt": "Swedish studio Johan Sundberg Arkitektur has designed the Pine House holiday home with a cross-shaped plan that stretches into its forested site in southern Sweden. Perched on a north-facing slope on ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -229,7 +226,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1033838/bota-durnten-school-building-lukas-raeber-architects",
       "excerpt": "The area encompassing the Bogenacker and Tannenbühl sites previously consisted of two primary school buildings and several small structures surrounding an undefined central space.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68ba/eee5/3dba/9b00/01d5/c991/large_jpg/lukasraeber_schuleb_willempab_170825_08.jpg?1757081448",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -238,7 +235,7 @@ window.LUMINO_DATA = {
       "title": "Seven interiors where billiard tables are available on cue",
       "url": "https://www.dezeen.com/2026/09/13/interiors-billiard-tables-lookbooks/",
       "excerpt": "From bars and hotels to private homes, this lookbook explores interiors where billiard tables are on hand for spontaneous games. Billiard tables – comprising a cloth-covered surface surrounded by cush",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -248,7 +245,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/three-rivers-passive-house-gbolade-design-studio-uk",
       "excerpt": "Explore Three Rivers Passive House by Gbolade Design Studio, a sustainable, CLT-framed home in a suburban Hertfordshire valley",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oHa3CBak9SUUJbpND6UqL8-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -258,7 +255,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-italian-summer-monobloc",
       "excerpt": "In the penultimate instalment of ‘Objectify’, architect Carlo Ratti turns his attention to Italy's most hated (or loved?) chair - meet the Monobloc",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u494K2jubgdiwLxceDP2K8-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -267,7 +264,8 @@ window.LUMINO_DATA = {
       "title": "how domestic work became built into the floor plan of the modern home",
       "url": "https://www.designboom.com/architecture/domestic-work-floor-plan-modern-home-corridor/",
       "excerpt": "the corridor began as a way to separate movement from rooms, leaving a spatial logic that still shapes homes today.\nThe post how domestic work became built into the floor plan of the modern home appea",
-      "today": true
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-invisible-work-homes-corridor-designboom-FB.jpg",
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -277,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184374/the-role-of-urban-design-in-womens-safety-lessons-from-four-public-spaces",
       "excerpt": "Public space is often intended to be perceived as universal, but access is unevenly experienced. For many women, moving through the city involves a continuous assessment of exposure, visibility, proxi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2105/d9a0/5901/87c6/8a5a/large_jpg/designing-safety-for-women-in-public-spaces_1.jpg?1788289291",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -287,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/this-cartier-collection-is-the-perfect-accompaniment-to-black-tie",
       "excerpt": "An enduring Cartier collection, ‘Grain de Café’, celebrates a bewitching ingredient",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2uLfnVMdhdA9sV9pYaWBG-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -297,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/south-asian-designers-london-design-festival-2026",
       "excerpt": "In Shoreditch during London Design Festival 2026, Raw Collaborative brings together 25 boundary-pushing studios from South Asia, presenting a compelling cross-section of fine art, collectible and func",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FAjrdatrZx8hfMzNzVfUCB-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -306,7 +304,7 @@ window.LUMINO_DATA = {
       "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybik + Kristof",
       "url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
       "excerpt": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart o",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -315,6 +313,7 @@ window.LUMINO_DATA = {
       "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
       "url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
       "excerpt": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life.\nThe post superstudio’s 12 ideal cities question the price of a pe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
       "today": false
     },
     {
@@ -333,6 +332,7 @@ window.LUMINO_DATA = {
       "title": "suspended metal grid ceiling meets translucent and reflective surfaces inside french café",
       "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
       "excerpt": "the concept combines industrial materials, sculptural stainless steel, integrated lighting, and intuitive customer flow to create a space that feels precise, contemporary, and unexpectedly generous.\nT",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio-designboom-1200-1.jpg",
       "today": false
     },
     {
@@ -511,15 +511,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/topics/nikkei_new_office_award_2026/img/office01.webp",
-      "today": false
-    },
-    {
-      "source": "照明学会",
-      "cat": "国内情報",
-      "date": "2026.07.31",
-      "title": "照明学会全国大会（9/15-17奈良女子大学）",
-      "url": "https://www.ieij.or.jp/event/annualconfer.html",
-      "excerpt": "",
       "today": false
     }
   ]
