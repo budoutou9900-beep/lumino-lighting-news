@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.15  10:52",
+  "fetchedAt": "2026.09.15  15:24",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ginza.keizai.biz": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,61 +13,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ArchDaily": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "大光電機": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "DNライティング": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "LPA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "遠藤照明": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "ArchDaily": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "LPA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -82,7 +86,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ginza.keizai.biz",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -99,26 +103,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.15",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.09.15",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
@@ -141,12 +125,130 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.15",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.15",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.15",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=252388",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Step inside this smart Mykonos house, designed for solitude or celebration",
+      "url": "https://www.wallpaper.com/architecture/residential/anamesa-k-studio-mykonos-house-greece",
+      "excerpt": "Anamesa by K-Studio is a Mykonos house that draws on its Greek island setting's architectural vernacular and rocky landscape – while offering a haven of peace for its inhabitants",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vPjrde5LF34gmZQqLEqyV4-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "This pocket-sized Porsche from Hedley Studios is the perfect electric track day companion",
+      "url": "https://www.wallpaper.com/transportation/this-pocket-sized-porsche-from-hedley-studios-is-the-perfect-electric-track-day-companion",
+      "excerpt": "The new Porsche 550 J from Hedley Studios continues the British manufacturer’s strategy of miniaturising, electrifying and elevating the everyday driving experience of a host of classic automobiles",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCtGGmPN82hhNsAN3JZLsk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Grimshaw to integrate Boring Company station into elevated Las Vegas stadium plaza",
+      "url": "https://www.dezeen.com/2026/09/15/grimshaw-north-plaza-allegiant-boring-company-las-vegas/",
+      "excerpt": "Architecture studio Grimshaw has released plans for a reimagined entry plaza for Allegiant Stadium in Las Vegas, transforming parking lots into transport infrastructure and walkways. Grimshaw's plans ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "agricultural waste forms complete building system in new york house by LTL architects",
+      "url": "https://www.designboom.com/architecture/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects/",
+      "excerpt": "prefabricated over two months at princeton’s architecture lab, the prototype uses 16 large straw units whose density and limitations directly shape the house’s form.\nThe post agricultural waste forms ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "analog sound installation by YONT studio captures road trip nostalgia inside berlin’s KaDeWe",
+      "url": "https://www.designboom.com/design/analog-sound-installation-yont-studio-berlin-kadewe/",
+      "excerpt": "namilia and telekom electronic beats present an immersive soundscape designed by YONT studio, inviting visitors to slow down and listen.\nThe post analog sound installation by YONT studio captures road",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/yont-studio_designboom_05.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "The Rolls-Royce Phantom Hummingbird is a private commission with an avian theme",
+      "url": "https://www.wallpaper.com/transportation/rolls-royce-phantom-hummingbird",
+      "excerpt": "The latest unique Rolls-Royce has us all aflutter, thanks to the laborious and innovative application of iridescent abalone shells",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r7xXXUpuhNGSMzYZRF7rLN-1787-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Estúdio Campana brings Brazilian soul to a São Paulo airport lounge",
+      "url": "https://www.wallpaper.com/travel/sala-pedra-preta-sao-paulo-brazil-estudio-campana",
+      "excerpt": "Itaú opens Sala Pedra Preta, a new Brazilian design lounge at São Paulo Guarulhos Airport",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7X3dsPT3p6T4hEZSkkW7Wf-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Chopard celebrates 50 years of ‘Happy Diamonds’ with a new collection",
+      "url": "https://www.wallpaper.com/watches-jewellery/chopard-happy-diamonds-50-years",
+      "excerpt": "Defined by diamonds that cut their own fluid path across watches and jewellery, the ‘Happy Diamonds’ series gets a new anniversary collection",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cuV5rYqvXwh4JW85MJtBdC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Topo portable lamp by Felix Pöttinger Design Studio for Maytoni",
+      "url": "https://www.dezeen.com/2026/09/15/topo-portable-lamp-felix-pottinger-design-studio-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Felix Pöttinger Design Studio has combined a sculptural form and portable illumination in its Topo table lamp, created for German lighting brand Maytoni. The Topo portable lamp combin",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.15",
       "title": "the hacienda must be built: on spectacle and wonder in a disenchanted world",
       "url": "https://www.designboom.com/editorials/the-hacienda-must-be-built-spectacle-wonder-disenchanted-world/",
-      "excerpt": "what if we are not overwhelmed by spectacle, but starved of it? our days are measured, optimized and increasingly predictable, counted in steps and sleep scores, served in feeds that already know what",
+      "excerpt": "what if we are not overwhelmed by spectacle, but starved of it? our days are measured, optimized and increasingly predictable. we have never been exposed to more images, and rarely felt less enchanted",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/spectator-spectacle-chapter-editor-letter-designboom-1200.jpg",
       "today": true
     },
@@ -160,22 +262,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Wapping Power Station becomes the London Design Festival’s centre of sound",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/chris-watson-wapping-power-station-london-design-festival-2026",
-      "excerpt": "For London Design Festival 2026, sound artist Chris Watson draws upon Hull’s rich maritime heritage in his ‘sound voyage’, ‘Trent Falls’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Dx5SMkrzfu4FAH9hgCxzEG-1920-80.png",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "in 2000, hussein chalayan hid an entire collection inside a living room",
+      "title": "hussein chalayan staged a living room, then let his models wear it away",
       "url": "https://www.designboom.com/design/2000-hussein-chalayan-collection-living-room-after-words/",
-      "excerpt": "the 2000 runway turns looking into part of the design as furniture reveals an unexpected second life.\nThe post in 2000, hussein chalayan hid an entire collection inside a living room appeared first on",
+      "excerpt": "the 2000 runway turns looking into part of the design as furniture reveals an unexpected second life.\nThe post hussein chalayan staged a living room, then let his models wear it away appeared first on",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hussein-chalayan-after-words-fw2000-london-designboom-FB.jpg",
       "today": true
     },
@@ -199,13 +291,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "L’Objet and Jessica McCormack’s new tableware is inspired by ocean treasures",
-      "url": "https://www.wallpaper.com/entertaining/l-objet-jessica-mccormack-tableware-collaboration",
-      "excerpt": "The homeware brand and the jewellery designer create shell-inspired tableware and cutlery with oceans of style",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3MZ76p9YQaAW6ZoRe77MxB-1920-80.png",
+      "title": "The Kiosk / CITYFÖRSTER",
+      "url": "https://www.archdaily.com/1185105/the-kiosk-cityforster",
+      "excerpt": "The Kiosk proposes a compact and adaptable model for seasonal commercial infrastructure in Dhermi's rapidly changing coastal context.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebbd/large_jpg/Kiosk_2__A.Muraku_.jpg?1789457698",
       "today": true
     },
     {
@@ -218,91 +310,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "Resincode tile collection by Vitra",
-      "url": "https://www.dezeen.com/2026/09/15/resincode-collection-vitra-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Swiss brand Vitra has released a collection of porcelain tiles that recall the appearance of concrete. The Resincode collection is made from porcelain but mimics the look of cement re",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "safety curtain series puts contemporary art center stage at vienna state opera",
-      "url": "https://www.designboom.com/art/safety-curtain-series-contemporary-art-center-stage-vienna-state-opera/",
-      "excerpt": "from joan jonas to cy twombly, the safety curtain series has worked with leading figures in contemporary art to transform the viennese stage. \nThe post safety curtain series puts contemporary art cent",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/safety-curtain-designboom-07.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "London has \"the best architecture and interior design community in Europe\" says Duncan Riches",
-      "url": "https://www.dezeen.com/2026/09/15/shoreditch-design-week-ldf-duncan-riches-interview/",
-      "excerpt": "As Shoreditch Design Week kicks off its inaugural edition at this year's London Design Festival, we interviewed creative director Duncan Riches about how he aims to bring design back to the east Londo",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "The Product Design 100 hits the shelves to showcase the state of the industry",
-      "url": "https://www.wallpaper.com/design-interiors/the-product-design-100-hits-the-shelves-to-showcase-the-state-of-the-industry",
-      "excerpt": "We cast our eyes over the first volume of The Product Design 100: A Snapshot of Industrial Design Today, a welcome physical monograph created to sum up the modern design landscape",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HQr7xpcVrPYBs4q9Y7XX6n-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "luca battaglia looks at carousels through the changing perception of movement",
-      "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
-      "excerpt": "using exposures of up to 30 seconds, luca battaglia captures spinning carousels as their horses and decorations dissolve into bands of light.\nThe post luca battaglia looks at carousels through the cha",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-1200.jpg",
+      "title": "Rural and Future Public Programme",
+      "url": "https://www.archdaily.com/1185141/rural-and-future-public-programme",
+      "excerpt": "Rural and Future meets audiences in Istanbul and Ankara this autumn!\nThe four-year body of work produced through the architectural research and design studio 'Rural and Future: Voices from Beyond the ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/42cf/a74d/1200/0125/eda9/large_jpg/K_rsal_ve_Gelecek_-_G_rsel.jpg?1789477647",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "On the International Day of Democracy: Encounter, Equity and the Symbolic Power of Architecture",
-      "url": "https://www.archdaily.com/1185090/on-the-international-day-of-democracy-encounter-equity-and-the-symbolic-power-of-architecture",
-      "excerpt": "On the International Day of Democracy, this year the United Nations revisits a traditional idea within the concept: broad citizen participation in government decision-making. On this occasion, the int",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/68cb/069c/1b01/89fb/776e/large_jpg/international-day-of-democracy_1.jpg?1789421781",
+      "title": "Rozana Montiel at IE School of Architecture & Design’s COMMON(S) Lecture Series",
+      "url": "https://www.archdaily.com/1185137/rozana-montiel-at-ie-school-of-architecture-and-designs-common-s-lecture-series",
+      "excerpt": "IE School of Architecture & Design (IE University) presents a lecture by Mexican architect Rozana Montiel as part of the School's COMMON(S) 2026-27 Lecture Series. Montiel's lecture is organized in co",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/4263/a74d/1200/0125/ed8a/large_jpg/Rozana_Montiel_IE_University.jpg?1789477479",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "When the Water Comes: How Lagos Negotiates with Its Returning Floods",
-      "url": "https://www.archdaily.com/1184532/when-the-water-comes-how-lagos-negotiates-with-its-returning-floods",
-      "excerpt": "Lagos is a city shaped by time, human interaction, the forces of nature, and its evolving, sometimes uneasy relationship with all three. Nowhere is this more visible than when the rain comes.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/0913/43f9/c501/88fd/1e49/large_jpg/when-the-water-comes-how-lagos-negotiates-with-its-returning-floods_6.jpg?1789069616",
+      "title": "Art Omi Fall Architecture Opening",
+      "url": "https://www.archdaily.com/1185133/art-omi-fall-architecture-opening",
+      "excerpt": "Celebrate the opening of TAELON7: Limbo Engawa and Michael Meredith and Hilary Sample: A Dome with Four Oculi in the Sculpture & Architecture Park at Art Omi on Saturday, September 19, 2–5 PM.\nFree an",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/41a3/a74d/1200/0125/ed6b/large_jpg/AO-26-LimboEngawa_MOS-Opening0HomepageBanner-v2.jpg?1789477301",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "Gelareh House / ZAV Architects",
-      "url": "https://www.archdaily.com/1185024/gelareh-house-zav-architects",
-      "excerpt": "Gelareh House transforms an existing weekend villa on the outskirts of Tehran into a permanent home. Rather than demolishing and replacing the original building, designed by Iranian architect Firouz F",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c440/a74d/1200/0125/e0f3/large_jpg/DJI_0458_Edited.jpg?1789379801",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "House in Musashi-koyama",
-      "url": "https://www.archdaily.com/1185036/house-in-musashi-koyama",
-      "excerpt": "House in Musashi-koyama by Tato Architects / Yo Shimada is a home for a family of four on a flag-shaped lot of less than 40 square meters in a dense residential district of Tokyo.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/cf2b/a74d/1200/0125/e19f/large_jpg/19_House_in_Musashikoyama.jpg?1789383113",
+      "title": "REFLEXO, 30 Years, 30 Projects",
+      "url": "https://www.archdaily.com/1185129/reflexo-30-years-30-projects",
+      "excerpt": "To mark its 30th anniversary, the studio is transforming the public space in front of its headquarters on Avenida Infante Santo into a free exhibition. Thirty large-format panels, designed to resemble",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/4049/a74d/1200/0125/ed4c/large_jpg/Caixa-de-Luz.jpg?1789476955",
       "today": true
     },
     {
@@ -334,36 +378,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/181/DSC08396-Edit.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Saekdong House / a.co.lab",
-      "url": "https://www.archdaily.com/1185040/saekdong-house-ab",
-      "excerpt": "Saekdong House is a renovation and extension project of an old residence built in 1968, situated in Yeonhui-dong, Seoul, South Korea. The house is revealed only after traversing a long, narrow alleywa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/d361/a74d/1200/0125/e1e9/large_jpg/DJI_20260630092439_0320_D.jpg?1789383544",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "London Design Festival 2026: live updates from the Wallpaper* team",
-      "url": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026",
-      "excerpt": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vPoa38f8GMFZxkznQ5oWAT-1448-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Rimowa partners with Faber Castell on a case that is an artist's dream",
-      "url": "https://www.wallpaper.com/design-interiors/rimowa-faber-castell-artist-case",
-      "excerpt": "Discover the Rimowa x Faber Castell Artist Case, featuring specially-designed pencils and tools, and 120 Polychromos colour pencils",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bYGEwGvQeFs2eZsfr52CeV-1920-80.jpg",
-      "today": false
     },
     {
       "source": "LPA",
