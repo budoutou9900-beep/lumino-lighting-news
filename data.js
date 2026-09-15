@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.15  05:41",
+  "fetchedAt": "2026.09.15  10:52",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "ginza.keizai.biz": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,27 +13,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -57,21 +57,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -86,7 +82,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "銀座経済新聞",
+      "source": "ginza.keizai.biz",
       "cat": "展示・アート",
       "date": "2026.09.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
@@ -103,15 +99,6 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.09.15",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -157,10 +144,165 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "pink inflatable canopy brings soft shade to new york’s streetscape",
-      "url": "https://www.designboom.com/architecture/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower/",
-      "excerpt": "inflatable elements hover above the pavement to filter sunlight and create shifting shadows.\nThe post pink inflatable canopy brings soft shade to new york’s streetscape appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower-designboom-1200-1.jpg",
+      "title": "the hacienda must be built: on spectacle and wonder in a disenchanted world",
+      "url": "https://www.designboom.com/editorials/the-hacienda-must-be-built-spectacle-wonder-disenchanted-world/",
+      "excerpt": "what if we are not overwhelmed by spectacle, but starved of it? our days are measured, optimized and increasingly predictable, counted in steps and sleep scores, served in feeds that already know what",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/spectator-spectacle-chapter-editor-letter-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Mango trees shade \"restrained and calming\" home in India by InLe architects",
+      "url": "https://www.dezeen.com/2026/09/15/house-beyond-mango-trees-inle-architects/",
+      "excerpt": "Timber shutters and the canopies of two large trees shade the interiors of House Beyond the Mango Trees, a home in Kerala by Indian practice InLe Architects. InLe Architects founder Afiz Ubaid describ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Wapping Power Station becomes the London Design Festival’s centre of sound",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/chris-watson-wapping-power-station-london-design-festival-2026",
+      "excerpt": "For London Design Festival 2026, sound artist Chris Watson draws upon Hull’s rich maritime heritage in his ‘sound voyage’, ‘Trent Falls’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Dx5SMkrzfu4FAH9hgCxzEG-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "in 2000, hussein chalayan hid an entire collection inside a living room",
+      "url": "https://www.designboom.com/design/2000-hussein-chalayan-collection-living-room-after-words/",
+      "excerpt": "the 2000 runway turns looking into part of the design as furniture reveals an unexpected second life.\nThe post in 2000, hussein chalayan hid an entire collection inside a living room appeared first on",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hussein-chalayan-after-words-fw2000-london-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "lasvit imprints bohemian meadows into custom lighting fixture for napa valley home",
+      "url": "https://www.designboom.com/design/lasvit-lighting-fixture-installation-for-napa-valley-home/",
+      "excerpt": "with it’s herbarium, lasvit creates a hand blown crystal installation for a private home in napa valley.\nThe post lasvit imprints bohemian meadows into custom lighting fixture for napa valley home app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lasvit_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Chromatic Architecture authors pick six of the world's best colourful buildings",
+      "url": "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/",
+      "excerpt": "A new book from designer Adam Nathaniel Furman and Dezeen contributor Kate Mazade spotlights the most radical examples of colourful architecture from across history. Here, the authors pick six favouri",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "L’Objet and Jessica McCormack’s new tableware is inspired by ocean treasures",
+      "url": "https://www.wallpaper.com/entertaining/l-objet-jessica-mccormack-tableware-collaboration",
+      "excerpt": "The homeware brand and the jewellery designer create shell-inspired tableware and cutlery with oceans of style",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3MZ76p9YQaAW6ZoRe77MxB-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Jony Ive decorates Moncler outerwear collection with New York symbols",
+      "url": "https://www.dezeen.com/2026/09/15/jony-ive-lovefrom-moncler-new-york/",
+      "excerpt": "Designer Jony Ive's studio LoveFrom has created its second collection for fashion brand Moncler, using symbols including its signature bear climbing the Empire State Building to celebrate the brand's ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Resincode tile collection by Vitra",
+      "url": "https://www.dezeen.com/2026/09/15/resincode-collection-vitra-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Swiss brand Vitra has released a collection of porcelain tiles that recall the appearance of concrete. The Resincode collection is made from porcelain but mimics the look of cement re",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "safety curtain series puts contemporary art center stage at vienna state opera",
+      "url": "https://www.designboom.com/art/safety-curtain-series-contemporary-art-center-stage-vienna-state-opera/",
+      "excerpt": "from joan jonas to cy twombly, the safety curtain series has worked with leading figures in contemporary art to transform the viennese stage. \nThe post safety curtain series puts contemporary art cent",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/safety-curtain-designboom-07.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "London has \"the best architecture and interior design community in Europe\" says Duncan Riches",
+      "url": "https://www.dezeen.com/2026/09/15/shoreditch-design-week-ldf-duncan-riches-interview/",
+      "excerpt": "As Shoreditch Design Week kicks off its inaugural edition at this year's London Design Festival, we interviewed creative director Duncan Riches about how he aims to bring design back to the east Londo",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "The Product Design 100 hits the shelves to showcase the state of the industry",
+      "url": "https://www.wallpaper.com/design-interiors/the-product-design-100-hits-the-shelves-to-showcase-the-state-of-the-industry",
+      "excerpt": "We cast our eyes over the first volume of The Product Design 100: A Snapshot of Industrial Design Today, a welcome physical monograph created to sum up the modern design landscape",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HQr7xpcVrPYBs4q9Y7XX6n-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "luca battaglia looks at carousels through the changing perception of movement",
+      "url": "https://www.designboom.com/art/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography/",
+      "excerpt": "using exposures of up to 30 seconds, luca battaglia captures spinning carousels as their horses and decorations dissolve into bands of light.\nThe post luca battaglia looks at carousels through the cha",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "On the International Day of Democracy: Encounter, Equity and the Symbolic Power of Architecture",
+      "url": "https://www.archdaily.com/1185090/on-the-international-day-of-democracy-encounter-equity-and-the-symbolic-power-of-architecture",
+      "excerpt": "On the International Day of Democracy, this year the United Nations revisits a traditional idea within the concept: broad citizen participation in government decision-making. On this occasion, the int",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/68cb/069c/1b01/89fb/776e/large_jpg/international-day-of-democracy_1.jpg?1789421781",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "When the Water Comes: How Lagos Negotiates with Its Returning Floods",
+      "url": "https://www.archdaily.com/1184532/when-the-water-comes-how-lagos-negotiates-with-its-returning-floods",
+      "excerpt": "Lagos is a city shaped by time, human interaction, the forces of nature, and its evolving, sometimes uneasy relationship with all three. Nowhere is this more visible than when the rain comes.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/0913/43f9/c501/88fd/1e49/large_jpg/when-the-water-comes-how-lagos-negotiates-with-its-returning-floods_6.jpg?1789069616",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Gelareh House / ZAV Architects",
+      "url": "https://www.archdaily.com/1185024/gelareh-house-zav-architects",
+      "excerpt": "Gelareh House transforms an existing weekend villa on the outskirts of Tehran into a permanent home. Rather than demolishing and replacing the original building, designed by Iranian architect Firouz F",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c440/a74d/1200/0125/e0f3/large_jpg/DJI_0458_Edited.jpg?1789379801",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "House in Musashi-koyama",
+      "url": "https://www.archdaily.com/1185036/house-in-musashi-koyama",
+      "excerpt": "House in Musashi-koyama by Tato Architects / Yo Shimada is a home for a family of four on a flag-shaped lot of less than 40 square meters in a dense residential district of Tokyo.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/cf2b/a74d/1200/0125/e19f/large_jpg/19_House_in_Musashikoyama.jpg?1789383113",
       "today": true
     },
     {
@@ -174,6 +316,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "納入事例に「atmos pink flagship Harajuku」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/190",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/190/IMG_8624.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "納入事例に「琥珀 Apartment Hotel Kyoto」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/181",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/181/DSC08396-Edit.jpg",
+      "today": true
+    },
+    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
@@ -182,94 +344,6 @@ window.LUMINO_DATA = {
       "excerpt": "Saekdong House is a renovation and extension project of an old residence built in 1968, situated in Yeonhui-dong, Seoul, South Korea. The house is revealed only after traversing a long, narrow alleywa",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/d361/a74d/1200/0125/e1e9/large_jpg/DJI_20260630092439_0320_D.jpg?1789383544",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "luminous globes extend from branched metal tree installation in pakistan",
-      "url": "https://www.designboom.com/design/luminous-globes-branched-metal-tree-installation-pakistan-raza-zahid-atelier/",
-      "excerpt": "while the branching pattern has an organic appearance, its composition is based on precise pentagonal geometry.\nThe post luminous globes extend from branched metal tree installation in pakistan appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tree-of-light-raza-zahid-atelier-lighting-installation-lahore-pakistan-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Blue Box / Estudio VA arquitectos",
-      "url": "https://www.archdaily.com/1185092/blue-box-estudio-va-arquitectos",
-      "excerpt": "The commission consisted of designing the new entrance to a recreational and sports campground, giving it the required scale. Through a 3.30 x 3.30-meter grid, the project aimed to organize the entry,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/5628/a74d/1200/0125/e51e/large_jpg/UPCN-25.jpg?1789417198",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "JR sends giant wave across vatican apostolic library facade with ‘diluvium’",
-      "url": "https://www.designboom.com/art/jr-sends-giant-wave-across-vatican-apostolic-library-facade-with-diluvium/",
-      "excerpt": "JR's 70 meter-wide wave sweeps across the facade of the vatican's library, turning its deepest conservation fear into a monumental image.\nThe post JR sends giant wave across vatican apostolic library ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/JR-wave-vatican-designboom-02-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "three centuries-old japanese craft traditions converge in loudspeaker collection",
-      "url": "https://www.designboom.com/technology/three-centuries-old-japanese-craft-traditions-loudspeaker-collection-animism-objects/",
-      "excerpt": "animism objects explores a japanese design approach that gives human and spiritual qualities to objects, bringing technology, centuries-old craft, material, and ritual together in a unified speaker de",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/three-japanese-craft-traditions-loudspeaker-collection-animism-objects-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina",
-      "url": "https://www.dezeen.com/2026/09/14/gonzalo-bardach-casa-jr-argentina/",
-      "excerpt": "Local studio Gonzalo Bardach Architecture has created a concrete house with shading screens and green roofs for \"atmospheres that support everyday inhabitation with calm and depth\" in Argentina. The s",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Dolphine Villa / Idee architects",
-      "url": "https://www.archdaily.com/1185015/dolphine-villa-idee-architects",
-      "excerpt": "Located within a newly developed urban area in Vietnam, Dolphin Villa was conceived to re-establish a closer relationship between domestic life and nature. Rather than maximizing the built area, the p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/b076/069c/1b01/89fb/7226/large_jpg/dolphine-villa-idee-architects_33.jpg?1789374598",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "SO arquitetura stacks tiny azores home onto 13 square-meter footprint",
-      "url": "https://www.designboom.com/architecture/so-arquitetura-tiny-azores-home-mini-atalhada-portugal/",
-      "excerpt": "built upward from a tiny footprint, the compact home orients its brightest living spaces toward the sea.\nThe post SO arquitetura stacks tiny azores home onto 13 square-meter footprint appeared first o",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/SO-arquitecura-mini-atalhada-portugal-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Horse-mounted ecological regeneration system among projects by IE University",
-      "url": "https://www.dezeen.com/2026/09/14/horse-mounted-ecological-regeneration-system-ie-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a portable structure made from natural materials that disperses native seed types from horseback is among projects by IE University students. Also featured is a hospital interior ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "La Colmena - Multi-family Housing as Shared Neighborhood Infrastructure / Ancestra + Natura Futura",
-      "url": "https://www.archdaily.com/1185061/la-colmena-multi-family-housing-as-shared-neighborhood-infrastructure-ancestra-plus-natura-futura",
-      "excerpt": "Located in Durán, a satellite city of Guayaquil, the project is set in an environment marked by social and urban tensions. These conditions have increasingly promoted closed, isolated living spaces, r",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/0f27/069c/1b01/89fb/74b2/large_jpg/la-colmena-ancestra-plus-natura-futura_38.jpg?1789398838",
-      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -285,67 +359,10 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.14",
-      "title": "Rimowa partners with Faber Castell on an case that is an artist's dream",
+      "title": "Rimowa partners with Faber Castell on a case that is an artist's dream",
       "url": "https://www.wallpaper.com/design-interiors/rimowa-faber-castell-artist-case",
       "excerpt": "Discover the Rimowa x Faber Castell Artist Case, featuring specially-designed pencils and tools, and 120 Polychromos colour pencils",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bYGEwGvQeFs2eZsfr52CeV-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "One to watch: Ollie Olanipekun takes a bird's eye view of social responsibility, community and connection",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/flock-together-ollie-olanipekun-shoreditch-london-design-festival-2026",
-      "excerpt": "Challenging perceptions and stereotypes through the (binocular) lens of nature, multidisciplinary creative Ollie Olanipekun and his birdwatching club Flock Together are combatting the underrepresentat",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wghih6LUhWJeGix3SJrHC-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "The evening bag is having a renaissance. Here’s eight of the best",
-      "url": "https://www.wallpaper.com/fashion-beauty/accessories/best-evening-bags-trend",
-      "excerpt": "Designers are embracing the evening bag for the easy flourish of glamour it brings to an outfit. From a Dior ‘frog’ to hedonistic Gucci chainmail, we pick eight unexpected evening bags for autumn",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ubRKTJyAAndXzMZVuyw6GJ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Enlevo Residence / Drucker Arquitetos Associados",
-      "url": "https://www.archdaily.com/1184677/enlevo-residence-drucker-arquitetos-associados",
-      "excerpt": "What If the Structure Is the Architecture? — Enlevo House, in Paraná, Brazil, was commissioned by a couple of entrepreneurs. They asked for a residence that would provide complete privacy from the nei",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/d1d4/cc78/e301/8820/e8cf/large_jpg/enlevo-residence-drucker-arquitetos-associados_5.jpg?1788793325",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Ryuichi Sasaki Architecture uses trapezoid motifs for concrete housing in Tokyo",
-      "url": "https://www.dezeen.com/2026/09/14/ryuichi-sasaki-architecture-shin-nakano-trapezoidal/",
-      "excerpt": "Trapezoidal motifs appear throughout this concrete condominium block in Tokyo, designed by Japanese studio Ryuichi Sasaki Architecture. Named Shin Nakano Trapezoidal, the five-storey block of 11 resid",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Studio Saar tops LDF pavilion with police and rain shields",
-      "url": "https://www.dezeen.com/2026/09/14/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion/",
-      "excerpt": "This year's London Design Festival landmark project, The Pangolin Shield, explores Britain and India's colonial history through a bamboo-grid pavilion covered with shields used both for protection and",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Design Academy Eindhoven students reinvent the bathroom for a resource-scarce future",
-      "url": "https://www.dezeen.com/2026/09/14/design-academy-eindhoven-kaldewei-behind-closed-doors/",
-      "excerpt": "Tiles decorated with hair and a dissolving washbasin made of soap are among the student projects featured in Behind Closed Doors, an exhibition by the Design Academy Eindhoven and Kaldewei at Berlin d",
       "today": false
     },
     {
@@ -356,16 +373,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "We audition the Ineos Quartermaster across field and dale to check out its true credentials",
-      "url": "https://www.wallpaper.com/transportation/we-audition-the-ineos-quartermaster-across-field-and-dale-to-check-out-its-true-credentials",
-      "excerpt": "Ineos gives no quarter with its all-conquering double-cab pickup truck. Is the Quartermaster the most brutally practical car on the market or an expensive way to play dress up in the shires?",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bw8c22kvpaSD9DELGy9LCN-1024-80.jpg",
       "today": false
     },
     {
@@ -505,26 +512,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/79831/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.08.20",
-      "title": "納入事例に「bororo Aoyama」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/179",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/179/260527_1989.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.08.07",
-      "title": "納入事例に「IT TOWER TOKYO」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/173",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/173/042_地下1階 公共地下広場 4092.jpg",
       "today": false
     },
     {
