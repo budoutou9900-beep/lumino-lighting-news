@@ -1,76 +1,94 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.14  21:18",
+  "fetchedAt": "2026.09.15  00:09",
   "sourceColors": {
-    "銀座経済新聞": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "chunichi.co.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "ウォーカープラス": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.15",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
+    {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.14",
+      "date": "2026.09.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
@@ -78,9 +96,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.14",
+      "date": "2026.09.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -88,10 +106,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.09.14",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
+      "date": "2026.09.15",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.15",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
@@ -100,17 +128,17 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.14",
+      "date": "2026.09.15",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.14",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ - fashion-press.net",
+      "date": "2026.09.15",
+      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
       "url": "https://www.fashion-press.net/news/138846",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
@@ -119,31 +147,11 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.14",
+      "date": "2026.09.15",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=255443",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
-      "today": true
-    },
-    {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.09.14",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.14",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
       "today": true
     },
     {
@@ -154,7 +162,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/luminous-globes-branched-metal-tree-installation-pakistan-raza-zahid-atelier/",
       "excerpt": "while the branching pattern has an organic appearance, its composition is based on precise pentagonal geometry.\nThe post luminous globes extend from branched metal tree installation in pakistan appear",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tree-of-light-raza-zahid-atelier-lighting-installation-lahore-pakistan-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -164,7 +172,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/jr-sends-giant-wave-across-vatican-apostolic-library-facade-with-diluvium/",
       "excerpt": "JR's 70 meter-wide wave sweeps across the facade of the vatican's library, turning its deepest conservation fear into a monumental image.\nThe post JR sends giant wave across vatican apostolic library ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/JR-wave-vatican-designboom-02-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -174,7 +182,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/three-centuries-old-japanese-craft-traditions-loudspeaker-collection-animism-objects/",
       "excerpt": "animism objects explores a japanese design approach that gives human and spiritual qualities to objects, bringing technology, centuries-old craft, material, and ritual together in a unified speaker de",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/three-japanese-craft-traditions-loudspeaker-collection-animism-objects-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -183,7 +191,17 @@ window.LUMINO_DATA = {
       "title": "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina",
       "url": "https://www.dezeen.com/2026/09/14/gonzalo-bardach-casa-jr-argentina/",
       "excerpt": "Local studio Gonzalo Bardach Architecture has created a concrete house with shading screens and green roofs for \"atmospheres that support everyday inhabitation with calm and depth\" in Argentina. The s",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Dolphine Villa / Idee architects",
+      "url": "https://www.archdaily.com/1185015/dolphine-villa-idee-architects",
+      "excerpt": "Located within a newly developed urban area in Vietnam, Dolphin Villa was conceived to re-establish a closer relationship between domestic life and nature. Rather than maximizing the built area, the p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/b076/069c/1b01/89fb/7226/large_jpg/dolphine-villa-idee-architects_33.jpg?1789374598",
+      "today": false
     },
     {
       "source": "designboom",
@@ -193,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/so-arquitetura-tiny-azores-home-mini-atalhada-portugal/",
       "excerpt": "built upward from a tiny footprint, the compact home orients its brightest living spaces toward the sea.\nThe post SO arquitetura stacks tiny azores home onto 13 square-meter footprint appeared first o",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/SO-arquitecura-mini-atalhada-portugal-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -202,7 +220,7 @@ window.LUMINO_DATA = {
       "title": "Horse-mounted ecological regeneration system among projects by IE University",
       "url": "https://www.dezeen.com/2026/09/14/horse-mounted-ecological-regeneration-system-ie-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a portable structure made from natural materials that disperses native seed types from horseback is among projects by IE University students. Also featured is a hospital interior ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -212,7 +230,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185061/la-colmena-multi-family-housing-as-shared-neighborhood-infrastructure-ancestra-plus-natura-futura",
       "excerpt": "Located in Durán, a satellite city of Guayaquil, the project is set in an environment marked by social and urban tensions. These conditions have increasingly promoted closed, isolated living spaces, r",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/0f27/069c/1b01/89fb/74b2/large_jpg/la-colmena-ancestra-plus-natura-futura_38.jpg?1789398838",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -222,7 +240,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/greenhouse-inhabitable-light-installation-music-festival-uk-kren-shed/",
       "excerpt": "sprayed yellow aluminum, black PVC and off-the-shelf fixings transform this domestic garden structure into a glowing beacon and gathering space.\nThe post greenhouse converts into inhabitable light ins",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kren-shed-light-greenhouse-installation-music-festival-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -232,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026",
       "excerpt": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vPoa38f8GMFZxkznQ5oWAT-1448-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -242,7 +260,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/rimowa-faber-castell-artist-case",
       "excerpt": "Discover the Rimowa x Faber Castell Artist Case, featuring specially-designed pencils and tools, and 120 Polychromos colour pencils",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bYGEwGvQeFs2eZsfr52CeV-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -252,7 +270,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/flock-together-ollie-olanipekun-shoreditch-london-design-festival-2026",
       "excerpt": "Challenging perceptions and stereotypes through the (binocular) lens of nature, multidisciplinary creative Ollie Olanipekun and his birdwatching club Flock Together are combatting the underrepresentat",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wghih6LUhWJeGix3SJrHC-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -262,7 +280,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/accessories/best-evening-bags-trend",
       "excerpt": "Designers are embracing the evening bag for the easy flourish of glamour it brings to an outfit. From a Dior ‘frog’ to hedonistic Gucci chainmail, we pick eight unexpected evening bags for autumn",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ubRKTJyAAndXzMZVuyw6GJ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -272,7 +290,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184677/enlevo-residence-drucker-arquitetos-associados",
       "excerpt": "What If the Structure Is the Architecture? — Enlevo House, in Paraná, Brazil, was commissioned by a couple of entrepreneurs. They asked for a residence that would provide complete privacy from the nei",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/d1d4/cc78/e301/8820/e8cf/large_jpg/enlevo-residence-drucker-arquitetos-associados_5.jpg?1788793325",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -282,7 +300,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184863/canopy-house-lamoureux-architect-inc",
       "excerpt": "Set on a heavily treed, side-sloping site that runs parallel to the street, the home terraces upward with the natural topography, transforming grade change into a sequence of inhabitable platforms and",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/bbfa/05b6/9900/01b5/383e/large_jpg/The-Collingwood-Residence-1001Photoshoped-Compressed.jpg?1789049889",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -291,7 +309,7 @@ window.LUMINO_DATA = {
       "title": "Ryuichi Sasaki Architecture uses trapezoid motifs for concrete housing in Tokyo",
       "url": "https://www.dezeen.com/2026/09/14/ryuichi-sasaki-architecture-shin-nakano-trapezoidal/",
       "excerpt": "Trapezoidal motifs appear throughout this concrete condominium block in Tokyo, designed by Japanese studio Ryuichi Sasaki Architecture. Named Shin Nakano Trapezoidal, the five-storey block of 11 resid",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -300,7 +318,7 @@ window.LUMINO_DATA = {
       "title": "Studio Saar tops LDF pavilion with police and rain shields",
       "url": "https://www.dezeen.com/2026/09/14/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion/",
       "excerpt": "This year's London Design Festival landmark project, The Pangolin Shield, explores Britain and India's colonial history through a bamboo-grid pavilion covered with shields used both for protection and",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -309,7 +327,7 @@ window.LUMINO_DATA = {
       "title": "Design Academy Eindhoven students reinvent the bathroom for a resource-scarce future",
       "url": "https://www.dezeen.com/2026/09/14/design-academy-eindhoven-kaldewei-behind-closed-doors/",
       "excerpt": "Tiles decorated with hair and a dissolving washbasin made of soap are among the student projects featured in Behind Closed Doors, an exhibition by the Design Academy Eindhoven and Kaldewei at Berlin d",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -319,17 +337,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184860/house-sudeifel-pur-plus-architekten",
       "excerpt": "Located within the historic village structure of Germany's southern Eifel region, Haus Südeifel sensitively transforms a heritage-listed 18th-century farmstead into a contemporary home and retreat. Th",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/ba4d/05b6/9900/01b5/37da/large_jpg/PP_Beilingen___Dominic-Kummer_2026-18_verkleinert.jpg?1789049476",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Hidden Forces",
-      "url": "https://www.archdaily.com/1185047/hidden-forces",
-      "excerpt": "Hidden Forces is a research project dedicated to the less visible dimensions that contribute to shaping architecture. Through an exhibition and a public programme of talks, the project transforms Bolo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/f468/a74d/1200/0125/e248/large_jpg/Hidden_Forces_Invito_Mostra.jpg?1789391993",
-      "today": true
+      "today": false
     },
     {
       "source": "LPA",
@@ -339,7 +347,7 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -349,7 +357,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/we-audition-the-ineos-quartermaster-across-field-and-dale-to-check-out-its-true-credentials",
       "excerpt": "Ineos gives no quarter with its all-conquering double-cab pickup truck. Is the Quartermaster the most brutally practical car on the market or an expensive way to play dress up in the shires?",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bw8c22kvpaSD9DELGy9LCN-1024-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -359,7 +367,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
