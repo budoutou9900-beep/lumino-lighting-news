@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.15  15:24",
+  "fetchedAt": "2026.09.15  19:27",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,69 +9,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "ozmall.co.jp": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "Google ニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Sortir à Paris": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -96,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -106,7 +110,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.09.15",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.15",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -145,13 +159,82 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "title": "ZAV architects sends colorful vaulted rooms through iranian orchard",
+      "url": "https://www.designboom.com/architecture/zav-architects-colorful-vaults-iran-gelareh-house/",
+      "excerpt": "weaving new living spaces between fruit trees, a chain of colorful masonry vaults shapes ZAV architects' gelareh house.\nThe post ZAV architects sends colorful vaulted rooms through iranian orchard app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zav-architects-gelareh-house-iran-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Veronica Mishaan carries out \"successful juxtaposition\" of patterns in Bogotá penthouse",
+      "url": "https://www.dezeen.com/2026/09/15/veronica-mishaan-bogota-colombia-penthouse/",
+      "excerpt": "Local designer Veronica Mishaan has revamped a penthouse apartment with bursts of colour and animal prints in Bogotá, Colombia. The 580-square-metre apartment was redesigned to balance the needs of th",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "ferrari’s rarest paint finish on its only matte enzo at auction",
+      "url": "https://www.designboom.com/technology/ferraris-rarest-paint-finish-on-its-only-matte-enzo-at-auction/",
+      "excerpt": "the one-off 2004 ferrari enzo in matte nero opaco joins rm sotheby’s sealed september sale.\nThe post ferrari’s rarest paint finish on its only matte enzo at auction appeared first on designboom | arch",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ferraris-rarest-paint-finish-on-its-only-matte-enzo-at-auction1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "At Saatchi Yates, Sujin Lee’s figures are frozen in introspection",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/sujin-lee-where-we-once-stood-saatchi-yates",
+      "excerpt": "Sujin Lee’s exhibition ‘Where We Once Stood’, considers the stillness after an event",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cuBhp5DVR9nhKb8dbdPMwM-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "a spiral of timber beams and steel frames tiny 40-sqm tokyo home",
+      "url": "https://www.designboom.com/architecture/spiral-timber-beams-steel-tiny-40-sqm-tokyo-home-musashi-koyama-tato-architects-yo-shimada/",
+      "excerpt": "skip floors create interconnected levels throughout the house.\nThe post a spiral of timber beams and steel frames tiny 40-sqm tokyo home appeared first on designboom | architecture & design magazine.",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/house-musashi-koyama-tato-architects-yo-shimada-tiny-family-home-tokyo-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Claudia Schiffer on the best thing about Healf’s healthy advent calendar",
+      "url": "https://www.wallpaper.com/fashion-beauty/claudia-schiffer-healf-advent-calendar",
+      "excerpt": "The supermodel tells Wallpaper* about her favourite products from the annual viral sensation and shares some of her own wellness non-negotiables",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ye9G6ee4oV3XoKKW9WRQBa-569-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Ulla Johnson channels the ‘urban pastoral’ at New York’s reclaimed Gotham Park",
+      "url": "https://www.wallpaper.com/fashion-beauty/ulla-johnson-ss-2027-runway-show-review-nyfw",
+      "excerpt": "Created after a grass-roots campaign to reclaim the area under the Brooklyn Bridge, Manhattan’s Gotham Park provided the backdrop for Ulla Johnson’s latest runway show – afterwards, the American desig",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WnAALRQFu5SkR5YfqWDYQZ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Tour a Chilean holiday home designed to weave daily life into its lakeside site",
+      "url": "https://www.wallpaper.com/architecture/residential/chilean-holiday-home-loyco-ccra",
+      "excerpt": "LoyCo House is a new Chilean holiday home on the shores of Vichuquén Lake; its creators, architects Ricardo Atanacio and Carolina Contreras, respond to the region's distinct identity to craft a home t",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/2Gv5oXWmVki2Kg488DDkAC-1958-80.jpg",
       "today": true
     },
     {
@@ -162,16 +245,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/anamesa-k-studio-mykonos-house-greece",
       "excerpt": "Anamesa by K-Studio is a Mykonos house that draws on its Greek island setting's architectural vernacular and rocky landscape – while offering a haven of peace for its inhabitants",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vPjrde5LF34gmZQqLEqyV4-1415-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "This pocket-sized Porsche from Hedley Studios is the perfect electric track day companion",
-      "url": "https://www.wallpaper.com/transportation/this-pocket-sized-porsche-from-hedley-studios-is-the-perfect-electric-track-day-companion",
-      "excerpt": "The new Porsche 550 J from Hedley Studios continues the British manufacturer’s strategy of miniaturising, electrifying and elevating the everyday driving experience of a host of classic automobiles",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KCtGGmPN82hhNsAN3JZLsk-2560-80.jpg",
       "today": true
     },
     {
@@ -204,36 +277,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "The Rolls-Royce Phantom Hummingbird is a private commission with an avian theme",
-      "url": "https://www.wallpaper.com/transportation/rolls-royce-phantom-hummingbird",
-      "excerpt": "The latest unique Rolls-Royce has us all aflutter, thanks to the laborious and innovative application of iridescent abalone shells",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r7xXXUpuhNGSMzYZRF7rLN-1787-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Estúdio Campana brings Brazilian soul to a São Paulo airport lounge",
-      "url": "https://www.wallpaper.com/travel/sala-pedra-preta-sao-paulo-brazil-estudio-campana",
-      "excerpt": "Itaú opens Sala Pedra Preta, a new Brazilian design lounge at São Paulo Guarulhos Airport",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7X3dsPT3p6T4hEZSkkW7Wf-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Chopard celebrates 50 years of ‘Happy Diamonds’ with a new collection",
-      "url": "https://www.wallpaper.com/watches-jewellery/chopard-happy-diamonds-50-years",
-      "excerpt": "Defined by diamonds that cut their own fluid path across watches and jewellery, the ‘Happy Diamonds’ series gets a new anniversary collection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cuV5rYqvXwh4JW85MJtBdC-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.15",
@@ -243,13 +286,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "the hacienda must be built: on spectacle and wonder in a disenchanted world",
-      "url": "https://www.designboom.com/editorials/the-hacienda-must-be-built-spectacle-wonder-disenchanted-world/",
-      "excerpt": "what if we are not overwhelmed by spectacle, but starved of it? our days are measured, optimized and increasingly predictable. we have never been exposed to more images, and rarely felt less enchanted",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/spectator-spectacle-chapter-editor-letter-designboom-1200.jpg",
+      "title": "Crux South Climbing Gym / Derrington Building Studio",
+      "url": "https://www.archdaily.com/1185069/crux-south-climbing-gym-derrington-building-studio",
+      "excerpt": "The new Crux South location in Austin, Texas, designed by Derrington Building Studio, transforms a former gravel lot into a neighborhood hub centered on movement, gathering and community. Crux South i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/2362/a74d/1200/0125/e397/large_jpg/43_CRUX_SOUTH_South_West_Facade.jpg?1789404044",
       "today": true
     },
     {
@@ -259,26 +302,6 @@ window.LUMINO_DATA = {
       "title": "Mango trees shade \"restrained and calming\" home in India by InLe architects",
       "url": "https://www.dezeen.com/2026/09/15/house-beyond-mango-trees-inle-architects/",
       "excerpt": "Timber shutters and the canopies of two large trees shade the interiors of House Beyond the Mango Trees, a home in Kerala by Indian practice InLe Architects. InLe Architects founder Afiz Ubaid describ",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "hussein chalayan staged a living room, then let his models wear it away",
-      "url": "https://www.designboom.com/design/2000-hussein-chalayan-collection-living-room-after-words/",
-      "excerpt": "the 2000 runway turns looking into part of the design as furniture reveals an unexpected second life.\nThe post hussein chalayan staged a living room, then let his models wear it away appeared first on",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/hussein-chalayan-after-words-fw2000-london-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "lasvit imprints bohemian meadows into custom lighting fixture for napa valley home",
-      "url": "https://www.designboom.com/design/lasvit-lighting-fixture-installation-for-napa-valley-home/",
-      "excerpt": "with it’s herbarium, lasvit creates a hand blown crystal installation for a private home in napa valley.\nThe post lasvit imprints bohemian meadows into custom lighting fixture for napa valley home app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lasvit_designboom_facebook.jpg",
       "today": true
     },
     {
@@ -298,15 +321,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185105/the-kiosk-cityforster",
       "excerpt": "The Kiosk proposes a compact and adaptable model for seasonal commercial infrastructure in Dhermi's rapidly changing coastal context.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebbd/large_jpg/Kiosk_2__A.Muraku_.jpg?1789457698",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Jony Ive decorates Moncler outerwear collection with New York symbols",
-      "url": "https://www.dezeen.com/2026/09/15/jony-ive-lovefrom-moncler-new-york/",
-      "excerpt": "Designer Jony Ive's studio LoveFrom has created its second collection for fashion brand Moncler, using symbols including its signature bear climbing the Empire State Building to celebrate the brand's ",
       "today": true
     },
     {
@@ -337,16 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185133/art-omi-fall-architecture-opening",
       "excerpt": "Celebrate the opening of TAELON7: Limbo Engawa and Michael Meredith and Hilary Sample: A Dome with Four Oculi in the Sculpture & Architecture Park at Art Omi on Saturday, September 19, 2–5 PM.\nFree an",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/41a3/a74d/1200/0125/ed6b/large_jpg/AO-26-LimboEngawa_MOS-Opening0HomepageBanner-v2.jpg?1789477301",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "REFLEXO, 30 Years, 30 Projects",
-      "url": "https://www.archdaily.com/1185129/reflexo-30-years-30-projects",
-      "excerpt": "To mark its 30th anniversary, the studio is transforming the public space in front of its headquarters on Avenida Infante Santo into a free exhibition. Thirty large-format panels, designed to resemble",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/4049/a74d/1200/0125/ed4c/large_jpg/Caixa-de-Luz.jpg?1789476955",
       "today": true
     },
     {
