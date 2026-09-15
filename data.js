@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.15  00:09",
+  "fetchedAt": "2026.09.15  05:41",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ウォーカープラス": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,15 +41,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -106,13 +106,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
       "date": "2026.09.15",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
       "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
@@ -123,6 +122,16 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.09.15",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
@@ -145,13 +154,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.15",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "pink inflatable canopy brings soft shade to new york’s streetscape",
+      "url": "https://www.designboom.com/architecture/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower/",
+      "excerpt": "inflatable elements hover above the pavement to filter sunlight and create shifting shadows.\nThe post pink inflatable canopy brings soft shade to new york’s streetscape appeared first on designboom | ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.09.15",
+      "title": "Pro's Way 住宅照明のヒミツを更新しました。",
+      "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol53.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.15",
+      "title": "Saekdong House / a.co.lab",
+      "url": "https://www.archdaily.com/1185040/saekdong-house-ab",
+      "excerpt": "Saekdong House is a renovation and extension project of an old residence built in 1968, situated in Yeonhui-dong, Seoul, South Korea. The house is revealed only after traversing a long, narrow alleywa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/d361/a74d/1200/0125/e1e9/large_jpg/DJI_20260630092439_0320_D.jpg?1789383544",
       "today": true
     },
     {
@@ -162,6 +191,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/luminous-globes-branched-metal-tree-installation-pakistan-raza-zahid-atelier/",
       "excerpt": "while the branching pattern has an organic appearance, its composition is based on precise pentagonal geometry.\nThe post luminous globes extend from branched metal tree installation in pakistan appear",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tree-of-light-raza-zahid-atelier-lighting-installation-lahore-pakistan-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "Blue Box / Estudio VA arquitectos",
+      "url": "https://www.archdaily.com/1185092/blue-box-estudio-va-arquitectos",
+      "excerpt": "The commission consisted of designing the new entrance to a recreational and sports campground, giving it the required scale. Through a 3.30 x 3.30-meter grid, the project aimed to organize the entry,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/5628/a74d/1200/0125/e51e/large_jpg/UPCN-25.jpg?1789417198",
       "today": false
     },
     {
@@ -233,16 +272,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "greenhouse converts into inhabitable light installation for music festival in the UK",
-      "url": "https://www.designboom.com/art/greenhouse-inhabitable-light-installation-music-festival-uk-kren-shed/",
-      "excerpt": "sprayed yellow aluminum, black PVC and off-the-shelf fixings transform this domestic garden structure into a glowing beacon and gathering space.\nThe post greenhouse converts into inhabitable light ins",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kren-shed-light-greenhouse-installation-music-festival-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.14",
@@ -293,16 +322,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "Canopy House / Lamoureux Architect Inc.",
-      "url": "https://www.archdaily.com/1184863/canopy-house-lamoureux-architect-inc",
-      "excerpt": "Set on a heavily treed, side-sloping site that runs parallel to the street, the home terraces upward with the natural topography, transforming grade change into a sequence of inhabitable platforms and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/bbfa/05b6/9900/01b5/383e/large_jpg/The-Collingwood-Residence-1001Photoshoped-Compressed.jpg?1789049889",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.14",
@@ -327,16 +346,6 @@ window.LUMINO_DATA = {
       "title": "Design Academy Eindhoven students reinvent the bathroom for a resource-scarce future",
       "url": "https://www.dezeen.com/2026/09/14/design-academy-eindhoven-kaldewei-behind-closed-doors/",
       "excerpt": "Tiles decorated with hair and a dissolving washbasin made of soap are among the student projects featured in Behind Closed Doors, an exhibition by the Design Academy Eindhoven and Kaldewei at Berlin d",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "House Südeifel / PUR+ Architekten",
-      "url": "https://www.archdaily.com/1184860/house-sudeifel-pur-plus-architekten",
-      "excerpt": "Located within the historic village structure of Germany's southern Eifel region, Haus Südeifel sensitively transforms a heritage-listed 18th-century farmstead into a contemporary home and retreat. Th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/ba4d/05b6/9900/01b5/37da/large_jpg/PP_Beilingen___Dominic-Kummer_2026-18_verkleinert.jpg?1789049476",
       "today": false
     },
     {
