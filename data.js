@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.16  19:18",
+  "fetchedAt": "2026.09.16  22:34",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "夜景FAN": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,61 +17,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Sortir à Paris": {
+    "ozmall.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "東京建物株式会社": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -96,23 +104,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "夜景FAN",
       "cat": "展示・アート",
       "date": "2026.09.16",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.16",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.16",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -126,7 +144,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.16",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -135,33 +153,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "東京建物株式会社",
+      "cat": "展示・アート",
+      "date": "2026.09.16",
+      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
+      "url": "https://tatemono.com/news/20251016-3.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.16",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "aston martin and brough superior turn their track superbike into a road machine",
+      "url": "https://www.designboom.com/technology/aston-martin-brough-superior-superbike-amb-002-roadster/",
+      "excerpt": "limited to 300 examples, the 190-kg roadster translates details from vanquish, valkyrie and valhalla into a machine built for public roads.\nThe post aston martin and brough superior turn their track s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aston-martin-brough-superior-superbike-AMB-002-Roadster-designboom-113.jpg",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
-      "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "title": "film stills leave the screen and become elaborate makeup compositions",
+      "url": "https://www.designboom.com/art/film-stills-screen-elaborate-makeup-compositions-emerald-vysions/",
+      "excerpt": "emerald vysions takes visual cues from films across different eras and genres, translating their distinctive palettes and moods into eye looks.\nThe post film stills leave the screen and become elabora",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/emerald-vysions-pulls-cinematic-imagery-apart-and-rebuilds-it-through-makeup-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "ZHA rethinks benghazi’s urban growth through a digital planning hub",
+      "url": "https://www.designboom.com/architecture/zha-benghazi-libya-urban-growth-digital-planning-hub/",
+      "excerpt": "the citywide strategy is designed to evolve alongside benghazi, replacing a fixed masterplan with an adaptable framework for growth.\nThe post ZHA rethinks benghazi’s urban growth through a digital pla",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zha-benghazi-libya-urban-growth-digital-planning-hub-designboom-5.jpg",
       "today": true
     },
     {
@@ -234,6 +272,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "KUSKA Residence / Taller MACAA (Misión de Arquitectura, Construcción y Arte en los Andes)",
+      "url": "https://www.archdaily.com/1185261/kuska-residence-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes",
+      "excerpt": "With the goal of migrating to an environment completely opposite to the city, Kuska was born—a Quechua word meaning \"together.\" The space was conceived as the primary residence for a writer and an art",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/cd03/4f64/5201/8803/16a6/large_jpg/residencia-kuska-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes_18.jpg?1789578514",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -273,16 +321,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "the MET gathers 200 years of capturing clouds, from tinted mirrors to painted negatives",
-      "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/",
-      "excerpt": "the MET explores how clouds moved from scientific study to photographic experiment and, eventually, emotional expression.\nThe post the MET gathers 200 years of capturing clouds, from tinted mirrors to",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chasing-clouds-metropolitan-museum-art-designboom-FB.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -301,32 +339,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "three-axis joint connects raw tree branches without screws for self-building structures",
-      "url": "https://www.designboom.com/design/three-axis-joint-eugenio-costa-raw-branches-structure-screws/",
-      "excerpt": "presented at paris design week 2026, the system moves beyond construction experiments as its screw-free joint takes shape as a chair, table, and lamp built from raw branches.\nThe post three-axis joint",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/three-axis-joint-eugenio-costa-raw-branches-structure-screws-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.16",
       "title": "Yinka Ilori trash bins \"find the magic in the everyday\"",
       "url": "https://www.dezeen.com/2026/09/16/yinka-illori-bins-ironing-board-brabantia/",
       "excerpt": "British-Nigerian designer Yinka Ilori has designed a collection of bins, ironing board covers and kitchenware for home product brand Brabantia. Named simply the Home Collection, the range was design b",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "pli office explores the power of chaos at la gaîté lyrique for paris design week 2026",
-      "url": "https://www.designboom.com/design/pli-office-tout-est-chaos-at-la-gaite-lyrique-for-paris-design-week-2026/",
-      "excerpt": "the exhibition challenges traditional design utility to embrace chaos as a fertile, unstable ground to spark new forms, unexpected uses, and fresh ways of thinking.\nThe post pli office explores the po",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/pli_office_designboom_facebook.jpg",
       "today": true
     },
     {
@@ -347,16 +365,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185230/design-week-mexico-2026",
       "excerpt": "From October 5–11, 2026, Mexico City will once again become a global hub for innovation and creative excellence with the opening of Design Week Mexico 2026 (#DWM26). This edition embraces a significan",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/9b00/1057/6a00/017e/a617/large_jpg/dwm26-std-blk-banner.jpg?1789565723",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Landscape as Choreography: Architecture in the Contemporary Botanical Garden",
-      "url": "https://www.archdaily.com/1184831/landscape-as-choreography-architecture-in-the-contemporary-botanical-garden",
-      "excerpt": "Botanical gardens bring the landscape, design, community, and scientific inquiry into close conversation. Emerging from medicinal gardens and private collections that were dedicated to classifying pla",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/a8c6/43f9/c501/88fd/1a59/large_jpg/landscape-as-choreography-architecture-in-the-contemporary-botanical-garden_10.jpg?1788979403",
       "today": true
     },
     {
