@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.16  00:59",
+  "fetchedAt": "2026.09.16  05:44",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,41 +29,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -98,12 +106,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
+      "source": "Google ニュース",
+      "cat": "展示・アート",
       "date": "2026.09.16",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -136,13 +145,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "東京ミッドタウン日比谷25年イルミネーション、輝く星のオブジェや“夜想曲”ライトアップ",
-      "url": "https://www.fashion-press.net/news/138846",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138846/top.jpg?1759295718",
+      "title": "Inside a monolithic Melbourne house designed for multi-generational living",
+      "url": "https://www.wallpaper.com/architecture/residential/monolithic-melbourne-house-australia",
+      "excerpt": "Despite its crisp exterior structure, this Melbourne home feels soft and welcoming, seamlessly nestled into the surrounding topography",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PD5XdCoqT3WAStKpdebYTd-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "322 ceramic tiles translate electromagnetic fields into textured switchstation facade",
+      "url": "https://www.designboom.com/design/322-ceramic-tiles-electromagnetic-fields-textured-switchstation-facade-studio-rap-powerhouse-company-beverwijk-netherlands/",
+      "excerpt": "for switchstation beverwijk, powerhouse company works with studio rap to integrate a digitally fabricated ceramic artwork into an essential piece of energy infrastructure. \nThe post 322 ceramic tiles ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/switchstation-beverwijk-powerhouse-company-studio-rap-3d-ceramic-artwork-facade-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -264,16 +283,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Step inside this smart Mykonos house, designed for solitude or celebration",
-      "url": "https://www.wallpaper.com/architecture/residential/anamesa-k-studio-mykonos-house-greece",
-      "excerpt": "Anamesa by K-Studio is a Mykonos house that draws on its Greek island setting's architectural vernacular and rocky landscape – while offering a haven of peace for its inhabitants",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vPjrde5LF34gmZQqLEqyV4-1415-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.15",
@@ -300,16 +309,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects/",
       "excerpt": "prefabricated over two months at princeton’s architecture lab, the prototype uses 16 large straw units whose density and limitations directly shape the house’s form.\nThe post agricultural waste forms ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "analog sound installation by YONT studio captures road trip nostalgia inside berlin’s KaDeWe",
-      "url": "https://www.designboom.com/design/analog-sound-installation-yont-studio-berlin-kadewe/",
-      "excerpt": "namilia and telekom electronic beats present an immersive soundscape designed by YONT studio, inviting visitors to slow down and listen.\nThe post analog sound installation by YONT studio captures road",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/yont-studio_designboom_05.jpg",
       "today": false
     },
     {
@@ -351,6 +350,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "遠藤照明",
+      "cat": "国内情報",
+      "date": "2026.09.15",
+      "title": "セミナー「商空間のこれからをつくる光 ― 事例から考える、照明の新しい役割」",
+      "url": "https://www.endo-lighting.co.jp/news/20260915-01/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/09/shokukan_top_2560.png",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.09.15",
@@ -378,6 +387,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/181",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/181/DSC08396-Edit.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
       "today": false
     },
     {
@@ -428,6 +447,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -487,6 +516,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
