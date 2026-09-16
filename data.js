@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.16  10:41",
+  "fetchedAt": "2026.09.16  15:17",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "久留米ファン": {
+    "kurumefan.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "kurumefan.com",
       "cat": "展示・アート",
       "date": "2026.09.16",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
@@ -171,6 +171,83 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.16",
+      "title": "Who claimed a place in The World’s 50 Best Hotels 2026?",
+      "url": "https://www.wallpaper.com/travel/hotels/the-worlds-50-best-hotels-2026-list",
+      "excerpt": "Rosewood Hong Kong retains the top spot as Europe leads the global list, with ten new entries and a fresh round of special awards",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EtntboMibgSQH3PbpZxfXN-1540-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "‘It's dignified to the Balloon Dog’: Jeff Koons on partnering with Hublot",
+      "url": "https://www.wallpaper.com/watches-jewellery/jeff-koons-hublot-watches",
+      "excerpt": "Jeff Koons has collaborated with Hublot on the colourful Hublot Classic Fusion Balloon Dog and the MP14 Origin watch",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnLrzeVzvGBjphcmGTnyXK-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Gingko lounge chair by Anne-mette Bartholin and Morten Ernst for Cozmo",
+      "url": "https://www.dezeen.com/2026/09/16/gingko-lounge-chair-anne-mette-bartholin-cozmo-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: economy of material and sculptural presence meet in this lounge chair, designed by Anne-mette Bartholin and Morten Ernst for furniture brand Cozmo. The Gingko lounge chair is the prod",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Rolex releases the new Perpetual Padellone watch",
+      "url": "https://www.wallpaper.com/watches-jewellery/rolex-perpetual-padellone-watch",
+      "excerpt": "The latest Rolex watch takes its inspiration from a 1940s model and maintains its elegant silhouette",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kuPvymShxVpSjjCpKbDtoC-1024-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "the MET gathers 200 years of capturing clouds, from tinted mirrors to painted negatives",
+      "url": "https://www.designboom.com/art/chasing-clouds-met-two-centuries-skywatching-metropolitan-museum-new-york-exhibition/",
+      "excerpt": "the MET explores how clouds moved from scientific study to photographic experiment and, eventually, emotional expression.\nThe post the MET gathers 200 years of capturing clouds, from tinted mirrors to",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chasing-clouds-metropolitan-museum-art-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Stone walls form \"strong yet subtle\" cottage extension in Scotland",
+      "url": "https://www.dezeen.com/2026/09/16/cairngorm-cottage-architecture-office/",
+      "excerpt": "Scottish ash joinery and clay plaster add warmth to the granite walls of this low-lying extension to Cairngorm Cottage in Scotland, designed by local studio Architecture Office. The extension was buil",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Dario Vitale reveals his next move: creative director of Emporio Armani",
+      "url": "https://www.wallpaper.com/fashion-beauty/dario-vitale-creative-director-emporio-armani-giorgio-armani-accessories",
+      "excerpt": "The Italian designer, who comes from a short but impactful stint at Versace, will also head up Giorgio Armani Accessories. It makes him the first person from outside the Armani family to do so",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/t9fyLZHSyfwzE2JK8U3Rpd-2559-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Colour-sensing toaster makes burnt toast a thing of the past",
+      "url": "https://www.dezeen.com/2026/09/16/eye-q-toaster-colour-sensor-sage-appliances/",
+      "excerpt": "Kitchen brand Sage Appliances has launched a toaster that uses sensors to measure colour change to determine when toast is cooked. Described by the brand as \"a breakthrough in toasting innovation\", th",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
       "title": "‘I wanted to move the world’: meet the man who invented wellness",
       "url": "https://www.wallpaper.com/design-interiors/nerio-alessandri-technogym-interview",
       "excerpt": "Nerio Alessandri started Technogym from his garage in 1986: on the company’s 40th anniversary, he talks to Wallpaper* about his intuition, vision and how he shaped the best known equipment in sport",
@@ -207,6 +284,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Dance, Music and Theatre Conservatoire in Massy / Dominique Coulon & associés",
+      "url": "https://www.archdaily.com/1185080/dance-music-and-theatre-conservatoire-in-massy-dominique-coulon-and-associes",
+      "excerpt": "The conservatoire lies on a road linking Massy opera house to a park. The tall apartment buildings that surround it seem to step back to give the conservatoire space. Indeed, only once you have walked",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/41a5/069c/1b01/89fb/7644/large_jpg/dance-music-and-theatre-conservatoire-in-massy-dominique-coulon-and-associes_2.jpg?1789411809",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -216,21 +303,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "RSHP and ERRE unveil plans for curved-roof rail hub in Valencia",
-      "url": "https://www.dezeen.com/2026/09/16/rshp-erre-valencia-central-station/",
-      "excerpt": "Architecture studios RSHP  and ERRE have unveiled their plans for Valencia Central Station in Spain, which will incorporate public green spaces and sweeping roof canopies. Designed by RSHP and ERRE wi",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Collate Lobby curates fictional 1930s hotel suite to launch its first editions collection",
-      "url": "https://www.dezeen.com/2026/09/16/collate-lobby-fictional-1930s-hotel-suite/",
-      "excerpt": "Over 30 designers, makers and studios have created limited-edition and prototype furniture and objects for Lobby, a new design platform launched by recruitment agency Collate Form during London Design",
+      "title": "Design Week Mexico 2026",
+      "url": "https://www.archdaily.com/1185230/design-week-mexico-2026",
+      "excerpt": "From October 5–11, 2026, Mexico City will once again become a global hub for innovation and creative excellence with the opening of Design Week Mexico 2026 (#DWM26). This edition embraces a significan",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/9b00/1057/6a00/017e/a617/large_jpg/dwm26-std-blk-banner.jpg?1789565723",
       "today": true
     },
     {
@@ -244,15 +323,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "How craft conquered design",
-      "url": "https://www.dezeen.com/2026/09/16/how-craft-conquered-design/",
-      "excerpt": "Craft has become cool, while industrial design has lost its sparkle. What's driving the trend? And are they really so different? Debika Ray reports. 'Handmade', 'heritage', 'bespoke' – most of us are ",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -263,73 +333,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "dark metal roof shapes community canteen beside mountain stream in china",
-      "url": "https://www.designboom.com/architecture/dark-metal-roof-community-canteen-mountain-stream-china-shan-canteen-lllab/",
-      "excerpt": "the sheltered edge forms an engawa-like space between inside and outside.\nThe post dark metal roof shapes community canteen beside mountain stream in china appeared first on designboom | architecture ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/shan-canteen-lllab-community-dining-public-leisure-chengde-china-designboom-1200-1-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Every facet of this new Oslo coffee bar has been shaped by local design superstars Snøhetta",
-      "url": "https://www.wallpaper.com/travel/bars/every-facet-of-this-new-oslo-coffee-bar-has-been-shaped-by-local-design-superstars-snohetta",
-      "excerpt": "The élan coffee bar is a bespoke slice of contemporary coffee culture, featuring Snøhetta-designed fixtures, fittings and furniture, along with rich materiality, a custom soundscape, and excellent cof",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gMdTFbxvT2DtjXkny2oMLa-2560-80.jpg",
+      "title": "Landscape as Choreography: Architecture in the Contemporary Botanical Garden",
+      "url": "https://www.archdaily.com/1184831/landscape-as-choreography-architecture-in-the-contemporary-botanical-garden",
+      "excerpt": "Botanical gardens bring the landscape, design, community, and scientific inquiry into close conversation. Emerging from medicinal gardens and private collections that were dedicated to classifying pla",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/a8c6/43f9/c501/88fd/1a59/large_jpg/landscape-as-choreography-architecture-in-the-contemporary-botanical-garden_10.jpg?1788979403",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "What Are Architects Escaping From? Ambition and Avoidance in Designing for Remote Sites",
-      "url": "https://www.archdaily.com/1184642/what-are-architects-escaping-from-ambition-and-avoidance-in-designing-for-remote-sites",
-      "excerpt": "Ask an architect what the hardest problem in the discipline is right now. The block of unmaintained postwar housing two streets from their office rarely comes up. What comes to their mind is the press",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/99b8/1fe7/3101/8863/0a6e/large_jpg/what-are-we-escaping-from-architecture-after-utopia_10.jpg?1788778944",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Inside a monolithic Melbourne house designed for multi-generational living",
-      "url": "https://www.wallpaper.com/architecture/residential/monolithic-melbourne-house-australia",
-      "excerpt": "Despite its crisp exterior structure, this Melbourne home feels soft and welcoming, seamlessly nestled into the surrounding topography",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PD5XdCoqT3WAStKpdebYTd-2560-80.jpg",
+      "title": "Het Steen Antwerp - Visitor Center and Tourist Reception / noAarchitecten",
+      "url": "https://www.archdaily.com/1185154/het-steen-antwerp-visitor-center-and-tourist-reception-noaarchitecten",
+      "excerpt": "The eventful construction history of Het Steen lies at the basis of the design. After centuries of being part of the city walls, the collection of buildings acquired a freestanding character around 18",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/5f26/8a93/3f01/88f2/2f53/large_jpg/het-steen-antwerp-visitor-center-and-tourist-reception-noaarchitecten_3.jpg?1789550411",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "Casa Fátima / MARMOLBRAVO",
-      "url": "https://www.archdaily.com/1184910/casa-fatima-marmolbravo",
-      "excerpt": "Casa Fátima transforms a semi-detached house built in the 1970s through a process of reinterpretation rather than replacement, revealing the latent qualities of the existing architecture while adaptin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/e3fe/05b6/9900/01b5/3b0b/large_jpg/CasaFatima_marmolbravo027.jpg?1789060113",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Kaymana Bali - Fire Villa / Pablo Luna Studio",
-      "url": "https://www.archdaily.com/1185068/kaymana-bali-fire-villa-pablo-luna-studio",
-      "excerpt": "Fire Villa is part of Kaymana, a hospitality complex in Uluwatu, Bali, conceived around the ideas of radiance, revelation, and awe. Its warm, honey-colored bamboo structure captures the radiating ener",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/1ca7/069c/1b01/89fb/758e/large_jpg/kaymana-bali-fire-villa-pablo-luna-studio_1.jpg?1789402307",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "When Timber Isn't the Right Material: Rethinking Material Selection for High-Performance Architecture",
-      "url": "https://www.archdaily.com/1181704/when-timber-isnt-the-right-material-rethinking-material-selection-for-high-performance-architecture",
-      "excerpt": "The relationship between humans and wood has endured since the Greco-Roman era, when a variety of techniques were developed to maximize its unique properties and characteristics. Beyond its warmth, te",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a7e/88be/ab59/ca01/8994/5058/large_jpg/when-timber-isnt-the-right-material-rethinking-material-selection-for-high-performance-architecture_29.jpg?1786677475",
+      "title": "Buildner Announces Winners of Architect’s Chair #5 and Launches Stockholm Furniture Fair Edition #6",
+      "url": "https://www.archdaily.com/1184973/buildner-announces-winners-of-architects-chair-number-5-and-launches-stockholm-furniture-fair-edition-number-6",
+      "excerpt": "Buildner is pleased to announce the results of its Architect's Chair Competition Edition 5, the fifth edition of the annual international competition inviting architects and designers worldwide to cre",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/3e85/9637/5601/88df/3f24/large_jpg/buildner-announces-winners-of-architects-chair-number-5-and-launches-stockholm-furniture-fair-edition-number-6_1.jpg?1789148817",
       "today": true
     },
     {
@@ -341,36 +371,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/products/assets/media/case/184/002.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Yearly Plan House / Hui Pan Architects",
-      "url": "https://www.archdaily.com/1185098/yearly-plan-house-hui-pan-architects",
-      "excerpt": "Yearly Plan House has officially opened at Luhu in Chengdu. Its design concept is distilled into three core dimensions: the reinterpretation of the original architectural structure, the capture of Che",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/d613/a74d/1200/0125/eb6b/large_jpg/24.jpg?1789449844",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "At Saatchi Yates, Sujin Lee’s figures are frozen in introspection",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/sujin-lee-where-we-once-stood-saatchi-yates",
-      "excerpt": "Sujin Lee’s exhibition ‘Where We Once Stood’, considers the stillness after an event",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cuBhp5DVR9nhKb8dbdPMwM-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "Claudia Schiffer on the best thing about Healf’s healthy advent calendar",
-      "url": "https://www.wallpaper.com/fashion-beauty/claudia-schiffer-healf-advent-calendar",
-      "excerpt": "The supermodel tells Wallpaper* about her favourite products from the annual viral sensation and shares some of her own wellness non-negotiables",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ye9G6ee4oV3XoKKW9WRQBa-569-80.jpg",
-      "today": false
     },
     {
       "source": "遠藤照明",
