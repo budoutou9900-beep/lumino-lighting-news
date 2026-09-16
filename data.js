@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.16  15:17",
+  "fetchedAt": "2026.09.16  19:18",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,27 +9,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "kurumefan.com": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "khb東日本放送": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ウォーカープラス": {
+    "Sortir à Paris": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,41 +41,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -100,15 +96,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "kurumefan.com",
-      "cat": "展示・アート",
-      "date": "2026.09.16",
-      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
-      "url": "https://kurumefan.com/kurume-chikugogawa-xmas",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.16",
@@ -126,16 +113,6 @@ window.LUMINO_DATA = {
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "khb東日本放送",
-      "cat": "展示・アート",
-      "date": "2026.09.16",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン",
-      "url": "https://www.khb-tv.co.jp/news/16428051",
-      "excerpt": "",
-      "thumbnailUrl": "https://p.potaufeu.asahi.com/4db5-p/picture/30627752/c5d15ff8a566d28b1e1f61af6854d4ca.jpg",
       "today": true
     },
     {
@@ -168,6 +145,85 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.16",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.16",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "excerpt": "",
+      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "CHYBIK + KRISTOF wraps jihlava arena in a jagged red aluminum crown",
+      "url": "https://www.designboom.com/architecture/chybik-kristof-jihlava-arean-red-aluminum-czech-republic/",
+      "excerpt": "the czech arena combines an expressive aluminum facade with circulation designed to remain active beyond event hours.\nThe post CHYBIK + KRISTOF wraps jihlava arena in a jagged red aluminum crown appea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chibik-kristof-jihlava-municipal-arena-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "These were the best shows of New York Fashion Week S/S 2027",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-new-york-fashion-week-ss-2027-review-roundup",
+      "excerpt": "This season’s edition of New York Fashion Week reflected the city’s buoyant mood, from its blockbuster names – among them Calvin Klein, Tory Burch and Coach – to an intriguing cohort of young talents",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/au77U27ao7Lywc2696iBbn-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Own a classic Frank Lloyd Wright house as the Samuel Eppstein residence comes to market",
+      "url": "https://www.wallpaper.com/architecture/residential/frank-lloyd-wright-house-samuel-eppstein-residence-for-sale",
+      "excerpt": "The Samuel Eppstein residence in Kalamazoo combines architectural history with a spectacular site and equally significant neighbours from Wright’s Usonian house era",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3vtEUNwN4Lcazi4XE4n3iG-768-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "Arquitectonica designs world's largest cruise terminal to \"mirror directionality\" of ships",
+      "url": "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/",
+      "excerpt": "Local architecture studio Arquitectonica has shaped the MSC Cruise Terminal, the world's largest cruise terminal by size, in Miami to accommodate three ships at once. Arquitectonica designed a slim, e",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "designboom shop drop: limited release of playful culinary designs",
+      "url": "https://www.designboom.com/design/designboom-shop-drop-kitchen-with-a-twist-culinary-design/",
+      "excerpt": "kitchen with a twist brings together a collection of whimsical yet highly functional items that inject visual storytelling, clever geometry, and humor onto the countertop.\nThe post designboom shop dro",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designboom-shop-drop-kitchen-with-a-twist-culinary-designboom1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "The Hayward Gallery announces a major Cao Fei exhibition. Take a first look here",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/cao-fei-hayward-gallery-show-announced",
+      "excerpt": "In 2027, the London gallery will host the Chinese artist’s largest UK exhibition to date",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VjYf5RrEmT4w4Gpa8q5VhB-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -197,13 +253,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
-      "title": "Rolex releases the new Perpetual Padellone watch",
-      "url": "https://www.wallpaper.com/watches-jewellery/rolex-perpetual-padellone-watch",
-      "excerpt": "The latest Rolex watch takes its inspiration from a 1940s model and maintains its elegant silhouette",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kuPvymShxVpSjjCpKbDtoC-1024-80.jpg",
+      "title": "Noor House / Marcos Lula",
+      "url": "https://www.archdaily.com/1185246/noor-house-marcos-lula",
+      "excerpt": "Casa Noor was born from the desire to create a home that, above all, reflected a family's daily life. Rather than a formal residence, the project was envisioned as a gathering place—a space for sponta",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3818/large_jpg/_DSC9333-Editar.jpg?1789049640",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "4015 House & Studio / Observation Studio",
+      "url": "https://www.archdaily.com/1184381/4015-house-and-studio-observation-studio",
+      "excerpt": "The design of the 4015 House and Studio reflects the global shift to working remotely, renovating a mid-century house set in the hills above Portland. Designed for an executive creative director and h",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2b26/bed1/7f00/014d/274f/large_jpg/4015_10_ArchDaily.jpg?1788291946",
       "today": true
     },
     {
@@ -226,32 +292,12 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Dario Vitale reveals his next move: creative director of Emporio Armani",
-      "url": "https://www.wallpaper.com/fashion-beauty/dario-vitale-creative-director-emporio-armani-giorgio-armani-accessories",
-      "excerpt": "The Italian designer, who comes from a short but impactful stint at Versace, will also head up Giorgio Armani Accessories. It makes him the first person from outside the Armani family to do so",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/t9fyLZHSyfwzE2JK8U3Rpd-2559-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.16",
       "title": "Colour-sensing toaster makes burnt toast a thing of the past",
       "url": "https://www.dezeen.com/2026/09/16/eye-q-toaster-colour-sensor-sage-appliances/",
       "excerpt": "Kitchen brand Sage Appliances has launched a toaster that uses sensors to measure colour change to determine when toast is cooked. Described by the brand as \"a breakthrough in toasting innovation\", th",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "‘I wanted to move the world’: meet the man who invented wellness",
-      "url": "https://www.wallpaper.com/design-interiors/nerio-alessandri-technogym-interview",
-      "excerpt": "Nerio Alessandri started Technogym from his garage in 1986: on the company’s 40th anniversary, he talks to Wallpaper* about his intuition, vision and how he shaped the best known equipment in sport",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aWjqy2ia7pTQZom4kDBHUJ-1890-80.jpg",
       "today": true
     },
     {
@@ -294,15 +340,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Terre radiator by Sebastian Herkner for Tubes",
-      "url": "https://www.dezeen.com/2026/09/16/terre-radiator-sebastian-herkner-tubes-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: designer Sebastian Herkner worked with Italian heating brand Tubes to create Terre, the company's first radiator made from terracotta. Taking its name from the Italian word for \"earth",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -313,26 +350,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "bethan laura wood, max lamb and andu masebo rethink the material language of home",
-      "url": "https://www.designboom.com/design/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home/",
-      "excerpt": "three london-based designers use nautical rope, ceramic and automotive materials to challenge familiar ideas of domestic furniture.\nThe post bethan laura wood, max lamb and andu masebo rethink the mat",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home-designboom-9.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "DRIFT takes its suspended garden of moving flowers to las vegas",
-      "url": "https://www.designboom.com/art/studio-drift-suspended-garden-moving-flowers-las-vegas/",
-      "excerpt": "suspended above a las vegas lobby, sculptures move through cycles of opening, retreating, and gathering inspired by flowers.\nThe post DRIFT takes its suspended garden of moving flowers to las vegas ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studio-drift-suspended-garden-moving-flowers-las-vegas-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.16",
@@ -340,26 +357,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184831/landscape-as-choreography-architecture-in-the-contemporary-botanical-garden",
       "excerpt": "Botanical gardens bring the landscape, design, community, and scientific inquiry into close conversation. Emerging from medicinal gardens and private collections that were dedicated to classifying pla",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/a8c6/43f9/c501/88fd/1a59/large_jpg/landscape-as-choreography-architecture-in-the-contemporary-botanical-garden_10.jpg?1788979403",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Het Steen Antwerp - Visitor Center and Tourist Reception / noAarchitecten",
-      "url": "https://www.archdaily.com/1185154/het-steen-antwerp-visitor-center-and-tourist-reception-noaarchitecten",
-      "excerpt": "The eventful construction history of Het Steen lies at the basis of the design. After centuries of being part of the city walls, the collection of buildings acquired a freestanding character around 18",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/5f26/8a93/3f01/88f2/2f53/large_jpg/het-steen-antwerp-visitor-center-and-tourist-reception-noaarchitecten_3.jpg?1789550411",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Buildner Announces Winners of Architect’s Chair #5 and Launches Stockholm Furniture Fair Edition #6",
-      "url": "https://www.archdaily.com/1184973/buildner-announces-winners-of-architects-chair-number-5-and-launches-stockholm-furniture-fair-edition-number-6",
-      "excerpt": "Buildner is pleased to announce the results of its Architect's Chair Competition Edition 5, the fifth edition of the annual international competition inviting architects and designers worldwide to cre",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/3e85/9637/5601/88df/3f24/large_jpg/buildner-announces-winners-of-architects-chair-number-5-and-launches-stockholm-furniture-fair-edition-number-6_1.jpg?1789148817",
       "today": true
     },
     {
