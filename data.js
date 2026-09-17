@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.17  12:58",
+  "fetchedAt": "2026.09.17  17:30",
   "sourceColors": {
-    "pronews.com": {
+    "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "khb東日本放送": {
+    "アメーバブログ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "夜景FAN": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,19 +25,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "東京建物株式会社": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,50 +45,42 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "パナソニック": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
     {
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "cat": "国内情報",
       "date": "2026.09.17",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -108,10 +100,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "khb東日本放送",
+      "source": "アメーバブログ",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.17",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン - khb-tv.co.jp",
       "url": "https://www.khb-tv.co.jp/news/16428051",
       "excerpt": "",
       "thumbnailUrl": "https://p.potaufeu.asahi.com/4db5-p/picture/30627752/c5d15ff8a566d28b1e1f61af6854d4ca.jpg",
@@ -128,23 +130,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う - yakei-fan.com",
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
       "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.17",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -155,6 +147,16 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.17",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -177,13 +179,71 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "東京建物株式会社",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.17",
-      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
-      "url": "https://tatemono.com/news/20251016-3.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "title": "RHAD Architects gives Nova Scotia house \"quiet, monolithic presence\"",
+      "url": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+      "excerpt": "Canadian studio RHAD Architects has completed Two Bay House in Nova Scotia, Canada, which consists of blocky volumes with carved-out voids, mass-timber framing and blackened wood cladding. The waterfr",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "cantilevered roof extends over frank lloyd wright’s concrete usonian house, now listed",
+      "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
+      "excerpt": "cherokee red floors and hand-cast concrete blocks remain throughout the restored residence by frank lloyd wright.\nThe post cantilevered roof extends over frank lloyd wright’s concrete usonian house, n",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/frank-lloyd-wright-11090-hawthorne-galesburg-michigan-designboom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Everything you need to know about London Fashion Week",
+      "url": "https://www.wallpaper.com/fashion-beauty/london-fashion-week-ss-2027-schedule-what-to-expect",
+      "excerpt": "From the return of McQueen to Christopher Kane’s Mulberry debut, Wallpaper* picks the moments to look out for at the latest edition of London Fashion Week, which begins today (17 September 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKzjEfSxKVmFewmxgmdXCW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "studiomateriality translates lucha libre into green-lit, stainless-steel bar in athens",
+      "url": "https://www.designboom.com/architecture/studiomateriality-lucha-libre-green-lit-stainless-steel-bar-athens-ochotac/",
+      "excerpt": "ochotac is a mexican-inspired bar where architecture, graphic identity and food culture come together through a bold material and visual language.\nThe post studiomateriality translates lucha libre int",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studiomateriality-ochotac-athens-mexican-bar-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "HKS unveils interior of Commanders stadium with window framing Capitol",
+      "url": "https://www.dezeen.com/2026/09/17/hks-interior-renderings-commanders-stadium-dc-nfl/",
+      "excerpt": "Architecture studio HKS has unveiled interior designs for the upcoming Washington Commanders NFL stadium in Washington DC, showing what its glass ceiling will look like. The renderings showcase a stee",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "12_things is the new fragrance brand doing everything a brand isn’t supposed to do",
+      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/12-things-fragrance-brand",
+      "excerpt": "With fragrances inspired by decay, unaesthetic packaging, and a text-to-order retail system, 12_things might be the most disruptive beauty brand to emerge in years",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GhLdE3v9Bis3oLZn2bfviN-1195-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Step inside Glenn Spiro’s sumptuous new London jewellery showroom",
+      "url": "https://www.wallpaper.com/watches-jewellery/glenn-spiro-london-jewellery-showroom",
+      "excerpt": "Father and son duo Glenn and Joe Spiro worked with Venezuelan designer Valerie Name Bolaño on curating their elegant and eclectic jewellery boutique in Mayfair",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vVkqhPB2jpdBc7JDZZSh29.gif",
       "today": true
     },
     {
@@ -264,64 +324,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "CCA tashkent opens inside transformed 1912 tram depot by studio KO",
-      "url": "https://www.designboom.com/architecture/cca-tashkent-1912-tram-depot-studio-ko/",
-      "excerpt": "studio KO adapts a former tram depot in tashkent into a cultural institution combining contemporary art, research, public programming, and artist residencies.\nThe post CCA tashkent opens inside transf",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/cca-tashkent-1912-tram-depot-studio-ko-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Lovers of the classic Fiat 500 have a fresh opportunity to acquire a bespoke new version",
-      "url": "https://www.wallpaper.com/transportation/lovers-of-the-classic-fiat-500-have-a-fresh-opportunity-to-acquire-a-bespoke-new-version",
-      "excerpt": "The 500 Scattante by La Cinquecento transforms Fiat’s 500 classic into a spirited modern city car, using subtle upgrades and enhancements to give the icon a new lease of life",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9g4hHbJUtD5kHUkuuak7id-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Denmark grows by 300,000 square metres in land reclamation project",
-      "url": "https://www.dezeen.com/2026/09/17/denmark-land-reclamation-fehmarnbelt-tunnel/",
-      "excerpt": "A land reclamation project has added the equivalent of 42 football pitches to Denmark's southern coast, as part of the construction of the Fehmarnbelt Tunnel under the Baltic Sea. Fehmarnbelt Tunnel i",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "‘It’s a paradigm of the design school for the 21st century’: Joseph Grima takes the helm at the Aral School",
-      "url": "https://www.wallpaper.com/design-interiors/aral-school-appoints-joseph-grima-interview",
-      "excerpt": "The architect, curator and critic will direct the experimental Uzbekistan school’s 2027 programme, exploring how place-specific design education might produce tangible change",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GSk8xzmjHkxo9Y8JyoXNfm-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "How a Facebook post led to the resurrection of a space-age architectural icon",
-      "url": "https://www.dezeen.com/2026/09/17/futuro-house-matti-suuronen-marimekko-helsinki-design-week/",
-      "excerpt": "A Matti Suuronen Futuro House has been manufactured for the first time in decades and decked out by Finnish design brand Marimekko for Helsinki Design Week. The famously flying-saucer-like structure r",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "digital patterns become textured geometric compositions through hand stitching",
-      "url": "https://www.designboom.com/art/digital-patterns-textured-geometric-compositions-hand-stitching-ceren-muftuoglu/",
-      "excerpt": "repetition, rhythm and subtle disruptions unfold across painted canvas, blurring the boundaries between textile, painting and relief.\nThe post digital patterns become textured geometric compositions t",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ceren-muftuoglu-digital-geometric-systems-hand-stitching-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.17",
@@ -350,16 +352,6 @@ window.LUMINO_DATA = {
       "excerpt": "This district-wide renewal was coordinated comprehensively by the Ouyang Road Sub-district Office. Shanghai Municipal Engineering Design Institute (Group) Co., Ltd. (SMEDI) led the overall territorial",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/large_jpg/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
       "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "RIBA International Prize 2026 shortlist – which will be the world’s best building?",
-      "url": "https://www.wallpaper.com/architecture/riba-international-prize-2026-shortlist",
-      "excerpt": "The shortlist for the RIBA International Prize 2026 has been announced, revealing four projects that will compete for top spot, as this awards cycle celebrates the entire initiative's tenth anniversar",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/y2SuWi9ZCHuK2Xp5WHoLqe-2482-80.jpg",
-      "today": false
     },
     {
       "source": "ArchDaily",
