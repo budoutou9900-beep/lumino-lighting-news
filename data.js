@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.16  22:34",
+  "fetchedAt": "2026.09.17  01:02",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,44 +49,40 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
       "source": "pronews.com",
       "cat": "国内情報",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
       "url": "https://jp.pronews.com/special/202108301000219018.html",
       "excerpt": "",
@@ -96,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -106,7 +102,7 @@ window.LUMINO_DATA = {
     {
       "source": "夜景FAN",
       "cat": "展示・アート",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
@@ -116,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -126,7 +122,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
@@ -136,7 +132,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
@@ -144,9 +140,9 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -155,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
-      "date": "2026.09.16",
+      "date": "2026.09.17",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
       "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
@@ -163,14 +159,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.16",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "date": "2026.09.17",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット - fashion-press.net",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "RIBA International Prize 2026 shortlist – which will be the world’s best building?",
+      "url": "https://www.wallpaper.com/architecture/riba-international-prize-2026-shortlist",
+      "excerpt": "The shortlist for the RIBA International Prize 2026 has been announced, revealing four projects that will compete for top spot, as this awards cycle celebrates the entire initiative's tenth anniversar",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/y2SuWi9ZCHuK2Xp5WHoLqe-2482-80.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -180,7 +186,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/aston-martin-brough-superior-superbike-amb-002-roadster/",
       "excerpt": "limited to 300 examples, the 190-kg roadster translates details from vanquish, valkyrie and valhalla into a machine built for public roads.\nThe post aston martin and brough superior turn their track s",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aston-martin-brough-superior-superbike-AMB-002-Roadster-designboom-113.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -190,7 +196,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/film-stills-screen-elaborate-makeup-compositions-emerald-vysions/",
       "excerpt": "emerald vysions takes visual cues from films across different eras and genres, translating their distinctive palettes and moods into eye looks.\nThe post film stills leave the screen and become elabora",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/emerald-vysions-pulls-cinematic-imagery-apart-and-rebuilds-it-through-makeup-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -200,7 +206,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/zha-benghazi-libya-urban-growth-digital-planning-hub/",
       "excerpt": "the citywide strategy is designed to evolve alongside benghazi, replacing a fixed masterplan with an adaptable framework for growth.\nThe post ZHA rethinks benghazi’s urban growth through a digital pla",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zha-benghazi-libya-urban-growth-digital-planning-hub-designboom-5.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "La Salle School / FP Arquitectura",
+      "url": "https://www.archdaily.com/1185264/la-salle-school-fp-arquitectura",
+      "excerpt": "The Colegio de La Salle proposes an expanded learning landscape: an architecture that does not merely contain learning but amplifies it, making void, landscape, and circulation the central instruments",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/a2ee/1057/6a00/017e/a654/large_jpg/04_SALLE-Alejandro_Arango.jpg?1789567770",
+      "today": false
     },
     {
       "source": "designboom",
@@ -210,7 +226,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/chybik-kristof-jihlava-arean-red-aluminum-czech-republic/",
       "excerpt": "the czech arena combines an expressive aluminum facade with circulation designed to remain active beyond event hours.\nThe post CHYBIK + KRISTOF wraps jihlava arena in a jagged red aluminum crown appea",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chibik-kristof-jihlava-municipal-arena-designboom-FB.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.16",
+      "title": "House on Alto Teles Pires / Ser Arquitetos",
+      "url": "https://www.archdaily.com/1185249/house-on-alto-teles-pires-ser-arquitetos",
+      "excerpt": "Located in Sorriso, in the north of Mato Grosso, Brazil, the house is situated in the Alto Teles Pires region, a territory marked by the vast plains of the Cerrado and its proximity to the Amazon tran",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/43c8/a74d/1200/0125/e3f0/large_jpg/_08A4889-Edit_copyright_manuel_sa_b.jpg?1789412313",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -220,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-shows-new-york-fashion-week-ss-2027-review-roundup",
       "excerpt": "This season’s edition of New York Fashion Week reflected the city’s buoyant mood, from its blockbuster names – among them Calvin Klein, Tory Burch and Coach – to an intriguing cohort of young talents",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/au77U27ao7Lywc2696iBbn-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -230,7 +256,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/frank-lloyd-wright-house-samuel-eppstein-residence-for-sale",
       "excerpt": "The Samuel Eppstein residence in Kalamazoo combines architectural history with a spectacular site and equally significant neighbours from Wright’s Usonian house era",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3vtEUNwN4Lcazi4XE4n3iG-768-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -239,7 +265,7 @@ window.LUMINO_DATA = {
       "title": "Arquitectonica designs world's largest cruise terminal to \"mirror directionality\" of ships",
       "url": "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/",
       "excerpt": "Local architecture studio Arquitectonica has shaped the MSC Cruise Terminal, the world's largest cruise terminal by size, in Miami to accommodate three ships at once. Arquitectonica designed a slim, e",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -249,7 +275,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/designboom-shop-drop-kitchen-with-a-twist-culinary-design/",
       "excerpt": "kitchen with a twist brings together a collection of whimsical yet highly functional items that inject visual storytelling, clever geometry, and humor onto the countertop.\nThe post designboom shop dro",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designboom-shop-drop-kitchen-with-a-twist-culinary-designboom1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -259,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/cao-fei-hayward-gallery-show-announced",
       "excerpt": "In 2027, the London gallery will host the Chinese artist’s largest UK exhibition to date",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VjYf5RrEmT4w4Gpa8q5VhB-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -269,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/the-worlds-50-best-hotels-2026-list",
       "excerpt": "Rosewood Hong Kong retains the top spot as Europe leads the global list, with ten new entries and a fresh round of special awards",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EtntboMibgSQH3PbpZxfXN-1540-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -279,17 +305,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185261/kuska-residence-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes",
       "excerpt": "With the goal of migrating to an environment completely opposite to the city, Kuska was born—a Quechua word meaning \"together.\" The space was conceived as the primary residence for a writer and an art",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/cd03/4f64/5201/8803/16a6/large_jpg/residencia-kuska-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes_18.jpg?1789578514",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "‘It's dignified to the Balloon Dog’: Jeff Koons on partnering with Hublot",
-      "url": "https://www.wallpaper.com/watches-jewellery/jeff-koons-hublot-watches",
-      "excerpt": "Jeff Koons has collaborated with Hublot on the colourful Hublot Classic Fusion Balloon Dog and the MP14 Origin watch",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gnLrzeVzvGBjphcmGTnyXK-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -298,7 +314,7 @@ window.LUMINO_DATA = {
       "title": "Gingko lounge chair by Anne-mette Bartholin and Morten Ernst for Cozmo",
       "url": "https://www.dezeen.com/2026/09/16/gingko-lounge-chair-anne-mette-bartholin-cozmo-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: economy of material and sculptural presence meet in this lounge chair, designed by Anne-mette Bartholin and Morten Ernst for furniture brand Cozmo. The Gingko lounge chair is the prod",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -308,7 +324,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185246/noor-house-marcos-lula",
       "excerpt": "Casa Noor was born from the desire to create a home that, above all, reflected a family's daily life. Rather than a formal residence, the project was envisioned as a gathering place—a space for sponta",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3818/large_jpg/_DSC9333-Editar.jpg?1789049640",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -318,7 +334,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184381/4015-house-and-studio-observation-studio",
       "excerpt": "The design of the 4015 House and Studio reflects the global shift to working remotely, renovating a mid-century house set in the hills above Portland. Designed for an executive creative director and h",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2b26/bed1/7f00/014d/274f/large_jpg/4015_10_ArchDaily.jpg?1788291946",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -327,7 +343,7 @@ window.LUMINO_DATA = {
       "title": "Stone walls form \"strong yet subtle\" cottage extension in Scotland",
       "url": "https://www.dezeen.com/2026/09/16/cairngorm-cottage-architecture-office/",
       "excerpt": "Scottish ash joinery and clay plaster add warmth to the granite walls of this low-lying extension to Cairngorm Cottage in Scotland, designed by local studio Architecture Office. The extension was buil",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -336,7 +352,7 @@ window.LUMINO_DATA = {
       "title": "Colour-sensing toaster makes burnt toast a thing of the past",
       "url": "https://www.dezeen.com/2026/09/16/eye-q-toaster-colour-sensor-sage-appliances/",
       "excerpt": "Kitchen brand Sage Appliances has launched a toaster that uses sensors to measure colour change to determine when toast is cooked. Described by the brand as \"a breakthrough in toasting innovation\", th",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -345,27 +361,7 @@ window.LUMINO_DATA = {
       "title": "Yinka Ilori trash bins \"find the magic in the everyday\"",
       "url": "https://www.dezeen.com/2026/09/16/yinka-illori-bins-ironing-board-brabantia/",
       "excerpt": "British-Nigerian designer Yinka Ilori has designed a collection of bins, ironing board covers and kitchenware for home product brand Brabantia. Named simply the Home Collection, the range was design b",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Dance, Music and Theatre Conservatoire in Massy / Dominique Coulon & associés",
-      "url": "https://www.archdaily.com/1185080/dance-music-and-theatre-conservatoire-in-massy-dominique-coulon-and-associes",
-      "excerpt": "The conservatoire lies on a road linking Massy opera house to a park. The tall apartment buildings that surround it seem to step back to give the conservatoire space. Indeed, only once you have walked",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/41a5/069c/1b01/89fb/7644/large_jpg/dance-music-and-theatre-conservatoire-in-massy-dominique-coulon-and-associes_2.jpg?1789411809",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Design Week Mexico 2026",
-      "url": "https://www.archdaily.com/1185230/design-week-mexico-2026",
-      "excerpt": "From October 5–11, 2026, Mexico City will once again become a global hub for innovation and creative excellence with the opening of Design Week Mexico 2026 (#DWM26). This edition embraces a significan",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/9b00/1057/6a00/017e/a617/large_jpg/dwm26-std-blk-banner.jpg?1789565723",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -375,7 +371,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/preview/detail/184",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/products/assets/media/case/184/002.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "遠藤照明",
