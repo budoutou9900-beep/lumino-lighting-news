@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.17  07:02",
+  "fetchedAt": "2026.09.17  12:58",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,15 +9,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "khb東日本放送": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,57 +25,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "sortiraparis.com": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ウォーカープラス": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ウォーカープラス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "東京建物株式会社": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -100,42 +108,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "khb東日本放送",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン",
+      "url": "https://www.khb-tv.co.jp/news/16428051",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://p.potaufeu.asahi.com/4db5-p/picture/30627752/c5d15ff8a566d28b1e1f61af6854d4ca.jpg",
       "today": true
     },
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=252388",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/251af2147296f82f2cc8db57cc1e8f5a.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "夜景FAN",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.17",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
       "today": true
     },
     {
@@ -149,13 +148,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "sortiraparis.com",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://www.sortiraparis.com/ja/nyusu/kurisumasu-to-shin-nen/articles/336487-irumineshon-kurisumasu-dioru-30montenyu-pari-ri-cheng-tema",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://cdn.sortiraparis.com/images/80/83043/1220761-les-illuminations-de-noel-2025-de-la-maison-dior-au-30-montaigne-des-ce-week-end-a-paris-le-theme.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.17",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -169,13 +177,138 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "東京建物株式会社",
       "cat": "展示・アート",
       "date": "2026.09.17",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=256739",
+      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
+      "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/DSC_2564.jpg",
+      "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Jonathan Anderson and Wedgwood collaborate on a series of Greek-inspired mugs",
+      "url": "https://www.wallpaper.com/entertaining/jw-anderson-wedgwood-mug-collaboration",
+      "excerpt": "The collaboration bridges the gap between antiquity and modernity",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/X98yRtci2riL8sifXKSyXd-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "from the picturesque to the smartphone: architecture’s obsession with being seen",
+      "url": "https://www.designboom.com/architecture/picturesque-smartphone-obsession-being-seen-photography/",
+      "excerpt": "architecture spent centuries learning how to become an image before the spectator eventually picked up the camera.\nThe post from the picturesque to the smartphone: architecture’s obsession with being ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-photography-picturesque-smartphones-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Lechner & Lechner Architects adds charred timber-clad annexe to home in Austrian Alps",
+      "url": "https://www.dezeen.com/2026/09/17/lechner-lechner-architects-quiet-retreat/",
+      "excerpt": "Austrian studio Lechner & Lechner Architects has added an annexe clad in charred timber to a house in the Alps, designed as a minimalist space to \"withdraw and think\". Named Quiet Retreat, the pared-b",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "mushlume co-creates with living organisms to grow design objects at MADE: bush terminal",
+      "url": "https://www.designboom.com/design/mushlume-living-fungi-lighting-made-bush-terminal/",
+      "excerpt": "mushlume transforms hemp byproducts and living mushroom roots into class A fire-rated, sound-absorbing lighting fixtures.\nThe post mushlume co-creates with living organisms to grow design objects at M",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mushlume_designboom_facebook-02.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Studio Iron exhibition is all about chainmail, cowhide and tattooed leather",
+      "url": "https://www.dezeen.com/2026/09/17/studio-iron-exhibition-london-design-festival/",
+      "excerpt": "Artist Isamaya Ffrench has opened her second-ever Studio Iron show as part of this year's London Design Festival, with participants including Andu Masebo and Barnaby Lewis. Studio Iron is the brainchi",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "jeff koons inflates hublot’s classic fusion model into balloon dog watch",
+      "url": "https://www.designboom.com/design/jeff-koons-hublot-classic-fusion-balloon-dog-watch/",
+      "excerpt": "jeff Koons’ balloon dog moves from monumental sculpture to a 42 mm object for the wrist.\nThe post jeff koons inflates hublot’s classic fusion model into balloon dog watch appeared first on designboom ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/jeff-koons-hublot-classic-fusion-balloon-dog-watch-designboom-400-013.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "The ever-evolving relationship of music and architecture chronicled in new monograph",
+      "url": "https://www.wallpaper.com/architecture/music-and-architecture-in-harmony-book",
+      "excerpt": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jU2y3ipMpXYM3AutdM2YA6-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Nina lounge chair by Patricia Urquiola for Andreu World",
+      "url": "https://www.dezeen.com/2026/09/17/nina-lounge-chair-patricia-urquiola-andreu-world-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: 1970s-style curves meet creative textural contrast in the Nina lounge chair, designed by Patricia Urquiola for furniture brand Andreu World. The Nina lounge chair has a bulbous, organ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "CCA tashkent opens inside transformed 1912 tram depot by studio KO",
+      "url": "https://www.designboom.com/architecture/cca-tashkent-1912-tram-depot-studio-ko/",
+      "excerpt": "studio KO adapts a former tram depot in tashkent into a cultural institution combining contemporary art, research, public programming, and artist residencies.\nThe post CCA tashkent opens inside transf",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/cca-tashkent-1912-tram-depot-studio-ko-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Lovers of the classic Fiat 500 have a fresh opportunity to acquire a bespoke new version",
+      "url": "https://www.wallpaper.com/transportation/lovers-of-the-classic-fiat-500-have-a-fresh-opportunity-to-acquire-a-bespoke-new-version",
+      "excerpt": "The 500 Scattante by La Cinquecento transforms Fiat’s 500 classic into a spirited modern city car, using subtle upgrades and enhancements to give the icon a new lease of life",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9g4hHbJUtD5kHUkuuak7id-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Denmark grows by 300,000 square metres in land reclamation project",
+      "url": "https://www.dezeen.com/2026/09/17/denmark-land-reclamation-fehmarnbelt-tunnel/",
+      "excerpt": "A land reclamation project has added the equivalent of 42 football pitches to Denmark's southern coast, as part of the construction of the Fehmarnbelt Tunnel under the Baltic Sea. Fehmarnbelt Tunnel i",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "‘It’s a paradigm of the design school for the 21st century’: Joseph Grima takes the helm at the Aral School",
+      "url": "https://www.wallpaper.com/design-interiors/aral-school-appoints-joseph-grima-interview",
+      "excerpt": "The architect, curator and critic will direct the experimental Uzbekistan school’s 2027 programme, exploring how place-specific design education might produce tangible change",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GSk8xzmjHkxo9Y8JyoXNfm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "How a Facebook post led to the resurrection of a space-age architectural icon",
+      "url": "https://www.dezeen.com/2026/09/17/futuro-house-matti-suuronen-marimekko-helsinki-design-week/",
+      "excerpt": "A Matti Suuronen Futuro House has been manufactured for the first time in decades and decked out by Finnish design brand Marimekko for Helsinki Design Week. The famously flying-saucer-like structure r",
       "today": true
     },
     {
@@ -189,13 +322,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.17",
-      "title": "diagonal forms and illuminated curves outline 2050 coffee shop along osaka’s midosuji axis",
-      "url": "https://www.designboom.com/architecture/diagonal-forms-illuminated-curves-2050-coffee-shop-osaka-midosuji-axis-teki-design/",
-      "excerpt": "the café introduces a contrasting geometry to the linear boulevard.\nThe post diagonal forms and illuminated curves outline 2050 coffee shop along osaka’s midosuji axis appeared first on designboom | a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/osaka-midosuji-2050-coffee-teki-design-angled-forms-illuminated-curves-designboom-1200-1.jpg",
+      "title": "Corner Villa / Super Void Space",
+      "url": "https://www.archdaily.com/1185158/corner-villa-super-void-space",
+      "excerpt": "Set amidst the lush nature of northern Iran, this villa began with the search for the simplest possible form — a modest sloped volume that gradually evolved through its dialogue with climate, topograp",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/5a0e/a74d/1200/0125/ee65/large_jpg/02.jpg?1789483572",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Hagidong House 2 / Hyunjoon Yoo + Partners",
+      "url": "https://www.archdaily.com/1185161/hagidong-house-2-hyunjoon-yoo-plus-partners",
+      "excerpt": "Hagidong House 2 sits firmly on the land of a gradual slope in Hagi-dong, Daejeon City. The main design concept of the house was to provide privacy for a family of four and was developed from the idea",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/6db2/069c/1b01/89fb/7b19/large_jpg/hagidong-house-2-hyunjoon-yoo-plus-partners_1.jpg?1789488583",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Micro-regeneration on Ouyang Road / Scenic Architecture Office",
+      "url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
+      "excerpt": "This district-wide renewal was coordinated comprehensively by the Ouyang Road Sub-district Office. Shanghai Municipal Engineering Design Institute (Group) Co., Ltd. (SMEDI) led the overall territorial",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/large_jpg/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
       "today": true
     },
     {
@@ -206,36 +359,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/riba-international-prize-2026-shortlist",
       "excerpt": "The shortlist for the RIBA International Prize 2026 has been announced, revealing four projects that will compete for top spot, as this awards cycle celebrates the entire initiative's tenth anniversar",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/y2SuWi9ZCHuK2Xp5WHoLqe-2482-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "aston martin and brough superior turn their track superbike into a road machine",
-      "url": "https://www.designboom.com/technology/aston-martin-brough-superior-superbike-amb-002-roadster/",
-      "excerpt": "limited to 300 examples, the 190-kg roadster translates details from vanquish, valkyrie and valhalla into a machine built for public roads.\nThe post aston martin and brough superior turn their track s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aston-martin-brough-superior-superbike-AMB-002-Roadster-designboom-113.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "film stills leave the screen and become elaborate makeup compositions",
-      "url": "https://www.designboom.com/art/film-stills-screen-elaborate-makeup-compositions-emerald-vysions/",
-      "excerpt": "emerald vysions takes visual cues from films across different eras and genres, translating their distinctive palettes and moods into eye looks.\nThe post film stills leave the screen and become elabora",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/emerald-vysions-pulls-cinematic-imagery-apart-and-rebuilds-it-through-makeup-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "ZHA rethinks benghazi’s urban growth through a digital planning hub",
-      "url": "https://www.designboom.com/architecture/zha-benghazi-libya-urban-growth-digital-planning-hub/",
-      "excerpt": "the citywide strategy is designed to evolve alongside benghazi, replacing a fixed masterplan with an adaptable framework for growth.\nThe post ZHA rethinks benghazi’s urban growth through a digital pla",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zha-benghazi-libya-urban-growth-digital-planning-hub-designboom-5.jpg",
       "today": false
     },
     {
@@ -256,121 +379,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185249/house-on-alto-teles-pires-ser-arquitetos",
       "excerpt": "Located in Sorriso, in the north of Mato Grosso, Brazil, the house is situated in the Alto Teles Pires region, a territory marked by the vast plains of the Cerrado and its proximity to the Amazon tran",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/43c8/a74d/1200/0125/e3f0/large_jpg/_08A4889-Edit_copyright_manuel_sa_b.jpg?1789412313",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "These were the best shows of New York Fashion Week S/S 2027",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-new-york-fashion-week-ss-2027-review-roundup",
-      "excerpt": "This season’s edition of New York Fashion Week reflected the city’s buoyant mood, from its blockbuster names – among them Calvin Klein, Tory Burch and Coach – to an intriguing cohort of young talents",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/au77U27ao7Lywc2696iBbn-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Own a classic Frank Lloyd Wright house as the Samuel Eppstein residence comes to market",
-      "url": "https://www.wallpaper.com/architecture/residential/frank-lloyd-wright-house-samuel-eppstein-residence-for-sale",
-      "excerpt": "The Samuel Eppstein residence in Kalamazoo combines architectural history with a spectacular site and equally significant neighbours from Wright’s Usonian house era",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3vtEUNwN4Lcazi4XE4n3iG-768-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Arquitectonica designs world's largest cruise terminal to \"mirror directionality\" of ships",
-      "url": "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/",
-      "excerpt": "Local architecture studio Arquitectonica has shaped the MSC Cruise Terminal, the world's largest cruise terminal by size, in Miami to accommodate three ships at once. Arquitectonica designed a slim, e",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "The Hayward Gallery announces a major Cao Fei exhibition. Take a first look here",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/cao-fei-hayward-gallery-show-announced",
-      "excerpt": "In 2027, the London gallery will host the Chinese artist’s largest UK exhibition to date",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VjYf5RrEmT4w4Gpa8q5VhB-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Who claimed a place in The World’s 50 Best Hotels 2026?",
-      "url": "https://www.wallpaper.com/travel/hotels/the-worlds-50-best-hotels-2026-list",
-      "excerpt": "Rosewood Hong Kong retains the top spot as Europe leads the global list, with ten new entries and a fresh round of special awards",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EtntboMibgSQH3PbpZxfXN-1540-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "KUSKA Residence / Taller MACAA (Misión de Arquitectura, Construcción y Arte en los Andes)",
-      "url": "https://www.archdaily.com/1185261/kuska-residence-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes",
-      "excerpt": "With the goal of migrating to an environment completely opposite to the city, Kuska was born—a Quechua word meaning \"together.\" The space was conceived as the primary residence for a writer and an art",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/cd03/4f64/5201/8803/16a6/large_jpg/residencia-kuska-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes_18.jpg?1789578514",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Gingko lounge chair by Anne-mette Bartholin and Morten Ernst for Cozmo",
-      "url": "https://www.dezeen.com/2026/09/16/gingko-lounge-chair-anne-mette-bartholin-cozmo-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: economy of material and sculptural presence meet in this lounge chair, designed by Anne-mette Bartholin and Morten Ernst for furniture brand Cozmo. The Gingko lounge chair is the prod",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Noor House / Marcos Lula",
-      "url": "https://www.archdaily.com/1185246/noor-house-marcos-lula",
-      "excerpt": "Casa Noor was born from the desire to create a home that, above all, reflected a family's daily life. Rather than a formal residence, the project was envisioned as a gathering place—a space for sponta",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3818/large_jpg/_DSC9333-Editar.jpg?1789049640",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "4015 House & Studio / Observation Studio",
-      "url": "https://www.archdaily.com/1184381/4015-house-and-studio-observation-studio",
-      "excerpt": "The design of the 4015 House and Studio reflects the global shift to working remotely, renovating a mid-century house set in the hills above Portland. Designed for an executive creative director and h",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a97/2b26/bed1/7f00/014d/274f/large_jpg/4015_10_ArchDaily.jpg?1788291946",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Stone walls form \"strong yet subtle\" cottage extension in Scotland",
-      "url": "https://www.dezeen.com/2026/09/16/cairngorm-cottage-architecture-office/",
-      "excerpt": "Scottish ash joinery and clay plaster add warmth to the granite walls of this low-lying extension to Cairngorm Cottage in Scotland, designed by local studio Architecture Office. The extension was buil",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Colour-sensing toaster makes burnt toast a thing of the past",
-      "url": "https://www.dezeen.com/2026/09/16/eye-q-toaster-colour-sensor-sage-appliances/",
-      "excerpt": "Kitchen brand Sage Appliances has launched a toaster that uses sensors to measure colour change to determine when toast is cooked. Described by the brand as \"a breakthrough in toasting innovation\", th",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "Yinka Ilori trash bins \"find the magic in the everyday\"",
-      "url": "https://www.dezeen.com/2026/09/16/yinka-illori-bins-ironing-board-brabantia/",
-      "excerpt": "British-Nigerian designer Yinka Ilori has designed a collection of bins, ironing board covers and kitchenware for home product brand Brabantia. Named simply the Home Collection, the range was design b",
       "today": false
     },
     {
