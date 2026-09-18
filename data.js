@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.18  16:53",
+  "fetchedAt": "2026.09.18  19:23",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.18",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -140,7 +140,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.18",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
@@ -156,6 +156,25 @@ window.LUMINO_DATA = {
       "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
       "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Basura creates data centre toy that emits \"ear piercing hum\" when squeezed",
+      "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
+      "excerpt": "New York creative agency Basura and musician Big Data have collaborated on a stuffed toy that resembles a data centre and emits a recording from a data centre in Virginia when squeezed. The stuffed to",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Keely Hodgkinson's head-turning Nike speed suit functions as a futuristic 'second skin'",
+      "url": "https://www.wallpaper.com/tech/nike-keely-hodgkinson-speed-suit",
+      "excerpt": "The hooded ensemble, a first for Nike since 2000, is a careful calibration of style and science, nine months in the making. Here's how it was developed",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gLCKU93mtKBFwjd4DPQeo3-1920-80.jpg",
       "today": true
     },
     {
@@ -233,16 +252,7 @@ window.LUMINO_DATA = {
       "title": "Match House (Art Omi) Temporary Installation / Young Projects",
       "url": "https://www.archdaily.com/1185166/match-house-art-omi-2024-young-projects",
       "excerpt": "Young Projects has a unique reputation for studying conventional material use and application, in order to reimagine new ways of employing the material. By iterating across scales of prototype, furnit",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Philippe Starck is building his dream retreat in Portugal. Now, you can own some of it",
-      "url": "https://www.wallpaper.com/travel/hotels/first-look-philippe-starck-aserra-melides-portugal",
-      "excerpt": "Opening in Melides in 2028, A Serra will unite a 25-suite hotel, 22 serviced villas and a timber village within the Alentejo landscape",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Cq6G44hW9h9gBbUhS6WHpF-1600-80.jpg",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/e1c2/d8c8/8201/89ac/cec4/large_jpg/match-house-art-omi-temporary-installation-young-projects_20.jpg?1789649356",
       "today": true
     },
     {
@@ -271,15 +281,6 @@ window.LUMINO_DATA = {
       "title": "Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\"",
       "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
       "excerpt": "Chinese designer Bin Wu has unveiled the Pavilion of Time, which features timber screens topped by a circular mirror, in the courtyard of Domaine National du Palais-Royal for Paris Design Week. Wu des",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Slancha presents Hanging Baskets referencing David Bowie, brutalism and the Romans",
-      "url": "https://www.dezeen.com/2026/09/18/slancha-hanging-baskets-david-bowie-brutalism-the-romans/",
-      "excerpt": "From laser-cut steel to melted polystyrene waste, 10 designers have reinterpreted the humble hanging basket for a London Design Festival exhibition curated by design gallery Slancha. Dangling chains a",
       "today": true
     },
     {
