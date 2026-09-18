@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.18  19:23",
+  "fetchedAt": "2026.09.18  22:11",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,35 +13,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "夜景FAN": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "夜景FAN": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "東京建物株式会社": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "東京建物株式会社": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -110,16 +110,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
       "source": "夜景FAN",
       "cat": "展示・アート",
       "date": "2026.09.18",
@@ -159,12 +149,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://www.walkerplus.com/article/1329111/",
+      "excerpt": "",
+      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "jesus mari lazkano traces changing landscapes through painting and animated film",
+      "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/",
+      "excerpt": "through painting and film, jesus mari lazkano examines changing natural landscapes and the traces human activity leaves behind.\nThe post jesus mari lazkano traces changing landscapes through painting ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/basque-luxury-studio-spain-azken-natura-exhibition-jesus-mari-lazkano-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.18",
       "title": "Basura creates data centre toy that emits \"ear piercing hum\" when squeezed",
       "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
       "excerpt": "New York creative agency Basura and musician Big Data have collaborated on a stuffed toy that resembles a data centre and emits a recording from a data centre in Virginia when squeezed. The stuffed to",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "found associations reimagines future café as bio laboratory at paris design week",
+      "url": "https://www.designboom.com/design/found-associations-future-cafe-bio-laboratory-paris-design-week-kalve-coffee/",
+      "excerpt": "four latvian designers and artists partnered with kalve coffee to explore the café as a small-scale material ecosystem, experimenting with coffee grounds, milk, and dirty water.\nThe post found associa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/found-associations-paris-design-week-kalve-coffee-cafe-material-ecosystem-bio-laboratory-designboom-1200.jpg",
       "today": true
     },
     {
@@ -227,12 +247,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Aerocasa / Feliu Vega Kennedy Arquitectura",
+      "url": "https://www.archdaily.com/1185391/aerocasa-feliu-vega-kennedy-arquitectura",
+      "excerpt": "First and foremost, this project is a garden and, second of all, a house. It is an inhabitable garden for someone seeking to escape the hustle and bustle of the world, to be lived in the tender compan",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/572d/066f/0900/0145/7673/large_jpg/Copia-de-AEROCASA-FELIU-VEGA-JAG-2792-CMYK.jpg?1789744959",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.18",
       "title": "This tote bag-life jacket combination is an \"essential that shouldn't exist\"",
       "url": "https://www.dezeen.com/2026/09/18/lifeline-life-jacket-tote-bag-concept/",
       "excerpt": "A group of five New York artists has created Lifeline, a tote bag that can convert into a self-inflating life jacket as a conceptual design object meant to bring awareness to the threat of climate cha",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Mini Atalhada Building / SO Arquitetura & Design",
+      "url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
+      "excerpt": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m², located in Atalhada, in the city of Lagoa, on the south coast of São Miguel Island, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/large_jpg/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
       "today": true
     },
     {
@@ -304,16 +344,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "GUNIA and assouline assemble a visual history of ukrainian folk art in ‘naïve my love’",
-      "url": "https://www.designboom.com/art/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-interview/",
-      "excerpt": "naïve my love: ukrainian folk art of the 20th century brings together paintings, textiles, decorative objects, and other works gathered through years of research across ukraine.\nThe post GUNIA and ass",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -321,26 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185278/architectural-heterotopias-temporary-installations-as-alternative-worlds",
       "excerpt": "While complex, layered with meaning, and categorized into various forms, heterotopia, a concept developed by the philosopher Michel Foucault, can broadly be understood as the manifestation of alternat",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/532a/d8c8/8201/89ac/cd0c/large_jpg/architectural-heterotopias-temporary-installations-as-spaces-for-alternative-worlds_1.jpg?1789612852",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Paris USMT Bizot Sports Centre / THINK TANK architecture",
-      "url": "https://www.archdaily.com/1185185/paris-usmt-bizot-sports-centre-think-tank-architecture",
-      "excerpt": "Located at 37 avenue du Docteur Arnold Netter in Paris's 12th arrondissement, the project transforms a former RATP industrial building into US Métro Bizot, a new sports center bringing together activi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/d78c/8a93/3f01/88f2/2e6e/large_jpg/paris-usmt-bizot-sports-centre-think-tank-architecture_2.jpg?1789515672",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "How Architectural Fabrics Are Expanding the Role of the Building Envelope",
-      "url": "https://www.archdaily.com/1184942/how-architectural-fabrics-are-expanding-the-role-of-the-building-envelope",
-      "excerpt": "What can a textile do that glass, wood, concrete, or metal cannot? Architectural composite fabrics don't replace conventional building materials. Instead, they can complement them and often add anothe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/2f24/069c/1b01/89fb/75fb/large_jpg/how-architectural-fabrics-are-expanding-the-role-of-the-building-envelope_16.jpg?1789407067",
       "today": true
     },
     {
@@ -352,16 +362,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "opal-green bookcase reframes casa pop in madrid around color and cinematic references",
-      "url": "https://www.designboom.com/architecture/sequence-colored-rooms-continuous-bookcase-madrid-apartment-casa-pop-gon-architects/",
-      "excerpt": "five domestic areas are distinguished through different color treatments.\nThe post opal-green bookcase reframes casa pop in madrid around color and cinematic references appeared first on designboom | ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-pop-madrid-gon-architects-designboom-1200.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
