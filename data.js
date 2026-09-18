@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.18  12:36",
+  "fetchedAt": "2026.09.18  16:53",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "khb東日本放送": {
+    "chunichi.co.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,65 +21,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "東京建物株式会社": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ArchDaily": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "大光電機": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -94,43 +90,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "銀座経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.18",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
-      "today": true
-    },
-    {
-      "source": "khb東日本放送",
-      "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン",
-      "url": "https://www.khb-tv.co.jp/news/16428051",
-      "excerpt": "",
-      "thumbnailUrl": "https://p.potaufeu.asahi.com/4db5-p/picture/30627752/c5d15ff8a566d28b1e1f61af6854d4ca.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
       "today": true
     },
     {
@@ -144,22 +120,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.18",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
-      "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
@@ -173,13 +159,61 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.18",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "Our favourite new rugs from London Design Festival (and beyond)",
+      "url": "https://www.wallpaper.com/design-interiors/new-rugs-2026",
+      "excerpt": "Rugs are having a moment. Browse our favourite new designs to ground your room and elevate your space with colour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MWYGgEduzGVqPw9XTiu6oA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "The Horses is everything you want a British pub to be – and more",
+      "url": "https://www.wallpaper.com/travel/restaurants/the-horses-pub-public-house-group-london-review",
+      "excerpt": "The new Clerkenwell pub by Public House Group not only has classic boozer-style seating, but also is home to a cosy seafood restaurant upstairs",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pmvMWPSHyN3x52G3KeawAU-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "frida escobedo studio to take MALBA underground with newly unveiled expansion",
+      "url": "https://www.designboom.com/architecture/frida-escobedo-studio-malba-underground-expansion-museo-arte-latinoamericano-buenos-aires-expansion/",
+      "excerpt": "frida escobedo will expand MALBA beneath plaza perú, doubling the museum’s exhibition space while preserving the public square above.\nThe post frida escobedo studio to take MALBA underground with newl",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/MALBA-frida-escobedo-extension-announcement-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "The Stuff That Surrounds You: Rolf and Mette Hay invite Wallpaper* inside their personal design collection",
+      "url": "https://www.wallpaper.com/design-interiors/the-stuff-that-surrounds-you-rolf-and-mette-hay",
+      "excerpt": "The Hay founders talk us through the design objects and artworks that form the backdrop to their everyday lives – watch our film",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fj6W6A78tQafFnzS8cJrm-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Housing project for victims of domestic violence among projects from Cardiff University",
+      "url": "https://www.dezeen.com/2026/09/18/housing-project-for-victims-of-domestic-violence-cardiff-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a housing project for victims of domestic violence with courtyards, winter gardens and a nursery is among architecture projects by Cardiff University students. Also featured is a ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "This tote bag-life jacket combination is an \"essential that shouldn't exist\"",
+      "url": "https://www.dezeen.com/2026/09/18/lifeline-life-jacket-tote-bag-concept/",
+      "excerpt": "A group of five New York artists has created Lifeline, a tote bag that can convert into a self-inflating life jacket as a conceptual design object meant to bring awareness to the threat of climate cha",
       "today": true
     },
     {
@@ -193,6 +227,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Match House (Art Omi) Temporary Installation / Young Projects",
+      "url": "https://www.archdaily.com/1185166/match-house-art-omi-2024-young-projects",
+      "excerpt": "Young Projects has a unique reputation for studying conventional material use and application, in order to reimagine new ways of employing the material. By iterating across scales of prototype, furnit",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -200,16 +243,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/first-look-philippe-starck-aserra-melides-portugal",
       "excerpt": "Opening in Melides in 2028, A Serra will unite a 25-suite hotel, 22 serviced villas and a timber village within the Alentejo landscape",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Cq6G44hW9h9gBbUhS6WHpF-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "For sale, a Cornwall beach house on an unrivalled site above the golden Praa Sands",
-      "url": "https://www.wallpaper.com/architecture/residential/cornwall-beach-house-alex-michaelis-uk",
-      "excerpt": "Little Cottage could be yours, a bold modern Cornish beach house that offers space, light and sea views",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C6bxXgKjPghbW3XTBWnYnZ-2225-80.jpg",
       "today": true
     },
     {
@@ -229,16 +262,6 @@ window.LUMINO_DATA = {
       "title": "Cluster of cylindrical volumes forms Spanish home by Fran Silvestre Arquitectos",
       "url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
       "excerpt": "A sculptural cluster of cylindrical forms defines the \"calm, continuous\" House in Las Rozas, a home in Madrid completed by local studio Fran Silvestre Arquitectos. Overlooking the Sierra de Guadarrama",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "In Mumbai, artists are asking if embroidery can redraw the map",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/en-route-mumbai-chanakya-embroidery-exhibition",
-      "excerpt": "As textile house Chanakya International celebrates 40 years in Mumbai this autumn, we look at what happens when an atelier evolves into a cultural institution",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xgyLFVgjDhaianxWH8XoDb-2560-80.png",
       "today": true
     },
     {
@@ -270,12 +293,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.18",
-      "title": "Khoy sofa bed by Khoy",
-      "url": "https://www.dezeen.com/2026/09/18/khoy-sofa-bed-khoy-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Finnish company Khoy's flagship product transforms from a seat into a bed by simply unzipping it, without relying on conventional \"over-engineered\" mechanisms. Available in sizes rang",
+      "title": "Alpamyr House / sandro durrer",
+      "url": "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer",
+      "excerpt": "As the last building before the expansive raised bog, Alpamyr occupies a special position in the landscape. It is an intergenerational house for two parties, characterized by its low rise and sensitiv",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/266d/d8c8/8201/89ac/cc7f/large_jpg/alpamyr-house-sandro-durrer_5.jpg?1789601438",
       "today": true
     },
     {
@@ -286,15 +310,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-interview/",
       "excerpt": "naïve my love: ukrainian folk art of the 20th century brings together paintings, textiles, decorative objects, and other works gathered through years of research across ukraine.\nThe post GUNIA and ass",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Is London having a design renaissance?",
-      "url": "https://www.dezeen.com/2026/09/18/london-design-festival-2026-dezeen-weekly-podcast/",
-      "excerpt": "It's LDF week, and this year's edition is surprisingly strong. Could it be that London's creative scene is recovering after a difficult decade? Listen to the latest episode of Dezeen Weekly now. In th",
       "today": true
     },
     {
@@ -328,36 +343,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "RSHP and ERRE Selected to Design New Valencia Central Station in Spain",
-      "url": "https://www.archdaily.com/1185353/rshp-and-erre-selected-to-design-new-valencia-central-station-in-spain",
-      "excerpt": "The team led by engineering and technology group Sener, in collaboration with UK-based architecture practice RSHP and Valencia-based ERRE, has been selected to design the new Valencia Central Station ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/065e/8d91/7901/8920/558d/large_jpg/rshp-and-erre-selected-to-design-new-valencia-central-station_1.jpg?1789724275",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Cultural Center in Gisors / richter architectes et associés",
-      "url": "https://www.archdaily.com/1185273/cultural-center-in-gisors-richter-architectes-et-associes",
-      "excerpt": "The Gisor cultural center stands on a site that for many years remained at the margin of the town center. This made ground, serving as a car park, was an urban obstacle as much as a broken element of ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/3945/d8c8/8201/89ac/ccae/large_jpg/cultural-centre-in-gisors-richter-architectes-et-associes_7.jpg?1789606273",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Tour Auroville, an experimental architectural ecosystem that makes its own rules",
-      "url": "https://www.wallpaper.com/architecture/tour-auroville-architecture-india",
-      "excerpt": "Architect Nipun Prabhakar takes us inside Auroville, India’s experimental township, where architecture, sustainability and utopian ideals are still being tested",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8iBG2SBHaF9Qui7pwQaQHe-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.09.18",
@@ -371,20 +356,10 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.17",
-      "title": "a sequence of colored rooms and a continuous bookcase reshape a madrid apartment",
+      "title": "opal-green bookcase reframes casa pop in madrid around color and cinematic references",
       "url": "https://www.designboom.com/architecture/sequence-colored-rooms-continuous-bookcase-madrid-apartment-casa-pop-gon-architects/",
-      "excerpt": "five domestic areas are distinguished through different color treatments.\nThe post a sequence of colored rooms and a continuous bookcase reshape a madrid apartment appeared first on designboom | archi",
+      "excerpt": "five domestic areas are distinguished through different color treatments.\nThe post opal-green bookcase reframes casa pop in madrid around color and cinematic references appeared first on designboom | ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-pop-madrid-gon-architects-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "cantilevered roof extends over frank lloyd wright’s concrete usonian house",
-      "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
-      "excerpt": "cherokee red floors and hand-cast concrete blocks remain throughout the restored residence by frank lloyd wright.\nThe post cantilevered roof extends over frank lloyd wright’s concrete usonian house ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/frank-lloyd-wright-11090-hawthorne-galesburg-michigan-designboom-01.jpg",
       "today": false
     },
     {
