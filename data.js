@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.17  23:19",
+  "fetchedAt": "2026.09.18  02:45",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,88 +9,80 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "アメーバブログ": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "khb東日本放送": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "夜景FAN": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ファッションプレス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "オズモール": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "ウォーカープラス": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "東京建物株式会社": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ArchDaily": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "pronews.com",
       "cat": "国内情報",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
       "url": "https://jp.pronews.com/special/202108301000219018.html",
       "excerpt": "",
@@ -100,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -108,20 +100,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.17",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
-      "today": true
-    },
-    {
-      "source": "khb東日本放送",
-      "cat": "展示・アート",
-      "date": "2026.09.17",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン",
+      "date": "2026.09.18",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン - khb-tv.co.jp",
       "url": "https://www.khb-tv.co.jp/news/16428051",
       "excerpt": "",
       "thumbnailUrl": "https://p.potaufeu.asahi.com/4db5-p/picture/30627752/c5d15ff8a566d28b1e1f61af6854d4ca.jpg",
@@ -130,7 +112,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
@@ -140,7 +122,7 @@ window.LUMINO_DATA = {
     {
       "source": "夜景FAN",
       "cat": "展示・アート",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
@@ -150,7 +132,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
@@ -160,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -169,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
@@ -179,11 +161,21 @@ window.LUMINO_DATA = {
     {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
-      "date": "2026.09.17",
+      "date": "2026.09.18",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
       "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
       "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -194,7 +186,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/sequence-colored-rooms-continuous-bookcase-madrid-apartment-casa-pop-gon-architects/",
       "excerpt": "five domestic areas are distinguished through different color treatments.\nThe post a sequence of colored rooms and a continuous bookcase reshape a madrid apartment appeared first on designboom | archi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/casa-pop-madrid-gon-architects-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -203,7 +195,7 @@ window.LUMINO_DATA = {
       "title": "Fisher & Paykel crafts Contemporary kitchen appliances for tactile luxury",
       "url": "https://www.dezeen.com/2026/09/17/fisher-paykel-contemporary-kitchen-appliances/",
       "excerpt": "Promotion: subtly reflective silver-grey glass and tactile physical controls characterise Fisher & Paykel's Contemporary Style kitchen appliances, designed with versatility for the social heart of the",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -212,7 +204,7 @@ window.LUMINO_DATA = {
       "title": "RHAD Architects gives Nova Scotia house \"quiet, monolithic presence\"",
       "url": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
       "excerpt": "Canadian studio RHAD Architects has completed Two Bay House in Nova Scotia, Canada, which consists of blocky volumes with carved-out voids, mass-timber framing and blackened wood cladding. The waterfr",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -222,7 +214,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
       "excerpt": "cherokee red floors and hand-cast concrete blocks remain throughout the restored residence by frank lloyd wright.\nThe post cantilevered roof extends over frank lloyd wright’s concrete usonian house ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/frank-lloyd-wright-11090-hawthorne-galesburg-michigan-designboom-01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -232,7 +224,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/london-fashion-week-ss-2027-schedule-what-to-expect",
       "excerpt": "From the return of McQueen to Christopher Kane’s Mulberry debut, Wallpaper* picks the moments to look out for at the latest edition of London Fashion Week, which begins today (17 September 2026)",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKzjEfSxKVmFewmxgmdXCW-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -242,7 +234,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/studiomateriality-lucha-libre-green-lit-stainless-steel-bar-athens-ochotac/",
       "excerpt": "ochotac is a mexican-inspired bar where architecture, graphic identity and food culture come together through a bold material and visual language.\nThe post studiomateriality translates lucha libre int",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studiomateriality-ochotac-athens-mexican-bar-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -251,7 +243,7 @@ window.LUMINO_DATA = {
       "title": "HKS unveils interior of Commanders stadium with window framing Capitol",
       "url": "https://www.dezeen.com/2026/09/17/hks-interior-renderings-commanders-stadium-dc-nfl/",
       "excerpt": "Architecture studio HKS has unveiled interior designs for the upcoming Washington Commanders NFL stadium in Washington DC, showing what its glass ceiling will look like. The renderings showcase a stee",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -261,7 +253,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fragrance/12-things-fragrance-brand",
       "excerpt": "With fragrances inspired by decay, unaesthetic packaging, and a text-to-order retail system, 12_things might be the most disruptive beauty brand to emerge in years",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GhLdE3v9Bis3oLZn2bfviN-1195-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -271,7 +263,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/glenn-spiro-london-jewellery-showroom",
       "excerpt": "Father and son duo Glenn and Joe Spiro worked with Venezuelan designer Valerie Name Bolaño on curating their elegant and eclectic jewellery boutique in Mayfair",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vVkqhPB2jpdBc7JDZZSh29.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -281,7 +273,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/jw-anderson-wedgwood-mug-collaboration",
       "excerpt": "The collaboration bridges the gap between antiquity and modernity",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/X98yRtci2riL8sifXKSyXd-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -291,7 +283,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/picturesque-smartphone-obsession-being-seen-photography/",
       "excerpt": "architecture spent centuries learning how to become an image before the spectator eventually picked up the camera.\nThe post from the picturesque to the smartphone: architecture’s obsession with being ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-photography-picturesque-smartphones-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -300,7 +292,7 @@ window.LUMINO_DATA = {
       "title": "Lechner & Lechner Architects adds charred timber-clad annexe to home in Austrian Alps",
       "url": "https://www.dezeen.com/2026/09/17/lechner-lechner-architects-quiet-retreat/",
       "excerpt": "Austrian studio Lechner & Lechner Architects has added an annexe clad in charred timber to a house in the Alps, designed as a minimalist space to \"withdraw and think\". Named Quiet Retreat, the pared-b",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -310,7 +302,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/mushlume-living-fungi-lighting-made-bush-terminal/",
       "excerpt": "mushlume transforms hemp byproducts and living mushroom roots into class A fire-rated, sound-absorbing lighting fixtures.\nThe post mushlume co-creates with living organisms to grow design objects at M",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mushlume_designboom_facebook-02.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -319,7 +311,7 @@ window.LUMINO_DATA = {
       "title": "Studio Iron exhibition is all about chainmail, cowhide and tattooed leather",
       "url": "https://www.dezeen.com/2026/09/17/studio-iron-exhibition-london-design-festival/",
       "excerpt": "Artist Isamaya Ffrench has opened her second-ever Studio Iron show as part of this year's London Design Festival, with participants including Andu Masebo and Barnaby Lewis. Studio Iron is the brainchi",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -329,7 +321,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/music-and-architecture-in-harmony-book",
       "excerpt": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jU2y3ipMpXYM3AutdM2YA6-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -339,7 +331,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185158/corner-villa-super-void-space",
       "excerpt": "Set amidst the lush nature of northern Iran, this villa began with the search for the simplest possible form — a modest sloped volume that gradually evolved through its dialogue with climate, topograp",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/5a0e/a74d/1200/0125/ee65/large_jpg/02.jpg?1789483572",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -349,7 +341,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185161/hagidong-house-2-hyunjoon-yoo-plus-partners",
       "excerpt": "Hagidong House 2 sits firmly on the land of a gradual slope in Hagi-dong, Daejeon City. The main design concept of the house was to provide privacy for a family of four and was developed from the idea",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/6db2/069c/1b01/89fb/7b19/large_jpg/hagidong-house-2-hyunjoon-yoo-plus-partners_1.jpg?1789488583",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -359,7 +351,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
       "excerpt": "This district-wide renewal was coordinated comprehensively by the Ouyang Road Sub-district Office. Shanghai Municipal Engineering Design Institute (Group) Co., Ltd. (SMEDI) led the overall territorial",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/large_jpg/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
