@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.18  02:45",
+  "fetchedAt": "2026.09.18  07:53",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "夜景FAN": {
+    "アメーバブログ": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "東京建物株式会社": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ウォーカープラス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "東京建物株式会社": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,37 +45,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -97,6 +105,25 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.18",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
       "today": true
     },
     {
@@ -169,13 +196,81 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.18",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "Tour Auroville, an experimental architectural ecosystem that makes its own rules",
+      "url": "https://www.wallpaper.com/architecture/tour-auroville-architecture-india",
+      "excerpt": "Architect Nipun Prabhakar takes us inside Auroville, India’s experimental township, where architecture, sustainability and utopian ideals are still being tested",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8iBG2SBHaF9Qui7pwQaQHe-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Tom Pearson unveils riveted aluminium furniture with droplet-like patterns",
+      "url": "https://www.dezeen.com/2026/09/18/tom-pearson-riveting-aluminium-furniture/",
+      "excerpt": "Designer Tom Pearson has created industrial furniture pieces with rivets that are both structural and decorative for the 10,000 Rivets collection, on show during London Design Festival. The line, whic",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Grand Ji Hotel debuts at Paris Design Week",
+      "url": "https://www.dezeen.com/2026/09/18/grand-ji-hotel-debuts-at-paris-design-week/",
+      "excerpt": "Promotion: H World has debuted its latest hotel brand, the Grand Ji Hotel, in Hangzhou, China, designed by Chinese studio Vermilion Zhou Design Group, which aims to reinvent hotel design through its d",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "On San Francisco's slopes, Precita House brings a hint of the desert to urban living",
+      "url": "https://www.wallpaper.com/architecture/residential/precita-house-ryan-leidner-san-francisco-usa",
+      "excerpt": "Precita House, a new San Francisco home by Ryan Leidner, combines cocooning and a desert building sensibility; we take the tour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9q79saWUzYLpjRm2XHoedR-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Đông Triều Retreat / NAQI & Partners",
+      "url": "https://www.archdaily.com/1185198/dong-trieu-retreat-naqi-and-partners",
+      "excerpt": "Dong Trieu Retreat is a collection of small structures nestled within the lush landscape of Quang Ninh, Vietnam. Originally conceived as a simple weekend retreat for a family from Ha Long, it graduall",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/7262/8a93/3f01/88f2/30b8/large_jpg/dong-trieu-retreat-naqi-and-partners_25.jpg?1789555306",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.09.18",
+      "title": "納入事例にオフィス・ショールーム物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Shenzhen Futian Lvzhou Primary School / CCDI Dongxiying Studio",
+      "url": "https://www.archdaily.com/1038149/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio",
+      "excerpt": "Campus in a Village-Town — Xinzhou, located on the south side of Futian Central Area in Shenzhen, is an important residential and living district. Over the years, it has developed a unique blend of co",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/large_jpg/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Chengdu Jobs | Jiakun Architects Recruitment",
+      "url": "https://www.archdaily.com/1185280/chengdu-jobs-jiakun-architects-recruitment",
+      "excerpt": "About Jiakun Architects",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/08cc/069c/1b01/89fb/78e2/large_jpg/cheng-du-gong-zuo-jia-kun-jian-zhu-she-ji-shi-wu-suo-zhao-pin_15.jpg?1789462799",
       "today": true
     },
     {
@@ -198,12 +293,32 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Casa Honor Vacui / Equipo de Arquitectura",
+      "url": "https://www.archdaily.com/1185325/honor-vacui-equipo-de-arquitectura",
+      "excerpt": "Space is an architectural, and therefore physical, dimension that constitutes the essence of our profession and, at the same time, an abstract configuration of matter. Natural light gives that matter ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/58d0/d8c8/8201/89ac/d225/large_jpg/honor-vacui-equipo-de-arquitectura_4.jpg?1789680027",
+      "today": false
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.17",
       "title": "RHAD Architects gives Nova Scotia house \"quiet, monolithic presence\"",
       "url": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
       "excerpt": "Canadian studio RHAD Architects has completed Two Bay House in Nova Scotia, Canada, which consists of blocky volumes with carved-out voids, mass-timber framing and blackened wood cladding. The waterfr",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "Crismina Fort Refurbishment  / barbiniarquitectos",
+      "url": "https://www.archdaily.com/1033348/crismina-fort-refurbishment-barbiniarquitectos",
+      "excerpt": "The Crismina fort is one of the three XVIII century forts of the old defense line of the coast of Cascais, following the conflict between Portugal and Spain. This fortified structure is mainly an empt",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68ac/9596/8e7d/976b/c6e6/fa07/large_jpg/crismina-fort-refurbishment-barbiniarquitectos_21.jpg?1756140960",
       "today": false
     },
     {
@@ -217,6 +332,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "jeff koons inflates hublot’s classic fusion model into balloon dog watch",
+      "url": "https://www.designboom.com/design/jeff-koons-hublot-classic-fusion-balloon-dog-watch/",
+      "excerpt": "jeff Koons’ balloon dog moves from monumental sculpture to a 42 mm object for the wrist.\nThe post jeff koons inflates hublot’s classic fusion model into balloon dog watch appeared first on designboom ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/jeff-koons-hublot-classic-fusion-balloon-dog-watch-designboom-400-013.jpg",
+      "today": false
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.17",
@@ -224,6 +349,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/london-fashion-week-ss-2027-schedule-what-to-expect",
       "excerpt": "From the return of McQueen to Christopher Kane’s Mulberry debut, Wallpaper* picks the moments to look out for at the latest edition of London Fashion Week, which begins today (17 September 2026)",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKzjEfSxKVmFewmxgmdXCW-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.17",
+      "title": "CCA tashkent opens inside transformed 1912 tram depot by studio KO",
+      "url": "https://www.designboom.com/architecture/cca-tashkent-1912-tram-depot-studio-ko/",
+      "excerpt": "studio KO adapts a former tram depot in tashkent into a cultural institution combining contemporary art, research, public programming, and artist residencies.\nThe post CCA tashkent opens inside transf",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/cca-tashkent-1912-tram-depot-studio-ko-designboom-1200.jpg",
       "today": false
     },
     {
@@ -263,114 +398,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/glenn-spiro-london-jewellery-showroom",
       "excerpt": "Father and son duo Glenn and Joe Spiro worked with Venezuelan designer Valerie Name Bolaño on curating their elegant and eclectic jewellery boutique in Mayfair",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vVkqhPB2jpdBc7JDZZSh29.gif",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Jonathan Anderson and Wedgwood collaborate on a series of Greek-inspired mugs",
-      "url": "https://www.wallpaper.com/entertaining/jw-anderson-wedgwood-mug-collaboration",
-      "excerpt": "The collaboration bridges the gap between antiquity and modernity",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/X98yRtci2riL8sifXKSyXd-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "from the picturesque to the smartphone: architecture’s obsession with being seen",
-      "url": "https://www.designboom.com/architecture/picturesque-smartphone-obsession-being-seen-photography/",
-      "excerpt": "architecture spent centuries learning how to become an image before the spectator eventually picked up the camera.\nThe post from the picturesque to the smartphone: architecture’s obsession with being ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/architecture-photography-picturesque-smartphones-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Lechner & Lechner Architects adds charred timber-clad annexe to home in Austrian Alps",
-      "url": "https://www.dezeen.com/2026/09/17/lechner-lechner-architects-quiet-retreat/",
-      "excerpt": "Austrian studio Lechner & Lechner Architects has added an annexe clad in charred timber to a house in the Alps, designed as a minimalist space to \"withdraw and think\". Named Quiet Retreat, the pared-b",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "mushlume co-creates with living organisms to grow design objects at MADE: bush terminal",
-      "url": "https://www.designboom.com/design/mushlume-living-fungi-lighting-made-bush-terminal/",
-      "excerpt": "mushlume transforms hemp byproducts and living mushroom roots into class A fire-rated, sound-absorbing lighting fixtures.\nThe post mushlume co-creates with living organisms to grow design objects at M",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mushlume_designboom_facebook-02.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Studio Iron exhibition is all about chainmail, cowhide and tattooed leather",
-      "url": "https://www.dezeen.com/2026/09/17/studio-iron-exhibition-london-design-festival/",
-      "excerpt": "Artist Isamaya Ffrench has opened her second-ever Studio Iron show as part of this year's London Design Festival, with participants including Andu Masebo and Barnaby Lewis. Studio Iron is the brainchi",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "The ever-evolving relationship of music and architecture chronicled in new monograph",
-      "url": "https://www.wallpaper.com/architecture/music-and-architecture-in-harmony-book",
-      "excerpt": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jU2y3ipMpXYM3AutdM2YA6-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Corner Villa / Super Void Space",
-      "url": "https://www.archdaily.com/1185158/corner-villa-super-void-space",
-      "excerpt": "Set amidst the lush nature of northern Iran, this villa began with the search for the simplest possible form — a modest sloped volume that gradually evolved through its dialogue with climate, topograp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/5a0e/a74d/1200/0125/ee65/large_jpg/02.jpg?1789483572",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Hagidong House 2 / Hyunjoon Yoo + Partners",
-      "url": "https://www.archdaily.com/1185161/hagidong-house-2-hyunjoon-yoo-plus-partners",
-      "excerpt": "Hagidong House 2 sits firmly on the land of a gradual slope in Hagi-dong, Daejeon City. The main design concept of the house was to provide privacy for a family of four and was developed from the idea",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/6db2/069c/1b01/89fb/7b19/large_jpg/hagidong-house-2-hyunjoon-yoo-plus-partners_1.jpg?1789488583",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Micro-regeneration on Ouyang Road / Scenic Architecture Office",
-      "url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
-      "excerpt": "This district-wide renewal was coordinated comprehensively by the Ouyang Road Sub-district Office. Shanghai Municipal Engineering Design Institute (Group) Co., Ltd. (SMEDI) led the overall territorial",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/large_jpg/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "La Salle School / FP Arquitectura",
-      "url": "https://www.archdaily.com/1185264/la-salle-school-fp-arquitectura",
-      "excerpt": "The Colegio de La Salle proposes an expanded learning landscape: an architecture that does not merely contain learning but amplifies it, making void, landscape, and circulation the central instruments",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/a2ee/1057/6a00/017e/a654/large_jpg/04_SALLE-Alejandro_Arango.jpg?1789567770",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.16",
-      "title": "House on Alto Teles Pires / Ser Arquitetos",
-      "url": "https://www.archdaily.com/1185249/house-on-alto-teles-pires-ser-arquitetos",
-      "excerpt": "Located in Sorriso, in the north of Mato Grosso, Brazil, the house is situated in the Alto Teles Pires region, a territory marked by the vast plains of the Cerrado and its proximity to the Amazon tran",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/43c8/a74d/1200/0125/e3f0/large_jpg/_08A4889-Edit_copyright_manuel_sa_b.jpg?1789412313",
       "today": false
     },
     {
@@ -431,16 +458,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.09.14",
-      "title": "納入事例にホテル・旅館物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
