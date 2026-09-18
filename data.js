@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.18  07:53",
+  "fetchedAt": "2026.09.18  12:36",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ADF Web Magazine": {
+    "khb東日本放送": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "アメーバブログ": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "夜景FAN": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "東京建物株式会社": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "東京建物株式会社": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,33 +57,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -108,29 +104,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.09.18",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://www.adfwebmagazine.jp/design/light-artist-takahiro-matsuo-wins-at-lit-lighting-design-awards-2024-for-the-creation/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "アメーバブログ",
+      "source": "khb東日本放送",
       "cat": "展示・アート",
       "date": "2026.09.18",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン - khb-tv.co.jp",
+      "title": "イルミネーションイベント春あかり 宮城・やくらいガーデン",
       "url": "https://www.khb-tv.co.jp/news/16428051",
       "excerpt": "",
       "thumbnailUrl": "https://p.potaufeu.asahi.com/4db5-p/picture/30627752/c5d15ff8a566d28b1e1f61af6854d4ca.jpg",
@@ -196,6 +173,181 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.18",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Homme Plissé Issey Miyake reimagines Matisse’s ‘The Snail’ at London’s Tate Modern",
+      "url": "https://www.wallpaper.com/fashion-beauty/homme-plisse-issey-miyake-matisse-open-studio-tate-modern",
+      "excerpt": "The latest chapter of Homme Plissé Issey Miyake’s Open Studio saw the Japanese label draw on Matisse’s ‘The Snail’ for inspiration, with help from Studio Dennis Vanderbroeck and the Dresden Frankfurt ",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WLZeW95SNdfU5eoNSTNvqf-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Philippe Starck is building his dream retreat in Portugal. Now, you can own some of it",
+      "url": "https://www.wallpaper.com/travel/hotels/first-look-philippe-starck-aserra-melides-portugal",
+      "excerpt": "Opening in Melides in 2028, A Serra will unite a 25-suite hotel, 22 serviced villas and a timber village within the Alentejo landscape",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Cq6G44hW9h9gBbUhS6WHpF-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "For sale, a Cornwall beach house on an unrivalled site above the golden Praa Sands",
+      "url": "https://www.wallpaper.com/architecture/residential/cornwall-beach-house-alex-michaelis-uk",
+      "excerpt": "Little Cottage could be yours, a bold modern Cornish beach house that offers space, light and sea views",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/C6bxXgKjPghbW3XTBWnYnZ-2225-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "how the situationists turned spectators into participants",
+      "url": "https://www.designboom.com/architecture/situationists-spectators-participants/",
+      "excerpt": "from wandering through the city to imagining environments shaped by play, the movement asked what it might mean to take an active part in shaping everyday life.\nThe post how the situationists turned s",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/situationists-spectators-participants-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Cluster of cylindrical volumes forms Spanish home by Fran Silvestre Arquitectos",
+      "url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
+      "excerpt": "A sculptural cluster of cylindrical forms defines the \"calm, continuous\" House in Las Rozas, a home in Madrid completed by local studio Fran Silvestre Arquitectos. Overlooking the Sierra de Guadarrama",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "In Mumbai, artists are asking if embroidery can redraw the map",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/en-route-mumbai-chanakya-embroidery-exhibition",
+      "excerpt": "As textile house Chanakya International celebrates 40 years in Mumbai this autumn, we look at what happens when an atelier evolves into a cultural institution",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xgyLFVgjDhaianxWH8XoDb-2560-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\"",
+      "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
+      "excerpt": "Chinese designer Bin Wu has unveiled the Pavilion of Time, which features timber screens topped by a circular mirror, in the courtyard of Domaine National du Palais-Royal for Paris Design Week. Wu des",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Slancha presents Hanging Baskets referencing David Bowie, brutalism and the Romans",
+      "url": "https://www.dezeen.com/2026/09/18/slancha-hanging-baskets-david-bowie-brutalism-the-romans/",
+      "excerpt": "From laser-cut steel to melted polystyrene waste, 10 designers have reinterpreted the humble hanging basket for a London Design Festival exhibition curated by design gallery Slancha. Dangling chains a",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "‘minimalism feels cold when empty of narrative’: how aarke shapes its brand identity",
+      "url": "https://www.designboom.com/design/minimalism-aarke-brand-identity-interview/",
+      "excerpt": "aarke’s creative director shares how they elevate overlooked kitchen tools, bridging product design with refined lifestyle storytelling.\nThe post ‘minimalism feels cold when empty of narrative’: how a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aarke-designboom-fb.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Khoy sofa bed by Khoy",
+      "url": "https://www.dezeen.com/2026/09/18/khoy-sofa-bed-khoy-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Finnish company Khoy's flagship product transforms from a seat into a bed by simply unzipping it, without relying on conventional \"over-engineered\" mechanisms. Available in sizes rang",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "GUNIA and assouline assemble a visual history of ukrainian folk art in ‘naïve my love’",
+      "url": "https://www.designboom.com/art/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-interview/",
+      "excerpt": "naïve my love: ukrainian folk art of the 20th century brings together paintings, textiles, decorative objects, and other works gathered through years of research across ukraine.\nThe post GUNIA and ass",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Is London having a design renaissance?",
+      "url": "https://www.dezeen.com/2026/09/18/london-design-festival-2026-dezeen-weekly-podcast/",
+      "excerpt": "It's LDF week, and this year's edition is surprisingly strong. Could it be that London's creative scene is recovering after a difficult decade? Listen to the latest episode of Dezeen Weekly now. In th",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Architectural Heterotopias: Temporary Installations as Alternative Worlds",
+      "url": "https://www.archdaily.com/1185278/architectural-heterotopias-temporary-installations-as-alternative-worlds",
+      "excerpt": "While complex, layered with meaning, and categorized into various forms, heterotopia, a concept developed by the philosopher Michel Foucault, can broadly be understood as the manifestation of alternat",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/532a/d8c8/8201/89ac/cd0c/large_jpg/architectural-heterotopias-temporary-installations-as-spaces-for-alternative-worlds_1.jpg?1789612852",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Paris USMT Bizot Sports Centre / THINK TANK architecture",
+      "url": "https://www.archdaily.com/1185185/paris-usmt-bizot-sports-centre-think-tank-architecture",
+      "excerpt": "Located at 37 avenue du Docteur Arnold Netter in Paris's 12th arrondissement, the project transforms a former RATP industrial building into US Métro Bizot, a new sports center bringing together activi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/d78c/8a93/3f01/88f2/2e6e/large_jpg/paris-usmt-bizot-sports-centre-think-tank-architecture_2.jpg?1789515672",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "How Architectural Fabrics Are Expanding the Role of the Building Envelope",
+      "url": "https://www.archdaily.com/1184942/how-architectural-fabrics-are-expanding-the-role-of-the-building-envelope",
+      "excerpt": "What can a textile do that glass, wood, concrete, or metal cannot? Architectural composite fabrics don't replace conventional building materials. Instead, they can complement them and often add anothe",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/2f24/069c/1b01/89fb/75fb/large_jpg/how-architectural-fabrics-are-expanding-the-role-of-the-building-envelope_16.jpg?1789407067",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "RSHP and ERRE Selected to Design New Valencia Central Station in Spain",
+      "url": "https://www.archdaily.com/1185353/rshp-and-erre-selected-to-design-new-valencia-central-station-in-spain",
+      "excerpt": "The team led by engineering and technology group Sener, in collaboration with UK-based architecture practice RSHP and Valencia-based ERRE, has been selected to design the new Valencia Central Station ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/065e/8d91/7901/8920/558d/large_jpg/rshp-and-erre-selected-to-design-new-valencia-central-station_1.jpg?1789724275",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Cultural Center in Gisors / richter architectes et associés",
+      "url": "https://www.archdaily.com/1185273/cultural-center-in-gisors-richter-architectes-et-associes",
+      "excerpt": "The Gisor cultural center stands on a site that for many years remained at the margin of the town center. This made ground, serving as a car park, was an urban obstacle as much as a broken element of ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/3945/d8c8/8201/89ac/ccae/large_jpg/cultural-centre-in-gisors-richter-architectes-et-associes_7.jpg?1789606273",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -203,44 +355,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/tour-auroville-architecture-india",
       "excerpt": "Architect Nipun Prabhakar takes us inside Auroville, India’s experimental township, where architecture, sustainability and utopian ideals are still being tested",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8iBG2SBHaF9Qui7pwQaQHe-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Tom Pearson unveils riveted aluminium furniture with droplet-like patterns",
-      "url": "https://www.dezeen.com/2026/09/18/tom-pearson-riveting-aluminium-furniture/",
-      "excerpt": "Designer Tom Pearson has created industrial furniture pieces with rivets that are both structural and decorative for the 10,000 Rivets collection, on show during London Design Festival. The line, whic",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Grand Ji Hotel debuts at Paris Design Week",
-      "url": "https://www.dezeen.com/2026/09/18/grand-ji-hotel-debuts-at-paris-design-week/",
-      "excerpt": "Promotion: H World has debuted its latest hotel brand, the Grand Ji Hotel, in Hangzhou, China, designed by Chinese studio Vermilion Zhou Design Group, which aims to reinvent hotel design through its d",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "On San Francisco's slopes, Precita House brings a hint of the desert to urban living",
-      "url": "https://www.wallpaper.com/architecture/residential/precita-house-ryan-leidner-san-francisco-usa",
-      "excerpt": "Precita House, a new San Francisco home by Ryan Leidner, combines cocooning and a desert building sensibility; we take the tour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9q79saWUzYLpjRm2XHoedR-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Đông Triều Retreat / NAQI & Partners",
-      "url": "https://www.archdaily.com/1185198/dong-trieu-retreat-naqi-and-partners",
-      "excerpt": "Dong Trieu Retreat is a collection of small structures nestled within the lush landscape of Quang Ninh, Vietnam. Originally conceived as a simple weekend retreat for a family from Ha Long, it graduall",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/7262/8a93/3f01/88f2/30b8/large_jpg/dong-trieu-retreat-naqi-and-partners_25.jpg?1789555306",
       "today": true
     },
     {
@@ -254,26 +368,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Shenzhen Futian Lvzhou Primary School / CCDI Dongxiying Studio",
-      "url": "https://www.archdaily.com/1038149/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio",
-      "excerpt": "Campus in a Village-Town — Xinzhou, located on the south side of Futian Central Area in Shenzhen, is an important residential and living district. Over the years, it has developed a unique blend of co",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/large_jpg/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Chengdu Jobs | Jiakun Architects Recruitment",
-      "url": "https://www.archdaily.com/1185280/chengdu-jobs-jiakun-architects-recruitment",
-      "excerpt": "About Jiakun Architects",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/08cc/069c/1b01/89fb/78e2/large_jpg/cheng-du-gong-zuo-jia-kun-jian-zhu-she-ji-shi-wu-suo-zhao-pin_15.jpg?1789462799",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.17",
@@ -284,44 +378,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Fisher & Paykel crafts Contemporary kitchen appliances for tactile luxury",
-      "url": "https://www.dezeen.com/2026/09/17/fisher-paykel-contemporary-kitchen-appliances/",
-      "excerpt": "Promotion: subtly reflective silver-grey glass and tactile physical controls characterise Fisher & Paykel's Contemporary Style kitchen appliances, designed with versatility for the social heart of the",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Casa Honor Vacui / Equipo de Arquitectura",
-      "url": "https://www.archdaily.com/1185325/honor-vacui-equipo-de-arquitectura",
-      "excerpt": "Space is an architectural, and therefore physical, dimension that constitutes the essence of our profession and, at the same time, an abstract configuration of matter. Natural light gives that matter ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/58d0/d8c8/8201/89ac/d225/large_jpg/honor-vacui-equipo-de-arquitectura_4.jpg?1789680027",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "RHAD Architects gives Nova Scotia house \"quiet, monolithic presence\"",
-      "url": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
-      "excerpt": "Canadian studio RHAD Architects has completed Two Bay House in Nova Scotia, Canada, which consists of blocky volumes with carved-out voids, mass-timber framing and blackened wood cladding. The waterfr",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Crismina Fort Refurbishment  / barbiniarquitectos",
-      "url": "https://www.archdaily.com/1033348/crismina-fort-refurbishment-barbiniarquitectos",
-      "excerpt": "The Crismina fort is one of the three XVIII century forts of the old defense line of the coast of Cascais, following the conflict between Portugal and Spain. This fortified structure is mainly an empt",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68ac/9596/8e7d/976b/c6e6/fa07/large_jpg/crismina-fort-refurbishment-barbiniarquitectos_21.jpg?1756140960",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.17",
@@ -329,75 +385,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
       "excerpt": "cherokee red floors and hand-cast concrete blocks remain throughout the restored residence by frank lloyd wright.\nThe post cantilevered roof extends over frank lloyd wright’s concrete usonian house ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/frank-lloyd-wright-11090-hawthorne-galesburg-michigan-designboom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "jeff koons inflates hublot’s classic fusion model into balloon dog watch",
-      "url": "https://www.designboom.com/design/jeff-koons-hublot-classic-fusion-balloon-dog-watch/",
-      "excerpt": "jeff Koons’ balloon dog moves from monumental sculpture to a 42 mm object for the wrist.\nThe post jeff koons inflates hublot’s classic fusion model into balloon dog watch appeared first on designboom ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/jeff-koons-hublot-classic-fusion-balloon-dog-watch-designboom-400-013.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Everything you need to know about London Fashion Week",
-      "url": "https://www.wallpaper.com/fashion-beauty/london-fashion-week-ss-2027-schedule-what-to-expect",
-      "excerpt": "From the return of McQueen to Christopher Kane’s Mulberry debut, Wallpaper* picks the moments to look out for at the latest edition of London Fashion Week, which begins today (17 September 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gKzjEfSxKVmFewmxgmdXCW-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "CCA tashkent opens inside transformed 1912 tram depot by studio KO",
-      "url": "https://www.designboom.com/architecture/cca-tashkent-1912-tram-depot-studio-ko/",
-      "excerpt": "studio KO adapts a former tram depot in tashkent into a cultural institution combining contemporary art, research, public programming, and artist residencies.\nThe post CCA tashkent opens inside transf",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/cca-tashkent-1912-tram-depot-studio-ko-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "studiomateriality translates lucha libre into green-lit, stainless-steel bar in athens",
-      "url": "https://www.designboom.com/architecture/studiomateriality-lucha-libre-green-lit-stainless-steel-bar-athens-ochotac/",
-      "excerpt": "ochotac is a mexican-inspired bar where architecture, graphic identity and food culture come together through a bold material and visual language.\nThe post studiomateriality translates lucha libre int",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/studiomateriality-ochotac-athens-mexican-bar-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "HKS unveils interior of Commanders stadium with window framing Capitol",
-      "url": "https://www.dezeen.com/2026/09/17/hks-interior-renderings-commanders-stadium-dc-nfl/",
-      "excerpt": "Architecture studio HKS has unveiled interior designs for the upcoming Washington Commanders NFL stadium in Washington DC, showing what its glass ceiling will look like. The renderings showcase a stee",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "12_things is the new fragrance brand doing everything a brand isn’t supposed to do",
-      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/12-things-fragrance-brand",
-      "excerpt": "With fragrances inspired by decay, unaesthetic packaging, and a text-to-order retail system, 12_things might be the most disruptive beauty brand to emerge in years",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GhLdE3v9Bis3oLZn2bfviN-1195-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.17",
-      "title": "Step inside Glenn Spiro’s sumptuous new London jewellery showroom",
-      "url": "https://www.wallpaper.com/watches-jewellery/glenn-spiro-london-jewellery-showroom",
-      "excerpt": "Father and son duo Glenn and Joe Spiro worked with Venezuelan designer Valerie Name Bolaño on curating their elegant and eclectic jewellery boutique in Mayfair",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vVkqhPB2jpdBc7JDZZSh29.gif",
       "today": false
     },
     {
