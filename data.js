@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.19  17:42",
+  "fetchedAt": "2026.09.19  19:54",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Digital AV Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "axismag.jp": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "東京建物株式会社": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,11 +37,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -65,13 +65,21 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -86,25 +94,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
-      "today": true
-    },
-    {
       "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.19",
@@ -112,6 +101,16 @@ window.LUMINO_DATA = {
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
       "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -125,6 +124,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.19",
@@ -132,6 +141,15 @@ window.LUMINO_DATA = {
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -145,15 +163,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.19",
@@ -161,6 +170,26 @@ window.LUMINO_DATA = {
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
       "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Victoria Yakusha crafts sculptural jewellery boutique in New York",
+      "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
+      "excerpt": "Ukrainian designer Victoria Yakusha has created a sculptural, almost monochromatic interior for a jewellery brand's flagship boutique in New York City. Also from Ukraine, the brand Guzema's store in S",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex.jpg",
       "today": true
     },
     {
@@ -180,6 +209,7 @@ window.LUMINO_DATA = {
       "title": "IF_DO transforms neglected building in Hastings into \"genuinely welcoming\" community centre",
       "url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house/",
       "excerpt": "A green-concrete frontage marks the transformation of a neglected building in Hastings into Eagle House community centre, designed by London architecture studio IF_DO. Eagle House was completed for co",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_hero.jpg",
       "today": true
     },
     {
@@ -219,6 +249,7 @@ window.LUMINO_DATA = {
       "title": "Eight green-roofed homes that sprout from their surroundings",
       "url": "https://www.dezeen.com/2026/09/19/green-roof-houses-roundup/",
       "excerpt": "Our latest roundup collects houses topped with verdant green roofs, with some designed to blend into the natural landscape and others providing elevated garden space for families to gather. A green ro",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2024/12/forest-house-argentina-gonzalo-bardach-arquitectura_dezeen_2364_hero-1.jpg",
       "today": true
     },
     {
@@ -268,6 +299,7 @@ window.LUMINO_DATA = {
       "title": "This week we reported on London Design Festival",
       "url": "https://www.dezeen.com/2026/09/19/london-design-festival-this-week/",
       "excerpt": "This week on Dezeen, we looked at the highlights of this week's London Design Festival, which included a pavilion topped with police shields. Built on The Strand, in central London, The Pangolin Shiel",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion-1_dezeen_2364_hero_4.jpg",
       "today": true
     },
     {
@@ -337,6 +369,7 @@ window.LUMINO_DATA = {
       "title": "Basura creates data centre toy that emits \"ear piercing hum\" when squeezed",
       "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
       "excerpt": "New York creative agency Basura and musician Big Data have collaborated on a stuffed toy that resembles a data centre and emits a recording from a data centre in Virginia when squeezed. The stuffed to",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/basura-big-data-sq_dezeen_2364_col_0.jpg",
       "today": false
     },
     {
@@ -347,15 +380,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/found-associations-future-cafe-bio-laboratory-paris-design-week-kalve-coffee/",
       "excerpt": "four latvian designers and artists partnered with kalve coffee to explore the café as a small-scale material ecosystem, experimenting with coffee grounds, milk, and dirty water.\nThe post found associa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/found-associations-paris-design-week-kalve-coffee-cafe-material-ecosystem-bio-laboratory-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Housing project for victims of domestic violence among projects from Cardiff University",
-      "url": "https://www.dezeen.com/2026/09/18/housing-project-for-victims-of-domestic-violence-cardiff-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a housing project for victims of domestic violence with courtyards, winter gardens and a nursery is among architecture projects by Cardiff University students. Also featured is a ",
       "today": false
     },
     {
@@ -419,6 +443,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -456,6 +490,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -515,6 +559,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
