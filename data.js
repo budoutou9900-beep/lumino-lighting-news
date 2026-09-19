@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.19  00:54",
+  "fetchedAt": "2026.09.19  05:25",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,19 +21,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "東京建物株式会社": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "東京建物株式会社": {
+    "walkerplus.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,27 +41,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -72,6 +72,10 @@ window.LUMINO_DATA = {
     "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -86,13 +90,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
+      "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.19",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://ginza.keizai.biz/headline/554/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
       "today": true
     },
     {
@@ -106,13 +110,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.19",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -123,16 +127,6 @@ window.LUMINO_DATA = {
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
       "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -155,13 +149,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "cat": "展示・アート",
       "date": "2026.09.19",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
       "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Norman Foster’s La Voile, one of the most acclaimed 21st-century houses, is for sale",
+      "url": "https://www.wallpaper.com/architecture/residential/norman-fosters-la-voile-one-of-the-most-acclaimed-21st-century-houses-is-for-sale",
+      "excerpt": "Perched on the edge of the Cap-Ferrat peninsula, La Voile was designed by Lord Foster for his own family, embodying his fascination with structure, technology and architectural spectacle",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ZTFFrYAKpZ2fRRFdChAVA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "A Medellín apartment crafted inside an underground void defies all expectation",
+      "url": "https://www.wallpaper.com/architecture/residential/medellin-apartment-oa-colombia",
+      "excerpt": "Explore this Medellín apartment by architecture studio OA+, a design which reimagines a space below ground into a tailor-made contemporary home full of drama",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/baULqs2oJmCmS39mcWxtkK-1651-80.jpg",
       "today": true
     },
     {
@@ -182,6 +196,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/",
       "excerpt": "through painting and film, jesus mari lazkano examines changing natural landscapes and the traces human activity leaves behind.\nThe post jesus mari lazkano traces changing landscapes through painting ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/basque-luxury-studio-spain-azken-natura-exhibition-jesus-mari-lazkano-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.18",
+      "title": "Gandarillas House / Jose Pedro Vicente Arquitectos",
+      "url": "https://www.archdaily.com/1185394/gandarillas-house-jose-pedro-vicente-arquitectos",
+      "excerpt": "The proposal seeks to articulate the relationship between the site, the landscape, security, and the coastal climate. The entire program is elevated, while the ground level remains completely open. Ra",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/7858/a74d/1200/0125/ef08/large_jpg/CA_GAN_VIC_20.jpg?1789491336",
       "today": false
     },
     {
@@ -244,16 +268,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "The Stuff That Surrounds You: Rolf and Mette Hay invite Wallpaper* inside their personal design collection",
-      "url": "https://www.wallpaper.com/design-interiors/the-stuff-that-surrounds-you-rolf-and-mette-hay",
-      "excerpt": "The Hay founders talk us through the design objects and artworks that form the backdrop to their everyday lives – watch our film",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fj6W6A78tQafFnzS8cJrm-1920-80.png",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -289,16 +303,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
       "excerpt": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m², located in Atalhada, in the city of Lagoa, on the south coast of São Miguel Island, ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/large_jpg/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Homme Plissé Issey Miyake reimagines Matisse’s ‘The Snail’ at London’s Tate Modern",
-      "url": "https://www.wallpaper.com/fashion-beauty/homme-plisse-issey-miyake-matisse-open-studio-tate-modern",
-      "excerpt": "The latest chapter of Homme Plissé Issey Miyake’s Open Studio saw the Japanese label draw on Matisse’s ‘The Snail’ for inspiration, with help from Studio Dennis Vanderbroeck and the Dresden Frankfurt ",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WLZeW95SNdfU5eoNSTNvqf-2560-80.jpg",
       "today": false
     },
     {
@@ -347,16 +351,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer",
       "excerpt": "As the last building before the expansive raised bog, Alpamyr occupies a special position in the landscape. It is an intergenerational house for two parties, characterized by its low rise and sensitiv",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/266d/d8c8/8201/89ac/cc7f/large_jpg/alpamyr-house-sandro-durrer_5.jpg?1789601438",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Architectural Heterotopias: Temporary Installations as Alternative Worlds",
-      "url": "https://www.archdaily.com/1185278/architectural-heterotopias-temporary-installations-as-alternative-worlds",
-      "excerpt": "While complex, layered with meaning, and categorized into various forms, heterotopia, a concept developed by the philosopher Michel Foucault, can broadly be understood as the manifestation of alternat",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/532a/d8c8/8201/89ac/cd0c/large_jpg/architectural-heterotopias-temporary-installations-as-spaces-for-alternative-worlds_1.jpg?1789612852",
       "today": false
     },
     {
@@ -420,6 +414,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -457,6 +461,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -516,6 +530,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
