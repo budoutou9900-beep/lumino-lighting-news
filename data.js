@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.19  05:25",
+  "fetchedAt": "2026.09.19  10:09",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "walkerplus.com": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -149,13 +149,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.19",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
       "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Pablo Bronstein’s new ‘Clocks’ drawings complicate histories of politics and decoration",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/pablo-bronstein-clocks-olney-gleason-new-york-review",
+      "excerpt": "The British-Argentine artist considers the political implications of the clock in a new exhibition at Olney Gleason in New York",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jx6AGSrXfr6xf4JdWCfdbR-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Travel the world for these extraordinary spa treatments",
+      "url": "https://www.wallpaper.com/travel/spas/best-hotel-spa-treatments-around-the-world",
+      "excerpt": "Whether it is a three-hour ritual in Kyoto or a full-day immersion in Sumba, these hotel spa experiences will make any journey worthwhile",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PcAA24X48EaP2QcMtRH5E4-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Humantra’s electrolytes are enhanced through a new collaboration with Samuel Ross",
+      "url": "https://www.wallpaper.com/design-interiors/humantra-electrolytes-project-grape-launch-samuel-ross",
+      "excerpt": "Samuel Ross's SR_A and Humantra unveil their first collaboration, with the launch of Carbon Grape, inspired by the carbon mineral beaches of St Vincent",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VFcKnzmTs5iynTRtfGJ5yK-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "issey miyake turns matisse cut-outs into clothing and choreography at tate modern",
+      "url": "https://www.designboom.com/design/homme-plisse-issey-miyake-matisse-cut-outs-clothing-choreography-tate-modern-snail-performance/",
+      "excerpt": "at tate modern, dancers animate matisse-inspired pleats through encounters that bring the audience into the performance. \nThe post issey miyake turns matisse cut-outs into clothing and choreography at",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "This week we reported on London Design Festival",
+      "url": "https://www.dezeen.com/2026/09/19/london-design-festival-this-week/",
+      "excerpt": "This week on Dezeen, we looked at the highlights of this week's London Design Festival, which included a pavilion topped with police shields. Built on The Strand, in central London, The Pangolin Shiel",
       "today": true
     },
     {
@@ -176,6 +225,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/medellin-apartment-oa-colombia",
       "excerpt": "Explore this Medellín apartment by architecture studio OA+, a design which reimagines a space below ground into a tailor-made contemporary home full of drama",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/baULqs2oJmCmS39mcWxtkK-1651-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "local stone, brick and terracotta screens layer across three-story gathering space in indonesia",
+      "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
+      "excerpt": "locally sourced stone, terracotta brick, and perforated screens shape a tactile, climate responsive architecture.\nThe post local stone, brick and terracotta screens layer across three-story gathering ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ins-studio-Common-Days-local-stone-brick-terracotta-screens-gathering-space-indonesia-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Bothaus Coffee - Sudo Developer Center / HCCH Studio",
+      "url": "https://www.archdaily.com/1185091/bothaus-coffee-sudo-developer-center-hcch-studio",
+      "excerpt": "Located on the lower floor of Sudo Technology's office and robotics laboratory in a tower along Shanghai's Yangpu waterfront, Bothaus is a small reception and exhibition space designed for the embodie",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/7a88/069c/1b01/89fb/7797/large_jpg/bothaus-coffee-sudo-developer-center-hcch-studio_12.jpg?1789426386",
       "today": true
     },
     {
@@ -228,46 +297,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Keely Hodgkinson's head-turning Nike speed suit functions as a futuristic 'second skin'",
-      "url": "https://www.wallpaper.com/tech/nike-keely-hodgkinson-speed-suit",
-      "excerpt": "The hooded ensemble, a first for Nike since 2000, is a careful calibration of style and science, nine months in the making. Here's how it was developed",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gLCKU93mtKBFwjd4DPQeo3-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Our favourite new rugs from London Design Festival (and beyond)",
-      "url": "https://www.wallpaper.com/design-interiors/new-rugs-2026",
-      "excerpt": "Rugs are having a moment. Browse our favourite new designs to ground your room and elevate your space with colour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MWYGgEduzGVqPw9XTiu6oA-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "The Horses is everything you want a British pub to be – and more",
-      "url": "https://www.wallpaper.com/travel/restaurants/the-horses-pub-public-house-group-london-review",
-      "excerpt": "The new Clerkenwell pub by Public House Group not only has classic boozer-style seating, but also is home to a cosy seafood restaurant upstairs",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pmvMWPSHyN3x52G3KeawAU-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "frida escobedo studio to take MALBA underground with newly unveiled expansion",
-      "url": "https://www.designboom.com/architecture/frida-escobedo-studio-malba-underground-expansion-museo-arte-latinoamericano-buenos-aires-expansion/",
-      "excerpt": "frida escobedo will expand MALBA beneath plaza perú, doubling the museum’s exhibition space while preserving the public square above.\nThe post frida escobedo studio to take MALBA underground with newl",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/MALBA-frida-escobedo-extension-announcement-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -316,41 +345,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "how the situationists turned spectators into participants",
-      "url": "https://www.designboom.com/architecture/situationists-spectators-participants/",
-      "excerpt": "from wandering through the city to imagining environments shaped by play, the movement asked what it might mean to take an active part in shaping everyday life.\nThe post how the situationists turned s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/situationists-spectators-participants-designboom-1200.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.18",
       "title": "Cluster of cylindrical volumes forms Spanish home by Fran Silvestre Arquitectos",
       "url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
       "excerpt": "A sculptural cluster of cylindrical forms defines the \"calm, continuous\" House in Las Rozas, a home in Madrid completed by local studio Fran Silvestre Arquitectos. Overlooking the Sierra de Guadarrama",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\"",
-      "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
-      "excerpt": "Chinese designer Bin Wu has unveiled the Pavilion of Time, which features timber screens topped by a circular mirror, in the courtyard of Domaine National du Palais-Royal for Paris Design Week. Wu des",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Alpamyr House / sandro durrer",
-      "url": "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer",
-      "excerpt": "As the last building before the expansive raised bog, Alpamyr occupies a special position in the landscape. It is an intergenerational house for two parties, characterized by its low rise and sensitiv",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/266d/d8c8/8201/89ac/cc7f/large_jpg/alpamyr-house-sandro-durrer_5.jpg?1789601438",
       "today": false
     },
     {
