@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.18  22:11",
+  "fetchedAt": "2026.09.19  00:54",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -13,55 +13,55 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "夜景FAN": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "東京建物株式会社": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ウォーカープラス": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ウォーカープラス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -72,17 +72,13 @@ window.LUMINO_DATA = {
     "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "pronews.com",
       "cat": "国内情報",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
       "url": "https://jp.pronews.com/special/202108301000219018.html",
       "excerpt": "",
@@ -90,19 +86,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "銀座経済新聞",
+      "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.18",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
+      "date": "2026.09.19",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://www.chunichi.co.jp/article/377429",
       "excerpt": "",
@@ -110,9 +106,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "夜景FAN",
       "cat": "展示・アート",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
@@ -122,7 +128,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
@@ -132,7 +138,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
       "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
       "excerpt": "",
@@ -141,7 +147,7 @@ window.LUMINO_DATA = {
     {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
       "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
@@ -151,7 +157,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.09.18",
+      "date": "2026.09.19",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
@@ -162,11 +168,21 @@ window.LUMINO_DATA = {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.18",
+      "title": "wendell castle’s family home returns through furniture and artifacts at friedman benda",
+      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
+      "excerpt": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded it.\nThe post wendell castle’s family home returns through furniture and artifacts ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.18",
       "title": "jesus mari lazkano traces changing landscapes through painting and animated film",
       "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/",
       "excerpt": "through painting and film, jesus mari lazkano examines changing natural landscapes and the traces human activity leaves behind.\nThe post jesus mari lazkano traces changing landscapes through painting ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/basque-luxury-studio-spain-azken-natura-exhibition-jesus-mari-lazkano-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -175,7 +191,7 @@ window.LUMINO_DATA = {
       "title": "Basura creates data centre toy that emits \"ear piercing hum\" when squeezed",
       "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
       "excerpt": "New York creative agency Basura and musician Big Data have collaborated on a stuffed toy that resembles a data centre and emits a recording from a data centre in Virginia when squeezed. The stuffed to",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -185,7 +201,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/found-associations-future-cafe-bio-laboratory-paris-design-week-kalve-coffee/",
       "excerpt": "four latvian designers and artists partnered with kalve coffee to explore the café as a small-scale material ecosystem, experimenting with coffee grounds, milk, and dirty water.\nThe post found associa",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/found-associations-paris-design-week-kalve-coffee-cafe-material-ecosystem-bio-laboratory-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -195,7 +211,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/nike-keely-hodgkinson-speed-suit",
       "excerpt": "The hooded ensemble, a first for Nike since 2000, is a careful calibration of style and science, nine months in the making. Here's how it was developed",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gLCKU93mtKBFwjd4DPQeo3-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -205,7 +221,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/new-rugs-2026",
       "excerpt": "Rugs are having a moment. Browse our favourite new designs to ground your room and elevate your space with colour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MWYGgEduzGVqPw9XTiu6oA-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -215,7 +231,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/the-horses-pub-public-house-group-london-review",
       "excerpt": "The new Clerkenwell pub by Public House Group not only has classic boozer-style seating, but also is home to a cosy seafood restaurant upstairs",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pmvMWPSHyN3x52G3KeawAU-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -225,7 +241,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/frida-escobedo-studio-malba-underground-expansion-museo-arte-latinoamericano-buenos-aires-expansion/",
       "excerpt": "frida escobedo will expand MALBA beneath plaza perú, doubling the museum’s exhibition space while preserving the public square above.\nThe post frida escobedo studio to take MALBA underground with newl",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/MALBA-frida-escobedo-extension-announcement-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -235,7 +251,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/the-stuff-that-surrounds-you-rolf-and-mette-hay",
       "excerpt": "The Hay founders talk us through the design objects and artworks that form the backdrop to their everyday lives – watch our film",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fj6W6A78tQafFnzS8cJrm-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -244,7 +260,7 @@ window.LUMINO_DATA = {
       "title": "Housing project for victims of domestic violence among projects from Cardiff University",
       "url": "https://www.dezeen.com/2026/09/18/housing-project-for-victims-of-domestic-violence-cardiff-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a housing project for victims of domestic violence with courtyards, winter gardens and a nursery is among architecture projects by Cardiff University students. Also featured is a ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -254,7 +270,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185391/aerocasa-feliu-vega-kennedy-arquitectura",
       "excerpt": "First and foremost, this project is a garden and, second of all, a house. It is an inhabitable garden for someone seeking to escape the hustle and bustle of the world, to be lived in the tender compan",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/572d/066f/0900/0145/7673/large_jpg/Copia-de-AEROCASA-FELIU-VEGA-JAG-2792-CMYK.jpg?1789744959",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -263,7 +279,7 @@ window.LUMINO_DATA = {
       "title": "This tote bag-life jacket combination is an \"essential that shouldn't exist\"",
       "url": "https://www.dezeen.com/2026/09/18/lifeline-life-jacket-tote-bag-concept/",
       "excerpt": "A group of five New York artists has created Lifeline, a tote bag that can convert into a self-inflating life jacket as a conceptual design object meant to bring awareness to the threat of climate cha",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -273,7 +289,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
       "excerpt": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m², located in Atalhada, in the city of Lagoa, on the south coast of São Miguel Island, ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/large_jpg/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -283,7 +299,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/homme-plisse-issey-miyake-matisse-open-studio-tate-modern",
       "excerpt": "The latest chapter of Homme Plissé Issey Miyake’s Open Studio saw the Japanese label draw on Matisse’s ‘The Snail’ for inspiration, with help from Studio Dennis Vanderbroeck and the Dresden Frankfurt ",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WLZeW95SNdfU5eoNSTNvqf-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -293,7 +309,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185166/match-house-art-omi-2024-young-projects",
       "excerpt": "Young Projects has a unique reputation for studying conventional material use and application, in order to reimagine new ways of employing the material. By iterating across scales of prototype, furnit",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/e1c2/d8c8/8201/89ac/cec4/large_jpg/match-house-art-omi-temporary-installation-young-projects_20.jpg?1789649356",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -303,7 +319,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/situationists-spectators-participants/",
       "excerpt": "from wandering through the city to imagining environments shaped by play, the movement asked what it might mean to take an active part in shaping everyday life.\nThe post how the situationists turned s",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/situationists-spectators-participants-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -312,7 +328,7 @@ window.LUMINO_DATA = {
       "title": "Cluster of cylindrical volumes forms Spanish home by Fran Silvestre Arquitectos",
       "url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
       "excerpt": "A sculptural cluster of cylindrical forms defines the \"calm, continuous\" House in Las Rozas, a home in Madrid completed by local studio Fran Silvestre Arquitectos. Overlooking the Sierra de Guadarrama",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -321,17 +337,7 @@ window.LUMINO_DATA = {
       "title": "Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\"",
       "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
       "excerpt": "Chinese designer Bin Wu has unveiled the Pavilion of Time, which features timber screens topped by a circular mirror, in the courtyard of Domaine National du Palais-Royal for Paris Design Week. Wu des",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "‘minimalism feels cold when empty of narrative’: how aarke shapes its brand identity",
-      "url": "https://www.designboom.com/design/minimalism-aarke-brand-identity-interview/",
-      "excerpt": "aarke’s creative director shares how they elevate overlooked kitchen tools, bridging product design with refined lifestyle storytelling.\nThe post ‘minimalism feels cold when empty of narrative’: how a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aarke-designboom-fb.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -341,7 +347,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer",
       "excerpt": "As the last building before the expansive raised bog, Alpamyr occupies a special position in the landscape. It is an intergenerational house for two parties, characterized by its low rise and sensitiv",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/266d/d8c8/8201/89ac/cc7f/large_jpg/alpamyr-house-sandro-durrer_5.jpg?1789601438",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -351,7 +357,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185278/architectural-heterotopias-temporary-installations-as-alternative-worlds",
       "excerpt": "While complex, layered with meaning, and categorized into various forms, heterotopia, a concept developed by the philosopher Michel Foucault, can broadly be understood as the manifestation of alternat",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/532a/d8c8/8201/89ac/cd0c/large_jpg/architectural-heterotopias-temporary-installations-as-spaces-for-alternative-worlds_1.jpg?1789612852",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -361,7 +367,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -414,16 +420,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -461,16 +457,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -530,16 +516,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
