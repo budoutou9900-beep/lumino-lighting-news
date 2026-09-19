@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.19  19:54",
+  "fetchedAt": "2026.09.19  22:03",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,19 +37,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -183,6 +183,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "guadagnino, lynch, and the movie directors who design interior spaces",
+      "url": "https://www.designboom.com/art/guadagnino-lynch-movie-directors-design-interior-spaces/",
+      "excerpt": "these famous filmmakers take world building to a new dimension through their interior design collaborations. \nThe post guadagnino, lynch, and the movie directors who design interior spaces appeared fi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/director-interiors-designboom-31-scaled.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.19",
@@ -190,6 +200,26 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
       "excerpt": "Ukrainian designer Victoria Yakusha has created a sculptural, almost monochromatic interior for a jewellery brand's flagship boutique in New York City. Also from Ukraine, the brand Guzema's store in S",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Phan Chau Trinh Sports Hall / scale50",
+      "url": "https://www.archdaily.com/1185207/phan-chau-trinh-sports-hall-scale50",
+      "excerpt": "The sports hall is part of an ongoing effort by Phan Chau Trinh Interlevel School to renew its infrastructure, gradually transforming its existing campus to accommodate the needs of both a growing sch",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/6da9/4f64/5201/8803/13c6/large_jpg/phan-chau-trinh-sports-hall-scale50_2.jpg?1789554104",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Cella House  / iHouse estudio",
+      "url": "https://www.archdaily.com/1185405/cella-house-ihouse-estudio",
+      "excerpt": "Casa Cella is a weekend home located in El Pinar, Canelones, just a few yards from the beach. Designed for a family that loves hosting friends and extending daily life outdoors, the house is conceived",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/c36a/066f/0900/0145/7773/large_jpg/IHOUSE_PINAR-0001.jpg?1789773288",
       "today": true
     },
     {
@@ -283,16 +313,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Climate Experience World Visitor Center / DBCO",
-      "url": "https://www.archdaily.com/1185116/climate-experience-world-visitor-center-dbco",
-      "excerpt": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec8f/large_jpg/09_Klimaerlebniswelt_Oerlinghausen_Patrick_Johannsen_Fotografie_02_Foyer-27.jpg?1789468616",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.19",
@@ -333,16 +353,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Bothaus Coffee - Sudo Developer Center / HCCH Studio",
-      "url": "https://www.archdaily.com/1185091/bothaus-coffee-sudo-developer-center-hcch-studio",
-      "excerpt": "Located on the lower floor of Sudo Technology's office and robotics laboratory in a tower along Shanghai's Yangpu waterfront, Bothaus is a small reception and exhibition space designed for the embodie",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/7a88/069c/1b01/89fb/7797/large_jpg/bothaus-coffee-sudo-developer-center-hcch-studio_12.jpg?1789426386",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -370,16 +380,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
       "excerpt": "New York creative agency Basura and musician Big Data have collaborated on a stuffed toy that resembles a data centre and emits a recording from a data centre in Virginia when squeezed. The stuffed to",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/basura-big-data-sq_dezeen_2364_col_0.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "found associations reimagines future café as bio laboratory at paris design week",
-      "url": "https://www.designboom.com/design/found-associations-future-cafe-bio-laboratory-paris-design-week-kalve-coffee/",
-      "excerpt": "four latvian designers and artists partnered with kalve coffee to explore the café as a small-scale material ecosystem, experimenting with coffee grounds, milk, and dirty water.\nThe post found associa",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/found-associations-paris-design-week-kalve-coffee-cafe-material-ecosystem-bio-laboratory-designboom-1200.jpg",
       "today": false
     },
     {
