@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.19  14:07",
+  "fetchedAt": "2026.09.19  17:42",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "中日新聞Web": {
+    "Digital AV Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "夜景FAN": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "東京建物株式会社": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "東京建物株式会社": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,19 +37,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -65,21 +65,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "パナソニック": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -91,6 +83,25 @@ window.LUMINO_DATA = {
       "url": "https://jp.pronews.com/special/202108301000219018.html",
       "excerpt": "",
       "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
+    {
+      "source": "Digital AV Magazine",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
+      "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -107,30 +118,10 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.19",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
       "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
       "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
       "today": true
     },
     {
@@ -144,15 +135,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
       "date": "2026.09.19",
@@ -160,6 +142,15 @@ window.LUMINO_DATA = {
       "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
       "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
+      "excerpt": "",
       "today": true
     },
     {
@@ -173,13 +164,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "ArchDaily",
+      "cat": "デザイン",
       "date": "2026.09.19",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "title": "Cayucos Ridge Barn / Clayton Korte",
+      "url": "https://www.archdaily.com/1185167/cayucos-ridge-barn-clayton-korte",
+      "excerpt": "Set along the eastern edge of a 150-acre property in California's Santa Lucia Range, 30 acres of which are planted with Syrah vines, this simple agricultural barn supports vineyard operations while ho",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/744d/a74d/1200/0125/eec4/large_jpg/Caycucos_Ridge_Barn_Casey_Dunn_05.jpg?1789490309",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "IF_DO transforms neglected building in Hastings into \"genuinely welcoming\" community centre",
+      "url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house/",
+      "excerpt": "A green-concrete frontage marks the transformation of a neglected building in Hastings into Eagle House community centre, designed by London architecture studio IF_DO. Eagle House was completed for co",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Powerwall / Studio RAP",
+      "url": "https://www.archdaily.com/1185056/powerwall-studio-rap",
+      "excerpt": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expres",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/0b77/a74d/1200/0125/e2bb/large_jpg/Pim_Top_photographer_StudioRAP_002.jpg?1789397956",
       "today": true
     },
     {
@@ -200,6 +210,15 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/spas/best-hotel-spa-treatments-around-the-world",
       "excerpt": "Whether it is a three-hour ritual in Kyoto or a full-day immersion in Sumba, these hotel spa experiences will make any journey worthwhile",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PcAA24X48EaP2QcMtRH5E4-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Eight green-roofed homes that sprout from their surroundings",
+      "url": "https://www.dezeen.com/2026/09/19/green-roof-houses-roundup/",
+      "excerpt": "Our latest roundup collects houses topped with verdant green roofs, with some designed to blend into the natural landscape and others providing elevated garden space for families to gather. A green ro",
       "today": true
     },
     {
@@ -312,16 +331,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Gandarillas House / Jose Pedro Vicente Arquitectos",
-      "url": "https://www.archdaily.com/1185394/gandarillas-house-jose-pedro-vicente-arquitectos",
-      "excerpt": "The proposal seeks to articulate the relationship between the site, the landscape, security, and the coastal climate. The entire program is elevated, while the ground level remains completely open. Ra",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/7858/a74d/1200/0125/ef08/large_jpg/CA_GAN_VIC_20.jpg?1789491336",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.18",
@@ -347,34 +356,6 @@ window.LUMINO_DATA = {
       "title": "Housing project for victims of domestic violence among projects from Cardiff University",
       "url": "https://www.dezeen.com/2026/09/18/housing-project-for-victims-of-domestic-violence-cardiff-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a housing project for victims of domestic violence with courtyards, winter gardens and a nursery is among architecture projects by Cardiff University students. Also featured is a ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Aerocasa / Feliu Vega Kennedy Arquitectura",
-      "url": "https://www.archdaily.com/1185391/aerocasa-feliu-vega-kennedy-arquitectura",
-      "excerpt": "First and foremost, this project is a garden and, second of all, a house. It is an inhabitable garden for someone seeking to escape the hustle and bustle of the world, to be lived in the tender compan",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/572d/066f/0900/0145/7673/large_jpg/Copia-de-AEROCASA-FELIU-VEGA-JAG-2792-CMYK.jpg?1789744959",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "This tote bag-life jacket combination is an \"essential that shouldn't exist\"",
-      "url": "https://www.dezeen.com/2026/09/18/lifeline-life-jacket-tote-bag-concept/",
-      "excerpt": "A group of five New York artists has created Lifeline, a tote bag that can convert into a self-inflating life jacket as a conceptual design object meant to bring awareness to the threat of climate cha",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Cluster of cylindrical volumes forms Spanish home by Fran Silvestre Arquitectos",
-      "url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
-      "excerpt": "A sculptural cluster of cylindrical forms defines the \"calm, continuous\" House in Las Rozas, a home in Madrid completed by local studio Fran Silvestre Arquitectos. Overlooking the Sierra de Guadarrama",
       "today": false
     },
     {
@@ -438,16 +419,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -485,16 +456,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -554,16 +515,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
