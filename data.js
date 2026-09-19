@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.19  10:09",
+  "fetchedAt": "2026.09.19  14:07",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "中日新聞Web": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "Google ニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,27 +21,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "東京建物株式会社": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ウォーカープラス": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "ウォーカープラス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,33 +49,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -90,16 +94,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "銀座経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.19",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://ginza.keizai.biz/headline/554/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/ginza_keizai/headline/1196835438_photo.jpg",
-      "today": true
-    },
-    {
       "source": "中日新聞Web",
       "cat": "国内情報",
       "date": "2026.09.19",
@@ -110,13 +104,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.19",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - web-komachi.com",
+      "url": "https://www.web-komachi.com/?p=254579",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
       "today": true
     },
     {
@@ -127,6 +131,16 @@ window.LUMINO_DATA = {
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
       "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -156,6 +170,16 @@ window.LUMINO_DATA = {
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
       "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.19",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -196,6 +220,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/homme-plisse-issey-miyake-matisse-cut-outs-clothing-choreography-tate-modern-snail-performance/",
       "excerpt": "at tate modern, dancers animate matisse-inspired pleats through encounters that bring the audience into the performance. \nThe post issey miyake turns matisse cut-outs into clothing and choreography at",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Green by Law? Rethinking Sustainability and Architectural Responsibility Across Borders",
+      "url": "https://www.archdaily.com/1185095/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders",
+      "excerpt": "Sustainability in architecture is often discussed as though it were a universal standard—and, in principle, it should be. Buildings are increasingly evaluated through energy performance, embodied carb",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/a531/069c/1b01/89fb/77a6/large_jpg/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders_1.jpg?1789437240",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Climate Experience World Visitor Center / DBCO",
+      "url": "https://www.archdaily.com/1185116/climate-experience-world-visitor-center-dbco",
+      "excerpt": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec8f/large_jpg/09_Klimaerlebniswelt_Oerlinghausen_Patrick_Johannsen_Fotografie_02_Foyer-27.jpg?1789468616",
       "today": true
     },
     {
@@ -322,26 +366,6 @@ window.LUMINO_DATA = {
       "title": "This tote bag-life jacket combination is an \"essential that shouldn't exist\"",
       "url": "https://www.dezeen.com/2026/09/18/lifeline-life-jacket-tote-bag-concept/",
       "excerpt": "A group of five New York artists has created Lifeline, a tote bag that can convert into a self-inflating life jacket as a conceptual design object meant to bring awareness to the threat of climate cha",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Mini Atalhada Building / SO Arquitetura & Design",
-      "url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
-      "excerpt": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m², located in Atalhada, in the city of Lagoa, on the south coast of São Miguel Island, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/large_jpg/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Match House (Art Omi) Temporary Installation / Young Projects",
-      "url": "https://www.archdaily.com/1185166/match-house-art-omi-2024-young-projects",
-      "excerpt": "Young Projects has a unique reputation for studying conventional material use and application, in order to reimagine new ways of employing the material. By iterating across scales of prototype, furnit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/e1c2/d8c8/8201/89ac/cec4/large_jpg/match-house-art-omi-temporary-installation-young-projects_20.jpg?1789649356",
       "today": false
     },
     {
