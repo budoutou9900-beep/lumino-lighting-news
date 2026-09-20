@@ -1,39 +1,67 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.20  20:10",
+  "fetchedAt": "2026.09.20  22:53",
   "sourceColors": {
-    "Digital AV Magazine": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "digitalavmagazine.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "東京建物株式会社": {
+    "axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "中日新聞Web": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ウォーカープラス": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "夜景FAN": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
+    "anna（アンナ）": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "ヨコハマ経済新聞": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "デジカメ Watch": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "オズモール": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "ウォーカープラス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "夜景FAN": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
     "ファッションプレス": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -49,46 +77,60 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "Digital AV Magazine",
+      "source": "news.mynavi.jp",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "digitalavmagazine.com",
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ぴあエンタメ情報",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -97,9 +139,17 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
       "today": true
     },
     {
@@ -107,9 +157,17 @@ window.LUMINO_DATA = {
       "cat": "国内情報",
       "date": "2026.09.20",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://www.chunichi.co.jp/article/377429",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://static.chunichi.co.jp/image/article/size1/c/a/3/a/ca3ab52897cdc7c56fbc1afe3b16eba9_1.jpg",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.20",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
       "today": true
     },
     {
@@ -117,9 +175,17 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
-      "url": "https://tatemono.com/news/20251016-3.html",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
+      "source": "anna（アンナ）",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "excerpt": "",
       "today": true
     },
     {
@@ -127,9 +193,17 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
+      "today": true
+    },
+    {
+      "source": "デジカメ Watch",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
+      "excerpt": "",
       "today": true
     },
     {
@@ -137,7 +211,7 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -146,9 +220,8 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://www.walkerplus.com/article/1329111/",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
       "today": true
     },
     {
@@ -156,9 +229,8 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
       "today": true
     },
     {
@@ -166,9 +238,68 @@ window.LUMINO_DATA = {
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
-      "url": "https://www.fashion-press.net/news/138882",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
       "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138882/top.jpg?1759379598",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Christopher Kane debuts his ‘modern, streamlined’ vision for Mulberry",
+      "url": "https://www.wallpaper.com/fashion-beauty/christopher-kane-mulberry-debut-show-review-london-fashion-week",
+      "excerpt": "‘For me, heritage is a foundation, not a limitation,’ said the Scottish designer as he embarked on a new chapter as creative director of Mulberry at London Fashion Week today (20 September 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3u6VdGPpB22ecUSECsAFgW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "local stone, brick and terracotta screens layer across three-story gathering space in indonesia",
+      "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
+      "excerpt": "locally sourced stone, terracotta brick, and perforated screens shape a tactile, climate responsive architecture.\nThe post local stone, brick and terracotta screens layer across three-story gathering ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ins-studio-Common-Days-local-stone-brick-terracotta-screens-gathering-space-indonesia-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "BIG builds a temporary city for shakira in madrid with reusable structures",
+      "url": "https://www.designboom.com/architecture/big-shakira-temporary-city-madrid-reusable-structures/",
+      "excerpt": "shakira stadium by bjarke ingels group transforms madrid’s iberdrola music venue with temporary pavilions, recycled fabrics and 500 trees.\nThe post BIG builds a temporary city for shakira in madrid wi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-7.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "wendell castle’s family home returns through furniture and artifacts at friedman benda",
+      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
+      "excerpt": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded it.\nThe post wendell castle’s family home returns through furniture and artifacts ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
+      "url": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
+      "excerpt": "Understanding architecture as both a collaborative and experiential practice, La Grieta Pavilion was conceived as an academic and constructive exploration focused on sustainability, material awareness",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/1f75/8d91/7901/8920/5a19/large_jpg/pabellon-la-grieta-weyes-plus-cedim-onda-pavilion_14.jpg?1789927301",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Technology Park of Luanda / Typsa",
+      "url": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+      "excerpt": "In June 2026, the Luanda Technology Park was officially inaugurated in the presence of the President of Angola and a large delegation of government ministers, marking the completion of three years of ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/large_jpg/technology-park-1.jpg?1789414226",
       "today": true
     },
     {
@@ -272,16 +403,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "The Button - VAVI Manufacturing Facilities and Headquarters / Mjölk architekti",
-      "url": "https://www.archdaily.com/1185255/the-button-vavi-manufacturing-facilities-and-headquarters-mjolk-architekti",
-      "excerpt": "A few years ago, the architects began collaborating with Jirka Vávra and Katka Jiroutová, who took over management of the successful family business VAVI, founded by Věra Vávrová. After gaining experi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1622/large_jpg/the-button-vavi-mjolk-architekti_1.jpg?1789571252",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.20",
@@ -302,26 +423,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Kingdee Tower / HENN",
-      "url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
-      "excerpt": "The Cloud Tower completes the existing Kingdee software park in Shenzhen's Nanshan neighborhood, which is an emerging tech district. Located on the edge of a green strip, the 211-meter-high tower prov",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/large_jpg/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "guadagnino, lynch, and the movie directors who design interior spaces",
-      "url": "https://www.designboom.com/art/guadagnino-lynch-movie-directors-design-interior-spaces/",
-      "excerpt": "these famous filmmakers take world building to a new dimension through their interior design collaborations. \nThe post guadagnino, lynch, and the movie directors who design interior spaces appeared fi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/director-interiors-designboom-31-scaled.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.19",
@@ -339,36 +440,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house/",
       "excerpt": "A green-concrete frontage marks the transformation of a neglected building in Hastings into Eagle House community centre, designed by London architecture studio IF_DO. Eagle House was completed for co",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Pablo Bronstein’s new ‘Clocks’ drawings complicate histories of politics and decoration",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/pablo-bronstein-clocks-olney-gleason-new-york-review",
-      "excerpt": "The British-Argentine artist considers the political implications of the clock in a new exhibition at Olney Gleason in New York",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jx6AGSrXfr6xf4JdWCfdbR-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "issey miyake turns matisse cut-outs into clothing and choreography at tate modern",
-      "url": "https://www.designboom.com/design/homme-plisse-issey-miyake-matisse-cut-outs-clothing-choreography-tate-modern-snail-performance/",
-      "excerpt": "at tate modern, dancers animate matisse-inspired pleats through encounters that bring the audience into the performance. \nThe post issey miyake turns matisse cut-outs into clothing and choreography at",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "local stone, brick and terracotta screens layer across three-story gathering space in indonesia",
-      "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
-      "excerpt": "locally sourced stone, terracotta brick, and perforated screens shape a tactile, climate responsive architecture.\nThe post local stone, brick and terracotta screens layer across three-story gathering ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ins-studio-Common-Days-local-stone-brick-terracotta-screens-gathering-space-indonesia-designboom-1200-1.jpg",
       "today": false
     },
     {
