@@ -1,102 +1,88 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.20  14:25",
+  "fetchedAt": "2026.09.20  17:52",
   "sourceColors": {
-    "pronews.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "Digital AV Magazine": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "axismag.jp": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "中日新聞Web": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Google ニュース": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "アメーバブログ": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "ファッションプレス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Google ニュース": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "東京建物株式会社": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "ヨコハマ経済新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Dezeen": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ArchDaily": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "夜景FAN": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "岩崎電気": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
-    {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.20",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
-      "today": true
-    },
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
@@ -104,16 +90,6 @@ window.LUMINO_DATA = {
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -127,26 +103,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=254579",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
-      "today": true
-    },
-    {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.20",
@@ -154,6 +110,16 @@ window.LUMINO_DATA = {
       "url": "https://www.fashion-press.net/news/138310",
       "excerpt": "",
       "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
       "today": true
     },
     {
@@ -177,6 +143,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://www.ozmall.co.jp/xmas/illumi/kansai/44277/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.20",
@@ -187,6 +162,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "nick cave’s soundsuits bring the stage into the crowd",
+      "url": "https://www.designboom.com/art/nick-cave-stage-crowd/",
+      "excerpt": "rooted in a 1992 response to racial violence, cave’s practice has evolved into a fluid language of anonymity, craft, and collective performance.\nThe post nick cave’s soundsuits bring the stage into th",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Casa Atelier Brasilia / NAHE ARCHOTECTS",
+      "url": "https://www.archdaily.com/1184906/casa-atelier-brasilia",
+      "excerpt": "Casa Atelier Brasilia explores the relationship between architecture, climate and domestic life through a precise recalibration of an existing home. The project begins with a simple ambition: to trans",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/e02d/05b6/9900/01b5/3a95/large_jpg/Music_Studio_01___NAHE_ARCHITECTS.jpg?1789059267",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.20",
@@ -194,6 +209,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/20/house-of-shadows-cadence-architects/",
       "excerpt": "Cosy nooks and a study are among the spaces designed for reading at House of Shadows, a multi-generational home in Bengaluru, Karnataka, by Indian studio Cadence Architects. Located on a quiet, tree-l",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_sq2.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "The Sound of Wood / Antoine Aunave, Flora Peyrot, Mathilde Steenhaut, Luc Loviton",
+      "url": "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
+      "excerpt": "Nestled in the hollow of the valley, the village seems held within the mountains that embrace it, as if sheltered from the bustle of the world. The air feels denser, filled with a constant freshness t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec7d/large_jpg/Le_Bruit_du_Bois__12_sur_26_.jpg?1789468552",
       "today": true
     },
     {
@@ -297,16 +322,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Bangbae Geunsaeng Neighbourhood Facility / aoa architects",
-      "url": "https://www.archdaily.com/1185199/bangbae-geunsaeng-neighbourhood-facility-aoa-architects",
-      "excerpt": "For rental neighborhood facilities, it's essential to design a compact layout with simple, rectangular rental units and a core that includes the stairs, elevator, and restrooms. The elevator and other",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a419/large_jpg/IMG_00.jpg?1789549625",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.19",
@@ -324,16 +339,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
       "excerpt": "Ukrainian designer Victoria Yakusha has created a sculptural, almost monochromatic interior for a jewellery brand's flagship boutique in New York City. Also from Ukraine, the brand Guzema's store in S",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Phan Chau Trinh Sports Hall / scale50",
-      "url": "https://www.archdaily.com/1185207/phan-chau-trinh-sports-hall-scale50",
-      "excerpt": "The sports hall is part of an ongoing effort by Phan Chau Trinh Interlevel School to renew its infrastructure, gradually transforming its existing campus to accommodate the needs of both a growing sch",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/6da9/4f64/5201/8803/13c6/large_jpg/phan-chau-trinh-sports-hall-scale50_2.jpg?1789554104",
       "today": false
     },
     {
@@ -374,16 +379,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
       "excerpt": "locally sourced stone, terracotta brick, and perforated screens shape a tactile, climate responsive architecture.\nThe post local stone, brick and terracotta screens layer across three-story gathering ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ins-studio-Common-Days-local-stone-brick-terracotta-screens-gathering-space-indonesia-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "wendell castle’s family home returns through furniture and artifacts at friedman benda",
-      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
-      "excerpt": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded it.\nThe post wendell castle’s family home returns through furniture and artifacts ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-FB.jpg",
       "today": false
     },
     {
