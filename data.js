@@ -1,43 +1,43 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.20  00:34",
+  "fetchedAt": "2026.09.20  05:38",
   "sourceColors": {
     "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Digital AV Magazine": {
+    "digitalavmagazine.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ファッションプレス": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "夜景FAN": {
+    "東京建物株式会社": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "hamakei.com": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "東京建物株式会社": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "夜景FAN": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,41 +49,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "パナソニック": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -98,12 +86,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
+      "source": "digitalavmagazine.com",
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://www.digitalavmagazine.com/ja/2020/01/07/museo-guggenheim-bilbao-moderniza-con-zumtobel-sistema-iluminacion/",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://www.axismag.jp/posts/2020/03/184768.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2020/03/17d41091a6b7e004df1130ab290248a4.jpg",
       "today": true
     },
     {
@@ -117,36 +115,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://www.fashion-press.net/news/138310",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
-      "today": true
-    },
-    {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
-      "today": true
-    },
-    {
-      "source": "hamakei.com",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://www.hamakei.com/headline/13081/",
-      "excerpt": "",
-      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
       "date": "2026.09.20",
@@ -154,6 +122,16 @@ window.LUMINO_DATA = {
       "url": "https://tatemono.com/news/20251016-3.html",
       "excerpt": "",
       "thumbnailUrl": "https://tatemono.com/assets/img/common/ogp.png",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://www.hamakei.com/headline/13081/",
+      "excerpt": "",
+      "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
       "today": true
     },
     {
@@ -176,14 +154,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "夜景FAN",
       "cat": "展示・アート",
       "date": "2026.09.20",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
       "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.19",
+      "title": "Bangbae Geunsaeng Neighbourhood Facility / aoa architects",
+      "url": "https://www.archdaily.com/1185199/bangbae-geunsaeng-neighbourhood-facility-aoa-architects",
+      "excerpt": "For rental neighborhood facilities, it's essential to design a compact layout with simple, rectangular rental units and a core that includes the stairs, elevator, and restrooms. The elevator and other",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a419/large_jpg/IMG_00.jpg?1789549625",
+      "today": false
     },
     {
       "source": "designboom",
@@ -303,16 +291,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/homme-plisse-issey-miyake-matisse-cut-outs-clothing-choreography-tate-modern-snail-performance/",
       "excerpt": "at tate modern, dancers animate matisse-inspired pleats through encounters that bring the audience into the performance. \nThe post issey miyake turns matisse cut-outs into clothing and choreography at",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Green by Law? Rethinking Sustainability and Architectural Responsibility Across Borders",
-      "url": "https://www.archdaily.com/1185095/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders",
-      "excerpt": "Sustainability in architecture is often discussed as though it were a universal standard—and, in principle, it should be. Buildings are increasingly evaluated through energy performance, embodied carb",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/a531/069c/1b01/89fb/77a6/large_jpg/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders_1.jpg?1789437240",
       "today": false
     },
     {
@@ -446,16 +424,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -493,16 +461,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -562,16 +520,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
