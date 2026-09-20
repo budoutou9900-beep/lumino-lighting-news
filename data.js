@@ -1,88 +1,102 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.20  10:27",
+  "fetchedAt": "2026.09.20  14:25",
   "sourceColors": {
-    "Digital AV Magazine": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "Digital AV Magazine": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "中日新聞Web": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "東京建物株式会社": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "hamakei.com": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "夜景FAN": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Dezeen": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "アメーバブログ": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "東京建物株式会社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "ウォーカープラス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "パナソニック": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "ArchDaily": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "遠藤照明": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "パナソニック": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.20",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://jp.pronews.com/special/202108301000219018.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
+      "today": true
+    },
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
@@ -113,6 +127,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=254579",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/c9c8bcc7117df0108469db42ff5af31b.jpg",
+      "today": true
+    },
+    {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://ameblo.jp/mori-tomohiro/entry-12952534680.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://stat.ameba.jp/user_images/20260106/15/mori-tomohiro/db/a9/j/o3584201615738147743.jpg?cax=1280-720",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.20",
@@ -133,7 +167,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "hamakei.com",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -150,26 +184,6 @@ window.LUMINO_DATA = {
       "url": "https://www.walkerplus.com/article/1329111/",
       "excerpt": "",
       "thumbnailUrl": "https://news.walkerplus.com/article/1329111/16266356_615.jpg",
-      "today": true
-    },
-    {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p=255443",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
       "today": true
     },
     {
@@ -230,6 +244,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/igarchitects-tokyo-house-field-structural-timber-walls/",
       "excerpt": "igarchitects tests the spatial strength of timber architecture with a house shaped by a field of structural walls.\nThe post IGArchitects builds tokyo house from field of structural timber walls appear",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/house-wall-forest-tokyo-japan-igarchitects-timber-walls-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "The Sacred Ordinary: Studio Ghibli and the Ritual of Coming Home",
+      "url": "https://www.archdaily.com/1185096/the-sacred-ordinary-studio-ghibli-and-the-ritual-of-coming-home",
+      "excerpt": "Every evening when we get home, without ceremony, we perform a small rite. We arrive at a door, we open it, and we step through into a space that belongs to us in a way no other space does. It is such",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/b15d/069c/1b01/89fb/77ac/large_jpg/escapism-and-liminal-spaces-studio-ghibli-and-the-rite-of-coming-home_4.jpg?1789440355",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "The Button - VAVI Manufacturing Facilities and Headquarters / Mjölk architekti",
+      "url": "https://www.archdaily.com/1185255/the-button-vavi-manufacturing-facilities-and-headquarters-mjolk-architekti",
+      "excerpt": "A few years ago, the architects began collaborating with Jirka Vávra and Katka Jiroutová, who took over management of the successful family business VAVI, founded by Věra Vávrová. After gaining experi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1622/large_jpg/the-button-vavi-mjolk-architekti_1.jpg?1789571252",
       "today": true
     },
     {
@@ -300,26 +334,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185207/phan-chau-trinh-sports-hall-scale50",
       "excerpt": "The sports hall is part of an ongoing effort by Phan Chau Trinh Interlevel School to renew its infrastructure, gradually transforming its existing campus to accommodate the needs of both a growing sch",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/6da9/4f64/5201/8803/13c6/large_jpg/phan-chau-trinh-sports-hall-scale50_2.jpg?1789554104",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Cella House  / iHouse estudio",
-      "url": "https://www.archdaily.com/1185405/cella-house-ihouse-estudio",
-      "excerpt": "Casa Cella is a weekend home located in El Pinar, Canelones, just a few yards from the beach. Designed for a family that loves hosting friends and extending daily life outdoors, the house is conceived",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/c36a/066f/0900/0145/7773/large_jpg/IHOUSE_PINAR-0001.jpg?1789773288",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Cayucos Ridge Barn / Clayton Korte",
-      "url": "https://www.archdaily.com/1185167/cayucos-ridge-barn-clayton-korte",
-      "excerpt": "Set along the eastern edge of a 150-acre property in California's Santa Lucia Range, 30 acres of which are planted with Syrah vines, this simple agricultural barn supports vineyard operations while ho",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/744d/a74d/1200/0125/eec4/large_jpg/Caycucos_Ridge_Barn_Casey_Dunn_05.jpg?1789490309",
       "today": false
     },
     {
