@@ -1,19 +1,19 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.20  05:38",
+  "fetchedAt": "2026.09.20  10:27",
   "sourceColors": {
-    "pronews.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "digitalavmagazine.com": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "中日新聞Web": {
+    "ファッションプレス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -21,35 +21,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "hamakei.com": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ウォーカープラス": {
+    "夜景FAN": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "夜景FAN": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -65,28 +65,26 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.20",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://jp.pronews.com/special/202108301000219018.html",
-      "excerpt": "",
-      "thumbnailUrl": "https://jp.static.pronews.com/pronewscore/wp-content/uploads/2021/08/eizohumanfiles2021_74_light_sakai_top.jpg",
-      "today": true
-    },
-    {
-      "source": "digitalavmagazine.com",
+      "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -115,6 +113,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://www.fashion-press.net/news/138310",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.fashion-press.net/img/news/138310/top.jpg?1760449614",
+      "today": true
+    },
+    {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
       "date": "2026.09.20",
@@ -125,22 +133,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "hamakei.com",
       "cat": "展示・アート",
       "date": "2026.09.20",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://www.hamakei.com/headline/13081/",
       "excerpt": "",
       "thumbnailUrl": "https://images.keizai.biz/hamakei/headline/1765965376_photo.jpg",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.20",
-      "title": "関東最大級のイルミイベント「よみうりランド ジュエルミネーション2025」。宝石のような輝きに感動！新観覧車のライトアップも",
-      "url": "https://www.ozmall.co.jp/xmas/illumi/tokyo/44163/",
-      "excerpt": "",
       "today": true
     },
     {
@@ -161,6 +160,106 @@ window.LUMINO_DATA = {
       "url": "https://yakei-fan.com/magazine/lightup/fukuoka/fukuokatower-sakura2026.html",
       "excerpt": "",
       "thumbnailUrl": "https://yakei-fan.com/images/magazine/lightup/pic_fukuokatower-sakura202401.jpg",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.20",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://www.web-komachi.com/?p=255443",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.web-komachi.com/webko/wp-content/uploads/2025/11/Christmas.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Multi-generational house in Bengaluru designed to be \"conducive to reading\"",
+      "url": "https://www.dezeen.com/2026/09/20/house-of-shadows-cadence-architects/",
+      "excerpt": "Cosy nooks and a study are among the spaces designed for reading at House of Shadows, a multi-generational home in Bengaluru, Karnataka, by Indian studio Cadence Architects. Located on a quiet, tree-l",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_sq2.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "In Toulouse, this 1950s house by Bernard Calley and Georges Alet hits the market",
+      "url": "https://www.wallpaper.com/architecture/residential/1950s-house-by-bernard-calley-and-georges-alet-for-sale",
+      "excerpt": "For €1.45m, a six-bedroom slice of avant-garde modernist architecture from the 1950s could be yours",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VobFsXqeefaFcet2Ng787m-854-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Seven buildings that demonstrate the versatility of bamboo",
+      "url": "https://www.dezeen.com/2026/09/20/bamboo-buildings-roundup/",
+      "excerpt": "Bamboo-clad parasols and a three-storey bamboo truss feature in this roundup of buildings from Southeast and South Asia built using the fast-growing plant. Mahamudra Meditation Centre, Nepal, by Abari",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "‘Holiday Exotica’ is a visual celebration of the early days of bold and beautiful vacation design",
+      "url": "https://www.wallpaper.com/design-interiors/visual-comms/holiday-exotica-fuel-publishing-book",
+      "excerpt": "No need to pack your bags to experience these destinations; Jonny Trunk’s new compilation of print ephemera celebrates the art of holiday graphics",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zaZBLNkaEcGGAk4gdjqJ7f-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Why the Mutti tomato tin is more than just food – it's ‘summer in a can’",
+      "url": "https://www.wallpaper.com/architecture/mutti-tomato-tin-objectify-carlo-ratti-italy",
+      "excerpt": "In his last instalment of ‘Objectify’, architect Carlo Ratti turns his attention to an Italian kitchen staple – the Mutti tomato tin, and how its gleaming red-and-gold packaging came to be",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/B3ib5YQabNtTv36dVnBV53-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "IGArchitects builds tokyo house from field of structural timber walls",
+      "url": "https://www.designboom.com/architecture/igarchitects-tokyo-house-field-structural-timber-walls/",
+      "excerpt": "igarchitects tests the spatial strength of timber architecture with a house shaped by a field of structural walls.\nThe post IGArchitects builds tokyo house from field of structural timber walls appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/house-wall-forest-tokyo-japan-igarchitects-timber-walls-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "In Sotogrande, leafy vistas and geometric drama come together in a new villa",
+      "url": "https://www.wallpaper.com/architecture/residential/villa-enso-ark-architects-sotogrande-spain",
+      "excerpt": "Villa ENSO by ARK Architects is the latest residence in La Reserva de Sotogrande in southern Spain; we explored its expansive, monolithic-feeling architecture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GpdtsBenFvhkAai9T3hcsL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Fritz Hansen Sound Club invites visitors to enjoy music in Bauhaus-inspired listening spaces",
+      "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
+      "excerpt": "Danish design brand Fritz Hansen has teamed up with audio specialist Technics to transform its Farringdon showroom into a series of domestic listening scenes for London Design Festival. As part of the",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/hero-fritz-hansen-sound-club-technics_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Kingdee Tower / HENN",
+      "url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
+      "excerpt": "The Cloud Tower completes the existing Kingdee software park in Shenzhen's Nanshan neighborhood, which is an emerging tech district. Located on the edge of a green strip, the 211-meter-high tower prov",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/large_jpg/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645",
       "today": true
     },
     {
@@ -234,16 +333,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Powerwall / Studio RAP",
-      "url": "https://www.archdaily.com/1185056/powerwall-studio-rap",
-      "excerpt": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expres",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/0b77/a74d/1200/0125/e2bb/large_jpg/Pim_Top_photographer_StudioRAP_002.jpg?1789397956",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.19",
@@ -254,36 +343,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Travel the world for these extraordinary spa treatments",
-      "url": "https://www.wallpaper.com/travel/spas/best-hotel-spa-treatments-around-the-world",
-      "excerpt": "Whether it is a three-hour ritual in Kyoto or a full-day immersion in Sumba, these hotel spa experiences will make any journey worthwhile",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PcAA24X48EaP2QcMtRH5E4-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Eight green-roofed homes that sprout from their surroundings",
-      "url": "https://www.dezeen.com/2026/09/19/green-roof-houses-roundup/",
-      "excerpt": "Our latest roundup collects houses topped with verdant green roofs, with some designed to blend into the natural landscape and others providing elevated garden space for families to gather. A green ro",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2024/12/forest-house-argentina-gonzalo-bardach-arquitectura_dezeen_2364_hero-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Humantra’s electrolytes are enhanced through a new collaboration with Samuel Ross",
-      "url": "https://www.wallpaper.com/design-interiors/humantra-electrolytes-project-grape-launch-samuel-ross",
-      "excerpt": "Samuel Ross's SR_A and Humantra unveil their first collaboration, with the launch of Carbon Grape, inspired by the carbon mineral beaches of St Vincent",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VFcKnzmTs5iynTRtfGJ5yK-1920-80.png",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.19",
@@ -291,36 +350,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/homme-plisse-issey-miyake-matisse-cut-outs-clothing-choreography-tate-modern-snail-performance/",
       "excerpt": "at tate modern, dancers animate matisse-inspired pleats through encounters that bring the audience into the performance. \nThe post issey miyake turns matisse cut-outs into clothing and choreography at",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "This week we reported on London Design Festival",
-      "url": "https://www.dezeen.com/2026/09/19/london-design-festival-this-week/",
-      "excerpt": "This week on Dezeen, we looked at the highlights of this week's London Design Festival, which included a pavilion topped with police shields. Built on The Strand, in central London, The Pangolin Shiel",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion-1_dezeen_2364_hero_4.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Norman Foster’s La Voile, one of the most acclaimed 21st-century houses, is for sale",
-      "url": "https://www.wallpaper.com/architecture/residential/norman-fosters-la-voile-one-of-the-most-acclaimed-21st-century-houses-is-for-sale",
-      "excerpt": "Perched on the edge of the Cap-Ferrat peninsula, La Voile was designed by Lord Foster for his own family, embodying his fascination with structure, technology and architectural spectacle",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5ZTFFrYAKpZ2fRRFdChAVA-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "A Medellín apartment crafted inside an underground void defies all expectation",
-      "url": "https://www.wallpaper.com/architecture/residential/medellin-apartment-oa-colombia",
-      "excerpt": "Explore this Medellín apartment by architecture studio OA+, a design which reimagines a space below ground into a tailor-made contemporary home full of drama",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/baULqs2oJmCmS39mcWxtkK-1651-80.jpg",
       "today": false
     },
     {
@@ -341,26 +370,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
       "excerpt": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded it.\nThe post wendell castle’s family home returns through furniture and artifacts ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "jesus mari lazkano traces changing landscapes through painting and animated film",
-      "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/",
-      "excerpt": "through painting and film, jesus mari lazkano examines changing natural landscapes and the traces human activity leaves behind.\nThe post jesus mari lazkano traces changing landscapes through painting ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/basque-luxury-studio-spain-azken-natura-exhibition-jesus-mari-lazkano-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.18",
-      "title": "Basura creates data centre toy that emits \"ear piercing hum\" when squeezed",
-      "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
-      "excerpt": "New York creative agency Basura and musician Big Data have collaborated on a stuffed toy that resembles a data centre and emits a recording from a data centre in Virginia when squeezed. The stuffed to",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/basura-big-data-sq_dezeen_2364_col_0.jpg",
       "today": false
     },
     {
@@ -424,6 +433,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -461,6 +480,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -520,6 +549,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
