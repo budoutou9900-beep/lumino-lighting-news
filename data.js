@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.21  00:46",
+  "fetchedAt": "2026.09.21  05:47",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "digitalavmagazine.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "prtimes.jp": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "hamakei.com": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -53,7 +53,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -69,11 +69,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -108,7 +108,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "cat": "デザイン",
       "date": "2026.09.21",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -117,7 +117,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "digitalavmagazine.com",
+      "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.21",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -144,7 +144,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.09.21",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -189,7 +189,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "hamakei.com",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.21",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -225,10 +225,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.21",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う - yakei-fan.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
       "today": true
@@ -240,6 +240,26 @@ window.LUMINO_DATA = {
       "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Bold cuts mean this season’s high jewellery is easy on the eye",
+      "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026",
+      "excerpt": "Unusual cuts and bright stones bring a joyful modernity to this season's high jewellery",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yQ4YfEbKATWRHuUW4EzKMQ.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Inside Null, a small house conceived as an experiment for climate-resilient architecture",
+      "url": "https://www.wallpaper.com/architecture/residential/null-small-house-hafsa-burt-usa",
+      "excerpt": "A project by architect Hafsa Burt, this raised, small house in Jackson, CA, proposes a model for climate resilience where architecture for vulnerable communities is needed – and beyond",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/biaQQDrxTQwwhA3RPJ9tjn-1261-80.jpg",
       "today": true
     },
     {
@@ -270,6 +290,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/big-shakira-temporary-city-madrid-reusable-structures/",
       "excerpt": "shakira stadium by bjarke ingels group transforms madrid’s iberdrola music venue with temporary pavilions, recycled fabrics and 500 trees.\nThe post BIG builds a temporary city for shakira in madrid wi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-7.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.20",
+      "title": "Sukoon House / tubb",
+      "url": "https://www.archdaily.com/1185342/sukoon-house-tubb",
+      "excerpt": "Sitting where Mohali's urban edge meets the village of Chunni Kalan, the house sits on a 30' by 75' park-facing site. Built for a couple who grew up in a village and remain tied to rural values, the d",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/74e2/8d91/7901/8920/54de/large_jpg/sukoon-tubb_7.jpg?1789687064",
       "today": false
     },
     {
@@ -363,16 +393,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "The Sound of Wood / Antoine Aunave, Flora Peyrot, Mathilde Steenhaut, Luc Loviton",
-      "url": "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
-      "excerpt": "Nestled in the hollow of the valley, the village seems held within the mountains that embrace it, as if sheltered from the bustle of the world. The air feels denser, filled with a constant freshness t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec7d/large_jpg/Le_Bruit_du_Bois__12_sur_26_.jpg?1789468552",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.20",
@@ -400,26 +420,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/visual-comms/holiday-exotica-fuel-publishing-book",
       "excerpt": "No need to pack your bags to experience these destinations; Jonny Trunk’s new compilation of print ephemera celebrates the art of holiday graphics",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zaZBLNkaEcGGAk4gdjqJ7f-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Why the Mutti tomato tin is more than just food – it's ‘summer in a can’",
-      "url": "https://www.wallpaper.com/architecture/mutti-tomato-tin-objectify-carlo-ratti-italy",
-      "excerpt": "In his last instalment of ‘Objectify’, architect Carlo Ratti turns his attention to an Italian kitchen staple – the Mutti tomato tin, and how its gleaming red-and-gold packaging came to be",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/B3ib5YQabNtTv36dVnBV53-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "In Sotogrande, leafy vistas and geometric drama come together in a new villa",
-      "url": "https://www.wallpaper.com/architecture/residential/villa-enso-ark-architects-sotogrande-spain",
-      "excerpt": "Villa ENSO by ARK Architects is the latest residence in La Reserva de Sotogrande in southern Spain; we explored its expansive, monolithic-feeling architecture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GpdtsBenFvhkAai9T3hcsL-2560-80.jpg",
       "today": false
     },
     {
