@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.21  05:47",
+  "fetchedAt": "2026.09.21  11:45",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,31 +49,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -216,11 +216,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.21",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
+      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.21",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -228,18 +237,169 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.21",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う - yakei-fan.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.21",
-      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
-      "excerpt": "",
+      "title": "what does a guitar sound like in stone? bebeau builds one from 18 pieces of slate",
+      "url": "https://www.designboom.com/design/guitar-sound-stone-bebeau-builds-slate-rock/",
+      "excerpt": "the faceted slate instrument tests how far an acoustic guitar can stray from wood while preserving its familiar voice. \nThe post what does a guitar sound like in stone? bebeau builds one from 18 piece",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bebeau-builds-rock-guitar-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "RX Architects expands Sussex home with extension \"immersed in the garden\"",
+      "url": "https://www.dezeen.com/2026/09/21/rx-architects-druim-extension/",
+      "excerpt": "UK studio RX Architects has returned to a house it previously completed in Sussex to add an extension, designed to blend in with the existing timber-clad form. The original home, named Druim, was comp",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/druim-extension-rx-architects-architecture-residential-sussex_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "With the Elroq, Epiq and Peaq, Škoda has completed a full hand of admirably sparky EVs",
+      "url": "https://www.wallpaper.com/transportation/skoda-elroq-epiq-peaq-reviews",
+      "excerpt": "Škoda continues to electrify itself, channelling its knack with cost-effective but clever design into three new SUVs, culminating in the new 7-seater flagship, the Škoda Peaq",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V4kNqdN74cKja2wkbmjgoT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "UAL turns Atterbury Flat guest apartment into riotous student design archive",
+      "url": "https://www.dezeen.com/2026/09/21/ual-atterbury-flat-student-design-archive/",
+      "excerpt": "The University of the Arts London has transformed a drab guest quarters at one of its colleges into a colourful showcase that lets visitors eat, sleep and bathe in student and graduate design. The two",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/atterbury-flat-ual-london-interior-design_dezeen_1704_sq.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Dezeen Awards 2026 architecture shortlist announced",
+      "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/",
+      "excerpt": "Dezeen has announced the architecture shortlist for this year's Dezeen Awards, which includes buildings by Dorte Mandrup, Farshid Moussavi Architects and Herzog & de Meuron. The 152 shortlisted projec",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-architecture-shortlist_dezeen_2364_col_9.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Trump triumphal arch to become \"top grade military complex\" for launching drones",
+      "url": "https://www.dezeen.com/2026/09/21/trump-triumphal-arch-military-base-washington-dc/",
+      "excerpt": "US president Donald Trump has announced that the planned 250-foot-high triumphal arch in Washington DC, designed by Atlanta-based Harrison Design, will now be a military base with drones and snipers. ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/05/trump-triumphal-arch-dc-cfa-designs_dezeen_2364_col_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Dancers pull clothes from Tate Modern's floor for Homme Plissé Issey Miyake show",
+      "url": "https://www.dezeen.com/2026/09/21/tate-modern-issey-miyake-performance/",
+      "excerpt": "Fashion brand Homme Plissé Issey Miyake has created a capsule collection for London's Tate Modern art gallery, which was informed by Henri Matisse's artwork The Snail and revealed as part of a dance p",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen_2364_col_sq2.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "zuckoff uses bluetooth to let you know when smart glasses are nearby",
+      "url": "https://www.designboom.com/technology/zuckoff-bluetooth-smart-glasses-nearby-pawel-szydlowski/",
+      "excerpt": "ray-ban meta, oakley meta, and snap spectacles are among the devices the app can recognize.\nThe post zuckoff uses bluetooth to let you know when smart glasses are nearby appeared first on designboom |",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2022/05/envision-smartglasses-designboom-04.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "From the Classroom to the Courtyard: How 10 Brazilian Universities Rethink the Learning Space",
+      "url": "https://www.archdaily.com/1184932/from-the-classroom-to-the-courtyard-how-10-brazilian-universities-rethink-the-learning-space",
+      "excerpt": "In 1961, when conceiving the Faculty of Architecture and Urbanism of the University of São Paulo, in São Paulo, Vilanova Artigas and Carlos Cascaldi established a paradigm that continues to resonate t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/4310/fc84/8901/8778/4571/large_jpg/_33.jpg?1789084439",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "patricia urquiola rewrites spa culture through effe’s bastion-inspired baluar collection",
+      "url": "https://www.designboom.com/design/patricia-urquiola-effe-baluar-collection/",
+      "excerpt": "crafted from heat-treated linden wood, baluar collection integrates advanced thermal engineering with refined interior architecture.\nThe post patricia urquiola rewrites spa culture through effe’s bast",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/effe_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Anir Guest House / Tamara Wibowo Architects",
+      "url": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+      "excerpt": "Located in a dense residential area of Tembalang, Semarang, Anir Guesthouse rethinks the women-only boarding house typology through a precise response to site constraints, spatial efficiency, and atmo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/1aa8/8d91/7901/8920/52d1/large_jpg/anir-guest-house-tamara-wibowo-architects_28.jpg?1789663970",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Celebrate the Mid-Autumn Festival with Bun House’s mooncakes",
+      "url": "https://www.wallpaper.com/entertaining/food-drink-events/mid-autumn-festival-bun-house-mooncakes",
+      "excerpt": "Including lava custard and mango matcha, these mooncake flavours shouldn’t be missed",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wfyXHAVmK9fbLX5cwPy2dT-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "How Can Thin Brick Support High-Performance Buildings?",
+      "url": "https://www.archdaily.com/1184693/how-can-thin-brick-support-high-performance-buildings",
+      "excerpt": "Masonry is often perceived through its weight, depth, texture, and sense of permanence. Yet these physical qualities also have several implications for the performance of a building envelope. From the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/094a/a2b1/8101/8af4/8d90/large_jpg/how-can-thin-brick-support-high-performance-buildings_8.jpg?1788807529",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "On the International Day of Peace: Architecture Between Conflict and Coexistence",
+      "url": "https://www.archdaily.com/1185438/on-the-international-day-of-peace-architecture-between-conflict-and-coexistence",
+      "excerpt": "Every year on September 21, the United Nations marks the International Day of Peace, an observance that invites global reflection on the conditions necessary to cultivate non-violence, social stabilit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/0dba/d8c8/8201/89ac/da01/large_jpg/on-the-international-day-of-peace-architecture-between-conflict-and-coexistence_9.jpg?1789988292",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "overlapping concrete walls and columns blur inside and outside in okinawa house",
+      "url": "https://www.designboom.com/architecture/overlapping-concrete-walls-columns-inside-outside-okinawa-house-igarchitects/",
+      "excerpt": "igarchitects creates a house in okinawa where reinforced-concrete walls, columns, and a large roof overlap to form a continuous sequence of spaces.\nThe post overlapping concrete walls and columns blur",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/igarchitects-overlapping-spaces-house-okinawa-concrete-walls-columns-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Educational Facility URSIKS / Arhitekti Počivašek Petranovič",
+      "url": "https://www.archdaily.com/1185341/educational-facility-ursiks-arhitekti-pocivasek-petranovic",
+      "excerpt": "The building is part of the larger new prison complex in Ljubljana, for which the architects won the public competition in 2017. The complex is located in Dobrunje. The educational center is positione",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/7685/d8c8/826c/4437/e899/large_jpg/educational-facility-ursiks-arhitekti-pocivasek-petranovic_5.jpg?1789687447",
       "today": true
     },
     {
@@ -280,166 +440,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
       "excerpt": "locally sourced stone, terracotta brick, and perforated screens shape a tactile, climate responsive architecture.\nThe post local stone, brick and terracotta screens layer across three-story gathering ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ins-studio-Common-Days-local-stone-brick-terracotta-screens-gathering-space-indonesia-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "BIG builds a temporary city for shakira in madrid with reusable structures",
-      "url": "https://www.designboom.com/architecture/big-shakira-temporary-city-madrid-reusable-structures/",
-      "excerpt": "shakira stadium by bjarke ingels group transforms madrid’s iberdrola music venue with temporary pavilions, recycled fabrics and 500 trees.\nThe post BIG builds a temporary city for shakira in madrid wi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-7.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Sukoon House / tubb",
-      "url": "https://www.archdaily.com/1185342/sukoon-house-tubb",
-      "excerpt": "Sitting where Mohali's urban edge meets the village of Chunni Kalan, the house sits on a 30' by 75' park-facing site. Built for a couple who grew up in a village and remain tied to rural values, the d",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/74e2/8d91/7901/8920/54de/large_jpg/sukoon-tubb_7.jpg?1789687064",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "auruBOROS golden installation by plastique fantastique spirals across new york’s high line",
-      "url": "https://www.designboom.com/art/auruboros-golden-installation-plastique-fantastique-new-york-high-line/",
-      "excerpt": "auruBOROS installation shifts between a distinct object and a reflected urban image.\nThe post auruBOROS golden installation by plastique fantastique spirals across new york’s high line appeared first ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/auruBOROS-golden-installation-plastique-fantastique-new-york-high-line-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Bugatti unveils Miami skyscraper as first US branded residence",
-      "url": "https://www.dezeen.com/2026/09/20/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg/",
-      "excerpt": "Car brand Bugatti has revealed plans for a 60-storey skyscraper on the Miami River, which will be designed by US architecture studio Brandon Haw Architecture with interiors by Yabu Pushelberg. Named B",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg_dezeen_2364_col_0.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Tojiro Knife Gallery Tokyo \"Hanare\" / L/O (KATATA YOSHISHITO DESIGN)",
-      "url": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
-      "excerpt": "A place to meet your true knife – A Tojiro knife is not merely a product. It is a tool used for decades, resharpened, repaired, and growing alongside its owner. Choosing a knife, we believe, is theref",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "wendell castle’s family home returns through furniture and artifacts at friedman benda",
-      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
-      "excerpt": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded it.\nThe post wendell castle’s family home returns through furniture and artifacts ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
-      "url": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
-      "excerpt": "Understanding architecture as both a collaborative and experiential practice, La Grieta Pavilion was conceived as an academic and constructive exploration focused on sustainability, material awareness",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/1f75/8d91/7901/8920/5a19/large_jpg/pabellon-la-grieta-weyes-plus-cedim-onda-pavilion_14.jpg?1789927301",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Technology Park of Luanda / Typsa",
-      "url": "https://www.archdaily.com/1185083/technology-park-of-luanda",
-      "excerpt": "In June 2026, the Luanda Technology Park was officially inaugurated in the presence of the President of Angola and a large delegation of government ministers, marking the completion of three years of ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/large_jpg/technology-park-1.jpg?1789414226",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "nick cave’s soundsuits bring the stage into the crowd",
-      "url": "https://www.designboom.com/art/nick-cave-stage-crowd/",
-      "excerpt": "rooted in a 1992 response to racial violence, cave’s practice has evolved into a fluid language of anonymity, craft, and collective performance.\nThe post nick cave’s soundsuits bring the stage into th",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Casa Atelier Brasilia / NAHE ARCHOTECTS",
-      "url": "https://www.archdaily.com/1184906/casa-atelier-brasilia",
-      "excerpt": "Casa Atelier Brasilia explores the relationship between architecture, climate and domestic life through a precise recalibration of an existing home. The project begins with a simple ambition: to trans",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa2/e02d/05b6/9900/01b5/3a95/large_jpg/Music_Studio_01___NAHE_ARCHITECTS.jpg?1789059267",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Multi-generational house in Bengaluru designed to be \"conducive to reading\"",
-      "url": "https://www.dezeen.com/2026/09/20/house-of-shadows-cadence-architects/",
-      "excerpt": "Cosy nooks and a study are among the spaces designed for reading at House of Shadows, a multi-generational home in Bengaluru, Karnataka, by Indian studio Cadence Architects. Located on a quiet, tree-l",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_sq2.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "In Toulouse, this 1950s house by Bernard Calley and Georges Alet hits the market",
-      "url": "https://www.wallpaper.com/architecture/residential/1950s-house-by-bernard-calley-and-georges-alet-for-sale",
-      "excerpt": "For €1.45m, a six-bedroom slice of avant-garde modernist architecture from the 1950s could be yours",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/VobFsXqeefaFcet2Ng787m-854-80.png",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Seven buildings that demonstrate the versatility of bamboo",
-      "url": "https://www.dezeen.com/2026/09/20/bamboo-buildings-roundup/",
-      "excerpt": "Bamboo-clad parasols and a three-storey bamboo truss feature in this roundup of buildings from Southeast and South Asia built using the fast-growing plant. Mahamudra Meditation Centre, Nepal, by Abari",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "‘Holiday Exotica’ is a visual celebration of the early days of bold and beautiful vacation design",
-      "url": "https://www.wallpaper.com/design-interiors/visual-comms/holiday-exotica-fuel-publishing-book",
-      "excerpt": "No need to pack your bags to experience these destinations; Jonny Trunk’s new compilation of print ephemera celebrates the art of holiday graphics",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zaZBLNkaEcGGAk4gdjqJ7f-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Fritz Hansen Sound Club invites visitors to enjoy music in Bauhaus-inspired listening spaces",
-      "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
-      "excerpt": "Danish design brand Fritz Hansen has teamed up with audio specialist Technics to transform its Farringdon showroom into a series of domestic listening scenes for London Design Festival. As part of the",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/hero-fritz-hansen-sound-club-technics_dezeen_2364_col_0.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.19",
-      "title": "Victoria Yakusha crafts sculptural jewellery boutique in New York",
-      "url": "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
-      "excerpt": "Ukrainian designer Victoria Yakusha has created a sculptural, almost monochromatic interior for a jewellery brand's flagship boutique in New York City. Also from Ukraine, the brand Guzema's store in S",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_sq1ex.jpg",
       "today": false
     },
     {
