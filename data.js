@@ -1,35 +1,35 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.21  11:45",
+  "fetchedAt": "2026.09.21  17:41",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Digital AV Magazine": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ぴあエンタメ情報": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "axismag.jp": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "東京建物株式会社": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -41,19 +41,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "デジカメ Watch": {
+    "tatemono.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,7 +61,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -69,7 +69,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -89,21 +89,13 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "パナソニック": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -113,6 +105,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.21",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.21",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -171,15 +172,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "東京建物株式会社",
-      "cat": "展示・アート",
-      "date": "2026.09.21",
-      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.21",
@@ -194,6 +186,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.21",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "tatemono.com",
+      "cat": "展示・アート",
+      "date": "2026.09.21",
+      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -225,21 +226,132 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.21",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.21",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
-      "excerpt": "",
+      "title": "Victoria Yakusha designs a minimalist jewellery store that feels like entering a velvety box",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/victoria-yakusha-guzema-jewellery-store-nyc",
+      "excerpt": "The Ukrainian architect and designer created a soft-yet-sculptural New York boutique for Ukrianian brand Guzema: ‘What surrounds an object is as important as the object itself'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Xok5xJuQEcQkz5YgirBjW6-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Inside the design of New York City's upcoming borough-based jails",
+      "url": "https://www.dezeen.com/2026/09/21/design-new-york-city-borough-based-jail-program/",
+      "excerpt": "New York City plans to relocate inmates from Rikers Island into four jails built from the ground up in Queens, Brooklyn, Manhattan and the Bronx. Here, Dezeen looks at the architecture of each project",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/new-york-city-borough-based-jail-system_dezeen_2364_sq-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "The Barbican’s Sculpture Court to be revived as a public space by 2030",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/barbican-sculpture-court-revived-by-2030-london-uk",
+      "excerpt": "The historic brutalist sculpture court will be revitalised as part of the Barbican’s wider Renewal programme, ahead of the Centre’s 50th anniversary in 2032",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XDbNar5vgDjFbVc3J9ukwA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "nearly 1,000 wooden chimes turn le bruit du bois into an alpine instrument",
+      "url": "https://www.designboom.com/architecture/1000-wooden-chimes-bruit-bois-alpine-instrument-sound-music-festival-cabanes-france/",
+      "excerpt": "for le festival des cabanes, a playable timber wall carries changing wooden tones through the mountains above lake annecy.\nThe post nearly 1,000 wooden chimes turn le bruit du bois into an alpine inst",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bruit-bois-sound-wood-france-aunave-peyrot-steenhaut-loviton-festival-cabanes-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "prada galleria unfolds across eight floors of fashion, art, history and pastry in milan",
+      "url": "https://www.designboom.com/art/prada-galleria-eight-floors-fashion-art-history-pastry-milan/",
+      "excerpt": "prada galleria brings retail, pradasphere, marchesi 1824 and fondazione prada together inside milan’s galleria vittorio emanuele ii.\nThe post prada galleria unfolds across eight floors of fashion, art",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/prada-galleria-eight-floors-fashion-art-history-pastry-milan-designboom-8.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "'Brutalist Asia' is a richly illustrated journey into concrete’s overlooked influence on the east",
+      "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
+      "excerpt": "Blue Crow Media’s new monograph, 'Brutalist Asia', turns its practised eye for brutalist beauty on the continent's often-overlooked architecture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fgrHTitzpGyjZGJZRUJRvL-2434-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "motspråk cuts plywood painting apart and rebuilds it as chair",
+      "url": "https://www.designboom.com/design/motsprak-plywood-painting-chair-peytil-eitil-arbenz-thoren/",
+      "excerpt": "a painting on plywood is cut apart and reassembled as a chair, exploring the transition from artwork to functional object.\nThe post motspråk cuts plywood painting apart and rebuilds it as chair appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/motsprak-peytil-eitil-arbenz-thoren-painting-plywood-chair-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "LILAC / BUREAU",
+      "url": "https://www.archdaily.com/1185427/lilac-bureau",
+      "excerpt": "The starting point is two ‘family’ apartments: the first home owned by each of the two “brothers.sisters”, Lilac & Blue.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/6418/8d91/7901/8920/5a87/large_jpg/lilac-bureau_11.jpg?1789944865",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Google enlists five top laptop makers to bring its new vision to life: enter the Googlebook",
+      "url": "https://www.wallpaper.com/tech/google-enlists-five-top-laptop-makers-to-bring-its-new-vision-to-life-enter-the-googlebook",
+      "excerpt": "New premium hardware from Acer, Asus, Dell, HP and Lenovo bolsters the launch of the Googlebook, a laptop that wants to make a seamless connection with your smartphone, your AI agent and your workflow",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MoAKZXBLKiPbFjR6LdWdgi-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "SIITUA III | International Seminar on Research in Territory, Urbanism, and Architecture",
+      "url": "https://www.archdaily.com/1185472/siitua-iii-international-seminar-on-research-in-territory-urbanism-and-architecture",
+      "excerpt": "3rd International Seminar on Territory, Urbanism, and Architecture Research – SIITUA III\nRicardo Palma University and U.Llaqta Research Journal present the 3rd International Seminar on Territory, Urba",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/4fa2/c765/2000/0134/6e62/large_jpg/1_20260915_215923_0000.jpg?1790005162",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Kaohsiung Port Terminal / RUR Architecture DPC",
+      "url": "https://www.archdaily.com/1185397/kaohsiung-port-terminal-rur-architecture-dpc",
+      "excerpt": "The Kaohsiung Port Terminal project seizes the opportunity to seamlessly blend the uses of a cruise-ship terminal, office tower and public space into a polyfunctional work of civic infrastructure that",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/8575/066f/0900/0145/7718/large_jpg/Kaohsiung_Port_Terminal_RUR_4693.jpg?1789757197",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Get on the case with our guide to five of the best new pieces of hard-sided designer luggage",
+      "url": "https://www.wallpaper.com/travel/new-hard-sided-designer-luggage",
+      "excerpt": "Carl Friedrik, Delsey Paris, July, Mous and Nudient are the upscale luggage brands looking to get on board with you next time you fly",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSBiztrFCtQ2a7D9ZnN4w7-2560-80.jpg",
       "today": true
     },
     {
@@ -263,16 +375,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "With the Elroq, Epiq and Peaq, Škoda has completed a full hand of admirably sparky EVs",
-      "url": "https://www.wallpaper.com/transportation/skoda-elroq-epiq-peaq-reviews",
-      "excerpt": "Škoda continues to electrify itself, channelling its knack with cost-effective but clever design into three new SUVs, culminating in the new 7-seater flagship, the Škoda Peaq",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V4kNqdN74cKja2wkbmjgoT-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.21",
@@ -293,6 +395,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "Skovsporet 3D-Printed Student Housing / SAGA Space Architects",
+      "url": "https://www.archdaily.com/1185046/skovsporet-3d-printed-student-housing-saga-space-architects",
+      "excerpt": "Skovsporet is a 3D-printed student housing development in Holstebro, Denmark. The 36 apartments are distributed across six low-rise clusters, forming a small student village in which large-scale 3D pr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/f3f3/a74d/1200/0125/e238/large_jpg/Skovsporet_-_SAGA_Space_Architects_9.jpg?1789391924",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.21",
@@ -300,16 +412,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/21/trump-triumphal-arch-military-base-washington-dc/",
       "excerpt": "US president Donald Trump has announced that the planned 250-foot-high triumphal arch in Washington DC, designed by Atlanta-based Harrison Design, will now be a military base with drones and snipers. ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/05/trump-triumphal-arch-dc-cfa-designs_dezeen_2364_col_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Dancers pull clothes from Tate Modern's floor for Homme Plissé Issey Miyake show",
-      "url": "https://www.dezeen.com/2026/09/21/tate-modern-issey-miyake-performance/",
-      "excerpt": "Fashion brand Homme Plissé Issey Miyake has created a capsule collection for London's Tate Modern art gallery, which was informed by Henri Matisse's artwork The Snail and revealed as part of a dance p",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen_2364_col_sq2.jpg",
       "today": true
     },
     {
@@ -331,116 +433,6 @@ window.LUMINO_DATA = {
       "excerpt": "In 1961, when conceiving the Faculty of Architecture and Urbanism of the University of São Paulo, in São Paulo, Vilanova Artigas and Carlos Cascaldi established a paradigm that continues to resonate t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa3/4310/fc84/8901/8778/4571/large_jpg/_33.jpg?1789084439",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "patricia urquiola rewrites spa culture through effe’s bastion-inspired baluar collection",
-      "url": "https://www.designboom.com/design/patricia-urquiola-effe-baluar-collection/",
-      "excerpt": "crafted from heat-treated linden wood, baluar collection integrates advanced thermal engineering with refined interior architecture.\nThe post patricia urquiola rewrites spa culture through effe’s bast",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/effe_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Anir Guest House / Tamara Wibowo Architects",
-      "url": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
-      "excerpt": "Located in a dense residential area of Tembalang, Semarang, Anir Guesthouse rethinks the women-only boarding house typology through a precise response to site constraints, spatial efficiency, and atmo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/1aa8/8d91/7901/8920/52d1/large_jpg/anir-guest-house-tamara-wibowo-architects_28.jpg?1789663970",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Celebrate the Mid-Autumn Festival with Bun House’s mooncakes",
-      "url": "https://www.wallpaper.com/entertaining/food-drink-events/mid-autumn-festival-bun-house-mooncakes",
-      "excerpt": "Including lava custard and mango matcha, these mooncake flavours shouldn’t be missed",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wfyXHAVmK9fbLX5cwPy2dT-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "How Can Thin Brick Support High-Performance Buildings?",
-      "url": "https://www.archdaily.com/1184693/how-can-thin-brick-support-high-performance-buildings",
-      "excerpt": "Masonry is often perceived through its weight, depth, texture, and sense of permanence. Yet these physical qualities also have several implications for the performance of a building envelope. From the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/094a/a2b1/8101/8af4/8d90/large_jpg/how-can-thin-brick-support-high-performance-buildings_8.jpg?1788807529",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "On the International Day of Peace: Architecture Between Conflict and Coexistence",
-      "url": "https://www.archdaily.com/1185438/on-the-international-day-of-peace-architecture-between-conflict-and-coexistence",
-      "excerpt": "Every year on September 21, the United Nations marks the International Day of Peace, an observance that invites global reflection on the conditions necessary to cultivate non-violence, social stabilit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/0dba/d8c8/8201/89ac/da01/large_jpg/on-the-international-day-of-peace-architecture-between-conflict-and-coexistence_9.jpg?1789988292",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "overlapping concrete walls and columns blur inside and outside in okinawa house",
-      "url": "https://www.designboom.com/architecture/overlapping-concrete-walls-columns-inside-outside-okinawa-house-igarchitects/",
-      "excerpt": "igarchitects creates a house in okinawa where reinforced-concrete walls, columns, and a large roof overlap to form a continuous sequence of spaces.\nThe post overlapping concrete walls and columns blur",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/igarchitects-overlapping-spaces-house-okinawa-concrete-walls-columns-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Educational Facility URSIKS / Arhitekti Počivašek Petranovič",
-      "url": "https://www.archdaily.com/1185341/educational-facility-ursiks-arhitekti-pocivasek-petranovic",
-      "excerpt": "The building is part of the larger new prison complex in Ljubljana, for which the architects won the public competition in 2017. The complex is located in Dobrunje. The educational center is positione",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/7685/d8c8/826c/4437/e899/large_jpg/educational-facility-ursiks-arhitekti-pocivasek-petranovic_5.jpg?1789687447",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Bold cuts mean this season’s high jewellery is easy on the eye",
-      "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery-a-w-2026",
-      "excerpt": "Unusual cuts and bright stones bring a joyful modernity to this season's high jewellery",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yQ4YfEbKATWRHuUW4EzKMQ.gif",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Inside Null, a small house conceived as an experiment for climate-resilient architecture",
-      "url": "https://www.wallpaper.com/architecture/residential/null-small-house-hafsa-burt-usa",
-      "excerpt": "A project by architect Hafsa Burt, this raised, small house in Jackson, CA, proposes a model for climate resilience where architecture for vulnerable communities is needed – and beyond",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/biaQQDrxTQwwhA3RPJ9tjn-1261-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "Christopher Kane debuts his ‘modern, streamlined’ vision for Mulberry",
-      "url": "https://www.wallpaper.com/fashion-beauty/christopher-kane-mulberry-debut-show-review-london-fashion-week",
-      "excerpt": "‘For me, heritage is a foundation, not a limitation,’ said the Scottish designer as he embarked on a new chapter as creative director of Mulberry at London Fashion Week today (20 September 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3u6VdGPpB22ecUSECsAFgW-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.20",
-      "title": "local stone, brick and terracotta screens layer across three-story gathering space in indonesia",
-      "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
-      "excerpt": "locally sourced stone, terracotta brick, and perforated screens shape a tactile, climate responsive architecture.\nThe post local stone, brick and terracotta screens layer across three-story gathering ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ins-studio-Common-Days-local-stone-brick-terracotta-screens-gathering-space-indonesia-designboom-1200-1.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
@@ -503,16 +495,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -550,16 +532,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -619,16 +591,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
