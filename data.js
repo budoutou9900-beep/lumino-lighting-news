@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.22  10:48",
+  "fetchedAt": "2026.09.22  15:21",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ADF Web Magazine": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "anna（アンナ）": {
+    "tatemono.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "東京建物株式会社": {
+    "anna（アンナ）": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "デジカメ Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,15 +61,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -117,7 +117,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "jp.pronews.com",
+      "source": "pronews.com",
       "cat": "国内情報",
       "date": "2026.09.22",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -171,11 +171,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
       "date": "2026.09.22",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "tatemono.com",
+      "cat": "展示・アート",
+      "date": "2026.09.22",
+      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -185,15 +194,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.22",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "東京建物株式会社",
-      "cat": "展示・アート",
-      "date": "2026.09.22",
-      "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -216,20 +216,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デジカメ Watch",
-      "cat": "展示・アート",
-      "date": "2026.09.22",
-      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デジカメ Watch",
+      "cat": "展示・アート",
+      "date": "2026.09.22",
+      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -240,6 +240,86 @@ window.LUMINO_DATA = {
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Lunaz unveils two new Range Rover Classics that showcase the scope of its service",
+      "url": "https://www.wallpaper.com/transportation/lunaz-range-rover-classics-kermit-and-nevada",
+      "excerpt": "Lunaz specialises in breathing new life into established classics. The British company has revealed Kermit and Nevada, two different approaches to the classic original Range Rover",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dGpFvJCgsbmwKYdFci7tTM-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Inside the African Futures Institute’s new home in Accra, Ghana",
+      "url": "https://www.wallpaper.com/architecture/the-african-futures-institute-headquarters-accra-ghana",
+      "excerpt": "Housed in a former tile warehouse, the African Futures Institute’s HQ is a new platform for ideas, encounters and architectural vision",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FUxba7nzoe3ZUh7XQVkMXJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "MSCHF bends and twists LEXUS cars into surreal full-scale sculptures in new york",
+      "url": "https://www.designboom.com/design/mschf-bends-twists-lexus-cars-surreal-sculptures-new-york-motomorphosis/",
+      "excerpt": "two vehicles are stretched into impossible geometries, translating squash-and-stretch animation into full-scale automotive sculpture.\nThe post MSCHF bends and twists LEXUS cars into surreal full-scale",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mschf-lexus-twisted-circle-cars-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "The new 360 over-ear headphones from Beats offer bold colours and flexible style",
+      "url": "https://www.wallpaper.com/tech/the-new-360-over-ear-headphones-from-beats-offer-bold-colours-and-flexible-style",
+      "excerpt": "The headphone reinvented as ultra-flexible fitness wear, the new Beats 360 bring vivid colour and choice to your internal soundscape",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HisMSYa7cXNDMdA3Crwut8-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Dezeen Showroom New Releases newsletter includes oak modular kitchen",
+      "url": "https://www.dezeen.com/2026/09/22/dezeen-showroom-new-releases-summer-2026/",
+      "excerpt": "The summer 2026 installation of the Dezeen Showroom New Releases newsletter includes a modular kitchen crafted from oak. Subscribe to Dezeen Showroom New Releases now! From tall, wall-mounted cabinets",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/06/modular-kitchens-vermland-dezeen-showroom_dezeen_2364_hero_0.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Bakery Hoko serves up a sweet slice of Hong Kong in London, with a dusting of local brutalism",
+      "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review",
+      "excerpt": "The latest Hoko brings Hong Kong specials like milk tea and egg tarts to Bethnal Green, amid interiors that nod to post-war housing estates",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aJRvVpXvuEdg3F5Rt2eR5o-2560-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "What if Nature Comes First? The 2026 Oslo Architecture Triennale’s answer includes a sauna",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/2026-oslo-architecture-triennale-review",
+      "excerpt": "The 2026 Oslo Architecture Triennale opens and promotes nature as our top priority in the built environment – while inviting us for a sauna",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MyfaismAHzQNZr5gWxrnU5-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "optician’s shop turned art installation satirizes bio-tracking tech at uncanny shifts",
+      "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
+      "excerpt": "ellinor aurora aasgaard and zayne armstrong's installation opens a world of medieval-ish gyms, exploding smartwatches, and a trip through our tech-enabled lives. \nThe post optician’s shop turned art i",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
       "today": true
     },
     {
@@ -263,13 +343,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.22",
-      "title": "Everything you need to know about Milan Fashion Week",
-      "url": "https://www.wallpaper.com/fashion-beauty/milan-fashion-week-ss-2027-everything-you-need-to-know-schedule",
-      "excerpt": "Your crib sheet of what to expect from the S/S 2027 edition of Milan Fashion Week, which begins with Prada today (22 September 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DZFMPTj72GeqibC5bSqs2J-1920-80.jpg",
+      "title": "The Gallery House / Maden Architects",
+      "url": "https://www.archdaily.com/1183735/the-gallery-house-maden-architects",
+      "excerpt": "\"The Gallery\" is conceived as a contemporary residence where architecture, natural light, movement, and landscape come together to create a calm and refined living experience. The project is inspired ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/db74/4253/0500/01c9/fd52/large_jpg/00.jpg?1787288753",
       "today": true
     },
     {
@@ -283,13 +363,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "The Forum Installation 2027 Open Call for Site-Responsive Installations",
+      "url": "https://www.archdaily.com/1185584/the-forum-installation-2027-open-call-for-site-responsive-installations",
+      "excerpt": "The Forum at Fabrik invites students and emerging designers to propose a temporary spatial installation for a prominent public-facing site in the Gaslight District, one of Cambridge's emerging cultura",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/85ac/325b/9100/01c4/6043/large_jpg/Poster_0902-03.jpg?1790084606",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Call for Abstracts: 2027 Modern Conversation Conference on Education",
+      "url": "https://www.archdaily.com/1185579/call-for-abstracts-2027-modern-conversation-conference-on-education",
+      "excerpt": "Join our upcoming annual edition of “modern conversations”, where we examine spaces of pedagogy to analyze the shifting terrains of educational practices, institutions, and environments that influence",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/84f0/325b/9100/01c4/6003/large_jpg/MC_Education_Covers_02.jpg?1790084350",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.22",
-      "title": "Cork wall by GenCork",
+      "title": "CorkVector Panel by Gencork",
       "url": "https://www.dezeen.com/2026/09/22/cork-wall-gencork-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Portuguese brand GenCork combines one of the world's most sustainable natural materials with customisable algorithmically generated design, creating an insulating wall cladding that m",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/cork-wall-gencork-design_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Open Call: Urban design competition for the Kłodnica Boulevards in Gliwice",
+      "url": "https://www.archdaily.com/1185568/open-call-urban-design-competition-for-the-klodnica-boulevards-in-gliwice",
+      "excerpt": "The City of Gliwice invites entries for a one-stage urban planning, landscape, and architectural design competition to develop a development concept for the Kłodnica Boulevards in Gliwice. The goal of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/7fc6/325b/9100/01c4/5f96/large_jpg/GRFIKA_BULWARY_K_ODNICY_2.jpg?1790083047",
       "today": true
     },
     {
@@ -303,6 +413,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Oris Day",
+      "url": "https://www.archdaily.com/1185564/oris-day",
+      "excerpt": "The Oris Day architectural symposium takes place on Sunday, 8 November 2026, in Zagreb, at the Mozaik Event Centre. The central programme will bring together this year’s Pritzker Prize laureate Smilja",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/7f27/325b/9100/01c4/5f75/large_jpg/OD_NEWSLETTER.jpg?1790082940",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -310,46 +430,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway/",
       "excerpt": "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo\nThe post europe’s largest carbon capture facility sends CO₂ ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway-designboom-9.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Grimshaw unveils trio of Auckland stations informed by Māori narratives",
-      "url": "https://www.dezeen.com/2026/09/22/grimshaw-city-rail-link-stations-auckland/",
-      "excerpt": "Architecture studio Grimshaw has designed three stations for City Rail Link in Auckland, New Zealand, guided by Māori cultural values that aim to connect the buildings to their sites. The three city-c",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/grimshaw-city-rail-link-stations-auckland-new-zealand_dezeen_2364_col_hero.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The best shows of London Fashion Week S/S 2027",
-      "url": "https://www.wallpaper.com/fashion-beauty/the-best-shows-london-fashion-week-ss-2027-review-round-up",
-      "excerpt": "The latest edition of London Fashion Week, which saw the return of Mulberry and McQueen, concluded yesterday (21 September 2026). Here, Wallpaper* picks the best of the week",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9Pbp3qwDNthJuL5Yro4ijL-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Apple Music Hall is a new venue designed to inject more power into the capital’s music scene",
-      "url": "https://www.wallpaper.com/art/apple-music-hall-is-a-new-venue-designed-to-inject-more-power-into-the-capitals-music-scene",
-      "excerpt": "Set within Battersea Power Station, the newly revealed Apple Music Hall is a high-tech performance hall for artists of all tiers. Wallpaper* took a hard-hat tour ahead of the official opening",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rpwY7dKp254AnjcwgigKUB-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Pat McGrath partners with Pandora for a beauty-inspired jewellery collection",
-      "url": "https://www.wallpaper.com/watches-jewellery/pat-mcgrath-partners-with-pandora-for-a-beauty-inspired-jewellery-collection",
-      "excerpt": "In Pat McGrath x Pandora, jewellery and beauty collide across 17 charms and rings",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DKHLEh6huap6BXBYPxZgRD.gif",
       "today": true
     },
     {
@@ -361,86 +441,6 @@ window.LUMINO_DATA = {
       "excerpt": "brick forms the facade and adds a material connection to local architecture, while persian red brings a vivid accent to the villa’s recessed openings.\nThe post persian-red voids carve into villa’s whi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nima-mirza-mohamadi-corner-villa-iran-persian-red-brick-white-designboom-1200-1.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "MAD Architects' Lucas Museum of Narrative Art Opens to the Public in Los Angeles",
-      "url": "https://www.archdaily.com/1184508/first-look-at-the-completed-lucas-museum-of-narrative-art-opening-september-22-2026",
-      "excerpt": "The Lucas Museum of Narrative Art officially opens its doors to the public today, September 22, 2026. The museum's sculptural, curved silhouette was designed by Ma Yansong of MAD Architects, with land",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/bc4a/cc78/e301/8820/dfb6/large_jpg/lucas-museum-of-narrative-art_19.jpg?1788460156",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Built to Exclude: Colonial Violence and Urban Ecologies in Africa",
-      "url": "https://www.archdaily.com/1184541/built-to-exclude-colonial-violence-and-urban-ecologies-in-africa",
-      "excerpt": "Colonial violence in African cities bled through the political dimensions into the spatial realm. It is infused into street grids, land tenure systems, drainage infrastructure and residential zones th",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/37bb/069c/1b01/89fb/760d/large_jpg/the-angel-of-history-in-african-cities-how-violence-shapes-urban-ecologies_1.jpg?1789409247",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The Kemilau Ubud / PSA Studio",
-      "url": "https://www.archdaily.com/1185297/the-kemilau-ubud-psa-studio",
-      "excerpt": "Kemilau Ubud is designed to recreate the sensation of exploring a tropical forest through dense landscapes and flowing rivers, represented by an organically designed swimming pool that winds through t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/e571/d8c8/8201/89ac/cf10/large_jpg/the-kemilau-ubud-psa-studio_21.jpg?1789650318",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "SOBO wraps paris listening restaurant in oak, vintage furniture, and acoustic panels",
-      "url": "https://www.designboom.com/design/sobo-paris-listening-restaurant-oak-vintage-furniture-acoustic-panels-studio-louis-morgan/",
-      "excerpt": "a paris restaurant turns into an intimate plant-based dining and listening space where interior architecture, acoustics, bespoke furniture and music come together.\nThe post SOBO wraps paris listening ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/sobo-paris-listening-restaurant-oak-vintage-furniture-acoustic-panels-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The Sayla Hotel / EKAR Architects",
-      "url": "https://www.archdaily.com/1185238/the-sayla-hotel-ekar-architects",
-      "excerpt": "\"Nimmana Haeminda\" is a community in which a small guest house of \"Baan Sayla\" is located. The community used to combine distinct characters of local residents, namely, merchants, teachers, and a mix ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/12cf/8d91/7901/8920/5c52/large_jpg/the-sayla-hotel-ekar-architects_21.jpg?1789989594",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Steel Architectural Awards ASEAN 2026 Announces 12 Finalists Advancing Regional Design Excellence",
-      "url": "https://www.archdaily.com/1185350/steel-architectural-awards-asean-2026-announces-12-finalists-advancing-regional-design-excellence",
-      "excerpt": "The Steel Architectural Awards ASEAN 2026, presented by BlueScope, has announced the 12 finalist projects selected to advance to the ASEAN-level appraisal. Representing outstanding achievements in arc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/dfcc/8d91/7901/8920/5539/large_jpg/steel-architectural-awards-asean-2026-announces-12-finalists-advancing-regional-design-excellence_9.jpg?1789714398",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "blue spiral staircase anchors ERRE’s harbor-side workspace in valencia",
-      "url": "https://www.designboom.com/architecture/blue-spiral-staircase-erre-harbor-side-workspace-valencia-marina-de-empresas/",
-      "excerpt": "erre completes the marina de empresas campus with a third waterfront building connecting talent, education and entrepreneurship.\nThe post blue spiral staircase anchors ERRE’s harbor-side workspace in ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/marina-de-empresas-valencia-workspace-erre-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Victoria Yakusha designs a minimalist jewellery store that feels like entering a velvety box",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/victoria-yakusha-guzema-jewellery-store-nyc",
-      "excerpt": "The Ukrainian architect and designer created a soft-yet-sculptural New York boutique for Ukrianian brand Guzema: ‘What surrounds an object is as important as the object itself'",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Xok5xJuQEcQkz5YgirBjW6-2000-80.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
