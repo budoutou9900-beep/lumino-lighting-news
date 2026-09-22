@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.22  05:45",
+  "fetchedAt": "2026.09.22  10:48",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ozmall.co.jp": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -61,19 +61,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -117,7 +117,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "cat": "国内情報",
       "date": "2026.09.22",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -207,7 +207,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -243,6 +243,156 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Tato Architects completes charred timber-clad home in Japan",
+      "url": "https://www.dezeen.com/2026/09/22/tato-architects-house-in-mibu/",
+      "excerpt": "Charred-timber cladding is contrasted with warm plywood-lined interiors at House in Mibu, a home in Tochigi Prefecture, Japan, completed by local studio Tato Architects. The 108-square-metre home was ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Dezeen Awards 2026 interiors shortlist revealed",
+      "url": "https://www.dezeen.com/2026/09/22/dezeen-awards-2026-interiors-shortlist/",
+      "excerpt": "Dezeen has announced the interiors shortlist for this year's Dezeen Awards, which includes projects by Isern Serra, Snøhetta and YSG. The 112 shortlisted projects, which are in the running for awards ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-interiors-shortlist_dezeen_2364_col_3.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Everything you need to know about Milan Fashion Week",
+      "url": "https://www.wallpaper.com/fashion-beauty/milan-fashion-week-ss-2027-everything-you-need-to-know-schedule",
+      "excerpt": "Your crib sheet of what to expect from the S/S 2027 edition of Milan Fashion Week, which begins with Prada today (22 September 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DZFMPTj72GeqibC5bSqs2J-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "With Limitations apartment reveals unvarnished glimpse into life as a London designer",
+      "url": "https://www.dezeen.com/2026/09/22/with-limitations-aram-design-everything/",
+      "excerpt": "A lack of money, materials or equipment shaped every object in this mock apartment, which has taken over the basement of London shop Aram as part of an exhibition by guerrilla design collective Design",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/b-aram-design-everything-with-limitations_dezeen_2364_col_3.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Cork wall by GenCork",
+      "url": "https://www.dezeen.com/2026/09/22/cork-wall-gencork-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Portuguese brand GenCork combines one of the world's most sustainable natural materials with customisable algorithmically generated design, creating an insulating wall cladding that m",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/cork-wall-gencork-design_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "gaetano pesce foundation launches to preserve and continue the architect’s practice",
+      "url": "https://www.designboom.com/architecture/gaetano-pesce-foundation-architect-practice/",
+      "excerpt": "the new nonprofit brings together pesce’s archive, scholarship, exhibitions, and authorized editions under a board of longtime collaborators and colleagues.\nThe post gaetano pesce foundation launches ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gaetano-pesce-foundation-architect-practice-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "europe’s largest carbon capture facility sends CO₂ from the netherlands to norway",
+      "url": "https://www.designboom.com/technology/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway/",
+      "excerpt": "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo\nThe post europe’s largest carbon capture facility sends CO₂ ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway-designboom-9.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Grimshaw unveils trio of Auckland stations informed by Māori narratives",
+      "url": "https://www.dezeen.com/2026/09/22/grimshaw-city-rail-link-stations-auckland/",
+      "excerpt": "Architecture studio Grimshaw has designed three stations for City Rail Link in Auckland, New Zealand, guided by Māori cultural values that aim to connect the buildings to their sites. The three city-c",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/grimshaw-city-rail-link-stations-auckland-new-zealand_dezeen_2364_col_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "The best shows of London Fashion Week S/S 2027",
+      "url": "https://www.wallpaper.com/fashion-beauty/the-best-shows-london-fashion-week-ss-2027-review-round-up",
+      "excerpt": "The latest edition of London Fashion Week, which saw the return of Mulberry and McQueen, concluded yesterday (21 September 2026). Here, Wallpaper* picks the best of the week",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9Pbp3qwDNthJuL5Yro4ijL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Apple Music Hall is a new venue designed to inject more power into the capital’s music scene",
+      "url": "https://www.wallpaper.com/art/apple-music-hall-is-a-new-venue-designed-to-inject-more-power-into-the-capitals-music-scene",
+      "excerpt": "Set within Battersea Power Station, the newly revealed Apple Music Hall is a high-tech performance hall for artists of all tiers. Wallpaper* took a hard-hat tour ahead of the official opening",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rpwY7dKp254AnjcwgigKUB-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Pat McGrath partners with Pandora for a beauty-inspired jewellery collection",
+      "url": "https://www.wallpaper.com/watches-jewellery/pat-mcgrath-partners-with-pandora-for-a-beauty-inspired-jewellery-collection",
+      "excerpt": "In Pat McGrath x Pandora, jewellery and beauty collide across 17 charms and rings",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DKHLEh6huap6BXBYPxZgRD.gif",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "persian-red voids carve into villa’s white brick volume in northern iran",
+      "url": "https://www.designboom.com/architecture/persian-red-voids-villa-white-brick-volume-northern-iran-nima-mirza-mohamadi/",
+      "excerpt": "brick forms the facade and adds a material connection to local architecture, while persian red brings a vivid accent to the villa’s recessed openings.\nThe post persian-red voids carve into villa’s whi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nima-mirza-mohamadi-corner-villa-iran-persian-red-brick-white-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "MAD Architects' Lucas Museum of Narrative Art Opens to the Public in Los Angeles",
+      "url": "https://www.archdaily.com/1184508/first-look-at-the-completed-lucas-museum-of-narrative-art-opening-september-22-2026",
+      "excerpt": "The Lucas Museum of Narrative Art officially opens its doors to the public today, September 22, 2026. The museum's sculptural, curved silhouette was designed by Ma Yansong of MAD Architects, with land",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a99/bc4a/cc78/e301/8820/dfb6/large_jpg/lucas-museum-of-narrative-art_19.jpg?1788460156",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Built to Exclude: Colonial Violence and Urban Ecologies in Africa",
+      "url": "https://www.archdaily.com/1184541/built-to-exclude-colonial-violence-and-urban-ecologies-in-africa",
+      "excerpt": "Colonial violence in African cities bled through the political dimensions into the spatial realm. It is infused into street grids, land tenure systems, drainage infrastructure and residential zones th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/37bb/069c/1b01/89fb/760d/large_jpg/the-angel-of-history-in-african-cities-how-violence-shapes-urban-ecologies_1.jpg?1789409247",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "The Kemilau Ubud / PSA Studio",
+      "url": "https://www.archdaily.com/1185297/the-kemilau-ubud-psa-studio",
+      "excerpt": "Kemilau Ubud is designed to recreate the sensation of exploring a tropical forest through dense landscapes and flowing rivers, represented by an organically designed swimming pool that winds through t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aab/e571/d8c8/8201/89ac/cf10/large_jpg/the-kemilau-ubud-psa-studio_21.jpg?1789650318",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -256,10 +406,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.22",
-      "title": "Haikou Workers’ Activity Center (Workers’ Cultural Palace) / CADG",
-      "url": "https://www.archdaily.com/1185425/haikou-workers-activity-center-workers-cultural-palace-cadg",
-      "excerpt": "Located on Hainan Island, Haikou is characterized by a hot and humid coastal climate. Designed by the Green Architecture Design & Research Institute of CADG, the newly completed Haikou Workers' Activi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/8e6b/8d91/7901/8920/5b09/large_jpg/haikou-workers-activity-center-workers-cultural-palace-cadg_6.jpg?1789955743",
+      "title": "The Sayla Hotel / EKAR Architects",
+      "url": "https://www.archdaily.com/1185238/the-sayla-hotel-ekar-architects",
+      "excerpt": "\"Nimmana Haeminda\" is a community in which a small guest house of \"Baan Sayla\" is located. The community used to combine distinct characters of local residents, namely, merchants, teachers, and a mix ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/12cf/8d91/7901/8920/5c52/large_jpg/the-sayla-hotel-ekar-architects_21.jpg?1789989594",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Steel Architectural Awards ASEAN 2026 Announces 12 Finalists Advancing Regional Design Excellence",
+      "url": "https://www.archdaily.com/1185350/steel-architectural-awards-asean-2026-announces-12-finalists-advancing-regional-design-excellence",
+      "excerpt": "The Steel Architectural Awards ASEAN 2026, presented by BlueScope, has announced the 12 finalist projects selected to advance to the ASEAN-level appraisal. Representing outstanding achievements in arc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/dfcc/8d91/7901/8920/5539/large_jpg/steel-architectural-awards-asean-2026-announces-12-finalists-advancing-regional-design-excellence_9.jpg?1789714398",
       "today": true
     },
     {
@@ -273,36 +433,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "‘we are probably looking for the tension’: formafantasma on designing the exhibition space",
-      "url": "https://www.designboom.com/design/formafantasma-exhibition-design-interview/",
-      "excerpt": "from the white cube to cardboard partitions, the design studio designers examine how architecture shapes what we see, how we move, and how artworks relate to one another.\nThe post ‘we are probably loo",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/formafantasma-exhibition-design-interview-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "MOS creates basket-like aluminium pavilion at Art Omi in New York",
-      "url": "https://www.dezeen.com/2026/09/21/mos-art-omi-aluminium-pavilion/",
-      "excerpt": "US studio MOS Architects has used aluminium shingles to cover an egg-shaped pavilion at Art Omi in Upstate New York, creating a place to rest that draws stylistically on pre-modern basketry and mid-ce",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/mos-art-omi-pavilion-upstate_dezeen_2364_sq.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "La Haya House / PH TIPO CASA",
-      "url": "https://www.archdaily.com/1185519/la-haya-house-ph-tipo-casa",
-      "excerpt": "Parque Chas presents us with multiple residential typologies. This project sits on an almost square lot, a renovation originally carried out in the 2000s on a traditional \"casa cajón\" (box house).",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8679/c765/2000/0134/7162/large_jpg/Copia_de_08_La_Haya__PH_Tipo_Casa_-___Federico_Cairoli.jpg?1790019306",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.21",
@@ -310,136 +440,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/victoria-yakusha-guzema-jewellery-store-nyc",
       "excerpt": "The Ukrainian architect and designer created a soft-yet-sculptural New York boutique for Ukrianian brand Guzema: ‘What surrounds an object is as important as the object itself'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Xok5xJuQEcQkz5YgirBjW6-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Casa Muxarabi / mf+arquitetos",
-      "url": "https://www.archdaily.com/1185496/casa-muxarabi-mf-plus-arquitetos",
-      "excerpt": "Built under the vast sky of the Triângulo Mineiro region, the Muxarabi House presents itself as a horizontal gesture that embraces the landscape. From afar, its silhouette suggests a precise line draw",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/6cb3/3c90/2a01/8a12/4bb2/large_jpg/casa-muxarabi-mf-plus-arquitetos_42.jpg?1790012746",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Inside the design of New York City's upcoming borough-based jails",
-      "url": "https://www.dezeen.com/2026/09/21/design-new-york-city-borough-based-jail-program/",
-      "excerpt": "New York City plans to relocate inmates from Rikers Island into four jails built from the ground up in Queens, Brooklyn, Manhattan and the Bronx. Here, Dezeen looks at the architecture of each project",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/new-york-city-borough-based-jail-system_dezeen_2364_sq-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "The Barbican’s Sculpture Court to be revived as a public space by 2030",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/barbican-sculpture-court-revived-by-2030-london-uk",
-      "excerpt": "The historic brutalist sculpture court will be revitalised as part of the Barbican’s wider Renewal programme, ahead of the Centre’s 50th anniversary in 2032",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XDbNar5vgDjFbVc3J9ukwA-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "nearly 1,000 wooden chimes turn le bruit du bois into an alpine instrument",
-      "url": "https://www.designboom.com/architecture/1000-wooden-chimes-bruit-bois-alpine-instrument-sound-music-festival-cabanes-france/",
-      "excerpt": "for le festival des cabanes, a playable timber wall carries changing wooden tones through the mountains above lake annecy.\nThe post nearly 1,000 wooden chimes turn le bruit du bois into an alpine inst",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bruit-bois-sound-wood-france-aunave-peyrot-steenhaut-loviton-festival-cabanes-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "prada galleria unfolds across eight floors of fashion, art, history and pastry in milan",
-      "url": "https://www.designboom.com/art/prada-galleria-eight-floors-fashion-art-history-pastry-milan/",
-      "excerpt": "prada galleria brings retail, pradasphere, marchesi 1824 and fondazione prada together inside milan’s galleria vittorio emanuele ii.\nThe post prada galleria unfolds across eight floors of fashion, art",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/prada-galleria-eight-floors-fashion-art-history-pastry-milan-designboom-8.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Cieno House / TAC Taller Alberto Calleja",
-      "url": "https://www.archdaily.com/1185476/cieno-house-tac-taller-alberto-calleja",
-      "excerpt": "Casa Cieno is located on a 1,500 m² lot in the El Vigía sector of Puerto Escondido, on the coast of Oaxaca. The project was conceived under the premise of blending into the site to become part of the ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/567e/066f/0900/0145/7657/large_jpg/01_-_CC.jpg?1789744818",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "'Brutalist Asia' is a richly illustrated journey into concrete’s overlooked influence on the east",
-      "url": "https://www.wallpaper.com/architecture/brutalist-asia-book",
-      "excerpt": "Blue Crow Media’s new monograph, 'Brutalist Asia', turns its practised eye for brutalist beauty on the continent's often-overlooked architecture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fgrHTitzpGyjZGJZRUJRvL-2434-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "LILAC / BUREAU",
-      "url": "https://www.archdaily.com/1185427/lilac-bureau",
-      "excerpt": "The starting point is two ‘family’ apartments: the first home owned by each of the two “brothers.sisters”, Lilac & Blue.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/6418/8d91/7901/8920/5a87/large_jpg/lilac-bureau_11.jpg?1789944865",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Google enlists five top laptop makers to bring its new vision to life: enter the Googlebook",
-      "url": "https://www.wallpaper.com/tech/google-enlists-five-top-laptop-makers-to-bring-its-new-vision-to-life-enter-the-googlebook",
-      "excerpt": "New premium hardware from Acer, Asus, Dell, HP and Lenovo bolsters the launch of the Googlebook, a laptop that wants to make a seamless connection with your smartphone, your AI agent and your workflow",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MoAKZXBLKiPbFjR6LdWdgi-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Get on the case with our guide to five of the best new pieces of hard-sided designer luggage",
-      "url": "https://www.wallpaper.com/travel/new-hard-sided-designer-luggage",
-      "excerpt": "Carl Friedrik, Delsey Paris, July, Mous and Nudient are the upscale luggage brands looking to get on board with you next time you fly",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSBiztrFCtQ2a7D9ZnN4w7-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "RX Architects expands Sussex home with extension \"immersed in the garden\"",
-      "url": "https://www.dezeen.com/2026/09/21/rx-architects-druim-extension/",
-      "excerpt": "UK studio RX Architects has returned to a house it previously completed in Sussex to add an extension, designed to blend in with the existing timber-clad form. The original home, named Druim, was comp",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/druim-extension-rx-architects-architecture-residential-sussex_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "UAL turns Atterbury Flat guest apartment into riotous student design archive",
-      "url": "https://www.dezeen.com/2026/09/21/ual-atterbury-flat-student-design-archive/",
-      "excerpt": "The University of the Arts London has transformed a drab guest quarters at one of its colleges into a colourful showcase that lets visitors eat, sleep and bathe in student and graduate design. The two",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/atterbury-flat-ual-london-interior-design_dezeen_1704_sq.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "Dezeen Awards 2026 architecture shortlist announced",
-      "url": "https://www.dezeen.com/2026/09/21/dezeen-awards-2026-architecture-shortlist/",
-      "excerpt": "Dezeen has announced the architecture shortlist for this year's Dezeen Awards, which includes buildings by Dorte Mandrup, Farshid Moussavi Architects and Herzog & de Meuron. The 152 shortlisted projec",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-architecture-shortlist_dezeen_2364_col_9.jpg",
       "today": false
     },
     {
