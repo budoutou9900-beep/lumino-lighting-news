@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.22  19:29",
+  "fetchedAt": "2026.09.22  22:38",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "prtimes.jp": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,77 +33,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "東京建物株式会社": {
+    "アメーバブログ": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "anna（アンナ）": {
+    "東京建物株式会社": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ファッションプレス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "オズモール": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "デジカメ Watch": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "Google ニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ArchDaily": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "岩崎電気": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -153,7 +149,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -162,7 +158,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.22",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -180,6 +176,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.22",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
       "date": "2026.09.22",
@@ -189,10 +194,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "anna（アンナ）",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.22",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
@@ -225,21 +230,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デジカメ Watch",
-      "cat": "展示・アート",
-      "date": "2026.09.22",
-      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "This secret Brooklyn archive contains a trove of design rarities. Here are 10 exceptional finds",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/this-secret-brooklyn-archive-contains-a-trove-of-design-rarities-here-are-10-exceptional-finds",
+      "excerpt": "Veteran design gallery R & Company just opened Building 86 in the Brooklyn Navy Yard. Here, co-founders Evan Snyderman and Zesty Meyers share their favourite discoveries",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WruWsn8LRmsePyrZAtPXEe-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "new zealand’s world of wearableart designs art around the act of being watched",
+      "url": "https://www.designboom.com/design/new-zealand-world-wearableart-wow-glo-wellington/",
+      "excerpt": "garments become moving stage objects as distance and spectators begin to shape their form.\nThe post new zealand’s world of wearableart designs art around the act of being watched appeared first on des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/world-wearableart-new-zealand-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "apple opens 600-capacity music venue inside london’s battersea power station",
+      "url": "https://www.designboom.com/architecture/apple-music-venue-london-battersea-power-station/",
+      "excerpt": "the london space lets artists play a concert, record it, mix it and turn it into a global broadcast without leaving the building.\nThe post apple opens 600-capacity music venue inside london’s batterse",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/apple-music-venue-london-battersea-power-station-designboom-4.jpg",
       "today": true
     },
     {
@@ -323,13 +349,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.22",
-      "title": "Inside the African Futures Institute’s new home in Accra, Ghana",
-      "url": "https://www.wallpaper.com/architecture/the-african-futures-institute-headquarters-accra-ghana",
-      "excerpt": "Housed in a former tile warehouse, the African Futures Institute’s HQ is a new platform for ideas, encounters and architectural vision",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FUxba7nzoe3ZUh7XQVkMXJ-2560-80.jpg",
+      "title": "Casa Amona / COLAR Colectivo de Arquitectura",
+      "url": "https://www.archdaily.com/1185522/casa-amona-colar-colectivo-de-arquitectura",
+      "excerpt": "The project is located on an urban lot in San Cristóbal de las Casas, adjacent to one of the city's main green areas. The house maintains a restrained relationship with the street, focusing its daily ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/61a2/8d91/7901/8920/5818/large_jpg/casa-amona-colar-colectivo-de-arquitectura_28.jpg?1789747642",
       "today": true
     },
     {
@@ -350,6 +376,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/dezeen-showroom-new-releases-summer-2026/",
       "excerpt": "The summer 2026 installation of the Dezeen Showroom New Releases newsletter includes a modular kitchen crafted from oak. Subscribe to Dezeen Showroom New Releases now! From tall, wall-mounted cabinets",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/06/modular-kitchens-vermland-dezeen-showroom_dezeen_2364_hero_0.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "CASA ÂNCORA / Tiago Sousa",
+      "url": "https://www.archdaily.com/1185423/casa-ancora-tiago-sousa",
+      "excerpt": "A remote, rugged and serene place, marked by the contrast between heat and cold.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/606e/8d91/7901/8920/5a6c/large_jpg/casa-ancora-tiago-sousa_31.jpg?1789943980",
       "today": true
     },
     {
@@ -400,46 +436,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185584/the-forum-installation-2027-open-call-for-site-responsive-installations",
       "excerpt": "The Forum at Fabrik invites students and emerging designers to propose a temporary spatial installation for a prominent public-facing site in the Gaslight District, one of Cambridge's emerging cultura",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/85ac/325b/9100/01c4/6043/large_jpg/Poster_0902-03.jpg?1790084606",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Call for Abstracts: 2027 Modern Conversation Conference on Education",
-      "url": "https://www.archdaily.com/1185579/call-for-abstracts-2027-modern-conversation-conference-on-education",
-      "excerpt": "Join our upcoming annual edition of “modern conversations”, where we examine spaces of pedagogy to analyze the shifting terrains of educational practices, institutions, and environments that influence",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/84f0/325b/9100/01c4/6003/large_jpg/MC_Education_Covers_02.jpg?1790084350",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Open Call: Urban design competition for the Kłodnica Boulevards in Gliwice",
-      "url": "https://www.archdaily.com/1185568/open-call-urban-design-competition-for-the-klodnica-boulevards-in-gliwice",
-      "excerpt": "The City of Gliwice invites entries for a one-stage urban planning, landscape, and architectural design competition to develop a development concept for the Kłodnica Boulevards in Gliwice. The goal of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/7fc6/325b/9100/01c4/5f96/large_jpg/GRFIKA_BULWARY_K_ODNICY_2.jpg?1790083047",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "gaetano pesce foundation launches to preserve and continue the architect’s practice",
-      "url": "https://www.designboom.com/architecture/gaetano-pesce-foundation-architect-practice/",
-      "excerpt": "the new nonprofit brings together pesce’s archive, scholarship, exhibitions, and authorized editions under a board of longtime collaborators and colleagues.\nThe post gaetano pesce foundation launches ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/gaetano-pesce-foundation-architect-practice-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "europe’s largest carbon capture facility sends CO₂ from the netherlands to norway",
-      "url": "https://www.designboom.com/technology/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway/",
-      "excerpt": "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo\nThe post europe’s largest carbon capture facility sends CO₂ ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway-designboom-9.jpg",
       "today": true
     },
     {
