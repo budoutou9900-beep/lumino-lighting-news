@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.22  15:21",
+  "fetchedAt": "2026.09.22  19:29",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PR TIMES": {
+    "prtimes.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "adfwebmagazine.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "tatemono.com": {
+    "東京建物株式会社": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -61,15 +61,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -153,7 +153,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -171,7 +171,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
+      "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
       "date": "2026.09.22",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -180,7 +180,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "tatemono.com",
+      "source": "東京建物株式会社",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
@@ -207,20 +207,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.22",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.22",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -240,6 +240,76 @@ window.LUMINO_DATA = {
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Cattle armchair by Design By Them among 13 new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/22/cattle-armchair-design-seating-furniture-furnishings-surfaces-tiles-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a chair informed by rustic agricultural construction common in rural Australia is among new products featured on Dezeen Showroom. Cattle armchair by Gibson Karlo for Design By Them Ru",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/cattle-chair-gibson-karlo-design-by-them_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "The quirky architecture of Burning Man 2026",
+      "url": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
+      "excerpt": "Photographer Gurpreet Chawla has captured this year's architectural installations at the annual Burning Man festival in Nevada, from a broken Eiffel Tower to a chapel made from nylon panels. Teams of ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/burning-man-2026-gurpreet-chawla_dezeen_2364_sq.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "At Milan Fashion Week, Prada hones in on the skirt",
+      "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
+      "excerpt": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Explore Buenos Aires modernism, and tour its early architecture examples",
+      "url": "https://www.wallpaper.com/architecture/buenos-aires-modernism",
+      "excerpt": "Buenos Aires modernism emerged in the 1930s and 1940s, soon growing to define the city – and some of the movement’s early examples still shine today",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gCJFS9ULodxcWs5fcKk8UJ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "cast aluminum turns heart forms into sculptural furniture in LOVE collection",
+      "url": "https://www.designboom.com/design/cast-aluminum-heart-forms-sculptural-furniture-love-collection-sami-savatli/",
+      "excerpt": "LOVE series sits between collectible furniture and contemporary sculpture.\nThe post cast aluminum turns heart forms into sculptural furniture in LOVE collection appeared first on designboom | architec",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/sami-savatli-love-collection-love-chair-side-table-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Behind the scenes of Sofia Coppola’s ‘Marie Antoinette’, 20 years on",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/making-marie-antoinette-sofia-coppola",
+      "excerpt": "A new book and a major new exhibition at the Petit Trianon inside the Palace of Versailles mark 20 years of Sofia Coppola's film ‘Marie Antoinette’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zn6XQnFSVsASnCWuG9bfnh-1575-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Parsons researchers warn of plastic toxicity in American manufactured homes",
+      "url": "https://www.dezeen.com/2026/09/22/parsons-plastic-toxicity-american-manufactured-homes/",
+      "excerpt": "Researchers at Parsons School of Design's Healthy Material Lab have released a study that raises concerns about the \"many substances harmful to human health\" in a typical prefabricated American home. ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/manufactured-homes-sq.jpg",
       "today": true
     },
     {
@@ -273,16 +343,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The new 360 over-ear headphones from Beats offer bold colours and flexible style",
-      "url": "https://www.wallpaper.com/tech/the-new-360-over-ear-headphones-from-beats-offer-bold-colours-and-flexible-style",
-      "excerpt": "The headphone reinvented as ultra-flexible fitness wear, the new Beats 360 bring vivid colour and choice to your internal soundscape",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HisMSYa7cXNDMdA3Crwut8-1920-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -293,23 +353,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.22",
-      "title": "Bakery Hoko serves up a sweet slice of Hong Kong in London, with a dusting of local brutalism",
-      "url": "https://www.wallpaper.com/travel/bakery-hoko-london-cafe-review",
-      "excerpt": "The latest Hoko brings Hong Kong specials like milk tea and egg tarts to Bethnal Green, amid interiors that nod to post-war housing estates",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/aJRvVpXvuEdg3F5Rt2eR5o-2560-80.png",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "What if Nature Comes First? The 2026 Oslo Architecture Triennale’s answer includes a sauna",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/2026-oslo-architecture-triennale-review",
-      "excerpt": "The 2026 Oslo Architecture Triennale opens and promotes nature as our top priority in the built environment – while inviting us for a sauna",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/MyfaismAHzQNZr5gWxrnU5-2560-80.jpg",
+      "title": "Ellen Browning Building / Hacker Architects",
+      "url": "https://www.archdaily.com/1034319/ellen-browning-building-hacker-architects",
+      "excerpt": "The genesis for the mixed-use residential Ellen Browning Building arose when a group of close friends considered how they could preserve their relationships during their last years. Co-housing, with i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68d0/412d/21de/2d62/a98c/feba/large_jpg/ellen-browning-building-hacker-architects_1.jpg?1758478667",
       "today": true
     },
     {
@@ -333,16 +383,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Dezeen Awards 2026 interiors shortlist revealed",
-      "url": "https://www.dezeen.com/2026/09/22/dezeen-awards-2026-interiors-shortlist/",
-      "excerpt": "Dezeen has announced the interiors shortlist for this year's Dezeen Awards, which includes projects by Isern Serra, Snøhetta and YSG. The 112 shortlisted projects, which are in the running for awards ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-interiors-shortlist_dezeen_2364_col_3.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -350,16 +390,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1183735/the-gallery-house-maden-architects",
       "excerpt": "\"The Gallery\" is conceived as a contemporary residence where architecture, natural light, movement, and landscape come together to create a calm and refined living experience. The project is inspired ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/db74/4253/0500/01c9/fd52/large_jpg/00.jpg?1787288753",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "With Limitations apartment reveals unvarnished glimpse into life as a London designer",
-      "url": "https://www.dezeen.com/2026/09/22/with-limitations-aram-design-everything/",
-      "excerpt": "A lack of money, materials or equipment shaped every object in this mock apartment, which has taken over the basement of London shop Aram as part of an exhibition by guerrilla design collective Design",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/b-aram-design-everything-with-limitations_dezeen_2364_col_3.jpg",
       "today": true
     },
     {
@@ -383,16 +413,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "CorkVector Panel by Gencork",
-      "url": "https://www.dezeen.com/2026/09/22/cork-wall-gencork-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Portuguese brand GenCork combines one of the world's most sustainable natural materials with customisable algorithmically generated design, creating an insulating wall cladding that m",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/cork-wall-gencork-design_dezeen_2364_hero.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -413,16 +433,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Oris Day",
-      "url": "https://www.archdaily.com/1185564/oris-day",
-      "excerpt": "The Oris Day architectural symposium takes place on Sunday, 8 November 2026, in Zagreb, at the Mozaik Event Centre. The central programme will bring together this year’s Pritzker Prize laureate Smilja",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/7f27/325b/9100/01c4/5f75/large_jpg/OD_NEWSLETTER.jpg?1790082940",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -430,16 +440,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway/",
       "excerpt": "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo\nThe post europe’s largest carbon capture facility sends CO₂ ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway-designboom-9.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "persian-red voids carve into villa’s white brick volume in northern iran",
-      "url": "https://www.designboom.com/architecture/persian-red-voids-villa-white-brick-volume-northern-iran-nima-mirza-mohamadi/",
-      "excerpt": "brick forms the facade and adds a material connection to local architecture, while persian red brings a vivid accent to the villa’s recessed openings.\nThe post persian-red voids carve into villa’s whi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nima-mirza-mohamadi-corner-villa-iran-persian-red-brick-white-designboom-1200-1.jpg",
       "today": true
     },
     {
