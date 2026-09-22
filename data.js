@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.22  00:30",
+  "fetchedAt": "2026.09.22  05:45",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -57,7 +57,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "夜景FAN": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,11 +65,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -207,7 +207,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.22",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -234,13 +234,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.22",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "SOBO wraps paris listening restaurant in oak, vintage furniture, and acoustic panels",
+      "url": "https://www.designboom.com/design/sobo-paris-listening-restaurant-oak-vintage-furniture-acoustic-panels-studio-louis-morgan/",
+      "excerpt": "a paris restaurant turns into an intimate plant-based dining and listening space where interior architecture, acoustics, bespoke furniture and music come together.\nThe post SOBO wraps paris listening ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/sobo-paris-listening-restaurant-oak-vintage-furniture-acoustic-panels-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Haikou Workers’ Activity Center (Workers’ Cultural Palace) / CADG",
+      "url": "https://www.archdaily.com/1185425/haikou-workers-activity-center-workers-cultural-palace-cadg",
+      "excerpt": "Located on Hainan Island, Haikou is characterized by a hot and humid coastal climate. Designed by the Green Architecture Design & Research Institute of CADG, the newly completed Haikou Workers' Activi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/8e6b/8d91/7901/8920/5b09/large_jpg/haikou-workers-activity-center-workers-cultural-palace-cadg_6.jpg?1789955743",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.21",
+      "title": "blue spiral staircase anchors ERRE’s harbor-side workspace in valencia",
+      "url": "https://www.designboom.com/architecture/blue-spiral-staircase-erre-harbor-side-workspace-valencia-marina-de-empresas/",
+      "excerpt": "erre completes the marina de empresas campus with a third waterfront building connecting talent, education and entrepreneurship.\nThe post blue spiral staircase anchors ERRE’s harbor-side workspace in ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/marina-de-empresas-valencia-workspace-erre-designboom-1200.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -353,16 +383,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "motspråk cuts plywood painting apart and rebuilds it as chair",
-      "url": "https://www.designboom.com/design/motsprak-plywood-painting-chair-peytil-eitil-arbenz-thoren/",
-      "excerpt": "a painting on plywood is cut apart and reassembled as a chair, exploring the transition from artwork to functional object.\nThe post motspråk cuts plywood painting apart and rebuilds it as chair appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/motsprak-peytil-eitil-arbenz-thoren-painting-plywood-chair-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.21",
@@ -383,16 +403,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "SIITUA III | International Seminar on Research in Territory, Urbanism, and Architecture",
-      "url": "https://www.archdaily.com/1185472/siitua-iii-international-seminar-on-research-in-territory-urbanism-and-architecture",
-      "excerpt": "3rd International Seminar on Territory, Urbanism, and Architecture Research – SIITUA III\nRicardo Palma University and U.Llaqta Research Journal present the 3rd International Seminar on Territory, Urba",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/4fa2/c765/2000/0134/6e62/large_jpg/1_20260915_215923_0000.jpg?1790005162",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.21",
@@ -400,16 +410,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/new-hard-sided-designer-luggage",
       "excerpt": "Carl Friedrik, Delsey Paris, July, Mous and Nudient are the upscale luggage brands looking to get on board with you next time you fly",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSBiztrFCtQ2a7D9ZnN4w7-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.21",
-      "title": "what does a guitar sound like in stone? bebeau builds one from 18 pieces of slate",
-      "url": "https://www.designboom.com/design/guitar-sound-stone-bebeau-builds-slate-rock/",
-      "excerpt": "the faceted slate instrument tests how far an acoustic guitar can stray from wood while preserving its familiar voice. \nThe post what does a guitar sound like in stone? bebeau builds one from 18 piece",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bebeau-builds-rock-guitar-designboom-FB.jpg",
       "today": false
     },
     {
