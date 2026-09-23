@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.23  18:10",
+  "fetchedAt": "2026.09.23  21:57",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -17,15 +17,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -41,31 +41,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "anna（アンナ）": {
+    "Sortir à Paris": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "anna（アンナ）": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "hamakei.com": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "cat": "国内情報",
       "date": "2026.09.23",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -140,6 +140,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "PR TIMES",
+      "cat": "賞・コンペ",
+      "date": "2026.09.23",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.09.23",
@@ -158,7 +167,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.23",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -194,6 +203,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.23",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.23",
@@ -203,16 +221,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.23",
-      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も - fashion-press.net",
+      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "hamakei.com",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -221,21 +239,43 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
-      "excerpt": "",
+      "title": "synesthesia translated into light across audrey wright’s musical body at the MET",
+      "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/",
+      "excerpt": "a wearable field of LEDs translates a composer’s synesthetic color map across the violinist’s moving body.\nThe post synesthesia translated into light across audrey wright’s musical body at the MET app",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luminous-being-prismbody-garment-audrey-wright-geoff-robertson-stephanie-ann-boyd-designboom-FB.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
-      "excerpt": "",
+      "title": "National Trust for Historic Preservation creates defense fund in light of \"urgent threats\"",
+      "url": "https://www.dezeen.com/2026/09/23/national-trust-for-historic-preservation-defense-fund-washington-dc/",
+      "excerpt": "Washington DC nonprofit The National Trust for Historic Preservation, which sued the government last year over the White House ballroom extension, has announced a $10 million fundraising campaign for ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/washington-dc-skyline-general_dezeen_2364_sq-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Bentley unveils first fully electric car that embraces heritage in \"progressive way\"",
+      "url": "https://www.dezeen.com/2026/09/23/bentley-first-electric-car-torcal-robin-page-interview/",
+      "excerpt": "Car brand Bentley has revealed the Torcal, its first fully electric car. Ahead of its unveiling today, we spoke to design director Robin Page about how the car balances an electric future with the bra",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bentley-first-electric-car-torcal-robin-page-interview_dezeen_2364_hero_9.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "No alarms and no surprises as Bentley rolls out the majestic Torcal, its first take on a luxury EV",
+      "url": "https://www.wallpaper.com/transportation/no-alarms-and-no-surprises-as-bentley-rolls-out-the-majestic-torcal-its-first-take-on-a-luxury-ev",
+      "excerpt": "The Bentley Torcal is an all-electric SUV with a distinctive GT flavour, imperious looks and a relentless focus on craft and materials. We take a look inside and out",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QfzwgQxeqF9n3fWduiG4nY-2560-80.jpg",
       "today": true
     },
     {
@@ -289,6 +329,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Linden House / Schemata Architects",
+      "url": "https://www.archdaily.com/1185459/linden-house-schemata-architects",
+      "excerpt": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservatio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/459c/3c90/2a01/8a12/49f8/large_jpg/linden-house-schemata-architects_28.jpg?1790002607",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.23",
@@ -329,13 +379,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "Nyla leather chair by Omidi",
-      "url": "https://www.dezeen.com/2026/09/23/nyla-leather-chair-omidi-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: carefully tailored leather upholstery takes centre stage in the Nyla executive chair, produced by furniture brand Omidi. Bringing the feeling of a private office wherever it sits, the",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/nyla-leather-chair-omidi-design_dezeen_2364_hero.jpg",
+      "title": "Mogno House / RB Arquitetura",
+      "url": "https://www.archdaily.com/1185662/mogno-house-rb-arquitetura",
+      "excerpt": "In Salvador, architect Roberta Barral, head of the firm RB Arquitetura, designed her own residence: Casa Mogno (Mahogany House), a 510 m² (5,490 sq ft) building completed in December 2024 after two ye",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/9478/7707/e600/01bb/320a/large_jpg/Projeto_RB_Arquitetura_-_Mogno_I_Foto_OKA_Fotografia___89__1_.jpg?1790088463",
       "today": true
     },
     {
@@ -359,26 +409,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "Pend uses skinny red bricks for extension to stone townhouse in Edinburgh",
-      "url": "https://www.dezeen.com/2026/09/23/pend-newhaven-extension/",
-      "excerpt": "Scottish architecture studio Pend has expanded and updated a Georgian townhouse in Edinburgh, complementing its existing pale stone exterior with an extension clad in skinny red bricks. Named Newhaven",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/pend-newhaven-townhouse-skinny-extension-edinburgh-hero_dezeen_2364_col_0.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "This Rose Uniacke-designed London apartment transcends periods and cultures",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment",
-      "excerpt": "The designer creates a home for a collector, complete with midcentury icons and even an Egyptian artefact",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K7a9y3mu2MQVvrWQPytUy4-2048-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.23",
@@ -399,16 +429,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "peter zumthor’s expanded fondation beyeler opens to the public",
-      "url": "https://www.designboom.com/architecture/peter-zumthor-fondation-beyeler-gradual-opening-basel-switzerland-wyss-museum/",
-      "excerpt": "the new wyss museum, ammann pavilion, and erlen torhaus extend the museum’s relationship with its landscape while opening the former private park to the public.\nThe post peter zumthor’s expanded fonda",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/peter-zumthor-fondation-beyeler-gradual-opening-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.23",
@@ -416,26 +436,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185601/nature-as-a-starting-point-lessons-from-the-oslo-architecture-triennale-2026",
       "excerpt": "The 9th Oslo Architecture Triennale unfolds in a setting that already embodies many of the questions it raises. Sofienberg Church, a 19th-century Gothic brick building now being converted from a place",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/cad7/e78f/b301/883c/eef8/large_jpg/what-if-nature-comes-first-inside-the-oslo-architecture-triennale-2026_2.jpg?1790102257",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "Between Burning Forests and Utopian Cities: Designing the Climate Transition",
-      "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition",
-      "excerpt": "There is no shortage of ways to imagine what the world will look like after a climate catastrophe. Genres of movies and novels have been built around the question of what happens when contemporary saf",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/aefa/472c/aa01/8aa1/4ea6/large_jpg/dont-skip-to-the-end-tools-to-design-a-climate-transition_3.jpg?1790029570",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "Casa Estelí / COLAR Colectivo de Arquitectura",
-      "url": "https://www.archdaily.com/1185507/casa-esteli-colar-colectivo-de-arquitectura",
-      "excerpt": "The project is based on a critical and conscious look at the act of building, understanding architecture not as an isolated object, but as a cultural, environmental, and social process deeply linked t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/5e0c/d8c8/8201/89ac/d571/large_jpg/casa-esteli-colar-colectivo-de-arquitectura_25.jpg?1789746717",
       "today": true
     },
     {
