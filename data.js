@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.23  01:10",
+  "fetchedAt": "2026.09.23  07:10",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "digitalavmagazine.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "lp.p.pia.jp": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -33,43 +33,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アメーバブログ": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "東京建物株式会社": {
+    "アメーバブログ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Google ニュース": {
+    "東京建物株式会社": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "anna（アンナ）": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ozmall.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
+      "source": "digitalavmagazine.com",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -176,6 +176,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.23",
+      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NaVRYUWc0bS1iQ052bE1sblFyTzZSbnU0c3h2NmJnd3ZIWHdqc3hobXVrSVFuUUd5Z0l5anA3dVFHQ2oyRWxDMDFUWDhkX2hqdlhv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "アメーバブログ",
       "cat": "展示・アート",
       "date": "2026.09.23",
@@ -194,10 +203,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.23",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
@@ -221,7 +230,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -230,12 +239,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
-      "excerpt": "",
+      "title": "Karimoku turns Tokyo showroom into \"imaginary Japanese inn\"",
+      "url": "https://www.dezeen.com/2026/09/23/karimoku-commons-tokyo-showroom-mas-imaginary-japanese-inn/",
+      "excerpt": "Furniture brand Karimoku has opened Oyado Mas, an exhibition of furniture and accessories by its Mas label, showcased in an environment designed to resemble an inn complete with a reception and guest ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/oyado-mas-karimoku-commons-tokyo_dezeen_2364_col_sq-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Sam Chermayeff puts a new spin on Knoll’s classic storage solutions",
+      "url": "https://www.wallpaper.com/design-interiors/knoll-sam-chermayeff-storage-collection-launch",
+      "excerpt": "The architect riffs on Florence Knoll’s classics, extending their design language with new colourways, typologies and proportions",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AuTD8Ze5UhXF5RqKBUPkJA-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "The Park Hyatt Residences launch marks a special moment on the London riverside",
+      "url": "https://www.wallpaper.com/architecture/residential/park-hyatt-residences-christian-bense-london-uk",
+      "excerpt": "Sales have launched for the Park Hyatt Residences on the London riverside, opening the doors to three show apartments with interiors by South African designer Christian Bense",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qbWrR3eEFxv836HgMAYx2S-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "oversized flowers, terrazzo, and pop references ornament zyva studio’s paris showroom",
+      "url": "https://www.designboom.com/architecture/oversized-flowers-terrazzo-pop-references-zyva-studio-paris-showroom/",
+      "excerpt": "zyva studio turns the apartment of its founder, anthony authié, into a manifesto for neo-ornament.\nThe post oversized flowers, terrazzo, and pop references ornament zyva studio’s paris showroom appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zyva-studioparis-apartment-anthony-authie-ornament-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "TH+ house / ODDO architects",
+      "url": "https://www.archdaily.com/1185293/th-plus-house-oddo-architects",
+      "excerpt": "Woven into the dense urban fabric of Hanoi, TH+ House occupies an extremely constrained plot just 2.5 metres wide, accessible only through a network of narrow pedestrian alleys and surrounded by the c",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/2d13/8d91/7901/8920/5406/large_jpg/th-plus-house-oddo-architects_23.jpg?1789668676",
       "today": true
     },
     {
@@ -339,16 +389,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Behind the scenes of Sofia Coppola’s ‘Marie Antoinette’, 20 years on",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/making-marie-antoinette-sofia-coppola",
-      "excerpt": "A new book and a major new exhibition at the Petit Trianon inside the Palace of Versailles mark 20 years of Sofia Coppola's film ‘Marie Antoinette’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zn6XQnFSVsASnCWuG9bfnh-1575-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.22",
@@ -356,16 +396,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/parsons-plastic-toxicity-american-manufactured-homes/",
       "excerpt": "Researchers at Parsons School of Design's Healthy Material Lab have released a study that raises concerns about the \"many substances harmful to human health\" in a typical prefabricated American home. ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/manufactured-homes-sq.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Lunaz unveils two new Range Rover Classics that showcase the scope of its service",
-      "url": "https://www.wallpaper.com/transportation/lunaz-range-rover-classics-kermit-and-nevada",
-      "excerpt": "Lunaz specialises in breathing new life into established classics. The British company has revealed Kermit and Nevada, two different approaches to the classic original Range Rover",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dGpFvJCgsbmwKYdFci7tTM-2560-80.jpg",
       "today": false
     },
     {
@@ -406,36 +436,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185423/casa-ancora-tiago-sousa",
       "excerpt": "A remote, rugged and serene place, marked by the contrast between heat and cold.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/606e/8d91/7901/8920/5a6c/large_jpg/casa-ancora-tiago-sousa_31.jpg?1789943980",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Ellen Browning Building / Hacker Architects",
-      "url": "https://www.archdaily.com/1034319/ellen-browning-building-hacker-architects",
-      "excerpt": "The genesis for the mixed-use residential Ellen Browning Building arose when a group of close friends considered how they could preserve their relationships during their last years. Co-housing, with i",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68d0/412d/21de/2d62/a98c/feba/large_jpg/ellen-browning-building-hacker-architects_1.jpg?1758478667",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "optician’s shop turned art installation satirizes bio-tracking tech at uncanny shifts",
-      "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
-      "excerpt": "ellinor aurora aasgaard and zayne armstrong's installation opens a world of medieval-ish gyms, exploding smartwatches, and a trip through our tech-enabled lives. \nThe post optician’s shop turned art i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Tato Architects completes charred timber-clad home in Japan",
-      "url": "https://www.dezeen.com/2026/09/22/tato-architects-house-in-mibu/",
-      "excerpt": "Charred-timber cladding is contrasted with warm plywood-lined interiors at House in Mibu, a home in Tochigi Prefecture, Japan, completed by local studio Tato Architects. The 108-square-metre home was ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_hero.jpg",
       "today": false
     },
     {
