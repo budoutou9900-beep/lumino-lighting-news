@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.22  22:38",
+  "fetchedAt": "2026.09.23  01:10",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ぴあエンタメ情報": {
+    "lp.p.pia.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -65,11 +65,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -115,7 +115,7 @@ window.LUMINO_DATA = {
     {
       "source": "pronews.com",
       "cat": "国内情報",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
@@ -124,16 +124,16 @@ window.LUMINO_DATA = {
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ぴあエンタメ情報",
+      "source": "lp.p.pia.jp",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
       "excerpt": "",
@@ -142,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -151,16 +151,16 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -169,7 +169,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -178,7 +178,7 @@ window.LUMINO_DATA = {
     {
       "source": "アメーバブログ",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
       "excerpt": "",
@@ -196,7 +196,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
@@ -205,7 +205,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
@@ -214,7 +214,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
       "excerpt": "",
@@ -223,7 +223,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
@@ -232,7 +232,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.22",
+      "date": "2026.09.23",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
@@ -246,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/this-secret-brooklyn-archive-contains-a-trove-of-design-rarities-here-are-10-exceptional-finds",
       "excerpt": "Veteran design gallery R & Company just opened Building 86 in the Brooklyn Navy Yard. Here, co-founders Evan Snyderman and Zesty Meyers share their favourite discoveries",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WruWsn8LRmsePyrZAtPXEe-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -256,7 +256,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/new-zealand-world-wearableart-wow-glo-wellington/",
       "excerpt": "garments become moving stage objects as distance and spectators begin to shape their form.\nThe post new zealand’s world of wearableart designs art around the act of being watched appeared first on des",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/world-wearableart-new-zealand-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -266,7 +266,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/apple-music-venue-london-battersea-power-station/",
       "excerpt": "the london space lets artists play a concert, record it, mix it and turn it into a global broadcast without leaving the building.\nThe post apple opens 600-capacity music venue inside london’s batterse",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/apple-music-venue-london-battersea-power-station-designboom-4.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "Casa PM / Feliu Vega Kennedy Arquitectura",
+      "url": "https://www.archdaily.com/1185526/casa-pm-feliu-vega-kennedy-arquitectura",
+      "excerpt": "The project is located on an 8,600-square-foot lot in the warm valley of Challuabamba, in a privileged location characterized by wide views of the northern mountains and a small ravine to the east.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/85d6/c765/2000/0134/7126/large_jpg/CASA-PICON-FVK-SURREAL-JAG--3-WEB-RGB.jpg?1790019054",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -276,7 +286,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/cattle-armchair-design-seating-furniture-furnishings-surfaces-tiles-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: a chair informed by rustic agricultural construction common in rural Australia is among new products featured on Dezeen Showroom. Cattle armchair by Gibson Karlo for Design By Them Ru",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/cattle-chair-gibson-karlo-design-by-them_dezeen_2364_hero.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -286,7 +296,17 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
       "excerpt": "Photographer Gurpreet Chawla has captured this year's architectural installations at the annual Burning Man festival in Nevada, from a broken Eiffel Tower to a chapel made from nylon panels. Teams of ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/burning-man-2026-gurpreet-chawla_dezeen_2364_sq.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.22",
+      "title": "MRD Residence / Jacobsen Arquitetura",
+      "url": "https://www.archdaily.com/1034340/mrd-residence-jacobsen-arquitetura",
+      "excerpt": "Next to a dense tropical forest located in the outskirts of São Paulo, the MRD House project sought to adapt to an uneven terrain through solutions that focused on creating paths and viewpoints to the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68d1/46f5/67a7/a410/dde6/ced3/large_jpg/residencia-mrd-jacobsen-arquitetura_1.jpg?1758545665",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -296,7 +316,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
       "excerpt": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -306,7 +326,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/buenos-aires-modernism",
       "excerpt": "Buenos Aires modernism emerged in the 1930s and 1940s, soon growing to define the city – and some of the movement’s early examples still shine today",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gCJFS9ULodxcWs5fcKk8UJ-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -316,7 +336,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/cast-aluminum-heart-forms-sculptural-furniture-love-collection-sami-savatli/",
       "excerpt": "LOVE series sits between collectible furniture and contemporary sculpture.\nThe post cast aluminum turns heart forms into sculptural furniture in LOVE collection appeared first on designboom | architec",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/sami-savatli-love-collection-love-chair-side-table-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -326,7 +346,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/making-marie-antoinette-sofia-coppola",
       "excerpt": "A new book and a major new exhibition at the Petit Trianon inside the Palace of Versailles mark 20 years of Sofia Coppola's film ‘Marie Antoinette’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zn6XQnFSVsASnCWuG9bfnh-1575-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -336,7 +356,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/parsons-plastic-toxicity-american-manufactured-homes/",
       "excerpt": "Researchers at Parsons School of Design's Healthy Material Lab have released a study that raises concerns about the \"many substances harmful to human health\" in a typical prefabricated American home. ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/manufactured-homes-sq.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -346,7 +366,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/lunaz-range-rover-classics-kermit-and-nevada",
       "excerpt": "Lunaz specialises in breathing new life into established classics. The British company has revealed Kermit and Nevada, two different approaches to the classic original Range Rover",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dGpFvJCgsbmwKYdFci7tTM-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -356,7 +376,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185522/casa-amona-colar-colectivo-de-arquitectura",
       "excerpt": "The project is located on an urban lot in San Cristóbal de las Casas, adjacent to one of the city's main green areas. The house maintains a restrained relationship with the street, focusing its daily ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/61a2/8d91/7901/8920/5818/large_jpg/casa-amona-colar-colectivo-de-arquitectura_28.jpg?1789747642",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -366,7 +386,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/mschf-bends-twists-lexus-cars-surreal-sculptures-new-york-motomorphosis/",
       "excerpt": "two vehicles are stretched into impossible geometries, translating squash-and-stretch animation into full-scale automotive sculpture.\nThe post MSCHF bends and twists LEXUS cars into surreal full-scale",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mschf-lexus-twisted-circle-cars-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -376,7 +396,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/dezeen-showroom-new-releases-summer-2026/",
       "excerpt": "The summer 2026 installation of the Dezeen Showroom New Releases newsletter includes a modular kitchen crafted from oak. Subscribe to Dezeen Showroom New Releases now! From tall, wall-mounted cabinets",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/06/modular-kitchens-vermland-dezeen-showroom_dezeen_2364_hero_0.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -386,7 +406,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185423/casa-ancora-tiago-sousa",
       "excerpt": "A remote, rugged and serene place, marked by the contrast between heat and cold.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/606e/8d91/7901/8920/5a6c/large_jpg/casa-ancora-tiago-sousa_31.jpg?1789943980",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -396,7 +416,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1034319/ellen-browning-building-hacker-architects",
       "excerpt": "The genesis for the mixed-use residential Ellen Browning Building arose when a group of close friends considered how they could preserve their relationships during their last years. Co-housing, with i",
       "thumbnailUrl": "https://images.adsttc.com/media/images/68d0/412d/21de/2d62/a98c/feba/large_jpg/ellen-browning-building-hacker-architects_1.jpg?1758478667",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -406,7 +426,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/opticians-shop-turned-art-installation-satirizes-bio-tracking-tech-at-uncanny-shifts/",
       "excerpt": "ellinor aurora aasgaard and zayne armstrong's installation opens a world of medieval-ish gyms, exploding smartwatches, and a trip through our tech-enabled lives. \nThe post optician’s shop turned art i",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/uncanny-shifts-designboom-08.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -416,27 +436,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/22/tato-architects-house-in-mibu/",
       "excerpt": "Charred-timber cladding is contrasted with warm plywood-lined interiors at House in Mibu, a home in Tochigi Prefecture, Japan, completed by local studio Tato Architects. The 108-square-metre home was ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_hero.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The Gallery House / Maden Architects",
-      "url": "https://www.archdaily.com/1183735/the-gallery-house-maden-architects",
-      "excerpt": "\"The Gallery\" is conceived as a contemporary residence where architecture, natural light, movement, and landscape come together to create a calm and refined living experience. The project is inspired ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a87/db74/4253/0500/01c9/fd52/large_jpg/00.jpg?1787288753",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The Forum Installation 2027 Open Call for Site-Responsive Installations",
-      "url": "https://www.archdaily.com/1185584/the-forum-installation-2027-open-call-for-site-responsive-installations",
-      "excerpt": "The Forum at Fabrik invites students and emerging designers to propose a temporary spatial installation for a prominent public-facing site in the Gaslight District, one of Cambridge's emerging cultura",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/85ac/325b/9100/01c4/6043/large_jpg/Poster_0902-03.jpg?1790084606",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
