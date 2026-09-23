@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.23  07:10",
+  "fetchedAt": "2026.09.23  13:14",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "digitalavmagazine.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ぴあエンタメ情報": {
+    "lp.p.pia.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "中日新聞Web": {
+    "chunichi.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -45,19 +45,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "anna（アンナ）": {
+    "Sortir à Paris": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ヨコハマ経済新聞": {
+    "anna（アンナ）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ozmall.co.jp": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -69,37 +69,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "ArchDaily": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -122,7 +126,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "digitalavmagazine.com",
+      "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -131,7 +135,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ぴあエンタメ情報",
+      "source": "lp.p.pia.jp",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -158,7 +162,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "中日新聞Web",
+      "source": "chunichi.co.jp",
       "cat": "国内情報",
       "date": "2026.09.23",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
@@ -176,11 +180,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.23",
-      "title": "「東京のイルミネーション2025-26冬」デートや観光で“今行きたい”人気ライトアップスポット",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NaVRYUWc0bS1iQ052bE1sblFyTzZSbnU0c3h2NmJnd3ZIWHdqc3hobXVrSVFuUUd5Z0l5anA3dVFHQ2oyRWxDMDFUWDhkX2hqdlhv?oc=5",
+      "title": "11/15(土)～12/25(木)蓼科高原の英国式庭園がライトアップ『バラクラ Magical Lighting2025』長野県民＆同伴者限定で入場無料期間あり！【2025-2026年 長野県イルミネーション】＠茅野市 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DQndjSVlUMklZbTFnSkVudjFRaGlUQlUtYW9KUURaNndpNlR5SGUwLWc4blp4QUpvX0dabGtRem1LUXpIMzlnQW1NdENIdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -203,20 +207,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Sortir à Paris",
+      "cat": "展示・アート",
+      "date": "2026.09.23",
+      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.23",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.23",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -230,42 +234,202 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.23",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "For blades that last decades, consider these impressive high-end scissors from Horl",
+      "url": "https://www.wallpaper.com/tech/horl-scissors-and-sharpeners-review",
+      "excerpt": "Made in Germany and designed to last, Horl shapes scissors and sharpeners that can be passed on to future generations",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nyR8xDz6moicYiw6K8usZe-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "jenny holzer’s truisms and the power of the public screen",
+      "url": "https://www.designboom.com/art/jenny-holzer-truisms-power-public-art-screen/",
+      "excerpt": "long before screens became part of everyday life, the artist understood their potential to shape what we notice, read, and remember.\nThe post jenny holzer’s truisms and the power of the public screen ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/jenny-holzer-truisms-power-public-screen-designboom-1200.jpg",
       "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "Karimoku turns Tokyo showroom into \"imaginary Japanese inn\"",
-      "url": "https://www.dezeen.com/2026/09/23/karimoku-commons-tokyo-showroom-mas-imaginary-japanese-inn/",
-      "excerpt": "Furniture brand Karimoku has opened Oyado Mas, an exhibition of furniture and accessories by its Mas label, showcased in an environment designed to resemble an inn complete with a reception and guest ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/oyado-mas-karimoku-commons-tokyo_dezeen_2364_col_sq-1.jpg",
+      "title": "Pend uses skinny red bricks for extension to stone townhouse in Edinburgh",
+      "url": "https://www.dezeen.com/2026/09/23/pend-newhaven-extension/",
+      "excerpt": "Scottish architecture studio Pend has expanded and updated a Georgian townhouse in Edinburgh, complementing its existing pale stone exterior with an extension clad in skinny red bricks. Named Newhaven",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/pend-newhaven-townhouse-skinny-extension-edinburgh-hero_dezeen_2364_col_0.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "Sam Chermayeff puts a new spin on Knoll’s classic storage solutions",
-      "url": "https://www.wallpaper.com/design-interiors/knoll-sam-chermayeff-storage-collection-launch",
-      "excerpt": "The architect riffs on Florence Knoll’s classics, extending their design language with new colourways, typologies and proportions",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AuTD8Ze5UhXF5RqKBUPkJA-1600-80.png",
+      "title": "This Rose Uniacke-designed London apartment transcends periods and cultures",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment",
+      "excerpt": "The designer creates a home for a collector, complete with midcentury icons and even an Egyptian artefact",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/K7a9y3mu2MQVvrWQPytUy4-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Dezeen Awards 2026 design shortlist announced",
+      "url": "https://www.dezeen.com/2026/09/23/dezeen-awards-2026-design-shortlist/",
+      "excerpt": "Dezeen has announced the design shortlist for this year's Dezeen Awards, which includes projects by Bocci, Kvadrat, and Fuseproject. Shortlisted designs this year include a modular furniture system ma",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-design-shortlist_dezeen_2364_col_6.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "seoul design award 2026 reveals top 10 finalists and launches public grand prize voting",
+      "url": "https://www.designboom.com/design/seoul-design-award-2026-reveals-top-10-finalists/",
+      "excerpt": "global public voting for the seoul design award 2026 is now open to shape the final results.\nThe post seoul design award 2026 reveals top 10 finalists and launches public grand prize voting appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/seoul-design-award_designboom_facebook.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.23",
-      "title": "The Park Hyatt Residences launch marks a special moment on the London riverside",
-      "url": "https://www.wallpaper.com/architecture/residential/park-hyatt-residences-christian-bense-london-uk",
-      "excerpt": "Sales have launched for the Park Hyatt Residences on the London riverside, opening the doors to three show apartments with interiors by South African designer Christian Bense",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/qbWrR3eEFxv836HgMAYx2S-1415-80.jpg",
+      "title": "Hook up with Lume’s lightest-ever caravan, the new aluminium-bodied Ranger",
+      "url": "https://www.wallpaper.com/transportation/lume-ranger-caravan",
+      "excerpt": "The Dutch manufacturer’s latest model mixes classic caravan style with contemporary detailing and high-quality interior design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/yJknMAhtZqjkPtkUWYDdc6-1448-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Grid radiator by Elisa Ossino for Tubes",
+      "url": "https://www.dezeen.com/2026/09/23/grid-radiator-elisa-ossino-tubes-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Italian brand Tubes and designer Elisa Ossino bring an echo of the workshop tool board to heating design with their electric Grid radiator. Taking the form of a thin panel of perforat",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/grid-radiator-elisa-ossino-tubes-design_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Stone Island drafts Willo Perron to design its new London pop-up – a collector’s delight",
+      "url": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/stone-island-selfridges-corner-shop-willo-perron",
+      "excerpt": "At Selfridges Corner Shop, ‘Selected Works ’982–’026 Stone Island: The Collector Series’ invites the brand’s most prolific collectors to give their interpretation of its ‘living archive’",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GkUpmBDLYjfPipDjcSEihd-1539-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "\"We remove places where young people can gather in small groups, then panic when they gather in large ones\"",
+      "url": "https://www.dezeen.com/2026/09/23/teen-takeovers-christopher-martin-opinion/",
+      "excerpt": "Paranoia over so-called \"teen takeovers\" ignores the fundamental problem: that our cities have left young people with nowhere to go, writes Christopher Martin. America this summer acquired the phrase ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/teen-takeover-helicopter-tampa-florida-sq_dezeen_936_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "peter zumthor’s expanded fondation beyeler opens to the public",
+      "url": "https://www.designboom.com/architecture/peter-zumthor-fondation-beyeler-gradual-opening-basel-switzerland-wyss-museum/",
+      "excerpt": "the new wyss museum, ammann pavilion, and erlen torhaus extend the museum’s relationship with its landscape while opening the former private park to the public.\nThe post peter zumthor’s expanded fonda",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/peter-zumthor-fondation-beyeler-gradual-opening-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Brutalist cassette listening booth in Berlin's KaDeWe unlocks \"music you can't find on Spotify\"",
+      "url": "https://www.dezeen.com/2026/09/23/kadewe-yont-studio-namilia-passenger-kadewe/",
+      "excerpt": "Design firm Yont Studio has used salvaged car seats and more than 140 cassette tapes to create an analogue sound installation inside Berlin department store KaDeWe. Created in collaboration with Telek",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/hero-yont-studio-passenger-namilia_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "‘powerful designs keep asking questions’ next gen winner maria gil on craft and identity",
+      "url": "https://www.designboom.com/design/designeuropa-next-generation-award-winner-maria-gil-interview/",
+      "excerpt": "maria gil reflects on moving from self-production to brand partnerships as she crafts furniture with emotional and cultural endurance.\nThe post ‘powerful designs keep asking questions’ next gen winner",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/08/maria_gil_designeuropa_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Gubi brings back Carlo Nason’s ‘Lotus’ lamp",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/lotus-lamp-carl-nason-gubi",
+      "excerpt": "Gubi brings back the late Carlo Nason’s four-layered, flower-like, mouth-blown glass marvel, celebrating the Murano maestro's prowess with form and composition",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Wh7rQS9AzyRN9FoVo2S3ee-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Between Burning Forests and Utopian Cities: Designing the Climate Transition",
+      "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition",
+      "excerpt": "There is no shortage of ways to imagine what the world will look like after a climate catastrophe. Genres of movies and novels have been built around the question of what happens when contemporary saf",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/aefa/472c/aa01/8aa1/4ea6/large_jpg/dont-skip-to-the-end-tools-to-design-a-climate-transition_3.jpg?1790029570",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Casa Estelí / COLAR Colectivo de Arquitectura",
+      "url": "https://www.archdaily.com/1185507/casa-esteli-colar-colectivo-de-arquitectura",
+      "excerpt": "The project is based on a critical and conscious look at the act of building, understanding architecture not as an isolated object, but as a cultural, environmental, and social process deeply linked t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/5e0c/d8c8/8201/89ac/d571/large_jpg/casa-esteli-colar-colectivo-de-arquitectura_25.jpg?1789746717",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Architecture on Water: What Living at Sea Can Teach Us About Space and Materials",
+      "url": "https://www.archdaily.com/1185041/architecture-on-water-what-living-at-sea-can-teach-us-about-space-and-materials",
+      "excerpt": "Unlike buildings, which are anchored to foundations and respond to climate from a fixed position, yachts are designed for constant movement and change. Interiors sway with the vessel, light changes by",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/e1ee/069c/1b01/89fb/7383/large_jpg/architecture-on-water-what-living-at-sea-can-teach-us-about-space-and-materials_15.jpg?1789387272",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "BIG’s Macondo Park Opens as a Temporary Cultural Landscape for Shakira’s Madrid Residency",
+      "url": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency",
+      "excerpt": "Following the opening weekend of Shakira's Madrid residency, Macondo Park has officially opened at the Iberdrola Music venue in Villaverde, Madrid. Designed by Bjarke Ingels Group (BIG) in collaborati",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/a1b3/e78f/b301/883c/f014/large_jpg/bigs-macondo-park-opens-for-shakiras-madrid-residency_3.jpg?1790157245",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Temple Quarter Enterprise Campus / Feilden Clegg Bradley Studios",
+      "url": "https://www.archdaily.com/1185449/temple-quarter-enterprise-campus-feilden-clegg-bradley-studios",
+      "excerpt": "Temple Quarter Enterprise Campus (TQEC) is the most significant development in the recent history of the University of Bristol and a major new civic landmark for the city. The project transforms the l",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/1dea/066f/0900/0145/79bb/large_jpg/TQEC__c__Andy_Stagg___7_.jpg?1789992470",
       "today": true
     },
     {
@@ -277,166 +441,6 @@ window.LUMINO_DATA = {
       "excerpt": "zyva studio turns the apartment of its founder, anthony authié, into a manifesto for neo-ornament.\nThe post oversized flowers, terrazzo, and pop references ornament zyva studio’s paris showroom appear",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/zyva-studioparis-apartment-anthony-authie-ornament-designboom-1200.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "TH+ house / ODDO architects",
-      "url": "https://www.archdaily.com/1185293/th-plus-house-oddo-architects",
-      "excerpt": "Woven into the dense urban fabric of Hanoi, TH+ House occupies an extremely constrained plot just 2.5 metres wide, accessible only through a network of narrow pedestrian alleys and surrounded by the c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aac/2d13/8d91/7901/8920/5406/large_jpg/th-plus-house-oddo-architects_23.jpg?1789668676",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "This secret Brooklyn archive contains a trove of design rarities. Here are 10 exceptional finds",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/this-secret-brooklyn-archive-contains-a-trove-of-design-rarities-here-are-10-exceptional-finds",
-      "excerpt": "Veteran design gallery R & Company just opened Building 86 in the Brooklyn Navy Yard. Here, co-founders Evan Snyderman and Zesty Meyers share their favourite discoveries",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WruWsn8LRmsePyrZAtPXEe-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "new zealand’s world of wearableart designs art around the act of being watched",
-      "url": "https://www.designboom.com/design/new-zealand-world-wearableart-wow-glo-wellington/",
-      "excerpt": "garments become moving stage objects as distance and spectators begin to shape their form.\nThe post new zealand’s world of wearableart designs art around the act of being watched appeared first on des",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/world-wearableart-new-zealand-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "apple opens 600-capacity music venue inside london’s battersea power station",
-      "url": "https://www.designboom.com/architecture/apple-music-venue-london-battersea-power-station/",
-      "excerpt": "the london space lets artists play a concert, record it, mix it and turn it into a global broadcast without leaving the building.\nThe post apple opens 600-capacity music venue inside london’s batterse",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/apple-music-venue-london-battersea-power-station-designboom-4.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Casa PM / Feliu Vega Kennedy Arquitectura",
-      "url": "https://www.archdaily.com/1185526/casa-pm-feliu-vega-kennedy-arquitectura",
-      "excerpt": "The project is located on an 8,600-square-foot lot in the warm valley of Challuabamba, in a privileged location characterized by wide views of the northern mountains and a small ravine to the east.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/85d6/c765/2000/0134/7126/large_jpg/CASA-PICON-FVK-SURREAL-JAG--3-WEB-RGB.jpg?1790019054",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Cattle armchair by Design By Them among 13 new products on Dezeen Showroom",
-      "url": "https://www.dezeen.com/2026/09/22/cattle-armchair-design-seating-furniture-furnishings-surfaces-tiles-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: a chair informed by rustic agricultural construction common in rural Australia is among new products featured on Dezeen Showroom. Cattle armchair by Gibson Karlo for Design By Them Ru",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/cattle-chair-gibson-karlo-design-by-them_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "The quirky architecture of Burning Man 2026",
-      "url": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
-      "excerpt": "Photographer Gurpreet Chawla has captured this year's architectural installations at the annual Burning Man festival in Nevada, from a broken Eiffel Tower to a chapel made from nylon panels. Teams of ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/burning-man-2026-gurpreet-chawla_dezeen_2364_sq.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "MRD Residence / Jacobsen Arquitetura",
-      "url": "https://www.archdaily.com/1034340/mrd-residence-jacobsen-arquitetura",
-      "excerpt": "Next to a dense tropical forest located in the outskirts of São Paulo, the MRD House project sought to adapt to an uneven terrain through solutions that focused on creating paths and viewpoints to the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68d1/46f5/67a7/a410/dde6/ced3/large_jpg/residencia-mrd-jacobsen-arquitetura_1.jpg?1758545665",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "At Milan Fashion Week, Prada hones in on the skirt",
-      "url": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week",
-      "excerpt": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/j5rzTaFFwrX5sbGmznpaUJ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Explore Buenos Aires modernism, and tour its early architecture examples",
-      "url": "https://www.wallpaper.com/architecture/buenos-aires-modernism",
-      "excerpt": "Buenos Aires modernism emerged in the 1930s and 1940s, soon growing to define the city – and some of the movement’s early examples still shine today",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gCJFS9ULodxcWs5fcKk8UJ-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "cast aluminum turns heart forms into sculptural furniture in LOVE collection",
-      "url": "https://www.designboom.com/design/cast-aluminum-heart-forms-sculptural-furniture-love-collection-sami-savatli/",
-      "excerpt": "LOVE series sits between collectible furniture and contemporary sculpture.\nThe post cast aluminum turns heart forms into sculptural furniture in LOVE collection appeared first on designboom | architec",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/sami-savatli-love-collection-love-chair-side-table-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Parsons researchers warn of plastic toxicity in American manufactured homes",
-      "url": "https://www.dezeen.com/2026/09/22/parsons-plastic-toxicity-american-manufactured-homes/",
-      "excerpt": "Researchers at Parsons School of Design's Healthy Material Lab have released a study that raises concerns about the \"many substances harmful to human health\" in a typical prefabricated American home. ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/manufactured-homes-sq.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Casa Amona / COLAR Colectivo de Arquitectura",
-      "url": "https://www.archdaily.com/1185522/casa-amona-colar-colectivo-de-arquitectura",
-      "excerpt": "The project is located on an urban lot in San Cristóbal de las Casas, adjacent to one of the city's main green areas. The house maintains a restrained relationship with the street, focusing its daily ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/61a2/8d91/7901/8920/5818/large_jpg/casa-amona-colar-colectivo-de-arquitectura_28.jpg?1789747642",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "MSCHF bends and twists LEXUS cars into surreal full-scale sculptures in new york",
-      "url": "https://www.designboom.com/design/mschf-bends-twists-lexus-cars-surreal-sculptures-new-york-motomorphosis/",
-      "excerpt": "two vehicles are stretched into impossible geometries, translating squash-and-stretch animation into full-scale automotive sculpture.\nThe post MSCHF bends and twists LEXUS cars into surreal full-scale",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mschf-lexus-twisted-circle-cars-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "Dezeen Showroom New Releases newsletter includes oak modular kitchen",
-      "url": "https://www.dezeen.com/2026/09/22/dezeen-showroom-new-releases-summer-2026/",
-      "excerpt": "The summer 2026 installation of the Dezeen Showroom New Releases newsletter includes a modular kitchen crafted from oak. Subscribe to Dezeen Showroom New Releases now! From tall, wall-mounted cabinets",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/06/modular-kitchens-vermland-dezeen-showroom_dezeen_2364_hero_0.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.22",
-      "title": "CASA ÂNCORA / Tiago Sousa",
-      "url": "https://www.archdaily.com/1185423/casa-ancora-tiago-sousa",
-      "excerpt": "A remote, rugged and serene place, marked by the contrast between heat and cold.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/606e/8d91/7901/8920/5a6c/large_jpg/casa-ancora-tiago-sousa_31.jpg?1789943980",
-      "today": false
     },
     {
       "source": "大光電機",
