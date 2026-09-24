@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.24  10:57",
+  "fetchedAt": "2026.09.24  15:42",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,19 +9,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "digitalavmagazine.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "lp.p.pia.jp": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -53,11 +53,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "dc.watch.impress.co.jp": {
+    "デジカメ Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -69,11 +69,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -81,25 +81,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "パナソニック": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -122,7 +126,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
+      "source": "digitalavmagazine.com",
       "cat": "展示・アート",
       "date": "2026.09.24",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -131,20 +135,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
       "date": "2026.09.24",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "賞・コンペ",
-      "date": "2026.09.24",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -230,12 +225,101 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "dc.watch.impress.co.jp",
+      "source": "デジカメ Watch",
       "cat": "展示・アート",
       "date": "2026.09.24",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.24",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Papermaking centre among projects from Swinburne University of Technology students",
+      "url": "https://www.dezeen.com/2026/09/24/papermaking-centre-swinburne-university-of-technology-schoolshows/",
+      "excerpt": "Dezeen School Shows: a centre for developing handmade paper is among the projects from students at Swinburne University of Technology. Also featured is a tool to support those living with dementia and",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Dezeen-School-Shows_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "A tortoise’s shell inspired the protective façade of this Swedish villa",
+      "url": "https://www.wallpaper.com/architecture/residential/swedish-villa-hdv-hollviken",
+      "excerpt": "A ‘hard-shell’ concrete and timber exterior conceals softer gardens and family spaces within Villa HDV",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4Fi55AqxqzoQkJFh2nSFzX-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "PriestmanGoode’s Day/Dream rail concept offers a vision of a future transformable train",
+      "url": "https://www.wallpaper.com/transportation/priestmangoode-day-dream-transformable-rail-concept",
+      "excerpt": "Imagine a train that runs a regular service by day but turns into a set of private sleeper compartments at night. Meet Day/Dream, PriestmanGoode’s vision of a multifunctional carriage design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GksevaYa4iutwZsj22oKJF-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Herzog & de Meuron reuses foundations for mass-timber Massachusetts school building",
+      "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
+      "excerpt": "Swiss studio Herzog & de Meuron has utilised the existing concrete foundation of an older structure for the Student Center & Dining Commons at Amherst College, adding mass-timber levels on top. The St",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "How Hans J Wegner became the ‘king of chairs’",
+      "url": "https://www.wallpaper.com/design-interiors/how-hans-j-wegner-became-the-king-of-chairs",
+      "excerpt": "Danish designer Hans J Wegner created some of the 20th century’s most recognisable chairs. Here Wallpaper* explores the stories behind the designs",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JSGTuY7YSh6YrXDxwnVWBg-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Inside the design of Joy Division’s lavish new boxset",
+      "url": "https://www.wallpaper.com/art/music/joy-division-boxset-eternal-live",
+      "excerpt": "Joy Division is releasing a new boxset comprising 14 CDs, documenting 16 gigs, and two DVDs of filmed performances. Craig McLean speaks to band members about their visual iconography",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V3Jh5guSMiUo7KTihBEqrE.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Barbie provides inspiration and source material for Gomi’s new range of unique devices",
+      "url": "https://www.wallpaper.com/tech/gomi-barbie-childhood-memories-collection-of-devices",
+      "excerpt": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xskYYzTZHuqFR4wuH5w5Gk-1400-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "renée levi brings fluorescent painting to hayward gallery’s brutalist facade",
+      "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
+      "excerpt": "the swiss artist turns industrial mesh and raw concrete into a temporary painting for audemars piguet contemporary, shaped by architecture, movement and the changing city.\nThe post renée levi brings f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
       "today": true
     },
     {
@@ -269,16 +353,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Travelling with an entourage? Aman New York’s sprawling ‘Homes’ are Manhattan’s most lavish new perch",
-      "url": "https://www.wallpaper.com/travel/hotels/aman-new-york-homes",
-      "excerpt": "Private pools? Butler service? One of Manhattan's most acclaimed hotels just upped the ante",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cLXv9ceFgZPMCi54cAQ9Bf-1920-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.24",
@@ -286,46 +360,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/24/metacode-vitra-tiles-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: textural concrete meets the aesthetic of oxidised metal in this series of tiles, designed by surfaces brand VitrA Tiles. Combining modern and industrial influences, Metacode is a seri",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/metacode-vitra-tiles-design_dezeen_2364_hero.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "\"It's time Norway realises that we also need to change\" says Line Ramstad",
-      "url": "https://www.dezeen.com/2026/09/24/line-ramstad-oslo-architecture-triennale/",
-      "excerpt": "As a wealthy nation, Norway has a responsibility to tackle climate change by developing a nature-first approach to designing buildings, Oslo Architecture Triennale director Line Ramstad tells Dezeen i",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/line-ramstad-oslo-architecture-triennale_dezeen_2364_col_2.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Roberts launches the Revere family of all-in-one audio players, adding CDs to its arsenal",
-      "url": "https://www.wallpaper.com/tech/roberts-revere-audio-players-review",
-      "excerpt": "The Revere 100, 300 and 500 from Roberts mark the audio brand’s entry into the burgeoning market for compact disc players, as well as added functionality and power",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QQoSRyPUJGZwX5WHBJpoF9-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "In Milan, Prada Galleria weaves past and present across eight floors",
-      "url": "https://www.wallpaper.com/fashion-beauty/prada-galleria-opens-in-milan",
-      "excerpt": "The eight-floor retail proposition, ‘Prada Galleria’, includes a permanent exhibition space called the ‘Pradasphere’",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p7Xi3dJkxYYfZPx5m3Vnu8-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "The Mindcraft Project showcases works that \"lie in-between craft and design\"",
-      "url": "https://www.dezeen.com/2026/09/24/the-mindcraft-project-in-between-craft-and-design/",
-      "excerpt": "The latest edition of Danish design initiative The Mindcraft Project, curated by Christian + Jade, features pieces ranging from a pedestal constructed out of leftover shipping industry steel to a pago",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/the-mindcraft-project-2026-copenhagen_dezeen_2364_col_sq1.jpg",
       "today": true
     },
     {
@@ -349,13 +383,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.24",
-      "title": "To celebrate 30 years of its Overseas collection Vacheron Constantin unveils new Overseas Perpetual Calendar Ultra-Thin",
-      "url": "https://www.wallpaper.com/watches-jewellery/vacheron-constantin-new-overseas-perpetual-calendar-ultra-thin",
-      "excerpt": "Limited to 200 pieces, the anniversary model pairs an azure blue dial with white gold and a case measuring just 8.11mm thick",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fVLEvLZedU7SoJxiUgmhG9-2560-80.jpg",
+      "title": "Fire Severely Damages Jean Nouvel’s La Querola in Andorra",
+      "url": "https://www.archdaily.com/1185688/fire-severely-damages-jean-nouvels-la-querola-in-andorra",
+      "excerpt": "A fire has severely damaged La Querola d'Ordino, a residential development in Ordino, Andorra, designed by Jean Nouvel in collaboration with Ribas & Ribas Arquitectes and Jordi Sala. The fire began du",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/10a1/59bf/5a01/8bd6/85ea/large_jpg/fire-severely-damages-jean-nouvels-la-querola-in-andorra_1.jpg?1790251181",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Time as a Building Material in Francis Kéré’s Architecture",
+      "url": "https://www.archdaily.com/1185415/time-as-a-building-material-in-francis-keres-architecture",
+      "excerpt": "\"After all, time is a key ingredient of my profession,\" states Francis Kéré in his book Francis Kéré: Building Stories. Architecture is constantly evolving and transforming over time. Bricks, doors, w",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/35ff/d8c8/8201/89ac/d820/large_jpg/time-as-a-building-material-in-francis-keres-architecture_1.jpg?1789933085",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "KINSHASA Zando Central Market / THINK TANK architecture",
+      "url": "https://www.archdaily.com/1185165/kinshasa-zando-central-market-think-tank-architecture",
+      "excerpt": "The new Zando Central Market of Kinshasa, was conceived above all as an African market, not a mall. Despite its scale and thanks to the attention to comfort, the project remains open to the city, its ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/6f6b/c1eb/5301/897f/22f3/large_jpg/kinshasa-zando-central-market-think-tank-architecture_7.jpg?1789489020",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Fondation Beyeler Expands with Three New Buildings by Peter Zumthor",
+      "url": "https://www.archdaily.com/1185683/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor",
+      "excerpt": "The Fondation Beyeler in Riehen, Switzerland, is expanding its museum ensemble with three new buildings by Swiss architect Peter Zumthor, an enlarged and restored park, and the adaptive reuse of sever",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab4/eb83/e78f/b301/883c/f4e4/large_jpg/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor_1.jpg?1790241695",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Arcipressi Residence  / bucci quentin",
+      "url": "https://www.archdaily.com/1185107/arcipressi",
+      "excerpt": "Arcipressi is an architectural residence nestled in the green heart of Florence, a portion of a historic villa that has undergone a careful renovation aimed at restoring a timeless elegance to the spa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebc3/large_jpg/fv-036-24-013.jpg?1789457862",
       "today": true
     },
     {
@@ -369,16 +443,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "STROOG Headquarters / MOUNT FUJI ARCHITECTS STUDIO",
-      "url": "https://www.archdaily.com/1185578/stroog-headquarters-mount-fuji-architects-studio",
-      "excerpt": "For some time, I have been wondering whether it might be possible to create an architectural system without a fixed, predetermined outline—one that remains open and flexible with regard to both space ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/8648/472c/aa01/8aa1/51b9/large_jpg/stroog-headquarters-mount-fuji-architects-studio_1.jpg?1790084697",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.24",
@@ -389,36 +453,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Tianlai Art Museum / Mao, Shen-Chiang Architecture Studio",
-      "url": "https://www.archdaily.com/1185463/tianlai-art-museum-mao-shen-chiang-architecture-studio",
-      "excerpt": "Commissioned by the chairman to commemorate his parents and ancestral home, Tianlai Art Museum transforms private memory into a public space for exhibition, set within its rural context. The original ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/4076/c765/2000/0134/6e29/large_jpg/Tianlai_Art_Museum__24_.jpg?1790001568",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Bigger Isn't Just an Aesthetic Choice: What Façade Systems Conceal Behind Their Materials",
-      "url": "https://www.archdaily.com/1183933/bigger-isnt-just-an-aesthetic-choice-what-facade-systems-conceal-behind-their-materials",
-      "excerpt": "Seamless surfaces and minimal joints have become a defining signature of contemporary architecture, prized for the clean lines, and uniformity they bring to a building's envelope. Yet in façade engine",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa1/e9fe/237b/e901/8be9/62b8/large_jpg/bigger-isnt-just-an-aesthetic-choice-how-facade-systems-combine-simplicity-with-high-performance_13.jpg?1788996118",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "the iLOOminate Public Toilet / Studio 10",
-      "url": "https://www.archdaily.com/1185629/the-iloominate-public-toilet-studio-10",
-      "excerpt": "Situated in Zhongxin Village, the iLOOminate Public Toilet is a pivotal supporting facility of the South Kunlun–Luofu Mountain Architectural Art Programme. The project undertakes the renovation and up",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/b2de/7707/e600/01bb/363c/large_jpg/6-_______________The_single-slope_roof_opens_up_to_the_lush_northern_mountains._____Chao_Zhang.jpg?1790161685",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.23",
@@ -426,36 +460,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/",
       "excerpt": "a wearable field of LEDs translates a composer’s synesthetic color map across the violinist’s moving body.\nThe post synesthesia translated into light across audrey wright’s musical body at the MET app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luminous-being-prismbody-garment-audrey-wright-geoff-robertson-stephanie-ann-boyd-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "Gaviota House / SAA Arquitectura + Territorio",
-      "url": "https://www.archdaily.com/1185510/gaviota-house-saa-arquitectura-plus-territorio",
-      "excerpt": "To inhabit is not to occupy a place, but to establish a conscious relationship with it. The project is located at the eastern end of Lake Rupanco, within a tall, old-growth temperate rainforest in sou",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8637/c765/2000/0134/7142/large_jpg/gaviota01.jpg?1790019146",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "No alarms and no surprises as Bentley rolls out the majestic Torcal, its first take on a luxury EV",
-      "url": "https://www.wallpaper.com/transportation/no-alarms-and-no-surprises-as-bentley-rolls-out-the-majestic-torcal-its-first-take-on-a-luxury-ev",
-      "excerpt": "The Bentley Torcal is an all-electric SUV with a distinctive GT flavour, imperious looks and a relentless focus on craft and materials. We take a look inside and out",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QfzwgQxeqF9n3fWduiG4nY-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "lume traveler’s lightest caravan hides a pull-out kitchen in its aluminum shell",
-      "url": "https://www.designboom.com/technology/lume-travelers-lightest-caravan-pull-out-kitchen-aluminum-shell-ranger/",
-      "excerpt": "the compact aluminum trailer moves cooking outdoors to leave more of its interior free for sleeping and sitting.\nThe post lume traveler’s lightest caravan hides a pull-out kitchen in its aluminum shel",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lume-ranger-lightweight-caravan-designboom-FB-1.jpg",
       "today": false
     },
     {
