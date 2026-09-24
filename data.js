@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.23  21:57",
+  "fetchedAt": "2026.09.24  00:16",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -17,19 +17,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "chunichi.co.jp": {
+    "中日新聞Web": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ADF Web Magazine": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -45,27 +45,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "anna（アンナ）": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "hamakei.com": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -73,49 +73,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
     {
       "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "jp.pronews.com",
+      "source": "pronews.com",
       "cat": "国内情報",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
@@ -124,7 +128,7 @@ window.LUMINO_DATA = {
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
@@ -133,25 +137,16 @@ window.LUMINO_DATA = {
     {
       "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "PR TIMES",
-      "cat": "賞・コンペ",
-      "date": "2026.09.23",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -160,25 +155,25 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -187,7 +182,7 @@ window.LUMINO_DATA = {
     {
       "source": "アメーバブログ",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
@@ -196,7 +191,7 @@ window.LUMINO_DATA = {
     {
       "source": "東京建物株式会社",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "京橋エリア最大級、再エネ由来電力で17万個のLED電球が灯る「2025東京スクエアガーデン ウィンターイルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFF2bDVZMWhmVWNRV3Zfdl9HTjBjWTZpVzNIeEFfeE9tM3pWTWJWNHlhemxraUdkbDZ2aG45UTR4RFVDRldJUDNrU0dLQ1A3RUhF?oc=5",
       "excerpt": "",
@@ -205,36 +200,45 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.09.23",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
       "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "hamakei.com",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.23",
+      "date": "2026.09.24",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.24",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.24",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -246,7 +250,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/",
       "excerpt": "a wearable field of LEDs translates a composer’s synesthetic color map across the violinist’s moving body.\nThe post synesthesia translated into light across audrey wright’s musical body at the MET app",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luminous-being-prismbody-garment-audrey-wright-geoff-robertson-stephanie-ann-boyd-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -256,7 +260,17 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/23/national-trust-for-historic-preservation-defense-fund-washington-dc/",
       "excerpt": "Washington DC nonprofit The National Trust for Historic Preservation, which sued the government last year over the White House ballroom extension, has announced a $10 million fundraising campaign for ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/washington-dc-skyline-general_dezeen_2364_sq-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "Gaviota House / SAA Arquitectura + Territorio",
+      "url": "https://www.archdaily.com/1185510/gaviota-house-saa-arquitectura-plus-territorio",
+      "excerpt": "To inhabit is not to occupy a place, but to establish a conscious relationship with it. The project is located at the eastern end of Lake Rupanco, within a tall, old-growth temperate rainforest in sou",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8637/c765/2000/0134/7142/large_jpg/gaviota01.jpg?1790019146",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -266,7 +280,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/23/bentley-first-electric-car-torcal-robin-page-interview/",
       "excerpt": "Car brand Bentley has revealed the Torcal, its first fully electric car. Ahead of its unveiling today, we spoke to design director Robin Page about how the car balances an electric future with the bra",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bentley-first-electric-car-torcal-robin-page-interview_dezeen_2364_hero_9.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -276,7 +290,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/no-alarms-and-no-surprises-as-bentley-rolls-out-the-majestic-torcal-its-first-take-on-a-luxury-ev",
       "excerpt": "The Bentley Torcal is an all-electric SUV with a distinctive GT flavour, imperious looks and a relentless focus on craft and materials. We take a look inside and out",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QfzwgQxeqF9n3fWduiG4nY-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -286,7 +300,17 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/23/nicholas-galanin-sightline-lifeline-st-louis-counterpublic/",
       "excerpt": "Alaska-based artist Nicholas Galanin has created a metal sculpture resembling a stretched animal hide in front of the St Louis Gateway Arch to challenge \"narratives of westward expansion\" for art fest",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/counterpublic-st-louis-nicholas-galanin_dezeen_2364_hero.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.23",
+      "title": "São Sabas College / Guido Otero Arquitetura",
+      "url": "https://www.archdaily.com/1031597/sao-sabas-college-guido-otero-arquitetura",
+      "excerpt": "Conversion of a residence in the Chácara Flora neighborhood houses the new unit of Colégio São Sabas. This project consists of adapting a former residence in the Chácara Flora neighborhood to house th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/685d/ab05/c677/403f/603d/8416/large_jpg/escola-sao-sabas-guido-otero-arquitetura_16.jpg?1750969115",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -296,7 +320,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/faye-toogood-mutina-tiles-faces-and-figures",
       "excerpt": "Italian tile manufacturer Mutina taps the British designer for a collection that means walls really do have ears – and eyes, noses and nipples",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9Fo7XZ2H2w7vV6pkELVDXW-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -306,7 +330,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/lume-travelers-lightest-caravan-pull-out-kitchen-aluminum-shell-ranger/",
       "excerpt": "the compact aluminum trailer moves cooking outdoors to leave more of its interior free for sleeping and sitting.\nThe post lume traveler’s lightest caravan hides a pull-out kitchen in its aluminum shel",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lume-ranger-lightweight-caravan-designboom-FB-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -316,7 +340,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/bars/esthetic-joys-embassy-belgrade-review",
       "excerpt": "This new Belgrade hot spot meshes vinyl culture, comfort food and Yugoslav futurism into an eclectic hospitality experiment",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dekMwo7PJCdZ3P3d55NwUL-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -326,7 +350,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/23/nuclear-education-centre-english-garden-cardiff-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a centre dedicated to nuclear learning set within the historic landscape of Stowe, UK, is among the projects by students at Cardiff University. Also included is an ecology centre ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Square_dezeen_2364_col_0.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -336,7 +360,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185459/linden-house-schemata-architects",
       "excerpt": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservatio",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/459c/3c90/2a01/8a12/49f8/large_jpg/linden-house-schemata-architects_28.jpg?1790002607",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -346,7 +370,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/photography/linda-mccartney-the-art-of-the-album-wrensilva-los-angeles-review",
       "excerpt": "The photographer’s acclaimed, often unguarded images of music legends led to an array of album art, now the subject of a unique display at Wrensilva Los Angeles that teams photography with vinyl",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Yi67m7Kx2NxixoJLGquykh-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -356,7 +380,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/curved-mirrored-steel-walls-one-tree-forest-infinite-grove-pavilion-shanghai-chang-hao-studio/",
       "excerpt": "when on the move, different trees reshape the reflected landscape while the pavilion structure remains unchanged.\nThe post curved mirrored steel walls multiply one tree into forest at infinite grove p",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/infinite-grove-traveling-pavilion-tree-endless-forest-chang-hao-studio-shanghai-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -366,7 +390,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
       "excerpt": "Mexican lighting designer Federico Stefanovich has worked with local interiors firm Nama Studio to renovate his studio in a hotel-turned-arts building in Mexico City's Centro neighbourhood. Known for ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/stefanovich-studio-nama-mexico-city-lighting_dezeen_2364_hero.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -376,7 +400,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/horl-scissors-and-sharpeners-review",
       "excerpt": "Made in Germany and designed to last, Horl shapes scissors and sharpeners that can be passed on to future generations",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nyR8xDz6moicYiw6K8usZe-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -386,7 +410,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185662/mogno-house-rb-arquitetura",
       "excerpt": "In Salvador, architect Roberta Barral, head of the firm RB Arquitetura, designed her own residence: Casa Mogno (Mahogany House), a 510 m² (5,490 sq ft) building completed in December 2024 after two ye",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/9478/7707/e600/01bb/320a/large_jpg/Projeto_RB_Arquitetura_-_Mogno_I_Foto_OKA_Fotografia___89__1_.jpg?1790088463",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -396,7 +420,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1033068/shore-house-stanley-office-of-architecture",
       "excerpt": "Perched on a steep, forested slope at the edge of Kootenay Lake, Shore House is a family home that responds to its challenging terrain with deep foundations and cantilevered floors projecting over the",
       "thumbnailUrl": "https://images.adsttc.com/media/images/689c/88f2/65bf/e15a/7e16/3560/large_jpg/shore-house-stanley-office-of-architecture_1.jpg?1755089156",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -406,7 +430,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/jenny-holzer-truisms-power-public-art-screen/",
       "excerpt": "long before screens became part of everyday life, the artist understood their potential to shape what we notice, read, and remember.\nThe post jenny holzer’s truisms and the power of the public screen ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/jenny-holzer-truisms-power-public-screen-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -416,27 +440,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/seoul-design-award-2026-reveals-top-10-finalists/",
       "excerpt": "global public voting for the seoul design award 2026 is now open to shape the final results.\nThe post seoul design award 2026 reveals top 10 finalists and launches public grand prize voting appeared f",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/seoul-design-award_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "Multidisciplinary Health Center Bordeaux Dunant / Bartolo+Contré",
-      "url": "https://www.archdaily.com/1185369/multidisciplinary-health-center-bordeaux-dunant-bartolo-plus-contre",
-      "excerpt": "The healthcare sector is currently undergoing significant changes. As medical practices become increasingly collaborative, architecture must evolve beyond the traditional model of isolated consultatio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aad/2e7a/066f/0900/0145/75b8/large_jpg/sandrineiratcabal_2026_BARTOLOCONTRE_MEDICINA_BORDEAUX_WEB-8.jpg?1789734562",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "Nature as a Starting Point: Lessons from the Oslo Architecture Triennale 2026",
-      "url": "https://www.archdaily.com/1185601/nature-as-a-starting-point-lessons-from-the-oslo-architecture-triennale-2026",
-      "excerpt": "The 9th Oslo Architecture Triennale unfolds in a setting that already embodies many of the questions it raises. Sofienberg Church, a 19th-century Gothic brick building now being converted from a place",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/cad7/e78f/b301/883c/eef8/large_jpg/what-if-nature-comes-first-inside-the-oslo-architecture-triennale-2026_2.jpg?1790102257",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
