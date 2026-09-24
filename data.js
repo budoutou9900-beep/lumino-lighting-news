@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.24  19:43",
+  "fetchedAt": "2026.09.24  22:56",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -33,35 +33,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "anna（アンナ）": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "anna（アンナ）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "オズモール": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "デジカメ Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "jp.pronews.com",
+      "source": "pronews.com",
       "cat": "国内情報",
       "date": "2026.09.24",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -185,6 +185,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.24",
+      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.24",
@@ -230,12 +239,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.24",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
-      "excerpt": "",
+      "title": "hundreds of feet of cable and steel reimagine rodin’s thinker for networked age",
+      "url": "https://www.designboom.com/art/hundreds-of-feet-of-cable-and-steel-reimagine-rodins-thinker-for-networked-age/",
+      "excerpt": "blue, gray, and white cables form the sculpture’s dominant palette.\nThe post hundreds of feet of cable and steel reimagine rodin’s thinker for networked age appeared first on designboom | architecture",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kasey-mcmahon-the-thinker-steel-network-cables-designboom-1200-1-1.jpg",
       "today": true
     },
     {
@@ -266,6 +276,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/24/mschf-lexus-electric-motomorphosis-circle-car-twisted-car-amory-week/",
       "excerpt": "Brooklyn creative studio MSCHF has created two twisted and bent versions of Lexus electric cars for New York City's fall art week, which the studio said is a play on the automotive industry's concept ",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/motomorphosis-lexus-chelsea-industrial-circle-car-twist-car_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Bosque House / FGMF",
+      "url": "https://www.archdaily.com/1033146/bosque-house-fgmf",
+      "excerpt": "Adult and sculptural trees fill the central portion of this 14,000 m² plot of land in the Fazenda Boa Vista condominium, in the countryside of São Paulo. The drop, which at first glance is delicate, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/689d/0c13/07ae/344a/64ec/e916/large_jpg/casa-bosque-fgmf_24.jpg?1755122773",
       "today": true
     },
     {
@@ -426,26 +446,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "MPNYC turns former port warehouse into adaptable cultural space in piraeus",
-      "url": "https://www.designboom.com/architecture/mpnyc-manhattan-projects-new-york-city-former-port-warehouse-adaptable-cultural-space-piraeus-andreas-kostopoulos/",
-      "excerpt": "the architects trace the industrial past of the building while adapting it for exhibitions, workshops, meetings, and collaboration.\nThe post MPNYC turns former port warehouse into adaptable cultural s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/mpnyc-manhattan-projects-new-york-city-former-port-warehouse-adaptable-cultural-space-piraeus-andreas-kostopoulos-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Time as a Building Material in Francis Kéré’s Architecture",
-      "url": "https://www.archdaily.com/1185415/time-as-a-building-material-in-francis-keres-architecture",
-      "excerpt": "\"After all, time is a key ingredient of my profession,\" states Francis Kéré in his book Francis Kéré: Building Stories. Architecture is constantly evolving and transforming over time. Bricks, doors, w",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/35ff/d8c8/8201/89ac/d820/large_jpg/time-as-a-building-material-in-francis-keres-architecture_1.jpg?1789933085",
       "today": true
     },
     {
