@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.24  15:42",
+  "fetchedAt": "2026.09.24  19:43",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "digitalavmagazine.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -33,43 +33,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "anna（アンナ）": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "anna（アンナ）": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "オズモール": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -77,33 +77,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ArchDaily": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "パナソニック": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -117,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "cat": "国内情報",
       "date": "2026.09.24",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -126,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "digitalavmagazine.com",
+      "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.24",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -140,6 +136,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.24",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "賞・コンペ",
+      "date": "2026.09.24",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -176,15 +181,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.24",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.09.24",
-      "title": "「大阪・光の饗宴2025」御堂筋イルミネーションで並木道ライトアップ、中之島に\"光のトンネル”も",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zLU5XY3AyLTVFMzNVUkNnRVRNU1VCU21QbDRuYXZkaXJ0cUJYRVdaaTd3RXhIZVpVUGdxZkdFb2dmRkVVdmJuVFl6UjJXRWRJQlRv?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -237,9 +233,49 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.24",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Estudio Zero shapes pink Mexican co-living complex after sound wave",
+      "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
+      "excerpt": "Mexican practice Estudio Zero has created a co-living apartment building rendered in pink-toned concrete with a series of arched forms informed by sound waves in Puerto Escondido, Oaxaca. Known as Amp",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "scars left by bears ripple through these japanese cedar surfboards",
+      "url": "https://www.designboom.com/design/scars-bears-japanese-cedar-surfboards-wood-project-tsutsumi-asakichi-urushi/",
+      "excerpt": "asian black bears leave irregular grain across cedar that is shaped by hand and sealed beneath glossy urushi lacquer.\nThe post scars left by bears ripple through these japanese cedar surfboards appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tsutsumi-asakichi-urushi-bear-woods-project-surfboard-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "MSCHF twists Lexus electric cars into absurd shapes in New York",
+      "url": "https://www.dezeen.com/2026/09/24/mschf-lexus-electric-motomorphosis-circle-car-twisted-car-amory-week/",
+      "excerpt": "Brooklyn creative studio MSCHF has created two twisted and bent versions of Lexus electric cars for New York City's fall art week, which the studio said is a play on the automotive industry's concept ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/motomorphosis-lexus-chelsea-industrial-circle-car-twist-car_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "leaning timber frame anchors shrine office in japanese mountain valley",
+      "url": "https://www.designboom.com/architecture/leaning-timber-frame-shrine-office-japanese-mountain-valley-sobokuya/",
+      "excerpt": "larch timber, stone footings, and corten steel shape the shrine office by sobokuya.\nThe post leaning timber frame anchors shrine office in japanese mountain valley appeared first on designboom | archi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leaning-timber-shrine-office-japan-sobokuya-designboom-1200.jpg",
       "today": true
     },
     {
@@ -250,6 +286,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/24/papermaking-centre-swinburne-university-of-technology-schoolshows/",
       "excerpt": "Dezeen School Shows: a centre for developing handmade paper is among the projects from students at Swinburne University of Technology. Also featured is a tool to support those living with dementia and",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Dezeen-School-Shows_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "A House with One Hundred Pines / Luis Barandiarán",
+      "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran",
+      "excerpt": "This is a summer house designed for sporadic use by the client and for short-term rentals.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fc69/7707/e600/01bb/3814/large_jpg/1.jpg?1790180516",
       "today": true
     },
     {
@@ -303,6 +349,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Butantã House / André Guerra Arquitetos",
+      "url": "https://www.archdaily.com/1185703/butanta-house-andre-guerra-arquitetos",
+      "excerpt": "The Butantã House lives in the balance between permanence and transformation. We preserved the original burned concrete floor. Above it, the wooden truss was painted white to draw the eye upward and b",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/ccd3/7707/e600/01bb/3715/large_jpg/05_Camila_Alba_Andr__WEB-2.jpg?1790168327",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Le Grand-Espace Sherbrooke: A New Cultural Venue / Atelier Paul Laurendeau + NEUF architect(e)s",
+      "url": "https://www.archdaily.com/1185692/le-grand-espace-sherbrooke-a-new-cultural-venue-atelier-paul-laurendeau-plus-neuf-architect-e-s",
+      "excerpt": "Le Grand-Espace enhances the cultural offering of the Eastern Townships tourist region through a flexible performance venue capable of hosting a wide range of artistic disciplines, from theatre and da",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/1a58/7707/e600/01bb/39cd/large_jpg/119476-full_7940-1_119476_sc_v2com.jpg?1790253716",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.24",
@@ -343,23 +409,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.24",
-      "title": "Meta unveils lightweight VR glasses and camera-free AI glasses at Connect 2026",
-      "url": "https://www.dezeen.com/2026/09/24/meta-vr-glasses-audio-ai-glasses-connect-2026/",
-      "excerpt": "Meta has revealed slimline VR glasses for immersive entertainment on the go and an audio-only, camera-free version of its Ray-Ban glasses as the latest additions to its expanding product portfolio. An",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/meta-vr-glasses-ray-ban-audio-connect-2026-design_dezeen_2364_hero.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Metacode tiles by VitrA Tiles",
-      "url": "https://www.dezeen.com/2026/09/24/metacode-vitra-tiles-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: textural concrete meets the aesthetic of oxidised metal in this series of tiles, designed by surfaces brand VitrA Tiles. Combining modern and industrial influences, Metacode is a seri",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/metacode-vitra-tiles-design_dezeen_2364_hero.jpg",
+      "title": "House Ersland & Skeie / Knut Hjeltnes + Francesca Iarrusso, PhD",
+      "url": "https://www.archdaily.com/1184724/house-ersland-and-skeie-knut-hjeltnes-plus-francesca-iarrusso-phd",
+      "excerpt": "The house is built in a semi-dense part of the city of Stavanger and is mostly just a large outcropping piece of bedrock, with a very steep slope toward the street. The program is ordinary, a house of",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/e77b/13b9/4100/01df/6da5/large_jpg/House_Ersland___Skeie_-_003___MG_7392-Rediger_.jpg?1788864402",
       "today": true
     },
     {
@@ -386,50 +442,10 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.24",
-      "title": "Fire Severely Damages Jean Nouvel’s La Querola in Andorra",
-      "url": "https://www.archdaily.com/1185688/fire-severely-damages-jean-nouvels-la-querola-in-andorra",
-      "excerpt": "A fire has severely damaged La Querola d'Ordino, a residential development in Ordino, Andorra, designed by Jean Nouvel in collaboration with Ribas & Ribas Arquitectes and Jordi Sala. The fire began du",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/10a1/59bf/5a01/8bd6/85ea/large_jpg/fire-severely-damages-jean-nouvels-la-querola-in-andorra_1.jpg?1790251181",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
       "title": "Time as a Building Material in Francis Kéré’s Architecture",
       "url": "https://www.archdaily.com/1185415/time-as-a-building-material-in-francis-keres-architecture",
       "excerpt": "\"After all, time is a key ingredient of my profession,\" states Francis Kéré in his book Francis Kéré: Building Stories. Architecture is constantly evolving and transforming over time. Bricks, doors, w",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/35ff/d8c8/8201/89ac/d820/large_jpg/time-as-a-building-material-in-francis-keres-architecture_1.jpg?1789933085",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "KINSHASA Zando Central Market / THINK TANK architecture",
-      "url": "https://www.archdaily.com/1185165/kinshasa-zando-central-market-think-tank-architecture",
-      "excerpt": "The new Zando Central Market of Kinshasa, was conceived above all as an African market, not a mall. Despite its scale and thanks to the attention to comfort, the project remains open to the city, its ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa9/6f6b/c1eb/5301/897f/22f3/large_jpg/kinshasa-zando-central-market-think-tank-architecture_7.jpg?1789489020",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Fondation Beyeler Expands with Three New Buildings by Peter Zumthor",
-      "url": "https://www.archdaily.com/1185683/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor",
-      "excerpt": "The Fondation Beyeler in Riehen, Switzerland, is expanding its museum ensemble with three new buildings by Swiss architect Peter Zumthor, an enlarged and restored park, and the adaptive reuse of sever",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab4/eb83/e78f/b301/883c/f4e4/large_jpg/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor_1.jpg?1790241695",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Arcipressi Residence  / bucci quentin",
-      "url": "https://www.archdaily.com/1185107/arcipressi",
-      "excerpt": "Arcipressi is an architectural residence nestled in the green heart of Florence, a portion of a historic villa that has undergone a careful renovation aimed at restoring a timeless elegance to the spa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa8/f4fa/a74d/1200/0125/ebc3/large_jpg/fv-036-24-013.jpg?1789457862",
       "today": true
     },
     {
@@ -441,26 +457,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "discarded road signs transform into monumental land art installation on sardinian shore",
-      "url": "https://www.designboom.com/art/discarded-road-signs-monumental-land-art-installation-sardinian-shore-urban-pixel-chapter-i-last-wave-scoobafish-maurizio-sergiusti/",
-      "excerpt": "inspired by hokusai's great wave, the work turns objects once designed to regulate movement into physical pixels, creating an ephemeral image.\nThe post discarded road signs transform into monumental l",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/urban-pixel-chapter-i-last-wave-discarded-road-signs-land-art-installation-sardinia-scoobafish-maurizio-sergiusti-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.23",
-      "title": "synesthesia translated into light across audrey wright’s musical body at the MET",
-      "url": "https://www.designboom.com/art/synesthesia-light-audrey-wright-musical-body-metropolitan-museum-geoff-robertson-stephanie-ann-boyd/",
-      "excerpt": "a wearable field of LEDs translates a composer’s synesthetic color map across the violinist’s moving body.\nThe post synesthesia translated into light across audrey wright’s musical body at the MET app",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luminous-being-prismbody-garment-audrey-wright-geoff-robertson-stephanie-ann-boyd-designboom-FB.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
