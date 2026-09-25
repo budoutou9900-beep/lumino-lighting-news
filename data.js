@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.25  01:08",
+  "fetchedAt": "2026.09.25  07:00",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "digitalavmagazine.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ADF Web Magazine": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -61,7 +61,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -69,23 +69,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "cat": "国内情報",
       "date": "2026.09.25",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "digitalavmagazine.com",
+      "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.25",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
@@ -176,7 +176,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
       "date": "2026.09.25",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -233,9 +233,69 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.25",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "traditional emirati patterns and craft frame al maktoum archives’ interiors in dubai",
+      "url": "https://www.designboom.com/readers/traditional-emirati-patterns-craft-al-maktoum-archives-interiors-dubai-kart-group/",
+      "excerpt": "traditional craft references extend from the archive collection into the working environment.\nThe post traditional emirati patterns and craft frame al maktoum archives’ interiors in dubai appeared fir",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/traditional-emirati-patterns-craft-al-maktoum-archives-dubai-kart-group-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Your favourite rosé turned 20. Here’s to Whispering Angel",
+      "url": "https://www.wallpaper.com/entertaining/food-drink/whispering-angel-20-year-anniversary",
+      "excerpt": "The French wine helped transform how the world viewed rosé. To celebrate its birthday, Whispering Angel launches its 20th anniversary vintage",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pMj3c87icReX95WA36vrxQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "meet the bentley torcal: the marque’s first electric car asks what a bentley should sound like",
+      "url": "https://www.designboom.com/technology/bentley-torcal-first-electric-car-vehicle/",
+      "excerpt": "bentley’s first fully electric car preserves its long proportions and tactile cabin while musicians rebuild the sound of its V8.\nThe post meet the bentley torcal: the marque’s first electric car asks ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bentley-torcal-electric-car-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Terràvue Residence / Fictive Architects",
+      "url": "https://www.archdaily.com/1185595/terravue-residence-fictive-architects",
+      "excerpt": "In the culturally steeped landscape of Thanjavur, Terràvué emerges as a 5,565-square-foot manifesto on sustainable luxury. Designed for a corner plot bounded by roads on the north and west, the reside",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/a396/7707/e600/01bb/3252/large_jpg/A7403437.jpg?1790092322",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "サステナビリティページを公開しました。",
+      "url": "https://www.dnlighting.co.jp/company/sustainability.html",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/dnl_og.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Changbai Foothill Antler Restaurant / Origin Architect",
+      "url": "https://www.archdaily.com/1185630/changbai-foothill-antler-restaurant-origin-architect",
+      "excerpt": "Original Architecture's exploration of construction is based on an understanding of geography, climate, anthropological research, religious and cultural history, and the construction techniques of the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/b2f4/7707/e600/01bb/3664/large_jpg/B2-____.jpg?1790161698",
       "today": true
     },
     {
@@ -266,6 +326,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
       "excerpt": "Mexican practice Estudio Zero has created a co-living apartment building rendered in pink-toned concrete with a series of arched forms informed by sound waves in Puerto Escondido, Oaxaca. Known as Amp",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_hero.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.24",
+      "title": "Berna House / Hiro Arquitectos",
+      "url": "https://www.archdaily.com/1185734/berna-house-hiro-arquitectos",
+      "excerpt": "In Peruvian construction, brick masonry is rarely left exposed: it is built, plastered over, and disappears beneath the finish. Casa Berna begins by reversing this practice. The brick walls remain exp",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8876/c765/2000/0134/71a2/large_jpg/_FDM9027-HDR-Editar-Editar.jpg?1790020428",
       "today": false
     },
     {
@@ -379,66 +449,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Butantã House / André Guerra Arquitetos",
-      "url": "https://www.archdaily.com/1185703/butanta-house-andre-guerra-arquitetos",
-      "excerpt": "The Butantã House lives in the balance between permanence and transformation. We preserved the original burned concrete floor. Above it, the wooden truss was painted white to draw the eye upward and b",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/ccd3/7707/e600/01bb/3715/large_jpg/05_Camila_Alba_Andr__WEB-2.jpg?1790168327",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Le Grand-Espace Sherbrooke: A New Cultural Venue / Atelier Paul Laurendeau + NEUF architect(e)s",
-      "url": "https://www.archdaily.com/1185692/le-grand-espace-sherbrooke-a-new-cultural-venue-atelier-paul-laurendeau-plus-neuf-architect-e-s",
-      "excerpt": "Le Grand-Espace enhances the cultural offering of the Eastern Townships tourist region through a flexible performance venue capable of hosting a wide range of artistic disciplines, from theatre and da",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/1a58/7707/e600/01bb/39cd/large_jpg/119476-full_7940-1_119476_sc_v2com.jpg?1790253716",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Barbie provides inspiration and source material for Gomi’s new range of unique devices",
-      "url": "https://www.wallpaper.com/tech/gomi-barbie-childhood-memories-collection-of-devices",
-      "excerpt": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xskYYzTZHuqFR4wuH5w5Gk-1400-80.png",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "renée levi brings fluorescent painting to hayward gallery’s brutalist facade",
-      "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
-      "excerpt": "the swiss artist turns industrial mesh and raw concrete into a temporary painting for audemars piguet contemporary, shaped by architecture, movement and the changing city.\nThe post renée levi brings f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission-designboom-100.jpeg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "when art gives you nothing to look at, absence becomes the spectacle",
-      "url": "https://www.designboom.com/art/nothing-absence-spectacle/",
-      "excerpt": "artists have used absence to shift attention from the artwork itself to the experience of seeing, hearing, and being there.\nThe post when art gives you nothing to look at, absence becomes the spectacl",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nothing-absence-spectacle-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "House Ersland & Skeie / Knut Hjeltnes + Francesca Iarrusso, PhD",
-      "url": "https://www.archdaily.com/1184724/house-ersland-and-skeie-knut-hjeltnes-plus-francesca-iarrusso-phd",
-      "excerpt": "The house is built in a semi-dense part of the city of Stavanger and is mostly just a large outcropping piece of bedrock, with a very steep slope toward the street. The program is ordinary, a house of",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9f/e77b/13b9/4100/01df/6da5/large_jpg/House_Ersland___Skeie_-_003___MG_7392-Rediger_.jpg?1788864402",
-      "today": false
-    },
-    {
       "source": "岩崎電気",
       "cat": "新製品",
       "date": "2026.09.24",
@@ -546,16 +556,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/182",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/182/04.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.09.07",
-      "title": "納入事例に「千葉神社参集殿増改築」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/191",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/191/chiba_jinja_031.jpg",
       "today": false
     },
     {
