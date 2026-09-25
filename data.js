@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.25  12:41",
+  "fetchedAt": "2026.09.25  17:44",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,15 +33,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Sortir à Paris": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "anna（アンナ）": {
+    "Sortir à Paris": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "hamakei.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,15 +49,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "dc.watch.impress.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,41 +65,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "パナソニック": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -185,6 +177,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.25",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
       "date": "2026.09.25",
@@ -194,16 +195,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.09.25",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
+      "source": "hamakei.com",
       "cat": "展示・アート",
       "date": "2026.09.25",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -221,7 +213,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デジカメ Watch",
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.25",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "dc.watch.impress.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.25",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
@@ -230,12 +231,63 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.09.25",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
-      "excerpt": "",
+      "title": "Renée Levi's colourful painting takes over the Hayward Gallery",
+      "url": "https://www.wallpaper.com/art/renee-levi-september-hayward-gallery",
+      "excerpt": "‘September’, co-commissioned by the Hayward Gallery and Audemars Piguet Contemporary, is Levi's first large-scale commission in the UK",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Np6U93xjFuMyc67whVHqQN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Gjergji Shkurti integrates bar, retail and hi-fi at Millions Goods in Brooklyn",
+      "url": "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/",
+      "excerpt": "Architect Gjergji Shkurti has collaborated with concept shop Million Goods for its Brooklyn location, using marble, custom millwork and curated furniture to create a transition from hospitality to ret",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/gjergji-shkurti-million-goods-ft-green-brooklyn-listening-bar_dezeen_2364_col_11.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "aluminum and bolted steel turn platform bed into architectural piece at paris design week",
+      "url": "https://www.designboom.com/design/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios/",
+      "excerpt": "egyptian cotton bedding by brut studios dresses the architectural bed, designed by rik frans jansen.\nThe post aluminum and bolted steel turn platform bed into architectural piece at paris design week ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Scale, pace and grace are integral to Royal Huisman’s mighty Project 410 sailing yacht",
+      "url": "https://www.wallpaper.com/transportation/scale-pace-and-grace-are-integral-to-royal-huismans-mighty-project-410-sailing-yacht",
+      "excerpt": "Revealed for the first time, the secretive Project 410 is Royal Huisman’s take on a truly massive single-masted superyacht",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UavNvrGrp8mGf6Qbpw2FwA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "An installation from Lexus and MSCHF adds an unfamiliar twist to automotive art",
+      "url": "https://www.wallpaper.com/transportation/an-installation-from-lexus-and-mschf-adds-an-unfamiliar-twist-to-automotive-art",
+      "excerpt": "Motomorphosis is on show this weekend at New York's Chelsea Industrial, an installation that transforms two electric Lexuses into futuristic sculptural forms",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fRCDynNCCNFYiEBLaNvvtc-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Laminex Colour Collection 2027 by Laminex",
+      "url": "https://www.dezeen.com/2026/09/25/laminex-colour-collection-2027-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: Australian surface brand Laminex has released its 2027 Colour Collection, adding 10 new designs inspired by the country's landscape to its laminate range. Six solid colours and four w",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/laminex-dulux-colour-collection-2027-showroom_dezeen_2364_hero.jpg",
       "today": true
     },
     {
@@ -299,16 +351,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "ReSKU 2.0 fabric by Camira",
-      "url": "https://www.dezeen.com/2026/09/25/resku-20-fabric-camira-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: recycled wool and renewable flax come together in a warm melange of colour in British textile brand Camira's ReSKU 2.0 fabric. ReSKU 2.0 was launched to celebrate Camira's 50th annive",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/resku-20-fabric-camira-design_dezeen_2364_hero.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -316,36 +358,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/casa-caban-hayama-review",
       "excerpt": "Tomorrowland’s first hotel pairs Patricia Urquiola’s design language with the soothing landscape of Sagami Bay",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fXcU8AaLivKDyQVpZLH9F9-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "IWC marks 50 years of Gérald Genta’s Ingenieur with two limited-edition watches",
-      "url": "https://www.wallpaper.com/watches-jewellery/contemporary-watches/iwc-ingenieur-automatic-50th-anniversary",
-      "excerpt": "A half-century since the celebrated watch designer created the IWC Ingenieur SL, the new editions honour his ‘elegant but also pioneering’ vision",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n7wBgR2fwPh8D6N36BFAYc-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Will the iPhone Duo send folding smartphones mainstream?",
-      "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/",
-      "excerpt": "Has Apple just triggered another paradigm shift in smartphone design? And what's behind Donald Trump's plans for his triumphal arch to be a base for drones and snipers? Listen to the latest episode of",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/iphone-duo-washington-arch-25-september-2026-dezeen-weekly-podcast-sq.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Satisfy’s new Paris boutique isn’t your dad’s running store",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/satisfy-paris-store",
-      "excerpt": "The popular French performance brand has teamed up with Ciguë to create its first-ever permanent retail location and coffee shop. No surprise, the queue already goes out the door",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jXSFU6zV8QqX37BWqDudge-2000-80.jpg",
       "today": true
     },
     {
@@ -369,16 +381,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Your favourite rosé turned 20. Here’s to Whispering Angel",
-      "url": "https://www.wallpaper.com/entertaining/food-drink/whispering-angel-20-year-anniversary",
-      "excerpt": "The French wine helped transform how the world viewed rosé. To celebrate its birthday, Whispering Angel launches its 20th anniversary vintage",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pMj3c87icReX95WA36vrxQ-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -386,16 +388,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects",
       "excerpt": "Located in a quiet rural village in Ibaraki Prefecture, this house is designed as a final home for a mature couple. The project is an extension to an existing main house, and within the gentle scale o",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/c0ce/e78f/b301/883c/f0e7/large_jpg/house-of-emptiness-igarchitects_18.jpg?1790165222",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "meet the bentley torcal: the marque’s first electric car asks what a bentley should sound like",
-      "url": "https://www.designboom.com/technology/bentley-torcal-first-electric-car-vehicle/",
-      "excerpt": "bentley’s first fully electric car preserves its long proportions and tactile cabin while musicians rebuild the sound of its V8.\nThe post meet the bentley torcal: the marque’s first electric car asks ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bentley-torcal-electric-car-designboom-FB.jpg",
       "today": true
     },
     {
@@ -529,16 +521,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -566,16 +548,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
