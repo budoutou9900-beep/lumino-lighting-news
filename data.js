@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.25  07:00",
+  "fetchedAt": "2026.09.25  12:41",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,15 +29,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "adfwebmagazine.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "anna（アンナ）": {
+    "Sortir à Paris": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Sortir à Paris": {
+    "anna（アンナ）": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -57,23 +57,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Dezeen": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "jp.pronews.com",
+      "source": "pronews.com",
       "cat": "国内情報",
       "date": "2026.09.25",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -149,20 +149,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.25",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.09.25",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.25",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -176,20 +176,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
+      "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
       "date": "2026.09.25",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.09.25",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -199,6 +190,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.25",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "anna（アンナ）",
+      "cat": "展示・アート",
+      "date": "2026.09.25",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -239,6 +239,126 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Work in Process: Objects of Common Interest share ‘the magic of surprise’ at their Piraeus workshop",
+      "url": "https://www.wallpaper.com/design-interiors/work-in-process-objects-of-common-interest-greece",
+      "excerpt": "This Wallpaper* video series discovers the processes by which creative visionaries bring their work to life. Here, we dive deep into Objects of Common Interest’s experimentation and creative alchemy a",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSy6Wg236tKCcPDuqGoDgP-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "autonomous robotic hand walks on its fingertips like the addams family’s thing",
+      "url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/",
+      "excerpt": "with no legs, wheels or robotic arm in sight, the 818-gram prototype has figured out how to get around on its own.\nThe post autonomous robotic hand walks on its fingertips like the addams family’s thi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/autonomous-robotic-hand-addams-familys-thing-eth-zurich-designboom-5.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "the flâneur and the birth of the modern urban spectator",
+      "url": "https://www.designboom.com/architecture/flaneur-birth-modern-urban-spectator/",
+      "excerpt": "nineteenth-century paris produced a figure who made a practice of watching the city.\nThe post the flâneur and the birth of the modern urban spectator appeared first on designboom | architecture & desi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/flaneur-birth-modern-urban-spectator-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "London home renovation by Polysmiths uses \"light as the primary material\"",
+      "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
+      "excerpt": "Lime-plastered brickwork, timber boards and cork panels were used to help capture the changing light at Pine House, a terraced home in London renovated by local architecture studio Polysmiths. Located",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Meta debuts Tamagotchi-style AI agent",
+      "url": "https://www.dezeen.com/2026/09/25/meta-debuts-tamagotchi-style-ai-agent/",
+      "excerpt": "Meta is creating a tiny, portable Muse Charm device for carrying around the company's AI agent, chief executive Mark Zuckerberg has announced. Produced by Meta's new design team, led by former Apple d",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/sq-meta-muse-charm_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Splitting cells informs Shanghai research campus' interconnected buildings",
+      "url": "https://www.dezeen.com/2026/09/25/bdp-research-campus-chia-tai-tianqing-pharmaceutical-group-shanghai/",
+      "excerpt": "Architecture studio BDP has unveiled a pharmaceutical research campus in Shanghai, China, comprised of interconnected buildings that evoke the movement of cell division. Located within Hongqiao Intern",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bdp-cttq-research-campus-shanghai-china_dezeen_1704_col_exclusive_sq.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "ReSKU 2.0 fabric by Camira",
+      "url": "https://www.dezeen.com/2026/09/25/resku-20-fabric-camira-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: recycled wool and renewable flax come together in a warm melange of colour in British textile brand Camira's ReSKU 2.0 fabric. ReSKU 2.0 was launched to celebrate Camira's 50th annive",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/resku-20-fabric-camira-design_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Casa Caban Hayama offers a design-led coastal escape outside Tokyo",
+      "url": "https://www.wallpaper.com/travel/hotels/casa-caban-hayama-review",
+      "excerpt": "Tomorrowland’s first hotel pairs Patricia Urquiola’s design language with the soothing landscape of Sagami Bay",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fXcU8AaLivKDyQVpZLH9F9-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "IWC marks 50 years of Gérald Genta’s Ingenieur with two limited-edition watches",
+      "url": "https://www.wallpaper.com/watches-jewellery/contemporary-watches/iwc-ingenieur-automatic-50th-anniversary",
+      "excerpt": "A half-century since the celebrated watch designer created the IWC Ingenieur SL, the new editions honour his ‘elegant but also pioneering’ vision",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/n7wBgR2fwPh8D6N36BFAYc-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Will the iPhone Duo send folding smartphones mainstream?",
+      "url": "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/",
+      "excerpt": "Has Apple just triggered another paradigm shift in smartphone design? And what's behind Donald Trump's plans for his triumphal arch to be a base for drones and snipers? Listen to the latest episode of",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/iphone-duo-washington-arch-25-september-2026-dezeen-weekly-podcast-sq.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Satisfy’s new Paris boutique isn’t your dad’s running store",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/satisfy-paris-store",
+      "excerpt": "The popular French performance brand has teamed up with Ciguë to create its first-ever permanent retail location and coffee shop. No surprise, the queue already goes out the door",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jXSFU6zV8QqX37BWqDudge-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "céleste boursier-mougenot brings his floating ceramic orchestra outdoors in athens",
+      "url": "https://www.designboom.com/art/celeste-boursier-mougenot-floating-ceramic-orchestra-outdoors-athens-clinamen-onassis-mandra/",
+      "excerpt": "after paris and new york, the evolving sound installation arrives in athens, where water, porcelain, architecture, and the weather become part of the composition.\nThe post céleste boursier-mougenot br",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/celeste-boursier-mougenot-floating-ceramic-orchestra-outdoors-athens-clinamen-onassis-mandra-designboom-1200.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -256,6 +376,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/entertaining/food-drink/whispering-angel-20-year-anniversary",
       "excerpt": "The French wine helped transform how the world viewed rosé. To celebrate its birthday, Whispering Angel launches its 20th anniversary vintage",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pMj3c87icReX95WA36vrxQ-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "House of Emptiness / IGArchitects",
+      "url": "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects",
+      "excerpt": "Located in a quiet rural village in Ibaraki Prefecture, this house is designed as a final home for a mature couple. The project is an extension to an existing main house, and within the gentle scale o",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/c0ce/e78f/b301/883c/f0e7/large_jpg/house-of-emptiness-igarchitects_18.jpg?1790165222",
       "today": true
     },
     {
@@ -299,36 +429,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "hundreds of feet of cable and steel reimagine rodin’s thinker for networked age",
-      "url": "https://www.designboom.com/art/hundreds-of-feet-of-cable-and-steel-reimagine-rodins-thinker-for-networked-age/",
-      "excerpt": "blue, gray, and white cables form the sculpture’s dominant palette.\nThe post hundreds of feet of cable and steel reimagine rodin’s thinker for networked age appeared first on designboom | architecture",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/kasey-mcmahon-the-thinker-steel-network-cables-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Sleep supporting emotional wellbeing device among projects from Georgia Institute of Technology",
-      "url": "https://www.dezeen.com/2026/09/24/recording-devices-sleep-support-georgia-institute-of-technology-schoolshows/",
-      "excerpt": "Dezeen School Shows: a sleep support device that encourages users to record valuable moments of their day is among the projects from students at Georgia Institute of Technology. Also featured is a com",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Georgia-Institute-of-Technology-Dezeen_dezeen_2364_col_0.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Estudio Zero shapes pink Mexican co-living complex after sound wave",
-      "url": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
-      "excerpt": "Mexican practice Estudio Zero has created a co-living apartment building rendered in pink-toned concrete with a series of arched forms informed by sound waves in Puerto Escondido, Oaxaca. Known as Amp",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/08/amplitude-coliving-estudio-zero-oaxaca-pink-coliving_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.24",
@@ -339,26 +439,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "scars left by bears ripple through these japanese cedar surfboards",
-      "url": "https://www.designboom.com/design/scars-bears-japanese-cedar-surfboards-wood-project-tsutsumi-asakichi-urushi/",
-      "excerpt": "asian black bears leave irregular grain across cedar that is shaped by hand and sealed beneath glossy urushi lacquer.\nThe post scars left by bears ripple through these japanese cedar surfboards appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tsutsumi-asakichi-urushi-bear-woods-project-surfboard-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "MSCHF twists Lexus electric cars into absurd shapes in New York",
-      "url": "https://www.dezeen.com/2026/09/24/mschf-lexus-electric-motomorphosis-circle-car-twisted-car-amory-week/",
-      "excerpt": "Brooklyn creative studio MSCHF has created two twisted and bent versions of Lexus electric cars for New York City's fall art week, which the studio said is a play on the automotive industry's concept ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/motomorphosis-lexus-chelsea-industrial-circle-car-twist-car_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.24",
@@ -366,86 +446,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1033146/bosque-house-fgmf",
       "excerpt": "Adult and sculptural trees fill the central portion of this 14,000 m² plot of land in the Fazenda Boa Vista condominium, in the countryside of São Paulo. The drop, which at first glance is delicate, a",
       "thumbnailUrl": "https://images.adsttc.com/media/images/689d/0c13/07ae/344a/64ec/e916/large_jpg/casa-bosque-fgmf_24.jpg?1755122773",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "leaning timber frame anchors shrine office in japanese mountain valley",
-      "url": "https://www.designboom.com/architecture/leaning-timber-frame-shrine-office-japanese-mountain-valley-sobokuya/",
-      "excerpt": "larch timber, stone footings, and corten steel shape the shrine office by sobokuya.\nThe post leaning timber frame anchors shrine office in japanese mountain valley appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/leaning-timber-shrine-office-japan-sobokuya-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Papermaking centre among projects from Swinburne University of Technology students",
-      "url": "https://www.dezeen.com/2026/09/24/papermaking-centre-swinburne-university-of-technology-schoolshows/",
-      "excerpt": "Dezeen School Shows: a centre for developing handmade paper is among the projects from students at Swinburne University of Technology. Also featured is a tool to support those living with dementia and",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Dezeen-School-Shows_dezeen_2364_col_0.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "A House with One Hundred Pines / Luis Barandiarán",
-      "url": "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran",
-      "excerpt": "This is a summer house designed for sporadic use by the client and for short-term rentals.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fc69/7707/e600/01bb/3814/large_jpg/1.jpg?1790180516",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "A tortoise’s shell inspired the protective façade of this Swedish villa",
-      "url": "https://www.wallpaper.com/architecture/residential/swedish-villa-hdv-hollviken",
-      "excerpt": "A ‘hard-shell’ concrete and timber exterior conceals softer gardens and family spaces within Villa HDV",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4Fi55AqxqzoQkJFh2nSFzX-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "PriestmanGoode’s Day/Dream rail concept offers a vision of a future transformable train",
-      "url": "https://www.wallpaper.com/transportation/priestmangoode-day-dream-transformable-rail-concept",
-      "excerpt": "Imagine a train that runs a regular service by day but turns into a set of private sleeper compartments at night. Meet Day/Dream, PriestmanGoode’s vision of a multifunctional carriage design",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GksevaYa4iutwZsj22oKJF-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Herzog & de Meuron reuses foundations for mass-timber Massachusetts school building",
-      "url": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
-      "excerpt": "Swiss studio Herzog & de Meuron has utilised the existing concrete foundation of an older structure for the Student Center & Dining Commons at Amherst College, adding mass-timber levels on top. The St",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/herzog-de-meuron-amherst-student-center_dezeen_2364_sq.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "How Hans J Wegner became the ‘king of chairs’",
-      "url": "https://www.wallpaper.com/design-interiors/how-hans-j-wegner-became-the-king-of-chairs",
-      "excerpt": "Danish designer Hans J Wegner created some of the 20th century’s most recognisable chairs. Here Wallpaper* explores the stories behind the designs",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JSGTuY7YSh6YrXDxwnVWBg-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Inside the design of Joy Division’s lavish new boxset",
-      "url": "https://www.wallpaper.com/art/music/joy-division-boxset-eternal-live",
-      "excerpt": "Joy Division is releasing a new boxset comprising 14 CDs, documenting 16 gigs, and two DVDs of filmed performances. Craig McLean speaks to band members about their visual iconography",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/V3Jh5guSMiUo7KTihBEqrE.gif",
       "today": false
     },
     {
