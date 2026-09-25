@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.25  17:44",
+  "fetchedAt": "2026.09.25  21:00",
   "sourceColors": {
-    "マイナビニュース": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -33,7 +33,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "anna（アンナ）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "hamakei.com": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,15 +49,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "dc.watch.impress.co.jp": {
+    "Google ニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "デジカメ Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,38 +65,46 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "マイナビニュース",
+      "source": "news.mynavi.jp",
       "cat": "デザイン",
       "date": "2026.09.25",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -177,10 +185,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.25",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
@@ -195,7 +203,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "hamakei.com",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.25",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -222,12 +230,72 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "dc.watch.impress.co.jp",
+      "source": "デジカメ Watch",
       "cat": "展示・アート",
       "date": "2026.09.25",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Demna opens up shop for his ‘quintessentially Gucci’ sophomore show",
+      "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
+      "excerpt": "Taking place in a specially constructed Gucci ‘store’ that teased his new retail vision, Demna’s S/S 2027 show for the house, held in Milan this afternoon (25 September 2026), saw bourgeois dress code",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "tim burton’s batman returns batmobile heads to auction for up to $7 million",
+      "url": "https://www.designboom.com/technology/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions/",
+      "excerpt": "screen-used batman returns batmobile by tim burton heads to julien’s auctions with a $5–7 million estimate.\nThe post tim burton’s batman returns batmobile heads to auction for up to $7 million appeare",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions-designboom-3.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "alexandre arrechea grows a playable tree of basketball hoops in toronto",
+      "url": "https://www.designboom.com/art/alexandre-arrechea-tree-basketball-hoops-toronto-lassonde-art-trail/",
+      "excerpt": "more than twenty playable basketball hoops extend from the branching red sculpture in toronto.\nThe post alexandre arrechea grows a playable tree of basketball hoops in toronto appeared first on design",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/alexandre-arrechea-orange-functional-lassonde-art-trail-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Fondation Beyeler soft-launches its campus expansion in Basel",
+      "url": "https://www.wallpaper.com/architecture/fondation-beyeler-soft-launches-campus-expansion-basel-switzerland",
+      "excerpt": "The institution’s refreshed art campus in Switzerland includes new works by Peter Zumthor and more",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ybEULSxNUPUwpMqNHHUSL4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Nine dynamic surfaces that give interiors eye-catching backgrounds",
+      "url": "https://www.dezeen.com/2026/09/25/surfaces-tiles-wallpaper-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: wallpapers, tiles and surfaces are all among recent wall and floor coverings published on Dezeen Showroom. The selection includes wallpapers based on designs by William Morris, marble",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/03/eterna-nouveau-wallpaper-astek-design_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Explore Geoffrey Bawa like never before, at a new Vitra Design Museum show",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum",
+      "excerpt": "‘Geoffrey Bawa: Architecture for the Senses' at Vitra Design Museum invites visitors on a deep dive into the Sri Lankan architect's life and vision",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rTK5pexAP3VLqCLFeGQp8M-1417-80.jpg",
       "today": true
     },
     {
@@ -244,9 +312,9 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.25",
-      "title": "Gjergji Shkurti integrates bar, retail and hi-fi at Millions Goods in Brooklyn",
+      "title": "Gjergji Shkurti integrates bar, retail and hi-fi at Million Goods in Brooklyn",
       "url": "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/",
-      "excerpt": "Architect Gjergji Shkurti has collaborated with concept shop Million Goods for its Brooklyn location, using marble, custom millwork and curated furniture to create a transition from hospitality to ret",
+      "excerpt": "Architect Gjergji Shkurti has collaborated with concept shop Million Goods for its second Brooklyn location, using marble, custom millwork and curated furniture to create a transition from hospitality",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/gjergji-shkurti-million-goods-ft-green-brooklyn-listening-bar_dezeen_2364_col_11.jpg",
       "today": true
     },
@@ -271,16 +339,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "An installation from Lexus and MSCHF adds an unfamiliar twist to automotive art",
-      "url": "https://www.wallpaper.com/transportation/an-installation-from-lexus-and-mschf-adds-an-unfamiliar-twist-to-automotive-art",
-      "excerpt": "Motomorphosis is on show this weekend at New York's Chelsea Industrial, an installation that transforms two electric Lexuses into futuristic sculptural forms",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fRCDynNCCNFYiEBLaNvvtc-2560-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -291,13 +349,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
-      "title": "Work in Process: Objects of Common Interest share ‘the magic of surprise’ at their Piraeus workshop",
-      "url": "https://www.wallpaper.com/design-interiors/work-in-process-objects-of-common-interest-greece",
-      "excerpt": "This Wallpaper* video series discovers the processes by which creative visionaries bring their work to life. Here, we dive deep into Objects of Common Interest’s experimentation and creative alchemy a",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kSy6Wg236tKCcPDuqGoDgP-1920-80.jpg",
+      "title": "Jeronimo Faria Lima Building / Perkins&Will São Paulo",
+      "url": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo",
+      "excerpt": "At one of São Paulo’s most emblematic corners—where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street—Jeronimo Faria Lima does not seek to assert itsel",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/8028/e944/b300/0137/38ff/large_jpg/_08A1905-Pano_copyright_manuel_sa_copiar.jpg?1790279779",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Panorama House / Studio B Architecture + Interiors",
+      "url": "https://www.archdaily.com/1029465/panorama-house-studio-b-architecture-plus-interiors",
+      "excerpt": "The Panorama House project involved both renovating and expanding an existing residence originally designed by the renowned mid-century architect, James Hunter. The structure's distinguished heritage ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/680a/6579/f96c/a300/0183/cdca/large_jpg/Studio_B_Flagstaff_Finals_Web-Res_02.jpg?1745511823",
       "today": true
     },
     {
@@ -341,63 +409,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
-      "title": "Splitting cells informs Shanghai research campus' interconnected buildings",
-      "url": "https://www.dezeen.com/2026/09/25/bdp-research-campus-chia-tai-tianqing-pharmaceutical-group-shanghai/",
-      "excerpt": "Architecture studio BDP has unveiled a pharmaceutical research campus in Shanghai, China, comprised of interconnected buildings that evoke the movement of cell division. Located within Hongqiao Intern",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/bdp-cttq-research-campus-shanghai-china_dezeen_1704_col_exclusive_sq.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Casa Caban Hayama offers a design-led coastal escape outside Tokyo",
-      "url": "https://www.wallpaper.com/travel/hotels/casa-caban-hayama-review",
-      "excerpt": "Tomorrowland’s first hotel pairs Patricia Urquiola’s design language with the soothing landscape of Sagami Bay",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/fXcU8AaLivKDyQVpZLH9F9-1600-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "céleste boursier-mougenot brings his floating ceramic orchestra outdoors in athens",
-      "url": "https://www.designboom.com/art/celeste-boursier-mougenot-floating-ceramic-orchestra-outdoors-athens-clinamen-onassis-mandra/",
-      "excerpt": "after paris and new york, the evolving sound installation arrives in athens, where water, porcelain, architecture, and the weather become part of the composition.\nThe post céleste boursier-mougenot br",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/celeste-boursier-mougenot-floating-ceramic-orchestra-outdoors-athens-clinamen-onassis-mandra-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "traditional emirati patterns and craft frame al maktoum archives’ interiors in dubai",
-      "url": "https://www.designboom.com/readers/traditional-emirati-patterns-craft-al-maktoum-archives-interiors-dubai-kart-group/",
-      "excerpt": "traditional craft references extend from the archive collection into the working environment.\nThe post traditional emirati patterns and craft frame al maktoum archives’ interiors in dubai appeared fir",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/traditional-emirati-patterns-craft-al-maktoum-archives-dubai-kart-group-designboom-1200.jpg",
+      "title": "Corte Renèe Resort / Bricolo Falsarella",
+      "url": "https://www.archdaily.com/1184620/corte-renee-resort-bricolo-falsarella",
+      "excerpt": "Nestled among the green hills of Lake Garda, an 1800s farmhouse was reborn through a restoration project that created a small hospitality structure respecting the local culture and traditions: Corte R",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6c10/15d8/6f00/01a2/f3fc/large_jpg/05_Pietro_Savorelli_Corte_Renee_BF.jpg?1788701773",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
-      "title": "House of Emptiness / IGArchitects",
-      "url": "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects",
-      "excerpt": "Located in a quiet rural village in Ibaraki Prefecture, this house is designed as a final home for a mature couple. The project is an extension to an existing main house, and within the gentle scale o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/c0ce/e78f/b301/883c/f0e7/large_jpg/house-of-emptiness-igarchitects_18.jpg?1790165222",
+      "title": "TC 175- Moneo Brock",
+      "url": "https://www.archdaily.com/1185807/tc-175-moneo-brock",
+      "excerpt": "This issue traces almost two decades of work by the international firm Moneo Brock, founded in New York in 1993 by Belén Moneo and Jeff Brock, and based in Madrid since 2002. Across 320 pages, the pub",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/6f08/e944/b300/0137/3cff/large_jpg/TC175_Moneo_Brock_Portada_web.jpg?1790340878",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
-      "title": "Terràvue Residence / Fictive Architects",
-      "url": "https://www.archdaily.com/1185595/terravue-residence-fictive-architects",
-      "excerpt": "In the culturally steeped landscape of Thanjavur, Terràvué emerges as a 5,565-square-foot manifesto on sustainable luxury. Designed for a corner plot bounded by roads on the north and west, the reside",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/a396/7707/e600/01bb/3252/large_jpg/A7403437.jpg?1790092322",
+      "title": "2027 Beam Camp Project Open Call",
+      "url": "https://www.archdaily.com/1185803/2027-beam-camp-project-open-call",
+      "excerpt": "Beam Center seeks design proposals for an ambitious public artwork that will be brought to life through collaborations between youth, Beam Camp staff and the selected proposer. Projects will be realiz",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/6d54/e944/b300/0137/3ce0/large_jpg/Screenshot_2026-09-23_at_11.13.54_AM.jpg?1790340441",
       "today": true
     },
     {
@@ -409,36 +447,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/dnl_og.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Changbai Foothill Antler Restaurant / Origin Architect",
-      "url": "https://www.archdaily.com/1185630/changbai-foothill-antler-restaurant-origin-architect",
-      "excerpt": "Original Architecture's exploration of construction is based on an understanding of geography, climate, anthropological research, religious and cultural history, and the construction techniques of the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/b2f4/7707/e600/01bb/3664/large_jpg/B2-____.jpg?1790161698",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Berna House / Hiro Arquitectos",
-      "url": "https://www.archdaily.com/1185734/berna-house-hiro-arquitectos",
-      "excerpt": "In Peruvian construction, brick masonry is rarely left exposed: it is built, plastered over, and disappears beneath the finish. Casa Berna begins by reversing this practice. The brick walls remain exp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8876/c765/2000/0134/71a2/large_jpg/_FDM9027-HDR-Editar-Editar.jpg?1790020428",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.24",
-      "title": "Bosque House / FGMF",
-      "url": "https://www.archdaily.com/1033146/bosque-house-fgmf",
-      "excerpt": "Adult and sculptural trees fill the central portion of this 14,000 m² plot of land in the Fazenda Boa Vista condominium, in the countryside of São Paulo. The drop, which at first glance is delicate, a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/689d/0c13/07ae/344a/64ec/e916/large_jpg/casa-bosque-fgmf_24.jpg?1755122773",
-      "today": false
     },
     {
       "source": "岩崎電気",
@@ -521,6 +529,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -548,6 +566,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
