@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.25  21:00",
+  "fetchedAt": "2026.09.25  23:55",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -61,11 +61,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -104,7 +104,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "cat": "デザイン",
       "date": "2026.09.25",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -246,6 +246,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
       "excerpt": "Taking place in a specially constructed Gucci ‘store’ that teased his new retail vision, Demna’s S/S 2027 show for the house, held in Milan this afternoon (25 September 2026), saw bourgeois dress code",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
+      "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
+      "excerpt": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the min",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/lindberg-fabrizio-corneli-site-specific-installation-armory-show-new-york-2026-hero.jpg",
       "today": true
     },
     {
@@ -396,16 +406,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
       "excerpt": "Lime-plastered brickwork, timber boards and cork panels were used to help capture the changing light at Pine House, a terraced home in London renovated by local architecture studio Polysmiths. Located",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Meta debuts Tamagotchi-style AI agent",
-      "url": "https://www.dezeen.com/2026/09/25/meta-debuts-tamagotchi-style-ai-agent/",
-      "excerpt": "Meta is creating a tiny, portable Muse Charm device for carrying around the company's AI agent, chief executive Mark Zuckerberg has announced. Produced by Meta's new design team, led by former Apple d",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/sq-meta-muse-charm_dezeen_2364_col_0.jpg",
       "today": true
     },
     {
