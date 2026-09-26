@@ -1,63 +1,63 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.26  20:32",
+  "fetchedAt": "2026.09.26  23:20",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Digital AV Magazine": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "lp.p.pia.jp": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "axismag.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "anna（アンナ）": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "hamakei.com": {
+    "anna（アンナ）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Google ニュース": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "Google ニュース": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "dc.watch.impress.co.jp": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -109,6 +109,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.26",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.26",
@@ -118,7 +127,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -181,7 +190,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "hamakei.com",
+      "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -226,12 +235,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "dc.watch.impress.co.jp",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.26",
-      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
-      "excerpt": "",
+      "title": "masks, spirits, and mythical figures carry peruvian heritage into WESR’s murals across europe",
+      "url": "https://www.designboom.com/art/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-europe/",
+      "excerpt": "contemporary graphic language meets visual traditions from the peruvian andes.\nThe post masks, spirits, and mythical figures carry peruvian heritage into WESR’s murals across europe appeared first on ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -407,16 +417,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions/",
       "excerpt": "screen-used batman returns batmobile by tim burton heads to julien’s auctions with a $5–7 million estimate.\nThe post tim burton’s batman returns batmobile heads to auction for up to $7 million appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions-designboom-3.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "alexandre arrechea grows a playable tree of basketball hoops in toronto",
-      "url": "https://www.designboom.com/art/alexandre-arrechea-tree-basketball-hoops-toronto-lassonde-art-trail/",
-      "excerpt": "more than twenty playable basketball hoops extend from the branching red sculpture in toronto.\nThe post alexandre arrechea grows a playable tree of basketball hoops in toronto appeared first on design",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/alexandre-arrechea-orange-functional-lassonde-art-trail-designboom-FB.jpg",
       "today": false
     },
     {
