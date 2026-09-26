@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.26  13:42",
+  "fetchedAt": "2026.09.26  17:34",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "lp.p.pia.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ぴあエンタメ情報": {
+    "PR TIMES": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "中日新聞Web": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ADF Web Magazine": {
+    "anna（アンナ）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アメーバブログ": {
+    "hamakei.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,15 +41,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "オズモール": {
+    "walkerplus.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -57,15 +57,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -109,15 +109,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.26",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
       "date": "2026.09.26",
@@ -127,7 +118,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ぴあエンタメ情報",
+      "source": "lp.p.pia.jp",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -172,7 +163,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
       "date": "2026.09.26",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -181,25 +172,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
+      "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.26",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "hamakei.com",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
@@ -226,12 +208,70 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.26",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デジカメ Watch",
+      "cat": "展示・アート",
+      "date": "2026.09.26",
+      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Rockwell Group eschews 90-degree angles for Skywalker Grill at Lucas Museum",
+      "url": "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/",
+      "excerpt": "Here's a closer look inside the newly opened Lucas Museum of Narrative Art, where design studio Rockwell Group has outfitted a restaurant and bar that \"responds to the museum's distinctive biomorphic ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/skywalker-grill_lucas-museum_rockwell-group_dezeen_sq1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Ergonomic lounge chair among projects from Tomas Bata University in Zlín",
+      "url": "https://www.dezeen.com/2026/09/26/ergonomic-lounge-chair-tomas-bata-university-in-zlin-schoolshows/",
+      "excerpt": "Dezeen School Shows: a low-profile leather lounge chair equipped with CNC-bent steel legs is among the projects from Tomas Bata University in Zlín. Also featured is a website that explores free speech",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Tomas-Bata-University-in-Zlín_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "elliptical classroom volumes and colorful louvers shape courtyard kindergarten in hanoi",
+      "url": "https://www.designboom.com/architecture/elliptical-classroom-volumes-colorful-louvers-courtyard-nghia-do-kindergarten-hanoi/",
+      "excerpt": "a triangular courtyard anchors nghia do kindergarten’s elliptical volumes.\nThe post elliptical classroom volumes and colorful louvers shape courtyard kindergarten in hanoi appeared first on designboom",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nghia-do-courtyard-kindergarten-sunjin-vietnam-joint-venture-company-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "casa POP / gon architects",
+      "url": "https://www.archdaily.com/1185659/casa-pop-gon-architects",
+      "excerpt": "Casa POP is based on the premise that there is no such thing as a standard user, and therefore architecture must adapt to unique ways of living. The original home, a 78 m² apartment located in Vicálva",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/89af/c765/2000/0134/71db/large_jpg/casa_POP_by_gon_architects_-_7.jpg?1790020032",
       "today": true
     },
     {
@@ -242,6 +282,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
       "excerpt": "London studio Hayhurst and Co has reorganised Hampstead Town House around a triple-height void, transforming the interior of the north London home while retaining its distinctive 1970s exterior. Hayhu",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/hampstead-town-house-hayhurst-and-co-london-restoration_dezeen_2364_col_5-scaled.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Imbriani – Renovation of Two Apartments in Milan / co.arch studio",
+      "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio",
+      "excerpt": "The project transforms two small early 20th-century apartments in Milan's Bovisa district, organized around a shared threshold. This threshold became the conceptual starting point of the intervention:",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/f9ce/066f/0900/0145/7880/large_jpg/VIA_IMBRIANI_04b.jpg?1789983241",
       "today": true
     },
     {
@@ -275,6 +325,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Between Burning Forests and Utopian Cities: Designing the Climate Transition",
+      "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition",
+      "excerpt": "There is no shortage of ways to imagine what the world will look like after a climate catastrophe. Genres of movies and novels have been built around the question of what happens when contemporary saf",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/aefa/472c/aa01/8aa1/4ea6/large_jpg/dont-skip-to-the-end-tools-to-design-a-climate-transition_3.jpg?1790029570",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.26",
@@ -282,6 +342,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier",
       "excerpt": "12 chandeliers by contemporary creatives (from Norman Foster to Bethan Laura Wood) and made by Murano’s maestri shine their light on the historic craft of glassmaking. Discover the designs, on view in",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RYYPrLy2tMrpym8HHgiehL-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Cabins at the Tip, Sunny Lakes, Senec / ER Atelier",
+      "url": "https://www.archdaily.com/1183944/cabins-at-the-tip-sunny-lakes-senec-er-atelier",
+      "excerpt": "The project of two recreational buildings at the tip of Sunny Lakes in Senec approaches two separate structures as a single architectural and landscape composition. Located on a prominent waterfront p",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d7d/4253/0500/01ca/0906/large_jpg/2025-06-ERatelier-Senec-Foter_sk-97.jpg?1787665843",
       "today": true
     },
     {
@@ -335,16 +405,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
-      "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
-      "excerpt": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the min",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/lindberg-fabrizio-corneli-site-specific-installation-armory-show-new-york-2026-hero.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -352,16 +412,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions/",
       "excerpt": "screen-used batman returns batmobile by tim burton heads to julien’s auctions with a $5–7 million estimate.\nThe post tim burton’s batman returns batmobile heads to auction for up to $7 million appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions-designboom-3.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "PH Olaguer / CDC ARQ",
-      "url": "https://www.archdaily.com/1185861/ph-olaguer-cdc-arq",
-      "excerpt": "Rather than adding elements, the project proposes concentrating functions to free up space. Spatial continuity, the connection to the courtyard, and a single, continuous piece of millwork that guides ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fca6/7707/e600/01bb/3841/large_jpg/CDC-Saberian-7219.jpg?1790180584",
       "today": false
     },
     {
@@ -382,56 +432,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/fondation-beyeler-soft-launches-campus-expansion-basel-switzerland",
       "excerpt": "The institution’s refreshed art campus in Switzerland includes new works by Peter Zumthor and more",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ybEULSxNUPUwpMqNHHUSL4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Nine dynamic surfaces that give interiors eye-catching backgrounds",
-      "url": "https://www.dezeen.com/2026/09/25/surfaces-tiles-wallpaper-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: wallpapers, tiles and surfaces are all among recent wall and floor coverings published on Dezeen Showroom. The selection includes wallpapers based on designs by William Morris, marble",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/03/eterna-nouveau-wallpaper-astek-design_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Residência em Campos do Jordão / Gil Mello Arquitetura",
-      "url": "https://www.archdaily.com/1185725/residencia-em-campos-do-jordao-gil-mello-arquitetura",
-      "excerpt": "The presented project is the result of a complete renovation, based on the premise of reusing the existing perimeter walls, foundations and slabs. This design strategy aimed to optimize resources and ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/7dc0/e944/b300/0137/38eb/large_jpg/ok_02.jpg?1790279273",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "aluminum and bolted steel turn platform bed into architectural piece at paris design week",
-      "url": "https://www.designboom.com/design/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios/",
-      "excerpt": "egyptian cotton bedding by brut studios dresses the architectural bed, designed by rik frans jansen.\nThe post aluminum and bolted steel turn platform bed into architectural piece at paris design week ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Villas Raices / Vince Studio",
-      "url": "https://www.archdaily.com/1185791/villas-raices-vince-studio",
-      "excerpt": "Villas Raíces was born from the intention of inhabiting the mountain with the least possible impact, allowing the architecture to adapt to the terrain and not the other way around.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/68ec/8869/1701/89c2/d504/large_jpg/villas-raices-vince-studio_5.jpg?1790339327",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Jeronimo Faria Lima Building / Perkins&Will São Paulo",
-      "url": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo",
-      "excerpt": "At one of São Paulo’s most emblematic corners—where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street—Jeronimo Faria Lima does not seek to assert itsel",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/8028/e944/b300/0137/38ff/large_jpg/_08A1905-Pano_copyright_manuel_sa_copiar.jpg?1790279779",
       "today": false
     },
     {
