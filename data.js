@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.26  17:34",
+  "fetchedAt": "2026.09.26  20:32",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "adfwebmagazine.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "walkerplus.com": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "dc.watch.impress.co.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -163,7 +163,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
+      "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
       "date": "2026.09.26",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -193,7 +193,7 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.26",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
       "excerpt": "",
       "today": true
@@ -208,7 +208,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
@@ -220,13 +220,13 @@ window.LUMINO_DATA = {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.26",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
+      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "デジカメ Watch",
+      "source": "dc.watch.impress.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.26",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
@@ -241,7 +241,6 @@ window.LUMINO_DATA = {
       "title": "Rockwell Group eschews 90-degree angles for Skywalker Grill at Lucas Museum",
       "url": "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/",
       "excerpt": "Here's a closer look inside the newly opened Lucas Museum of Narrative Art, where design studio Rockwell Group has outfitted a restaurant and bar that \"responds to the museum's distinctive biomorphic ",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/skywalker-grill_lucas-museum_rockwell-group_dezeen_sq1.jpg",
       "today": true
     },
     {
@@ -251,7 +250,6 @@ window.LUMINO_DATA = {
       "title": "Ergonomic lounge chair among projects from Tomas Bata University in Zlín",
       "url": "https://www.dezeen.com/2026/09/26/ergonomic-lounge-chair-tomas-bata-university-in-zlin-schoolshows/",
       "excerpt": "Dezeen School Shows: a low-profile leather lounge chair equipped with CNC-bent steel legs is among the projects from Tomas Bata University in Zlín. Also featured is a website that explores free speech",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/Tomas-Bata-University-in-Zlín_dezeen_2364_col_0.jpg",
       "today": true
     },
     {
@@ -262,6 +260,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/elliptical-classroom-volumes-colorful-louvers-courtyard-nghia-do-kindergarten-hanoi/",
       "excerpt": "a triangular courtyard anchors nghia do kindergarten’s elliptical volumes.\nThe post elliptical classroom volumes and colorful louvers shape courtyard kindergarten in hanoi appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nghia-do-courtyard-kindergarten-sunjin-vietnam-joint-venture-company-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Vila Marebo / Frederico Zanelato | Arquitetos",
+      "url": "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos",
+      "excerpt": "The design of Vila Marebo, in southern Bahia, was born from the invitation of a long-time partner. The premise was clear: to create two independent blocks connected by a footbridge and a generous perg",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/be13/5355/6000/01b4/aace/large_jpg/FACHADAPOSTERIOR00.jpg?1790361196",
       "today": true
     },
     {
@@ -281,7 +289,6 @@ window.LUMINO_DATA = {
       "title": "Hayhurst and Co carves triple-height void through 1970s Hampstead townhouse",
       "url": "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
       "excerpt": "London studio Hayhurst and Co has reorganised Hampstead Town House around a triple-height void, transforming the interior of the north London home while retaining its distinctive 1970s exterior. Hayhu",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/hampstead-town-house-hayhurst-and-co-london-restoration_dezeen_2364_col_5-scaled.jpg",
       "today": true
     },
     {
@@ -301,7 +308,6 @@ window.LUMINO_DATA = {
       "title": "Six designs that freshen up the humble toothbrush",
       "url": "https://www.dezeen.com/2026/09/26/toothbrush-product-design/",
       "excerpt": "After Dyson recently hit headlines with its tech-driven toothbrush, we revisit eight projects from the Dezeen archives that add polish to the everyday dental tool. Accessories by Landor & Fitch Access",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dyson-camerajet-first-toothbrush-floss_dezeen_2364_hero_6.jpg",
       "today": true
     },
     {
@@ -371,7 +377,6 @@ window.LUMINO_DATA = {
       "title": "This week we revealed the Dezeen Awards shortlists",
       "url": "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
       "excerpt": "This week on Dezeen, we revealed the architecture, interiors and design projects in the running to win this year's Dezeen Awards. Over the week, we announced all the projects shortlisted for this year",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2025/05/al-mujadilah-centre-and-mosque-diller-scofidio-renfro-hero_dezeen_2364_col_0.jpg",
       "today": true
     },
     {
@@ -382,16 +387,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio/",
       "excerpt": "the two interventions generate renewable energy, improve comfort, and establish a bold new presence within la unión’s mining landscape.\nThe post ribbed lime-green gateway and blue solar canopy reform ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "The Full Moon / SHISUO design office",
-      "url": "https://www.archdaily.com/1036780/the-full-moon-shisuo-design-office",
-      "excerpt": "Invited by the Power Station of Art (PSA), SHISUO Design Office has unveiled \"The Full Moon\" an urban public art installation celebrating the Mid-Autumn Festival in Shanghai. The installation was real",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6937/dcbd/e123/2a00/01c3/8318/large_jpg/3-The_installation_drew_large_crowds_at_the_West_Bund_during_its_exhibition___Power_Station_of_Art.jpg?1765268741",
       "today": true
     },
     {
