@@ -1,97 +1,101 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.26  09:00",
+  "fetchedAt": "2026.09.26  13:42",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Digital AV Magazine": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "Digital AV Magazine": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "ぴあエンタメ情報": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "PR TIMES": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "axismag.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "中日新聞Web": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "ADF Web Magazine": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "アメーバブログ": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "ヨコハマ経済新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "designboom": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -101,6 +105,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.26",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.26",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -195,6 +208,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.26",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.26",
@@ -204,30 +226,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.26",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "デジカメ Watch",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.26",
-      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
-      "excerpt": "",
+      "title": "Hayhurst and Co carves triple-height void through 1970s Hampstead townhouse",
+      "url": "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
+      "excerpt": "London studio Hayhurst and Co has reorganised Hampstead Town House around a triple-height void, transforming the interior of the north London home while retaining its distinctive 1970s exterior. Hayhu",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/hampstead-town-house-hayhurst-and-co-london-restoration_dezeen_2364_col_5-scaled.jpg",
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.09.26",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
-      "excerpt": "",
+      "title": "Six designs that freshen up the humble toothbrush",
+      "url": "https://www.dezeen.com/2026/09/26/toothbrush-product-design/",
+      "excerpt": "After Dyson recently hit headlines with its tech-driven toothbrush, we revisit eight projects from the Dezeen archives that add polish to the everyday dental tool. Accessories by Landor & Fitch Access",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/dyson-camerajet-first-toothbrush-floss_dezeen_2364_hero_6.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "This advent calendar is filled with design-led gifts",
+      "url": "https://www.wallpaper.com/design-interiors/interior-accessories/westwing-advent-calendar-2026",
+      "excerpt": "Westwing’s design-led advent calendar features a curated collection of gifts bringing together pieces from leading names in interiors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PM9GjaryoyJ2vpmoicNURK-2560-80.jpg",
       "today": true
     },
     {
@@ -281,6 +315,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "The Full Moon / SHISUO design office",
+      "url": "https://www.archdaily.com/1036780/the-full-moon-shisuo-design-office",
+      "excerpt": "Invited by the Power Station of Art (PSA), SHISUO Design Office has unveiled \"The Full Moon\" an urban public art installation celebrating the Mid-Autumn Festival in Shanghai. The installation was real",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6937/dcbd/e123/2a00/01c3/8318/large_jpg/3-The_installation_drew_large_crowds_at_the_West_Bund_during_its_exhibition___Power_Station_of_Art.jpg?1765268741",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -288,6 +332,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
       "excerpt": "Taking place in a specially constructed Gucci ‘store’ that teased his new retail vision, Demna’s S/S 2027 show for the house, held in Milan this afternoon (25 September 2026), saw bourgeois dress code",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
+      "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
+      "excerpt": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the min",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/lindberg-fabrizio-corneli-site-specific-installation-armory-show-new-york-2026-hero.jpg",
       "today": false
     },
     {
@@ -341,26 +395,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Explore Geoffrey Bawa like never before, at a new Vitra Design Museum show",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum",
-      "excerpt": "‘Geoffrey Bawa: Architecture for the Senses' at Vitra Design Museum invites visitors on a deep dive into the Sri Lankan architect's life and vision",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rTK5pexAP3VLqCLFeGQp8M-1417-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Gjergji Shkurti integrates bar, retail and hi-fi at Million Goods in Brooklyn",
-      "url": "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/",
-      "excerpt": "Architect Gjergji Shkurti has collaborated with concept shop Million Goods for its second Brooklyn location, using marble, custom millwork and curated furniture to create a transition from hospitality",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/gjergji-shkurti-million-goods-ft-green-brooklyn-listening-bar_dezeen_2364_col_11.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -391,16 +425,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Laminex Colour Collection 2027 by Laminex",
-      "url": "https://www.dezeen.com/2026/09/25/laminex-colour-collection-2027-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: Australian surface brand Laminex has released its 2027 Colour Collection, adding 10 new designs inspired by the country's landscape to its laminate range. Six solid colours and four w",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/laminex-dulux-colour-collection-2027-showroom_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -408,26 +432,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo",
       "excerpt": "At one of São Paulo’s most emblematic corners—where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street—Jeronimo Faria Lima does not seek to assert itsel",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/8028/e944/b300/0137/38ff/large_jpg/_08A1905-Pano_copyright_manuel_sa_copiar.jpg?1790279779",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Panorama House / Studio B Architecture + Interiors",
-      "url": "https://www.archdaily.com/1029465/panorama-house-studio-b-architecture-plus-interiors",
-      "excerpt": "The Panorama House project involved both renovating and expanding an existing residence originally designed by the renowned mid-century architect, James Hunter. The structure's distinguished heritage ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/680a/6579/f96c/a300/0183/cdca/large_jpg/Studio_B_Flagstaff_Finals_Web-Res_02.jpg?1745511823",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "London home renovation by Polysmiths uses \"light as the primary material\"",
-      "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
-      "excerpt": "Lime-plastered brickwork, timber boards and cork panels were used to help capture the changing light at Pine House, a terraced home in London renovated by local architecture studio Polysmiths. Located",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1.jpg",
       "today": false
     },
     {
