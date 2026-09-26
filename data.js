@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.25  23:55",
+  "fetchedAt": "2026.09.26  03:05",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,15 +57,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -115,7 +115,7 @@ window.LUMINO_DATA = {
     {
       "source": "pronews.com",
       "cat": "国内情報",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
@@ -124,7 +124,7 @@ window.LUMINO_DATA = {
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
       "excerpt": "",
@@ -142,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -151,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -160,7 +160,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -169,7 +169,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -178,7 +178,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
@@ -196,7 +196,7 @@ window.LUMINO_DATA = {
     {
       "source": "Sortir à Paris",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
       "excerpt": "",
@@ -205,7 +205,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
@@ -214,7 +214,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
@@ -223,7 +223,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
       "excerpt": "",
@@ -232,10 +232,20 @@ window.LUMINO_DATA = {
     {
       "source": "デジカメ Watch",
       "cat": "展示・アート",
-      "date": "2026.09.25",
+      "date": "2026.09.26",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "ribbed lime-green gateway and blue solar canopy reform municipal sports center in spain",
+      "url": "https://www.designboom.com/architecture/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio/",
+      "excerpt": "the two interventions generate renewable energy, improve comfort, and establish a bold new presence within la unión’s mining landscape.\nThe post ribbed lime-green gateway and blue solar canopy reform ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio-designboom-1200.jpg",
       "today": true
     },
     {
@@ -246,7 +256,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
       "excerpt": "Taking place in a specially constructed Gucci ‘store’ that teased his new retail vision, Demna’s S/S 2027 show for the house, held in Milan this afternoon (25 September 2026), saw bourgeois dress code",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -256,7 +266,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
       "excerpt": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the min",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/lindberg-fabrizio-corneli-site-specific-installation-armory-show-new-york-2026-hero.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -266,7 +276,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions/",
       "excerpt": "screen-used batman returns batmobile by tim burton heads to julien’s auctions with a $5–7 million estimate.\nThe post tim burton’s batman returns batmobile heads to auction for up to $7 million appeare",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions-designboom-3.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "PH Olaguer / CDC ARQ",
+      "url": "https://www.archdaily.com/1185861/ph-olaguer-cdc-arq",
+      "excerpt": "Rather than adding elements, the project proposes concentrating functions to free up space. Spatial continuity, the connection to the courtyard, and a single, continuous piece of millwork that guides ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fca6/7707/e600/01bb/3841/large_jpg/CDC-Saberian-7219.jpg?1790180584",
+      "today": false
     },
     {
       "source": "designboom",
@@ -276,7 +296,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/alexandre-arrechea-tree-basketball-hoops-toronto-lassonde-art-trail/",
       "excerpt": "more than twenty playable basketball hoops extend from the branching red sculpture in toronto.\nThe post alexandre arrechea grows a playable tree of basketball hoops in toronto appeared first on design",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/alexandre-arrechea-orange-functional-lassonde-art-trail-designboom-FB.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -286,7 +306,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/fondation-beyeler-soft-launches-campus-expansion-basel-switzerland",
       "excerpt": "The institution’s refreshed art campus in Switzerland includes new works by Peter Zumthor and more",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ybEULSxNUPUwpMqNHHUSL4-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -296,7 +316,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/25/surfaces-tiles-wallpaper-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: wallpapers, tiles and surfaces are all among recent wall and floor coverings published on Dezeen Showroom. The selection includes wallpapers based on designs by William Morris, marble",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/03/eterna-nouveau-wallpaper-astek-design_dezeen_2364_hero.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -306,7 +326,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum",
       "excerpt": "‘Geoffrey Bawa: Architecture for the Senses' at Vitra Design Museum invites visitors on a deep dive into the Sri Lankan architect's life and vision",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/rTK5pexAP3VLqCLFeGQp8M-1417-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -316,7 +336,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/renee-levi-september-hayward-gallery",
       "excerpt": "‘September’, co-commissioned by the Hayward Gallery and Audemars Piguet Contemporary, is Levi's first large-scale commission in the UK",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Np6U93xjFuMyc67whVHqQN-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -326,7 +346,17 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/",
       "excerpt": "Architect Gjergji Shkurti has collaborated with concept shop Million Goods for its second Brooklyn location, using marble, custom millwork and curated furniture to create a transition from hospitality",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/gjergji-shkurti-million-goods-ft-green-brooklyn-listening-bar_dezeen_2364_col_11.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Residência em Campos do Jordão / Gil Mello Arquitetura",
+      "url": "https://www.archdaily.com/1185725/residencia-em-campos-do-jordao-gil-mello-arquitetura",
+      "excerpt": "The presented project is the result of a complete renovation, based on the premise of reusing the existing perimeter walls, foundations and slabs. This design strategy aimed to optimize resources and ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/7dc0/e944/b300/0137/38eb/large_jpg/ok_02.jpg?1790279273",
+      "today": false
     },
     {
       "source": "designboom",
@@ -336,7 +366,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios/",
       "excerpt": "egyptian cotton bedding by brut studios dresses the architectural bed, designed by rik frans jansen.\nThe post aluminum and bolted steel turn platform bed into architectural piece at paris design week ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -346,7 +376,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/scale-pace-and-grace-are-integral-to-royal-huismans-mighty-project-410-sailing-yacht",
       "excerpt": "Revealed for the first time, the secretive Project 410 is Royal Huisman’s take on a truly massive single-masted superyacht",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UavNvrGrp8mGf6Qbpw2FwA-2560-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.25",
+      "title": "Villas Raices / Vince Studio",
+      "url": "https://www.archdaily.com/1185791/villas-raices-vince-studio",
+      "excerpt": "Villas Raíces was born from the intention of inhabiting the mountain with the least possible impact, allowing the architecture to adapt to the terrain and not the other way around.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/68ec/8869/1701/89c2/d504/large_jpg/villas-raices-vince-studio_5.jpg?1790339327",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -356,7 +396,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/25/laminex-colour-collection-2027-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: Australian surface brand Laminex has released its 2027 Colour Collection, adding 10 new designs inspired by the country's landscape to its laminate range. Six solid colours and four w",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/laminex-dulux-colour-collection-2027-showroom_dezeen_2364_hero.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -366,7 +406,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo",
       "excerpt": "At one of São Paulo’s most emblematic corners—where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street—Jeronimo Faria Lima does not seek to assert itsel",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/8028/e944/b300/0137/38ff/large_jpg/_08A1905-Pano_copyright_manuel_sa_copiar.jpg?1790279779",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -376,7 +416,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1029465/panorama-house-studio-b-architecture-plus-interiors",
       "excerpt": "The Panorama House project involved both renovating and expanding an existing residence originally designed by the renowned mid-century architect, James Hunter. The structure's distinguished heritage ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/680a/6579/f96c/a300/0183/cdca/large_jpg/Studio_B_Flagstaff_Finals_Web-Res_02.jpg?1745511823",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -386,17 +426,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/",
       "excerpt": "with no legs, wheels or robotic arm in sight, the 818-gram prototype has figured out how to get around on its own.\nThe post autonomous robotic hand walks on its fingertips like the addams family’s thi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/autonomous-robotic-hand-addams-familys-thing-eth-zurich-designboom-5.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "the flâneur and the birth of the modern urban spectator",
-      "url": "https://www.designboom.com/architecture/flaneur-birth-modern-urban-spectator/",
-      "excerpt": "nineteenth-century paris produced a figure who made a practice of watching the city.\nThe post the flâneur and the birth of the modern urban spectator appeared first on designboom | architecture & desi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/flaneur-birth-modern-urban-spectator-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -406,37 +436,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
       "excerpt": "Lime-plastered brickwork, timber boards and cork panels were used to help capture the changing light at Pine House, a terraced home in London renovated by local architecture studio Polysmiths. Located",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/polysmiths-pine-house-renovation-london-sq_dezeen_2364_col_1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Corte Renèe Resort / Bricolo Falsarella",
-      "url": "https://www.archdaily.com/1184620/corte-renee-resort-bricolo-falsarella",
-      "excerpt": "Nestled among the green hills of Lake Garda, an 1800s farmhouse was reborn through a restoration project that created a small hospitality structure respecting the local culture and traditions: Corte R",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6c10/15d8/6f00/01a2/f3fc/large_jpg/05_Pietro_Savorelli_Corte_Renee_BF.jpg?1788701773",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "TC 175- Moneo Brock",
-      "url": "https://www.archdaily.com/1185807/tc-175-moneo-brock",
-      "excerpt": "This issue traces almost two decades of work by the international firm Moneo Brock, founded in New York in 1993 by Belén Moneo and Jeff Brock, and based in Madrid since 2002. Across 320 pages, the pub",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/6f08/e944/b300/0137/3cff/large_jpg/TC175_Moneo_Brock_Portada_web.jpg?1790340878",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "2027 Beam Camp Project Open Call",
-      "url": "https://www.archdaily.com/1185803/2027-beam-camp-project-open-call",
-      "excerpt": "Beam Center seeks design proposals for an ambitious public artwork that will be brought to life through collaborations between youth, Beam Camp staff and the selected proposer. Projects will be realiz",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/6d54/e944/b300/0137/3ce0/large_jpg/Screenshot_2026-09-23_at_11.13.54_AM.jpg?1790340441",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -446,7 +446,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/company/sustainability.html",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/dnl_og.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "岩崎電気",
