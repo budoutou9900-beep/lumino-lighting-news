@@ -1,105 +1,97 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.26  03:05",
+  "fetchedAt": "2026.09.26  09:00",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "Digital AV Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "Digital AV Magazine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "ぴあエンタメ情報": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "PR TIMES": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "axismag.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "中日新聞Web": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "ADF Web Magazine": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "アメーバブログ": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "anna（アンナ）": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Sortir à Paris": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "Google ニュース": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "デジカメ Watch": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "designboom": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "大光電機": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "LPA": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "パナソニック": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -109,15 +101,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.26",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.26",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -185,20 +168,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "anna（アンナ）",
+      "source": "アメーバブログ",
       "cat": "展示・アート",
       "date": "2026.09.26",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Sortir à Paris",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.26",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集 - anna-media.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -239,10 +222,59 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.26",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.26",
-      "title": "ribbed lime-green gateway and blue solar canopy reform municipal sports center in spain",
+      "title": "the runway tells you where to look: 10 fashion shows that rewrote the catwalk",
+      "url": "https://www.designboom.com/design/runway-where-look-fashion-shows-rewrote-catwalk/",
+      "excerpt": "spirals, mirrored rooms, moving floors, and gridded seating turn fashion presentation into an exercise in directing the gaze.\nThe post the runway tells you where to look: 10 fashion shows that rewrote",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/runway-set-design-spectator-spectacle-designboom-FB-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Creative glassmaking like you've never seen before: 12 contemporary chandeliers illuminate St Mark’s Square",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier",
+      "excerpt": "12 chandeliers by contemporary creatives (from Norman Foster to Bethan Laura Wood) and made by Murano’s maestri shine their light on the historic craft of glassmaking. Discover the designs, on view in",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RYYPrLy2tMrpym8HHgiehL-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Nature takes over at this modernist-inspired, leafy São Paulo house",
+      "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-house-isay-weinfeld-rodrigo-oliveira-brazil",
+      "excerpt": "Isay Weinfeld and landscape architect Rodrigo Oliveira collaborate in this São Paulo house, where modernist-inspired, contemporary architecture goes hand in hand with tropical planting",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7AysirjCMVUcSFMgqVrGf3-1259-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "This week we revealed the Dezeen Awards shortlists",
+      "url": "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
+      "excerpt": "This week on Dezeen, we revealed the architecture, interiors and design projects in the running to win this year's Dezeen Awards. Over the week, we announced all the projects shortlisted for this year",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2025/05/al-mujadilah-centre-and-mosque-diller-scofidio-renfro-hero_dezeen_2364_col_0.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "ribbed lime-green gateway and blue solar canopy reform municipal sports center in murcia",
       "url": "https://www.designboom.com/architecture/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio/",
       "excerpt": "the two interventions generate renewable energy, improve comfort, and establish a bold new presence within la unión’s mining landscape.\nThe post ribbed lime-green gateway and blue solar canopy reform ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio-designboom-1200.jpg",
@@ -256,16 +288,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
       "excerpt": "Taking place in a specially constructed Gucci ‘store’ that teased his new retail vision, Demna’s S/S 2027 show for the house, held in Milan this afternoon (25 September 2026), saw bourgeois dress code",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
-      "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/",
-      "excerpt": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the min",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/09/lindberg-fabrizio-corneli-site-specific-installation-armory-show-new-york-2026-hero.jpg",
       "today": false
     },
     {
@@ -329,16 +351,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Renée Levi's colourful painting takes over the Hayward Gallery",
-      "url": "https://www.wallpaper.com/art/renee-levi-september-hayward-gallery",
-      "excerpt": "‘September’, co-commissioned by the Hayward Gallery and Audemars Piguet Contemporary, is Levi's first large-scale commission in the UK",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Np6U93xjFuMyc67whVHqQN-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -366,16 +378,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios/",
       "excerpt": "egyptian cotton bedding by brut studios dresses the architectural bed, designed by rik frans jansen.\nThe post aluminum and bolted steel turn platform bed into architectural piece at paris design week ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Scale, pace and grace are integral to Royal Huisman’s mighty Project 410 sailing yacht",
-      "url": "https://www.wallpaper.com/transportation/scale-pace-and-grace-are-integral-to-royal-huismans-mighty-project-410-sailing-yacht",
-      "excerpt": "Revealed for the first time, the secretive Project 410 is Royal Huisman’s take on a truly massive single-masted superyacht",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UavNvrGrp8mGf6Qbpw2FwA-2560-80.jpg",
       "today": false
     },
     {
@@ -416,16 +418,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1029465/panorama-house-studio-b-architecture-plus-interiors",
       "excerpt": "The Panorama House project involved both renovating and expanding an existing residence originally designed by the renowned mid-century architect, James Hunter. The structure's distinguished heritage ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/680a/6579/f96c/a300/0183/cdca/large_jpg/Studio_B_Flagstaff_Finals_Web-Res_02.jpg?1745511823",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "autonomous robotic hand walks on its fingertips like the addams family’s thing",
-      "url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/",
-      "excerpt": "with no legs, wheels or robotic arm in sight, the 818-gram prototype has figured out how to get around on its own.\nThe post autonomous robotic hand walks on its fingertips like the addams family’s thi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/autonomous-robotic-hand-addams-familys-thing-eth-zurich-designboom-5.jpg",
       "today": false
     },
     {
