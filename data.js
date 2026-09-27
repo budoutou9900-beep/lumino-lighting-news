@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.27  09:44",
+  "fetchedAt": "2026.09.27  14:57",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,7 +13,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "prtimes.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,19 +57,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "賞・コンペ",
       "date": "2026.09.27",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -140,7 +140,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "展示・アート",
       "date": "2026.09.27",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -239,6 +239,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "planted roof connects concrete casa cieno by TAC to oaxacan coast",
+      "url": "https://www.designboom.com/architecture/planted-roof-concrete-casa-cieno-tac-taller-alberto-calleja-oaxacan-coast/",
+      "excerpt": "the residence’s rectangular volume frames a central courtyard around the pool.\nThe post planted roof connects concrete casa cieno by TAC to oaxacan coast appeared first on designboom | architecture & ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/oaxaca-casa-cieno-tac-taller-alberto-calleja-courtyards-planted-roof-pool-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "SODA transforms hostel into \"design-conscious\" pod hotel",
+      "url": "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/",
+      "excerpt": "London studio SODA has converted a backpacker hostel into Otherwander Soho, a high-density capsule hotel in central London with vibrantly-coloured social spaces. Otherwander combines 566 sleeping pods",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "House of People / DinellJohansson",
+      "url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson",
+      "excerpt": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström. DinellJohansson won the competitio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e127/large_jpg/FOLKETS_HUS_8_Victor_Johansson.jpg?1789380647",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Wild hippos and elephants are your neighbours at this luxury tented camp in Zambia",
+      "url": "https://www.wallpaper.com/travel/hotels/anantara-tented-camp-kafue-river-zambia-review",
+      "excerpt": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CpCkC8DjL5y3HbBKEAQVhd-2560-80.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.27",
@@ -268,6 +307,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "From Seasonal Escape to Permanent Elsewhere: Movement and Architecture in the Gulf",
+      "url": "https://www.archdaily.com/1184632/from-seasonal-escape-to-permanent-elsewhere-movement-and-architecture-in-the-gulf",
+      "excerpt": "For many communities across the Gulf, leaving home once formed part of inhabiting it. Families moved between desert pastures, coastal settlements, wells, fishing grounds, and pearling ports according ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/4fa0/1fe7/3101/8863/0984/large_jpg/from-seasonal-escape-to-permanent-elsewhere_7.jpg?1788759980",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.27",
@@ -285,6 +334,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/henry-holland-royal-society-of-sculptors",
       "excerpt": "'There’s No Place Like It,' The Royal Society of Sculptors Summer exhibition, explores the beauty and mundanity of domestic life: ‘I was really looking for pieces that made me feel something'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r3iVTg7oCecSiJtRy9mfz4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "auruBOROS - Urban Memory and Collective Dream / Plastique Fantastique",
+      "url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique",
+      "excerpt": "auruBOROS transforms the ancient image of the Ouroboros into a temporary urban organism that moves through New York City, connecting architecture, public space, and collective experience.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a466/large_jpg/SP_auruBOROS_11_arch.jpg?1789551624",
       "today": true
     },
     {
@@ -346,42 +405,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Patina House / 182 DESIGN",
-      "url": "https://www.archdaily.com/1185622/patina-house-182-design",
-      "excerpt": "Set within a quiet residential context, Patina House is conceived as an exploration of time through material. Rather than foregrounding form, the design allows materials, craft, and use to shape the e",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/c40c/59bf/5a01/8bd6/81ff/large_jpg/patina-house-182-design_20.jpg?1790166044",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Pabellón El Eco 2020: Cronoboros / TANAT",
-      "url": "https://www.archdaily.com/1185654/pabellon-el-eco-2020-cronoboros-tanat",
-      "excerpt": "Through the Manifesto of Emotional Architecture (published in 1953), Mathias Goeritz expressed a new form of architecture that goes beyond a logical and rational understanding of space, opening up the",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/86c0/c765/2000/0134/7190/large_jpg/Cronoboros_Sergio_Beltr_n_05.jpg?1790019279",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.26",
       "title": "Ergonomic lounge chair among projects from Tomas Bata University in Zlín",
       "url": "https://www.dezeen.com/2026/09/26/ergonomic-lounge-chair-tomas-bata-university-in-zlin-schoolshows/",
       "excerpt": "Dezeen School Shows: a low-profile leather lounge chair equipped with CNC-bent steel legs is among the projects from Tomas Bata University in Zlín. Also featured is a website that explores free speech",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "VyD Pavilion / ENNE Arquitectura",
-      "url": "https://www.archdaily.com/1185865/vyd-pavilion-enne-arquitectura",
-      "excerpt": "In Argentina, a quincho is what we call the space where people gather to eat asados. This project is no exception, but it also serves as an excuse to colonize the back of a corner lot that hosts a sin",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8b3e/325b/9100/01c4/5dac/large_jpg/DSC06990_copia.jpg?1790020524",
       "today": false
     },
     {
@@ -395,25 +424,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Hayhurst and Co carves triple-height void through 1970s Hampstead townhouse",
-      "url": "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
-      "excerpt": "London studio Hayhurst and Co has reorganised Hampstead Town House around a triple-height void, transforming the interior of the north London home while retaining its distinctive 1970s exterior. Hayhu",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "This advent calendar is filled with design-led gifts",
-      "url": "https://www.wallpaper.com/design-interiors/interior-accessories/westwing-advent-calendar-2026",
-      "excerpt": "Westwing’s design-led advent calendar features a curated collection of gifts bringing together pieces from leading names in interiors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PM9GjaryoyJ2vpmoicNURK-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.26",
@@ -421,16 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/runway-where-look-fashion-shows-rewrote-catwalk/",
       "excerpt": "spirals, mirrored rooms, moving floors, and gridded seating turn fashion presentation into an exercise in directing the gaze.\nThe post the runway is a machine for looking: 11 fashion shows that change",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/runway-set-design-spectator-spectacle-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "ribbed lime-green gateway and blue solar canopy reform municipal sports center in murcia",
-      "url": "https://www.designboom.com/architecture/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio/",
-      "excerpt": "the two interventions generate renewable energy, improve comfort, and establish a bold new presence within la unión’s mining landscape.\nThe post ribbed lime-green gateway and blue solar canopy reform ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio-designboom-1200.jpg",
       "today": false
     },
     {
