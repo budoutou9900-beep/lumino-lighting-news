@@ -1,238 +1,61 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.26  23:20",
+  "fetchedAt": "2026.09.27  03:11",
   "sourceColors": {
-    "マイナビニュース": {
+    "ArchDaily": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "pronews.com": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Digital AV Magazine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ぴあエンタメ情報": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "PR TIMES": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "axismag.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "anna（アンナ）": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Google ニュース": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "オズモール": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     },
     "designboom": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "Dezeen": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "マイナビニュース",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.26",
-      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.26",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Digital AV Magazine",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ぴあエンタメ情報",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "賞・コンペ",
-      "date": "2026.09.26",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "国内情報",
-      "date": "2026.09.26",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ADF Web Magazine",
-      "cat": "賞・コンペ",
-      "date": "2026.09.26",
-      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.26",
-      "title": "11/21(金)～12/25(木)『森が奏でるクリスマスイルミネーション2025』長野フォレストヴィレッジが自然素材を取り入れた幻想的な空間にライトアップ！マーケットや特別ディナーなども楽しんで【2025-2026年 長野県イルミネーション】＠長野市 - web-komachi.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcnFRUld4MFVJZWFZODIxTzVPWFBock9fRmFZN1VaSF9HTUNnNVN3ZTNqSW5JYTA2ZTBOTk9DaFNsN2NEWU1YU0Fyc2tuUQ?oc=5",
-      "excerpt": "",
-      "today": true
+      "title": "House in Kagurazaka / Takumi Wakui + Riho Wakui Architects",
+      "url": "https://www.archdaily.com/1185623/house-in-kagurazaka-takumi-wakui-plus-riho-wakui-architects",
+      "excerpt": "Located in Kagurazaka, a historical neighborhood in Tokyo where traditional Japanese alleyways meet modern urban density, House in Kagurazaka is a single-family residence that reinterprets the boundar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/5af3/7707/e600/01bb/35c8/large_jpg/APJ_3.jpg?1790139214",
+      "today": false
     },
     {
       "source": "designboom",
@@ -242,7 +65,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-europe/",
       "excerpt": "contemporary graphic language meets visual traditions from the peruvian andes.\nThe post masks, spirits, and mythical figures carry peruvian heritage into WESR’s murals across europe appeared first on ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -251,7 +74,27 @@ window.LUMINO_DATA = {
       "title": "Rockwell Group eschews 90-degree angles for Skywalker Grill at Lucas Museum",
       "url": "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/",
       "excerpt": "Here's a closer look inside the newly opened Lucas Museum of Narrative Art, where design studio Rockwell Group has outfitted a restaurant and bar that \"responds to the museum's distinctive biomorphic ",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Patina House / 182 DESIGN",
+      "url": "https://www.archdaily.com/1185622/patina-house-182-design",
+      "excerpt": "Set within a quiet residential context, Patina House is conceived as an exploration of time through material. Rather than foregrounding form, the design allows materials, craft, and use to shape the e",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/c40c/59bf/5a01/8bd6/81ff/large_jpg/patina-house-182-design_20.jpg?1790166044",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "Pabellón El Eco 2020: Cronoboros / TANAT",
+      "url": "https://www.archdaily.com/1185654/pabellon-el-eco-2020-cronoboros-tanat",
+      "excerpt": "Through the Manifesto of Emotional Architecture (published in 1953), Mathias Goeritz expressed a new form of architecture that goes beyond a logical and rational understanding of space, opening up the",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/86c0/c765/2000/0134/7190/large_jpg/Cronoboros_Sergio_Beltr_n_05.jpg?1790019279",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -260,7 +103,17 @@ window.LUMINO_DATA = {
       "title": "Ergonomic lounge chair among projects from Tomas Bata University in Zlín",
       "url": "https://www.dezeen.com/2026/09/26/ergonomic-lounge-chair-tomas-bata-university-in-zlin-schoolshows/",
       "excerpt": "Dezeen School Shows: a low-profile leather lounge chair equipped with CNC-bent steel legs is among the projects from Tomas Bata University in Zlín. Also featured is a website that explores free speech",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.26",
+      "title": "VyD Pavilion / ENNE Arquitectura",
+      "url": "https://www.archdaily.com/1185865/vyd-pavilion-enne-arquitectura",
+      "excerpt": "In Argentina, a quincho is what we call the space where people gather to eat asados. This project is no exception, but it also serves as an excuse to colonize the back of a corner lot that hosts a sin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/8b3e/325b/9100/01c4/5dac/large_jpg/DSC06990_copia.jpg?1790020524",
+      "today": false
     },
     {
       "source": "designboom",
@@ -270,7 +123,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/elliptical-classroom-volumes-colorful-louvers-courtyard-nghia-do-kindergarten-hanoi/",
       "excerpt": "a triangular courtyard anchors nghia do kindergarten’s elliptical volumes.\nThe post elliptical classroom volumes and colorful louvers shape courtyard kindergarten in hanoi appeared first on designboom",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nghia-do-courtyard-kindergarten-sunjin-vietnam-joint-venture-company-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -280,17 +133,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos",
       "excerpt": "The design of Vila Marebo, in southern Bahia, was born from the invitation of a long-time partner. The premise was clear: to create two independent blocks connected by a footbridge and a generous perg",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/be13/5355/6000/01b4/aace/large_jpg/FACHADAPOSTERIOR00.jpg?1790361196",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "casa POP / gon architects",
-      "url": "https://www.archdaily.com/1185659/casa-pop-gon-architects",
-      "excerpt": "Casa POP is based on the premise that there is no such thing as a standard user, and therefore architecture must adapt to unique ways of living. The original home, a 78 m² apartment located in Vicálva",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/89af/c765/2000/0134/71db/large_jpg/casa_POP_by_gon_architects_-_7.jpg?1790020032",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -299,17 +142,7 @@ window.LUMINO_DATA = {
       "title": "Hayhurst and Co carves triple-height void through 1970s Hampstead townhouse",
       "url": "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
       "excerpt": "London studio Hayhurst and Co has reorganised Hampstead Town House around a triple-height void, transforming the interior of the north London home while retaining its distinctive 1970s exterior. Hayhu",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Imbriani – Renovation of Two Apartments in Milan / co.arch studio",
-      "url": "https://www.archdaily.com/1185433/imbriani-renovation-of-two-apartments-in-milan-crch-studio",
-      "excerpt": "The project transforms two small early 20th-century apartments in Milan's Bovisa district, organized around a shared threshold. This threshold became the conceptual starting point of the intervention:",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab0/f9ce/066f/0900/0145/7880/large_jpg/VIA_IMBRIANI_04b.jpg?1789983241",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -318,7 +151,7 @@ window.LUMINO_DATA = {
       "title": "Six designs that freshen up the humble toothbrush",
       "url": "https://www.dezeen.com/2026/09/26/toothbrush-product-design/",
       "excerpt": "After Dyson recently hit headlines with its tech-driven toothbrush, we revisit eight projects from the Dezeen archives that add polish to the everyday dental tool. Accessories by Landor & Fitch Access",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -328,27 +161,17 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-accessories/westwing-advent-calendar-2026",
       "excerpt": "Westwing’s design-led advent calendar features a curated collection of gifts bringing together pieces from leading names in interiors",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PM9GjaryoyJ2vpmoicNURK-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.26",
-      "title": "the runway tells you where to look: 10 fashion shows that rewrote the catwalk",
+      "title": "the runway is a machine for looking: 11 fashion shows that change how we watch",
       "url": "https://www.designboom.com/design/runway-where-look-fashion-shows-rewrote-catwalk/",
-      "excerpt": "spirals, mirrored rooms, moving floors, and gridded seating turn fashion presentation into an exercise in directing the gaze.\nThe post the runway tells you where to look: 10 fashion shows that rewrote",
+      "excerpt": "spirals, mirrored rooms, moving floors, and gridded seating turn fashion presentation into an exercise in directing the gaze.\nThe post the runway is a machine for looking: 11 fashion shows that change",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/runway-set-design-spectator-spectacle-designboom-FB-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Between Burning Forests and Utopian Cities: Designing the Climate Transition",
-      "url": "https://www.archdaily.com/1185529/between-burning-forests-and-utopian-cities-designing-the-climate-transition",
-      "excerpt": "There is no shortage of ways to imagine what the world will look like after a climate catastrophe. Genres of movies and novels have been built around the question of what happens when contemporary saf",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/aefa/472c/aa01/8aa1/4ea6/large_jpg/dont-skip-to-the-end-tools-to-design-a-climate-transition_3.jpg?1790029570",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -358,17 +181,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier",
       "excerpt": "12 chandeliers by contemporary creatives (from Norman Foster to Bethan Laura Wood) and made by Murano’s maestri shine their light on the historic craft of glassmaking. Discover the designs, on view in",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RYYPrLy2tMrpym8HHgiehL-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Cabins at the Tip, Sunny Lakes, Senec / ER Atelier",
-      "url": "https://www.archdaily.com/1183944/cabins-at-the-tip-sunny-lakes-senec-er-atelier",
-      "excerpt": "The project of two recreational buildings at the tip of Sunny Lakes in Senec approaches two separate structures as a single architectural and landscape composition. Located on a prominent waterfront p",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8d/9d7d/4253/0500/01ca/0906/large_jpg/2025-06-ERatelier-Senec-Foter_sk-97.jpg?1787665843",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -378,7 +191,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-house-isay-weinfeld-rodrigo-oliveira-brazil",
       "excerpt": "Isay Weinfeld and landscape architect Rodrigo Oliveira collaborate in this São Paulo house, where modernist-inspired, contemporary architecture goes hand in hand with tropical planting",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7AysirjCMVUcSFMgqVrGf3-1259-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -387,7 +200,7 @@ window.LUMINO_DATA = {
       "title": "This week we revealed the Dezeen Awards shortlists",
       "url": "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
       "excerpt": "This week on Dezeen, we revealed the architecture, interiors and design projects in the running to win this year's Dezeen Awards. Over the week, we announced all the projects shortlisted for this year",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -397,7 +210,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio/",
       "excerpt": "the two interventions generate renewable energy, improve comfort, and establish a bold new presence within la unión’s mining landscape.\nThe post ribbed lime-green gateway and blue solar canopy reform ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
