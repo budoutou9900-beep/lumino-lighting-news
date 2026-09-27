@@ -1,59 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.27  14:57",
+  "fetchedAt": "2026.09.27  18:55",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "lp.p.pia.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ぴあエンタメ情報": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "prtimes.jp": {
+    "axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "anna（アンナ）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "anna（アンナ）": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "ウォーカープラス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "KNB WEB": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -81,25 +81,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "パナソニック": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -113,16 +105,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "jp.pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.27",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ぴあエンタメ情報",
+      "source": "lp.p.pia.jp",
       "cat": "展示・アート",
       "date": "2026.09.27",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -131,7 +114,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "賞・コンペ",
       "date": "2026.09.27",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -140,7 +123,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.09.27",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -235,6 +218,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.27",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "KNB WEB",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -454,16 +446,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.09.24",
-      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1～10/2）",
-      "url": "https://www.yamagiwa.co.jp/news/80248/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.09.18",
@@ -524,16 +506,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -561,16 +533,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -620,16 +582,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
