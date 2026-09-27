@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.27  18:55",
+  "fetchedAt": "2026.09.27  21:49",
   "sourceColors": {
-    "マイナビニュース": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "lp.p.pia.jp": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -25,35 +25,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "anna（アンナ）": {
+    "アメーバブログ": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "anna（アンナ）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ウォーカープラス": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "デジカメ Watch": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "夜景FAN": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "KNB WEB": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,11 +61,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -81,22 +81,30 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "パナソニック": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "マイナビニュース",
+      "source": "news.mynavi.jp",
       "cat": "デザイン",
       "date": "2026.09.27",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -105,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
       "date": "2026.09.27",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -155,6 +163,15 @@ window.LUMINO_DATA = {
       "date": "2026.09.27",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -222,12 +239,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "KNB WEB",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.27",
-      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
-      "excerpt": "",
+      "title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
+      "url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
+      "excerpt": "meadow packs maps, music and messaging into a three-inch phone designed for leaving the smartphone behind.\nThe post forget doomscrolling: meadow shrinks the smartphone down to only the most essential ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Jordnära Cafe & PHOMI Showroom / Ady Putra Architect Design Firm",
+      "url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
+      "excerpt": "Located in the heart of Pantai Indah Kapuk, Jordnära Cafe is designed as a calm and welcoming space where people can pause, connect, and unwind. Created by Ady Putra Architect, the project transforms ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f38d/large_jpg/IMG_9262.jpg?1790345574",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Office 101 Casa Andina / Caliza Arquitectura",
+      "url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
+      "excerpt": "The intervention is located in the Laureles neighborhood of Medellín, inside a structure representative of the area's traditional residential architecture. In response to new urban dynamics, the build",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/large_jpg/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886",
       "today": true
     },
     {
@@ -358,26 +396,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Osmanthus Moon / HCCH Studio",
-      "url": "https://www.archdaily.com/1035956/osmanthus-moon-hcch-studio",
-      "excerpt": "Osmanthus Moon is a short-term public art installation created to celebrate the traditional Chinese Mid-Autumn Festival. It is a projection, specially as well as metaphorically, of the widely beloved ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6914/3c0e/11d9/5601/88ba/ec67/large_jpg/osmanthus-moon-hcch-studio_16.jpg?1762933793",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "House in Kagurazaka / Takumi Wakui + Riho Wakui Architects",
-      "url": "https://www.archdaily.com/1185623/house-in-kagurazaka-takumi-wakui-plus-riho-wakui-architects",
-      "excerpt": "Located in Kagurazaka, a historical neighborhood in Tokyo where traditional Japanese alleyways meet modern urban density, House in Kagurazaka is a single-family residence that reinterprets the boundar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/5af3/7707/e600/01bb/35c8/large_jpg/APJ_3.jpg?1790139214",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.26",
@@ -416,16 +434,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "the runway is a machine for looking: 11 fashion shows that change how we watch",
-      "url": "https://www.designboom.com/design/runway-where-look-fashion-shows-rewrote-catwalk/",
-      "excerpt": "spirals, mirrored rooms, moving floors, and gridded seating turn fashion presentation into an exercise in directing the gaze.\nThe post the runway is a machine for looking: 11 fashion shows that change",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/runway-set-design-spectator-spectacle-designboom-FB-1.jpg",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -443,6 +451,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/projects/#News",
       "excerpt": "",
       "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.09.24",
+      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1～10/2）",
+      "url": "https://www.yamagiwa.co.jp/news/80248/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -506,6 +524,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -533,6 +561,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -582,6 +620,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
