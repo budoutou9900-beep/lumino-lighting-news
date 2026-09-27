@@ -1,19 +1,75 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.27  03:11",
+  "fetchedAt": "2026.09.27  09:44",
   "sourceColors": {
-    "ArchDaily": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
+    "PR TIMES": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "axismag.jp": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "anna（アンナ）": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Google ニュース": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "ヨコハマ経済新聞": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "オズモール": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "ウォーカープラス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "デジカメ Watch": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "夜景FAN": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "Dezeen": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
     "Wallpaper*": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "designboom": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -47,6 +103,219 @@ window.LUMINO_DATA = {
     }
   },
   "articles": [
+    {
+      "source": "マイナビニュース",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "jp.pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.27",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ぴあエンタメ情報",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "賞・コンペ",
+      "date": "2026.09.27",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "axismag.jp",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "国内情報",
+      "date": "2026.09.27",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ADF Web Magazine",
+      "cat": "賞・コンペ",
+      "date": "2026.09.27",
+      "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "anna（アンナ）",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Google ニュース",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デジカメ Watch",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.27",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Eight buildings with dramatic charred-timber facades",
+      "url": "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
+      "excerpt": "For our latest roundup, we've collected buildings clad in charred timber, including a dark-hued yoga retreat and a cabin \"shaped by fire\". Charred timber is used in projects across the world to create",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "This grand alpine residence designed by Spinocchia Freund has us excited for winter",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/spinocchia-freund-chalet",
+      "excerpt": "This sprawling private home is a 30,000 sq ft winter wonderland with ski-in, ski-out access, plus a spa, cinema and bowling alley to boot. Take the tour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/35tgpW3NgpcYi6ocyuzJ4T-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "studio panter&tourron on redefining the codes of luxury design",
+      "url": "https://www.designboom.com/design/studio-panter-and-tourron-redefining-codes-luxury-design/",
+      "excerpt": "stefano panterotto and alexis tourron reveal how Swiss design, craftsmanship, and restraint shape their approach to high-end.\nThe post studio panter&tourron on redefining the codes of luxury design ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/panter-tourron-designboom-07.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Bottega Veneta taps sound artist Florian Hecker for its S/S 2027 showspace",
+      "url": "https://www.wallpaper.com/fashion-beauty/bottega-veneta-sound-artist-florian-hecker-ss-2027-show",
+      "excerpt": "The German artist’s one-off sonic installation, played across 20 loudspeakers in Milan’s Fabbrica Orobia yesterday evening (26 September 2026), set the scene for Louise Trotter’s latest runway show",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EFUBkLYrpgB94FCxD9zwcD-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "In a seductive new show, Henry Holland asks sculptors to consider the meaning of home",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/henry-holland-royal-society-of-sculptors",
+      "excerpt": "'There’s No Place Like It,' The Royal Society of Sculptors Summer exhibition, explores the beauty and mundanity of domestic life: ‘I was really looking for pieces that made me feel something'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r3iVTg7oCecSiJtRy9mfz4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Mosquito coils, garden gnomes and Mutti tins – Carlo Ratti's summer journey",
+      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-series-summer-journey-italy",
+      "excerpt": "Carlo Ratti's series, 'Objectify', kept us company all summer, discussing everyday objects, their impact, and often-surprising design-led provenance, and Italian connections; now, the architect bids u",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/B3ib5YQabNtTv36dVnBV53-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Harvard University transforms waste wool into cladding for retrofits",
+      "url": "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/",
+      "excerpt": "Grinham Research Group at Harvard University has developed an insulating cladding tile made from waste wool, which was presented at this year's Oslo Architecture Triennale. In an installation named Up",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Osmanthus Moon / HCCH Studio",
+      "url": "https://www.archdaily.com/1035956/osmanthus-moon-hcch-studio",
+      "excerpt": "Osmanthus Moon is a short-term public art installation created to celebrate the traditional Chinese Mid-Autumn Festival. It is a projection, specially as well as metaphorically, of the widely beloved ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6914/3c0e/11d9/5601/88ba/ec67/large_jpg/osmanthus-moon-hcch-studio_16.jpg?1762933793",
+      "today": true
+    },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
@@ -126,31 +395,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Vila Marebo / Frederico Zanelato | Arquitetos",
-      "url": "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos",
-      "excerpt": "The design of Vila Marebo, in southern Bahia, was born from the invitation of a long-time partner. The premise was clear: to create two independent blocks connected by a footbridge and a generous perg",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/be13/5355/6000/01b4/aace/large_jpg/FACHADAPOSTERIOR00.jpg?1790361196",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.26",
       "title": "Hayhurst and Co carves triple-height void through 1970s Hampstead townhouse",
       "url": "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
       "excerpt": "London studio Hayhurst and Co has reorganised Hampstead Town House around a triple-height void, transforming the interior of the north London home while retaining its distinctive 1970s exterior. Hayhu",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Six designs that freshen up the humble toothbrush",
-      "url": "https://www.dezeen.com/2026/09/26/toothbrush-product-design/",
-      "excerpt": "After Dyson recently hit headlines with its tech-driven toothbrush, we revisit eight projects from the Dezeen archives that add polish to the everyday dental tool. Accessories by Landor & Fitch Access",
       "today": false
     },
     {
@@ -174,35 +424,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Creative glassmaking like you've never seen before: 12 contemporary chandeliers illuminate St Mark’s Square",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier",
-      "excerpt": "12 chandeliers by contemporary creatives (from Norman Foster to Bethan Laura Wood) and made by Murano’s maestri shine their light on the historic craft of glassmaking. Discover the designs, on view in",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RYYPrLy2tMrpym8HHgiehL-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Nature takes over at this modernist-inspired, leafy São Paulo house",
-      "url": "https://www.wallpaper.com/architecture/residential/sao-paulo-house-isay-weinfeld-rodrigo-oliveira-brazil",
-      "excerpt": "Isay Weinfeld and landscape architect Rodrigo Oliveira collaborate in this São Paulo house, where modernist-inspired, contemporary architecture goes hand in hand with tropical planting",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7AysirjCMVUcSFMgqVrGf3-1259-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "This week we revealed the Dezeen Awards shortlists",
-      "url": "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
-      "excerpt": "This week on Dezeen, we revealed the architecture, interiors and design projects in the running to win this year's Dezeen Awards. Over the week, we announced all the projects shortlisted for this year",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.26",
@@ -210,36 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio/",
       "excerpt": "the two interventions generate renewable energy, improve comfort, and establish a bold new presence within la unión’s mining landscape.\nThe post ribbed lime-green gateway and blue solar canopy reform ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ribbed-lime-green-gateway-blue-solar-canopy-municipal-sports-center-spain-meii-estudio-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Demna opens up shop for his ‘quintessentially Gucci’ sophomore show",
-      "url": "https://www.wallpaper.com/fashion-beauty/gucci-ss-2027-demna-show-review-milan-fashion-week",
-      "excerpt": "Taking place in a specially constructed Gucci ‘store’ that teased his new retail vision, Demna’s S/S 2027 show for the house, held in Milan this afternoon (25 September 2026), saw bourgeois dress code",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tUo35ofPMM5iBAoyMJnX5D-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "tim burton’s batman returns batmobile heads to auction for up to $7 million",
-      "url": "https://www.designboom.com/technology/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions/",
-      "excerpt": "screen-used batman returns batmobile by tim burton heads to julien’s auctions with a $5–7 million estimate.\nThe post tim burton’s batman returns batmobile heads to auction for up to $7 million appeare",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/tim-burton-batman-returns-batmobile-auction-gotham-city-juliens-auctions-designboom-3.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.25",
-      "title": "Fondation Beyeler soft-launches its campus expansion in Basel",
-      "url": "https://www.wallpaper.com/architecture/fondation-beyeler-soft-launches-campus-expansion-basel-switzerland",
-      "excerpt": "The institution’s refreshed art campus in Switzerland includes new works by Peter Zumthor and more",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ybEULSxNUPUwpMqNHHUSL4-2560-80.jpg",
       "today": false
     },
     {
