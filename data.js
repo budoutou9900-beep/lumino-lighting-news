@@ -1,79 +1,79 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.28  06:15",
+  "fetchedAt": "2026.09.28  14:52",
   "sourceColors": {
-    "designboom": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "マイナビニュース": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "pronews.com": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     },
     "ぴあエンタメ情報": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "PR TIMES": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "axismag.jp": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "anna（アンナ）": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Google ニュース": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "オズモール": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "walkerplus.com": {
+    "中日新聞Web": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "KNB WEB": {
+    "anna（アンナ）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "Google ニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "オズモール": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
+    "ウォーカープラス": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "デジカメ Watch": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "KNB WEB": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
     "Wallpaper*": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "Dezeen": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "designboom": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ArchDaily": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -104,16 +104,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school",
-      "url": "https://www.designboom.com/art/bomb-cloud-sculpture-soil-straw-water-abandoned-lisbon-school-oskouei/",
-      "excerpt": "the sculpture turns a fleeting image into a lasting spatial presence.\nThe post bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school appeared first on designboom | a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/weight-soil-sculptural-installation-saman-sasan-oskouei-lisbon-portugal-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
       "source": "マイナビニュース",
       "cat": "デザイン",
       "date": "2026.09.28",
@@ -123,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "cat": "国内情報",
       "date": "2026.09.28",
       "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
@@ -222,7 +212,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.09.28",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
@@ -249,6 +239,201 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "These were the best shows of Milan Fashion Week S/S 2027",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-ss-2027-review-round-up",
+      "excerpt": "From an interrogation of the skirt at Prada to Demna’s latest outing for Gucci, here are Wallpaper’s picks of the best of Milan Fashion Week, which concluded yesterday (27 September 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mnr67RwSqCUwWJCkT5ARRe-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Silora task chair by ITO Design for Narbutas",
+      "url": "https://www.dezeen.com/2026/09/28/silora-task-chair-ito-design-narbutas-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: ITO Design let function drive form when creating this task chair, which features a distinctive sculptural back, for office brand Narbutas. The Silora chair features a striking backres",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Rossinavi unveils M/Y HEED, an aluminium superyacht with interiors by Achille Salvagni",
+      "url": "https://www.wallpaper.com/transportation/rossinavi-unveils-m-y-heed-an-aluminium-superyacht-with-interiors-by-achille-salvagni",
+      "excerpt": "Making its global debut at the 2026 Monaco Yacht Show, M/Y HEED is the newest build from Italian shipyard Rossinavi. We take a tour of the unique Achille Salvagni-designed interiors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Kf8NBGgtZWVFjUiRBRN2uV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Zoya Cherkassky makes sense of American life with rich, diverse paintings in New York",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/zoya-cherkassky-makes-sense-of-american-life-with-rich-diverse-paintings-in-new-york",
+      "excerpt": "In 'American Cooking', at Fort Gansevoort, New York, Ukrainian artist Zoya Cherkassky captures life around her",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SNuaBzzNhNdGDe6fDaZ2FU-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Formafantasma become creative directors of Officina Profumo-Farmaceutica di Santa Maria Novella",
+      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/formafantasma-creative-directors-santa-maria-novella",
+      "excerpt": "The 13th-century pharmacy and Italian design pioneers join forces to usher in a new era of Santa Maria Novella.",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/28U3KK44YMk8zat8Ak3TBR-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "design for humanity at play: compasso d’oro international design award 2027 calls for entries",
+      "url": "https://www.designboom.com/design/compasso-doro-international-design-award-2027-calls-for-entries/",
+      "excerpt": "the award invites designers, brands, and institutions to submit works completed between 2023 and 2026 across nine distinct project categories.\nThe post design for humanity at play: compasso d’oro inte",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ADI_designboom_facebook-2.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Rezen transforms hotel stables in Australia into \"raw and direct\" wellness centre",
+      "url": "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/",
+      "excerpt": "Arched openings and rough brick walls evoke the feel of a Roman bathhouse at Alchemy Saunas, a wellness centre in Australia by interior design studio Rezen. The project involved transforming a former ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "sabine marcelis and solidnature transform ephemeral event decoration into collectible design",
+      "url": "https://www.designboom.com/design/sabine-marcelis-solidnature-event-decoration-collectible-design/",
+      "excerpt": "sabine marcelis and solidnature transform a runway dinner setting into 400 limited-edition candleholders in travertine and onyx.\nThe post sabine marcelis and solidnature transform ephemeral event deco",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/solidnature-sabine-marcelis-candleholder-designboom-fb.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "V-Flex by VitrA Tiles",
+      "url": "https://www.dezeen.com/2026/09/28/v-flex-vitra-tiles-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: surfaces brand VitrA Tiles has developed V-Flex, a method of installation that aims to meet evolving architectural expectations by being simple and adhesive-free. The company's V-Flex",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Step inside the ‘Home of the Future’, from design fantasies to modernist architecture",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/home-of-the-future-exhibition-lacma-usa",
+      "excerpt": "A new Los Angeles show explores the 'Home of the Future'; LACMA shines a light on the 20th century's exploration of domestic utopias",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JpwvNYAUNYJZbiDaAa2kcN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
+      "url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+      "excerpt": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "illya goldman gubin embraces cardboard boxes, shaping them into stools for bottega veneta",
+      "url": "https://www.designboom.com/design/bottega-veneta-cardboard-boxes-sculptural-stools-summer-2027-show-illya-goldman-gubin/",
+      "excerpt": "the ukrainian artist shapes each box through direct physical contact, leaving its folds, creases, and irregularities visible in a series of individually formed seats.\nThe post illya goldman gubin embr",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bottega-veneta-cardboard-boxes-sculptural-stools-summer-2027-show-illya-goldman-gubin-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Six civic projects by Kashef Chowdhury that put people first",
+      "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
+      "excerpt": "Bangladeshi architect Kashef Chowdhury has published a monograph collating works from his three-decade-long career. In this roundup, we spotlight six key examples. Published by Park Books, the Meditat",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "formafantasma joins santa maria novella as creative directors after eight centuries of history",
+      "url": "https://www.designboom.com/design/formafantasma-santa-maria-novella-creative-directors-andrea-trimarchi-simone-farresin/",
+      "excerpt": "the italian design studio will shape products, packaging, communication and retail for the historic florentine fragrance house.\nThe post formafantasma joins santa maria novella as creative directors a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/formafantasma-santa-maria-novella-creative-directors-andrea-trimarchi-simone-farresin-designboom-14.jpeg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Escapism from the Streets: How Air-Conditioning Reshaped the Asian City",
+      "url": "https://www.archdaily.com/1185653/escapism-from-the-streets-how-air-conditioning-reshaped-the-asian-city",
+      "excerpt": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong, it is possible to move from an apartment tower through a podium mall, enter the Mass-Transit-Rai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fa49/e78f/b301/883c/f27b/large_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790179922",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Pavilia Farm Clubhouses / Snøhetta",
+      "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
+      "excerpt": "With the completion of Sky House, the final clubhouse at Pavilia Farm, Snøhetta's vision for a unique urban community centered around nature, wellbeing, and collective ownership is now realized in ful",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/383c/df03/a301/88d4/b12b/large_jpg/pavilia-farm-clubhouses-snohetta_14.jpg?1790589244",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Sharjah Architecture Triennial Presents \"A Journey into Architecture Archives\" Focused on Baghdad, Damascus, and Tunis",
+      "url": "https://www.archdaily.com/1040836/sharjah-architecture-triennial-presents-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis",
+      "excerpt": "The Sharjah Architecture Triennial (SAT) has released the full documentary films from A Journey into Architecture Archives: Baghdad, Damascus, Tunis online. Curated by George Arbid, the project is par",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/69e7/4453/1afd/7001/8891/46bc/large_jpg/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_9.jpg?1776763991",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school",
+      "url": "https://www.designboom.com/art/bomb-cloud-sculpture-soil-straw-water-abandoned-lisbon-school-oskouei/",
+      "excerpt": "the sculpture turns a fleeting image into a lasting spatial presence.\nThe post bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school appeared first on designboom | a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/weight-soil-sculptural-installation-saman-sasan-oskouei-lisbon-portugal-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Community Center Gamlitz / Gangoly & Kristiner Architects",
+      "url": "https://www.archdaily.com/1185754/community-center-gamlitz-gangoly-and-kristiner-architects",
+      "excerpt": "There is no better symbol of community than a large roof that brings us all together.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/47d9/e944/b300/0137/3ac2/large_jpg/Haus_der_Vereine-12.jpg?1790330871",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Citizen-Led Campaign Seeks UNESCO Status for Select Pre-Colonial Sites in Lima, Peru",
+      "url": "https://www.archdaily.com/1185867/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus",
+      "excerpt": "A campaign led by Red Lima Milenaria is seeking UNESCO recognition for pre-colonial sites in the Peruvian capital. Today, more than 600 archaeological sites remain in Lima, a metropolis of 11 million ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab8/6a67/701b/1e01/88c7/9d56/large_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470766",
+      "today": true
+    },
+    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.09.28",
@@ -257,191 +442,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/189/OKAMURA_orgatectokyo2026_001.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Yuelang Road Block Comprehensive Quality Enhancement / TJAD Original Design Studio",
-      "url": "https://www.archdaily.com/1185737/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio",
-      "excerpt": "Yuelang Road is located in the core area of Qianjiang Century City, Hangzhou, surrounded by six high-density commercial and office towers. Before renewal, this approximately 330-meter internal street ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/ef76/8869/1701/89c2/d342/large_jpg/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_15.jpg?1790308296",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "planted roof connects concrete casa cieno by TAC to oaxacan coast",
-      "url": "https://www.designboom.com/architecture/planted-roof-concrete-casa-cieno-tac-taller-alberto-calleja-oaxacan-coast/",
-      "excerpt": "the residence’s rectangular volume frames a central courtyard around the pool.\nThe post planted roof connects concrete casa cieno by TAC to oaxacan coast appeared first on designboom | architecture & ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/oaxaca-casa-cieno-tac-taller-alberto-calleja-courtyards-planted-roof-pool-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Ashjar Cafe  / Studio Ahmed Aldossary",
-      "url": "https://www.archdaily.com/1185816/ashjar-cafe-studio-ahmed-aldossary",
-      "excerpt": "As Saudi Arabia's coffee culture continues to grow, cafés have become an important third place for many Saudis. Ashjar, meaning \"trees\" in Arabic, was conceived as a small urban escape within Riyadh, ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/792f/e944/b300/0137/3d93/large_jpg/Ashjar_Cafe-2.jpg?1790343497",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
-      "url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
-      "excerpt": "meadow packs maps, music and messaging into a three-inch phone designed for leaving the smartphone behind.\nThe post forget doomscrolling: meadow shrinks the smartphone down to only the most essential ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Jordnära Cafe & PHOMI Showroom / Ady Putra Architect Design Firm",
-      "url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
-      "excerpt": "Located in the heart of Pantai Indah Kapuk, Jordnära Cafe is designed as a calm and welcoming space where people can pause, connect, and unwind. Created by Ady Putra Architect, the project transforms ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f38d/large_jpg/IMG_9262.jpg?1790345574",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Office 101 Casa Andina / Caliza Arquitectura",
-      "url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
-      "excerpt": "The intervention is located in the Laureles neighborhood of Medellín, inside a structure representative of the area's traditional residential architecture. In response to new urban dynamics, the build",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/large_jpg/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "SODA transforms hostel into \"design-conscious\" pod hotel",
-      "url": "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/",
-      "excerpt": "London studio SODA has converted a backpacker hostel into Otherwander Soho, a high-density capsule hotel in central London with vibrantly-coloured social spaces. Otherwander combines 566 sleeping pods",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "House of People / DinellJohansson",
-      "url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson",
-      "excerpt": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström. DinellJohansson won the competitio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e127/large_jpg/FOLKETS_HUS_8_Victor_Johansson.jpg?1789380647",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Wild hippos and elephants are your neighbours at this luxury tented camp in Zambia",
-      "url": "https://www.wallpaper.com/travel/hotels/anantara-tented-camp-kafue-river-zambia-review",
-      "excerpt": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CpCkC8DjL5y3HbBKEAQVhd-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Eight buildings with dramatic charred-timber facades",
-      "url": "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
-      "excerpt": "For our latest roundup, we've collected buildings clad in charred timber, including a dark-hued yoga retreat and a cabin \"shaped by fire\". Charred timber is used in projects across the world to create",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "This grand alpine residence designed by Spinocchia Freund has us excited for winter",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/spinocchia-freund-chalet",
-      "excerpt": "This sprawling private home is a 30,000 sq ft winter wonderland with ski-in, ski-out access, plus a spa, cinema and bowling alley to boot. Take the tour",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/35tgpW3NgpcYi6ocyuzJ4T-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "studio panter&tourron on redefining the codes of luxury design",
-      "url": "https://www.designboom.com/design/studio-panter-and-tourron-redefining-codes-luxury-design/",
-      "excerpt": "stefano panterotto and alexis tourron reveal how Swiss design, craftsmanship, and restraint shape their approach to high-end.\nThe post studio panter&tourron on redefining the codes of luxury design ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/panter-tourron-designboom-07.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Bottega Veneta taps sound artist Florian Hecker for its S/S 2027 showspace",
-      "url": "https://www.wallpaper.com/fashion-beauty/bottega-veneta-sound-artist-florian-hecker-ss-2027-show",
-      "excerpt": "The German artist’s one-off sonic installation, played across 20 loudspeakers in Milan’s Fabbrica Orobia yesterday evening (26 September 2026), set the scene for Louise Trotter’s latest runway show",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EFUBkLYrpgB94FCxD9zwcD-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "In a seductive new show, Henry Holland asks sculptors to consider the meaning of home",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/henry-holland-royal-society-of-sculptors",
-      "excerpt": "'There’s No Place Like It,' The Royal Society of Sculptors Summer exhibition, explores the beauty and mundanity of domestic life: ‘I was really looking for pieces that made me feel something'",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r3iVTg7oCecSiJtRy9mfz4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Mosquito coils, garden gnomes and Mutti tins – Carlo Ratti's summer journey",
-      "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-series-summer-journey-italy",
-      "excerpt": "Carlo Ratti's series, 'Objectify', kept us company all summer, discussing everyday objects, their impact, and often-surprising design-led provenance, and Italian connections; now, the architect bids u",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/B3ib5YQabNtTv36dVnBV53-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Harvard University transforms waste wool into cladding for retrofits",
-      "url": "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/",
-      "excerpt": "Grinham Research Group at Harvard University has developed an insulating cladding tile made from waste wool, which was presented at this year's Oslo Architecture Triennale. In an installation named Up",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "masks, spirits, and mythical figures carry peruvian heritage into WESR’s murals across europe",
-      "url": "https://www.designboom.com/art/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-europe/",
-      "excerpt": "contemporary graphic language meets visual traditions from the peruvian andes.\nThe post masks, spirits, and mythical figures carry peruvian heritage into WESR’s murals across europe appeared first on ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/masks-spirits-mythical-figures-peruvian-heritage-wesr-murals-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Rockwell Group eschews 90-degree angles for Skywalker Grill at Lucas Museum",
-      "url": "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/",
-      "excerpt": "Here's a closer look inside the newly opened Lucas Museum of Narrative Art, where design studio Rockwell Group has outfitted a restaurant and bar that \"responds to the museum's distinctive biomorphic ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "Ergonomic lounge chair among projects from Tomas Bata University in Zlín",
-      "url": "https://www.dezeen.com/2026/09/26/ergonomic-lounge-chair-tomas-bata-university-in-zlin-schoolshows/",
-      "excerpt": "Dezeen School Shows: a low-profile leather lounge chair equipped with CNC-bent steel legs is among the projects from Tomas Bata University in Zlín. Also featured is a website that explores free speech",
-      "today": false
     },
     {
       "source": "DNライティング",
