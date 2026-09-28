@@ -1,55 +1,55 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.28  14:52",
+  "fetchedAt": "2026.09.28  21:01",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ぴあエンタメ情報": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "anna（アンナ）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "anna（アンナ）": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "オズモール": {
+    "walkerplus.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -57,7 +57,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,7 +65,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -109,15 +109,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.28",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "jp.pronews.com",
-      "cat": "国内情報",
-      "date": "2026.09.28",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -212,7 +203,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "cat": "展示・アート",
       "date": "2026.09.28",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
@@ -230,12 +221,137 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.28",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.09.28",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "peripheral vision and artwork that exceeds the eye",
+      "url": "https://www.designboom.com/art/peripheral-vision-artwork-exceeds-eye/",
+      "excerpt": "these artists make seeing everything at once impossible, and use that limit as material.\nThe post peripheral vision and artwork that exceeds the eye appeared first on designboom | architecture & desig",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/spectator-spectacle-peripheral-vision-art-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Coughlin Scheel lifts Fire Island house high above the beach",
+      "url": "https://www.dezeen.com/2026/09/28/surf-road-house-coughlin-scheel-architects-fire-island/",
+      "excerpt": "US studio Coughlin Scheel Architects has completed the cedar-clad Surf Road House, lifting it 10 feet above the ground because of environmental concerns. The house sits on Fire Island, a narrow barrie",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Where to eat and drink in Atlanta, according to 5 in-the-know locals",
+      "url": "https://www.wallpaper.com/travel/travel-events/where-to-eat-and-drink-atlanta-georgia-usa",
+      "excerpt": "In town for Atlanta Art Fair 2026? Get to know the cafés, restaurants and bars beloved by local artists and culture-shapers",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/bRStoKKpfbxfuHkpUSZqMF-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Barbarella meets Polly Pocket in this fantasy Palm Springs house",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/midcentury-modern-palm-springs-house-jessica-ayromloo",
+      "excerpt": "LA-based interior designer Jessica Ayromloo combined cinematic sci-fi references and playful desaturated pastels while renovating this giant midcentury California abode",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/jsvH69sys85SVc5Np5i4w5-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "why did one of the world’s best-known car designers choose this weird little porsche 914/6?",
+      "url": "https://www.designboom.com/technology/porsche-914-6-luc-donckerwolke-ruf-rebuilt-bring-trailer/",
+      "excerpt": "now listed for sale, luc donckerwolke’s RUF-rebuilt porsche 914/6 turns one of porsche’s strangest shapes into a collector’s curiosity.\nThe post why did one of the world’s best-known car designers cho",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luc-donckerwolke-RUF-modified-1970-porsche-914-6-bring-a-trailer-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Grid radiator by Tubes among seven new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/28/grid-radiator-tubes-heating-furniture-lighting-surfaces-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a radiator with interchangeable accessories informed by workbench pegboards is among seven new products featured on Dezeen Showroom. Grid radiator by Elisa Ossino for Tubes Pegboards ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Everything you need to know about Paris Fashion Week",
+      "url": "https://www.wallpaper.com/fashion-beauty/paris-fashion-week-ss-2027-schedule-best-moments",
+      "excerpt": "Debuts, collaborations, names to know – read on for Wallpaper’s cheat sheet of what to expect from the S/S 2027 edition of Paris Fashion Week (28 September–6 October 2026), which marks the closing act",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5YWa88JJVDCCQ8DN3wLDcn-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "12 uplifting design projects from Finland",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/helsinki-design-week-2026-best-finnish-design",
+      "excerpt": "Earlier this month, Helsinki Design Week demonstrated of how design spills into everyday life: from revamped classics to innovative products, these are 12 uplifting design stories we discovered in Fin",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vcL7N2eyzSFVrhBMpJkGZb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "volunteers in thailand hand-build school toilet from reclaimed wood",
+      "url": "https://www.designboom.com/architecture/volunteer-camp-thailand-school-toilet-reclaimed-wood-sep/",
+      "excerpt": "forty-one volunteers spent eleven days building a school toilet from reclaimed wood, learning about sanitary design, material reuse, and hands-on craft.\nThe post volunteers in thailand hand-build scho",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/school-thailand-volunteers-toilet-designboom-1200-1-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "GRT Architects adds modular shelving in Storefront for Art and Architecture revamp",
+      "url": "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
+      "excerpt": "Architecture studio GRT Architects has modernised and updated New York architecture gallery Storefront for Art and Architecture, installing custom, removable shelving units and placing a doorknob on i",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Animal friendly \"purch pod\" among projects from American University in Dubai",
+      "url": "https://www.dezeen.com/2026/09/28/public-seating-people-animals-american-university-in-dubai-schoolshows/",
+      "excerpt": "Dezeen School Shows: an animal-friendly public seating and shade structure informed by dunes in the UAE is among the projects from the American University in Dubai. Also featured is a pod with a puzzl",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Finch Bay Hotel / Alfredo Ribadeneira Arquitectos",
+      "url": "https://www.archdaily.com/1185929/finch-bay-hotel-alfredo-ribadeneira-arquitectos",
+      "excerpt": "The Galápagos Islands are inseparable from the history of evolution. Charles Darwin's observations of their extraordinary biodiversity helped shape the ideas that would later contribute to his theory ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/96c9/0762/9c00/01cf/e728/large_jpg/BICUBIK_0090.jpg?1790613247",
       "today": true
     },
     {
@@ -258,33 +374,33 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.28",
-      "title": "Rossinavi unveils M/Y HEED, an aluminium superyacht with interiors by Achille Salvagni",
-      "url": "https://www.wallpaper.com/transportation/rossinavi-unveils-m-y-heed-an-aluminium-superyacht-with-interiors-by-achille-salvagni",
-      "excerpt": "Making its global debut at the 2026 Monaco Yacht Show, M/Y HEED is the newest build from Italian shipyard Rossinavi. We take a tour of the unique Achille Salvagni-designed interiors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Kf8NBGgtZWVFjUiRBRN2uV-2560-80.jpg",
+      "title": "Melides MG House / Pereira Miguel Arquitectos",
+      "url": "https://www.archdaily.com/1185847/melides-mg-house-pereira-miguel-arquitectos",
+      "excerpt": "Located in Esteveira, Melides, this project is a single-family house consisting of several volumes and a swimming pool, all interconnected though outdoor spaces that form an angle, following the natur",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/b8c2/5355/6000/01b4/aa49/large_jpg/MELIDES_MG_LOW-2.jpg?1790359760",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.28",
-      "title": "Zoya Cherkassky makes sense of American life with rich, diverse paintings in New York",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/zoya-cherkassky-makes-sense-of-american-life-with-rich-diverse-paintings-in-new-york",
-      "excerpt": "In 'American Cooking', at Fort Gansevoort, New York, Ukrainian artist Zoya Cherkassky captures life around her",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SNuaBzzNhNdGDe6fDaZ2FU-2560-80.jpg",
+      "title": "Koto Niwa Cabin / Koto",
+      "url": "https://www.archdaily.com/1029387/koto-niwa-cabin-koto",
+      "excerpt": "Koto's new Niwa flatpack collection is an evolution of our commitment to thoughtful, sustainable modular design. Born from a desire to create adaptable, nature-connected spaces in even the most remote",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6808/1530/5bb0/0401/8564/80cc/large_jpg/koto-niwa-koto_1.jpg?1745360186",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.28",
-      "title": "Formafantasma become creative directors of Officina Profumo-Farmaceutica di Santa Maria Novella",
-      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/formafantasma-creative-directors-santa-maria-novella",
-      "excerpt": "The 13th-century pharmacy and Italian design pioneers join forces to usher in a new era of Santa Maria Novella.",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/28U3KK44YMk8zat8Ak3TBR-2560-80.jpg",
+      "title": "AI x Gaudi: Architecture Competition + AI Course",
+      "url": "https://www.archdaily.com/1185927/ai-x-gaudi-architecture-competition-plus-ai-course",
+      "excerpt": "The Archademy.ai platform presents an initiative, developed in partnership with the Antoni Gaudí Foundation, that combines practical training in advanced artificial intelligence tools—such as ComfyUI ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/8d58/0762/9c00/01cf/e6f8/large_jpg/GxAI_EN.jpg?1790610785",
       "today": true
     },
     {
@@ -298,15 +414,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Rezen transforms hotel stables in Australia into \"raw and direct\" wellness centre",
-      "url": "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/",
-      "excerpt": "Arched openings and rough brick walls evoke the feel of a Roman bathhouse at Alchemy Saunas, a wellness centre in Australia by interior design studio Rezen. The project involved transforming a former ",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.28",
@@ -317,120 +424,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "V-Flex by VitrA Tiles",
-      "url": "https://www.dezeen.com/2026/09/28/v-flex-vitra-tiles-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: surfaces brand VitrA Tiles has developed V-Flex, a method of installation that aims to meet evolving architectural expectations by being simple and adhesive-free. The company's V-Flex",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Step inside the ‘Home of the Future’, from design fantasies to modernist architecture",
-      "url": "https://www.wallpaper.com/architecture/architecture-events/home-of-the-future-exhibition-lacma-usa",
-      "excerpt": "A new Los Angeles show explores the 'Home of the Future'; LACMA shines a light on the 20th century's exploration of domestic utopias",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JpwvNYAUNYJZbiDaAa2kcN-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
-      "url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
-      "excerpt": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who ",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "illya goldman gubin embraces cardboard boxes, shaping them into stools for bottega veneta",
-      "url": "https://www.designboom.com/design/bottega-veneta-cardboard-boxes-sculptural-stools-summer-2027-show-illya-goldman-gubin/",
-      "excerpt": "the ukrainian artist shapes each box through direct physical contact, leaving its folds, creases, and irregularities visible in a series of individually formed seats.\nThe post illya goldman gubin embr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bottega-veneta-cardboard-boxes-sculptural-stools-summer-2027-show-illya-goldman-gubin-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Six civic projects by Kashef Chowdhury that put people first",
-      "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
-      "excerpt": "Bangladeshi architect Kashef Chowdhury has published a monograph collating works from his three-decade-long career. In this roundup, we spotlight six key examples. Published by Park Books, the Meditat",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "formafantasma joins santa maria novella as creative directors after eight centuries of history",
-      "url": "https://www.designboom.com/design/formafantasma-santa-maria-novella-creative-directors-andrea-trimarchi-simone-farresin/",
-      "excerpt": "the italian design studio will shape products, packaging, communication and retail for the historic florentine fragrance house.\nThe post formafantasma joins santa maria novella as creative directors a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/formafantasma-santa-maria-novella-creative-directors-andrea-trimarchi-simone-farresin-designboom-14.jpeg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.28",
-      "title": "Escapism from the Streets: How Air-Conditioning Reshaped the Asian City",
-      "url": "https://www.archdaily.com/1185653/escapism-from-the-streets-how-air-conditioning-reshaped-the-asian-city",
-      "excerpt": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong, it is possible to move from an apartment tower through a podium mall, enter the Mass-Transit-Rai",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fa49/e78f/b301/883c/f27b/large_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790179922",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Pavilia Farm Clubhouses / Snøhetta",
-      "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
-      "excerpt": "With the completion of Sky House, the final clubhouse at Pavilia Farm, Snøhetta's vision for a unique urban community centered around nature, wellbeing, and collective ownership is now realized in ful",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/383c/df03/a301/88d4/b12b/large_jpg/pavilia-farm-clubhouses-snohetta_14.jpg?1790589244",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Sharjah Architecture Triennial Presents \"A Journey into Architecture Archives\" Focused on Baghdad, Damascus, and Tunis",
-      "url": "https://www.archdaily.com/1040836/sharjah-architecture-triennial-presents-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis",
-      "excerpt": "The Sharjah Architecture Triennial (SAT) has released the full documentary films from A Journey into Architecture Archives: Baghdad, Damascus, Tunis online. Curated by George Arbid, the project is par",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/69e7/4453/1afd/7001/8891/46bc/large_jpg/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_9.jpg?1776763991",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school",
-      "url": "https://www.designboom.com/art/bomb-cloud-sculpture-soil-straw-water-abandoned-lisbon-school-oskouei/",
-      "excerpt": "the sculpture turns a fleeting image into a lasting spatial presence.\nThe post bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school appeared first on designboom | a",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/weight-soil-sculptural-installation-saman-sasan-oskouei-lisbon-portugal-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Community Center Gamlitz / Gangoly & Kristiner Architects",
-      "url": "https://www.archdaily.com/1185754/community-center-gamlitz-gangoly-and-kristiner-architects",
-      "excerpt": "There is no better symbol of community than a large roof that brings us all together.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/47d9/e944/b300/0137/3ac2/large_jpg/Haus_der_Vereine-12.jpg?1790330871",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Citizen-Led Campaign Seeks UNESCO Status for Select Pre-Colonial Sites in Lima, Peru",
-      "url": "https://www.archdaily.com/1185867/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus",
-      "excerpt": "A campaign led by Red Lima Milenaria is seeking UNESCO recognition for pre-colonial sites in the Peruvian capital. Today, more than 600 archaeological sites remain in Lima, a metropolis of 11 million ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab8/6a67/701b/1e01/88c7/9d56/large_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470766",
+      "title": "LifeScience Incubator, Villejuif / Baumschlager Eberle Architekten + SAME architectes",
+      "url": "https://www.archdaily.com/1185665/lifescience-incubator-villejuif-baumschlager-eberle-architekten",
+      "excerpt": "Nestled atop a hill and adjacent to the Hautes Bruyères park, the Gustave Roussy Institute now has a new scientific hub dedicated to cancer research, designed by Baumschlager Eberle Architectes in col",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab4/0b52/59bf/5a01/8bd6/83d1/large_jpg/lifescience-incubator-villejuif-baumschlager-eberle-architekten_20.jpg?1790184290",
       "today": true
     },
     {
