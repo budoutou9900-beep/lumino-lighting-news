@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.27  21:49",
+  "fetchedAt": "2026.09.28  00:15",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -104,9 +104,9 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -115,7 +115,7 @@ window.LUMINO_DATA = {
     {
       "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
       "excerpt": "",
@@ -124,7 +124,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -142,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -151,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -160,7 +160,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -169,7 +169,7 @@ window.LUMINO_DATA = {
     {
       "source": "アメーバブログ",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
@@ -178,7 +178,7 @@ window.LUMINO_DATA = {
     {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
       "excerpt": "",
@@ -196,7 +196,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
@@ -205,7 +205,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
@@ -214,7 +214,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
@@ -223,7 +223,7 @@ window.LUMINO_DATA = {
     {
       "source": "デジカメ Watch",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
@@ -232,40 +232,10 @@ window.LUMINO_DATA = {
     {
       "source": "夜景FAN",
       "cat": "展示・アート",
-      "date": "2026.09.27",
+      "date": "2026.09.28",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
-      "url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
-      "excerpt": "meadow packs maps, music and messaging into a three-inch phone designed for leaving the smartphone behind.\nThe post forget doomscrolling: meadow shrinks the smartphone down to only the most essential ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Jordnära Cafe & PHOMI Showroom / Ady Putra Architect Design Firm",
-      "url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
-      "excerpt": "Located in the heart of Pantai Indah Kapuk, Jordnära Cafe is designed as a calm and welcoming space where people can pause, connect, and unwind. Created by Ady Putra Architect, the project transforms ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f38d/large_jpg/IMG_9262.jpg?1790345574",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "Office 101 Casa Andina / Caliza Arquitectura",
-      "url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
-      "excerpt": "The intervention is located in the Laureles neighborhood of Medellín, inside a structure representative of the area's traditional residential architecture. In response to new urban dynamics, the build",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/large_jpg/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886",
       "today": true
     },
     {
@@ -276,7 +246,37 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/planted-roof-concrete-casa-cieno-tac-taller-alberto-calleja-oaxacan-coast/",
       "excerpt": "the residence’s rectangular volume frames a central courtyard around the pool.\nThe post planted roof connects concrete casa cieno by TAC to oaxacan coast appeared first on designboom | architecture & ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/oaxaca-casa-cieno-tac-taller-alberto-calleja-courtyards-planted-roof-pool-designboom-1200.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
+      "url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
+      "excerpt": "meadow packs maps, music and messaging into a three-inch phone designed for leaving the smartphone behind.\nThe post forget doomscrolling: meadow shrinks the smartphone down to only the most essential ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/meadow-smartphone-essentials-designboom-FB.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Jordnära Cafe & PHOMI Showroom / Ady Putra Architect Design Firm",
+      "url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
+      "excerpt": "Located in the heart of Pantai Indah Kapuk, Jordnära Cafe is designed as a calm and welcoming space where people can pause, connect, and unwind. Created by Ady Putra Architect, the project transforms ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f38d/large_jpg/IMG_9262.jpg?1790345574",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Office 101 Casa Andina / Caliza Arquitectura",
+      "url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
+      "excerpt": "The intervention is located in the Laureles neighborhood of Medellín, inside a structure representative of the area's traditional residential architecture. In response to new urban dynamics, the build",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/large_jpg/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -285,7 +285,7 @@ window.LUMINO_DATA = {
       "title": "SODA transforms hostel into \"design-conscious\" pod hotel",
       "url": "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/",
       "excerpt": "London studio SODA has converted a backpacker hostel into Otherwander Soho, a high-density capsule hotel in central London with vibrantly-coloured social spaces. Otherwander combines 566 sleeping pods",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -295,7 +295,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson",
       "excerpt": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström. DinellJohansson won the competitio",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e127/large_jpg/FOLKETS_HUS_8_Victor_Johansson.jpg?1789380647",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -305,7 +305,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/hotels/anantara-tented-camp-kafue-river-zambia-review",
       "excerpt": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/CpCkC8DjL5y3HbBKEAQVhd-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -314,7 +314,7 @@ window.LUMINO_DATA = {
       "title": "Eight buildings with dramatic charred-timber facades",
       "url": "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
       "excerpt": "For our latest roundup, we've collected buildings clad in charred timber, including a dark-hued yoga retreat and a cabin \"shaped by fire\". Charred timber is used in projects across the world to create",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -324,7 +324,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/spinocchia-freund-chalet",
       "excerpt": "This sprawling private home is a 30,000 sq ft winter wonderland with ski-in, ski-out access, plus a spa, cinema and bowling alley to boot. Take the tour",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/35tgpW3NgpcYi6ocyuzJ4T-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -334,7 +334,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/studio-panter-and-tourron-redefining-codes-luxury-design/",
       "excerpt": "stefano panterotto and alexis tourron reveal how Swiss design, craftsmanship, and restraint shape their approach to high-end.\nThe post studio panter&tourron on redefining the codes of luxury design ap",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/panter-tourron-designboom-07.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -344,7 +344,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1184632/from-seasonal-escape-to-permanent-elsewhere-movement-and-architecture-in-the-gulf",
       "excerpt": "For many communities across the Gulf, leaving home once formed part of inhabiting it. Families moved between desert pastures, coastal settlements, wells, fishing grounds, and pearling ports according ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/4fa0/1fe7/3101/8863/0984/large_jpg/from-seasonal-escape-to-permanent-elsewhere_7.jpg?1788759980",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -354,7 +354,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/bottega-veneta-sound-artist-florian-hecker-ss-2027-show",
       "excerpt": "The German artist’s one-off sonic installation, played across 20 loudspeakers in Milan’s Fabbrica Orobia yesterday evening (26 September 2026), set the scene for Louise Trotter’s latest runway show",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/EFUBkLYrpgB94FCxD9zwcD-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -364,7 +364,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/henry-holland-royal-society-of-sculptors",
       "excerpt": "'There’s No Place Like It,' The Royal Society of Sculptors Summer exhibition, explores the beauty and mundanity of domestic life: ‘I was really looking for pieces that made me feel something'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r3iVTg7oCecSiJtRy9mfz4-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -374,7 +374,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique",
       "excerpt": "auruBOROS transforms the ancient image of the Ouroboros into a temporary urban organism that moves through New York City, connecting architecture, public space, and collective experience.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a466/large_jpg/SP_auruBOROS_11_arch.jpg?1789551624",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -384,7 +384,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-series-summer-journey-italy",
       "excerpt": "Carlo Ratti's series, 'Objectify', kept us company all summer, discussing everyday objects, their impact, and often-surprising design-led provenance, and Italian connections; now, the architect bids u",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/B3ib5YQabNtTv36dVnBV53-1600-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -393,7 +393,7 @@ window.LUMINO_DATA = {
       "title": "Harvard University transforms waste wool into cladding for retrofits",
       "url": "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/",
       "excerpt": "Grinham Research Group at Harvard University has developed an insulating cladding tile made from waste wool, which was presented at this year's Oslo Architecture Triennale. In an installation named Up",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
