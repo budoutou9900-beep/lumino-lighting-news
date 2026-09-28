@@ -1,79 +1,79 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.28  00:15",
+  "fetchedAt": "2026.09.28  06:15",
   "sourceColors": {
-    "マイナビニュース": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "ぴあエンタメ情報": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "PR TIMES": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "axismag.jp": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "アメーバブログ": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "anna（アンナ）": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Google ニュース": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "ヨコハマ経済新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "オズモール": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "デジカメ Watch": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "夜景FAN": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
     "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "マイナビニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "pronews.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
+    "PR TIMES": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "axismag.jp": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "中日新聞Web": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "anna（アンナ）": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "Google ニュース": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "ヨコハマ経済新聞": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "オズモール": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "walkerplus.com": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "デジカメ Watch": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "KNB WEB": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
     "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "ArchDaily": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "Dezeen": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "Wallpaper*": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -104,11 +104,30 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school",
+      "url": "https://www.designboom.com/art/bomb-cloud-sculpture-soil-straw-water-abandoned-lisbon-school-oskouei/",
+      "excerpt": "the sculpture turns a fleeting image into a lasting spatial presence.\nThe post bomb cloud sculpture takes shape in soil, straw and water inside abandoned lisbon school appeared first on designboom | a",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/weight-soil-sculptural-installation-saman-sasan-oskouei-lisbon-portugal-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "マイナビニュース",
       "cat": "デザイン",
       "date": "2026.09.28",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "pronews.com",
+      "cat": "国内情報",
+      "date": "2026.09.28",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -167,15 +186,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
-      "date": "2026.09.28",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.09.28",
@@ -212,7 +222,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "cat": "展示・アート",
       "date": "2026.09.28",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
@@ -230,12 +240,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.09.28",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "納入事例に「オルガテック東京2026 オカムラブース」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/189",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/189/OKAMURA_orgatectokyo2026_001.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.28",
+      "title": "Yuelang Road Block Comprehensive Quality Enhancement / TJAD Original Design Studio",
+      "url": "https://www.archdaily.com/1185737/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio",
+      "excerpt": "Yuelang Road is located in the core area of Qianjiang Century City, Hangzhou, surrounded by six high-density commercial and office towers. Before renewal, this approximately 330-meter internal street ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/ef76/8869/1701/89c2/d342/large_jpg/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_15.jpg?1790308296",
       "today": true
     },
     {
@@ -246,6 +276,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/planted-roof-concrete-casa-cieno-tac-taller-alberto-calleja-oaxacan-coast/",
       "excerpt": "the residence’s rectangular volume frames a central courtyard around the pool.\nThe post planted roof connects concrete casa cieno by TAC to oaxacan coast appeared first on designboom | architecture & ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/oaxaca-casa-cieno-tac-taller-alberto-calleja-courtyards-planted-roof-pool-designboom-1200.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.27",
+      "title": "Ashjar Cafe  / Studio Ahmed Aldossary",
+      "url": "https://www.archdaily.com/1185816/ashjar-cafe-studio-ahmed-aldossary",
+      "excerpt": "As Saudi Arabia's coffee culture continues to grow, cafés have become an important third place for many Saudis. Ashjar, meaning \"trees\" in Arabic, was conceived as a small urban escape within Riyadh, ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/792f/e944/b300/0137/3d93/large_jpg/Ashjar_Cafe-2.jpg?1790343497",
       "today": false
     },
     {
@@ -337,16 +377,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "From Seasonal Escape to Permanent Elsewhere: Movement and Architecture in the Gulf",
-      "url": "https://www.archdaily.com/1184632/from-seasonal-escape-to-permanent-elsewhere-movement-and-architecture-in-the-gulf",
-      "excerpt": "For many communities across the Gulf, leaving home once formed part of inhabiting it. Families moved between desert pastures, coastal settlements, wells, fishing grounds, and pearling ports according ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9e/4fa0/1fe7/3101/8863/0984/large_jpg/from-seasonal-escape-to-permanent-elsewhere_7.jpg?1788759980",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.27",
@@ -364,16 +394,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/exhibitions-shows/henry-holland-royal-society-of-sculptors",
       "excerpt": "'There’s No Place Like It,' The Royal Society of Sculptors Summer exhibition, explores the beauty and mundanity of domestic life: ‘I was really looking for pieces that made me feel something'",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/r3iVTg7oCecSiJtRy9mfz4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.27",
-      "title": "auruBOROS - Urban Memory and Collective Dream / Plastique Fantastique",
-      "url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique",
-      "excerpt": "auruBOROS transforms the ancient image of the Ouroboros into a temporary urban organism that moves through New York City, connecting architecture, public space, and collective experience.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a466/large_jpg/SP_auruBOROS_11_arch.jpg?1789551624",
       "today": false
     },
     {
@@ -424,16 +444,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.26",
-      "title": "elliptical classroom volumes and colorful louvers shape courtyard kindergarten in hanoi",
-      "url": "https://www.designboom.com/architecture/elliptical-classroom-volumes-colorful-louvers-courtyard-nghia-do-kindergarten-hanoi/",
-      "excerpt": "a triangular courtyard anchors nghia do kindergarten’s elliptical volumes.\nThe post elliptical classroom volumes and colorful louvers shape courtyard kindergarten in hanoi appeared first on designboom",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/nghia-do-courtyard-kindergarten-sunjin-vietnam-joint-venture-company-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "デザイン",
       "date": "2026.09.25",
@@ -478,9 +488,9 @@ window.LUMINO_DATA = {
       "cat": "デザイン",
       "date": "2026.09.16",
       "title": "納入事例に「伊勢丹会館 地下1階 イセタンスーツケース」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/preview/detail/184",
+      "url": "https://www.dnlighting.co.jp/case/detail/184",
       "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/products/assets/media/case/184/002.jpg",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/184/002.jpg",
       "today": false
     },
     {
@@ -541,16 +551,6 @@ window.LUMINO_DATA = {
       "url": "https://www.endo-lighting.co.jp/news/20260910-01/",
       "excerpt": "",
       "thumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/09/shoukukan_jirei2560.png",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.09.10",
-      "title": "納入事例に「アインズ＆トルペ池袋東武ホープセンター店」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/182",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/182/04.jpg",
       "today": false
     },
     {
