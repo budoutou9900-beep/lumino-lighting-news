@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.29  14:32",
+  "fetchedAt": "2026.09.29  19:44",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,35 +25,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アメーバブログ": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Google ニュース": {
+    "anna（アンナ）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "anna（アンナ）": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "walkerplus.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Unisba Media": {
+    "KNB WEB": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,11 +61,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -167,19 +167,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
-      "date": "2026.09.29",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.29",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
       "excerpt": "",
       "today": true
@@ -212,20 +203,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "cat": "展示・アート",
       "date": "2026.09.29",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Unisba Media",
-      "cat": "展示・アート",
-      "date": "2026.09.29",
-      "title": "【よみうりランド/ジュエルミネーションの世界】ライトアップされた新旧の大観覧車、噴水ショー、園内一帯の美しいイルミネーションの世界！ Katy Perry (xLDSIUFcri)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsUlppMm1BN1RCcGp0SkJDREwwUFJHdHhPbTlJV0RreDJ3eEoteVR6RS01MDhwcy0yQ0ozUTBqT2duSWh1OXRfTGh6amUtS2VRa2J3Tk13aFI1M2pOcTNnaklwdUt3QQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -239,12 +221,118 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "KNB WEB",
+      "cat": "展示・アート",
+      "date": "2026.09.29",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.29",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "TPG Architecture creates an \"office as stadium\" for Major League Soccer headquarters",
+      "url": "https://www.dezeen.com/2026/09/29/major-league-soccer-new-york-headquarters-tpg-architecture/",
+      "excerpt": "North American football league Major League Soccer has moved its New York headquarters to the Penn 2 skyscraper and commissioned US studio TPG Architecture to have it mirror the dynamics of a soccer p",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "es devlin’s rotating library holds 2,000 books inside london’s design museum",
+      "url": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/",
+      "excerpt": "the artist brings her studio, decades of drawings and models, as well as a well-used collection of books into the galleries.\nThe post es devlin’s rotating library holds 2,000 books inside london’s des",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/es-devlin-other-worlds-design-museum-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Can data centres ever be examples of good design?",
+      "url": "https://www.dezeen.com/2026/09/29/data-centres-design-architecture-hyperscale-ai/",
+      "excerpt": "With AI driving demand, vast data centres are increasingly in the news as people question the impact on local environments. Can architects help to make these buildings look and function better? When w",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Jonathan Anderson looks to the ‘preciousness’ of nature for a romantic Dior show",
+      "url": "https://www.wallpaper.com/fashion-beauty/dior-ss-2027-runway-show-jonathan-anderson-paris-fashion-week-review",
+      "excerpt": "Held in Paris today (29 September 2026), the Northern Irish designer’s latest womenswear show for Dior found beauty in nature, using ‘wénwán’ walnuts as a metaphor",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zorrLQVVNhKpcM6pty4TwT-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "The 'Verity' house has a midcentury modern pedigree that's to die for",
+      "url": "https://www.wallpaper.com/architecture/residential/verity-house-filming-location",
+      "excerpt": "What could be more tantalising than an erotic thriller starring Josh Hartnett, Dakota Johnson and Anne Hathaway? An architectural rarity, of course!",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSeC4d8AKSSGJWnkJAdbJV-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "bureau betak places a geometric white runway in a mist-filled landscape for dior",
+      "url": "https://www.designboom.com/design/bureau-betak-geometric-white-runway-mist-filled-landscape-dior-summer-2027-show-paris-fashion-week-jonathan-anderson/",
+      "excerpt": "for dior’s summer 2027 women’s show, bureau betak inserts a white geometric runway into le bassin octogonal, surrounding the catwalk with water, mist and living camphor trees that will later be replan",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/bureau-betak-geometric-white-runway-mist-filled-landscape-dior-summer-2027-show-paris-fashion-week-jonathan-anderson-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Fuente de Piedra #45 / Feliu Vega Kennedy Arquitectura",
+      "url": "https://www.archdaily.com/1185934/fuente-de-piedra-number-45-feliu-vega-kennedy-arquitectura",
+      "excerpt": "We are betting on the recycling of housing infrastructure with high urban value, which the real estate market often overlooks—either failing to recognize its potential or deliberately choosing to demo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab1/85cf/c765/2000/0134/7102/large_jpg/APTO-SAN-IGNASIO-FVK-9343-WEB-RGB.jpg?1790019063",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "former railway signal box reopens as l’aiguilleuse red-orange kiosk-bar in nantes",
+      "url": "https://www.designboom.com/architecture/former-railway-signal-box-laiguilleuse-red-orange-kiosk-bar-nantes-studio-tere/",
+      "excerpt": "designed by studio téré, the former railway signal box-turned-kiosk-bar sits within the jardins de l’estuaire new public park.\nThe post former railway signal box reopens as l’aiguilleuse red-orange ki",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/laiguilleuse-studio-tere-railway-signal-box-kiosk-bar-jardins-de-lestuaire-ile-de-nantes-france-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.29",
       "title": "Knekt floor lamp by Hegren",
       "url": "https://www.dezeen.com/2026/09/29/knekt-floor-lamp-hegren-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: local production, repairability and honest design are foregrounded in Norwegian brand Hegren's Knekt floor lamp. Designed for the contemporary home, where people might use an armchair",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "El Muro Pavilion / ARQLIQ arquitetura + Entremeios Arquitetura + Márcio Flávio Motta + Ismael Torrano",
+      "url": "https://www.archdaily.com/1185952/el-muro-pavilion-arqliq-arquitetura-plus-entremeios-arquitetura-plus-marcio-flavio-motta-plus-ismael-torrano",
+      "excerpt": "El Muro is the winning pavilion of the 28th edition of the Arquine competition for the MEXTRÓPOLI 2026 Festival in Mexico City. The proposal stems from a simple gesture: a line that cuts across the Al",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/05ee/3bc5/c600/01c9/5305/large_jpg/DJI_20260919090950_0010_D.jpg?1790641683",
       "today": true
     },
     {
@@ -255,6 +343,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/tech/polaroid-mod",
       "excerpt": "Polaroid has announced the Mod, an instant camera with four creative modes for added unpredictability",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WceEMTweGQhgLmrLhXGpzA-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Garner Residence / Davey McEathron Architecture",
+      "url": "https://www.archdaily.com/1029095/garner-residence-davey-mceathron-architecture",
+      "excerpt": "Eclectic 1970s-inspired home designed by Davey McEathron Architecture with interiors + construction by Cary Paul Studios. This home in the heart of South Austin blends mid-century modern charm with 70",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/67fd/a0ab/8fdd/da01/899e/435e/large_jpg/garner-residence-davey-mceathron-architecture_9.jpg?1744675011",
       "today": true
     },
     {
@@ -306,6 +404,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "The Temple / Skuli Mogensen",
+      "url": "https://www.archdaily.com/1183988/the-temple-skuli-mogensen",
+      "excerpt": "As an outdoor sculpture, the Temple measures roughly 18 meters long and 14 meters wide. Built from exposed architectural concrete, it is open to the elements.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a8e/7684/4253/0500/01ca/0c64/large_jpg/entrance__1_.jpg?1787721450",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.29",
@@ -316,34 +424,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Formafantasma named creative directors of 800-year-old apothecary and perfumery",
-      "url": "https://www.dezeen.com/2026/09/29/formafantasma-officina-profumo-farmaceutica-di-santa-maria-novella/",
-      "excerpt": "One of the oldest surviving pharmacies in the world, Florence's Officina Profumo-Farmaceutica di Santa Maria Novella, has appointed Italian design duo Formafantasma as creative directors. Their new ro",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Capri Comfort chair by Piergiorgio Cazzaniga for Andreu World",
-      "url": "https://www.dezeen.com/2026/09/29/capri-comfort-armchairs-piergiorgio-cazzaniga-andreu-world-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: designer Piergiorgio Cazzaniga and furniture brand Andreu World have added extra cushioning to one of their successful seating designs to make Capri Comfort – a minimalist executive c",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "LANG’s los angeles flagship layers fragments of hong kong into a former warehouse",
-      "url": "https://www.designboom.com/architecture/lang-los-angeles-flagship-fragments-hong-kong-former-warehouse-studio-paul-chan/",
-      "excerpt": "a mix of fashion, exhibitions, and gathering, the space uses everyday references and tactile materials to create a place for cultural exchange.\nThe post LANG’s los angeles flagship layers fragments of",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lang-los-angeles-flagship-fragments-hong-kong-former-warehouse-studio-paul-chan-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.29",
@@ -351,86 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185838/building-on-volcanic-ground-architectures-response-to-volcanic-landscapes",
       "excerpt": "Volcanic landscapes make geological change unusually visible. Lava hardens into new ground, and plants slowly take hold across it. Ash can remain in the landscape for years. Around active volcanoes, t",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/a0a9/7a66/c501/8bc5/7140/large_jpg/building-on-volcanic-ground-architectures-response-to-volcanic-landscapes_4.jpg?1790353582",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Next Practices Live in Mexico",
-      "url": "https://www.archdaily.com/1185724/next-practices-live-in-mexico",
-      "excerpt": "ArchDaily invites you to the launch of the 6th edition of its Next Practices Awards. Taking place during Design Week Mexico, the event will explore how emerging practices are expanding architecture's ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/9a03/7a66/c501/8bc5/70dc/large_jpg/next-practices-live-in-mexico_1.jpg?1790351892",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "The House of Continum / Squelette Design",
-      "url": "https://www.archdaily.com/1185817/the-house-of-continum-squelette-design",
-      "excerpt": "An Autopoietic Intervention in Minimal Brutalism – The House of Continuum reimagines the spatial syntax of co-living with nature, transcending the traditional paradigm of a residential retreat. Ground",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/7a05/e944/b300/0137/3dc0/large_jpg/E_PHX4362_FS.jpg?1790343790",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Farshid Moussavi Receives the 2026 Soane Medal",
-      "url": "https://www.archdaily.com/1185957/farshid-moussavi-receives-the-2026-soane-medal",
-      "excerpt": "Farshid Moussavi has been awarded the 2026 Soane Medal for her contributions to architectural practice, history, and theory. The Iranian-born architect and educator, who founded Farshid Moussavi Archi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/807d/21f2/b501/8947/ae50/large_jpg/farshid-moussavi-receives-the-2026-soane-medal_6.jpg?1790673026",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "dark wood and deep green turn alfa romeo’s iconic design into caffè fortuna in taipei",
-      "url": "https://www.designboom.com/design/dark-wood-deep-green-alfa-romeo-iconic-design-caffe-fortuna-taipei-rlww-studio/",
-      "excerpt": "the iconic quadrifoglio model translates into a precise interplay of geometry and mass, evoking mid-century milanese modernism on a taipei street corner.\nThe post dark wood and deep green turn alfa ro",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/caffe-fortuna-quadrifoglio-alfa-romeo-taipei-rlww-studio-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "designboom listens: frankey on the songs that shape his creative world",
-      "url": "https://www.designboom.com/art/designboom-listens-frankey-songs-creative-world-interview/",
-      "excerpt": "from aretha franklin to little simz, the amsterdam artist shares the tracks that go hand in hand with his studio rituals, memories, breakthroughs and favorite projects.\nThe post designboom listens: fr",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designboom-listens-frankey-songs-creative-world-interview-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Modular House with a Sloping Facade / Papundekl Architects",
-      "url": "https://www.archdaily.com/1185668/modular-house-with-a-sloping-facade-papundekl-architects",
-      "excerpt": "This single-story family home in a South Bohemian village navigates a dual context: it respects local rural heritage on one side while completely opening up to nature on the other. Designed for a coup",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab4/7aab/e78f/b301/883c/f3a1/large_jpg/modular-house-with-a-sloping-facade-papundekl-architects_24.jpg?1790212799",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "The best of Berlin’s design scene came out for the inaugural Currents festival",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/currents-design-festival-berlin",
-      "excerpt": "Over three days in September, the city hosted a sprawling fair that brought together independent designers, brands, and creative collectives",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wSXZWLmpi5DvbTLuGDdeXD-2000-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "A family's Puerto Escondido home on a sandy beach nods to monasteries and haciendas",
-      "url": "https://www.wallpaper.com/architecture/residential/puerto-escondido-home-casa-copycha-anonimous-mexico",
-      "excerpt": "Casa Copycha by Anonimous in Mexico's Puerto Escondido sandy coast is a holiday home that draws on local, traditional typologies and brings them to the 21st century",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eTQY2cNR8JYtgA5GqFWN86-2560-80.jpg",
       "today": true
     },
     {
