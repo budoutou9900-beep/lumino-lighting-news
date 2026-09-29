@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.29  19:44",
+  "fetchedAt": "2026.09.29  23:22",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "lp.p.pia.jp": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -25,43 +25,43 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "アメーバブログ": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "anna（アンナ）": {
+    "Google ニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "オズモール": {
+    "anna（アンナ）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "walkerplus.com": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "デジカメ Watch": {
+    "walkerplus.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "KNB WEB": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "KNB WEB": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -113,7 +113,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
       "date": "2026.09.29",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -167,10 +167,19 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.09.29",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.29",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
       "excerpt": "",
       "today": true
@@ -230,12 +239,41 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.09.29",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
-      "excerpt": "",
+      "title": "‘as a spectator, you also have a responsibility’ fabio cherstich on the boundaries of art and theater",
+      "url": "https://www.designboom.com/art/spectator-responsibility-fabio-cherstich-boundaries-art-theater/",
+      "excerpt": "the italian director's unique approach to performance has taken him to new york archives, miu miu performances in shanghai, and even the countryside home of the late painter, lucia di luciano. \nThe po",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/fabio-cherstich-designboom-02-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Table lamp made from volcanic stone among projects from Tecnológico de Monterrey",
+      "url": "https://www.dezeen.com/2026/09/29/table-lamp-volcanic-stone-tecnologico-de-monterrey-schoolshows/",
+      "excerpt": "Dezeen School Shows: a lamp crafted from volcanic stone and informed by a sunrise is among the projects from Instituto Tecnológico y de Estudios Superiores de Monterrey. Also featured is a stone plate",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "how LAS art foundation transforms quantum computing and clubs into art",
+      "url": "https://www.designboom.com/art/how-las-art-foundation-transforms-quantum-computing-and-clubs-into-art/",
+      "excerpt": "from berghain to venice, the organization takes immersive exhibitions beyond traditional museums, using unconventional spaces to reach new audiences.\nThe post how LAS art foundation transforms quantum",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/light-art-space-designboom-04.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Five USA-based job vacancies detailed on Dezeen Jobs",
+      "url": "https://www.dezeen.com/2026/09/29/usa-based-vacancies-dezeen-jobs/",
+      "excerpt": "We've selected five opportunities in North America on Dezeen Jobs, including roles at universities and design practices. Tenure-track assistant professor architecture section at The Ohio State Univers",
       "today": true
     },
     {
@@ -284,6 +322,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/verity-house-filming-location",
       "excerpt": "What could be more tantalising than an erotic thriller starring Josh Hartnett, Dakota Johnson and Anne Hathaway? An architectural rarity, of course!",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSeC4d8AKSSGJWnkJAdbJV-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "House JF / AAA_Azevedo Agência de Arquitetura",
+      "url": "https://www.archdaily.com/1185914/house-jf-aaa-azevedo-agencia-de-arquitetura",
+      "excerpt": "The JF house is organized around a central courtyard, which contains the elements for lingering and leisure (such as a swimming pool and flat lawn) and is surrounded by three volumes that open onto it",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/712d/5c4d/8600/0165/6d1e/large_jpg/21.jpg?1790603598",
       "today": true
     },
     {
@@ -356,16 +404,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "from 1960s radical design to berlin’s concrete bunkers: a history of nightlife spaces",
-      "url": "https://www.designboom.com/architecture/1960s-radical-design-berlin-concrete-bunkers-history-nightlife-spaces-nightclubs/",
-      "excerpt": "the rooms where people came to dance, disappear, dress up, watch and be watched became laboratories for architecture, performance and collective life.\nThe post from 1960s radical design to berlin’s co",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/1960s-radical-design-berlin-concrete-bunkers-history-nightlife-spaces-nightclubs-designboom-06.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.09.29",
@@ -373,34 +411,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/joy-bc-exhibition-elisabetta-cipriani-gallery-london",
       "excerpt": "More than 20 rarely seen pieces of jewellery by the artist and goldsmith arrive at Elisabetta Cipriani Gallery, sculptural nods to ancient narratives",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TcTtGEqEwmzongNdCduu5g-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Stanton Williams designs boarding houses to \"support the culture\" of Winchester College",
-      "url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
-      "excerpt": "Architecture studio Stanton Williams has completed two boarding houses for girls at Winchester College, wrapping courtyards with gabled brick buildings that reference the historic layout and architect",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Populous reveals design for 70,000-seat Vietnamese national stadium",
-      "url": "https://www.dezeen.com/2026/09/29/vietnam-national-stadium-rach-chiec/",
-      "excerpt": "Architecture studio Populous has unveiled its design for the Rach Chiec Stadium in Ho Chi Minh City, which will become the country's national stadium. Set to be built on the outskirts of the city, the",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "roca introduces  in-wash® vorea smart toilet with advanced hygiene and personalization features",
-      "url": "https://www.designboom.com/design/roca-in-wash-vorea-smart-toilet/",
-      "excerpt": "controlled via remote, side button, or app, roca’s in-wash® vorea delivers personalized care within a minimal silhouette.\nThe post roca introduces  in-wash® vorea smart toilet with advanced hygiene an",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/roca_designboom_facebook-2.jpg",
       "today": true
     },
     {
@@ -421,16 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/galleries/gaming-inspires-chanels-first-gateway-commission-on-show-at-dib-bangkok",
       "excerpt": "Contemporary art museum DiB Bangkok, Chanel Culture Fund’s first major partner in Southeast Asia, unveils a work by Nawin Nuthong with which ‘people will connect’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xKPy9tcG44Ywke4M9CUtZd-1500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Building on Volcanic Ground: Architecture's Response to Volcanic Landscapes",
-      "url": "https://www.archdaily.com/1185838/building-on-volcanic-ground-architectures-response-to-volcanic-landscapes",
-      "excerpt": "Volcanic landscapes make geological change unusually visible. Lava hardens into new ground, and plants slowly take hold across it. Ash can remain in the landscape for years. Around active volcanoes, t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/a0a9/7a66/c501/8bc5/7140/large_jpg/building-on-volcanic-ground-architectures-response-to-volcanic-landscapes_4.jpg?1790353582",
       "today": true
     },
     {
@@ -490,7 +490,6 @@ window.LUMINO_DATA = {
       "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
       "url": "https://www.yamagiwa.co.jp/news/80248/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
@@ -629,7 +628,6 @@ window.LUMINO_DATA = {
       "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
       "url": "https://www.yamagiwa.co.jp/news/79831/",
       "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
