@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.29  01:24",
+  "fetchedAt": "2026.09.29  07:47",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,7 +25,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アメーバブログ": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,31 +33,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Google ニュース": {
+    "オズモール": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "KNB WEB": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "KNB WEB": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,7 +65,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -73,7 +73,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Wallpaper*": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -167,11 +167,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.09.29",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
+      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -181,15 +181,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.29",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.29",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - web-komachi.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -239,6 +230,122 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.09.29",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Five architecture courses recently featured on Dezeen Courses",
+      "url": "https://www.dezeen.com/2026/09/29/five-architecture-courses-dezeen-courses/",
+      "excerpt": "Dezeen Courses: for our latest courses roundup, we've selected five architecture-related courses recently featured on Dezeen Courses. This roundup includes programmes that enhance various skills, from",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "dark wood and deep green turn alfa romeo’s iconic design into caffè fortuna in taipei",
+      "url": "https://www.designboom.com/design/dark-wood-deep-green-alfa-romeo-iconic-design-caffe-fortuna-taipei-rlww-studio/",
+      "excerpt": "the iconic quadrifoglio model translates into a precise interplay of geometry and mass, evoking mid-century milanese modernism on a taipei street corner.\nThe post dark wood and deep green turn alfa ro",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/caffe-fortuna-quadrifoglio-alfa-romeo-taipei-rlww-studio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "designboom listens: frankey on the songs that shape his creative world",
+      "url": "https://www.designboom.com/art/designboom-listens-frankey-songs-creative-world-interview/",
+      "excerpt": "from aretha franklin to little simz, the amsterdam artist shares the tracks that go hand in hand with his studio rituals, memories, breakthroughs and favorite projects.\nThe post designboom listens: fr",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/designboom-listens-frankey-songs-creative-world-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "The best of Berlin’s design scene came out for the inaugural Currents festival",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/currents-design-festival-berlin",
+      "excerpt": "Over three days in September, the city hosted a sprawling fair that brought together independent designers, brands, and creative collectives",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wSXZWLmpi5DvbTLuGDdeXD-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Raised walkway ties together 360‑metre-long hotel",
+      "url": "https://www.dezeen.com/2026/09/29/jiashan-dayun-landison-manor-hotel/",
+      "excerpt": "Chinese studios HB Architects and Nature Times Art have completed a hotel in Jiashan, China, which is connected by a 360-metre-long raised walkway. Named Dayun Landison Manor, the hotel occupies the e",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Fisher & Paykel's Professional Style appliances bring restaurant feel to the home kitchen",
+      "url": "https://www.dezeen.com/2026/09/29/fisher-paykel-professional-style-appliances/",
+      "excerpt": "Promotion: the robust, precision-engineered quality of a restaurant kitchen can be recreated at home with Fisher & Paykel's latest Professional Style appliances. The Professional Style appliances are ",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Brick on Sticks Retail Store / DOT BOT STUDIO",
+      "url": "https://www.archdaily.com/1185580/brick-on-sticks-retail-store",
+      "excerpt": "Along the dense commercial fabric of Domlur-Indiranagar, a G+3 structure on a modest 40×60 plot announces itself quietly, almost evasively. In a landscape where dimensions are more often associated wi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab2/850d/325b/9100/01c4/6006/large_jpg/5.jpg?1790084411",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "A family's Puerto Escondido home on a sandy beach nods to monasteries and haciendas",
+      "url": "https://www.wallpaper.com/architecture/residential/puerto-escondido-home-casa-copycha-anonimous-mexico",
+      "excerpt": "Casa Copycha by Anonimous in Mexico's Puerto Escondido sandy coast is a holiday home that draws on local, traditional typologies and brings them to the 21st century",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/eTQY2cNR8JYtgA5GqFWN86-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "rippling glass facades and mountain-high towers shape urban district by AECOM in shaoxing",
+      "url": "https://www.designboom.com/readers/rippling-glass-facades-mountain-high-towers-shape-district-aecom-shaoxing-huafa-financial-vitality-city/",
+      "excerpt": "mountain-inspired towers and pebble-like podiums shape AECOM’s design in shaoxing, where offices, retail and public spaces come together around a central park.\nThe post rippling glass facades and moun",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aecom-huafa-financial-vitality-city-shaoxing-china-urban-district-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Casa Piva / B.E Architecture",
+      "url": "https://www.archdaily.com/1185828/casa-piva-be-architecture",
+      "excerpt": "Casa Piva is discreetly sited off a quiet suburban laneway in Malvern East. Its prevailing sense of privacy and intimacy is created through a series of inwardly oriented courtyards that surround the h",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/735c/701b/1e01/88c7/a087/large_jpg/casa-piva-be-architecture_32.jpg?1790604136",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "技術・LED",
+      "date": "2026.09.29",
+      "title": "電源別置タイプのLED製品について、接続時の確認ポイントを解説する動画を公開しました",
+      "url": "https://www.dnlighting.co.jp/media/news/20260929",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": true
+    },
+    {
       "source": "DNライティング",
       "cat": "展示・アート",
       "date": "2026.09.29",
@@ -246,6 +353,16 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/case/detail/174",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/174/★001_73W1358.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.29",
+      "title": "Aranya Youyi Bay Community Regeneration / genarchitects",
+      "url": "https://www.archdaily.com/1185755/aranya-youyi-bay-community-regeneration-genarchitects",
+      "excerpt": "Growing Through Use. Youyi Bay is a micro-community in Aranya, Qinhuangdao, comprising a hotel, apartments, and commercial spaces. The original design organized its public spaces around a group of pla",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/830f/7a66/c501/8bc5/700b/large_jpg/aranya-youyi-bay-community-regeneration-genarchitects_8.jpg?1790346026",
       "today": true
     },
     {
@@ -308,16 +425,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "why did one of the world’s best-known car designers choose this weird little porsche 914/6?",
-      "url": "https://www.designboom.com/technology/porsche-914-6-luc-donckerwolke-ruf-rebuilt-bring-trailer/",
-      "excerpt": "now listed for sale, luc donckerwolke’s RUF-rebuilt porsche 914/6 turns one of porsche’s strangest shapes into a collector’s curiosity.\nThe post why did one of the world’s best-known car designers cho",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/luc-donckerwolke-RUF-modified-1970-porsche-914-6-bring-a-trailer-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.28",
@@ -344,103 +451,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/paris-fashion-week-ss-2027-schedule-best-moments",
       "excerpt": "Debuts, collaborations, names to know – read on for Wallpaper’s cheat sheet of what to expect from the S/S 2027 edition of Paris Fashion Week (28 September–6 October 2026), which marks the closing act",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5YWa88JJVDCCQ8DN3wLDcn-1800-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "12 uplifting design projects from Finland",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/helsinki-design-week-2026-best-finnish-design",
-      "excerpt": "Earlier this month, Helsinki Design Week demonstrated of how design spills into everyday life: from revamped classics to innovative products, these are 12 uplifting design stories we discovered in Fin",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vcL7N2eyzSFVrhBMpJkGZb-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "volunteers in thailand hand-build school toilet from reclaimed wood",
-      "url": "https://www.designboom.com/architecture/volunteer-camp-thailand-school-toilet-reclaimed-wood-sep/",
-      "excerpt": "forty-one volunteers spent eleven days building a school toilet from reclaimed wood, learning about sanitary design, material reuse, and hands-on craft.\nThe post volunteers in thailand hand-build scho",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/school-thailand-volunteers-toilet-designboom-1200-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "GRT Architects adds modular shelving in Storefront for Art and Architecture revamp",
-      "url": "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
-      "excerpt": "Architecture studio GRT Architects has modernised and updated New York architecture gallery Storefront for Art and Architecture, installing custom, removable shelving units and placing a doorknob on i",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Animal friendly \"purch pod\" among projects from American University in Dubai",
-      "url": "https://www.dezeen.com/2026/09/28/public-seating-people-animals-american-university-in-dubai-schoolshows/",
-      "excerpt": "Dezeen School Shows: an animal-friendly public seating and shade structure informed by dunes in the UAE is among the projects from the American University in Dubai. Also featured is a pod with a puzzl",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Finch Bay Hotel / Alfredo Ribadeneira Arquitectos",
-      "url": "https://www.archdaily.com/1185929/finch-bay-hotel-alfredo-ribadeneira-arquitectos",
-      "excerpt": "The Galápagos Islands are inseparable from the history of evolution. Charles Darwin's observations of their extraordinary biodiversity helped shape the ideas that would later contribute to his theory ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/96c9/0762/9c00/01cf/e728/large_jpg/BICUBIK_0090.jpg?1790613247",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "These were the best shows of Milan Fashion Week S/S 2027",
-      "url": "https://www.wallpaper.com/fashion-beauty/best-shows-milan-fashion-week-ss-2027-review-round-up",
-      "excerpt": "From an interrogation of the skirt at Prada to Demna’s latest outing for Gucci, here are Wallpaper’s picks of the best of Milan Fashion Week, which concluded yesterday (27 September 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mnr67RwSqCUwWJCkT5ARRe-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Silora task chair by ITO Design for Narbutas",
-      "url": "https://www.dezeen.com/2026/09/28/silora-task-chair-ito-design-narbutas-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: ITO Design let function drive form when creating this task chair, which features a distinctive sculptural back, for office brand Narbutas. The Silora chair features a striking backres",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Melides MG House / Pereira Miguel Arquitectos",
-      "url": "https://www.archdaily.com/1185847/melides-mg-house-pereira-miguel-arquitectos",
-      "excerpt": "Located in Esteveira, Melides, this project is a single-family house consisting of several volumes and a swimming pool, all interconnected though outdoor spaces that form an angle, following the natur",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/b8c2/5355/6000/01b4/aa49/large_jpg/MELIDES_MG_LOW-2.jpg?1790359760",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "Koto Niwa Cabin / Koto",
-      "url": "https://www.archdaily.com/1029387/koto-niwa-cabin-koto",
-      "excerpt": "Koto's new Niwa flatpack collection is an evolution of our commitment to thoughtful, sustainable modular design. Born from a desire to create adaptable, nature-connected spaces in even the most remote",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6808/1530/5bb0/0401/8564/80cc/large_jpg/koto-niwa-koto_1.jpg?1745360186",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.28",
-      "title": "design for humanity at play: compasso d’oro international design award 2027 calls for entries",
-      "url": "https://www.designboom.com/design/compasso-doro-international-design-award-2027-calls-for-entries/",
-      "excerpt": "the award invites designers, brands, and institutions to submit works completed between 2023 and 2026 across nine distinct project categories.\nThe post design for humanity at play: compasso d’oro inte",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ADI_designboom_facebook-2.jpg",
       "today": false
     },
     {
@@ -477,7 +487,7 @@ window.LUMINO_DATA = {
       "source": "YAMAGIWA",
       "cat": "新製品",
       "date": "2026.09.24",
-      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1～10/2）",
+      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
       "url": "https://www.yamagiwa.co.jp/news/80248/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
@@ -521,16 +531,6 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/design/pro_way/vol53.html",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/design/pro_way/img/common/title01.svg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "デザイン",
-      "date": "2026.09.15",
-      "title": "納入事例に「atmos pink flagship Harajuku」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/190",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/190/IMG_8624.jpg",
       "today": false
     },
     {
