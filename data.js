@@ -1,15 +1,15 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.30  10:13",
+  "fetchedAt": "2026.09.30  16:37",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "lp.p.pia.jp": {
+    "ぴあエンタメ情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "PR TIMES": {
+    "prtimes.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,81 +25,77 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "ozmall.co.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
-    },
-    "anna（アンナ）": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "オズモール": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     },
     "ヨコハマ経済新聞": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "ウォーカープラス": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
-    "dc.watch.impress.co.jp": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+    "デジカメ Watch": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "KNB WEB": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "夜景FAN": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "designboom": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Dezeen": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "ファッションプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "パナソニック": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "岩崎電気": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "パナソニック": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -113,7 +109,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
       "date": "2026.09.30",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
@@ -122,7 +118,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "賞・コンペ",
       "date": "2026.09.30",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -131,7 +127,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "展示・アート",
       "date": "2026.09.30",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -167,25 +163,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.09.30",
-      "title": "11/22(土)～2026/2/28(土)『軽井沢ウインターフェスティバル2026』町内各所で冬を彩るイルミネーション・花火・白糸の滝ライトアップなど多彩なプログラムを楽しんで【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUTZrMFpPQnRsdENETUxleE51M0s4bDg3UndTR081MkZiWmdpWG12algwc2x5aUR4X243N2tSaGdkdkxFVTFqMjlhY2dxUQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.09.30",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "オズモール",
+      "source": "ozmall.co.jp",
       "cat": "展示・アート",
       "date": "2026.09.30",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -212,7 +190,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "dc.watch.impress.co.jp",
+      "source": "デジカメ Watch",
       "cat": "展示・アート",
       "date": "2026.09.30",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
@@ -236,6 +214,139 @@ window.LUMINO_DATA = {
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.30",
+      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.09.30",
+      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81T2ZoajNYbnhYdjYxeWRWcVMxNHROOFdYTHNmTjBDUUpfVXVDdXRoOHF0S3FwUmg2aWpieFBtMk1RbkU4R0xIaXJKSi1IVTJ3OUJj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "The biggest threat to architectural heritage may surprise you",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/world-monuments-fund-study-2026",
+      "excerpt": "A new report, released today by the World Monuments Fund, lists the number one reason why cultural sites are at risk",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WoDB7mBUrb4Ne7W6BMf2Ah-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "'Like stepping into the mind of a genius' – Jean Schlumberger sketches and artefacts are being preserved by Tiffany & Co. and the  Musée des Arts décoratifs",
+      "url": "https://www.wallpaper.com/watches-jewellery/like-stepping-into-the-mind-of-a-genius-jean-schlumberger-sketches-and-artefacts-are-being-preserved-by-tiffany-and-co-and-the-musee-des-arts-decoratifs",
+      "excerpt": "A heritage maison and a cultural institution work together to make Schlumberger's archival designs available for future creators",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hCJbBQNNbxHCtUx3kmC59N-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Sunny side up (north) – Ottolenghi Edinburgh extends a warm, colourful welcome",
+      "url": "https://www.wallpaper.com/travel/restaurants/ottolenghi-edinburgh-review",
+      "excerpt": "Ottolenghi’s Mediterranean warmth meets Scotland’s hearty larder in the chef’s bright new Edinburgh restaurant",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u6UPdU4SrZEezwccf2onyb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Urban settlement for extreme ecosystem among projects from Tulane University",
+      "url": "https://www.dezeen.com/2026/09/30/tulane-group-project-university-schoolshows/",
+      "excerpt": "Dezeen School Shows: a proposal for sustainable urban settlements in the Atacama Desert is among projects from students at Tulane University. Also featured is a project focusing on the preservation of",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Synthetic memories feature in MoMA information design exhibition",
+      "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/",
+      "excerpt": "New York's Museum of Modern Art has exhibited Full Disclosure: The Edge of Information Design, curated by Paola Antonelli, which features information design from classic infographics to a project with",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "anrealage wraps dresses in up to 2,000 e-ink panels for color-changing ‘skin’",
+      "url": "https://www.designboom.com/technology/anrealage-dresses-eink-panels-color-changing-skin-kunihiko-morinaga/",
+      "excerpt": "kunihiko morinaga's ss27 collection combines e ink, 3d printed scales and kyocera forearth printing at paris fashion week.\nThe post anrealage wraps dresses in up to 2,000 e-ink panels for color-changi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chrome-capture-2026-09-30-1.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Chanel unveils two new trophies for The Chanel J12 Boat Race",
+      "url": "https://www.wallpaper.com/art/chanel-unveils-new-trophies-for-the-chanel-j12-boat-race",
+      "excerpt": "Chanel is marking its third year as title sponsor and official timekeeping partner of the annual Oxford vs Cambridge boat race with a first for the maison – two new trophies",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5LrNccdBicYW3hSp7PibKN.gif",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Camelot seating system by Antonio Citterio for Flexform",
+      "url": "https://www.dezeen.com/2026/09/30/camelot-seating-system-antonio-citterio-flexform-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: elegance meets modularity in the Camelot seating system, created by architect Antonio Citterio and Italian brand Flexform. A dignified frame and plump goose down-filled cushioning mee",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Jonny Johansson on 30 years of Acne Studios: ‘I look forward much more than I look back’",
+      "url": "https://www.wallpaper.com/fashion-beauty/jonny-johansson-acne-studios-30-years-interview-nan-goldin",
+      "excerpt": "Ahead of the cult Swedish brand’s runway show in Paris this evening (30 September 2026), co-founder and creative director Jonny Johansson sits down with Wallpaper* to talk denim, community, and why he",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5Zm5d3yKUUtGa3u23D2YFC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "david altrath reveals the timber world inside germany’s motorway chapel",
+      "url": "https://www.designboom.com/architecture/david-altrath-timber-world-germany-motorway-chapel-autobahnkirche-siegerland-schneider-schumacher/",
+      "excerpt": "the photographer documents schneider+schumacher’s landmark beside the A45, focusing on its unusual form and relationship with the surrounding landscape.\nThe post david altrath reveals the timber world",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/david-altrath-timber-world-germany-motorway-chapel-autobahnkirche-siegerland-schneider-schumacher-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Rare Collectiv surrounds Norwegian sauna with timber ribs that \"evoke the hull of a ship\"",
+      "url": "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/",
+      "excerpt": "A skeletal frame of reclaimed timber surrounds the elongated form of Skroget, a community sauna and public deck in Norway designed by student architecture studio Rare Collectiv. Overlooking the busy h",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Dezeen's top five houses of September 2026",
+      "url": "https://www.dezeen.com/2026/09/30/top-houses-september-2026/",
+      "excerpt": "A monolithic grey-brick home in Northern Ireland and a skinny house in Kyoto are among the most popular houses featured on Dezeen this month. Also included in our monthly roundup of our readers' favou",
       "today": true
     },
     {
@@ -269,109 +380,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.30",
-      "title": "RIBA paid £150,000 to former president Alan Jones to settle legal dispute",
-      "url": "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/",
-      "excerpt": "The Royal Institute of British Architects has paid £150,000 to its former president Alan Jones, settling a long-running legal dispute over its handling of his personal information. The £150,000 paymen",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "LACMA’s new book and exhibition tackle our ongoing fascination with domestic futurism",
-      "url": "https://www.wallpaper.com/art/lacma-home-of-the-future-1925-1985-book-review",
-      "excerpt": "The book of the show, ‘Home of the Future 1925-1985: Designing Domestic Utopias’, is a survey of midcentury marvels focused on shaping the ultimate in technology-driven living. Four decades later, how",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/XiV4XkehFnQP7PcfYpJcre-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Peek inside this New Brunswick home, where cottage and cabin collide",
-      "url": "https://www.wallpaper.com/architecture/residential/hilltop-cottage-new-brunswick-canada",
-      "excerpt": "Hilltop Cottage feels entirely new in its typology, evoking both a Celtic stone building and a cosy Canadian cabin",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/JN4EPC6KGVEDrtbX3DZ46a-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Recyclable Wildflower installation among timber prototypes at BuildFest 2026",
-      "url": "https://www.dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026/",
-      "excerpt": "A recyclable timber pavilion designed to mimic wildflowers is among the prototypes built by students at BuildFest 2026, shown in this video produced by Dezeen. Designed by students from Lehigh Univers",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "LACMA exhibition revisits the strange, utopian homes once built for the future",
-      "url": "https://www.designboom.com/architecture/lacma-exhibition-strange-optimistic-homes-future-domestic-utopian/",
-      "excerpt": "from push-button kitchens to early smart homes, LACMA traces six decades of domestic futures and the ideas behind them. \nThe post LACMA exhibition revisits the strange, utopian homes once built for th",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/LACMA-home-future-exhibition-designboom-FB.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Snøhetta designs Hong Kong clubhouse with undulating playground and rope-climbing tower",
-      "url": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/",
-      "excerpt": "Architecture studio Snøhetta added tunnelling playgrounds to Sky House, the final of four clubhouses that make up its Pavilia Farm residential development in Tai Wai, Hong Kong. Called Sky House, the ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Norman Foster to give keynote speech at Dezeen Awards 2026 party",
-      "url": "https://www.dezeen.com/2026/09/30/norman-foster-dezeen-awards-2026-party-keynote/",
-      "excerpt": "British architect Norman Foster is set to deliver a keynote speech at this year's Dezeen Awards party, which will take place at the Royal Opera House in London on 16 November. In his address, Foster w",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Beauty starts from water: Hello Klean introduces a water-tap filter",
-      "url": "https://www.wallpaper.com/design-interiors/hello-klean-skin-filter-launch",
-      "excerpt": "Hello Klean’s Skin Filter is designed to make your bathroom tap water kinder to your skin – and offers multi-stage filtration, microbubble cleansing technology and intelligent water tracking",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kEPPXGVCCA6KzjDTX2zy73-1920-80.png",
+      "title": "Necessity as Invention: Ireland's Laboratory of Renovation",
+      "url": "https://www.archdaily.com/1185958/necessity-as-invention-irelands-laboratory-of-renovation",
+      "excerpt": "The landscape and scattered settlements of Ireland carry a reputation for wildness. Rugged cliffs meet the Atlantic, green fields roll across the interior, and rain and wind change the scene by the ho",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/84e5/21f2/b512/ac86/a755/large_jpg/building-and-rebuilding-irelands-laboratory-of-renovation_5.jpg?1790674154",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.30",
-      "title": "PATH House / Hendre Bloem Interior Design",
-      "url": "https://www.archdaily.com/1186022/path-hendre-bloem-interior-design",
-      "excerpt": "Located on the outskirts of Prince Albert in South Africa's Karoo, PATH is a one-bedroom retreat that explores the relationship between architecture, landscape, materiality, and scale. Arranged over t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/0862/a979/aa00/0118/7dcf/large_jpg/HENDREBLOEM_PATHPRINCEALBERT__ParisB_19_HR_2880px.jpg?1790707901",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "settle movable furniture installation forms temporary public interior in ireland",
-      "url": "https://www.designboom.com/architecture/settle-movable-furniture-installation-temporary-public-interior-ireland-trestle/",
-      "excerpt": "the installation draws on the adaptability of irish vernacular furniture.\nThe post settle movable furniture installation forms temporary public interior in ireland appeared first on designboom | archi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/settle-temporary-installation-trestle-public-interior-gathering-designboom-1200-1-1.jpg",
+      "title": "Mother of Pearl Experience Museum Adorf-Vogtland / Schulz und Schulz",
+      "url": "https://www.archdaily.com/1185837/mother-of-pearl-experience-museum-adorf-vogtland-schulz-und-schulz",
+      "excerpt": "Adorf faces the typical challenges of rural regions: an ageing and declining population, a loss of attractiveness as a place to live and work, and the resulting difficult economic situation. The town ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/aa25/5cd0/3901/88de/4b41/large_jpg/mother-of-pearl-experience-museum-adorf-vogtland-schulz-und-schulz_5.jpg?1790356122",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.30",
-      "title": "Liù Lín Residence  / Choo Gim Wah Architect",
-      "url": "https://www.archdaily.com/1185981/liu-lin-residence-choo-gim-wah-architect",
-      "excerpt": "The Liù Lín Residence takes its name primarily from the six parcels of densely forested land that envelop the residence, as Liù Lín (六林) in Mandarin signifies \"six forests.\" Located in the lush foothi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/cdc3/3ec8/9101/894a/d04d/large_jpg/liu-lin-liu-lin-residence-choo-gim-wah-architect_34.jpg?1790692887",
+      "title": "The Ergonomic Office Chair in the Age of AI",
+      "url": "https://www.archdaily.com/1185014/the-ergonomic-office-chair-in-the-age-of-ai",
+      "excerpt": "The office chair has evolved alongside changing workplaces over time. In each office era, the chair has reflected the way people work. Early office seating was built for clerical work: fixed wooden ch",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/8d09/c1eb/5301/897f/19f5/large_jpg/responsive-seating-how-ai-is-reshaping-the-ergonomic-office-chair_15.jpg?1789365745",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Latin America in Focus: This Month in Architecture, Inhabitation, Memory, and Cultural Exchange",
+      "url": "https://www.archdaily.com/1185977/latin-america-in-focus-this-month-in-architecture-inhabitation-memory-and-cultural-exchange",
+      "excerpt": "Architecture across Latin America this month reflects an ongoing conversation around inhabitation, cultural heritage, and the ways architecture can connect contemporary life with existing places and k",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/bce5/3ec8/9101/894a/cf85/large_jpg/latin-america-in-focus-this-month-in-architecture-inhabitation-memory-and-cultural-exchange_9.jpg?1790688495",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "JUUL. Transformation of the Julianakerk / HA-HA Design & Development",
+      "url": "https://www.archdaily.com/1184622/juul-transformation-of-the-julianakerk-ha-ha-design-and-development",
+      "excerpt": "Nine years after the devastating fire at the Julianakerk, the JUUL residential project has been completed in Rotterdam. HA-HA Design & Development transformed the remains of the church into four homes",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6cd0/15d8/6f00/01a2/f43e/large_jpg/Low_res___Aiste_Rakauskaite-3.jpg?1788701922",
       "today": true
     },
     {
@@ -383,65 +438,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "PANE MixC Shenyang Flagship Store / say architects",
-      "url": "https://www.archdaily.com/1185881/pane-mixc-shenyang-flagship-store-say-architects",
-      "excerpt": "PANE folds the rationality of ancient Greece and the spirit of the East into a pair of everyday shoes, shaping enduring pieces that bridge the classical and the contemporary. So when it arrives farthe",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/2304/5c4d/8600/0165/6b9a/large_jpg/2_Wen_Studio.jpg?1790583601",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Table lamp made from volcanic stone among projects from Tecnológico de Monterrey",
-      "url": "https://www.dezeen.com/2026/09/29/table-lamp-volcanic-stone-tecnologico-de-monterrey-schoolshows/",
-      "excerpt": "Dezeen School Shows: a lamp crafted from volcanic stone and informed by a sunrise is among the projects from Instituto Tecnológico y de Estudios Superiores de Monterrey. Also featured is a stone plate",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Rio house / bracamonteyerba",
-      "url": "https://www.archdaily.com/1185930/rio-house",
-      "excerpt": "The project is sited on an irregularly shaped plot, where a pre-existing swimming pool became the only remaining trace preserved after the demolition of a former dwelling.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/9890/0762/9c00/01cf/e749/large_jpg/schapochnik_544_campochico_195_MEDIA.jpg?1790613768",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "Jonathan Anderson looks to the ‘preciousness’ of nature for a romantic Dior show",
-      "url": "https://www.wallpaper.com/fashion-beauty/dior-ss-2027-runway-show-jonathan-anderson-paris-fashion-week-review",
-      "excerpt": "Held in Paris today (29 September 2026), the Northern Irish designer’s latest womenswear show for Dior found beauty in nature, using ‘wénwán’ walnuts as a metaphor",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zorrLQVVNhKpcM6pty4TwT-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "The 'Verity' house has a midcentury modern pedigree that's to die for",
-      "url": "https://www.wallpaper.com/architecture/residential/verity-house-filming-location",
-      "excerpt": "What could be more tantalising than an erotic thriller starring Josh Hartnett, Dakota Johnson and Anne Hathaway? An architectural rarity, of course!",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSeC4d8AKSSGJWnkJAdbJV-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.29",
-      "title": "House JF / AAA_Azevedo Agência de Arquitetura",
-      "url": "https://www.archdaily.com/1185914/house-jf-aaa-azevedo-agencia-de-arquitetura",
-      "excerpt": "The JF house is organized around a central courtyard, which contains the elements for lingering and leisure (such as a swimming pool and flat lawn) and is surrounded by three volumes that open onto it",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/712d/5c4d/8600/0165/6d1e/large_jpg/21.jpg?1790603598",
-      "today": false
     },
     {
       "source": "DNライティング",
