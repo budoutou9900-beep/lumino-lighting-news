@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.30  16:37",
+  "fetchedAt": "2026.09.30  21:11",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "prtimes.jp": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,27 +25,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ozmall.co.jp": {
+    "anna（アンナ）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ヨコハマ経済新聞": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "デジカメ Watch": {
+    "ウォーカープラス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "KNB WEB": {
+    "デジカメ Watch": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "夜景FAN": {
+    "KNB WEB": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,11 +53,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,37 +65,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "パナソニック": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -118,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "賞・コンペ",
       "date": "2026.09.30",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -127,7 +131,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.09.30",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -163,7 +167,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ozmall.co.jp",
+      "source": "anna（アンナ）",
+      "cat": "展示・アート",
+      "date": "2026.09.30",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.09.30",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
@@ -208,15 +221,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
-      "date": "2026.09.30",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.09.30",
@@ -226,12 +230,61 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "夜景FAN",
       "cat": "展示・アート",
       "date": "2026.09.30",
-      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81T2ZoajNYbnhYdjYxeWRWcVMxNHROOFdYTHNmTjBDUUpfVXVDdXRoOHF0S3FwUmg2aWpieFBtMk1RbkU4R0xIaXJKSi1IVTJ3OUJj?oc=5",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "John Galliano unveils the first chapter of his collaboration with Zara",
+      "url": "https://www.wallpaper.com/fashion-beauty/john-galliano-zara-collaboration-first-collection",
+      "excerpt": "Revealed this evening, ‘Re{form}’ marks the celebrated British designer’s return to fashion after leaving Maison Margiela in 2024, part of an ongoing two-year partnership with the Spanish brand",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Cq2H2yiSQvfnpzaKTY6jcb-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "where le corbusier’s plan voisin sought to organize paris, chtcheglov chose to drift",
+      "url": "https://www.designboom.com/architecture/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism/",
+      "excerpt": "a clash between urban order and the unpredictable experience of wandering, where efficiency gives way to mood, chance and discovery.\nThe post where le corbusier’s plan voisin sought to organize paris,",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "'How a practice evolves over 30 years': Es Devlin at the Design Museum is both intimate and sweeping",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london",
+      "excerpt": "Es Devlin: Other Worlds is on view at the Design Museum (2 October 2026 - 4 April 2027), featuring a reproduction of the multidisciplinary designer's own studio, excerpts from her sketchbooks, an over",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ivM8GGrrNzyGJzZP3qcywk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "crystal animal sculptures freeze the open-mouthed gesture of a roar",
+      "url": "https://www.designboom.com/art/crystal-animal-sculptures-open-mouthed-gesture-roar-ferdi-b-dick/",
+      "excerpt": "ferdi b dick’s animal sculptures feature an open mouth and extended tongue in different crystal colors.\nThe post crystal animal sculptures freeze the open-mouthed gesture of a roar appeared first on d",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ferdi-b-dick-animal-sculptures-crystal-colors-roar-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Prim Estudio orients low-slung house for viewing Argentinian countryside",
+      "url": "https://www.dezeen.com/2026/09/30/los-tigres-house-prim-estudio-argentina/",
+      "excerpt": "Local studio Prim Estudio has designed a white house with a balcony inset into an asymmetrical zinc roof and arched windows for contemplating the landscape outside Buenos Aires, Argentina. Known as Lo",
       "today": true
     },
     {
@@ -293,16 +346,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Chanel unveils two new trophies for The Chanel J12 Boat Race",
-      "url": "https://www.wallpaper.com/art/chanel-unveils-new-trophies-for-the-chanel-j12-boat-race",
-      "excerpt": "Chanel is marking its third year as title sponsor and official timekeeping partner of the annual Oxford vs Cambridge boat race with a first for the maison – two new trophies",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5LrNccdBicYW3hSp7PibKN.gif",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.30",
@@ -312,13 +355,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.30",
-      "title": "Jonny Johansson on 30 years of Acne Studios: ‘I look forward much more than I look back’",
-      "url": "https://www.wallpaper.com/fashion-beauty/jonny-johansson-acne-studios-30-years-interview-nan-goldin",
-      "excerpt": "Ahead of the cult Swedish brand’s runway show in Paris this evening (30 September 2026), co-founder and creative director Jonny Johansson sits down with Wallpaper* to talk denim, community, and why he",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5Zm5d3yKUUtGa3u23D2YFC-2560-80.jpg",
+      "title": "Matriz House / Estúdio Zargos",
+      "url": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos",
+      "excerpt": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and op",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/7066/5c4d/8600/0165/6cd4/large_jpg/Est_dio_Zargos_-_Casa_Matriz_-_Manuel_S___34_.jpg?1790603463",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "SHED/HOUSE / Side Angle Side",
+      "url": "https://www.archdaily.com/1029675/shed-house-side-angle-side",
+      "excerpt": "Shed/House sits on a central Texas hill oriented to cast a sweeping southern view of Texas Hill Country. As you meander up the private road leading to the house, you are confronted with a blank facade",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6814/0912/4ea2/d901/8b37/1774/large_jpg/shed-house-side-angle-side_24.jpg?1746143526",
       "today": true
     },
     {
@@ -341,15 +394,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Dezeen's top five houses of September 2026",
-      "url": "https://www.dezeen.com/2026/09/30/top-houses-september-2026/",
-      "excerpt": "A monolithic grey-brick home in Northern Ireland and a skinny house in Kyoto are among the most popular houses featured on Dezeen this month. Also included in our monthly roundup of our readers' favou",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.09.30",
@@ -360,23 +404,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.30",
-      "title": "BUREAU uses color and translucency to reshape 44 sqm lilac apartment in lisbon",
-      "url": "https://www.designboom.com/architecture/bureau-color-translucency-44-sqm-lilac-apartment-lisbon/",
-      "excerpt": "the apartment is arranged around movement, light, and everyday rituals.\nThe post BUREAU uses color and translucency to reshape 44 sqm lilac apartment in lisbon appeared first on designboom | architect",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/lilac-apartment-lisbon-bureau-designboom-1200.jpg",
+      "title": "House at the Top of the Hill / Skupaj Arhitekti",
+      "url": "https://www.archdaily.com/1185892/house-at-the-top-of-the-hill-skupaj-arhitekti",
+      "excerpt": "Project and context - House at the Top of the Hill is situated in the Radgona-Kapela Hills of northeastern Slovenia. Conceived as a retreat from the capital for occasional stays, it brings quiet, dayl",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/4148/5c4d/8600/0165/6c2c/large_jpg/House-at-the-Top-of-the-Hill_photo_Ana-Skobe-_3_.jpg?1790591320",
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.09.30",
-      "title": "three monumental chandeliers recreate yves saint laurent’s historic paris ballroom at trocadéro",
-      "url": "https://www.designboom.com/design/monumental-chandeliers-yves-saint-laurent-trocadero-paris-anthony-vaccarello/",
-      "excerpt": "bureau betak transforms the trocadéro into a gold-soaked runway for saint laurent spring summer 2027, bringing anthony vaccarello’s chandelier-lit couture memory out of the historic hotel ballroom.\nTh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/monumental-chandeliers-yves-saint-laurent-trocadero-paris-anthony-vaccarello-copy-2343.jpg",
+      "title": "CFP: Dublin, Ireland – Livable Towns, Cities, Regions 2027",
+      "url": "https://www.archdaily.com/1186049/cfp-dublin-ireland-livable-towns-cities-regions-2027",
+      "excerpt": "Organised by University College Dublin and AMPS this conference explores how towns, cities and regions can respond to climate change, social challenges and urban transformation. Bringing together arch",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/ba0d/a979/aa00/0118/7eda/large_jpg/Dublin_Featured_image_with_text1.jpg?1790753299",
       "today": true
     },
     {
@@ -387,46 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185958/necessity-as-invention-irelands-laboratory-of-renovation",
       "excerpt": "The landscape and scattered settlements of Ireland carry a reputation for wildness. Rugged cliffs meet the Atlantic, green fields roll across the interior, and rain and wind change the scene by the ho",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/84e5/21f2/b512/ac86/a755/large_jpg/building-and-rebuilding-irelands-laboratory-of-renovation_5.jpg?1790674154",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Mother of Pearl Experience Museum Adorf-Vogtland / Schulz und Schulz",
-      "url": "https://www.archdaily.com/1185837/mother-of-pearl-experience-museum-adorf-vogtland-schulz-und-schulz",
-      "excerpt": "Adorf faces the typical challenges of rural regions: an ageing and declining population, a loss of attractiveness as a place to live and work, and the resulting difficult economic situation. The town ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/aa25/5cd0/3901/88de/4b41/large_jpg/mother-of-pearl-experience-museum-adorf-vogtland-schulz-und-schulz_5.jpg?1790356122",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "The Ergonomic Office Chair in the Age of AI",
-      "url": "https://www.archdaily.com/1185014/the-ergonomic-office-chair-in-the-age-of-ai",
-      "excerpt": "The office chair has evolved alongside changing workplaces over time. In each office era, the chair has reflected the way people work. Early office seating was built for clerical work: fixed wooden ch",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa7/8d09/c1eb/5301/897f/19f5/large_jpg/responsive-seating-how-ai-is-reshaping-the-ergonomic-office-chair_15.jpg?1789365745",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Latin America in Focus: This Month in Architecture, Inhabitation, Memory, and Cultural Exchange",
-      "url": "https://www.archdaily.com/1185977/latin-america-in-focus-this-month-in-architecture-inhabitation-memory-and-cultural-exchange",
-      "excerpt": "Architecture across Latin America this month reflects an ongoing conversation around inhabitation, cultural heritage, and the ways architecture can connect contemporary life with existing places and k",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/bce5/3ec8/9101/894a/cf85/large_jpg/latin-america-in-focus-this-month-in-architecture-inhabitation-memory-and-cultural-exchange_9.jpg?1790688495",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "JUUL. Transformation of the Julianakerk / HA-HA Design & Development",
-      "url": "https://www.archdaily.com/1184622/juul-transformation-of-the-julianakerk-ha-ha-design-and-development",
-      "excerpt": "Nine years after the devastating fire at the Julianakerk, the JUUL residential project has been completed in Rotterdam. HA-HA Design & Development transformed the remains of the church into four homes",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a9d/6cd0/15d8/6f00/01a2/f43e/large_jpg/Low_res___Aiste_Rakauskaite-3.jpg?1788701922",
       "today": true
     },
     {
