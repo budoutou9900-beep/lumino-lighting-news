@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.09.30  21:11",
+  "fetchedAt": "2026.10.01  01:01",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -115,7 +115,7 @@ window.LUMINO_DATA = {
     {
       "source": "ぴあエンタメ情報",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
       "excerpt": "",
@@ -124,7 +124,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -142,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -151,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -160,7 +160,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -169,7 +169,7 @@ window.LUMINO_DATA = {
     {
       "source": "anna（アンナ）",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
@@ -178,7 +178,7 @@ window.LUMINO_DATA = {
     {
       "source": "オズモール",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
       "excerpt": "",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
@@ -196,7 +196,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
@@ -205,7 +205,7 @@ window.LUMINO_DATA = {
     {
       "source": "デジカメ Watch",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
@@ -214,7 +214,7 @@ window.LUMINO_DATA = {
     {
       "source": "KNB WEB",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
@@ -223,7 +223,7 @@ window.LUMINO_DATA = {
     {
       "source": "ファッションプレス",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
       "excerpt": "",
@@ -232,7 +232,7 @@ window.LUMINO_DATA = {
     {
       "source": "夜景FAN",
       "cat": "展示・アート",
-      "date": "2026.09.30",
+      "date": "2026.10.01",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
@@ -246,7 +246,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/john-galliano-zara-collaboration-first-collection",
       "excerpt": "Revealed this evening, ‘Re{form}’ marks the celebrated British designer’s return to fashion after leaving Maison Margiela in 2024, part of an ongoing two-year partnership with the Spanish brand",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Cq2H2yiSQvfnpzaKTY6jcb-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -256,7 +256,26 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism/",
       "excerpt": "a clash between urban order and the unpredictable experience of wandering, where efficiency gives way to mood, chance and discovery.\nThe post where le corbusier’s plan voisin sought to organize paris,",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism-designboom-1200.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Sculptural installation among projects from Royal Academy of Art, The Hague",
+      "url": "https://www.dezeen.com/2026/09/30/sculptural-bodily-installation-projects-royal-academy-of-art-the-hague-schoolshows/",
+      "excerpt": "Dezeen School Shows: a flesh-like installation where \"body, material, object and environment\" work in mutual dependency is among the innovative projects by students at the Royal Academy of Art, The Ha",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "The Fig Tree house / Comas-Pont arquitectes",
+      "url": "https://www.archdaily.com/1186071/the-fig-tree-house-comas-pont-arquitectes",
+      "excerpt": "A century-old fig tree, the level difference between the street and garden, and the modest character of neighboring buildings guide the project's design.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/18e4/c30d/0000/01d4/8e64/large_jpg/AGP1968_6424-MID.jpg?1790777610",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -266,7 +285,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london",
       "excerpt": "Es Devlin: Other Worlds is on view at the Design Museum (2 October 2026 - 4 April 2027), featuring a reproduction of the multidisciplinary designer's own studio, excerpts from her sketchbooks, an over",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ivM8GGrrNzyGJzZP3qcywk-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -276,7 +295,17 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/crystal-animal-sculptures-open-mouthed-gesture-roar-ferdi-b-dick/",
       "excerpt": "ferdi b dick’s animal sculptures feature an open mouth and extended tongue in different crystal colors.\nThe post crystal animal sculptures freeze the open-mouthed gesture of a roar appeared first on d",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ferdi-b-dick-animal-sculptures-crystal-colors-roar-designboom-1200-1.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "JQY House / André Becker",
+      "url": "https://www.archdaily.com/1186107/jqy-house-andre-becker",
+      "excerpt": "The lot faces the beach, which is naturally the focal point of the layout and ambiance. The living room, dining room, veranda, pool, and two upper-floor suites all overlook the sea, positioned on a fo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/6524/122d/aa00/0196/fd2d/large_jpg/37-23629-abpa-juquei-0128-web.jpg?1790797256",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -285,7 +314,7 @@ window.LUMINO_DATA = {
       "title": "Prim Estudio orients low-slung house for viewing Argentinian countryside",
       "url": "https://www.dezeen.com/2026/09/30/los-tigres-house-prim-estudio-argentina/",
       "excerpt": "Local studio Prim Estudio has designed a white house with a balcony inset into an asymmetrical zinc roof and arched windows for contemplating the landscape outside Buenos Aires, Argentina. Known as Lo",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -295,7 +324,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/public-buildings/world-monuments-fund-study-2026",
       "excerpt": "A new report, released today by the World Monuments Fund, lists the number one reason why cultural sites are at risk",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WoDB7mBUrb4Ne7W6BMf2Ah-1920-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -305,7 +334,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/like-stepping-into-the-mind-of-a-genius-jean-schlumberger-sketches-and-artefacts-are-being-preserved-by-tiffany-and-co-and-the-musee-des-arts-decoratifs",
       "excerpt": "A heritage maison and a cultural institution work together to make Schlumberger's archival designs available for future creators",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hCJbBQNNbxHCtUx3kmC59N-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -315,7 +344,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/ottolenghi-edinburgh-review",
       "excerpt": "Ottolenghi’s Mediterranean warmth meets Scotland’s hearty larder in the chef’s bright new Edinburgh restaurant",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u6UPdU4SrZEezwccf2onyb-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -324,7 +353,17 @@ window.LUMINO_DATA = {
       "title": "Urban settlement for extreme ecosystem among projects from Tulane University",
       "url": "https://www.dezeen.com/2026/09/30/tulane-group-project-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal for sustainable urban settlements in the Atacama Desert is among projects from students at Tulane University. Also featured is a project focusing on the preservation of",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "Yuu' Kee' House / em-estudio",
+      "url": "https://www.archdaily.com/1186092/yuu-kee-house-em-estudio",
+      "excerpt": "Casa Yuu' Kee' (meaning stone creek in the Zapotec language) takes its name from the creek that flows down the site, separating the social area from the private area of the house, which are joined by ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/1fc3/c30d/0000/01d4/8ecf/large_jpg/04_CASA_YUU_KEE-_Ivan_Esqueda.jpg?1790779375",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -333,7 +372,7 @@ window.LUMINO_DATA = {
       "title": "Synthetic memories feature in MoMA information design exhibition",
       "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/",
       "excerpt": "New York's Museum of Modern Art has exhibited Full Disclosure: The Edge of Information Design, curated by Paola Antonelli, which features information design from classic infographics to a project with",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -343,7 +382,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/anrealage-dresses-eink-panels-color-changing-skin-kunihiko-morinaga/",
       "excerpt": "kunihiko morinaga's ss27 collection combines e ink, 3d printed scales and kyocera forearth printing at paris fashion week.\nThe post anrealage wraps dresses in up to 2,000 e-ink panels for color-changi",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chrome-capture-2026-09-30-1.gif",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -352,7 +391,7 @@ window.LUMINO_DATA = {
       "title": "Camelot seating system by Antonio Citterio for Flexform",
       "url": "https://www.dezeen.com/2026/09/30/camelot-seating-system-antonio-citterio-flexform-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: elegance meets modularity in the Camelot seating system, created by architect Antonio Citterio and Italian brand Flexform. A dignified frame and plump goose down-filled cushioning mee",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -362,7 +401,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos",
       "excerpt": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and op",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/7066/5c4d/8600/0165/6cd4/large_jpg/Est_dio_Zargos_-_Casa_Matriz_-_Manuel_S___34_.jpg?1790603463",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -372,7 +411,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1029675/shed-house-side-angle-side",
       "excerpt": "Shed/House sits on a central Texas hill oriented to cast a sweeping southern view of Texas Hill Country. As you meander up the private road leading to the house, you are confronted with a blank facade",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6814/0912/4ea2/d901/8b37/1774/large_jpg/shed-house-side-angle-side_24.jpg?1746143526",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -382,16 +421,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/david-altrath-timber-world-germany-motorway-chapel-autobahnkirche-siegerland-schneider-schumacher/",
       "excerpt": "the photographer documents schneider+schumacher’s landmark beside the A45, focusing on its unusual form and relationship with the surrounding landscape.\nThe post david altrath reveals the timber world",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/david-altrath-timber-world-germany-motorway-chapel-autobahnkirche-siegerland-schneider-schumacher-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Rare Collectiv surrounds Norwegian sauna with timber ribs that \"evoke the hull of a ship\"",
-      "url": "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/",
-      "excerpt": "A skeletal frame of reclaimed timber surrounds the elongated form of Skroget, a community sauna and public deck in Norway designed by student architecture studio Rare Collectiv. Overlooking the busy h",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -401,37 +431,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/royal-enfield-revolutionizes-the-electric-motorcycle-experience-with-flying-flea-c6/",
       "excerpt": "designboom explores how royal enfield's flying flea c6 merges historic metalwork with connected software for a new generation of city commuters.\nThe post royal enfield revolutionizes the electric moto",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/royal-enfield-flying-flea-c6-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "House at the Top of the Hill / Skupaj Arhitekti",
-      "url": "https://www.archdaily.com/1185892/house-at-the-top-of-the-hill-skupaj-arhitekti",
-      "excerpt": "Project and context - House at the Top of the Hill is situated in the Radgona-Kapela Hills of northeastern Slovenia. Conceived as a retreat from the capital for occasional stays, it brings quiet, dayl",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/4148/5c4d/8600/0165/6c2c/large_jpg/House-at-the-Top-of-the-Hill_photo_Ana-Skobe-_3_.jpg?1790591320",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "CFP: Dublin, Ireland – Livable Towns, Cities, Regions 2027",
-      "url": "https://www.archdaily.com/1186049/cfp-dublin-ireland-livable-towns-cities-regions-2027",
-      "excerpt": "Organised by University College Dublin and AMPS this conference explores how towns, cities and regions can respond to climate change, social challenges and urban transformation. Bringing together arch",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/ba0d/a979/aa00/0118/7eda/large_jpg/Dublin_Featured_image_with_text1.jpg?1790753299",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Necessity as Invention: Ireland's Laboratory of Renovation",
-      "url": "https://www.archdaily.com/1185958/necessity-as-invention-irelands-laboratory-of-renovation",
-      "excerpt": "The landscape and scattered settlements of Ireland carry a reputation for wildness. Rugged cliffs meet the Atlantic, green fields roll across the interior, and rain and wind change the scene by the ho",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/84e5/21f2/b512/ac86/a755/large_jpg/building-and-rebuilding-irelands-laboratory-of-renovation_5.jpg?1790674154",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -441,7 +441,7 @@ window.LUMINO_DATA = {
       "url": "https://www.dnlighting.co.jp/media/news/20260930",
       "excerpt": "",
       "thumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
