@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.01  08:10",
+  "fetchedAt": "2026.10.01  15:55",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,35 +21,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "adfwebmagazine.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "anna（アンナ）": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "オズモール": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ヨコハマ経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "デジカメ Watch": {
+    "knb.ne.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ファッションプレス": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "KNB WEB": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "cat": "デザイン",
       "date": "2026.10.01",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -154,20 +154,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
+      "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
       "date": "2026.10.01",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.10.01",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -199,15 +190,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デジカメ Watch",
-      "cat": "展示・アート",
-      "date": "2026.10.01",
-      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.10.01",
@@ -217,11 +199,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "KNB WEB",
+      "source": "knb.ne.jp",
       "cat": "展示・アート",
       "date": "2026.10.01",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デジカメ Watch",
+      "cat": "展示・アート",
+      "date": "2026.10.01",
+      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -235,13 +226,197 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.10.01",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.01",
-      "title": "designboom radar: exhibitions to see around the world this october",
-      "url": "https://www.designboom.com/art/exhibition-radar-october-2026/",
-      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this october appeared f",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/october-2026-exhibition-radar-designboom-FB.jpg",
+      "title": "dune-inspired promenade brings sand and vegetation into comillas’ waterfront",
+      "url": "https://www.designboom.com/architecture/dune-inspired-promenade-sand-vegetation-comillas-waterfront-hector-navarro-arkhitekton/",
+      "excerpt": "hector navarro + arkhitekton rework the seafront of comillas, spain, using sand, vegetation, permeable surfaces, and limestone.\nThe post dune-inspired promenade brings sand and vegetation into comilla",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/hector-navarro-arkhitekton-seafront-comillas-spain-sand-vegetation-limestone-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "vollebak turns thousands of tiny slate tiles into a flexible rock jacket",
+      "url": "https://www.designboom.com/technology/vollebak-slate-tiles-flexible-rock-jacket-material-experiment/",
+      "excerpt": "the rock jacket uses thousands of 5mm slate tiles, neoprene and cordura to turn geological time into flexible outerwear: somewhere between material experiment and a harrington built from the earth’s c",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/vollebak-slate-tiles-flexible-rock-jacket-material-experiment-designboom-23.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "At Skywalker Grill, the Lucas Museum’s futuristic restaurant, the force – and the drinks –are strong",
+      "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
+      "excerpt": "With a sweeping interior designed by Rockwell Group, a menu featuring childhood favourites and nods to George Lucas' private ranch, the rooftop eatery melds fantasy and fun",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AkAjAfqtY9zRNCYioRkJoS-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Seven over-ear headphones to kick off your autumnal listening sessions",
+      "url": "https://www.wallpaper.com/tech/new-over-ear-headphones-autumn-2026",
+      "excerpt": "New headphones from Nothing, Sony, Bose, Technics and more showcase the latest in design innovation and technological upgrades",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6PrYsSDnyajRBnmicrXKa4-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "San Francisco exhibition explores the \"radical imagination\" of Rael San Fratello",
+      "url": "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
+      "excerpt": "A structure made of bio-based thermoplastic and recycled broom heads is among the works featured in a mid-career retrospective of design studio Rael San Fratello at San Francisco's Yerba Buena Center ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Our Planet carpet collection by Gensler and Ege Carpets",
+      "url": "https://www.dezeen.com/2026/10/01/our-planet-gensler-ege-carpets-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: architecture studio Gensler worked with Danish manufacturer Ege Carpets to produce Our Planet, a collection of landscape-inspired carpets and rugs. The global architecture and design ",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Aston Martin bolsters its luxury credentials by debuting the DBX GT at its new Mayfair venue",
+      "url": "https://www.wallpaper.com/transportation/aston-martin-dbx-gt-revealed-at-q-london",
+      "excerpt": "The Aston Martin DBX GT made its debut at Q London in Berkeley Square, a new destination for the brand in the heart of the capital",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nrqmBSFFwwcioLUrt7R8PC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "White-brick extension defines Design Museum Gent revamp",
+      "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
+      "excerpt": "Architecture studios Carmody Groarke, Atama and Re-st have completed the revamp of Design Museum Gent in Belgium, adding a geometric volume wrapped in waste-based white bricks. Set to reopen to the pu",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "CF Møller transforms psychiatric hospital in Denmark into museum",
+      "url": "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
+      "excerpt": "Danish studio CF Møller has completed the Mind Museum on the island of Funen in Denmark, guided by the \"clear spatial structure\" of the former psychiatric hospital it occupies. Located in the town of ",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Dezeen's favourite furniture and lighting from September",
+      "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
+      "excerpt": "Dezeen's editorial team has been trawling design weeks across Europe this month to seek out some of the best new furniture and lighting. Below, we've compiled ten favourites from London Design Festiva",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "future-proof design relies on a chain of sustainable decisions",
+      "url": "https://www.designboom.com/design/if-design-award-sustainable-decisions/",
+      "excerpt": "the iF design award 2026 highlights how intentional design decisions drive circular systems, material innovation, and resilient communities.\nThe post future-proof design relies on a chain of sustainab",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/oceanix_if-design-award-winner_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Kromme Rijn College / EVA architecten",
+      "url": "https://www.archdaily.com/1185924/kromme-rijn-college-eva-architecten",
+      "excerpt": "The existing building at Rubenslaan 91 was constructed between 1956 and 1958 as a ULO secondary school. It was designed by Piet Dingemans (1910–1970), a well-known architect from Utrecht. The building",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/7d13/5c4d/8600/0165/6e47/large_jpg/svd_EVA_KRC_05.jpg?1790606670",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "wood-framed family home in osaka revolves around flexible open sports space",
+      "url": "https://www.designboom.com/architecture/wood-framed-family-home-osaka-flexible-open-sports-space-taichi-shioya/",
+      "excerpt": "the free space accommodates sports, play, and everyday activities, and can be quickly reconfigured.\nThe post wood-framed family home in osaka revolves around flexible open sports space appeared first ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/osaka-house-shioya-flexible-open-sports-space-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "The seventh edition of the Patek Philippe Watch Art Grand Exhibition has just opened in Milan",
+      "url": "https://www.wallpaper.com/watches-jewellery/the-seventh-edition-of-the-patek-philippe-watch-art-grand-exhibition-has-just-opened-in-milan",
+      "excerpt": "In Italy, Patek Philippe gives a stage to the arts of watchmaking",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k2BbAFZrjCtL2XXTqDyQmb-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "design museum gent reopens with new wing built from locally made waste bricks",
+      "url": "https://www.designboom.com/architecture/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium/",
+      "excerpt": "carmody groarke and ATAMA lead the new extension, while RE-ST restores the historic buildings as part of a wider transformation that rethinks the museum’s collection, exhibitions and public spaces.\nTh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium-designboom-1800.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "A New Lens on Modern Heritage: ArchDaily Partners with World Monuments Fund",
+      "url": "https://www.archdaily.com/1185940/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund",
+      "excerpt": "What makes a building worth preserving? Age is the most common answer, but not always the best one. A building from the 1950s or 70s may carry as much historical significance as a medieval cathedral; ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/c913/e2f1/2801/8aba/a63d/large_jpg/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund_18.jpg?1790626073",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Beyond the Bunker: Lessons from Survivalist Architecture on Resilience",
+      "url": "https://www.archdaily.com/1185860/beyond-the-bunker-lessons-from-survivalist-architecture-on-resilience",
+      "excerpt": "\"Let us take a hard look at the facts.\" With this direct and hardly reassuring sentence, the director of the Office of Civil and Defense Mobilization opened The Family Fallout Shelter, a 32-page manua",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/c9af/5cd0/3901/88de/4be8/large_jpg/what-if-this-stops-working-lessons-from-survivalist-architecture-on-resilience_1.jpg?1790364086",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Mitte Oblique Garden / RAD+ar (Research Artistic Design + architecture)",
+      "url": "https://www.archdaily.com/1186064/mitte-oblique-garden-rad-plus-ar-research-artistic-design-plus-architecture",
+      "excerpt": "The Mitte Oblique Garden positions design as a spatial intervention—a project that reclaims the human scale within the hyper-density of Jakarta. By dismantling the traditional boundaries between build",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/11fc/a979/aa00/0118/7fa3/large_jpg/000_hero.jpg?1790775897",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Fondation Beyeler’s Expansion and Safdie Architects’ Carnegie Library Restoration: This Week’s Review",
+      "url": "https://www.archdaily.com/1186117/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review",
+      "excerpt": "Architecture this week reflects on how buildings and cities adapt to changing cultural, social, and environmental conditions. From the expansion of established institutions and the preservation of arc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/71c9/fdbd/f801/8857/ee3d/large_jpg/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review_8.jpg?1790800426",
       "today": true
     },
     {
@@ -253,181 +428,6 @@ window.LUMINO_DATA = {
       "excerpt": "The champagne house has collaborated with Hirst on two special labels, for its Dom Pérignon Vintage 2018 and Rosé Vintage 2010",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8CzGrHfibKQ52fNJ2d5VtD.gif",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Thomas Heatherwick forms research partnership to combat UK's \"blandemic of dull development\"",
-      "url": "https://www.dezeen.com/2026/10/01/delivering-humanised-places-research-thomas-heatherwick/",
-      "excerpt": "Thomas Heatherwick's campaign Humanise has embarked on a £1.5 million research project that will explore how the UK's streetscapes can be beautified to improve wellbeing. Titled Delivering Humanised P",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Louis Poulsen reissues a 1930s hit, the clef-shaped ‘PH Piano’ lamp",
-      "url": "https://www.wallpaper.com/design-interiors/lighting/louis-poulsen-piano-lamp-poul-henningsen",
-      "excerpt": "A special reissue of Poul Henningsen’s 1931 piano lamp for Louis Poulsen is available for a limited time this autumn",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xLUBqRtWfijbvTqxW2dCtQ-1600-80.png",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "House Around the Corner in Kugahara / some ( ) + Tezzo Nishizawa Architects",
-      "url": "https://www.archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects",
-      "excerpt": "A house on a corner lot in Ota, Tokyo. The site was subdivided from a family estate, placing the new home at its south-western corner. Against the Tokyo convention of turning a blank wall to the neigh",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/e0d3/b2b8/9801/8835/a082/large_jpg/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects_11.jpg?1790697808",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium",
-      "excerpt": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/s3j9UhZq8hX57tyceVT2XN-1160-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "stone-built meadows boutique hotel takes shape around gardens in rural UK",
-      "url": "https://www.designboom.com/architecture/stone-built-meadows-boutique-hotel-gardens-rural-uk-pardini-hall-architecture/",
-      "excerpt": "at the meadows, an existing building and contemporary extension connect through local materials and garden spaces, placing landscape at the center of the experience.\nThe post stone-built meadows bouti",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/meadows-hotel-cotswolds-uk-pardini-hall-architecture-designboom-1200-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Simpsons Bay House / Dock4 Architects",
-      "url": "https://www.archdaily.com/1185922/simpsons-bay-house-dock4-architects",
-      "excerpt": "Simpsons Bay House on Bruny Island, Tasmania, by Dock4 Architects with Giles Newstead, is conceived around the idea of reuse, adaptation and a close relationship with the rural landscape. Rather than ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/b0a4/4c0c/5301/88f7/4534/large_jpg/simpsons-bay-house-dock4-architects_23.jpg?1790750904",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Lixue Primary School of KeWai Group / temp architects",
-      "url": "https://www.archdaily.com/1185955/lixue-primary-school-of-kewai-group-temp-architects",
-      "excerpt": "Lixue Primary School of Kewai Group, Longgang District, Shenzhen, is one of the projects in the 2021 program \"Towards a New Campus, Season III — Longgang New Campus Action Plan.\" Located at the inters",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/8292/3ec8/9101/894a/ce2b/large_jpg/lixue-primary-school-of-kewai-group-temp-architects_45.jpg?1790673563",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "aston martin DBX GT wraps 717 horsepower in a quieter, softer-riding SUV",
-      "url": "https://www.designboom.com/technology/aston-martin-dbx-gt-717-horsepower-quieter-softer-riding-suv/",
-      "excerpt": "aston martin retunes its fastest SUV around comfort, with memory foam seats, revised dampers, and a quieter V8.\nThe post aston martin DBX GT wraps 717 horsepower in a quieter, softer-riding SUV appear",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aston-martin-DBX-GT-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "John Galliano unveils the first chapter of his collaboration with Zara",
-      "url": "https://www.wallpaper.com/fashion-beauty/john-galliano-zara-collaboration-first-collection",
-      "excerpt": "Revealed this evening, ‘Re{form}’ marks the celebrated British designer’s return to fashion after leaving Maison Margiela in 2024, part of an ongoing two-year partnership with the Spanish brand",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/Cq2H2yiSQvfnpzaKTY6jcb-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "where le corbusier’s plan voisin sought to organize paris, chtcheglov chose to drift",
-      "url": "https://www.designboom.com/architecture/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism/",
-      "excerpt": "a clash between urban order and the unpredictable experience of wandering, where efficiency gives way to mood, chance and discovery.\nThe post where le corbusier’s plan voisin sought to organize paris,",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/le-corbusier-plan-voisin-paris-ivan-chtcheglov-ville-radieuse-formulary-new-urbanism-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Sculptural installation among projects from Royal Academy of Art, The Hague",
-      "url": "https://www.dezeen.com/2026/09/30/sculptural-bodily-installation-projects-royal-academy-of-art-the-hague-schoolshows/",
-      "excerpt": "Dezeen School Shows: a flesh-like installation where \"body, material, object and environment\" work in mutual dependency is among the innovative projects by students at the Royal Academy of Art, The Ha",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "The Fig Tree house / Comas-Pont arquitectes",
-      "url": "https://www.archdaily.com/1186071/the-fig-tree-house-comas-pont-arquitectes",
-      "excerpt": "A century-old fig tree, the level difference between the street and garden, and the modest character of neighboring buildings guide the project's design.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/18e4/c30d/0000/01d4/8e64/large_jpg/AGP1968_6424-MID.jpg?1790777610",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "'How a practice evolves over 30 years': Es Devlin at the Design Museum is both intimate and sweeping",
-      "url": "https://www.wallpaper.com/design-interiors/design-events/es-devlin-design-museum-london",
-      "excerpt": "Es Devlin: Other Worlds is on view at the Design Museum (2 October 2026 - 4 April 2027), featuring a reproduction of the multidisciplinary designer's own studio, excerpts from her sketchbooks, an over",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ivM8GGrrNzyGJzZP3qcywk-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "crystal animal sculptures freeze the open-mouthed gesture of a roar",
-      "url": "https://www.designboom.com/art/crystal-animal-sculptures-open-mouthed-gesture-roar-ferdi-b-dick/",
-      "excerpt": "ferdi b dick’s animal sculptures feature an open mouth and extended tongue in different crystal colors.\nThe post crystal animal sculptures freeze the open-mouthed gesture of a roar appeared first on d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/ferdi-b-dick-animal-sculptures-crystal-colors-roar-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "JQY House / André Becker",
-      "url": "https://www.archdaily.com/1186107/jqy-house-andre-becker",
-      "excerpt": "The lot faces the beach, which is naturally the focal point of the layout and ambiance. The living room, dining room, veranda, pool, and two upper-floor suites all overlook the sea, positioned on a fo",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/6524/122d/aa00/0196/fd2d/large_jpg/37-23629-abpa-juquei-0128-web.jpg?1790797256",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Prim Estudio orients low-slung house for viewing Argentinian countryside",
-      "url": "https://www.dezeen.com/2026/09/30/los-tigres-house-prim-estudio-argentina/",
-      "excerpt": "Local studio Prim Estudio has designed a white house with a balcony inset into an asymmetrical zinc roof and arched windows for contemplating the landscape outside Buenos Aires, Argentina. Known as Lo",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Urban settlement for extreme ecosystem among projects from Tulane University",
-      "url": "https://www.dezeen.com/2026/09/30/tulane-group-project-university-schoolshows/",
-      "excerpt": "Dezeen School Shows: a proposal for sustainable urban settlements in the Atacama Desert is among projects from students at Tulane University. Also featured is a project focusing on the preservation of",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Synthetic memories feature in MoMA information design exhibition",
-      "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/",
-      "excerpt": "New York's Museum of Modern Art has exhibited Full Disclosure: The Edge of Information Design, curated by Paola Antonelli, which features information design from classic infographics to a project with",
-      "today": false
     },
     {
       "source": "DNライティング",
