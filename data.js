@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.01  01:01",
+  "fetchedAt": "2026.10.01  08:10",
   "sourceColors": {
-    "マイナビニュース": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,7 +21,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "KNB WEB": {
+    "ファッションプレス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "KNB WEB": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,50 +61,46 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "パナソニック": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
-    },
-    "パナソニック": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
     {
-      "source": "マイナビニュース",
+      "source": "news.mynavi.jp",
       "cat": "デザイン",
       "date": "2026.10.01",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -158,7 +154,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
       "date": "2026.10.01",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -212,6 +208,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.10.01",
+      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.10.01",
@@ -224,19 +229,109 @@ window.LUMINO_DATA = {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.10.01",
-      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
+      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81T2ZoajNYbnhYdjYxeWRWcVMxNHROOFdYTHNmTjBDUUpfVXVDdXRoOHF0S3FwUmg2aWpieFBtMk1RbkU4R0xIaXJKSi1IVTJ3OUJj?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.10.01",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
-      "excerpt": "",
+      "title": "designboom radar: exhibitions to see around the world this october",
+      "url": "https://www.designboom.com/art/exhibition-radar-october-2026/",
+      "excerpt": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this october appeared f",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/october-2026-exhibition-radar-designboom-FB.jpg",
       "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Discover Damien Hirst’s limited-edition bottles for Dom Pérignon, a twist on the artist’s Kaleidoscope series",
+      "url": "https://www.wallpaper.com/entertaining/damien-hirst-dom-perignon-collaboration",
+      "excerpt": "The champagne house has collaborated with Hirst on two special labels, for its Dom Pérignon Vintage 2018 and Rosé Vintage 2010",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8CzGrHfibKQ52fNJ2d5VtD.gif",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Thomas Heatherwick forms research partnership to combat UK's \"blandemic of dull development\"",
+      "url": "https://www.dezeen.com/2026/10/01/delivering-humanised-places-research-thomas-heatherwick/",
+      "excerpt": "Thomas Heatherwick's campaign Humanise has embarked on a £1.5 million research project that will explore how the UK's streetscapes can be beautified to improve wellbeing. Titled Delivering Humanised P",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Louis Poulsen reissues a 1930s hit, the clef-shaped ‘PH Piano’ lamp",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/louis-poulsen-piano-lamp-poul-henningsen",
+      "excerpt": "A special reissue of Poul Henningsen’s 1931 piano lamp for Louis Poulsen is available for a limited time this autumn",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xLUBqRtWfijbvTqxW2dCtQ-1600-80.png",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "House Around the Corner in Kugahara / some ( ) + Tezzo Nishizawa Architects",
+      "url": "https://www.archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects",
+      "excerpt": "A house on a corner lot in Ota, Tokyo. The site was subdivided from a family estate, placing the new home at its south-western corner. Against the Tokyo convention of turning a blank wall to the neigh",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/e0d3/b2b8/9801/8835/a082/large_jpg/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects_11.jpg?1790697808",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium",
+      "excerpt": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/s3j9UhZq8hX57tyceVT2XN-1160-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "stone-built meadows boutique hotel takes shape around gardens in rural UK",
+      "url": "https://www.designboom.com/architecture/stone-built-meadows-boutique-hotel-gardens-rural-uk-pardini-hall-architecture/",
+      "excerpt": "at the meadows, an existing building and contemporary extension connect through local materials and garden spaces, placing landscape at the center of the experience.\nThe post stone-built meadows bouti",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/meadows-hotel-cotswolds-uk-pardini-hall-architecture-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Simpsons Bay House / Dock4 Architects",
+      "url": "https://www.archdaily.com/1185922/simpsons-bay-house-dock4-architects",
+      "excerpt": "Simpsons Bay House on Bruny Island, Tasmania, by Dock4 Architects with Giles Newstead, is conceived around the idea of reuse, adaptation and a close relationship with the rural landscape. Rather than ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/b0a4/4c0c/5301/88f7/4534/large_jpg/simpsons-bay-house-dock4-architects_23.jpg?1790750904",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Lixue Primary School of KeWai Group / temp architects",
+      "url": "https://www.archdaily.com/1185955/lixue-primary-school-of-kewai-group-temp-architects",
+      "excerpt": "Lixue Primary School of Kewai Group, Longgang District, Shenzhen, is one of the projects in the 2021 program \"Towards a New Campus, Season III — Longgang New Campus Action Plan.\" Located at the inters",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/8292/3ec8/9101/894a/ce2b/large_jpg/lixue-primary-school-of-kewai-group-temp-architects_45.jpg?1790673563",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.09.30",
+      "title": "aston martin DBX GT wraps 717 horsepower in a quieter, softer-riding SUV",
+      "url": "https://www.designboom.com/technology/aston-martin-dbx-gt-717-horsepower-quieter-softer-riding-suv/",
+      "excerpt": "aston martin retunes its fastest SUV around comfort, with memory foam seats, revised dampers, and a quieter V8.\nThe post aston martin DBX GT wraps 717 horsepower in a quieter, softer-riding SUV appear",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/aston-martin-DBX-GT-designboom-FB.jpg",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -317,36 +412,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "The biggest threat to architectural heritage may surprise you",
-      "url": "https://www.wallpaper.com/architecture/public-buildings/world-monuments-fund-study-2026",
-      "excerpt": "A new report, released today by the World Monuments Fund, lists the number one reason why cultural sites are at risk",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WoDB7mBUrb4Ne7W6BMf2Ah-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "'Like stepping into the mind of a genius' – Jean Schlumberger sketches and artefacts are being preserved by Tiffany & Co. and the  Musée des Arts décoratifs",
-      "url": "https://www.wallpaper.com/watches-jewellery/like-stepping-into-the-mind-of-a-genius-jean-schlumberger-sketches-and-artefacts-are-being-preserved-by-tiffany-and-co-and-the-musee-des-arts-decoratifs",
-      "excerpt": "A heritage maison and a cultural institution work together to make Schlumberger's archival designs available for future creators",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hCJbBQNNbxHCtUx3kmC59N-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Sunny side up (north) – Ottolenghi Edinburgh extends a warm, colourful welcome",
-      "url": "https://www.wallpaper.com/travel/restaurants/ottolenghi-edinburgh-review",
-      "excerpt": "Ottolenghi’s Mediterranean warmth meets Scotland’s hearty larder in the chef’s bright new Edinburgh restaurant",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/u6UPdU4SrZEezwccf2onyb-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.30",
@@ -356,81 +421,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Yuu' Kee' House / em-estudio",
-      "url": "https://www.archdaily.com/1186092/yuu-kee-house-em-estudio",
-      "excerpt": "Casa Yuu' Kee' (meaning stone creek in the Zapotec language) takes its name from the creek that flows down the site, separating the social area from the private area of the house, which are joined by ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/1fc3/c30d/0000/01d4/8ecf/large_jpg/04_CASA_YUU_KEE-_Ivan_Esqueda.jpg?1790779375",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.09.30",
       "title": "Synthetic memories feature in MoMA information design exhibition",
       "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/",
       "excerpt": "New York's Museum of Modern Art has exhibited Full Disclosure: The Edge of Information Design, curated by Paola Antonelli, which features information design from classic infographics to a project with",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "anrealage wraps dresses in up to 2,000 e-ink panels for color-changing ‘skin’",
-      "url": "https://www.designboom.com/technology/anrealage-dresses-eink-panels-color-changing-skin-kunihiko-morinaga/",
-      "excerpt": "kunihiko morinaga's ss27 collection combines e ink, 3d printed scales and kyocera forearth printing at paris fashion week.\nThe post anrealage wraps dresses in up to 2,000 e-ink panels for color-changi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/chrome-capture-2026-09-30-1.gif",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Camelot seating system by Antonio Citterio for Flexform",
-      "url": "https://www.dezeen.com/2026/09/30/camelot-seating-system-antonio-citterio-flexform-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: elegance meets modularity in the Camelot seating system, created by architect Antonio Citterio and Italian brand Flexform. A dignified frame and plump goose down-filled cushioning mee",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "Matriz House / Estúdio Zargos",
-      "url": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos",
-      "excerpt": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and op",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/7066/5c4d/8600/0165/6cd4/large_jpg/Est_dio_Zargos_-_Casa_Matriz_-_Manuel_S___34_.jpg?1790603463",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "SHED/HOUSE / Side Angle Side",
-      "url": "https://www.archdaily.com/1029675/shed-house-side-angle-side",
-      "excerpt": "Shed/House sits on a central Texas hill oriented to cast a sweeping southern view of Texas Hill Country. As you meander up the private road leading to the house, you are confronted with a blank facade",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6814/0912/4ea2/d901/8b37/1774/large_jpg/shed-house-side-angle-side_24.jpg?1746143526",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "david altrath reveals the timber world inside germany’s motorway chapel",
-      "url": "https://www.designboom.com/architecture/david-altrath-timber-world-germany-motorway-chapel-autobahnkirche-siegerland-schneider-schumacher/",
-      "excerpt": "the photographer documents schneider+schumacher’s landmark beside the A45, focusing on its unusual form and relationship with the surrounding landscape.\nThe post david altrath reveals the timber world",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/david-altrath-timber-world-germany-motorway-chapel-autobahnkirche-siegerland-schneider-schumacher-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.09.30",
-      "title": "royal enfield revolutionizes the electric motorcycle experience with flying flea c6",
-      "url": "https://www.designboom.com/technology/royal-enfield-revolutionizes-the-electric-motorcycle-experience-with-flying-flea-c6/",
-      "excerpt": "designboom explores how royal enfield's flying flea c6 merges historic metalwork with connected software for a new generation of city commuters.\nThe post royal enfield revolutionizes the electric moto",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/royal-enfield-flying-flea-c6-designboom-1200.jpg",
       "today": false
     },
     {
