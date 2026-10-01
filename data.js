@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.01  15:55",
+  "fetchedAt": "2026.10.01  20:44",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "PR TIMES": {
+    "prtimes.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,23 +25,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "kurumefan.com": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ヨコハマ経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "hamakei.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "knb.ne.jp": {
+    "KNB WEB": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -57,11 +57,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -118,7 +118,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "賞・コンペ",
       "date": "2026.10.01",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -127,7 +127,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "cat": "展示・アート",
       "date": "2026.10.01",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -163,20 +163,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "オズモール",
+      "source": "kurumefan.com",
       "cat": "展示・アート",
       "date": "2026.10.01",
-      "title": "大阪の街を彩る大規模イルミネーション「大阪・光の饗宴2025」。大阪市中央公会堂のライトアップ、マルシェも",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QX1N0dVNOMjVlVW9IYkN4QkpWdWxmNkhJT1ZQS1g3d285YlRNMkNtd3ByMW1HZ0Zla2wxd2ZCQU5pQ0RsTkNPOUNTWFZMb3UyYlNsd3c5cFh0SjZZY1Jz?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.10.01",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yeHhzbE5HbjlaM2gtczZqalJ5c0tBcDJmVlRpeXNiaHY1dXptcXlIaktUWWk2LXhERkozTnJNOFE5LVVnOWRJSmJmd3pOVzZZSUVjZW50Nmc?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -199,7 +190,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "knb.ne.jp",
+      "source": "hamakei.com",
+      "cat": "展示・アート",
+      "date": "2026.10.01",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.10.01",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
@@ -232,6 +232,25 @@ window.LUMINO_DATA = {
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "TU/ecomotive’s VENTRA electric car concept captures tire dust while driving",
+      "url": "https://www.designboom.com/technology/tu-ecomotive-ventra-electric-car-concept-captures-tire-dust-ev/",
+      "excerpt": "the dutch student-built EV captures tire particles close to where they are released, then reuses some inside the cabin.\nThe post TU/ecomotive’s VENTRA electric car concept captures tire dust while dri",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/VENTRA-TU-ecomotive-non-exhaust-emissions-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Chain + Siman balances \"old and new\" at gabled Mexican house",
+      "url": "https://www.dezeen.com/2026/10/01/casa-ani-mexico-valle-de-bravo-chain-siman/",
+      "excerpt": "Mexican architecture studio Chain + Siman has created a weekend house with a series of contemporary gables that connects to a stone-clad bunkhouse in Valle de Bravo, outside of Mexico City. Known as C",
       "today": true
     },
     {
@@ -275,6 +294,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Casa Cinco 7 / QBO3 Arquitectos",
+      "url": "https://www.archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos",
+      "excerpt": "Living Along the Tropical Edge - Set high on a hillside overlooking the tropical landscape of Nosara, Costa Rica, Casa Cinco 7 by QBO3 Arquitectos emerges from the encounter between a privileged site,",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/502a/07c3/d100/017f/c392/large_jpg/01-QBO3AD_TIRSO.jpg?1790857277",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.01",
@@ -293,6 +322,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Casa em Pouca Farinha / Ana Teresa Niza + Ana Rita Marques",
+      "url": "https://www.archdaily.com/1186111/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques",
+      "excerpt": "Located in Pouca Farinha, Porto Covo, on a 4,750 m² site, the house is developed largely over the footprint of pre-existing ruins, responding to the environmental and territorial conditions of the sit",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/69d6/fdbd/f801/8857/ee02/large_jpg/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques_12.jpg?1790798355",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.01",
@@ -300,6 +339,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/aston-martin-dbx-gt-revealed-at-q-london",
       "excerpt": "The Aston Martin DBX GT made its debut at Q London in Berkeley Square, a new destination for the brand in the heart of the capital",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nrqmBSFFwwcioLUrt7R8PC-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Dutchmoor Valley Guesthouse / SEEK Design + Architecture",
+      "url": "https://www.archdaily.com/1029710/dutchmoor-valley-guesthouse-seek-design-plus-architecture",
+      "excerpt": "On a 5-acre farmstead in rural Indiana lies an unassuming three-gable shed structure, nestled among the surrounding trees and a field of wildflowers. As a complement to the main complex, which consist",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6813/deb7/2267/4301/8c12/9ec6/large_jpg/dutchmoor-valley-guesthouse-seek-design-plus-architecture_1.jpg?1746132681",
       "today": true
     },
     {
@@ -318,15 +367,6 @@ window.LUMINO_DATA = {
       "title": "CF Møller transforms psychiatric hospital in Denmark into museum",
       "url": "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
       "excerpt": "Danish studio CF Møller has completed the Mind Museum on the island of Funen in Denmark, guided by the \"clear spatial structure\" of the former psychiatric hospital it occupies. Located in the town of ",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Dezeen's favourite furniture and lighting from September",
-      "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
-      "excerpt": "Dezeen's editorial team has been trawling design weeks across Europe this month to seek out some of the best new furniture and lighting. Below, we've compiled ten favourites from London Design Festiva",
       "today": true
     },
     {
@@ -370,16 +410,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "design museum gent reopens with new wing built from locally made waste bricks",
-      "url": "https://www.designboom.com/architecture/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium/",
-      "excerpt": "carmody groarke and ATAMA lead the new extension, while RE-ST restores the historic buildings as part of a wider transformation that rethinks the museum’s collection, exhibitions and public spaces.\nTh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium-designboom-1800.jpg",
-      "today": true
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.01",
@@ -387,36 +417,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1185940/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund",
       "excerpt": "What makes a building worth preserving? Age is the most common answer, but not always the best one. A building from the 1950s or 70s may carry as much historical significance as a medieval cathedral; ",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/c913/e2f1/2801/8aba/a63d/large_jpg/a-new-lens-on-modern-heritage-archdaily-partners-with-the-world-monuments-fund_18.jpg?1790626073",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Beyond the Bunker: Lessons from Survivalist Architecture on Resilience",
-      "url": "https://www.archdaily.com/1185860/beyond-the-bunker-lessons-from-survivalist-architecture-on-resilience",
-      "excerpt": "\"Let us take a hard look at the facts.\" With this direct and hardly reassuring sentence, the director of the Office of Civil and Defense Mobilization opened The Family Fallout Shelter, a 32-page manua",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/c9af/5cd0/3901/88de/4be8/large_jpg/what-if-this-stops-working-lessons-from-survivalist-architecture-on-resilience_1.jpg?1790364086",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Mitte Oblique Garden / RAD+ar (Research Artistic Design + architecture)",
-      "url": "https://www.archdaily.com/1186064/mitte-oblique-garden-rad-plus-ar-research-artistic-design-plus-architecture",
-      "excerpt": "The Mitte Oblique Garden positions design as a spatial intervention—a project that reclaims the human scale within the hyper-density of Jakarta. By dismantling the traditional boundaries between build",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/11fc/a979/aa00/0118/7fa3/large_jpg/000_hero.jpg?1790775897",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Fondation Beyeler’s Expansion and Safdie Architects’ Carnegie Library Restoration: This Week’s Review",
-      "url": "https://www.archdaily.com/1186117/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review",
-      "excerpt": "Architecture this week reflects on how buildings and cities adapt to changing cultural, social, and environmental conditions. From the expansion of established institutions and the preservation of arc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/71c9/fdbd/f801/8857/ee3d/large_jpg/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review_8.jpg?1790800426",
       "today": true
     },
     {
