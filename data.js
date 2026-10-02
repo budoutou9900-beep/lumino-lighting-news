@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.02  00:26",
+  "fetchedAt": "2026.10.02  06:34",
   "sourceColors": {
-    "マイナビニュース": {
+    "news.mynavi.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "prtimes.jp": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "hamakei.com": {
+    "knb.ne.jp": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "久留米ファン": {
+    "kurumefan.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -45,19 +45,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "夜景FAN": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Google ニュース": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,7 +65,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "マイナビニュース",
+      "source": "news.mynavi.jp",
       "cat": "デザイン",
       "date": "2026.10.02",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -118,7 +118,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "賞・コンペ",
       "date": "2026.10.02",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -127,7 +127,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.10.02",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -163,16 +163,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "hamakei.com",
+      "source": "knb.ne.jp",
       "cat": "展示・アート",
       "date": "2026.10.02",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "久留米ファン",
+      "source": "kurumefan.com",
       "cat": "展示・アート",
       "date": "2026.10.02",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
@@ -208,6 +208,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.10.02",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.10.02",
@@ -226,13 +235,64 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.10.02",
-      "title": "【開催終了】神奈川県立相模原公園「庭園の夜を彩る噴水のライトアップ・ライトアップカウントダウンライブ」 - kanagawa-kankou.or.jp",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tRkJwTVVSUlZJRFo4bGw3U0R0M1EtX0RLbjdyUFphb3NmTm82ZWppNnRfT2ZWai1UdTVQUFhhamhaLVhqYXM5VE1jQWZwczRCN20zYkZqUQ?oc=5",
-      "excerpt": "",
+      "title": "Bisila Noha’s ceramics are informed by culture, community and feminism",
+      "url": "https://www.wallpaper.com/design-interiors/bisila-noha-tacchini-prize-winner-2026",
+      "excerpt": "Tacchini celebrates Bisila Noha as the inaugural winner of its prize, dedicated to the intersection of contemporary artistic research and design culture",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LpsRDN5noudZk8h5ThuphJ-1920-80.png",
       "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "The 29-year journey that brought Battle Royale’s Tatsuya Fujiwara to the Barbican for Haruki Murakami’s cult novel adaptation",
+      "url": "https://www.wallpaper.com/art/tatsuya-fujiwara-haruki-murakami-barbican-london",
+      "excerpt": "Haruki Murakami’s 1985 novel, 'Hard-Boiled Wonderland and End of the World', will be on stage at the Barbican from 8-11 October. The star of the show, Tatsuya Fujiwara, takes us behind the scenes",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6WJLnRHCVQVpQaRA4qXnh7-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Inside 1OAM, the Athens hub where you can ‘work, create, stay, eat, discover an object, take a bath…’",
+      "url": "https://www.wallpaper.com/architecture/1oam-eva-papadaki-interview-greece",
+      "excerpt": "‘I do not want people to walk in and think only about design. I want them to feel something first’: we meet 1OAM founder Eva Papadaki to discuss her sensory world and how it feeds into her ongoing cre",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TNZBS8zdNQmr6LTR98qtpZ-1258-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "hug this cuddly toy, and hear the piercing scream of real AI data centers",
+      "url": "https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/",
+      "excerpt": "for ‘adopt a data center,’ basura interviewed dozens of people living near data centers across the US.\nThe post hug this cuddly toy, and hear the piercing scream of real AI data centers appeared first",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/adopt-a-data-center-basura-big-data-cuddly-toy-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Yuehai Culture and Sports Center / MENG YAN | URBANUS",
+      "url": "https://www.archdaily.com/1185982/yuehai-culture-and-sports-center-meng-yan-urbanus",
+      "excerpt": "Located within the Yuehai community of Nanshan district, Shenzhen, the Yuehai Culture and Sports center is surrounded by dense high-rise residential buildings, schools, and commercial complexes. Conve",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/c917/3ec8/914a/2137/6cf4/large_jpg/yuehai-culture-and-sports-center-meng-yan-urbanus_5.jpg?1790691623",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.01",
+      "title": "Mixed-Use Office, Warehouse and Parking Building / KF arquitectes",
+      "url": "https://www.archdaily.com/1186085/mixed-use-office-warehouse-and-parking-building-kf-arquitectes",
+      "excerpt": "In a highly built-up territory under intense urban pressure, the project begins with a fundamental question: how can a large-scale building be inserted without imposing itself on the landscape?",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/2186/c30d/0000/01d4/8f51/large_jpg/57.jpg?1790779810",
+      "today": false
     },
     {
       "source": "designboom",
@@ -361,72 +421,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Aston Martin bolsters its luxury credentials by debuting the DBX GT at its new Mayfair venue",
-      "url": "https://www.wallpaper.com/transportation/aston-martin-dbx-gt-revealed-at-q-london",
-      "excerpt": "The Aston Martin DBX GT made its debut at Q London in Berkeley Square, a new destination for the brand in the heart of the capital",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nrqmBSFFwwcioLUrt7R8PC-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Dutchmoor Valley Guesthouse / SEEK Design + Architecture",
-      "url": "https://www.archdaily.com/1029710/dutchmoor-valley-guesthouse-seek-design-plus-architecture",
-      "excerpt": "On a 5-acre farmstead in rural Indiana lies an unassuming three-gable shed structure, nestled among the surrounding trees and a field of wildflowers. As a complement to the main complex, which consist",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6813/deb7/2267/4301/8c12/9ec6/large_jpg/dutchmoor-valley-guesthouse-seek-design-plus-architecture_1.jpg?1746132681",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.01",
       "title": "White-brick extension defines Design Museum Gent revamp",
       "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
       "excerpt": "Architecture studios Carmody Groarke, Atama and Re-st have completed the revamp of Design Museum Gent in Belgium, adding a geometric volume wrapped in waste-based white bricks. Set to reopen to the pu",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "future-proof design relies on a chain of sustainable decisions",
-      "url": "https://www.designboom.com/design/if-design-award-sustainable-decisions/",
-      "excerpt": "the iF design award 2026 highlights how intentional design decisions drive circular systems, material innovation, and resilient communities.\nThe post future-proof design relies on a chain of sustainab",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/oceanix_if-design-award-winner_designboom_facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Kromme Rijn College / EVA architecten",
-      "url": "https://www.archdaily.com/1185924/kromme-rijn-college-eva-architecten",
-      "excerpt": "The existing building at Rubenslaan 91 was constructed between 1956 and 1958 as a ULO secondary school. It was designed by Piet Dingemans (1910–1970), a well-known architect from Utrecht. The building",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6aba/7d13/5c4d/8600/0165/6e47/large_jpg/svd_EVA_KRC_05.jpg?1790606670",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "The seventh edition of the Patek Philippe Watch Art Grand Exhibition has just opened in Milan",
-      "url": "https://www.wallpaper.com/watches-jewellery/the-seventh-edition-of-the-patek-philippe-watch-art-grand-exhibition-has-just-opened-in-milan",
-      "excerpt": "In Italy, Patek Philippe gives a stage to the arts of watchmaking",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/k2BbAFZrjCtL2XXTqDyQmb-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Discover Damien Hirst’s limited-edition bottles for Dom Pérignon, a twist on the artist’s Kaleidoscope series",
-      "url": "https://www.wallpaper.com/entertaining/damien-hirst-dom-perignon-collaboration",
-      "excerpt": "The champagne house has collaborated with Hirst on two special labels, for its Dom Pérignon Vintage 2018 and Rosé Vintage 2010",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/8CzGrHfibKQ52fNJ2d5VtD.gif",
       "today": false
     },
     {
