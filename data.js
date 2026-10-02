@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.02  13:28",
+  "fetchedAt": "2026.10.02  18:54",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,19 +21,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "adfwebmagazine.jp": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "KNB WEB": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "kurumefan.com": {
+    "ameblo.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ファッションプレス": {
+    "久留米ファン": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -77,25 +77,17 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "パナソニック": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "LPA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "パナソニック": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -154,7 +146,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "adfwebmagazine.jp",
+      "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
       "date": "2026.10.02",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -163,29 +155,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "KNB WEB",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.10.02",
-      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
+      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット - fashion-press.net",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "kurumefan.com",
+      "source": "ameblo.jp",
+      "cat": "展示・アート",
+      "date": "2026.10.02",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "久留米ファン",
       "cat": "展示・アート",
       "date": "2026.10.02",
       "title": "久留米市 筑後川河川敷でクリスマスイルミネーション！ライトアップイベント開催",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yeHhzbE5HbjlaM2gtczZqalJ5c0tBcDJmVlRpeXNiaHY1dXptcXlIaktUWWk2LXhERkozTnJNOFE5LVVnOWRJSmJmd3pOVzZZSUVjZW50Nmc?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
-      "date": "2026.10.02",
-      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -217,10 +209,10 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.10.02",
-      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
+      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ - fashion-press.net",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81T2ZoajNYbnhYdjYxeWRWcVMxNHROOFdYTHNmTjBDUUpfVXVDdXRoOHF0S3FwUmg2aWpieFBtMk1RbkU4R0xIaXJKSi1IVTJ3OUJj?oc=5",
       "excerpt": "",
       "today": true
@@ -232,6 +224,93 @@ window.LUMINO_DATA = {
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "LOEWE’s paris runway occupies an ethereal arena by casper mueller kneer",
+      "url": "https://www.designboom.com/architecture/loewe-paris-runway-ethereal-arena-casper-mueller-kneer-spring-summer-ss27/",
+      "excerpt": "guests watch the SS27 collection from above and across a circular runway built from white scaffold and sheer fabric.\nThe post LOEWE’s paris runway occupies an ethereal arena by casper mueller kneer ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/loewe-women-ss27-casper-mueller-kneer-architects-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Desai Chia shapes New York house to \"cast shadows that mimic nature\"",
+      "url": "https://www.dezeen.com/2026/10/02/chatham-residence-desai-chia-upstate-new-york/",
+      "excerpt": "US studio Desai Chia Architecture has referenced the form of \"native oak leaves\" in shaping the metal roof on Chatham Residence, a rural house in New York designed for retirement. Located in the town ",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "generative code patterns trace across MM collective’s ceramic flower vases",
+      "url": "https://www.designboom.com/design/generative-code-patterns-mm-collective-ceramic-flower-vases-mk-designers/",
+      "excerpt": "mm collective is a dialogue between graphic and product design, unfolding through three ceramic vases inspired by the peony, lily, and tulip.\nThe post generative code patterns trace across MM collecti",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/generative-code-patterns-mm-collective-ceramic-flower-vases-mk-designers-designboom-1200-2.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Rafael Prieto creates furniture from fragments of New York buildings",
+      "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
+      "excerpt": "Local designer Rafael Prieto has created a collection of furniture using cast-offs of a Tribeca facade for his latest exhibition at Emma Scully Gallery in New York City. For The Future of the Past exh",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Nothing wants to revolutionise the takeaway paper cup",
+      "url": "https://www.dezeen.com/2026/10/02/nothing-takeaway-paper-cup/",
+      "excerpt": "Florida-based Nothing has created hot and cold paper takeaway cups with built-in lids that are designed to be compostable. In the past two years, Nothing has created two versions of its proprietary cu",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Three new titles explore the art of digital world-building in cult computers and early arcades",
+      "url": "https://www.wallpaper.com/tech/three-new-titles-explore-the-art-of-digital-world-building-in-cult-computers-and-early-arcades",
+      "excerpt": "From dystopian sci-fi on your desktop to the origins of the first arcade machines, through to the history of an influential home computer, three new books look at the design and culture of the video g",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/z5tRotKpqzBp63g9FNTZb7-1720-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Cabreira House / ARE ARCHITECTS STUDIO",
+      "url": "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio",
+      "excerpt": "The site was defined by rigorous constraints: a strict regulatory framework of a suburban subdivision with its defined setbacks and property lines, the organic presence of the eucalyptus forest flanki",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/df94/a979/aa00/0118/7a74/large_jpg/Helder_Oliveira_07_CasaCabreira.jpg?1790697663",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Chalet des Huarts / Atelier MAa architecture +",
+      "url": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
+      "excerpt": "Overlooking Lake Memphremagog, the Chalet des Huarts explores the capacity of architecture to endure and adapt, revealing what an inherited structure can still hold and offer. Rather than demolish or ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/2a46/a979/aa00/0118/7e86/large_jpg/Des_Huarts__02_HD.jpg?1790716527",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "5° Rogelio Salmona Latin American Architecture Prize: Call for Submissions",
+      "url": "https://www.archdaily.com/1186243/5-degrees-rogelio-salmona-latin-american-architecture-prize-call-for-submissions",
+      "excerpt": "The Rogelio Salmona Foundation invites submissions for the Fifth Cycle of the Rogelio Salmona Latin American Architecture Prize. Under the theme “Spaces that Bring Us Together,” the Prize seeks to rec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/b64a/07c3/d100/017f/cc2a/large_jpg/POSTERS-05_BAJA.jpg?1790948956",
       "today": true
     },
     {
@@ -263,15 +342,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Vollebak creates Rock Jacket from 54,000 slate tiles",
-      "url": "https://www.dezeen.com/2026/10/02/vollebak-rock-jacket-slate-tiles/",
-      "excerpt": "Experimental clothing brand Vollebak has made a one-off coat covered in over 50,000 half-centimetre-square pieces of slate. Named Rock Jacket, the coat is the latest piece designed by Vollebak that ai",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -282,12 +352,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.02",
-      "title": "We're scared of Meta's adorable AI device",
-      "url": "https://www.dezeen.com/2026/10/02/muse-ai-charm-new-york-jails-dezeen-weekly-podcast/",
-      "excerpt": "Why are AI companies opting for cute design? And why is New York building \"jailscrapers\"? Listen to the latest episode of Dezeen Weekly now. This week, Dezeen features editor Nat Barker, design editor",
+      "title": "What the Stones Whisper / Collectif MAGMA",
+      "url": "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma",
+      "excerpt": "Located in Lunano, within the rural landscape of the Marche region, the tower stands alongside a path regularly used by local residents, near a picnic table overlooking the town. The path connects, am",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/df0e/7707/e600/01bb/3756/large_jpg/magma_fem26_01-01_05_2880px.jpg?1790172999",
       "today": true
     },
     {
@@ -298,15 +369,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert/",
       "excerpt": "the preserved rooms show how furniture, structure and everyday life were brought together within an early french residential high-rise.\nThe post charlotte perriand’s built-in interiors survive inside ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Zonify Wall and Zonify Table by Studio Stockholm for Zilenzio",
-      "url": "https://www.dezeen.com/2026/10/02/zonify-wall-zonify-table-studio-stockholm-zilenzio-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: acoustic solutions brand Zilenzio has released Zonify Wall and Zonify Table, a duo of sound-absorbing products for streamlining in-person and digital meetings. Created in collaboratio",
       "today": true
     },
     {
@@ -330,36 +392,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "so cute! louvre-lens exhibition unpacks the art of happiness from ancient times until today",
-      "url": "https://www.designboom.com/art/louvre-lens-exhibition-cuteness-art-history-pink-toys-kawaii/",
-      "excerpt": "through more than 300 works, from ancient cats to rebellious soft toys and the history of pink and glitter, the show examines art's ability to bring us joy and comfort.\nThe post so cute! louvre-lens e",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/louvre-lens-exhibition-so-cute-art-of-happiness-france-designboom-1.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Climate, Density, and Spatial Layers: 18 Houses Shaping Contemporary Vietnamese Architecture",
-      "url": "https://www.archdaily.com/1186158/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture",
-      "excerpt": "Contemporary Vietnamese residential architecture stands out for its deep sensitivity to local microclimates and context. Detailed studies of weather patterns consistently drive strategic design decisi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/8b1e/87ec/5401/8809/f521/large_jpg/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture_1.jpg?1790872362",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Kenitra Socio-Cultural Center / AGA STUDIO",
-      "url": "https://www.archdaily.com/1186048/kenitra-socio-cultural-center-aga-studio",
-      "excerpt": "Set within a six-hectare landscaped site in Kenitra, the Socio-Cultural Center embodies an ambitious vision initiated by the Hassan II Foundation for Moroccans Residing Abroad: to create a place of cu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/bdeb/b2b8/9858/8224/a540/large_jpg/kenitra-socio-cultural-center-aga-studio_5.jpg?1790754335",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -380,26 +412,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Amman Design Week 2026 Returns with \"Accumulations,\" Exploring the Layers of Place, Material, and Memory",
-      "url": "https://www.archdaily.com/1186204/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory",
-      "excerpt": "Following its last edition in 2019, Amman Design Week returns from October 2-17, 2026, bringing more than 220 designers and participants together across exhibitions, installations, public-space projec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/c65f/87ec/5401/8809/f73f/large_jpg/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory_9.jpg?1790887571",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Stará Hasička Cultural and Community Center / schwerpunkt.",
-      "url": "https://www.archdaily.com/1185702/stara-hasicka-cultural-and-community-center-schwerpunkt",
-      "excerpt": "The Stará Hasička Cultural and Community Center originated from an architectural competition launched in 2019. The brief called for the transformation of a former fire station located in the historic ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/58a3/59bf/5a01/8bd6/8779/large_jpg/stara-hasicka-cultural-and-community-centre-schwerpunkt_6.jpg?1790269705",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -407,26 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/bisila-noha-tacchini-prize-winner-2026",
       "excerpt": "Tacchini celebrates Bisila Noha as the inaugural winner of its prize, dedicated to the intersection of contemporary artistic research and design culture",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LpsRDN5noudZk8h5ThuphJ-1920-80.png",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "The 29-year journey that brought Battle Royale’s Tatsuya Fujiwara to the Barbican for Haruki Murakami’s cult novel adaptation",
-      "url": "https://www.wallpaper.com/art/tatsuya-fujiwara-haruki-murakami-barbican-london",
-      "excerpt": "Haruki Murakami’s 1985 novel, 'Hard-Boiled Wonderland and End of the World', will be on stage at the Barbican from 8-11 October. The star of the show, Tatsuya Fujiwara, takes us behind the scenes",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6WJLnRHCVQVpQaRA4qXnh7-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "hug this cuddly toy, and hear the piercing scream of real AI data centers",
-      "url": "https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/",
-      "excerpt": "for ‘adopt a data center,’ basura interviewed dozens of people living near data centers across the US.\nThe post hug this cuddly toy, and hear the piercing scream of real AI data centers appeared first",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/adopt-a-data-center-basura-big-data-cuddly-toy-designboom-1200-1.jpg",
       "today": true
     },
     {
@@ -490,16 +482,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.09.24",
-      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
-      "url": "https://www.yamagiwa.co.jp/news/80248/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.09.18",
@@ -530,16 +512,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -557,16 +529,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -616,16 +578,6 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.08.20",
-      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
-      "url": "https://www.yamagiwa.co.jp/news/79831/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
