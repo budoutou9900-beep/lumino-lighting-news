@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.02  18:54",
+  "fetchedAt": "2026.10.02  22:45",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Google ニュース": {
+    "anna（アンナ）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,35 +33,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "久留米ファン": {
+    "KNB WEB": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "デジカメ Watch": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "夜景FAN": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "designboom": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -69,25 +69,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "パナソニック": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "遠藤照明": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "パナソニック": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -146,7 +158,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
       "date": "2026.10.02",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -155,11 +167,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "anna（アンナ）",
       "cat": "展示・アート",
       "date": "2026.10.02",
-      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット - fashion-press.net",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -169,6 +181,24 @@ window.LUMINO_DATA = {
       "date": "2026.10.02",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "KNB WEB",
+      "cat": "展示・アート",
+      "date": "2026.10.02",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.10.02",
+      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -209,21 +239,22 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.10.02",
-      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ - fashion-press.net",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81T2ZoajNYbnhYdjYxeWRWcVMxNHROOFdYTHNmTjBDUUpfVXVDdXRoOHF0S3FwUmg2aWpieFBtMk1RbkU4R0xIaXJKSi1IVTJ3OUJj?oc=5",
-      "excerpt": "",
+      "title": "moving shingles envelop timber tower reinterpreting lunano’s stone architecture",
+      "url": "https://www.designboom.com/architecture/moving-shingles-timber-tower-lunano-stone-architecture-collectif-magma-what-stones-whisper/",
+      "excerpt": "what the stones whisper temporary installation by collectif magma was fabricated in an open-air workshop.\nThe post moving shingles envelop timber tower reinterpreting lunano’s stone architecture appea",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/collectif-magma-what-stones-whisper-timber-tower-installation-lunano-italy-designboom-1200-1.jpg",
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
+      "source": "Dezeen",
+      "cat": "デザイン",
       "date": "2026.10.02",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
-      "excerpt": "",
+      "title": "Shinsegae Group displays 336 Paul Cox artworks at Frieze Seoul 2026",
+      "url": "https://www.dezeen.com/2026/10/02/shinsegae-groups-336-paul-cox-artworks-frieze-seoul-2026/",
+      "excerpt": "Promotion: as part of Frieze Seoul 2026, Korean retail giant Shinsegae Group exhibited the meditative work of French artist Paul Cox, which also highlighted the group's focus on weaving art and cultur",
       "today": true
     },
     {
@@ -246,6 +277,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "AMS House / Jacobsen Arquitetura",
+      "url": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura",
+      "excerpt": "Carefully implemented on a sloping plot of land, the AMS House was built on the highest point of the lot, where the native forest serves as a backdrop and reference for the design of the house. Three ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68cf/3c51/67a7/a401/899d/97f9/large_jpg/residencia-ams-jacobsen-arquitetura_20.jpg?1758411871",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -262,6 +303,16 @@ window.LUMINO_DATA = {
       "title": "Rafael Prieto creates furniture from fragments of New York buildings",
       "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
       "excerpt": "Local designer Rafael Prieto has created a collection of furniture using cast-offs of a Tribeca facade for his latest exhibition at Emma Scully Gallery in New York City. For The Future of the Past exh",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Rural School in Oaxaca / Territorio Estudio",
+      "url": "https://www.archdaily.com/1023159/rural-school-in-oaxaca-territorio-estudio",
+      "excerpt": "The project is based on a reflection on how educational spaces should be nowadays. From this starting point, we begin by creating shade - a roof supported by a flexible, light and open structure that ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6729/4fd6/1aab/c500/01a9/bdf2/large_jpg/_Sandra_Perezniento_Alta_Escuela_Rural_9925.jpg?1730760740",
       "today": true
     },
     {
@@ -333,15 +384,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Broken-pitch roof tops wooden House in Yakami by Enter-Archi",
-      "url": "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/",
-      "excerpt": "A distinctive roof maximises mountain views and prevents snow build-up at this timber-framed house in Japan's Shimane Prefecture, designed by Japanese studio Enter-Archi. Named House in Yakami after t",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -352,26 +394,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "What the Stones Whisper / Collectif MAGMA",
-      "url": "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma",
-      "excerpt": "Located in Lunano, within the rural landscape of the Marche region, the tower stands alongside a path regularly used by local residents, near a picnic table overlooking the town. The path connects, am",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/df0e/7707/e600/01bb/3756/large_jpg/magma_fem26_01-01_05_2880px.jpg?1790172999",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "charlotte perriand’s built-in interiors survive inside 1960 paris tower",
-      "url": "https://www.designboom.com/architecture/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert/",
-      "excerpt": "the preserved rooms show how furniture, structure and everyday life were brought together within an early french residential high-rise.\nThe post charlotte perriand’s built-in interiors survive inside ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -379,16 +401,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena",
       "excerpt": "Jack McCollough and Lazaro Hernandez’s latest collection takes centre stage in the circular showspace, constructed in the grounds of Paris’ Château de Vincennes",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U9UnkgriJysbikxhjxqTfd-2500-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "The Architecture of Water: ArchDaily's October Editorial Focus",
-      "url": "https://www.archdaily.com/1186156/the-architecture-of-water-archdailys-october-editorial-focus",
-      "excerpt": "Water is life. Animals, plants, fungi, and bacteria all depend on it: water structures their cells, carries their nutrients, and hosts the chemistry that keeps them alive. Even the rare exceptions con",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/9bc2/27ac/8d01/89cb/ae03/large_jpg/the-architecture-of-water-archdailys-october-editorial-focus_1.jpg?1790876626",
       "today": true
     },
     {
@@ -482,6 +494,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.09.24",
+      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
+      "url": "https://www.yamagiwa.co.jp/news/80248/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "新製品",
       "date": "2026.09.18",
@@ -512,6 +534,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "デザイン",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -529,6 +561,16 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "賞・コンペ",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     },
     {
@@ -578,6 +620,16 @@ window.LUMINO_DATA = {
       "url": "https://news.panasonic.com/jp/press/jn260824-1",
       "excerpt": "",
       "thumbnailUrl": "https://news.panasonic.com/uploads/tmg_block_page/cover_image/18919/l-jn260824-1-1.jpg",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "新製品",
+      "date": "2026.08.20",
+      "title": "東日本エリアFAX受信一時停止のご案内（8/28～8/31）",
+      "url": "https://www.yamagiwa.co.jp/news/79831/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
