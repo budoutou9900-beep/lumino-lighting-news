@@ -1,7 +1,7 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.02  06:34",
+  "fetchedAt": "2026.10.02  13:28",
   "sourceColors": {
-    "news.mynavi.jp": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "adfwebmagazine.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "knb.ne.jp": {
+    "KNB WEB": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ウォーカープラス": {
+    "ファッションプレス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ファッションプレス": {
+    "ウォーカープラス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -53,19 +53,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -100,7 +100,7 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "cat": "デザイン",
       "date": "2026.10.02",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
@@ -154,7 +154,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ADF Web Magazine",
+      "source": "adfwebmagazine.jp",
       "cat": "賞・コンペ",
       "date": "2026.10.02",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
@@ -163,7 +163,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "knb.ne.jp",
+      "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.10.02",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
@@ -181,20 +181,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.10.02",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.10.02",
       "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.10.02",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -235,6 +235,171 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "we watched marina abramović die seven times in a shadowy cisterne beneath copenhagen",
+      "url": "https://www.designboom.com/art/marina-abramovic-seven-deaths-cisterne-copenhagen/",
+      "excerpt": "inside a damp underground reservoir, viewers follow operatic deaths from screen to screen, accompanied by a soprano's haunting voice. \nThe post we watched marina abramović die seven times in a shadowy",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/marina-abramovic-seven-deaths-cisterne-copenhagen-designboom-FB.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Snøhetta \"captures the magic of the mountains\" with lookout in Lech",
+      "url": "https://www.dezeen.com/2026/10/02/snohetta-lech-mountain-mirror/",
+      "excerpt": "Stepping stones lead across a reflective pool of water at Lech Mountain Mirror, a viewpoint in the Austrian Alps, designed by architecture studio Snøhetta to invite a moment of pause. Located in a vil",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Broken-pitch roof tops wooden House in Yakami by Enter-Archi",
+      "url": "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/",
+      "excerpt": "A distinctive roof maximises mountain views and prevents snow build-up at this timber-framed house in Japan's Shimane Prefecture, designed by Japanese studio Enter-Archi. Named House in Yakami after t",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Vollebak creates Rock Jacket from 54,000 slate tiles",
+      "url": "https://www.dezeen.com/2026/10/02/vollebak-rock-jacket-slate-tiles/",
+      "excerpt": "Experimental clothing brand Vollebak has made a one-off coat covered in over 50,000 half-centimetre-square pieces of slate. Named Rock Jacket, the coat is the latest piece designed by Vollebak that ai",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "makelab expands footprint at MADE: bush terminal to unlock tier-one 3D printing",
+      "url": "https://www.designboom.com/design/makelab-expands-footprint-at-made-bush-terminal/",
+      "excerpt": "expanding its footprint to brooklyn's made: bush terminal, makelab unlocks the logistics, physical infrastructure, and production capacity needed to serve major tier-one clients.\nThe post makelab expa",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/makelab_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "We're scared of Meta's adorable AI device",
+      "url": "https://www.dezeen.com/2026/10/02/muse-ai-charm-new-york-jails-dezeen-weekly-podcast/",
+      "excerpt": "Why are AI companies opting for cute design? And why is New York building \"jailscrapers\"? Listen to the latest episode of Dezeen Weekly now. This week, Dezeen features editor Nat Barker, design editor",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "charlotte perriand’s built-in interiors survive inside 1960 paris tower",
+      "url": "https://www.designboom.com/architecture/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert/",
+      "excerpt": "the preserved rooms show how furniture, structure and everyday life were brought together within an early french residential high-rise.\nThe post charlotte perriand’s built-in interiors survive inside ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/charlotte-perriand-built-in-interiors-1960-paris-tower-edouard-albert-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Zonify Wall and Zonify Table by Studio Stockholm for Zilenzio",
+      "url": "https://www.dezeen.com/2026/10/02/zonify-wall-zonify-table-studio-stockholm-zilenzio-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: acoustic solutions brand Zilenzio has released Zonify Wall and Zonify Table, a duo of sound-absorbing products for streamlining in-person and digital meetings. Created in collaboratio",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Loewe’s latest show will take place in a Casper Mueller Kneer-designed ‘arena’",
+      "url": "https://www.wallpaper.com/fashion-beauty/loewes-latest-show-will-take-place-in-a-casper-mueller-kneer-designed-arena",
+      "excerpt": "Jack McCollough and Lazaro Hernandez’s latest collection takes centre stage in the circular showspace, constructed in the grounds of Paris’ Château de Vincennes",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/U9UnkgriJysbikxhjxqTfd-2500-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "The Architecture of Water: ArchDaily's October Editorial Focus",
+      "url": "https://www.archdaily.com/1186156/the-architecture-of-water-archdailys-october-editorial-focus",
+      "excerpt": "Water is life. Animals, plants, fungi, and bacteria all depend on it: water structures their cells, carries their nutrients, and hosts the chemistry that keeps them alive. Even the rare exceptions con",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/9bc2/27ac/8d01/89cb/ae03/large_jpg/the-architecture-of-water-archdailys-october-editorial-focus_1.jpg?1790876626",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "so cute! louvre-lens exhibition unpacks the art of happiness from ancient times until today",
+      "url": "https://www.designboom.com/art/louvre-lens-exhibition-cuteness-art-history-pink-toys-kawaii/",
+      "excerpt": "through more than 300 works, from ancient cats to rebellious soft toys and the history of pink and glitter, the show examines art's ability to bring us joy and comfort.\nThe post so cute! louvre-lens e",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/louvre-lens-exhibition-so-cute-art-of-happiness-france-designboom-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Climate, Density, and Spatial Layers: 18 Houses Shaping Contemporary Vietnamese Architecture",
+      "url": "https://www.archdaily.com/1186158/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture",
+      "excerpt": "Contemporary Vietnamese residential architecture stands out for its deep sensitivity to local microclimates and context. Detailed studies of weather patterns consistently drive strategic design decisi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/8b1e/87ec/5401/8809/f521/large_jpg/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture_1.jpg?1790872362",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Kenitra Socio-Cultural Center / AGA STUDIO",
+      "url": "https://www.archdaily.com/1186048/kenitra-socio-cultural-center-aga-studio",
+      "excerpt": "Set within a six-hectare landscaped site in Kenitra, the Socio-Cultural Center embodies an ambitious vision initiated by the Hassan II Foundation for Moroccans Residing Abroad: to create a place of cu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/bdeb/b2b8/9858/8224/a540/large_jpg/kenitra-socio-cultural-center-aga-studio_5.jpg?1790754335",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "The new Sunreef Brabus Ultima 55 is a swift and stealthy supercar for the waves",
+      "url": "https://www.wallpaper.com/transportation/sunreef-brabus-ultima-55",
+      "excerpt": "What do you get if you cross a German purveyor of automobile extremism with an innovative Polish shipyard? Meet the Sunreef Brabus Ultima 55, a catamaran for the most brand-conscious, performance-hung",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Wy9LVU9FkVbz3U8nHJjHL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "A monograph on the life and work of architect Rick Mather explores his approach and impact",
+      "url": "https://www.wallpaper.com/architecture/rick-mather-complete-works-book",
+      "excerpt": "Rick Mather Architects had a subtle but substantial impact on London’s cultural scene in the 90s and noughties. Kester Rattenbury’s new biography chronicles the American architect’s life, influences a",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wYgffJp9pWhyskcNU9iAke-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Amman Design Week 2026 Returns with \"Accumulations,\" Exploring the Layers of Place, Material, and Memory",
+      "url": "https://www.archdaily.com/1186204/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory",
+      "excerpt": "Following its last edition in 2019, Amman Design Week returns from October 2-17, 2026, bringing more than 220 designers and participants together across exhibitions, installations, public-space projec",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/c65f/87ec/5401/8809/f73f/large_jpg/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory_9.jpg?1790887571",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Stará Hasička Cultural and Community Center / schwerpunkt.",
+      "url": "https://www.archdaily.com/1185702/stara-hasicka-cultural-and-community-center-schwerpunkt",
+      "excerpt": "The Stará Hasička Cultural and Community Center originated from an architectural competition launched in 2019. The brief called for the transformation of a former fire station located in the historic ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab5/58a3/59bf/5a01/8bd6/8779/large_jpg/stara-hasicka-cultural-and-community-centre-schwerpunkt_6.jpg?1790269705",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -255,16 +420,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Inside 1OAM, the Athens hub where you can ‘work, create, stay, eat, discover an object, take a bath…’",
-      "url": "https://www.wallpaper.com/architecture/1oam-eva-papadaki-interview-greece",
-      "excerpt": "‘I do not want people to walk in and think only about design. I want them to feel something first’: we meet 1OAM founder Eva Papadaki to discuss her sensory world and how it feeds into her ongoing cre",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/TNZBS8zdNQmr6LTR98qtpZ-1258-80.jpg",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -273,161 +428,6 @@ window.LUMINO_DATA = {
       "excerpt": "for ‘adopt a data center,’ basura interviewed dozens of people living near data centers across the US.\nThe post hug this cuddly toy, and hear the piercing scream of real AI data centers appeared first",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/adopt-a-data-center-basura-big-data-cuddly-toy-designboom-1200-1.jpg",
       "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Yuehai Culture and Sports Center / MENG YAN | URBANUS",
-      "url": "https://www.archdaily.com/1185982/yuehai-culture-and-sports-center-meng-yan-urbanus",
-      "excerpt": "Located within the Yuehai community of Nanshan district, Shenzhen, the Yuehai Culture and Sports center is surrounded by dense high-rise residential buildings, schools, and commercial complexes. Conve",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/c917/3ec8/914a/2137/6cf4/large_jpg/yuehai-culture-and-sports-center-meng-yan-urbanus_5.jpg?1790691623",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Mixed-Use Office, Warehouse and Parking Building / KF arquitectes",
-      "url": "https://www.archdaily.com/1186085/mixed-use-office-warehouse-and-parking-building-kf-arquitectes",
-      "excerpt": "In a highly built-up territory under intense urban pressure, the project begins with a fundamental question: how can a large-scale building be inserted without imposing itself on the landscape?",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/2186/c30d/0000/01d4/8f51/large_jpg/57.jpg?1790779810",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "‘as a spectator, you also have a responsibility’: fabio cherstich on the boundaries of art and theater",
-      "url": "https://www.designboom.com/art/spectator-responsibility-fabio-cherstich-boundaries-art-theater/",
-      "excerpt": "the italian director's unique approach to performance has taken him to new york archives, miu miu performances in shanghai, and even the countryside home of the late painter, lucia di luciano. \nThe po",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/fabio-cherstich-designboom-02-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
-      "url": "https://www.dezeen.com/2026/10/01/fabrizio-corneli-installation-glasses-brand-lindberg/",
-      "excerpt": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the min",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "TU/ecomotive’s VENTRA electric car concept captures tire dust while driving",
-      "url": "https://www.designboom.com/technology/tu-ecomotive-ventra-electric-car-concept-captures-tire-dust-ev/",
-      "excerpt": "the dutch student-built EV captures tire particles close to where they are released, then reuses some inside the cabin.\nThe post TU/ecomotive’s VENTRA electric car concept captures tire dust while dri",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/VENTRA-TU-ecomotive-non-exhaust-emissions-designboom-FB.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Chain + Siman balances \"old and new\" at gabled Mexican house",
-      "url": "https://www.dezeen.com/2026/10/01/casa-ani-mexico-valle-de-bravo-chain-siman/",
-      "excerpt": "Mexican architecture studio Chain + Siman has created a weekend house with a series of contemporary gables that connects to a stone-clad bunkhouse in Valle de Bravo, outside of Mexico City. Known as C",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Casa Votupoca / ARKITITO Arquitetura",
-      "url": "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura",
-      "excerpt": "On a narrow, elongated lot measuring just 6 x 30 meters (approximately 20 x 100 feet), this residence explores natural light, integration with vegetation, and verticality to create a spatial experienc",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/4c33/87ec/5401/8809/f2b3/large_jpg/casa-votupoca-arkitito-arquitetura_18.jpg?1790856269",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "dune-inspired promenade brings sand and vegetation into comillas’ waterfront",
-      "url": "https://www.designboom.com/architecture/dune-inspired-promenade-sand-vegetation-comillas-waterfront-hector-navarro-arkhitekton/",
-      "excerpt": "hector navarro + arkhitekton rework the seafront of comillas, spain, using sand, vegetation, permeable surfaces, and limestone.\nThe post dune-inspired promenade brings sand and vegetation into comilla",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/hector-navarro-arkhitekton-seafront-comillas-spain-sand-vegetation-limestone-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "vollebak turns thousands of tiny slate tiles into a flexible rock jacket",
-      "url": "https://www.designboom.com/technology/vollebak-slate-tiles-flexible-rock-jacket-material-experiment/",
-      "excerpt": "the rock jacket uses thousands of 5mm slate tiles, neoprene and cordura to turn geological time into flexible outerwear: somewhere between material experiment and a harrington built from the earth’s c",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/vollebak-slate-tiles-flexible-rock-jacket-material-experiment-designboom-23.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "At Skywalker Grill, the Lucas Museum’s futuristic restaurant, the force – and the drinks –are strong",
-      "url": "https://www.wallpaper.com/travel/restaurants/skywalker-grill-lucas-museum-restaurant-review",
-      "excerpt": "With a sweeping interior designed by Rockwell Group, a menu featuring childhood favourites and nods to George Lucas' private ranch, the rooftop eatery melds fantasy and fun",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/AkAjAfqtY9zRNCYioRkJoS-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Seven over-ear headphones to kick off your autumnal listening sessions",
-      "url": "https://www.wallpaper.com/tech/new-over-ear-headphones-autumn-2026",
-      "excerpt": "New headphones from Nothing, Sony, Bose, Technics and more showcase the latest in design innovation and technological upgrades",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6PrYsSDnyajRBnmicrXKa4-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Casa Cinco 7 / QBO3 Arquitectos",
-      "url": "https://www.archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos",
-      "excerpt": "Living Along the Tropical Edge - Set high on a hillside overlooking the tropical landscape of Nosara, Costa Rica, Casa Cinco 7 by QBO3 Arquitectos emerges from the encounter between a privileged site,",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/502a/07c3/d100/017f/c392/large_jpg/01-QBO3AD_TIRSO.jpg?1790857277",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "San Francisco exhibition explores the \"radical imagination\" of Rael San Fratello",
-      "url": "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
-      "excerpt": "A structure made of bio-based thermoplastic and recycled broom heads is among the works featured in a mid-career retrospective of design studio Rael San Fratello at San Francisco's Yerba Buena Center ",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Our Planet carpet collection by Gensler and Ege Carpets",
-      "url": "https://www.dezeen.com/2026/10/01/our-planet-gensler-ege-carpets-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: architecture studio Gensler worked with Danish manufacturer Ege Carpets to produce Our Planet, a collection of landscape-inspired carpets and rugs. The global architecture and design ",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "Casa em Pouca Farinha / Ana Teresa Niza + Ana Rita Marques",
-      "url": "https://www.archdaily.com/1186111/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques",
-      "excerpt": "Located in Pouca Farinha, Porto Covo, on a 4,750 m² site, the house is developed largely over the footprint of pre-existing ruins, responding to the environmental and territorial conditions of the sit",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/69d6/fdbd/f801/8857/ee02/large_jpg/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques_12.jpg?1790798355",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.01",
-      "title": "White-brick extension defines Design Museum Gent revamp",
-      "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
-      "excerpt": "Architecture studios Carmody Groarke, Atama and Re-st have completed the revamp of Design Museum Gent in Belgium, adding a geometric volume wrapped in waste-based white bricks. Set to reopen to the pu",
-      "today": false
     },
     {
       "source": "DNライティング",
