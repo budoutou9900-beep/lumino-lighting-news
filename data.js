@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.03  01:39",
+  "fetchedAt": "2026.10.03  07:27",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,7 +9,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "prtimes.jp": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -25,51 +25,51 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "KNB WEB": {
+    "anna（アンナ）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アメーバブログ": {
+    "ファッションプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "久留米ファン": {
+    "KNB WEB": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ウォーカープラス": {
+    "アメーバブログ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "久留米ファン": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "デジカメ Watch": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "デジカメ Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -122,7 +122,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "賞・コンペ",
       "date": "2026.10.03",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
@@ -131,7 +131,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.10.03",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
@@ -163,6 +163,24 @@ window.LUMINO_DATA = {
       "date": "2026.10.03",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "anna（アンナ）",
+      "cat": "展示・アート",
+      "date": "2026.10.03",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "展示・アート",
+      "date": "2026.10.03",
+      "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -221,21 +239,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.10.03",
-      "title": "冬イルミネーション「ライトウォーク お台場」夢の大橋に光の時計台、華やかにライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81T2ZoajNYbnhYdjYxeWRWcVMxNHROOFdYTHNmTjBDUUpfVXVDdXRoOHF0S3FwUmg2aWpieFBtMk1RbkU4R0xIaXJKSi1IVTJ3OUJj?oc=5",
-      "excerpt": "",
+      "title": "A West London extension thinks big, bringing light and flow to a neglected period lean-to",
+      "url": "https://www.wallpaper.com/architecture/residential/west-london-extension-brown-urbanism-kitchen-bee-uk",
+      "excerpt": "Ealing Return by Brown Urbanism and Kitchen Bee elevates a humble terraced house in West London through contemporary design",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/QnBvxq7giCgBakFMdCxKW6-1488-80.jpg",
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.10.03",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
-      "excerpt": "",
+      "title": "color-shifting light sculpture suspends above orchestra at walt disney concert hall",
+      "url": "https://www.designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros/",
+      "excerpt": "rope-like LED tubing produces the installation’s changing illumination in synchronization with the performance.\nThe post color-shifting light sculpture suspends above orchestra at walt disney concert ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/radiance-light-sculpture-installation-grimanesa-amoros-la-philharmonic-walt-disney-concert-hall-designboom-1200.jpg",
       "today": true
     },
     {
@@ -265,6 +285,16 @@ window.LUMINO_DATA = {
       "title": "Shinsegae Group displays 336 Paul Cox artworks at Frieze Seoul 2026",
       "url": "https://www.dezeen.com/2026/10/02/shinsegae-groups-336-paul-cox-artworks-frieze-seoul-2026/",
       "excerpt": "Promotion: as part of Frieze Seoul 2026, Korean retail giant Shinsegae Group exhibited the meditative work of French artist Paul Cox, which also highlighted the group's focus on weaving art and cultur",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.02",
+      "title": "Foundations House / Holger Cuadrado",
+      "url": "https://www.archdaily.com/1022179/foundations-house-holger-cuadrado",
+      "excerpt": "The house is located in a residential neighborhood of the city of Loja, at 2,060 meters above sea level in the lower Andes in southern Ecuador. Situated on a small plot of 7.60 m x 13.50 m, this proje",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6707/3594/4003/1832/7544/18f2/large_jpg/casa-fundamentos-holger-cuadrado_10.jpg?1728525741",
       "today": false
     },
     {
@@ -365,26 +395,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "5° Rogelio Salmona Latin American Architecture Prize: Call for Submissions",
-      "url": "https://www.archdaily.com/1186243/5-degrees-rogelio-salmona-latin-american-architecture-prize-call-for-submissions",
-      "excerpt": "The Rogelio Salmona Foundation invites submissions for the Fifth Cycle of the Rogelio Salmona Latin American Architecture Prize. Under the theme “Spaces that Bring Us Together,” the Prize seeks to rec",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/b64a/07c3/d100/017f/cc2a/large_jpg/POSTERS-05_BAJA.jpg?1790948956",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "we watched marina abramović die seven times in a shadowy cisterne beneath copenhagen",
-      "url": "https://www.designboom.com/art/marina-abramovic-seven-deaths-cisterne-copenhagen/",
-      "excerpt": "inside a damp underground reservoir, viewers follow operatic deaths from screen to screen, accompanied by a soprano's haunting voice. \nThe post we watched marina abramović die seven times in a shadowy",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/marina-abramovic-seven-deaths-cisterne-copenhagen-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -421,16 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/rick-mather-complete-works-book",
       "excerpt": "Rick Mather Architects had a subtle but substantial impact on London’s cultural scene in the 90s and noughties. Kester Rattenbury’s new biography chronicles the American architect’s life, influences a",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wYgffJp9pWhyskcNU9iAke-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Bisila Noha’s ceramics are informed by culture, community and feminism",
-      "url": "https://www.wallpaper.com/design-interiors/bisila-noha-tacchini-prize-winner-2026",
-      "excerpt": "Tacchini celebrates Bisila Noha as the inaugural winner of its prize, dedicated to the intersection of contemporary artistic research and design culture",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LpsRDN5noudZk8h5ThuphJ-1920-80.png",
       "today": false
     },
     {
