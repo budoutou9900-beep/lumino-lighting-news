@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.03  07:27",
+  "fetchedAt": "2026.10.03  12:57",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "anna（アンナ）": {
+    "ファッションプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ファッションプレス": {
+    "anna（アンナ）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "walkerplus.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -57,19 +57,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -167,20 +167,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "anna（アンナ）",
-      "cat": "展示・アート",
-      "date": "2026.10.03",
-      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ファッションプレス",
       "cat": "展示・アート",
       "date": "2026.10.03",
       "title": "「関西のイルミネーション2025-26」大阪・神戸ほか、入場無料ライトアップや冬のデートスポット",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQjJTTnZYcEFvWDBfRFVURnRMcDVkMU1NNzlzM0FwaXRXRVhIdmxrbEh6aXd1cVI4M2oxOGx5QnZ3Zkw3YkNqMHFLblhzLV9zOWRZ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "anna（アンナ）",
+      "cat": "展示・アート",
+      "date": "2026.10.03",
+      "title": "きらめくイルミネーションにときめく季節♡ 2025年梅田のライトアップ特集",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjN0d0Z18waEJFcDR0QUdGWnE5bFpXZjJ2MkxFR29IbG9Kb2ltc1FibTZiR3NNdG9DVkVQaWdmMmpXT0EyaTNDRko2TzA0aWs?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -212,7 +212,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "cat": "展示・アート",
       "date": "2026.10.03",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
@@ -239,6 +239,46 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "cypress, marble, and rippling glass rework apartment into local local’s athens studio",
+      "url": "https://www.designboom.com/architecture/cypress-marble-rippling-glass-apartment-local-locals-athens-studio/",
+      "excerpt": "existing elements, custom furniture, and reused pieces renovate the space through a light-touch approach.\nThe post cypress, marble, and rippling glass rework apartment into local local’s athens studio",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/cypress-marble-rippling-glass-apartment-local-local-athens-studio-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "Escapism from the Streets: How Air-Conditioning Reshaped the Asian City",
+      "url": "https://www.archdaily.com/1185653/escapism-from-the-streets-how-air-conditioning-reshaped-the-asian-city",
+      "excerpt": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong, it is possible to move from an apartment tower through a podium mall, enter the Mass-Transit-Rai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab3/fa49/e78f/b301/883c/f27b/large_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790179922",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "A London workspace built around the warmth of the ‘hearth’ – not just for the reasons you’d think",
+      "url": "https://www.wallpaper.com/architecture/office/elsley-house-soda-london-workspace-uk",
+      "excerpt": "Elsley House by SODA is a London workspace that nods to modern needs and desires, while echoing its historic location's identity",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pGcjc7v5u6WNYaiBRGLTpa-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "Fruit Stand in Fridhemsplan / DinellJohansson",
+      "url": "https://www.archdaily.com/1184972/fruit-stand-in-fridhemsplan-dinelljohansson",
+      "excerpt": "DinellJohansson designed a fruit kiosk in central Stockholm, at Fridhemsplan. For sixteen years, Gazmend Likaj has been selling fruit at Fridhemsplan.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6aa4/1577/7a61/df00/0183/beba/large_jpg/9.jpg?1789138317",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.03",
@@ -249,6 +289,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "This week we looked at the future of data-centre design",
+      "url": "https://www.dezeen.com/2026/10/03/data-centre-architecture-this-week/",
+      "excerpt": "This week on Dezeen, we considered how the architecture of data centres is changing in the face of rapid development of hyperscale facilities. As AI drives the demand for data centres, vast facilities",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "LOEWE’s paris runway occupies an ethereal arena by casper mueller kneer",
+      "url": "https://www.designboom.com/architecture/loewe-paris-runway-ethereal-arena-casper-mueller-kneer-spring-summer-ss27/",
+      "excerpt": "guests watch the SS27 collection from above and across a circular runway built from white scaffold and sheer fabric.\nThe post LOEWE’s paris runway occupies an ethereal arena by casper mueller kneer ap",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/loewe-women-ss27-casper-mueller-kneer-architects-designboom-FB.jpg",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.03",
@@ -256,6 +315,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/color-shifting-light-sculpture-la-philharmonic-walt-disney-concert-hall-grimanesa-amoros/",
       "excerpt": "rope-like LED tubing produces the installation’s changing illumination in synchronization with the performance.\nThe post color-shifting light sculpture suspends above orchestra at walt disney concert ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/radiance-light-sculpture-installation-grimanesa-amoros-la-philharmonic-walt-disney-concert-hall-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.03",
+      "title": "Under the Drying Nets / Multi-Architecture",
+      "url": "https://www.archdaily.com/1186023/under-the-drying-nets-multi-architecture",
+      "excerpt": "At the invitation of the Art at Qiaoshan – Art Field Nanhai， Multi-Architecture designed an installation for the \"Yugengyueyun Section--Fishing and Farming Cabanas 2.0\" zone. Nanhai has long been reno",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/0e16/b2b8/9801/8835/a1ee/large_jpg/under-the-drying-nets-multi-architecture_1.jpg?1790709304",
       "today": true
     },
     {
@@ -298,16 +367,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "LOEWE’s paris runway occupies an ethereal arena by casper mueller kneer",
-      "url": "https://www.designboom.com/architecture/loewe-paris-runway-ethereal-arena-casper-mueller-kneer-spring-summer-ss27/",
-      "excerpt": "guests watch the SS27 collection from above and across a circular runway built from white scaffold and sheer fabric.\nThe post LOEWE’s paris runway occupies an ethereal arena by casper mueller kneer ap",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/loewe-women-ss27-casper-mueller-kneer-architects-designboom-FB.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -327,32 +386,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "generative code patterns trace across MM collective’s ceramic flower vases",
-      "url": "https://www.designboom.com/design/generative-code-patterns-mm-collective-ceramic-flower-vases-mk-designers/",
-      "excerpt": "mm collective is a dialogue between graphic and product design, unfolding through three ceramic vases inspired by the peony, lily, and tulip.\nThe post generative code patterns trace across MM collecti",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/generative-code-patterns-mm-collective-ceramic-flower-vases-mk-designers-designboom-1200-2.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.02",
       "title": "Rafael Prieto creates furniture from fragments of New York buildings",
       "url": "https://www.dezeen.com/2026/10/02/rafael-prieto-the-future-of-the-past-emma-scully-gallery/",
       "excerpt": "Local designer Rafael Prieto has created a collection of furniture using cast-offs of a Tribeca facade for his latest exhibition at Emma Scully Gallery in New York City. For The Future of the Past exh",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Rural School in Oaxaca / Territorio Estudio",
-      "url": "https://www.archdaily.com/1023159/rural-school-in-oaxaca-territorio-estudio",
-      "excerpt": "The project is based on a reflection on how educational spaces should be nowadays. From this starting point, we begin by creating shade - a roof supported by a flexible, light and open structure that ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6729/4fd6/1aab/c500/01a9/bdf2/large_jpg/_Sandra_Perezniento_Alta_Escuela_Rural_9925.jpg?1730760740",
       "today": false
     },
     {
@@ -375,35 +414,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Cabreira House / ARE ARCHITECTS STUDIO",
-      "url": "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio",
-      "excerpt": "The site was defined by rigorous constraints: a strict regulatory framework of a suburban subdivision with its defined setbacks and property lines, the organic presence of the eucalyptus forest flanki",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abb/df94/a979/aa00/0118/7a74/large_jpg/Helder_Oliveira_07_CasaCabreira.jpg?1790697663",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Chalet des Huarts / Atelier MAa architecture +",
-      "url": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
-      "excerpt": "Overlooking Lake Memphremagog, the Chalet des Huarts explores the capacity of architecture to endure and adapt, revealing what an inherited structure can still hold and offer. Rather than demolish or ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abc/2a46/a979/aa00/0118/7e86/large_jpg/Des_Huarts__02_HD.jpg?1790716527",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "Snøhetta \"captures the magic of the mountains\" with lookout in Lech",
-      "url": "https://www.dezeen.com/2026/10/02/snohetta-lech-mountain-mirror/",
-      "excerpt": "Stepping stones lead across a reflective pool of water at Lech Mountain Mirror, a viewpoint in the Austrian Alps, designed by architecture studio Snøhetta to invite a moment of pause. Located in a vil",
-      "today": false
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.02",
@@ -421,16 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/sunreef-brabus-ultima-55",
       "excerpt": "What do you get if you cross a German purveyor of automobile extremism with an innovative Polish shipyard? Meet the Sunreef Brabus Ultima 55, a catamaran for the most brand-conscious, performance-hung",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Wy9LVU9FkVbz3U8nHJjHL-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.02",
-      "title": "A monograph on the life and work of architect Rick Mather explores his approach and impact",
-      "url": "https://www.wallpaper.com/architecture/rick-mather-complete-works-book",
-      "excerpt": "Rick Mather Architects had a subtle but substantial impact on London’s cultural scene in the 90s and noughties. Kester Rattenbury’s new biography chronicles the American architect’s life, influences a",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wYgffJp9pWhyskcNU9iAke-2560-80.jpg",
       "today": false
     },
     {
