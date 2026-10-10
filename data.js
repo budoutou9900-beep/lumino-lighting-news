@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.10  01:06",
+  "fetchedAt": "2026.10.10  06:37",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,39 +29,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Sortir à Paris": {
+    "アメーバブログ": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アメーバブログ": {
+    "KNB WEB": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "KNB WEB": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "山陽新聞": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "Time Out Tokyo": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -172,15 +172,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Sortir à Paris",
-      "cat": "展示・アート",
-      "date": "2026.10.10",
-      "title": "パリの30モンテーニュ通りに位置するディオールのクリスマスイルミネーション2025。今年のライトアップはもう間もなく終了、見逃さないで。営業時間も要チェック！",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWpycnRrbWZTaHZ4N1dMTjRvZGdwNm95bF94U0RHY3lPU1BtMFNyVFJSN21nVjRUdTFNdVdKRjBxNFNYYTJWVnVJUjB4cTE0NXhVUG5wbXlrdVZvYzFnNml2eGJKMUFhVmw5U2xwTkpJSUNxMnVtMEJfb1EtWnJuWF9LUF9sNjBDWVA3WS0yTFJVbDdQeVphV1ZlY2FTTkQ2ZE4yYzJvdTQwRDhWaVhVRXNucFVJRElqRTJKVXc0dnJ4MjRjS0lKTUs1UjZaQVo2?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "アメーバブログ",
       "cat": "展示・アート",
       "date": "2026.10.10",
@@ -235,6 +226,55 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Time Out Tokyo",
+      "cat": "展示・アート",
+      "date": "2026.10.10",
+      "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Yes, you can sit on this balloon chair",
+      "url": "https://www.wallpaper.com/design-interiors/seungjin-yang-profile",
+      "excerpt": "Seungjin Yang’s ‘Blowing Series’ turns the fleeting token of childhood into sturdy furniture made to be sat on and enjoyed. Check it out at PAD London starting 13 October",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FR2S5zUKhbAGVPHYUzMsGD-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "An architecture tour of Ghent, Belgium's unexpected cultural gem",
+      "url": "https://www.wallpaper.com/architecture/architecture-tour-of-ghent-belgium",
+      "excerpt": "Planning a trip to Belgium? Make sure to visit Ghent, where creativity is thriving; here is our architecture and design tour of the city",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HqLVgepTnHDC8VDRs5Gqt9-1415-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Juergen Teller and Edward Enninful create an exclusive cover for Wallpaper* magazine: ‘It's like turning round into the 90s’",
+      "url": "https://www.wallpaper.com/art/juergen-teller-creates-wallpaper-magazine-cover",
+      "excerpt": "Photographer Teller on creating a special cover for the Wallpaper* November 2026 Art Issue, including three of his own images that define the 1990s for him",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cBjmcQD8io9KSRGofoXHJ9-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Adam Pendleton on Black Dada and ‘breaking the rules’ as his new show opens at Amsterdam’s Stedelijk Museum",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-interview-stedelijk-museum-amsterdam",
+      "excerpt": "The artist presents 11 paintings and eight large drawings – work that sits at the intersection of the avant-garde, abstraction and Blackness – in a new exhibition",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tihV3K6oWNBAJK3Hpr8VoH.gif",
+      "today": true
+    },
+    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.09",
@@ -245,6 +285,16 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.09",
+      "title": "Gutiérrez Café / Toro Arquitectos",
+      "url": "https://www.archdaily.com/1186647/gutierrez-cafe-toro-arquitectos",
+      "excerpt": "Gutiérrez Café opened its doors in August 2025, in the Pocitos neighborhood of Montevideo, with an architectural design that places both design and product quality at the heart of the experience. More",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac9/05e2/b2c4/c300/0178/e578/large_jpg/Guti_rrez_Caf__002.jpg?1791559163",
+      "today": false
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.09",
@@ -252,46 +302,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/restaurants/humm-new-york",
       "excerpt": "With 1980s-inspired interiors by Pierre Yovanovitch and a painted ceiling worth of the Sistine Chapel by Francesco Clemente, Humm is New York dining at its finest",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nQmEJ3928VBgpiyGjrSupn-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Abel and Tibi subvert your expectations of what a natural perfume can be",
-      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/abel-tibi-natural-perfume",
-      "excerpt": "The niche natural fragrance brand and New York-based fashion label team up to create a new perfume",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/guj5ZuEeTgBUgUtk9HcMki-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Spencer Lowell’s new monograph, ‘Futures Past’, explores a changing world being shaped by tech",
-      "url": "https://www.wallpaper.com/art/photography/spencer-lowell-futures-past-book-review",
-      "excerpt": "The images in ‘Futures Past’ chronicle the ever-evolving culture clash between society and technology",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/PbE7TVih5uBN23jsdzERnK-1500-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Fancy an instant-landscape hotel? The Haku suite from Koto could be the answer",
-      "url": "https://www.wallpaper.com/architecture/residential/haku-suite-koto-cabin-uk",
-      "excerpt": "A plush new pre-fab by Koto is an upscale hospitality solution aimed at landowners looking to capitalise on their estates",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GJHnyCgjMZoGP3Lsgcm3eB-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "One hundred years of Rolex's Oyster Perpetual",
-      "url": "https://www.wallpaper.com/watches-jewellery/100-years-of-rolex-oyster-perpetual",
-      "excerpt": "As Rolex unveils the latest iterations of its Oyster Perpetual wristwatch, we celebrate the centenary of a trailblazing timepiece",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/SLbfQFAu99tvwFKYE6vXbY-1300-80.jpg",
       "today": false
     },
     {
@@ -417,16 +427,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/tim-walker-five-decades-queer-activism-portraiture-national-portrait-gallery-london-fairyland/",
       "excerpt": "from pioneering activists and healthcare workers to drag performers and musicians, 250 portraits trace how queer communities have shaped british cultural life through resistance, solidarity, and self-",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tim-walker-five-decades-queer-activism-portraiture-national-portrait-gallery-london-fairyland-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Architecture of Care: 6 Unbuilt Spaces for Childhood from the ArchDaily Community",
-      "url": "https://www.archdaily.com/1186558/architecture-of-care-6-unbuilt-spaces-for-childhood-from-the-archdaily-community",
-      "excerpt": "As cities change, so do our expectations of them. People are asking for more caring spaces: public places open to all ages and genders, nature within reach of every social class, and settings that fos",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac7/9425/90e2/9d01/89d2/ed22/large_jpg/6-unbuilt-projects-from-the-archdaily-community_21.jpg?1791464512",
       "today": false
     },
     {
