@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.10  18:11",
+  "fetchedAt": "2026.10.10  22:10",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,11 +57,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -69,7 +69,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -235,6 +235,45 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
+      "url": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
+      "excerpt": "developed over fourteen years, the film traces the chapels, memorials, and cultural spaces crafted by the pritzker prize-winning architect.\nThe post what you’ll see (in 3D) in the peter zumthor docume",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/wenders-zumthor-designboom-06.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
+      "url": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
+      "excerpt": "Mexico City-based Mariel Lozano Studio has designed interiors and furniture for a hospitality project in Mexico City, organising the compact space to create \"tranquillity\" and reduce clutter. San Luis",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Prukpirom House Renovation (PPR House) / S+S Architects",
+      "url": "https://www.archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects",
+      "excerpt": "Prukpirom House Renovation transforms a family home that has stood for more than 29 years. Located on a generous site surrounded by mature greenery, the existing house offered opportunities to expand ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/9f4c/07c3/d100/017f/cbbe/large_jpg/0__1_.jpg?1790943065",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "La Negrita House / Estudio Palacios",
+      "url": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios",
+      "excerpt": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique m",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac9/0648/b2c4/c300/0178/e587/large_jpg/014_-_07-2026__-__ESTUDIO_PALACIOS_NEGRITA_ph_g_viramonte-6415-HDR-3.jpg?1791559319",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -242,6 +281,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fragrance/ds-durga-resurrected-corpse-flower-review",
       "excerpt": "The world's stinkiest plant is back from the dead, thanks to hypnotic notes of bog cedar, tuberose and lily. Here's why you should catch a whiff",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KELtB69QoHY7nYAYE3r9VV-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Haras House / Felipe Hess Arquitetos",
+      "url": "https://www.archdaily.com/1032917/haras-house-felipe-hess-arquitetos",
+      "excerpt": "The Haras House is a single-story residence built on a trapezoidal lot. The \"C\" shaped volume organizes the spaces around a central courtyard, which features a garden, a porch, and a 25-meter lane, in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/688a/c0ef/cb12/3801/8612/d822/large_jpg/casa-haras-felipe-hess-arquitetos_25.jpg?1753923909",
       "today": true
     },
     {
@@ -323,16 +372,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "The Future as Propaganda: Soviet Architecture in Kazakhstan and the Imagery of a New Era",
-      "url": "https://www.archdaily.com/1185733/the-future-as-propaganda-soviet-architecture-in-kazakhstan-and-the-imagery-of-a-new-era",
-      "excerpt": "Practically every history book records 1961 as the year man first reached space, an achievement that placed the Soviet Union at the center of the space race. What not everyone knows is that Yuri Gagar",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/b006/5068/a60f/5eb3/345d/large_jpg/the-future-as-propaganda-soviet-architecture-in-kazakhstan-and-the-imagery-of-a-new-era_5.jpg?1790357521",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -340,16 +379,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/fashion-week-trends-spring-summer-2027",
       "excerpt": "As fashion month comes to a close, Wallpaper* picks the trends which defined a season of shows",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mnr67RwSqCUwWJCkT5ARRe-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "An unfinished domestic device as a threshold between interior and landscape / EX.",
-      "url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
-      "excerpt": "On the hills of Turin, EX. designs an unfinished house conceived as a domestic device rather than a completed object. A rough concrete perimeter frames an open, adaptable interior where architecture a",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/large_jpg/B9989670__Tomaso_Clavarino.jpg?1790779779",
       "today": true
     },
     {
@@ -382,16 +411,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Wiki World Forest Store / Wiki World",
-      "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
-      "excerpt": "The birth of the Wiki World Forest Store stems from the ongoing natural architecture practice carried out by Wiki World. Although we have always insisted on building with the zeroprint concept and 100",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
-      "today": true
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.09",
@@ -402,31 +421,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "massimo dutti reincarnates 16th-century palace as rome flagship store",
-      "url": "https://www.designboom.com/design/massimo-dutti-rome-flagship-store-palazzo-ruspoli/",
-      "excerpt": "an olfactory archive, curated design books, and a custom coffee activation connect the fashion retail space to local culture.\nThe post massimo dutti reincarnates 16th-century palace as rome flagship s",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/massimo-dutti-rome-flagship-store-palazzo-ruspoli-designboom-facebook.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.09",
       "title": "Formant Studio reinterprets the classic tavern at contemporary Mexico City restaurant",
       "url": "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
       "excerpt": "Local practice Formant Studio created custom furniture and fixtures while designing Mexico City restaurant Nota Tavern, taking references from classic Chicago taverns in the fit-out of a former reside",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Community workshop and studio spaces among projects on display at Festival of the Future",
-      "url": "https://www.dezeen.com/2026/10/09/community-workshop-studio-spaces-festival-of-the-future-schoolshows/",
-      "excerpt": "Dezeen School Shows: a former warehouse converted into community workshop and studio spaces is among projects on display at Festival of the Future. Also featured is a public plaza in London's Isle of ",
       "today": false
     },
     {
