@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.10  06:37",
+  "fetchedAt": "2026.10.10  13:13",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -61,15 +61,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -238,6 +238,84 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.10",
+      "title": "What's it like living in a Japanese House? This book answers all questions",
+      "url": "https://www.wallpaper.com/architecture/residential/living-in-a-japanese-house-book",
+      "excerpt": "'Living in a Japanese House,' a new book by Kanae Hasegawa for Phaidon, explores the popular typology of the Japanese home",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HKX26iPpELTLF34LqdHrtV-1965-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Acronym Collective Studio transforms former brewery in Czech Republic into community centre",
+      "url": "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio/",
+      "excerpt": "Architecture firm Acronym Collective Studio has transformed a former brewery near Brno into a community centre, which addresses its corner site with a curved, perforated brick facade. Named Kulturní C",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Eight unconventional lighting designs that tear up the rulebook",
+      "url": "https://www.dezeen.com/2026/10/10/eight-unconventional-lighting-designs-roundups/",
+      "excerpt": "From mouldable wax lampshades that can be melted and remade to a desk lamp that packs flat inside an A4 envelope, this roundup celebrates a series of unusual lighting designs. Lamps by City Girls City",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
+      "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
+      "excerpt": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition.\nThe post stefan sagmeister and ekn transform global data into colorful sneakers",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt-143.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Six new coffee machines offer cupfuls of choice for the design-loving caffeine addict",
+      "url": "https://www.wallpaper.com/tech/six-new-coffee-machines-for-the-design-loving-caffeine-addict",
+      "excerpt": "From espresso shots to all-singing bean-to-cup creations and automatic filter coffee makers, these six new coffee machines all deserve a place in your kitchen",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RgJabkrP3DDufzUzWcoVjW-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "The Future as Propaganda: Soviet Architecture in Kazakhstan and the Imagery of a New Era",
+      "url": "https://www.archdaily.com/1185733/the-future-as-propaganda-soviet-architecture-in-kazakhstan-and-the-imagery-of-a-new-era",
+      "excerpt": "Practically every history book records 1961 as the year man first reached space, an achievement that placed the Soviet Union at the center of the space race. What not everyone knows is that Yuri Gagar",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ab6/b006/5068/a60f/5eb3/345d/large_jpg/the-future-as-propaganda-soviet-architecture-in-kazakhstan-and-the-imagery-of-a-new-era_5.jpg?1790357521",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "The defining trends and takeaways from the S/S 2027 shows, from a skirt renaissance to the pursuit of lightness",
+      "url": "https://www.wallpaper.com/fashion-beauty/fashion-week-trends-spring-summer-2027",
+      "excerpt": "As fashion month comes to a close, Wallpaper* picks the trends which defined a season of shows",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mnr67RwSqCUwWJCkT5ARRe-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "An unfinished domestic device as a threshold between interior and landscape / EX.",
+      "url": "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex",
+      "excerpt": "On the hills of Turin, EX. designs an unfinished house conceived as a domestic device rather than a completed object. A rough concrete perimeter frames an open, adaptable interior where architecture a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/2122/c30d/0000/01d4/8f3f/large_jpg/B9989670__Tomaso_Clavarino.jpg?1790779779",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.10",
       "title": "Yes, you can sit on this balloon chair",
       "url": "https://www.wallpaper.com/design-interiors/seungjin-yang-profile",
       "excerpt": "Seungjin Yang’s ‘Blowing Series’ turns the fleeting token of childhood into sturdy furniture made to be sat on and enjoyed. Check it out at PAD London starting 13 October",
@@ -255,23 +333,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.10",
-      "title": "Juergen Teller and Edward Enninful create an exclusive cover for Wallpaper* magazine: ‘It's like turning round into the 90s’",
-      "url": "https://www.wallpaper.com/art/juergen-teller-creates-wallpaper-magazine-cover",
-      "excerpt": "Photographer Teller on creating a special cover for the Wallpaper* November 2026 Art Issue, including three of his own images that define the 1990s for him",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/cBjmcQD8io9KSRGofoXHJ9-2560-80.jpg",
+      "title": "This week Jaguar's much-anticipated Type 01 electric car was unveiled",
+      "url": "https://www.dezeen.com/2026/10/10/jaguar-type-01-electric-car-this-week/",
+      "excerpt": "This week on Dezeen, we revealed Jaguar's Type 01 electric car, which was designed to \"inaugurate a new era\" for the British car brand. Created as the first car in a new era for Jaguar, the Type 01 wa",
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.10",
-      "title": "Adam Pendleton on Black Dada and ‘breaking the rules’ as his new show opens at Amsterdam’s Stedelijk Museum",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/adam-pendleton-interview-stedelijk-museum-amsterdam",
-      "excerpt": "The artist presents 11 paintings and eight large drawings – work that sits at the intersection of the avant-garde, abstraction and Blackness – in a new exhibition",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tihV3K6oWNBAJK3Hpr8VoH.gif",
+      "title": "solid walnut, oak, and padauk give bathroom flush plates a sculptural identity",
+      "url": "https://www.designboom.com/readers/solid-walnut-oak-padauk-bathroom-flush-plates-sculptural-identity-rty-studio/",
+      "excerpt": "RTY studio introduces solid wood flush plates combining precise geometry with the warmth and individual grain of american walnut, european oak and padauk.\nThe post solid walnut, oak, and padauk give b",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/rty-studio-solid-wood-flush-plates-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Wiki World Forest Store / Wiki World",
+      "url": "https://www.archdaily.com/1186540/wiki-world-forest-store-wiki-world",
+      "excerpt": "The birth of the Wiki World Forest Store stems from the ongoing natural architecture practice carried out by Wiki World. Although we have always insisted on building with the zeroprint concept and 100",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac7/14df/07c3/d100/017f/e141/large_jpg/02.jpg?1791431947",
       "today": true
     },
     {
@@ -292,16 +379,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186647/gutierrez-cafe-toro-arquitectos",
       "excerpt": "Gutiérrez Café opened its doors in August 2025, in the Pocitos neighborhood of Montevideo, with an architectural design that places both design and product quality at the heart of the experience. More",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ac9/05e2/b2c4/c300/0178/e578/large_jpg/Guti_rrez_Caf__002.jpg?1791559163",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Daniel Humm’s new restaurant is an all-out fantasy, thanks to the help of some very important friends",
-      "url": "https://www.wallpaper.com/travel/restaurants/humm-new-york",
-      "excerpt": "With 1980s-inspired interiors by Pierre Yovanovitch and a painted ceiling worth of the Sistine Chapel by Francesco Clemente, Humm is New York dining at its finest",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/nQmEJ3928VBgpiyGjrSupn-1920-80.jpg",
       "today": false
     },
     {
@@ -343,16 +420,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Comillas Waterfront Promenade / Hector Navarro + ARKHITEKTON",
-      "url": "https://www.archdaily.com/1186487/comillas-waterfront-promenade",
-      "excerpt": "The intervention transforms an area previously occupied by a narrow sidewalk and a large parking lot into a new public space for Comillas. Rather than refurbishing an existing promenade, the project c",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddca/large_jpg/010.jpg?1791384720",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.09",
@@ -360,73 +427,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/burgundy-wood-blue-ceilings-cafe-bookshop-wine-bar-valencia-sahuquillodearriba/",
       "excerpt": "sahuquillodearriba renovates a 59-sqm space in el botànic neighborhood retaining elements of the building’s original character.\nThe post burgundy wood and blue ceilings shape café, bookshop, and wine ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/chiquita-sahuquillodearriba-caf-ebookshop-wine-bar-valencia-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Eight seats from Dezeen Showroom to sink into this autumn",
-      "url": "https://www.dezeen.com/2026/10/09/chairs-seating-seats-sofa-bed-autumn-dezeen-showroom/",
-      "excerpt": "Dezeen Showroom: from a zip-up sofa bed to a chair that appears to wear a leather corset, the following seats have recently been published in our Showroom section. Modular seating systems, design-forw",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "G – 5 Houses / SUMMARY",
-      "url": "https://www.archdaily.com/1034091/g-5-houses-summary",
-      "excerpt": "The project is based on total prefabrication in reinforced concrete. Modular panels make up all the building elements: façades, roofs and interior partitions. The typification of elements made it poss",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/68c4/4247/d84f/6b63/a060/951e/large_jpg/g-5-houses-summary_17.jpg?1757692568",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "liam de la bedoyere’s inflatable chopsticks roll up into your pocket between meals",
-      "url": "https://www.designboom.com/design/liam-de-la-bedoyeres-inflatable-chopsticks-popsticks-playful-concept/",
-      "excerpt": "popsticks turns everyday tableware into portable inflatable chopsticks inspired by 1990s design.\nThe post liam de la bedoyere’s inflatable chopsticks roll up into your pocket between meals appeared fi",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/liam-de-la-bedoyeres-inflatable-chopsticks-popsticks-playful-concept-designboom-2.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Home in Kyoto is a \"subtle rearranging\" of familiar spaces",
-      "url": "https://www.dezeen.com/2026/10/09/sugi-house-ujizono-architects-kyoto/",
-      "excerpt": "An expansive gabled ceiling illuminated by clerestory windows shelters the open living spaces of Sugi House, a home in Kyoto designed by Japanese studio Ujizono Architects. Ujizono Architects co-found",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Data Center ETH Zurich / Penzel Valier",
-      "url": "https://www.archdaily.com/1186404/data-center-eth-zurich-penzel-valier",
-      "excerpt": "With the Hönggerberg Data Center (HRZ), Penzel Valier has created an integrated building for ETH Zurich's digital infrastructure in which structure, building services, and design were conceived togeth",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac4/e93a/07c3/d100/017f/d802/large_jpg/111_260719_PTI_ETH_0130_mer.jpg?1791289684",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Why Saudi Arabia's wild giga-project The Line failed",
-      "url": "https://www.dezeen.com/2026/10/09/the-line-neom-saudi-arabia-dezeen-weekly-podcast/",
-      "excerpt": "The world's most wildly ambitious architecture project appears dead in the water. What went wrong? Listen to the latest episode of Dezeen Weekly now. This week, the team plot the strange story of Saud",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "tim walker traces five decades of queer activism through portraiture in ‘fairyland’",
-      "url": "https://www.designboom.com/art/tim-walker-five-decades-queer-activism-portraiture-national-portrait-gallery-london-fairyland/",
-      "excerpt": "from pioneering activists and healthcare workers to drag performers and musicians, 250 portraits trace how queer communities have shaped british cultural life through resistance, solidarity, and self-",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tim-walker-five-decades-queer-activism-portraiture-national-portrait-gallery-london-fairyland-designboom-1200.jpg",
       "today": false
     },
     {
@@ -577,16 +577,6 @@ window.LUMINO_DATA = {
       "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
       "excerpt": "",
       "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "技術・LED",
-      "date": "2026.08.26",
-      "title": "LED投光器 - レディオック フラッド アヴァン 船舶用",
-      "url": "https://www.iwasaki.co.jp/lighting/flood/avant_series/ship/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     }
   ]
