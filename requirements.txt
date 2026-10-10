@@ -1,3 +1,4 @@
 requests
 beautifulsoup4
 googlenewsdecoder
+selectolax<1.0
