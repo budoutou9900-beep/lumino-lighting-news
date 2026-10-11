@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.11  15:16",
+  "fetchedAt": "2026.10.11  19:53",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "Google ニュース": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -61,15 +61,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -85,17 +85,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
-    },
-    "遠藤照明": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "LPA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
     }
   },
   "articles": [
@@ -208,11 +200,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.10.11",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GVnhNd0FfVDlFS25zNUhSaUx6dXMwYU9vOEdKdEVwd2hfWTdiSUdvZHAxZUwtRlZkUVdlZGlQYUVMTWlmbkNLdGp3bDQzZw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -245,12 +237,32 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
+      "url": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere",
+      "excerpt": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes, France.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/1386/07c3/d100/017f/dc57/large_jpg/studio-tere-architecte-aiguilleuse-2.jpg?1791366071",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.11",
       "title": "\"Monolithic\" concrete house informed by rock-cut monastic homes",
       "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
       "excerpt": "Architecture studio Roomoor has completed Monastic Field, a concrete home within a temple precinct in Baleshwar that recalls the rock-cut monk's dwellings of the Deccan Plateau. Set within the site of",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Chaume Sublimé / COAT",
+      "url": "https://www.archdaily.com/1186468/chaume-sublime-coat",
+      "excerpt": "Chaume Sublimé is an ephemeral installation for Montpellier's Festival des Architectures Vives 2025 that elevates humble reed grass into a sensory and atmospheric experience, celebrating both sustaina",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/12f6/07c3/d100/017f/dc34/large_jpg/01_23B3714_photoarchitecture.com.jpg?1791365911",
       "today": true
     },
     {
@@ -371,13 +383,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.10",
-      "title": "Mahachai Residence / Patara Architects",
-      "url": "https://www.archdaily.com/1186228/mahachai-residence-patara-architects",
-      "excerpt": "Mahachai Residence occupies a riverside plot on the Tha Chin River, on land once occupied by the owner's boat-repair warehouse. Rather than erase this history, the house is conceived as a day-use vill",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/8b78/90e2/9d01/89d2/e8f9/large_jpg/mahachai-residence-patara-architects_25.jpg?1791396764",
+      "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
+      "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
+      "excerpt": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition.\nThe post stefan sagmeister and ekn transform global data into colorful sneakers",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt-143.jpg",
       "today": false
     },
     {
@@ -400,16 +412,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Prukpirom House Renovation (PPR House) / S+S Architects",
-      "url": "https://www.archdaily.com/1186235/prukpirom-house-renovation-ppr-house-s-plus-s-architects",
-      "excerpt": "Prukpirom House Renovation transforms a family home that has stood for more than 29 years. Located on a generous site surrounded by mature greenery, the existing house offered opportunities to expand ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/9f4c/07c3/d100/017f/cbbe/large_jpg/0__1_.jpg?1790943065",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -417,16 +419,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/",
       "excerpt": "paisajeencontrado creates a sensory land art installation turning a meadow in extremadura into a living field of observation, linked to the conservation of native species.\nThe post straw walls shape a",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/dbsub/468054/2026-10-06/straw-walls-shape-an-amphitheatre-experimental-garden-and-walking-path-in-rural-caceres-1-6ac50c2c61a10.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
-      "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
-      "excerpt": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition.\nThe post stefan sagmeister and ekn transform global data into colorful sneakers",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt-143.jpg",
       "today": false
     },
     {
@@ -510,16 +502,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "新製品",
-      "date": "2026.09.24",
-      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
-      "url": "https://www.yamagiwa.co.jp/news/80248/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.15",
@@ -540,16 +522,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "LPA",
-      "cat": "デザイン",
-      "date": "2026.09.14",
-      "title": "LPA新刊のお知らせ",
-      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
-      "today": false
-    },
-    {
       "source": "遠藤照明",
       "cat": "国内情報",
       "date": "2026.09.10",
@@ -567,16 +539,6 @@ window.LUMINO_DATA = {
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
       "thumbnailUrl": "/lighting/urbanscape/light-scenery/images/ogp.jpg",
-      "today": false
-    },
-    {
-      "source": "LPA",
-      "cat": "賞・コンペ",
-      "date": "2026.09.02",
-      "title": "IES照明賞受賞",
-      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     }
   ]
