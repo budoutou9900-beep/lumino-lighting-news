@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.11  08:10",
+  "fetchedAt": "2026.10.11  15:16",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,27 +49,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "Time Out Tokyo": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Time Out Tokyo": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -217,21 +217,59 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デジカメ Watch",
-      "cat": "展示・アート",
-      "date": "2026.10.11",
-      "title": "【イベント告知】黄色い花畑を幻想的に照らす長崎鼻「菜の花ライトアップ」が初開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWY4OV9GNmFIT3FSRWlULU1jcXNudWFDbXJWMjVKMEd0RDZpeWJEemNEMTlBb18tem95WlJOYWhMZGFZM1hKSkNmckF1QUJiNVRndW1qVzRsZVdiM2gtNWhmdjJyRUd4YXVj?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Time Out Tokyo",
       "cat": "展示・アート",
       "date": "2026.10.11",
       "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "夜景FAN",
+      "cat": "展示・アート",
+      "date": "2026.10.11",
+      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "chen wei on the dance floor as a stage for imagined ecstasy",
+      "url": "https://www.designboom.com/art/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay/",
+      "excerpt": "in his guest essay, the artist reflects on the elusive nature of ecstasy, drawing from nightlife, staged photography, personal memories, and stories shared by friends to examine how pleasure is perfor",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "\"Monolithic\" concrete house informed by rock-cut monastic homes",
+      "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
+      "excerpt": "Architecture studio Roomoor has completed Monastic Field, a concrete home within a temple precinct in Baleshwar that recalls the rock-cut monk's dwellings of the Deccan Plateau. Set within the site of",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "We take to the trails of Nevada to experience the new Mini Countryman Untamed Edition",
+      "url": "https://www.wallpaper.com/transportation/new-mini-countryman-untamed-edition-test-drive-review",
+      "excerpt": "With amplified abilities, design tweaks and lifestyle-appropriate accessories, the Untamed Edition of Mini’s Countryman SUV wants you to head out into the wild",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dKzuUR9WAJfmEzc7nWS5Tm-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Ten pandemic-era dining sheds that show \"wildly different tastes\" of New Yorkers",
+      "url": "https://www.dezeen.com/2026/10/11/new-york-pandemic-era-dining-sheds-penny-hardy-book/",
+      "excerpt": "From hastily installed sheds and tents to more intricate structures with signage and considered design, author Penny Hardy highlights the absurdity, delight and ingenuity of dining sheds installed in ",
       "today": true
     },
     {
@@ -245,6 +283,35 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "tree-mounted machines connect to web app to let users knock on wood remotely",
+      "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+      "excerpt": "knock on wood is an internet-connected device that performs the familiar gesture of knocking on wood, allowing users to follow the superstition remotely when no wood is nearby.\nThe post tree-mounted m",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/knock-on-wood-device-superstition-remotely-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Designing the In-Between: From Tactical Interventions to Urban Policy in Barcelona",
+      "url": "https://www.archdaily.com/1186200/designing-the-in-between-from-tactical-interventions-to-urban-policy-in-barcelona",
+      "excerpt": "In Europe, cities are confronting the challenge of adapting existing urban conditions to a changing climate and warming summers while improving access to nature, quality public spaces, and the resourc",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/c691/27ac/8d01/89cb/af23/large_jpg/designing-the-in-between-from-tactical-interventions-to-urban-policy-in-barcelona_1.jpg?1790887573",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Architecture is \"much the same\" as music says Daniel Libeskind",
+      "url": "https://www.dezeen.com/2026/10/11/daniel-libeskind-interview-key-projects/",
+      "excerpt": "As readers get their chance to have their say in this year's Dezeen Awards public vote, 2026 judge Daniel Libeskind talks to Dezeen about five projects that best represent his approach to design. The ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.11",
@@ -252,6 +319,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/post-war-belgian-modernism",
       "excerpt": "Post-war Belgian modernism put the fun into functional with quirky fixtures, unexpected tiles and monumental murals",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gEVQiS5sKLKn3VNFUnWEic-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Home Herengracht / Studio Modijefsky",
+      "url": "https://www.archdaily.com/1186299/home-herengracht-studio-modijefsky",
+      "excerpt": "Nestled in central Amsterdam on the prestigious Herengracht, this canal-side apartment enjoys expansive views over the water while remaining sheltered by the lush trees surrounding the façade. Studio ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac3/9b6b/07c3/d100/017f/cfb0/large_jpg/_1__Modijefsky_Herengracht_HR.jpg?1791204214",
       "today": true
     },
     {
@@ -265,6 +342,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Facha Architekti adds \"deliberately distinct\" red extension to former-pigsty home",
+      "url": "https://www.dezeen.com/2026/10/11/facha-architekti-red-extension-czech-pigsty-home/",
+      "excerpt": "Prague-based Facha Architekti has unveiled House With a Red Addition, a striking, red-corrugated-metal extension to a small family home in the Czech Republic. Located in the central Příbram region of ",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.11",
@@ -272,6 +358,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/architects-houses-phaidon-book",
       "excerpt": "‘Architects’ Houses’ is a new book from Phaidon that charts the homes of the world’s leading architects",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kRJmMGo5wRKfy3pofg4Wi4-617-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "RESONANCE - Tallinn Architecture Biennale Installation / Aru Ma- Architects",
+      "url": "https://www.archdaily.com/1186616/resonance-tallinn-architecture-biennale-installation-aru-ma-architects",
+      "excerpt": "Set against Tallinn's rapidly commercializing urban backdrop, the installation offers a sheltered courtyard detached from its surroundings, creating a deliberate pause. Here, the sea breeze whispers a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac8/ace4/b2c4/c300/0178/e4c4/large_jpg/IMG_9828.jpg?1791536587",
       "today": true
     },
     {
@@ -314,36 +410,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "La Negrita House / Estudio Palacios",
-      "url": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios",
-      "excerpt": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique m",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac9/0648/b2c4/c300/0178/e587/large_jpg/014_-_07-2026__-__ESTUDIO_PALACIOS_NEGRITA_ph_g_viramonte-6415-HDR-3.jpg?1791559319",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "A corpse flower inspired DS & Durga’s latest perfume – in a good way",
-      "url": "https://www.wallpaper.com/fashion-beauty/fragrance/ds-durga-resurrected-corpse-flower-review",
-      "excerpt": "The world's stinkiest plant is back from the dead, thanks to hypnotic notes of bog cedar, tuberose and lily. Here's why you should catch a whiff",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/KELtB69QoHY7nYAYE3r9VV-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Haras House / Felipe Hess Arquitetos",
-      "url": "https://www.archdaily.com/1032917/haras-house-felipe-hess-arquitetos",
-      "excerpt": "The Haras House is a single-story residence built on a trapezoidal lot. The \"C\" shaped volume organizes the spaces around a central courtyard, which features a garden, a porch, and a 25-meter lane, in",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/688a/c0ef/cb12/3801/8612/d822/large_jpg/casa-haras-felipe-hess-arquitetos_25.jpg?1753923909",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -354,34 +420,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "CASA MG / Startup Architettura",
-      "url": "https://www.archdaily.com/1186467/casa-mg-startup-architettura",
-      "excerpt": "Located within a 1930s residential building, Casa MG reinterprets and elevates some of the period's most distinctive and iconic architectural features, making them a recurring design language at the h",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/12e1/07c3/d100/017f/dc22/large_jpg/startup_apt-piazzadante_DSCF1371.jpg?1791366004",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Acronym Collective Studio transforms former brewery in Czech Republic into community centre",
-      "url": "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio/",
-      "excerpt": "Architecture firm Acronym Collective Studio has transformed a former brewery near Brno into a community centre, which addresses its corner site with a curved, perforated brick facade. Named Kulturní C",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Eight unconventional lighting designs that tear up the rulebook",
-      "url": "https://www.dezeen.com/2026/10/10/eight-unconventional-lighting-designs-roundups/",
-      "excerpt": "From mouldable wax lampshades that can be melted and remade to a desk lamp that packs flat inside an A4 envelope, this roundup celebrates a series of unusual lighting designs. Lamps by City Girls City",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -389,44 +427,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
       "excerpt": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition.\nThe post stefan sagmeister and ekn transform global data into colorful sneakers",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt-143.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "This week Jaguar's much-anticipated Type 01 electric car was unveiled",
-      "url": "https://www.dezeen.com/2026/10/10/jaguar-type-01-electric-car-this-week/",
-      "excerpt": "This week on Dezeen, we revealed Jaguar's Type 01 electric car, which was designed to \"inaugurate a new era\" for the British car brand. Created as the first car in a new era for Jaguar, the Type 01 wa",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "solid walnut, oak, and padauk give bathroom flush plates a sculptural identity",
-      "url": "https://www.designboom.com/readers/solid-walnut-oak-padauk-bathroom-flush-plates-sculptural-identity-rty-studio/",
-      "excerpt": "RTY studio introduces solid wood flush plates combining precise geometry with the warmth and individual grain of american walnut, european oak and padauk.\nThe post solid walnut, oak, and padauk give b",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/rty-studio-solid-wood-flush-plates-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "playfool’s game installation at V&A puts you in the role of data center cleaner",
-      "url": "https://www.designboom.com/art/playfool-game-installation-va-museum-data-center-cleaner-server/",
-      "excerpt": "the server interactive game installation uses a playful cleaning routine to highlight the often-overlooked labor of maintaining digital infrastructure and cultural collections.\nThe post playfool’s gam",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/server-interactive-game-installation-playfool-data-center-cleaner-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.09",
-      "title": "Formant Studio reinterprets the classic tavern at contemporary Mexico City restaurant",
-      "url": "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
-      "excerpt": "Local practice Formant Studio created custom furniture and fixtures while designing Mexico City restaurant Nota Tavern, taking references from classic Chicago taverns in the fit-out of a former reside",
       "today": false
     },
     {
