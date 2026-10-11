@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.11  01:29",
+  "fetchedAt": "2026.10.11  08:10",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アメーバブログ": {
+    "KNB WEB": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "KNB WEB": {
+    "アメーバブログ": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -57,19 +57,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -172,20 +172,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
-      "date": "2026.10.11",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.10.11",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.10.11",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -233,6 +233,56 @@ window.LUMINO_DATA = {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "How South Barn, the reimagining of an Isle of Wight farm building, shines a light on ‘deep reuse’",
+      "url": "https://www.wallpaper.com/architecture/residential/south-barn-studio-weave-uk",
+      "excerpt": "Architects Studio Weave explore a thorough yet light-touch reimagining of an existing agricultural building into a modern-day retreat for practice founder Je Ahn",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tG6LX8KErPCwBiprqtWiQc-1969-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Dive into the sumptuous, layered richness of post-war Belgian modernism",
+      "url": "https://www.wallpaper.com/architecture/post-war-belgian-modernism",
+      "excerpt": "Post-war Belgian modernism put the fun into functional with quirky fixtures, unexpected tiles and monumental murals",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gEVQiS5sKLKn3VNFUnWEic-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "Discover the radical aesthetic experimentation of these Japanese photographers",
+      "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review",
+      "excerpt": "In Luxembourg, the first exhibition in Europe dedicated to women artists from Japan, ‘Kaihō: Japanese Women Artists after 1945’, opens its doors",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UjunoYYMKoANSfU9iddCwN-2476-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.11",
+      "title": "From Frank Lloyd Wright to Charles and Ray Eames, step inside the finest architects’ houses",
+      "url": "https://www.wallpaper.com/architecture/architects-houses-phaidon-book",
+      "excerpt": "‘Architects’ Houses’ is a new book from Phaidon that charts the homes of the world’s leading architects",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kRJmMGo5wRKfy3pofg4Wi4-617-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.10",
+      "title": "Mahachai Residence / Patara Architects",
+      "url": "https://www.archdaily.com/1186228/mahachai-residence-patara-architects",
+      "excerpt": "Mahachai Residence occupies a riverside plot on the Tha Chin River, on land once occupied by the owner's boat-repair warehouse. Rather than erase this history, the house is conceived as a day-use vill",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/8b78/90e2/9d01/89d2/e8f9/large_jpg/mahachai-residence-patara-architects_25.jpg?1791396764",
+      "today": false
     },
     {
       "source": "designboom",
@@ -304,16 +354,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "What's it like living in a Japanese House? This book answers all questions",
-      "url": "https://www.wallpaper.com/architecture/residential/living-in-a-japanese-house-book",
-      "excerpt": "'Living in a Japanese House,' a new book by Kanae Hasegawa for Phaidon, explores the popular typology of the Japanese home",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HKX26iPpELTLF34LqdHrtV-1965-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -333,16 +373,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Childcare Centre Mowgli / Natrufied Architecture",
-      "url": "https://www.archdaily.com/1186615/childcare-centre-mowgli-natrufied-architecture",
-      "excerpt": "In the heart of the wooded surroundings of Vught, a unique childcare centre has emerged: Mowgli Childcare Centre. The project combines playful architecture with a strong connection to nature, creating",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac8/ab6a/b2c4/c300/0178/e49c/large_jpg/IMG_7790_300.jpg?1791536181",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.10",
@@ -359,36 +389,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
       "excerpt": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition.\nThe post stefan sagmeister and ekn transform global data into colorful sneakers",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt-143.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Six new coffee machines offer cupfuls of choice for the design-loving caffeine addict",
-      "url": "https://www.wallpaper.com/tech/six-new-coffee-machines-for-the-design-loving-caffeine-addict",
-      "excerpt": "From espresso shots to all-singing bean-to-cup creations and automatic filter coffee makers, these six new coffee machines all deserve a place in your kitchen",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/RgJabkrP3DDufzUzWcoVjW-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "The defining trends and takeaways from the S/S 2027 shows, from a skirt renaissance to the pursuit of lightness",
-      "url": "https://www.wallpaper.com/fashion-beauty/fashion-week-trends-spring-summer-2027",
-      "excerpt": "As fashion month comes to a close, Wallpaper* picks the trends which defined a season of shows",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/mnr67RwSqCUwWJCkT5ARRe-1920-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Yes, you can sit on this balloon chair",
-      "url": "https://www.wallpaper.com/design-interiors/seungjin-yang-profile",
-      "excerpt": "Seungjin Yang’s ‘Blowing Series’ turns the fleeting token of childhood into sturdy furniture made to be sat on and enjoyed. Check it out at PAD London starting 13 October",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FR2S5zUKhbAGVPHYUzMsGD-2560-80.jpg",
       "today": false
     },
     {
