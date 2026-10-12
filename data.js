@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.12  11:35",
+  "fetchedAt": "2026.10.12  20:46",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アメーバブログ": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "山陽新聞": {
+    "アメーバブログ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,23 +45,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Time Out Tokyo": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "夜景FAN": {
+    "Time Out Tokyo": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "富士山経済新聞": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -73,29 +73,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "IGNANT": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -145,7 +149,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "www.axismag.jp",
+      "source": "axismag.jp",
       "cat": "展示・アート",
       "date": "2026.10.12",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
@@ -181,15 +185,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アメーバブログ",
-      "cat": "展示・アート",
-      "date": "2026.10.12",
-      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "山陽新聞",
       "cat": "展示・アート",
       "date": "2026.10.12",
@@ -199,11 +194,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "アメーバブログ",
+      "cat": "展示・アート",
+      "date": "2026.10.12",
+      "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.10.12",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.10.12",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -226,12 +239,121 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "富士山経済新聞",
-      "cat": "展示・アート",
+      "source": "Wallpaper*",
+      "cat": "デザイン",
       "date": "2026.10.12",
-      "title": "富士市・田子の浦でイルミネーション ドラゴンタワーなどライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dUNxSDJaczBfeExnVzRmYUk3S0lwRHp1bDRBRG9sbUFobEhXYkRDbXdsNERKTmFTYU5UT1E4OHJNR0xuMGtvWFFRWTlFT1N3eWc?oc=5",
-      "excerpt": "",
+      "title": "Apparatus reveals its first collection in five years – and it's as daring as you'd expect",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/apparatus-act-v-collection",
+      "excerpt": "Encompassing furniture and lighting, the Act V collection is a mediation on creativity, knowledge and the cycles of life. Here's a first look",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/29Hukf26dv8W9p3tbMd4Rg-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Le Cornichon’s founders open new Paris nightspot, Le Poisson Volant",
+      "url": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening",
+      "excerpt": "Bertrand Chauveau and Paul Henri reunite with Claves Architecture to turn Paris’ former L’International into a restaurant and nightclub",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/coYCiytixkENGMxccpqWp6-1600-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "sculptures made of timber and steel occupy raw concrete shell in seoul before demolition",
+      "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+      "excerpt": "ghost barstairs: temporary hypotheses brings experimental furniture, sculpture, and plywood structures into a vacant concrete building in seoul, using its exposed frame to explore the possibilities of",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/ghost-barstairs-temporary-hypotheses-exhibition-seoul-sukchulmok-kangyeon-lee-brbb-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom/",
+      "excerpt": "Dezeen Showroom: a collection of fully upholstered, pillowy seating comprising a sofa and armchair is among five new products featured on Dezeen Showroom. Profondo seating by Zenith Interiors Australi",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "At El Roblar hotel, Ojai's bohemian spirit finds a new home",
+      "url": "https://www.wallpaper.com/travel/hotels/el-roblar-ojai-hotel-review",
+      "excerpt": "A century-old Spanish Revival hotel returns to Ojai, bringing an eccentric collection of art, antiques and Californian character",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/d7ioAKyCSJdiiEYKDh8dg3-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "tarek atoui turns tate modern’s turbine hall into a giant experimental orchestra",
+      "url": "https://www.designboom.com/art/tarek-atoui-tate-modern-turbine-hall-giant-experimental-orchestra-installation-hyundai-commission/",
+      "excerpt": "the lebanese sound artist brings sculptural instruments and multisensory installations to london's turbine hall for the 2026 hyundai commission.\nThe post tarek atoui turns tate modern’s turbine hall i",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tarek-atoui-tate-modern-turbine-hall-giant-experimental-orchestra-installation-hyundai-commission-designboom-5.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "BIG stacks floating terraces above green public space in tirana",
+      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania/",
+      "excerpt": "a translucent facade, slender columns, and an open ground plane shape a proposal that brings public space, community facilities, and the surrounding landscape into a single architectural framework.\nTh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania-designbom-01.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Linho House / TETRO Arquitetura",
+      "url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
+      "excerpt": "Located in a residential neighborhood in Nova Lima, Minas Gerais, the Linho House is more than just a residence—it is a narrative crafted in architecture. Directly inspired by its inhabitant, a fashio",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/689b/9b43/07ae/3401/89b5/21ea/large_jpg/casa-de-linho-tetro-arquitetura_1.jpg?1755028307",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "CMF bring their playful minimalism into portable audio with Speaker S and Speaker M",
+      "url": "https://www.wallpaper.com/tech/cmf-bring-their-playful-minimalism-into-portable-audio-with-speaker-s-and-speaker-m",
+      "excerpt": "The humble Bluetooth speaker gets a stylish new look courtesy of CMF’s Speakers S and M. Nothing’s sister company brings colour, creativity and simplicity to the genre",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xKUKTNLpVtCKZBHQagtnHP-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Gustaf Westman unveils the first pieces from his Disney collaboration",
+      "url": "https://www.wallpaper.com/design-interiors/gustaf-westman-disney-announcement",
+      "excerpt": "Swedish designer Gustaf Westman brings his signature playful style to a new homeware collection inspired by Disney’s Mickey & Friends",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tN4VKcQAmfx8NZ5Qtyce9E-1672-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Gustaf Westman creates Mickey Mouse-shaped sofa and cup for Disney",
+      "url": "https://www.dezeen.com/2026/10/12/gustaf-westman-mickey-mouse-collection-disney/",
+      "excerpt": "Swedish designer Gustaf Westman has teamed up with media company Disney to transform its Mickey Mouse character into furniture and accessories that convey \"joy and playfulness\" ahead of a wider produc",
+      "today": true
+    },
+    {
+      "source": "IGNANT",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Design Beyond Form: At Home with Tomás Fernandes and Natasza Grzeskiewicz of Further Ther",
+      "url": "https://www.ignant.com/2026/10/12/design-beyond-form-at-home-with-tomas-fernandes-and-natasza-grzeskiewicz-of-further-ther/",
+      "excerpt": "The post Design Beyond Form: At Home with Tomás Fernandes and Natasza Grzeskiewicz of Further Ther appeared first on IGNANT.",
+      "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/10/ignant-furtherther-lisbon-clemens-poloczek-28.jpg",
       "today": true
     },
     {
@@ -255,16 +377,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "‘This presents a different kind of creative freedom’ – Nada Ghazal unveils first full high jewellery collection",
-      "url": "https://www.wallpaper.com/watches-jewellery/nada-ghazal-echoes-debut-high-jewellery",
-      "excerpt": "The Lebanese jewellery designer presents her Echoes collection at PAD London",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vKfpMcjm9m97K8m44bvpNJ-1920-80.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.12",
@@ -283,23 +395,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.12",
-      "title": "A’ design award winners achieve real world impact through graphic design",
-      "url": "https://www.designboom.com/design/a-design-award-winners-graphic-design/",
-      "excerpt": "spanning a wide range of creative fields, designboom spotlights a curated selection of 2026 a’ design award winners focusing on graphic design and packaging innovation.\nThe post A’ design award winner",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/a-design-award_designboom_facebook-2.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Vikram Goyal unleashes a precious menagerie in Mayfair",
-      "url": "https://www.wallpaper.com/design-interiors/vikram-goyal-wings-and-tales-pad-2026",
-      "excerpt": "Vikram Goyal was inspired by a 3000-year-old Indian epic for his latest collection of finely crafted furniture and textiles",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hkoFwoBKXhTn5cPzYyetp3-1920-80.png",
+      "title": "Civil Protection Centre / Roland Baldi Architects",
+      "url": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
+      "excerpt": "Set between the wooded slopes of the Venosta Valley and Oris – a hamlet in Lasa - the new Civil Protection Centre makes a confident architectural statement. Constructed from green-pigmented insulating",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/10d8/07c3/d100/017f/dc02/large_jpg/_DR62441B.jpg?1791365405",
       "today": true
     },
     {
@@ -312,62 +414,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.12",
-      "title": "The Stahl House – one of LA's most famous midcentury homes –still hasn't found a buyer",
-      "url": "https://www.wallpaper.com/architecture/residential/stahl-house-price-slashed",
-      "excerpt": "The iconic Case Study House, immortalised in a photo by Julius Schulman, has been on the market for nearly a year  –and just had a $5 million price drop",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tpN8A6YLXZaeuQsk7PstAP-1800-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "OMA adapts historic houston coffee plant into music and arts academy",
-      "url": "https://www.designboom.com/architecture/oma-historic-houston-coffee-plant-music-arts-academy-frank-liu-jr-flama/",
-      "excerpt": "inspired by montessori principles, the adaptive reuse project organizes classrooms, libraries, and performance spaces into a connected learning environment, giving new life to an industrial landmark.\n",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/oma-historic-houston-coffee-plant-music-arts-academy-frank-liu-jr-flama-designboom-1200.jpg",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Gundry & Ducker draws on French dining culture for London restaurant Cassette",
-      "url": "https://www.dezeen.com/2026/10/12/gundry-ducker-french-dining-culture-london-cassette/",
-      "excerpt": "Design studio Gundry & Ducker has renovated the interiors of a Grade II-listed workshop for Cassette, a Parisian-style bistro that has recently opened in the heart of London's West End. The spacious e",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Step inside a reimagined Clerkenwell house with a bold, yet warm character",
-      "url": "https://www.wallpaper.com/architecture/residential/clerkenwell-house-mm-studio-interior-uk",
-      "excerpt": "A London home has been reinvented through a careful rebalance of cosiness and fluidity, warmth and architectural character, courtesy of MM Studio Interior",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WkAgKza4ThXzvBhLBrjEx5-1405-80.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Kim Jones is making his return to fashion with an eponymous label",
-      "url": "https://www.wallpaper.com/fashion-beauty/kim-jones-launches-eponymous-label",
-      "excerpt": "The former Dior Men, Fendi and Louis Vuitton designer will launch a London-based label, it has been revealed this morning (12 October 2026)",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSgerSTiMV3iTZK6RhiH5f-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "florim channels venice’s textures and visual memory into tactile terrazzo surfaces",
-      "url": "https://www.designboom.com/design/florim-sensivenezia-tactile-terrazzo-surface/",
-      "excerpt": "florim introduces sensivenezia, a tactile porcelain stoneware collection that reinterprets classic venetian terrazzo for contemporary architecture.\nThe post florim channels venice’s textures and visua",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/florim_sensivenezia_designboom_facebook.jpg",
+      "title": "The Cultural Life of Colors in Latin American Interiors",
+      "url": "https://www.archdaily.com/1186591/the-cultural-life-of-colors-in-latin-american-interiors",
+      "excerpt": "A color has a biography. A color can have an origin, but it can also transform. It can move between materials and disciplines, from a local practice into architecture, from something ordinary into som",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac8/4050/7887/fb01/8910/62ba/large_jpg/the-cultural-life-of-color-in-latin-american-interiors_12.jpg?1791508565",
       "today": true
     },
     {
@@ -388,45 +441,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1038454/a-place-remembers-what-has-happened-tsuyoshi-tane-on-memory-as-a-design-driver-in-louisiana-channel-interview",
       "excerpt": "Tsuyoshi Tane is a Japanese architect born in 1979 in Tokyo and based in Paris, where he founded ATTA – Atelier Tsuyoshi Tane Architects in 2006. Working across cultural, institutional, and landscape-",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6983/1c62/dddf/b60c/1d00/2402/large_jpg/a-place-remembers-what-has-happened-tsuyoshi-tane-on-memory-as-a-design-driver-in-louisiana-channel-interview_4.jpg?1770200172",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Ceramics Workshop in Copenhagen / Jesper Kusk Arkitekter",
-      "url": "https://www.archdaily.com/1186614/ceramics-workshop-in-copenhagen-jesper-kusk-arkitekter",
-      "excerpt": "The small ceramics workshop is located on the corner of a site in Valby, Copenhagen. Upon arrival, the workshop's south façade comes into view, nestled among the greenery beneath an apple tree. During",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac8/aa60/b2c4/c300/0178/e475/large_jpg/_DSF5217.jpg?1791535738",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "“Cities Are Mental Weapons”: Utopian Hours 2026 Returns to Turin with Sir Peter Cook and a Program on City-Making",
-      "url": "https://www.archdaily.com/1186668/cities-are-mental-weapons-utopian-hours-2026-returns-to-turin-with-sir-peter-cook-and-a-program-on-city-making",
-      "excerpt": "The second part of the Utopian Hours 2026 international city-making festival will be held in Turin on October 16 and 17. After a first chapter in Rotterdam, the festival is marking its tenth anniversa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acc/35ee/7887/fb01/8910/6745/large_jpg/utopian-hours-2026_6.jpg?1791768073",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Not a Hotel to open Not a Museum at Imperial Hotel Plaza Tokyo ahead of demolition",
-      "url": "https://www.dezeen.com/2026/10/12/not-a-hotel-open-not-a-museum-imperial-plaza-hotel-tokyo/",
-      "excerpt": "Nota, the company behind hotelier Not a Hotel, is set to create its first cultural space with the opening of Not a Museum, which will be designed together with Tokyo creative collective SKWAT. The mix",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "When the Outdoors Becomes Home: A New Generation of Outdoor Kitchens",
-      "url": "https://www.archdaily.com/1185499/when-the-outdoors-becomes-home-a-new-generation-of-outdoor-kitchens",
-      "excerpt": "Outdoor kitchens have evolved from exclusive luxury additions into natural extensions of the home. Gardens, terraces, and porches are being transformed into spaces for cooking and, above all, entertai",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/b92f/ac8b/af01/892c/e4ec/large_jpg/cuando-el-exterior-se-convierte-en-hogar-una-nueva-generacion-de-cocinas-al-aire-libre_1.jpg?1787410768",
       "today": true
     },
     {
