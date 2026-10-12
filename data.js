@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.12  03:51",
+  "fetchedAt": "2026.10.12  11:35",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,7 +17,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "www.axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "アメーバブログ": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "アメーバブログ": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,15 +45,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "Time Out Tokyo": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Time Out Tokyo": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "富士山経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,7 +61,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "ArchDaily": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -69,7 +69,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Wallpaper*": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -145,7 +145,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
+      "source": "www.axismag.jp",
       "cat": "展示・アート",
       "date": "2026.10.12",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
@@ -181,15 +181,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.10.12",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVTMyZjFwLW9aalNGT0VLdjJubE1jOEozRGNaU1BUczVhczZnZkxsTXczNDUwTlU3QVY3OUpqU05tRDdkRDVuX1FncVpWTmNLWDgzbzhzY2R6bXZvR1ZTQmtYYlV6UWlfTVczVl9B?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "アメーバブログ",
       "cat": "展示・アート",
       "date": "2026.10.12",
@@ -199,20 +190,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "山陽新聞",
+      "cat": "展示・アート",
+      "date": "2026.10.12",
+      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVTMyZjFwLW9aalNGT0VLdjJubE1jOEozRGNaU1BUczVhczZnZkxsTXczNDUwTlU3QVY3OUpqU05tRDdkRDVuX1FncVpWTmNLWDgzbzhzY2R6bXZvR1ZTQmtYYlV6UWlfTVczVl9B?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
       "date": "2026.10.12",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Google ニュース",
-      "cat": "展示・アート",
-      "date": "2026.10.12",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GVnhNd0FfVDlFS25zNUhSaUx6dXMwYU9vOEdKdEVwd2hfWTdiSUdvZHAxZUwtRlZkUVdlZGlQYUVMTWlmbkNLdGp3bDQzZw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -235,199 +226,208 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "3D printed airless wheels help ground robots bring the wounded to safety",
-      "url": "https://www.designboom.com/technology/3d-printed-airless-wheels-ground-robots-wounded-safety-printlive-iscale3d-arkan/",
-      "excerpt": "print&live and iSCALE3D have developed arkan, a set of 3D printed airless wheels for unmanned ground vehicles used for casualty evacuation, ammunition transport, and logistical support. \nThe post 3D p",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/printlive-iSCALE3D-arkan-3D-printed-airless-wheels-unmanned-ground-vehicles-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Wise Consultation Office / RVMN",
-      "url": "https://www.archdaily.com/1186225/wise-consultation-office-rvmn",
-      "excerpt": "It is said that trees sway in order not to be shaken. Because they move with flexibility, they are able to remain rooted in their place and continue to grow over time. Marriage, too, is a journey that",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/76fe/07c3/d100/017f/caec/large_jpg/2Q3A9625_1.jpg?1790933041",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Pinewood Houses / NOMO STUDIO",
-      "url": "https://www.archdaily.com/1186486/pinewood-houses-nomo-studio",
-      "excerpt": "Set in a small village on Spain's northern Mediterranean coast, Pinewood Houses comprises two single-family homes embedded within a pine forest near the beach on the Costa Brava. The project is guided",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/5aec/07c3/d100/017f/ddb7/large_jpg/SimoneMarcolin_JPG6000_2507_NomoStudio_Fosca_DSC8839.jpg?1791384395",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Ība House / Daniel Fromer",
-      "url": "https://www.archdaily.com/1032640/iba-house-daniel-fromer",
-      "excerpt": "The landscape designer Rodrigo Oliveira was enchanted by a plot of just over five thousand square meters in southern Bahia. With a topography reminiscent of a natural amphitheater, facing the landscap",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6889/fb1b/4460/0500/01e0/cfb0/large_jpg/0289330.jpg?1753873279",
-      "today": false
+      "source": "富士山経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.10.12",
+      "title": "富士市・田子の浦でイルミネーション ドラゴンタワーなどライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dUNxSDJaczBfeExnVzRmYUk3S0lwRHp1bDRBRG9sbUFobEhXYkRDbXdsNERKTmFTYU5UT1E4OHJNR0xuMGtvWFFRWTlFT1N3eWc?oc=5",
+      "excerpt": "",
+      "today": true
     },
     {
       "source": "designboom",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "chen wei on the dance floor as a stage for imagined ecstasy",
-      "url": "https://www.designboom.com/art/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay/",
-      "excerpt": "in his guest essay, the artist reflects on the elusive nature of ecstasy, drawing from nightlife, staged photography, personal memories, and stories shared by friends to examine how pleasure is perfor",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay-designboom-1200.jpg",
-      "today": false
+      "date": "2026.10.12",
+      "title": "citroën revives the iconic 2 CV as a compact electric concept with a roll-up fabric roof",
+      "url": "https://www.designboom.com/technology/citroen-iconic-2-cv-compact-electric-concept-roll-up-fabric-roof-paris-motor-show-mondial/",
+      "excerpt": "unveiled at the 2026 paris motor show, citroën's 2 cv concept reinterprets the 1948 classic as a compact electric car measuring just 3.76 metres.\nThe post citroën revives the iconic 2 CV as a compact ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/citroen-iconic-2-cv-compact-electric-concept-roll-up-fabric-roof-paris-motor-show-mondial-designboom-5.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "carsten höller’s goggles turn the world upside down to challenge perception",
+      "url": "https://www.designboom.com/art/carsten-holler-goggles-world-upside-down-perception-george-m-stratton/",
+      "excerpt": "inspired by a 19th-century psychology experiment, the wearable artwork turns familiar surroundings into an unsettling test of perception and movement.\nThe post carsten höller’s goggles turn the world ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/carsten-holler-goggles-upside-down-george-m-stratton-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "‘This presents a different kind of creative freedom’ – Nada Ghazal unveils first full high jewellery collection",
+      "url": "https://www.wallpaper.com/watches-jewellery/nada-ghazal-echoes-debut-high-jewellery",
+      "excerpt": "The Lebanese jewellery designer presents her Echoes collection at PAD London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vKfpMcjm9m97K8m44bvpNJ-1920-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia",
+      "url": "https://www.dezeen.com/2026/10/12/grimshaw-visitor-centre-twelve-apostles-australia/",
+      "excerpt": "Architecture studio Grimshaw and landscape architect Aspect Studios have completed a visitor experience centre for one of Australia's most-visited natural landmarks, the Twelve Apostles in Victoria. L",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Ten things to have on your radar ahead of Dutch Design Week 2026",
+      "url": "https://www.dezeen.com/2026/10/12/ten-exhibitions-installations-dutch-design-week-2026/",
+      "excerpt": "Dutch Design Week kicks off in Eindhoven this Saturday. To help you navigate the many exhibitions, installations and events taking place across the city, here are 10 of our picks. From 17 to 25 Octobe",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "A’ design award winners achieve real world impact through graphic design",
+      "url": "https://www.designboom.com/design/a-design-award-winners-graphic-design/",
+      "excerpt": "spanning a wide range of creative fields, designboom spotlights a curated selection of 2026 a’ design award winners focusing on graphic design and packaging innovation.\nThe post A’ design award winner",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/09/a-design-award_designboom_facebook-2.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Vikram Goyal unleashes a precious menagerie in Mayfair",
+      "url": "https://www.wallpaper.com/design-interiors/vikram-goyal-wings-and-tales-pad-2026",
+      "excerpt": "Vikram Goyal was inspired by a 3000-year-old Indian epic for his latest collection of finely crafted furniture and textiles",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/hkoFwoBKXhTn5cPzYyetp3-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
+      "url": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
+      "excerpt": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountai",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "The Stahl House – one of LA's most famous midcentury homes –still hasn't found a buyer",
+      "url": "https://www.wallpaper.com/architecture/residential/stahl-house-price-slashed",
+      "excerpt": "The iconic Case Study House, immortalised in a photo by Julius Schulman, has been on the market for nearly a year  –and just had a $5 million price drop",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tpN8A6YLXZaeuQsk7PstAP-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "OMA adapts historic houston coffee plant into music and arts academy",
+      "url": "https://www.designboom.com/architecture/oma-historic-houston-coffee-plant-music-arts-academy-frank-liu-jr-flama/",
+      "excerpt": "inspired by montessori principles, the adaptive reuse project organizes classrooms, libraries, and performance spaces into a connected learning environment, giving new life to an industrial landmark.\n",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/oma-historic-houston-coffee-plant-music-arts-academy-frank-liu-jr-flama-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Gundry & Ducker draws on French dining culture for London restaurant Cassette",
+      "url": "https://www.dezeen.com/2026/10/12/gundry-ducker-french-dining-culture-london-cassette/",
+      "excerpt": "Design studio Gundry & Ducker has renovated the interiors of a Grade II-listed workshop for Cassette, a Parisian-style bistro that has recently opened in the heart of London's West End. The spacious e",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Step inside a reimagined Clerkenwell house with a bold, yet warm character",
+      "url": "https://www.wallpaper.com/architecture/residential/clerkenwell-house-mm-studio-interior-uk",
+      "excerpt": "A London home has been reinvented through a careful rebalance of cosiness and fluidity, warmth and architectural character, courtesy of MM Studio Interior",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/WkAgKza4ThXzvBhLBrjEx5-1405-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "Kim Jones is making his return to fashion with an eponymous label",
+      "url": "https://www.wallpaper.com/fashion-beauty/kim-jones-launches-eponymous-label",
+      "excerpt": "The former Dior Men, Fendi and Louis Vuitton designer will launch a London-based label, it has been revealed this morning (12 October 2026)",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HSgerSTiMV3iTZK6RhiH5f-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.12",
+      "title": "florim channels venice’s textures and visual memory into tactile terrazzo surfaces",
+      "url": "https://www.designboom.com/design/florim-sensivenezia-tactile-terrazzo-surface/",
+      "excerpt": "florim introduces sensivenezia, a tactile porcelain stoneware collection that reinterprets classic venetian terrazzo for contemporary architecture.\nThe post florim channels venice’s textures and visua",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/florim_sensivenezia_designboom_facebook.jpg",
+      "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
-      "url": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere",
-      "excerpt": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes, France.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/1386/07c3/d100/017f/dc57/large_jpg/studio-tere-architecte-aiguilleuse-2.jpg?1791366071",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "\"Monolithic\" concrete house informed by rock-cut monastic homes",
-      "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
-      "excerpt": "Architecture studio Roomoor has completed Monastic Field, a concrete home within a temple precinct in Baleshwar that recalls the rock-cut monk's dwellings of the Deccan Plateau. Set within the site of",
-      "today": false
+      "date": "2026.10.12",
+      "title": "Toyota City Museum / Shigeru Ban Architects",
+      "url": "https://www.archdaily.com/1186423/toyota-city-museum-shigeru-ban-architects",
+      "excerpt": "Toyota City Museum is planned to be located on the east side of the site, just like the adjacent Toyota Municipal Museum of Art, to allow for integrated site utilization. The western side of the site ",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac4/f717/27ac/8d01/89cb/bc42/large_jpg/toyota-city-museum-shigeru-ban-architects_4.jpg?1791293246",
+      "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Chaume Sublimé / COAT",
-      "url": "https://www.archdaily.com/1186468/chaume-sublime-coat",
-      "excerpt": "Chaume Sublimé is an ephemeral installation for Montpellier's Festival des Architectures Vives 2025 that elevates humble reed grass into a sensory and atmospheric experience, celebrating both sustaina",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/12f6/07c3/d100/017f/dc34/large_jpg/01_23B3714_photoarchitecture.com.jpg?1791365911",
-      "today": false
+      "date": "2026.10.12",
+      "title": "\"A Place Remembers What Has Happened:\" Tsuyoshi Tane on Memory as a Design Driver in Louisiana Channel Interview",
+      "url": "https://www.archdaily.com/1038454/a-place-remembers-what-has-happened-tsuyoshi-tane-on-memory-as-a-design-driver-in-louisiana-channel-interview",
+      "excerpt": "Tsuyoshi Tane is a Japanese architect born in 1979 in Tokyo and based in Paris, where he founded ATTA – Atelier Tsuyoshi Tane Architects in 2006. Working across cultural, institutional, and landscape-",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6983/1c62/dddf/b60c/1d00/2402/large_jpg/a-place-remembers-what-has-happened-tsuyoshi-tane-on-memory-as-a-design-driver-in-louisiana-channel-interview_4.jpg?1770200172",
+      "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "We take to the trails of Nevada to experience the new Mini Countryman Untamed Edition",
-      "url": "https://www.wallpaper.com/transportation/new-mini-countryman-untamed-edition-test-drive-review",
-      "excerpt": "With amplified abilities, design tweaks and lifestyle-appropriate accessories, the Untamed Edition of Mini’s Countryman SUV wants you to head out into the wild",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dKzuUR9WAJfmEzc7nWS5Tm-2560-80.jpg",
-      "today": false
+      "date": "2026.10.12",
+      "title": "Ceramics Workshop in Copenhagen / Jesper Kusk Arkitekter",
+      "url": "https://www.archdaily.com/1186614/ceramics-workshop-in-copenhagen-jesper-kusk-arkitekter",
+      "excerpt": "The small ceramics workshop is located on the corner of a site in Valby, Copenhagen. Upon arrival, the workshop's south façade comes into view, nestled among the greenery beneath an apple tree. During",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac8/aa60/b2c4/c300/0178/e475/large_jpg/_DSF5217.jpg?1791535738",
+      "today": true
     },
     {
-      "source": "Dezeen",
+      "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Ten pandemic-era dining sheds that show \"wildly different tastes\" of New Yorkers",
-      "url": "https://www.dezeen.com/2026/10/11/new-york-pandemic-era-dining-sheds-penny-hardy-book/",
-      "excerpt": "From hastily installed sheds and tents to more intricate structures with signage and considered design, author Penny Hardy highlights the absurdity, delight and ingenuity of dining sheds installed in ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "How South Barn, the reimagining of an Isle of Wight farm building, shines a light on ‘deep reuse’",
-      "url": "https://www.wallpaper.com/architecture/residential/south-barn-studio-weave-uk",
-      "excerpt": "Architects Studio Weave explore a thorough yet light-touch reimagining of an existing agricultural building into a modern-day retreat for practice founder Je Ahn",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tG6LX8KErPCwBiprqtWiQc-1969-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "tree-mounted machines connect to web app to let users knock on wood remotely",
-      "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
-      "excerpt": "knock on wood is an internet-connected device that performs the familiar gesture of knocking on wood, allowing users to follow the superstition remotely when no wood is nearby.\nThe post tree-mounted m",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/knock-on-wood-device-superstition-remotely-designboom-1200-1.jpg",
-      "today": false
+      "date": "2026.10.12",
+      "title": "“Cities Are Mental Weapons”: Utopian Hours 2026 Returns to Turin with Sir Peter Cook and a Program on City-Making",
+      "url": "https://www.archdaily.com/1186668/cities-are-mental-weapons-utopian-hours-2026-returns-to-turin-with-sir-peter-cook-and-a-program-on-city-making",
+      "excerpt": "The second part of the Utopian Hours 2026 international city-making festival will be held in Turin on October 16 and 17. After a first chapter in Rotterdam, the festival is marking its tenth anniversa",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acc/35ee/7887/fb01/8910/6745/large_jpg/utopian-hours-2026_6.jpg?1791768073",
+      "today": true
     },
     {
       "source": "Dezeen",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Architecture is \"much the same\" as music says Daniel Libeskind",
-      "url": "https://www.dezeen.com/2026/10/11/daniel-libeskind-interview-key-projects/",
-      "excerpt": "As readers get their chance to have their say in this year's Dezeen Awards public vote, 2026 judge Daniel Libeskind talks to Dezeen about five projects that best represent his approach to design. The ",
-      "today": false
+      "date": "2026.10.12",
+      "title": "Not a Hotel to open Not a Museum at Imperial Hotel Plaza Tokyo ahead of demolition",
+      "url": "https://www.dezeen.com/2026/10/12/not-a-hotel-open-not-a-museum-imperial-plaza-hotel-tokyo/",
+      "excerpt": "Nota, the company behind hotelier Not a Hotel, is set to create its first cultural space with the opening of Not a Museum, which will be designed together with Tokyo creative collective SKWAT. The mix",
+      "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Dive into the sumptuous, layered richness of post-war Belgian modernism",
-      "url": "https://www.wallpaper.com/architecture/post-war-belgian-modernism",
-      "excerpt": "Post-war Belgian modernism put the fun into functional with quirky fixtures, unexpected tiles and monumental murals",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/gEVQiS5sKLKn3VNFUnWEic-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Discover the radical aesthetic experimentation of these Japanese photographers",
-      "url": "https://www.wallpaper.com/art/photography/khaio-japanese-women-artists-after-1945-review",
-      "excerpt": "In Luxembourg, the first exhibition in Europe dedicated to women artists from Japan, ‘Kaihō: Japanese Women Artists after 1945’, opens its doors",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/UjunoYYMKoANSfU9iddCwN-2476-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "Facha Architekti adds \"deliberately distinct\" red extension to former-pigsty home",
-      "url": "https://www.dezeen.com/2026/10/11/facha-architekti-red-extension-czech-pigsty-home/",
-      "excerpt": "Prague-based Facha Architekti has unveiled House With a Red Addition, a striking, red-corrugated-metal extension to a small family home in the Czech Republic. Located in the central Příbram region of ",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.11",
-      "title": "From Frank Lloyd Wright to Charles and Ray Eames, step inside the finest architects’ houses",
-      "url": "https://www.wallpaper.com/architecture/architects-houses-phaidon-book",
-      "excerpt": "‘Architects’ Houses’ is a new book from Phaidon that charts the homes of the world’s leading architects",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/kRJmMGo5wRKfy3pofg4Wi4-617-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
-      "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
-      "excerpt": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition.\nThe post stefan sagmeister and ekn transform global data into colorful sneakers",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt-143.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
-      "url": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
-      "excerpt": "developed over fourteen years, the film traces the chapels, memorials, and cultural spaces crafted by the pritzker prize-winning architect.\nThe post what you’ll see (in 3D) in the peter zumthor docume",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/wenders-zumthor-designboom-06.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.10",
-      "title": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
-      "url": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
-      "excerpt": "Mexico City-based Mariel Lozano Studio has designed interiors and furniture for a hospitality project in Mexico City, organising the compact space to create \"tranquillity\" and reduce clutter. San Luis",
-      "today": false
+      "date": "2026.10.12",
+      "title": "When the Outdoors Becomes Home: A New Generation of Outdoor Kitchens",
+      "url": "https://www.archdaily.com/1185499/when-the-outdoors-becomes-home-a-new-generation-of-outdoor-kitchens",
+      "excerpt": "Outdoor kitchens have evolved from exclusive luxury additions into natural extensions of the home. Gardens, terraces, and porches are being transformed into spaces for cooking and, above all, entertai",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a89/b92f/ac8b/af01/892c/e4ec/large_jpg/cuando-el-exterior-se-convierte-en-hogar-una-nueva-generacion-de-cocinas-al-aire-libre_1.jpg?1787410768",
+      "today": true
     },
     {
       "source": "大光電機",
