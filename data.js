@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.13  02:22",
+  "fetchedAt": "2026.10.13  09:59",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "Digital AV Magazine": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "銀座経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -45,7 +45,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Google ニュース": {
+    "ウォーカープラス": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,23 +53,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -113,6 +113,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Digital AV Magazine",
+      "cat": "展示・アート",
+      "date": "2026.10.13",
+      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
       "date": "2026.10.13",
@@ -122,11 +131,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
+      "source": "www.axismag.jp",
       "cat": "展示・アート",
       "date": "2026.10.13",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -145,15 +154,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.13",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "www.axismag.jp",
-      "cat": "展示・アート",
-      "date": "2026.10.13",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -212,11 +212,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Google ニュース",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.10.13",
-      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GVnhNd0FfVDlFS25zNUhSaUx6dXMwYU9vOEdKdEVwd2hfWTdiSUdvZHAxZUwtRlZkUVdlZGlQYUVMTWlmbkNLdGp3bDQzZw?oc=5",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -230,12 +230,150 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "Google ニュース",
       "cat": "展示・アート",
       "date": "2026.10.13",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GVnhNd0FfVDlFS25zNUhSaUx6dXMwYU9vOEdKdEVwd2hfWTdiSUdvZHAxZUwtRlZkUVdlZGlQYUVMTWlmbkNLdGp3bDQzZw?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Dr Martens unites with London’s rising fashion talent on a series of collaborations rooted in craft",
+      "url": "https://www.wallpaper.com/fashion-beauty/dr-martens-collaboration-london-designers-chopova-lowena-sage-nation-labrum",
+      "excerpt": "‘Statements in Craft’ sees the cult footwear brand unite with London-based designers Chopova Lowena, Sage Nation, Labrum and more on special-edition collections – part of a wider reinvigoration of the",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/G5KkctCx9SK4cJ88sarKiL-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "‘Armour is the idea of something that you put on to protect you’ – first view of Fernando Jorge’s new jewellery collection",
+      "url": "https://www.wallpaper.com/watches-jewellery/fernando-jorge-armour-collection-pad-london-2026",
+      "excerpt": "The Brazilian-born London-based jeweller debuts Armour at PAD London",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wdZVSviZaNzgMe9WeeeK48-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "designboom listens: jacques monneraud finds inspiration between music and silence",
+      "url": "https://www.designboom.com/art/designboom-listens-jacques-monneraud-inspiration-music-silence-interview/",
+      "excerpt": "from childhood road trips and french rap to film scores and absolute silence, the french ceramic artist reveals how music shapes his creative process, memories, and moments of concentration.\nThe post ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/designboom-listens-jacques-monneraud-inspiration-music-silence-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Cindy Sherman’s characters, draped in Chanel, interrogate ageing in London",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/cindy-shermans-characters-draped-in-chanel-interrogate-ageing-in-london",
+      "excerpt": "In 'Fabric Matrons' at Hauser & Wirth, Cindy Sherman considers what it means to get older",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4YRGcfxpJLvfPPfmJQFC3c-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "As Art Week hits London, don't miss Frieze Sculpture, an oasis in Regent's Park",
+      "url": "https://www.wallpaper.com/art/frieze-sculpture-2026",
+      "excerpt": "Frieze Sculpture unites 11 international artists as it returns for its 14th edition",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/uJwahCc9Y5BVNcZYhhhgzm.gif",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "fifty oak trees and stone-paved clearing shape contemporary italian piazza by ghisellini architetti",
+      "url": "https://www.designboom.com/architecture/fifty-oak-trees-stone-paved-clearing-contemporary-italian-piazza-ghisellini-architetti/",
+      "excerpt": "ghisellini architetti reorganizes public square madre francesca cabrini around shaded gathering areas, layered planting, and integrated rainwater systems that reconnect the town center with the surrou",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/ghisellini-architetti-public-square-madre-francesca-cabrini-italian-piazza-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Guerrilla Shading Pavilion demonstrates that \"shade doesn't need to be expensive or complicated\"",
+      "url": "https://www.dezeen.com/2026/10/13/shading-pavilion-camden-pearce-plus/",
+      "excerpt": "Architecture studio Pearce+ has created a timber pavilion in Camden, London, to draw attention to the need for shade in the UK and encourage people to build their own DIY shading. Commissioned by Camd",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Formafantasma creates \"travelling science exhibition\" for Prada and IOC",
+      "url": "https://www.dezeen.com/2026/10/13/prada-ioc-formafantasma-ocean-climate-village-exhibition/",
+      "excerpt": "Italian studio Formafantasma has created Ocean & Climate Village, an exhibition at fashion brand Prada's Luna Rossa base in Cagliari, Sardinia, that uses \"design as an educational tool\" to show the im",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Mexico City Architecture City Guide: 38 Projects From Tenochtitlan to the 21st Century",
+      "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+      "excerpt": "Mexico City is a sprawling metropolis of layered temporalities, where architecture operates as a continuous negotiation between deep-seated history and intense urban mutation. Built over the aquatic t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a41/1839/8481/2b01/8af5/0ade/large_jpg/mexico-city-architecture-city-guide-38-projects-from-tenochtitlan-to-the-21st-century_37.jpg?1782650950",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "District Six Restitution Housing / Jakupa Architects and Urban Designers",
+      "url": "https://www.archdaily.com/1186482/district-six-restitution-housing-jakupa-architects-and-urban-designers",
+      "excerpt": "The District Six Restitution Housing Project provides 108 homes for land claimants returning to the heart of Cape Town. The project draws inspiration from the historic District Six, characterized by i",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/4bab/07c3/d100/017f/dd29/large_jpg/01_-_Hero_Image.jpg?1791380427",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Eichler X-100, the ‘house of the future’, is seeking a new buyer",
+      "url": "https://www.wallpaper.com/architecture/residential/eichler-x-100-the-house-of-the-future-for-sale",
+      "excerpt": "Joseph Eichler’s iconic mid-century experimental steel house – Eichler X-100 – in Northern California is back on the market as it turns 70",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/3vzEZzowoDKuZUSKDcvoYd-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "four pitched-roof volumes build timber-clad coastal house in belgium",
+      "url": "https://www.designboom.com/architecture/four-pitched-roof-volumes-timber-clad-coastal-house-of-cards-belgium/",
+      "excerpt": "house of cards by vantieghem talebi follows the asymmetrical cruciform geometry of an existing foundation and draws on the steeply pitched roofs of traditional beach houses along the belgian coast.\nTh",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/house-of-cards-coastal-residence-koksijde-belgium-vantieghem-talebi-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "House OY / 1-1 Architects",
+      "url": "https://www.archdaily.com/1186209/house-oy-1-1-architects",
+      "excerpt": "This house is located in an urbanization control area in Anjo City, Aichi Prefecture. The client acquired the site by developing farmland under a branch-family provision, which resulted in a plot that",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abe/c55d/07c3/d100/017f/c977/large_jpg/L036_House_OY_adj.jpg?1790887287",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "The Nimbus - uBLOCK Healthcare Hospitality Lounge / LUKSTUDIO",
+      "url": "https://www.archdaily.com/1186672/the-nimbus-ublock-healthcare-hospitality-lounge-lukstudio",
+      "excerpt": "Lukstudio was invited by Shanghai United Imaging Healthcare to transform a 130-square-meter standalone building in Yishan Road Business Plaza into a ground-floor café and a second-floor private VIP lo",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acc/8808/b2c4/c300/0178/e916/large_jpg/Ublock_1F_Cafe__Dirk_Weiblen__2_.jpg?1791789095",
       "today": true
     },
     {
@@ -249,13 +387,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.12",
-      "title": "Apparatus reveals its first collection in five years – and it's as daring as you'd expect",
-      "url": "https://www.wallpaper.com/design-interiors/lighting/apparatus-act-v-collection",
-      "excerpt": "Encompassing furniture and lighting, the Act V collection is a mediation on creativity, knowledge and the cycles of life. Here's a first look",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/29Hukf26dv8W9p3tbMd4Rg-2000-80.jpg",
+      "title": "gasparetto parenti and olivier guyot shape hôtel massé’s creative world in paris",
+      "url": "https://www.designboom.com/architecture/gasparetto-parenti-olivier-guyot-hotel-masse-paris-pigalle-le-trente-restaurant/",
+      "excerpt": "one year after opening, the family-run hotel has become a gathering place for designers, artists and creatives in Paris' Pigalle neighborhood, bringing together contemporary art, interiors and a growi",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/gasparetto-parenti-olivier-guyot-hotel-masse-paris-pigalle-le-trente-restaurant-designboom-4.jpg",
       "today": false
     },
     {
@@ -269,112 +407,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Le Cornichon’s founders open new Paris nightspot, Le Poisson Volant",
-      "url": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening",
-      "excerpt": "Bertrand Chauveau and Paul Henri reunite with Claves Architecture to turn Paris’ former L’International into a restaurant and nightclub",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/coYCiytixkENGMxccpqWp6-1600-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "sculptures made of timber and steel occupy raw concrete shell in seoul before demolition",
-      "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
-      "excerpt": "ghost barstairs: temporary hypotheses brings experimental furniture, sculpture, and plywood structures into a vacant concrete building in seoul, using its exposed frame to explore the possibilities of",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/ghost-barstairs-temporary-hypotheses-exhibition-seoul-sukchulmok-kangyeon-lee-brbb-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.12",
       "title": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
       "url": "https://www.dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom/",
       "excerpt": "Dezeen Showroom: a collection of fully upholstered, pillowy seating comprising a sofa and armchair is among five new products featured on Dezeen Showroom. Profondo seating by Zenith Interiors Australi",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "At El Roblar hotel, Ojai's bohemian spirit finds a new home",
-      "url": "https://www.wallpaper.com/travel/hotels/el-roblar-ojai-hotel-review",
-      "excerpt": "A century-old Spanish Revival hotel returns to Ojai, bringing an eccentric collection of art, antiques and Californian character",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/d7ioAKyCSJdiiEYKDh8dg3-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Lima House / BLOCO Arquitetos",
-      "url": "https://www.archdaily.com/1032927/lima-house-bloco-arquitetos",
-      "excerpt": "The house is located on a plot in Lago Sul, a residential neighborhood in Brasília. Although the project was designed in 2016, its construction was completed in two phases, the first in 2018 and the s",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/688c/1db2/a805/bb75/6625/30c9/large_jpg/casa-lima-bloco-arquitetos_1.jpg?1754013122",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Hōsho House / israelpacheco arquitectos",
-      "url": "https://www.archdaily.com/1186659/hosho-house-israelpacheco-arquitectos",
-      "excerpt": "A burglary and a pressing need for privacy were the circumstances that shaped the core decisions of this project.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acb/d543/b2c4/c300/0178/e7fe/large_jpg/IMG_9144.jpg?1791744005",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "tarek atoui turns tate modern’s turbine hall into a giant experimental orchestra",
-      "url": "https://www.designboom.com/art/tarek-atoui-tate-modern-turbine-hall-giant-experimental-orchestra-installation-hyundai-commission/",
-      "excerpt": "the lebanese sound artist brings sculptural instruments and multisensory installations to london's turbine hall for the 2026 hyundai commission.\nThe post tarek atoui turns tate modern’s turbine hall i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tarek-atoui-tate-modern-turbine-hall-giant-experimental-orchestra-installation-hyundai-commission-designboom-5.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "BIG stacks floating terraces above green public space in tirana",
-      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania/",
-      "excerpt": "a translucent facade, slender columns, and an open ground plane shape a proposal that brings public space, community facilities, and the surrounding landscape into a single architectural framework.\nTh",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania-designbom-01.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Linho House / TETRO Arquitetura",
-      "url": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
-      "excerpt": "Located in a residential neighborhood in Nova Lima, Minas Gerais, the Linho House is more than just a residence—it is a narrative crafted in architecture. Directly inspired by its inhabitant, a fashio",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/689b/9b43/07ae/3401/89b5/21ea/large_jpg/casa-de-linho-tetro-arquitetura_1.jpg?1755028307",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "CMF bring their playful minimalism into portable audio with Speaker S and Speaker M",
-      "url": "https://www.wallpaper.com/tech/cmf-bring-their-playful-minimalism-into-portable-audio-with-speaker-s-and-speaker-m",
-      "excerpt": "The humble Bluetooth speaker gets a stylish new look courtesy of CMF’s Speakers S and M. Nothing’s sister company brings colour, creativity and simplicity to the genre",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/xKUKTNLpVtCKZBHQagtnHP-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Gustaf Westman unveils the first pieces from his Disney collaboration",
-      "url": "https://www.wallpaper.com/design-interiors/gustaf-westman-disney-announcement",
-      "excerpt": "Swedish designer Gustaf Westman brings his signature playful style to a new homeware collection inspired by Disney’s Mickey & Friends",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/tN4VKcQAmfx8NZ5Qtyce9E-1672-80.jpg",
       "today": false
     },
     {
@@ -397,50 +435,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "citroën revives the iconic 2 CV as a compact electric concept with a roll-up fabric roof",
-      "url": "https://www.designboom.com/technology/citroen-iconic-2-cv-compact-electric-concept-roll-up-fabric-roof-paris-motor-show-mondial/",
-      "excerpt": "unveiled at the 2026 paris motor show, citroën's 2 cv concept reinterprets the 1948 classic as a compact electric car measuring just 3.76 metres.\nThe post citroën revives the iconic 2 CV as a compact ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/citroen-iconic-2-cv-compact-electric-concept-roll-up-fabric-roof-paris-motor-show-mondial-designboom-5.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.12",
       "title": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia",
       "url": "https://www.dezeen.com/2026/10/12/grimshaw-visitor-centre-twelve-apostles-australia/",
       "excerpt": "Architecture studio Grimshaw and landscape architect Aspect Studios have completed a visitor experience centre for one of Australia's most-visited natural landmarks, the Twelve Apostles in Victoria. L",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Ten things to have on your radar ahead of Dutch Design Week 2026",
-      "url": "https://www.dezeen.com/2026/10/12/ten-exhibitions-installations-dutch-design-week-2026/",
-      "excerpt": "Dutch Design Week kicks off in Eindhoven this Saturday. To help you navigate the many exhibitions, installations and events taking place across the city, here are 10 of our picks. From 17 to 25 Octobe",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "Civil Protection Centre / Roland Baldi Architects",
-      "url": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
-      "excerpt": "Set between the wooded slopes of the Venosta Valley and Oris – a hamlet in Lasa - the new Civil Protection Centre makes a confident architectural statement. Constructed from green-pigmented insulating",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/10d8/07c3/d100/017f/dc02/large_jpg/_DR62441B.jpg?1791365405",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.12",
-      "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
-      "url": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
-      "excerpt": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountai",
       "today": false
     },
     {
