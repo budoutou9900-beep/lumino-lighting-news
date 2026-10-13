@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.13  17:27",
+  "fetchedAt": "2026.10.13  22:12",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,15 +57,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -239,6 +239,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "‘the body is my canvas, tool, and medium’: lucy mcrae discusses identity and the spaces we carry",
+      "url": "https://www.designboom.com/art/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview/",
+      "excerpt": "from swallowable cosmetics to speculative costumes, the artist and designer uses worldbuilding to make emerging technologies tangible, asking how they might reshape our bodies, identities, and relatio",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "A captivating new book offers a look inside the 'astonishing' Chicago headquarters of Ebony and Jet magazines",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/a-captivating-new-book-offers-a-look-inside-the-astonishing-chicago-headquarters-of-ebony-and-jet-magazines",
+      "excerpt": "The vibrant interiors, photographed by Barbara Karant, not only document the vestiges of a thriving media empire, but of the dynamic expressions of Black life",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pphxjLEU45qyUUfhKJW9rg-1920-80.jpg",
+      "today": true
+    },
+    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.13",
@@ -277,6 +297,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "KatNap House / Nutum Estudio",
+      "url": "https://www.archdaily.com/1186760/katnap-house-nutum-estudio",
+      "excerpt": "We find ourselves on the coast of Sisal, an ancient fishing and commercial port bathed by the waters of the Gulf of Mexico. Upon its sand, a small residence stands as a contemporary refuge anchored in",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/7c2a/b2c4/c300/0178/ee36/large_jpg/DJI_20260824183026_0231_D_copia.jpg?1791917170",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.13",
@@ -307,13 +337,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.13",
-      "title": "Hermès reframes traditional textile crafts with the Arceau Cheval Natté watch",
-      "url": "https://www.wallpaper.com/watches-jewellery/hermes-arceau-cheval-natte-watch",
-      "excerpt": "Silk-thread marquetry paints a picture on the dial of the new limited-edition watch",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/dJ3Dy5wAWYFZdoSWbnkJze-1588-80.jpg",
+      "title": "Coral House / Sidney Quintela Architecture + Urban Planning",
+      "url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
+      "excerpt": "Located on Praia do Forte, on the northern coast of Bahia, Casa Coral is a project designed by architect Sidney Quintela that accurately translates the concept of contemporary tropical architecture. W",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/688c/a379/4460/0500/01e0/d202/large_jpg/Sidney_Quintela_-_Faf__-_72dpi_-_Foto_Gabriela_Daltro_-_Rev_1--15-min.jpg?1754047408",
       "today": true
     },
     {
@@ -353,16 +383,6 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/prado-museum-masterpieces-free-roam-virtual-tour-brooklyn/",
       "excerpt": "debuting at powerhouse arts, acciona cultura and the museo del prado transform classical masterpieces into a 30-minute free-roam VR tour, blending curatorial rigor with spatial storytelling.\nThe post ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/acciona-cultural_masterpieces-virtual-experience-of-the-museo-del-padro_designboom_facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "fifty oak trees and stone-paved clearing shape contemporary italian piazza by ghisellini architetti",
-      "url": "https://www.designboom.com/architecture/fifty-oak-trees-stone-paved-clearing-contemporary-italian-piazza-ghisellini-architetti/",
-      "excerpt": "ghisellini architetti reorganizes public square madre francesca cabrini around shaded gathering areas, layered planting, and integrated rainwater systems that reconnect the town center with the surrou",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/ghisellini-architetti-public-square-madre-francesca-cabrini-italian-piazza-designboom-1200.jpg",
       "today": true
     },
     {
@@ -411,26 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186100/jihlava-municipal-arena-chybik-plus-kristof",
       "excerpt": "Designed by architecture practice CHYBÍK + KRIŠTOF, the Jihlava Municipal Arena is a 5,650-seat sports and culture venue in the heart of Jihlava, Czech Republic. The project, commissioned via a compet",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/47bf/961f/6d01/8908/0f78/large_jpg/jihlava-municipal-arena-chybik-plus-kristof_3.jpg?1790789629",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "Built-in Agility and the Architecture of the Infinite Lifecycle",
-      "url": "https://www.archdaily.com/1186391/built-in-agility-and-the-architecture-of-the-infinite-lifecycle",
-      "excerpt": "While architecture often responds to a specific program of uses, taking into account areas, contexts, and various economic and technical conditions, buildings rarely remain the same throughout their l",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac4/6637/27ac/8d01/89cb/bab1/large_jpg/built-in-agility-and-the-architecture-of-the-infinite-lifecycle_2.jpg?1791256133",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "On the International Day for Disaster Risk Reduction: \"Resilience Starts at Home\"",
-      "url": "https://www.archdaily.com/1186395/on-the-international-day-for-disaster-risk-reduction-resilience-starts-at-home",
-      "excerpt": "Every year on October 13, the International Day for Disaster Risk Reduction (IDDRR) draws attention to the ways communities can reduce exposure and vulnerability to hazards. Established by the United ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac4/d618/90e2/9d01/89d2/e2a5/large_jpg/on-the-international-day-for-disaster-risk-reduction-resilience-starts-at-home_15.jpg?1791284769",
       "today": true
     },
     {
