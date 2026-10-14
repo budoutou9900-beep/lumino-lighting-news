@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.14  01:32",
+  "fetchedAt": "2026.10.14  07:00",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "Time Out Tokyo": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Time Out Tokyo": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -57,27 +57,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ArchDaily": {
+    "designboom": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "IGNANT": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "IGNANT": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -212,20 +212,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.10.14",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Time Out Tokyo",
       "cat": "展示・アート",
       "date": "2026.10.14",
       "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.10.14",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -236,6 +236,56 @@ window.LUMINO_DATA = {
       "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GVnhNd0FfVDlFS25zNUhSaUx6dXMwYU9vOEdKdEVwd2hfWTdiSUdvZHAxZUwtRlZkUVdlZGlQYUVMTWlmbkNLdGp3bDQzZw?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "At Frieze, the Tiffany & Co-supported Artist-to-Artist programme spotlights emerging talent",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/artist-to-artist-frieze-london-yinka-shonibare-unathi-mkonto-interview",
+      "excerpt": "Yinka Shonibare invites South African artist Unathi Mkonto to Frieze London 2026 for Artist-to-Artist, sponsored by Tiffany & Co",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DKhqiUaeSnKpCsyyiXuSDC.gif",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Step inside Cloud House’s ice-cream-parlour colours and candy-floss feel",
+      "url": "https://www.wallpaper.com/architecture/residential/cloud-house-peter-morris-london-uk",
+      "excerpt": "A joyful home by architect Peter Morris brings a splash of pink to its leafy neighbourhood in north London, celebrating individuality and fun",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/6SLdkJ9ZxYJ7Wm4PWycQLV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "1-54 Contemporary African Art Fair opens in London this week – here’s what we’re looking forward to",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/1-54-contemporary-african-art-fair-london-2026-guide",
+      "excerpt": "1-54 London 2026, at Somerset House from 15 to 18 October 2026, shines a light on contemporary artists from Africa and the diaspora",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/GjzV4DNSHZP9aYRcYbQJzS-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "新製品",
+      "date": "2026.10.14",
+      "title": "納入事例に住宅物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Shanghai Science and Technology Investment Tower Mixed-Use Development  / NBBJ",
+      "url": "https://www.archdaily.com/1186717/shanghai-science-and-technology-investment-tower-mixed-use-development-nbbj",
+      "excerpt": "Located in the core business district of Zhangjiang Science City, the Shanghai Science and Technology Investment Tower project features office, retail and hotel functions. It is designed to attract cu",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acd/e63d/b2c4/c300/0178/eb8b/large_jpg/17__SFAP.jpg?1791878773",
       "today": true
     },
     {
@@ -346,36 +396,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "Paul McCartney unites 61 artists to create original work in aid of War Child",
-      "url": "https://www.wallpaper.com/art/paul-mccartney-artist-warchild-auction",
-      "excerpt": "Genieve Figgis, Alvaro Barrington, Joshua Donkor, Sanya Kantarovsky, Aleah Chapin, Anne Rothenstein and George Underwood are among the visual artists responding to Paul McCartney’s ‘Band on the Run’ l",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oCD4KDQfhLhpjsEEc5tZsF-2516-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "What’s new and notable at Mondial de l’Auto 2026, from sporting concepts to compact city cars",
-      "url": "https://www.wallpaper.com/transportation/paris-motor-show-2026-review",
-      "excerpt": "Is the much-heralded Euro-renaissance in car design a real thing and what exactly is it up against? We take a tour of the Paris Motor Show to find out",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HmwXrnk9R9TcHqVWpqGMH5-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "Noe Kuremoto reconciles contemporary craft with Japan’s ancestral mythology",
-      "url": "https://www.wallpaper.com/design-interiors/noe-kuremoto-pad-2026-collectible-design",
-      "excerpt": "PAD London 2026 preview: Noe Kuremoto creates clay objects that speak of Japan’s ancestral traditions, her experience as a mother, and the role of the artist in today’s world",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/c6uuZqmnKoqZuozYBKiPQc-2560-80.jpg",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.13",
@@ -424,16 +444,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "AXE / GENS",
-      "url": "https://www.archdaily.com/1186224/axe-gens",
-      "excerpt": "The Revémont chapel has first lost its religious use and then threatened to fall into ruins. Committed to this collective heritage, the municipality that owns it has decided to transform it into an un",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/6dee/07c3/d100/017f/cad1/large_jpg/GENS_VIV_11_photo_L.Cerveny.jpg?1790930469",
-      "today": false
-    },
-    {
       "source": "IGNANT",
       "cat": "デザイン",
       "date": "2026.10.12",
@@ -441,16 +451,6 @@ window.LUMINO_DATA = {
       "url": "https://www.ignant.com/2026/10/12/design-beyond-form-at-home-with-tomas-fernandes-and-natasza-grzeskiewicz-of-further-ther/",
       "excerpt": "The post Design Beyond Form: At Home with Tomás Fernandes and Natasza Grzeskiewicz of Further Ther appeared first on IGNANT.",
       "thumbnailUrl": "https://www.ignant.com/wp-content/uploads/2026/10/ignant-furtherther-lisbon-clemens-poloczek-28.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "新製品",
-      "date": "2026.10.09",
-      "title": "納入事例に住宅物件、飲食店物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
