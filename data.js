@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.13  22:12",
+  "fetchedAt": "2026.10.14  01:32",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -53,7 +53,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "Google ニュース": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -115,7 +115,7 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
       "excerpt": "",
@@ -124,7 +124,7 @@ window.LUMINO_DATA = {
     {
       "source": "Digital AV Magazine",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
@@ -133,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -142,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -151,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -160,7 +160,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -169,7 +169,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -178,7 +178,7 @@ window.LUMINO_DATA = {
     {
       "source": "KNB WEB",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
@@ -187,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVTMyZjFwLW9aalNGT0VLdjJubE1jOEozRGNaU1BUczVhczZnZkxsTXczNDUwTlU3QVY3OUpqU05tRDdkRDVuX1FncVpWTmNLWDgzbzhzY2R6bXZvR1ZTQmtYYlV6UWlfTVczVl9B?oc=5",
       "excerpt": "",
@@ -196,7 +196,7 @@ window.LUMINO_DATA = {
     {
       "source": "アメーバブログ",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
@@ -205,7 +205,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
@@ -214,7 +214,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
@@ -223,20 +223,30 @@ window.LUMINO_DATA = {
     {
       "source": "Time Out Tokyo",
       "cat": "展示・アート",
-      "date": "2026.10.13",
+      "date": "2026.10.14",
       "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "夜景FAN",
+      "source": "Google ニュース",
       "cat": "展示・アート",
-      "date": "2026.10.13",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
+      "date": "2026.10.14",
+      "title": "12/20(土)～2026/2/14(土)『軽井沢白糸の滝 真冬のライトアップ’25～’26～光と映像ショー～』白糸の滝が幻想的な光で彩られる真冬の恒例イベントが今年も開催【2025-2026年 長野県イルミネーション】＠軽井沢町 - Web-Komachi",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GVnhNd0FfVDlFS25zNUhSaUx6dXMwYU9vOEdKdEVwd2hfWTdiSUdvZHAxZUwtRlZkUVdlZGlQYUVMTWlmbkNLdGp3bDQzZw?oc=5",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "wheeled pencil cabinet’s yellow and pink drawers draw from armenian volcanic stone heritage",
+      "url": "https://www.designboom.com/design/wheeled-pencil-cabinet-yellow-pink-drawers-armenian-volcanic-stone-heritage-shushana-khachatrian-studio-shoo/",
+      "excerpt": "shushana khachatrian of studio shoo designs the tuff pencil cabinet, a colorful, wheeled storage piece inspired by yerevan’s pink volcanic tuff and the chalk drawings found on its porous surfaces.\nThe",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tuff-pencil-cabinet-shushana-khachatrian-studio-shoo-pink-volcanic-tuff-stone-designboom-1200-1.jpg",
+      "today": false
     },
     {
       "source": "designboom",
@@ -246,7 +256,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview/",
       "excerpt": "from swallowable cosmetics to speculative costumes, the artist and designer uses worldbuilding to make emerging technologies tangible, asking how they might reshape our bodies, identities, and relatio",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -256,7 +266,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/a-captivating-new-book-offers-a-look-inside-the-astonishing-chicago-headquarters-of-ebony-and-jet-magazines",
       "excerpt": "The vibrant interiors, photographed by Barbara Karant, not only document the vestiges of a thriving media empire, but of the dynamic expressions of Black life",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/pphxjLEU45qyUUfhKJW9rg-1920-80.jpg",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "OMA to convert Houston coffee plant into music school with instrument-informed architecture",
+      "url": "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/",
+      "excerpt": "Architecture studio OMA has broken ground on the Frank Liu Jr Academy for Music and Arts charter school in Houston, a pre-K through eighth-grade institution housed in a former coffee plant. The three-",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "PH Dickman / PH TIPO CASA",
+      "url": "https://www.archdaily.com/1186772/ph-dickman-ph-tipo-casa",
+      "excerpt": "PH Dickman is a project that explores the recurring idea of developing our resourcefulness and inventiveness as professionals, where what truly stands out is that extra value created when something is",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/a0e6/b2c4/c300/0178/ef21/large_jpg/21_PH_DICKMAN.jpg?1791927372",
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -265,7 +294,17 @@ window.LUMINO_DATA = {
       "title": "Wheeler Kearns Architects staggers brown-metal house on Lake Michigan shore",
       "url": "https://www.dezeen.com/2026/10/13/timber-lane-retreat-wheeler-kearns-architects/",
       "excerpt": "US studio Wheeler Kearns Architects has completed a brown-metal and limestone house organised around a courtyard on the shore of Lake Michigan, in Michigan, USA. Known as Timber Lane Retreat, the 2026",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.13",
+      "title": "Main House / messina | rivas",
+      "url": "https://www.archdaily.com/1034259/house-sede-messina-rivas",
+      "excerpt": "The design of the Main House is located in the valleys of the Serra do Mar near Pedra da Macela, a tourist spot in the region of Cunha, where it is possible to see the sea, the mountains, and the city",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/68c9/e6d2/d84f/6b73/24ae/379c/large_jpg/casa-sede-messina-rivas_36.jpg?1758062302",
+      "today": false
     },
     {
       "source": "designboom",
@@ -275,7 +314,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/garden-perkinswill-sao-paulo-office-tower-two-stacked-volumes-jeronimo-faria-lima/",
       "excerpt": "jeronimo faria lima combines a screen-printed glass facade, two stacked volumes, and an elevated garden, using patterned glazing and planted terraces to shape the tower’s appearance and connect it wit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/jeronimo-faria-lima-perkins-will-corporate-tower-sao-paulo-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -285,7 +324,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/fashion-beauty/best-fashion-happenings-frieze-london-2026-schedule",
       "excerpt": "The best fashion happenings to add to your Frieze London 2026 schedule, from Dunhill’s curation of talks at Frieze Masters to a Cerith Wyn Evans’ exhibition at JW Anderson’s Pimlico address",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ymS9uLNMxFfZFjgYWQhdFX-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -294,7 +333,7 @@ window.LUMINO_DATA = {
       "title": "Waterfront designed to support magpie population among projects from Shanghai Jiao Tong University",
       "url": "https://www.dezeen.com/2026/10/13/architecture-spatial-systems-shanghai-jiao-tong-university-schoolshows/",
       "excerpt": "Dezeen School Shows: a proposal that integrates findings from magpie behavioural research into the landscape design of a Melbourne waterfront is among the projects from students at Shanghai Jiao Tong ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -304,7 +343,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186760/katnap-house-nutum-estudio",
       "excerpt": "We find ourselves on the coast of Sisal, an ancient fishing and commercial port bathed by the waters of the Gulf of Mexico. Upon its sand, a small residence stands as a contemporary refuge anchored in",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/7c2a/b2c4/c300/0178/ee36/large_jpg/DJI_20260824183026_0231_D_copia.jpg?1791917170",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -314,7 +353,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/art/paul-mccartney-artist-warchild-auction",
       "excerpt": "Genieve Figgis, Alvaro Barrington, Joshua Donkor, Sanya Kantarovsky, Aleah Chapin, Anne Rothenstein and George Underwood are among the visual artists responding to Paul McCartney’s ‘Band on the Run’ l",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/oCD4KDQfhLhpjsEEc5tZsF-2516-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -324,7 +363,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/paris-motor-show-2026-review",
       "excerpt": "Is the much-heralded Euro-renaissance in car design a real thing and what exactly is it up against? We take a tour of the Paris Motor Show to find out",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/HmwXrnk9R9TcHqVWpqGMH5-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -334,7 +373,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/noe-kuremoto-pad-2026-collectible-design",
       "excerpt": "PAD London 2026 preview: Noe Kuremoto creates clay objects that speak of Japan’s ancestral traditions, her experience as a mother, and the role of the artist in today’s world",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/c6uuZqmnKoqZuozYBKiPQc-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -344,7 +383,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
       "excerpt": "Located on Praia do Forte, on the northern coast of Bahia, Casa Coral is a project designed by architect Sidney Quintela that accurately translates the concept of contemporary tropical architecture. W",
       "thumbnailUrl": "https://images.adsttc.com/media/images/688c/a379/4460/0500/01e0/d202/large_jpg/Sidney_Quintela_-_Faf__-_72dpi_-_Foto_Gabriela_Daltro_-_Rev_1--15-min.jpg?1754047408",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -354,7 +393,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/david-altrath-architectural-photography-experience-space-guest-essay/",
       "excerpt": "in a personal reflection on his practice, the architectural photographer considers what happens between experiencing a building in person and translating that experience into a photograph.\nThe post ar",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/david-altrath-architectural-photography-experience-space-guest-essay-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -364,7 +403,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/technology/fiat-multiplay-concept-family-car-pickup-sliding-rear-module-paris-motor-show-2026/",
       "excerpt": "fiat unveils the multiplay concept car at the 2026 paris motor show, with a sliding rear module that transforms a family vehicle into a pickup.\nThe post fiat multiplay concept transforms family car in",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/fiat-multiplay-concept-family-car-pickup-sliding-rear-module-paris-motor-show-2026-designboom-5-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -373,17 +412,7 @@ window.LUMINO_DATA = {
       "title": "Openings \"dissolve boundaries\" at Sable House by Allan Joyce Architects",
       "url": "https://www.dezeen.com/2026/10/13/sable-house-allan-joyce-architects/",
       "excerpt": "Local studio Allan Joyce Architects used courtyards and covered walkways to connect this charred timber-clad home in Nottinghamshire, UK, to its countryside surroundings. Perched on a verdant plot, th",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "five prado masterpieces cross the atlantic for a free-roam virtual tour in brooklyn",
-      "url": "https://www.designboom.com/art/prado-museum-masterpieces-free-roam-virtual-tour-brooklyn/",
-      "excerpt": "debuting at powerhouse arts, acciona cultura and the museo del prado transform classical masterpieces into a 30-minute free-roam VR tour, blending curatorial rigor with spatial storytelling.\nThe post ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/acciona-cultural_masterpieces-virtual-experience-of-the-museo-del-padro_designboom_facebook.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -392,7 +421,7 @@ window.LUMINO_DATA = {
       "title": "\"Pioneering conservationist\" Donald Insall dies aged 100",
       "url": "https://www.dezeen.com/2026/10/13/donald-insall-dies-aged-100/",
       "excerpt": "Architect Donald Insall, founder of Donald Insall Associates and known for his conservation and renovation work, including on Windsor Castle, has died at the age of 100. Insall, whose death was announ",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -402,36 +431,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186224/axe-gens",
       "excerpt": "The Revémont chapel has first lost its religious use and then threatened to fall into ruins. Committed to this collective heritage, the municipality that owns it has decided to transform it into an un",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/6dee/07c3/d100/017f/cad1/large_jpg/GENS_VIV_11_photo_L.Cerveny.jpg?1790930469",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "Guerrilla Shading Pavilion demonstrates that \"shade doesn't need to be expensive or complicated\"",
-      "url": "https://www.dezeen.com/2026/10/13/shading-pavilion-camden-pearce-plus/",
-      "excerpt": "Architecture studio Pearce+ has created a timber pavilion in Camden, London, to draw attention to the need for shade in the UK and encourage people to build their own DIY shading. Commissioned by Camd",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "Urban Agoras: How Skateparks Can Give Public Space Back to the City",
-      "url": "https://www.archdaily.com/1036121/rethinking-public-space-through-a-skateboarders-eyes",
-      "excerpt": "Created by California surfers who wanted to bring the lines of surfing onto asphalt, skateboarding soon outgrew its role as a simple alternative for flat days. It established itself as a practice that",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/691b/1fc9/a5d4/4801/7edd/471f/large_jpg/how-skateboarding-is-redefining-urban-space_36.jpg?1763385304",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "Jihlava Municipal Arena / CHYBÍK + KRIŠTOF",
-      "url": "https://www.archdaily.com/1186100/jihlava-municipal-arena-chybik-plus-kristof",
-      "excerpt": "Designed by architecture practice CHYBÍK + KRIŠTOF, the Jihlava Municipal Arena is a 5,650-seat sports and culture venue in the heart of Jihlava, Czech Republic. The project, commissioned via a compet",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6abd/47bf/961f/6d01/8908/0f78/large_jpg/jihlava-municipal-arena-chybik-plus-kristof_3.jpg?1790789629",
-      "today": true
+      "today": false
     },
     {
       "source": "IGNANT",
