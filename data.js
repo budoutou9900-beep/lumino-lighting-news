@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.14  17:44",
+  "fetchedAt": "2026.10.14  21:12",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -61,11 +61,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -242,6 +242,25 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.14",
+      "title": "Sylvan Rock was designed by S3 Architecture with Aston Martin. Now the house is for sale",
+      "url": "https://www.wallpaper.com/architecture/residential/sylvan-rock-was-designed-by-s3-architecture-with-aston-martin-now-the-house-is-for-sale",
+      "excerpt": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9hef8LMcUT77bAacxRna4G-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Behnaz Farahi creates Ocean of Dreams video installation for MIT Future Fest",
+      "url": "https://www.dezeen.com/2026/10/14/behnaz-farahi-ocean-of-dreams-mit/",
+      "excerpt": "US-based designer Behnaz Farahi and the Critical Matter Group at the MIT Media Lab have projected sounds and video of the ocean alongside crowd-sourced messages into a public square for the university",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.14",
       "title": "You can now stay in this restored Jean Prouvé house on the French Riviera",
       "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera",
       "excerpt": "Rescued in Alsace and restored in Nancy, Maison Prouvé 58 joins Les Maisons CAB on the grounds of a Provençal mas below Saint-Paul-de-Vence",
@@ -289,13 +308,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "A photo exhibition of midcentury delights ushers in Palm Springs Modernism Week preview",
-      "url": "https://www.wallpaper.com/architecture/tag-christof-exhibition-herman-miller-palm-springs-usa",
-      "excerpt": "Photographer Tag Christof’s show at Herman Miller's new retail location explores the region's modernist legacy just in time for the Palm Springs Modernism Week preview",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZfnXsD5rJcj2CtVijGmzfE-1222-80.jpg",
+      "title": "Casa Emilio Delporte / Citic",
+      "url": "https://www.archdaily.com/1186768/casa-emilio-delporte-citic",
+      "excerpt": "Casa Emilio Delporte emerges as an architectural journey rooted in the biology of love, recognizing that a true home is a dwelling in harmony between its inhabitants and the ecological niche that embr",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/9ae5/b2c4/c300/0178/eee8/large_jpg/CED-_IGNACIOSQUELLA-6.jpg?1791925069",
       "today": true
     },
     {
@@ -412,25 +431,6 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186781/architecture-and-design-film-festival-adff-toronto",
       "excerpt": "The Architecture & Design Film Festival (ADFF) returns to Toronto, with a fresh fall lineup of films, panel conversations, and social gatherings at the TIFF Lightbox from November 4-7, 2026.\nPresented",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/e494/b2c4/c300/0178/f02d/large_jpg/TOR_2026_27_1920_X_1080.png.jpg?1791943838",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Learning Through Practice: Why Architecture Students Enter Competitions",
-      "url": "https://www.archdaily.com/1186680/learning-through-practice-why-architecture-students-enter-competitions",
-      "excerpt": "On paper, entering an architecture competition is one of the most challenging things an architecture student can do. What draws students to them is the chance to experiment, approaching a loosely defi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acc/b982/c599/0e01/8860/0d1a/large_jpg/competing-to-learn-why-architecture-students-enter-competitions_6.jpg?1791801745",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "NASA-backed research project creates 3D-printed cookies from plastic",
-      "url": "https://www.dezeen.com/2026/10/14/microbites-plastic-cookies-southern-illinois-university-carbondale/",
-      "excerpt": "Researchers at Southern Illinois University Carbondale have developed a 3D-printed cookie for space travel, using yeast to transform plastic and agricultural waste into an edible, protein-rich food. N",
       "today": true
     },
     {
