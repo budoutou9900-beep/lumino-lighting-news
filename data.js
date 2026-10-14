@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.14  12:47",
+  "fetchedAt": "2026.10.14  17:44",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -242,30 +242,99 @@ window.LUMINO_DATA = {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "Tour an elegant family house in the Spanish city of Sabadell",
-      "url": "https://www.wallpaper.com/architecture/residential/house-934-sp57-exitprojectes-minimalist-spain",
-      "excerpt": "House 934 SP57 by Exitprojectes is a meticulously planned domestic utopia that draws on modernism, minimalism and the warmth of wood, craft and light",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NvcfMk7tyjSKoDCZUwDXt4-2560-80.jpg",
+      "title": "You can now stay in this restored Jean Prouvé house on the French Riviera",
+      "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera",
+      "excerpt": "Rescued in Alsace and restored in Nancy, Maison Prouvé 58 joins Les Maisons CAB on the grounds of a Provençal mas below Saint-Paul-de-Vence",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FAWLM5FLcGxBSWzTeiUPTH-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "how the spectacular set design of alejandro g. iñárritu’s digger unveils a wild masterpiece",
+      "url": "https://www.designboom.com/design/set-design-alejandro-g-inarritu-digger-wild-film-masterpiece/",
+      "excerpt": "a story about the most powerful man in the world and the environmental catastrophe he unleashed turns out to be something else entirely, and with every shift the disaster moves a little closer to the ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/digger-set-design-alejandro-inarritu-movie-designboom-1200.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "Louise Giovanelli zooms in on the beautifully strange and the strangely beautiful at White Cube",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview",
-      "excerpt": "The Manchester-based artist captures 'beauty with an edge' in her new show at the London gallery",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/LxEA8Q9cjSqSLU6C3oWtQ6-1920-80.png",
+      "title": "Benjamin Moore’s 2027 Colour of the Year is bursting with ‘optimistic energy’",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/benjamin-moore-color-of-the-year-2027",
+      "excerpt": "See why this verdant hue will be trending in the year ahead – and well beyond",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wGgCm7hwbqyrNWvCkguKUM-2000-80.jpg",
       "today": true
     },
     {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "Behind the design of Lara Worthington’s new beauty brand, Ommage",
-      "url": "https://www.wallpaper.com/fashion-beauty/lara-worthington-ommage-beauty-brand",
-      "excerpt": "Model Lara Worthington and graphic designer Brian Roettinger discuss how they designed a beauty brand that celebrates imperfection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/p7RVN2pKDexLdQpsE98kJ5-2560-80.jpg",
+      "title": "‘There is an incredible clarity to his vision’: Sophie Bille Brahe and Juergen Teller make her high jewellery dazzle",
+      "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery/sophie-bille-brahe-tangerine-sky-collection-juergen-teller",
+      "excerpt": "The Danish jewellery designer tells us about working with photographer Juergen Teller to capture her debut high jewellery collection",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Uxqbw83zKtVNTnkzrPTwL-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Five new names to know in collectible design",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "excerpt": "New talents defining contemporary collectible design to discover at PAD London 2026 (until 16 October), from innovative woodworking to ancestral ceramics, contemporary bronze work and resin that looks",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4YRkyghYcxmcpKxpUhJaPn-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "A photo exhibition of midcentury delights ushers in Palm Springs Modernism Week preview",
+      "url": "https://www.wallpaper.com/architecture/tag-christof-exhibition-herman-miller-palm-springs-usa",
+      "excerpt": "Photographer Tag Christof’s show at Herman Miller's new retail location explores the region's modernist legacy just in time for the Palm Springs Modernism Week preview",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ZfnXsD5rJcj2CtVijGmzfE-1222-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "frame to folly transforms from carnival gateway to neighborhood teahouse in pittsburgh",
+      "url": "https://www.designboom.com/architecture/frame-to-folly-carnival-gateway-neighborhood-teahouse-pittsburgh-architectural-crafts-collective-partlab/",
+      "excerpt": "frame to folly, a collaborativde project between architectural crafts collective, partlab, and neighborhood allies, is a modular timber pavilion developed for different sites and community uses in pit",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/frame-to-folly-modular-timber-pavilion-pittsburgh-architectural-crafts-collective-partlab-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Omar Gandhi designs house and studio with \"striking silhouette\" for furniture maker",
+      "url": "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
+      "excerpt": "Omar Gandhi Architects has collaborated with furniture maker Brodye Chappell to build a house and workshop with a corrugated metal facade on Prince Edward Island, Canada. Located in the agricultural a",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Padre Luís Cabral Building / Hori-zonte",
+      "url": "https://www.archdaily.com/1186822/padre-luis-cabral-building-hori-zonte",
+      "excerpt": "In Porto, a three-story residential building integrates passive strategies into its very layout, balancing solar orientation, cross-ventilation, privacy, and a connection with nature.",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac0/188a/07c3/d100/017f/cd7e/large_jpg/hori-zonteCoralFN0000-HEAD.jpg?1790974130",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Wild Pond Villa / L. McComber",
+      "url": "https://www.archdaily.com/1186824/wild-pond-villa-l-mccomber",
+      "excerpt": "Following the complete demolition of her modest 1970s cottage, ravaged by fire, a Montrealer set out to rebuild her country retreat with a Mediterranean spirit, embracing the peaceful landscape of thi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/7a9e/b2c4/c300/0178/f2fa/large_jpg/villa-sauvage-reconstruction-maison-apr_s-incendie-feu-chalet-_tang-lac-estrie-fen_tres-vue-montagne-pilotis-bois-ch_ne-blanc-pruche-courbe-arche_A18_LMcComber-architecture.jpg?1791982356",
       "today": true
     },
     {
@@ -308,26 +377,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Frieze London 2026: Live updates from the Wallpaper* team",
-      "url": "https://www.wallpaper.com/art/live/frieze-london-2026-live-updates-from-the-wallpaper-team",
-      "excerpt": "As Frieze London (14-18 October) opens its doors, discover what is going on around the city, as seen by the Wallpaper* team",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/zsSELDrho3u3bGBJCXA4ob-1920-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "mediclinics all-in-one stops water drippage and moving to scattered dispensers",
-      "url": "https://www.designboom.com/design/mediclinics-all-in-one-hand-hygiene-station/",
-      "excerpt": "no water drippage, no scattered dispensers, and no extra movement, the mediclinics all-in-one hand hygiene station creates clean, minimal restrooms.\nThe post mediclinics all-in-one stops water drippag",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/mediclinics-all-in-one-designboom-facebook.jpg",
-      "today": true
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.14",
@@ -337,13 +386,13 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "designboom",
+      "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "renewed 1983 bathhouse in japan preserves tilework and curved interiors",
-      "url": "https://www.designboom.com/architecture/renewed-1983-bathhouse-japan-tilework-curved-interiors-mabi-architects-shizunoyu-fukushima/",
-      "excerpt": "shizunoyu fukushima is a renovation project that transforms enmeiyu, a public bathhouse designed by architect yoshiji takehara in 1983, into a bathing facility exclusively for men.\nThe post renewed 19",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/mabi-architects-enmeiyu-public-bathhouse-1983-shizunoyu-fukushima-designboom-1200.jpg",
+      "title": "Wilnsdorf Primary School and Sports Hall / BUERO BB",
+      "url": "https://www.archdaily.com/1186599/wilnsdorf-primary-school-and-sports-hall-buero-bb",
+      "excerpt": "Set into a wooded slope in western Germany, Wilnsdorf Primary School combines timber, regional precast concrete, and concrete recycled from a demolished local viaduct into a compact building for learn",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac7/f66c/b2c4/c300/0178/e3a1/large_jpg/09__SebastianSchels.jpg?1791491626",
       "today": true
     },
     {
@@ -359,60 +408,20 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "Cabin Ostøya / R21 Arkitekter",
-      "url": "https://www.archdaily.com/1186290/cabin-ostoya-r21-arkitekter",
-      "excerpt": "The project forms part of the coastal protection plan of the municipality of Bærum and is located on the island of Ostøya, overlooking the open landscape of the fjord. The new cabin occupies the footp",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac3/6d25/07c3/d100/017f/cedd/large_jpg/Bryggeveien_Int_05_kopi.jpg?1791192583",
+      "title": "Architecture & Design Film Festival (ADFF): Toronto",
+      "url": "https://www.archdaily.com/1186781/architecture-and-design-film-festival-adff-toronto",
+      "excerpt": "The Architecture & Design Film Festival (ADFF) returns to Toronto, with a fresh fall lineup of films, panel conversations, and social gatherings at the TIFF Lightbox from November 4-7, 2026.\nPresented",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/e494/b2c4/c300/0178/f02d/large_jpg/TOR_2026_27_1920_X_1080.png.jpg?1791943838",
       "today": true
     },
     {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "Geometry that Generates Energy: The Solar Facade of Breidablikk Gården, Norway",
-      "url": "https://www.archdaily.com/1186285/geometry-that-generates-energy-the-solar-facade-of-breidablikk-garden-norway",
-      "excerpt": "Solar panels are often treated as equipment added to a building. What happens when they become part of the architecture itself? Once integrated into the envelope, photovoltaics can generate energy whi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac2/fc1f/27ac/8d01/89cb/b5b2/large_jpg/geometry-that-generates-energy-the-solar-facade-of-breidablikk-garden-norway_28.jpg?1791163453",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Brazil in Focus: This Month in Architecture, Housing, Learning Spaces, and Urban Life",
-      "url": "https://www.archdaily.com/1186807/brazil-in-focus-this-month-in-architecture-housing-learning-spaces-and-urban-life",
-      "excerpt": "This month's Brazil in Focus looks at how architecture and urban development intersect with questions of housing, education, public space, and mobility across the country. This month's selection inclu",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/54af/7887/fb01/8910/70b0/large_jpg/brazil-in-focus-this-month-in-architecture-housing-and-public-space_9.jpg?1791972534",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "House by the Vineyard / ARCHITEKTI mikulaj & mikulajova",
-      "url": "https://www.archdaily.com/1186470/house-by-the-vineyard-architekti-mikulaj-and-mikulajova",
-      "excerpt": "Designed by ARCHITEKTI mikulaj & mikulajova, House by the Vineyard stands on the outskirts of a traditional wine village in western Slovakia, near a vineyard and a forest.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac6/13be/07c3/d100/017f/dc73/large_jpg/004.jpg?1791366141",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "At Frieze, the Tiffany & Co-supported Artist-to-Artist programme spotlights emerging talent",
-      "url": "https://www.wallpaper.com/art/exhibitions-shows/artist-to-artist-frieze-london-yinka-shonibare-unathi-mkonto-interview",
-      "excerpt": "Yinka Shonibare invites South African artist Unathi Mkonto to Frieze London 2026 for Artist-to-Artist, sponsored by Tiffany & Co",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DKhqiUaeSnKpCsyyiXuSDC.gif",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Sir Donald Insall, Architect and Figure in Modern Architectural Conservation, Passes Away at 100",
-      "url": "https://www.archdaily.com/1186771/sir-donald-insall-architect-and-figure-in-modern-architectural-conservation-passes-away-at-100",
-      "excerpt": "On October 11, 2026, Donald Insall Associates announced the passing of its founder, Sir Donald Insall. Describing him as \"a man of great tact, charm and humour,\" the practice recognized his contributi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/aae9/7887/fb01/8910/6e93/large_jpg/english-conservationist-and-heritage-restorer-donald-insall-passes-away-at-100_2.jpg?1791929078",
+      "title": "Learning Through Practice: Why Architecture Students Enter Competitions",
+      "url": "https://www.archdaily.com/1186680/learning-through-practice-why-architecture-students-enter-competitions",
+      "excerpt": "On paper, entering an architecture competition is one of the most challenging things an architecture student can do. What draws students to them is the chance to experiment, approaching a loosely defi",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acc/b982/c599/0e01/8860/0d1a/large_jpg/competing-to-learn-why-architecture-students-enter-competitions_6.jpg?1791801745",
       "today": true
     },
     {
@@ -433,15 +442,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.13",
-      "title": "OMA to convert Houston coffee plant into music school with instrument-informed architecture",
-      "url": "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/",
-      "excerpt": "Architecture studio OMA has broken ground on the Frank Liu Jr Academy for Music and Arts charter school in Houston, a pre-K through eighth-grade institution housed in a former coffee plant. The three-",
-      "today": false
     },
     {
       "source": "IGNANT",
