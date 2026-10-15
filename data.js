@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.15  05:28",
+  "fetchedAt": "2026.10.15  10:43",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,35 +9,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "オズモール": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "KNB WEB": {
+    "アメーバブログ": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "KNB WEB": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "アメーバブログ": {
+    "ウォーカープラス": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,61 +45,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Time Out Tokyo": {
+    "夜景FAN": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
-    },
-    "ウォーカープラス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "夜景FAN": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "Wallpaper*": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "designboom": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "ArchDaily": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "Dezeen": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "IGNANT": {
+    "designboom": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "ArchDaily": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "IGNANT": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "DNライティング": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "岩崎電気": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "LPA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -118,15 +110,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Digital AV Magazine",
-      "cat": "展示・アート",
-      "date": "2026.10.15",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -176,20 +159,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "KNB WEB",
+      "source": "オズモール",
       "cat": "展示・アート",
       "date": "2026.10.15",
-      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "山陽新聞",
-      "cat": "展示・アート",
-      "date": "2026.10.15",
-      "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVTMyZjFwLW9aalNGT0VLdjJubE1jOEozRGNaU1BUczVhczZnZkxsTXczNDUwTlU3QVY3OUpqU05tRDdkRDVuX1FncVpWTmNLWDgzbzhzY2R6bXZvR1ZTQmtYYlV6UWlfTVczVl9B?oc=5",
+      "title": "山中湖 花の都公園「2025イルミネーションファンタジウム」開催！ライトアップ前には、ダイヤモンド富士の鑑賞も",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nYmdFYVZXdlJXUDkyNzV3c2hSOGw5X0hfYlpBblJXczJ0UThGLXhDbVA5VzVOQTd1WmNDVFZISHBGT0s0N3Z2YTlKeDZ4MW1zOWNvamRB?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -203,20 +177,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
+      "source": "KNB WEB",
       "cat": "展示・アート",
       "date": "2026.10.15",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Time Out Tokyo",
+      "source": "PR TIMES",
       "cat": "展示・アート",
       "date": "2026.10.15",
-      "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
+      "title": "『スターライトイルミネーション』まもなく開催（国営武蔵丘陵森林公園）",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcXp6VFh0MkZaU2txRTdDRmtPZWkyZlNkeW5qUW9UY3lHTUQ3RE8wOVJ6Q1JqbG5ZMnZpd3oyNS1lZXNST0ZhYWZEMXFkOEU2VEVEZHFKVnQ3aGhobGR6NURaMDVHcUtzUmc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "展示・アート",
+      "date": "2026.10.15",
+      "title": "1月以降もまだまだ楽しめる！日本新三大夜景都市 初選出の横浜を光で彩る イルミネーションイベントをつなぐキャンペーン「THE YOKOHAMA ILLUMINATION」 | クリエイティブ・ライト・ヨコハマ実行委員会のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GN0pKeWRlMFdTdmQ3Rk1GV1FmaThBTmFOZHJORW5MQ2NzM0hibXRrdnlZbHlzeEctY0IzaFRVTWIwcGZZMDlwNWZVT1pOUkZ3d2JKZzlBLVp0dzBLdjFSZXJ2a291ZzA2N2c?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -230,12 +213,98 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.10.15",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "夜景FAN",
       "cat": "展示・アート",
       "date": "2026.10.15",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "\"Radically simple\" Resonance pavilion takes centre stage at Tallinn Architecture Biennale",
+      "url": "https://www.dezeen.com/2026/10/15/resonance-pavilion-tallinn-architecture-biennale/",
+      "excerpt": "Limestone and plywood make up the temporary pavilion at the heart of this year's Tallinn Architecture Biennale, designed by Shanghai- and Tokyo-based studio Aru Ma- Architects. Named Resonance, the pa",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "iris ceramica group expands multi sensory design through surfaces and scent",
+      "url": "https://www.designboom.com/design/iris-ceramica-group-multi-sensory-design-surfaces-scent/",
+      "excerpt": "more than wall cladding. iris ceramica group's new surfaces become an architectural medium designed to engage touch, sight, and spatial perception.\nThe post iris ceramica group expands multi sensory d",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/iris-ceramica_designboom_facebook.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "With the dramatic Nexera Vision concept, Acura is doubling down on its sporting heritage",
+      "url": "https://www.wallpaper.com/transportation/acura-nexera-vision-concept-review",
+      "excerpt": "Unveiled at The Quail during Monterey Car Week 2026, the Acura Nexera Vision is a two-seater super-coupé designed to reinvigorate the status of Honda’s North American luxury and performance division",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NyQjbVsuoWhL6dmkVRPGLY-2048-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "‘I wanted the inner world to shine’: Jacqueline Rabun on jewellery that takes you to a better place",
+      "url": "https://www.wallpaper.com/watches-jewellery/jacqueline-rabun-cave-jewellery-collection-interview",
+      "excerpt": "The influential American jewellery designer continues to create idiosyncratically; here, she talks us through her new Cave collection",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vsDmQY7kmLLSqwZegcj2om-1920-80.png",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "\"People need to be able to afford to adapt to climate change\" says architect founder of Shaded",
+      "url": "https://www.dezeen.com/2026/10/15/aimee-daniels-shaded-interview/",
+      "excerpt": "London architect Aimée Daniels has invented an awning system that sold out multiple times this summer. In this interview, she argues the UK needs to get on board with the power of shading. Self-descri",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Now you can get the Tivoli Audio Model One BT in Sage, Eucalyptus, Ginger and Angora",
+      "url": "https://www.wallpaper.com/tech/now-you-can-get-the-tivoli-audio-model-one-bt-in-sage-eucalyptus-ginger-and-angora",
+      "excerpt": "Tivoli Audio have given their Model One BT a make-over with the addition of four new colourways, the Naturals Collection",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/inDTkpeKMZGCwd3DLNgMwV-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "UFO-shaped futuro house brings radical 1960s vision of prefab living to the market",
+      "url": "https://www.designboom.com/architecture/ufo-shaped-futuro-house-radical-1960s-vision-prefab-living-market-matti-suuronen-sothebys-donaldson-california/",
+      "excerpt": "listed for sale in idyllwild, california, the rare dwelling designed by matti suuronen reflects a 1960s vision of portable living, when prefabrication and lightweight materials promised new ways to in",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/ufo-shaped-futuro-house-radical-1960s-vision-prefab-living-market-matti-suuronen-sothebys-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Jonas Hejduk's blurry furnishings are deliberately low resolution",
+      "url": "https://www.dezeen.com/2026/10/15/jonas-hejduk-blurry-low-resolution-furnishings/",
+      "excerpt": "Designer Jonas Hejduk has released a collection of rugs and benches that have ambiguously pixellated aesthetics. Hejduk's focus on deliberately compressed, low-resolution versions of popular furnishin",
       "today": true
     },
     {
@@ -259,6 +328,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Architecture Between Land and Water: Design Lessons from the Bayou",
+      "url": "https://www.archdaily.com/1186701/architecture-between-land-and-water-design-lessons-from-the-bayou",
+      "excerpt": "A bayou is a slow-moving body of water, typically a creek or river that winds through low, flat terrain in a broader wetland landscape. Found throughout the Gulf Coast, bayous are distinct from swamps",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acd/2d8a/7887/fb01/8910/6a20/large_jpg/adaptation-reflection-elevation-design-lessons-from-the-bayou_1.jpg?1791831440",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.15",
@@ -276,6 +355,36 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/dual-tone-solid-oak-tupi-lamp-estudio-gris-bird-rest/",
       "excerpt": "designed by medellín-based estudio gris, tupi table lamp features a hand-turned solid oak body resembling a bird, complete with a dark wooden beak that conceals the light source to project a warm down",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tupi-table-lamp-estudio-gris-wood-bird-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "The Mortar House Offices / Logic Design + Build",
+      "url": "https://www.archdaily.com/1186745/the-mortar-house-offices-logic-design-plus-build",
+      "excerpt": "The Mortar House transforms a dark, fragmented 30-year-old corporate office into a light-filled, shared workplace for two overlapping work cultures, using exposed brick arches, stained glass, custom f",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/2655/b2c4/c300/0178/ed67/large_jpg/DLOfficeB_SuryanSaurabh_18.jpg?1791895164",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Nakamura Ward Office Complex / Takenaka Corporation",
+      "url": "https://www.archdaily.com/1186234/nakamura-ward-office-complex-takenaka-corporation",
+      "excerpt": "Four ward facilities (ward office, public works office, healthcare center, city tax office) have been brought together on the site of a former elementary school. The local government facilities and th",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6abf/9e17/07c3/d100/017f/cbb1/large_jpg/06_SS.inc.jpg?1790942835",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "What Does It Take to Start a Career in Architecture?",
+      "url": "https://www.archdaily.com/1181701/from-architecture-graduate-to-professional-how-yacademy-turns-talent-into-a-career",
+      "excerpt": "An architecture degree provides the foundations of the discipline, but the transition into professional practice often extends well beyond the classroom. Building experience, developing a portfolio, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6a67/a7de/f4d2/6d01/88b1/6cd2/large_jpg/what-comes-after-architecture-school_7.jpg?1785178101",
       "today": true
     },
     {
@@ -308,23 +417,13 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
+      "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.14",
-      "title": "Sylvan Rock was designed by S3 Architecture with Aston Martin. Now the house is for sale",
-      "url": "https://www.wallpaper.com/architecture/residential/sylvan-rock-was-designed-by-s3-architecture-with-aston-martin-now-the-house-is-for-sale",
-      "excerpt": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9hef8LMcUT77bAacxRna4G-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Civic Campus Sallarès Deu / JAAS",
-      "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
-      "excerpt": "Architecture studio JAAS — led by Josep M. Julià, Albert Clèries, Jordi Gorgues, and Manuel Julià — presents Sallarès Deu, the transformation of the former textile factory of the same name, originally",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
+      "title": "rivian transforms its electric cars into ghostbusters machines for halloween 2026",
+      "url": "https://www.designboom.com/technology/rivian-electric-car-ghostbusters-machine-halloween-2026-r1t-r1s-and-r2/",
+      "excerpt": "the ghostbusters-inspired update brings interactive screens, paranormal sound effects, light shows, and a custom-built ecto-R1 to rivian's electric vehicles.\nThe post rivian transforms its electric ca",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/rivian-electric-car-ghostbusters-machine-halloween-2026-r1t-r1s-and-r2-designboom-5.jpg",
       "today": false
     },
     {
@@ -334,113 +433,6 @@ window.LUMINO_DATA = {
       "title": "Behnaz Farahi creates Ocean of Dreams video installation for MIT Future Fest",
       "url": "https://www.dezeen.com/2026/10/14/behnaz-farahi-ocean-of-dreams-mit/",
       "excerpt": "US-based designer Behnaz Farahi and the Critical Matter Group at the MIT Media Lab have projected sounds and video of the ocean alongside crowd-sourced messages into a public square for the university",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Brumadinho Memorial / Gustavo Penna Arquiteto e Associados",
-      "url": "https://www.archdaily.com/1186835/brumadinho-memorial-gustavo-penna-arquiteto-e-associados",
-      "excerpt": "The Brumadinho Memorial, designed by Gustavo Penna Arquitetos Associados (GPAA), honors the 272 victims of the Córrego do Feijão mine dam collapse in Brumadinho, Minas Gerais. Located at the site of t",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/8ec6/b2c4/c300/0178/f330/large_jpg/02_Pedro_Mascaro_DJI_20250221081134_0859_D.jpg?1791987438",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "You can now stay in this restored Jean Prouvé house on the French Riviera",
-      "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera",
-      "excerpt": "Rescued in Alsace and restored in Nancy, Maison Prouvé 58 joins Les Maisons CAB on the grounds of a Provençal mas below Saint-Paul-de-Vence",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FAWLM5FLcGxBSWzTeiUPTH-2560-80.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "how the spectacular set design of alejandro g. iñárritu’s digger unveils a wild masterpiece",
-      "url": "https://www.designboom.com/design/set-design-alejandro-g-inarritu-digger-wild-film-masterpiece/",
-      "excerpt": "a story about the most powerful man in the world and the environmental catastrophe he unleashed turns out to be something else entirely, and with every shift the disaster moves a little closer to the ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/digger-set-design-alejandro-inarritu-movie-designboom-1200.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Benjamin Moore’s 2027 Colour of the Year is bursting with ‘optimistic energy’",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/benjamin-moore-color-of-the-year-2027",
-      "excerpt": "See why this verdant hue will be trending in the year ahead – and well beyond",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wGgCm7hwbqyrNWvCkguKUM-2000-80.jpg",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Casa Emilio Delporte / Citic",
-      "url": "https://www.archdaily.com/1186768/casa-emilio-delporte-citic",
-      "excerpt": "Casa Emilio Delporte emerges as an architectural journey rooted in the biology of love, recognizing that a true home is a dwelling in harmony between its inhabitants and the ecological niche that embr",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/9ae5/b2c4/c300/0178/eee8/large_jpg/CED-_IGNACIOSQUELLA-6.jpg?1791925069",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "frame to folly transforms from carnival gateway to neighborhood teahouse in pittsburgh",
-      "url": "https://www.designboom.com/architecture/frame-to-folly-carnival-gateway-neighborhood-teahouse-pittsburgh-architectural-crafts-collective-partlab/",
-      "excerpt": "frame to folly, a collaborativde project between architectural crafts collective, partlab, and neighborhood allies, is a modular timber pavilion developed for different sites and community uses in pit",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/frame-to-folly-modular-timber-pavilion-pittsburgh-architectural-crafts-collective-partlab-designboom-1200-1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Omar Gandhi designs house and studio with \"striking silhouette\" for furniture maker",
-      "url": "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
-      "excerpt": "Omar Gandhi Architects has collaborated with furniture maker Brodye Chappell to build a house and workshop with a corrugated metal facade on Prince Edward Island, Canada. Located in the agricultural a",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Padre Luís Cabral Building / Hori-zonte",
-      "url": "https://www.archdaily.com/1186822/padre-luis-cabral-building-hori-zonte",
-      "excerpt": "In Porto, a three-story residential building integrates passive strategies into its very layout, balancing solar orientation, cross-ventilation, privacy, and a connection with nature.",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac0/188a/07c3/d100/017f/cd7e/large_jpg/hori-zonteCoralFN0000-HEAD.jpg?1790974130",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "does the paris of the impressionists still exist? alix urien finds it through her lens",
-      "url": "https://www.designboom.com/art/alix-urien-photography-artist-paris-impressionists-normandy-videos/",
-      "excerpt": "french photographer alix urien revisits impressionism in circa 2020s, using movement, light and color to capture the fleeting beauty of contemporary paris and normandy.\nThe post does the paris of the ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/alix-urien-photography-artist-paris-impressionists-normandy-videos-designboom-9.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Andy Matthews Studio designs Dulwich cricket pavilion to be antithesis of \"off-the-shelf generic designs\"",
-      "url": "https://www.dezeen.com/2026/10/14/dulwich-cricket-pavilion-andy-matthews-studio-streatham-marlborough/",
-      "excerpt": "Architecture practice Andy Matthews Studio has unveiled a black, contemporary cricket pavilion on Dulwich Common, south London. Built for Streatham & Marlborough Cricket Club, the pavilion stands alon",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Ten homes from the mid-century \"time capsule\" Studley Park",
-      "url": "https://www.dezeen.com/2026/10/14/riverside-modern-studley-park/",
-      "excerpt": "Riverside Modern is a book documenting the mid-century modern homes of Studley Park in Melbourne. In this roundup, its author Jake Taylor selects 10 standout residences from the architectural enclave.",
       "today": false
     },
     {
