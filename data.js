@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.15  00:15",
+  "fetchedAt": "2026.10.15  05:28",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "PR TIMES": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "www.axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "中日新聞Web": {
+    "www.axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "KNB WEB": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "山陽新聞": {
+    "KNB WEB": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アメーバブログ": {
+    "山陽新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ヨコハマ経済新聞": {
+    "アメーバブログ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ウォーカープラス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,23 +49,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "夜景FAN": {
+    "ウォーカープラス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "富士山経済新聞": {
+    "夜景FAN": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Dezeen": {
+    "Wallpaper*": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -73,23 +73,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "Dezeen": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "IGNANT": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "IGNANT": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -118,6 +118,15 @@ window.LUMINO_DATA = {
       "date": "2026.10.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Digital AV Magazine",
+      "cat": "展示・アート",
+      "date": "2026.10.15",
+      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -203,20 +212,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
-      "cat": "展示・アート",
-      "date": "2026.10.15",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Time Out Tokyo",
       "cat": "展示・アート",
       "date": "2026.10.15",
       "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ウォーカープラス",
+      "cat": "展示・アート",
+      "date": "2026.10.15",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -230,12 +239,53 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "富士山経済新聞",
-      "cat": "展示・アート",
+      "source": "YAMAGIWA",
+      "cat": "賞・コンペ",
       "date": "2026.10.15",
-      "title": "富士市・田子の浦でイルミネーション ドラゴンタワーなどライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dUNxSDJaczBfeExnVzRmYUk3S0lwRHp1bDRBRG9sbUFobEhXYkRDbXdsNERKTmFTYU5UT1E4OHJNR0xuMGtvWFFRWTlFT1N3eWc?oc=5",
+      "title": "内省と没頭を照らしだす照明「SOLO」が「2026年度グッドデザイン賞」を受賞",
+      "url": "https://www.yamagiwa.co.jp/news/80387/",
       "excerpt": "",
+      "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "A green ceramic façade shows a rethink of the London home extension",
+      "url": "https://www.wallpaper.com/architecture/residential/victorian-home-extension-bolans-architects-london-uk",
+      "excerpt": "In south-east London, this extension of a Victorian terraced home saves its boldest gesture for the back garden",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7DNunah3d8TJjuxWjwa7Hn-1800-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Fashion month’s most eye-catching accessories, from inside-out bags to rain hats",
+      "url": "https://www.wallpaper.com/fashion-beauty/best-accessories-trend-ss-2027-fashion-month",
+      "excerpt": "Wallpaper* picks the best accessories from the S/S 2027 womenswear shows, which unfolded in New York, London, Milan and Paris",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/88vcbunBfcp6sH4NFnCE87-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "crafted from dual-tone solid oak, TUPI lamp by estudio gris resembles bird at rest",
+      "url": "https://www.designboom.com/design/dual-tone-solid-oak-tupi-lamp-estudio-gris-bird-rest/",
+      "excerpt": "designed by medellín-based estudio gris, tupi table lamp features a hand-turned solid oak body resembling a bird, complete with a dark wooden beak that conceals the light source to project a warm down",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tupi-table-lamp-estudio-gris-wood-bird-designboom-1200.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Zhuozhuo Community / WEI+ Design",
+      "url": "https://www.archdaily.com/1186714/zhuozhuo-community-wei-plus-design",
+      "excerpt": "Located in the heart of the Taoyangli Historic District in Jingdezhen, Zhuozhuo Community is an urban regeneration project that transforms a collection of existing buildings, residential structures, a",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/0b2a/c599/0e01/8860/1095/large_jpg/zhuozhuo-community-wei-plus-design_52.jpg?1791888309",
       "today": true
     },
     {
@@ -265,6 +315,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/sylvan-rock-was-designed-by-s3-architecture-with-aston-martin-now-the-house-is-for-sale",
       "excerpt": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9hef8LMcUT77bAacxRna4G-2560-80.jpg",
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Civic Campus Sallarès Deu / JAAS",
+      "url": "https://www.archdaily.com/1186766/sallares-deu-jaas",
+      "excerpt": "Architecture studio JAAS — led by Josep M. Julià, Albert Clèries, Jordi Gorgues, and Manuel Julià — presents Sallarès Deu, the transformation of the former textile factory of the same name, originally",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/9845/b2c4/c300/0178/eeb2/large_jpg/JAAS_SD_03_Foto_Adria_Goula.jpg?1791924320",
       "today": false
     },
     {
@@ -317,26 +377,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "‘There is an incredible clarity to his vision’: Sophie Bille Brahe and Juergen Teller make her high jewellery dazzle",
-      "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery/sophie-bille-brahe-tangerine-sky-collection-juergen-teller",
-      "excerpt": "The Danish jewellery designer tells us about working with photographer Juergen Teller to capture her debut high jewellery collection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Uxqbw83zKtVNTnkzrPTwL-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Five new names to know in collectible design",
-      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
-      "excerpt": "New talents defining contemporary collectible design to discover at PAD London 2026 (until 16 October), from innovative woodworking to ancestral ceramics, contemporary bronze work and resin that looks",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4YRkyghYcxmcpKxpUhJaPn-1920-80.png",
-      "today": false
-    },
-    {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.14",
@@ -376,16 +416,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Wild Pond Villa / L. McComber",
-      "url": "https://www.archdaily.com/1186824/wild-pond-villa-l-mccomber",
-      "excerpt": "Following the complete demolition of her modest 1970s cottage, ravaged by fire, a Montrealer set out to rebuild her country retreat with a Mediterranean spirit, embracing the peaceful landscape of thi",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/7a9e/b2c4/c300/0178/f2fa/large_jpg/villa-sauvage-reconstruction-maison-apr_s-incendie-feu-chalet-_tang-lac-estrie-fen_tres-vue-montagne-pilotis-bois-ch_ne-blanc-pruche-courbe-arche_A18_LMcComber-architecture.jpg?1791982356",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.14",
@@ -405,32 +435,12 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "at orgatec 2026 sihoo introduces self adjusting chairs built to boost creative work",
-      "url": "https://www.designboom.com/design/orgatec-2026-sihoo-office-chairs/",
-      "excerpt": "engineered to support upright leaning and reclined postures sihoo’s seating duo helps professionals maintain focus and unlock creative momentum throughout the workday.\nThe post at orgatec 2026 sihoo i",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/sihoo-doro_h300-pro_designboom-facebook.jpg",
-      "today": false
-    },
-    {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.14",
       "title": "Ten homes from the mid-century \"time capsule\" Studley Park",
       "url": "https://www.dezeen.com/2026/10/14/riverside-modern-studley-park/",
       "excerpt": "Riverside Modern is a book documenting the mid-century modern homes of Studley Park in Melbourne. In this roundup, its author Jake Taylor selects 10 standout residences from the architectural enclave.",
-      "today": false
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Wilnsdorf Primary School and Sports Hall / BUERO BB",
-      "url": "https://www.archdaily.com/1186599/wilnsdorf-primary-school-and-sports-hall-buero-bb",
-      "excerpt": "Set into a wooded slope in western Germany, Wilnsdorf Primary School combines timber, regional precast concrete, and concrete recycled from a demolished local viaduct into a compact building for learn",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac7/f66c/b2c4/c300/0178/e3a1/large_jpg/09__SebastianSchels.jpg?1791491626",
       "today": false
     },
     {
