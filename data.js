@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.15  15:27",
+  "fetchedAt": "2026.10.15  19:38",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "Time Out Tokyo": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Time Out Tokyo": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -203,20 +203,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ヨコハマ経済新聞",
-      "cat": "展示・アート",
-      "date": "2026.10.15",
-      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Time Out Tokyo",
       "cat": "展示・アート",
       "date": "2026.10.15",
       "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ヨコハマ経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.10.15",
+      "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -242,9 +242,50 @@ window.LUMINO_DATA = {
       "source": "Dezeen",
       "cat": "デザイン",
       "date": "2026.10.15",
+      "title": "Frank Lloyd Wright's only planetarium restored in Florida",
+      "url": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
+      "excerpt": "Campus architects at Florida Southern College have updated the only planetarium designed by American architect Frank Lloyd Wright as part of a decades-long restoration project at the school, which was",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/planetarium-frank-lloyd-wright-florida-southern-college_dezeen_2364_hero.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Joana Vasconcelos’ art takes root in a Manhattan apartment for an ambassador",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/kelly-behun-new-york-apartment-ambassador-randi-charno-levine-joana-vasconcelos-installation",
+      "excerpt": "Take a tour of the Kelly Behun-designed apartment for Ambassador Randi Charno Levine, home to her extensive art collection, including this new commission by Vasconcelos",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/earthly-paradise-nAL9Xv2tg9howkBxgCZohB-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "crafted from mycelium, hypha-lume pavilion maps human movement through light",
+      "url": "https://www.designboom.com/architecture/mycelium-hypha-lume-pavilion-human-movement-light/",
+      "excerpt": "what if a pavilion could remember every movement within it? hypha-lume combines reconfigurable mycelium modules with sensors, light, projection, and sound to transform human presence into an evolving ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/hypha-lume-adaptive-modular-pavilion-mycelium-human-movement-light-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Casa de Tierra / Walter Fernando Castañeda Luquerna",
+      "url": "https://www.archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna",
+      "excerpt": "Located at an altitude of 3,012 meters above sea level, in a transitional landscape between Andean high-altitude forest and the páramo ecosystem, Casa de Tierra explores ways of inhabiting an environm",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ad0/d660/b2c4/c300/0178/f8a5/large_jpg/13_Casa_Guasca-LLANO_5705.jpg?1792071300",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.15",
       "title": "Apple consolidates smart-home capabilities in HomeView dashboard",
       "url": "https://www.dezeen.com/2026/10/15/apple-homeview-smart-home-dashboard/",
       "excerpt": "Technology company Apple has released a screen that consolidates the functions of its app products and its home-management software into one device. HomeView is a seven-inch display meant to function ",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/apple-homeview-smart-home-dashboard_dezeen_2364_sq.jpg",
       "today": true
     },
     {
@@ -255,6 +296,26 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/furniture/swizz-beatz-cb2-casa-dean-collection",
       "excerpt": "With the collection, called Casa Dean, the Grammy Award-winning producer and prolific art collector wants people to ‘tune into themselves’",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7CMqPUS42KBWJoHaosmF6j-2000-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Loungueira House / Pontoatelier",
+      "url": "https://www.archdaily.com/1186863/loungueira-house-pontoatelier",
+      "excerpt": "The project begins with the complete demolition of a fragile and poorly built structure, replaced by a compact house designed for the son and his family. The first gesture is to define the largest pos",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/eb35/b2c4/c300/0178/f4c6/large_jpg/PA_TiagoCasanova_06.jpg?1792011107",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Burden Museum & Gardens Welcome Center / Eskew Dumez Ripple",
+      "url": "https://www.archdaily.com/1186837/burden-museum-and-gardens-welcome-center-eskew-dumez-ripple",
+      "excerpt": "Conceived as a threshold, the Burden Museum & Gardens Welcome Center establishes a formal entry to the Burden Museum & Gardens campus through a series of simple, legible forms—architecture deliberatel",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/bcb2/b2c4/c300/0178/f3b4/large_jpg/DSC_1689_Michael_Mantese___EskewDumezRipple.jpg?1791999188",
       "today": true
     },
     {
@@ -274,6 +335,7 @@ window.LUMINO_DATA = {
       "title": "Schemata Architects restores guesthouse nestled in ancient Irish rainforest",
       "url": "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
       "excerpt": "Japanese studio Schemata Architects has renovated a guesthouse in Dromgarriff Rainforest, Ireland, connecting two existing stone buildings with a timber- and steel-framed yoga studio. Named Linden Hou",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/schemata-architects-linden-house-restoration-ireland-hero_dezeen_2364_col_1.jpg",
       "today": true
     },
     {
@@ -283,6 +345,7 @@ window.LUMINO_DATA = {
       "title": "\"Radically simple\" Resonance pavilion takes centre stage at Tallinn Architecture Biennale",
       "url": "https://www.dezeen.com/2026/10/15/resonance-pavilion-tallinn-architecture-biennale/",
       "excerpt": "Limestone and plywood make up the temporary pavilion at the heart of this year's Tallinn Architecture Biennale, designed by Shanghai- and Tokyo-based studio Aru Ma- Architects. Named Resonance, the pa",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/resonance-pavilion-tallinn-architecture-biennale-temporary-stone-plywood_dezeen_2364_hero.jpg",
       "today": true
     },
     {
@@ -299,7 +362,7 @@ window.LUMINO_DATA = {
       "source": "ArchDaily",
       "cat": "デザイン",
       "date": "2026.10.15",
-      "title": "Centre Pompidou Francilien — Fabrique de l’Art / PCA / Prellwitz Chilinski Associates",
+      "title": "Centre Pompidou Francilien — Fabrique de l’Art / PCA-STREAM",
       "url": "https://www.archdaily.com/1186405/centre-pompidou-francilien-fabrique-de-lart-pca-prellwitz-chilinski-associates",
       "excerpt": "The Centre Pompidou Francilien – Fabrique de l'Art houses the reserve collections of two institutions. The building has two faces, reflecting the paradox at the heart of its brief. One side is a vault",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6acd/efd0/7887/fb01/8910/6b16/large_jpg/centre-pompidou-francilien-fabrique-de-lart-pca-prellwitz-chilinski-associates_20.jpg?1791881199",
@@ -326,36 +389,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "A Long View",
-      "url": "https://www.archdaily.com/1186915/a-long-view",
-      "excerpt": "A Long View explores the celebrated residential design of Bohlin Cywinski Jackson through the lens of fifteen private residences across the United States and Canada. With a curated selection of homes ",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ad0/d1c7/b2c4/c300/0178/f7f8/large_jpg/grid.jpg?1792070092",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "Architectures of Ageing in Place",
-      "url": "https://www.archdaily.com/1186911/architectures-of-ageing-in-place",
-      "excerpt": "Architectures of Ageing in Place provides curated critical perspectives, from a practice-based research point of view, of buildings that are purpose built and/or refurbished to accommodate housing and",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ad0/cf6a/b2c4/c300/0178/f7ce/large_jpg/Architectures_of_Ageing_in_Place_HB_v02.jpg?1792069526",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "National Ideas Competition – Revitalization of Avenida del Mar. Pinamar",
-      "url": "https://www.archdaily.com/1186908/national-ideas-competition-revitalization-of-avenida-del-mar-pinamar",
-      "excerpt": "CAUBA9 and the Municipality of Pinamar invite entries for the National Ideas Competition for the revitalization of Avenida del Mar, an initiative aimed at promoting an urban, landscape, and public spa",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ad0/cda7/b2c4/c300/0178/f7af/large_jpg/1AV.DEL_.MAR_-767x1024.jpg?1792069038",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.15",
@@ -372,6 +405,7 @@ window.LUMINO_DATA = {
       "title": "\"People need to be able to afford to adapt to climate change\" says architect founder of Shaded",
       "url": "https://www.dezeen.com/2026/10/15/aimee-daniels-shaded-interview/",
       "excerpt": "London-based architectural designer Aimée Daniels has invented an awning system that sold out multiple times this summer. In this interview, she argues the UK needs to get on board with the power of s",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/aimee-daniels-shaded-interview-sq_dezeen_2364_col_0.jpg",
       "today": true
     },
     {
@@ -395,15 +429,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "Jonas Hejduk's blurry furnishings are deliberately low resolution",
-      "url": "https://www.dezeen.com/2026/10/15/jonas-hejduk-blurry-low-resolution-furnishings/",
-      "excerpt": "Designer Jonas Hejduk has released a collection of rugs and benches that have ambiguously pixellated aesthetics. Hejduk's focus on deliberately compressed, low-resolution versions of popular furnishin",
-      "today": true
-    },
-    {
       "source": "YAMAGIWA",
       "cat": "賞・コンペ",
       "date": "2026.10.15",
@@ -411,16 +436,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/80387/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
-      "today": true
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "A green ceramic façade shows a rethink of the London home extension",
-      "url": "https://www.wallpaper.com/architecture/residential/victorian-home-extension-bolans-architects-london-uk",
-      "excerpt": "In south-east London, this extension of a Victorian terraced home saves its boldest gesture for the back garden",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7DNunah3d8TJjuxWjwa7Hn-1800-80.jpg",
       "today": true
     },
     {
@@ -432,16 +447,6 @@ window.LUMINO_DATA = {
       "excerpt": "designed by medellín-based estudio gris, tupi table lamp features a hand-turned solid oak body resembling a bird, complete with a dark wooden beak that conceals the light source to project a warm down",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tupi-table-lamp-estudio-gris-wood-bird-designboom-1200.jpg",
       "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "moyo shirt jacket weaves korean hanbok silhouette with east african kitenge textile",
-      "url": "https://www.designboom.com/readers/moyo-shirt-jacket-korean-hanbok-silhouette-east-african-kitenge-textile-jerrybag-hyunah-kim-ili-studio/",
-      "excerpt": "the moyo shirt jacket brings together two distinct cultural aesthetics, reinterpreting the traditional korean hanbok's silhouette using kitenge, a signature east african textile.\nThe post moyo shirt j",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/moyo-shirt-jacket-jerrybag-hyunah-kim-ili-studio-korean-hanbok-east-african-kitenge-textiles-designboom-1200-1.jpg",
-      "today": false
     },
     {
       "source": "大光電機",
