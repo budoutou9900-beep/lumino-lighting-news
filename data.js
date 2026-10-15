@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.14  21:12",
+  "fetchedAt": "2026.10.15  00:15",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,55 +9,55 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "KNB WEB": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "KNB WEB": {
+    "山陽新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "アメーバブログ": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "アメーバブログ": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ヨコハマ経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ウォーカープラス": {
+    "Time Out Tokyo": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Time Out Tokyo": {
+    "夜景FAN": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "富士山経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,7 +65,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -106,7 +106,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "デザイン",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -115,25 +115,16 @@ window.LUMINO_DATA = {
     {
       "source": "銀座経済新聞",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
-      "cat": "展示・アート",
-      "date": "2026.10.14",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "PR TIMES",
       "cat": "賞・コンペ",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -142,7 +133,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -151,7 +142,7 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -160,7 +151,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "国内情報",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -169,7 +160,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "賞・コンペ",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -178,7 +169,7 @@ window.LUMINO_DATA = {
     {
       "source": "KNB WEB",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "【富山イルミネーションまとめ2025-2026】いつもの景色がロマンチックに! 定番のまちなかデートスポットや世界遺産の合掌造りライトアップも一挙総まとめ ｜おでかけ｜nan-nan｜富山を楽しむオススメ情報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqcFZnZmJXSW9mN1JUTWxjaDREUnZKbmZ2dUU4cDVuX1NscEhpeW1seTBLem43OHhDNG5SRW9JUmFYMVdLc3F4WlNB?oc=5",
       "excerpt": "",
@@ -187,7 +178,7 @@ window.LUMINO_DATA = {
     {
       "source": "山陽新聞",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "きらめく光の空間演出 ＬＥＤで会場ライトアップ 山陽新聞社で「さん太ハッピーイルミネーション」：山陽新聞デジタル｜さんデジ",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVTMyZjFwLW9aalNGT0VLdjJubE1jOEozRGNaU1BUczVhczZnZkxsTXczNDUwTlU3QVY3OUpqU05tRDdkRDVuX1FncVpWTmNLWDgzbzhzY2R6bXZvR1ZTQmtYYlV6UWlfTVczVl9B?oc=5",
       "excerpt": "",
@@ -196,7 +187,7 @@ window.LUMINO_DATA = {
     {
       "source": "アメーバブログ",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "森智広『【四日市の夜を彩る/『ウインターイルミネーション』開催中】「よんまるテラス」のライトアップも輝く』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jWG1QVHg0ZEd3MlpqQUdOUTh2UmtlWmEzTDVtcThaZUJEcDdKVjc4bVRsNGFNblo0OGhhMHExUjJMcWFNWVp5M0h4MDRSMW5DMmNFZ2VqSW1FQ2JWVnRUR0JyRGg?oc=5",
       "excerpt": "",
@@ -205,7 +196,7 @@ window.LUMINO_DATA = {
     {
       "source": "ヨコハマ経済新聞",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "横浜・日本大通りで「SDGsイルミネーション」 イチョウ並木ライトアップ",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWXJ4UzdrbjdFTmRkSFNPLVN6SVJjUFFUR1dfUUU0Nkt3ZWNnVWhST0dEbEstRWV0ajVPRWhZVEhWLVIzUHhkY1l6QVpFR1Nv?oc=5",
       "excerpt": "",
@@ -214,7 +205,7 @@ window.LUMINO_DATA = {
     {
       "source": "ウォーカープラス",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
@@ -223,7 +214,7 @@ window.LUMINO_DATA = {
     {
       "source": "Time Out Tokyo",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "大阪、この冬行きたいイルミネーション＆ライトアップイベント",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjV6bGx4bDNfQW5iZ2VCREVZcGdQWGFVdHIxRXV6c081S3EzQUsyZnJaNTVzSEtKV2VNbUhRMkFkeVVjU1N2cC1jMHBITUdQSHVadmVqUnlRVWtuOHpfaGJaRGh6dFhhdkI4V3dYTkc4SnBTM0dUYXE4MUIwbDhJWUJoOE1DZWxUSW1lalFxV0VKbWMtYXc5OWlyQ2FMZ1Jj?oc=5",
       "excerpt": "",
@@ -232,11 +223,39 @@ window.LUMINO_DATA = {
     {
       "source": "夜景FAN",
       "cat": "展示・アート",
-      "date": "2026.10.14",
+      "date": "2026.10.15",
       "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
       "excerpt": "",
       "today": true
+    },
+    {
+      "source": "富士山経済新聞",
+      "cat": "展示・アート",
+      "date": "2026.10.15",
+      "title": "富士市・田子の浦でイルミネーション ドラゴンタワーなどライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dUNxSDJaczBfeExnVzRmYUk3S0lwRHp1bDRBRG9sbUFobEhXYkRDbXdsNERKTmFTYU5UT1E4OHJNR0xuMGtvWFFRWTlFT1N3eWc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "moyo shirt jacket weaves korean hanbok silhouette with east african kitenge textile",
+      "url": "https://www.designboom.com/readers/moyo-shirt-jacket-korean-hanbok-silhouette-east-african-kitenge-textile-jerrybag-hyunah-kim-ili-studio/",
+      "excerpt": "the moyo shirt jacket brings together two distinct cultural aesthetics, reinterpreting the traditional korean hanbok's silhouette using kitenge, a signature east african textile.\nThe post moyo shirt j",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/moyo-shirt-jacket-jerrybag-hyunah-kim-ili-studio-korean-hanbok-east-african-kitenge-textiles-designboom-1200-1.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Recycled-plastic plinths hold furniture at \"secret\" Barragán house in Mexico City",
+      "url": "https://www.dezeen.com/2026/10/14/design-week-mexico-2026-creative-immersions-casa-ortega/",
+      "excerpt": "For Design Week Mexico 2026, design studio 2x1 displayed works by French and Mexican designers on plinths in the gardens of Casa Ortega, a rarely opened private residence designed by local architect L",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -246,7 +265,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/architecture/residential/sylvan-rock-was-designed-by-s3-architecture-with-aston-martin-now-the-house-is-for-sale",
       "excerpt": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/9hef8LMcUT77bAacxRna4G-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -255,7 +274,17 @@ window.LUMINO_DATA = {
       "title": "Behnaz Farahi creates Ocean of Dreams video installation for MIT Future Fest",
       "url": "https://www.dezeen.com/2026/10/14/behnaz-farahi-ocean-of-dreams-mit/",
       "excerpt": "US-based designer Behnaz Farahi and the Critical Matter Group at the MIT Media Lab have projected sounds and video of the ocean alongside crowd-sourced messages into a public square for the university",
-      "today": true
+      "today": false
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.14",
+      "title": "Brumadinho Memorial / Gustavo Penna Arquiteto e Associados",
+      "url": "https://www.archdaily.com/1186835/brumadinho-memorial-gustavo-penna-arquiteto-e-associados",
+      "excerpt": "The Brumadinho Memorial, designed by Gustavo Penna Arquitetos Associados (GPAA), honors the 272 victims of the Córrego do Feijão mine dam collapse in Brumadinho, Minas Gerais. Located at the site of t",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/8ec6/b2c4/c300/0178/f330/large_jpg/02_Pedro_Mascaro_DJI_20250221081134_0859_D.jpg?1791987438",
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -265,7 +294,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/travel/you-can-now-stay-in-this-restored-jean-prouve-house-on-the-french-riviera",
       "excerpt": "Rescued in Alsace and restored in Nancy, Maison Prouvé 58 joins Les Maisons CAB on the grounds of a Provençal mas below Saint-Paul-de-Vence",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/FAWLM5FLcGxBSWzTeiUPTH-2560-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -275,7 +304,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/set-design-alejandro-g-inarritu-digger-wild-film-masterpiece/",
       "excerpt": "a story about the most powerful man in the world and the environmental catastrophe he unleashed turns out to be something else entirely, and with every shift the disaster moves a little closer to the ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/digger-set-design-alejandro-inarritu-movie-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -285,7 +314,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/benjamin-moore-color-of-the-year-2027",
       "excerpt": "See why this verdant hue will be trending in the year ahead – and well beyond",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/wGgCm7hwbqyrNWvCkguKUM-2000-80.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -295,7 +324,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/watches-jewellery/high-jewellery/sophie-bille-brahe-tangerine-sky-collection-juergen-teller",
       "excerpt": "The Danish jewellery designer tells us about working with photographer Juergen Teller to capture her debut high jewellery collection",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/7Uxqbw83zKtVNTnkzrPTwL-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "Wallpaper*",
@@ -305,7 +334,7 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
       "excerpt": "New talents defining contemporary collectible design to discover at PAD London 2026 (until 16 October), from innovative woodworking to ancestral ceramics, contemporary bronze work and resin that looks",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/4YRkyghYcxmcpKxpUhJaPn-1920-80.png",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -315,7 +344,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186768/casa-emilio-delporte-citic",
       "excerpt": "Casa Emilio Delporte emerges as an architectural journey rooted in the biology of love, recognizing that a true home is a dwelling in harmony between its inhabitants and the ecological niche that embr",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/9ae5/b2c4/c300/0178/eee8/large_jpg/CED-_IGNACIOSQUELLA-6.jpg?1791925069",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -325,7 +354,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/architecture/frame-to-folly-carnival-gateway-neighborhood-teahouse-pittsburgh-architectural-crafts-collective-partlab/",
       "excerpt": "frame to folly, a collaborativde project between architectural crafts collective, partlab, and neighborhood allies, is a modular timber pavilion developed for different sites and community uses in pit",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/frame-to-folly-modular-timber-pavilion-pittsburgh-architectural-crafts-collective-partlab-designboom-1200-1.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -334,7 +363,7 @@ window.LUMINO_DATA = {
       "title": "Omar Gandhi designs house and studio with \"striking silhouette\" for furniture maker",
       "url": "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
       "excerpt": "Omar Gandhi Architects has collaborated with furniture maker Brodye Chappell to build a house and workshop with a corrugated metal facade on Prince Edward Island, Canada. Located in the agricultural a",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -344,7 +373,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186822/padre-luis-cabral-building-hori-zonte",
       "excerpt": "In Porto, a three-story residential building integrates passive strategies into its very layout, balancing solar orientation, cross-ventilation, privacy, and a connection with nature.",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ac0/188a/07c3/d100/017f/cd7e/large_jpg/hori-zonteCoralFN0000-HEAD.jpg?1790974130",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -354,7 +383,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186824/wild-pond-villa-l-mccomber",
       "excerpt": "Following the complete demolition of her modest 1970s cottage, ravaged by fire, a Montrealer set out to rebuild her country retreat with a Mediterranean spirit, embracing the peaceful landscape of thi",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/7a9e/b2c4/c300/0178/f2fa/large_jpg/villa-sauvage-reconstruction-maison-apr_s-incendie-feu-chalet-_tang-lac-estrie-fen_tres-vue-montagne-pilotis-bois-ch_ne-blanc-pruche-courbe-arche_A18_LMcComber-architecture.jpg?1791982356",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -364,7 +393,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/art/alix-urien-photography-artist-paris-impressionists-normandy-videos/",
       "excerpt": "french photographer alix urien revisits impressionism in circa 2020s, using movement, light and color to capture the fleeting beauty of contemporary paris and normandy.\nThe post does the paris of the ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/alix-urien-photography-artist-paris-impressionists-normandy-videos-designboom-9.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -373,7 +402,7 @@ window.LUMINO_DATA = {
       "title": "Andy Matthews Studio designs Dulwich cricket pavilion to be antithesis of \"off-the-shelf generic designs\"",
       "url": "https://www.dezeen.com/2026/10/14/dulwich-cricket-pavilion-andy-matthews-studio-streatham-marlborough/",
       "excerpt": "Architecture practice Andy Matthews Studio has unveiled a black, contemporary cricket pavilion on Dulwich Common, south London. Built for Streatham & Marlborough Cricket Club, the pavilion stands alon",
-      "today": true
+      "today": false
     },
     {
       "source": "designboom",
@@ -383,17 +412,7 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/orgatec-2026-sihoo-office-chairs/",
       "excerpt": "engineered to support upright leaning and reclined postures sihoo’s seating duo helps professionals maintain focus and unlock creative momentum throughout the workday.\nThe post at orgatec 2026 sihoo i",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/sihoo-doro_h300-pro_designboom-facebook.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "‘art can be everywhere’: yinka ilori brings chairman to community center in london",
-      "url": "https://www.designboom.com/design/art-everywhere-yinka-ilori-chairman-community-center-london-exhibition-interview/",
-      "excerpt": "returning to islington for an exhibition during frieze london, the british-nigerian artist and designer considers how overlooked furniture can carry personal histories, build community, and challenge ",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/art-everywhere-yinka-ilori-chairman-community-center-london-exhibition-interview-designboom-1200.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "Dezeen",
@@ -402,7 +421,7 @@ window.LUMINO_DATA = {
       "title": "Ten homes from the mid-century \"time capsule\" Studley Park",
       "url": "https://www.dezeen.com/2026/10/14/riverside-modern-studley-park/",
       "excerpt": "Riverside Modern is a book documenting the mid-century modern homes of Studley Park in Melbourne. In this roundup, its author Jake Taylor selects 10 standout residences from the architectural enclave.",
-      "today": true
+      "today": false
     },
     {
       "source": "ArchDaily",
@@ -412,26 +431,7 @@ window.LUMINO_DATA = {
       "url": "https://www.archdaily.com/1186599/wilnsdorf-primary-school-and-sports-hall-buero-bb",
       "excerpt": "Set into a wooded slope in western Germany, Wilnsdorf Primary School combines timber, regional precast concrete, and concrete recycled from a demolished local viaduct into a compact building for learn",
       "thumbnailUrl": "https://images.adsttc.com/media/images/6ac7/f66c/b2c4/c300/0178/e3a1/large_jpg/09__SebastianSchels.jpg?1791491626",
-      "today": true
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Armadillo furniture is clad in reused shingles to resemble \"friendly monsters\"",
-      "url": "https://www.dezeen.com/2026/10/14/armadillo-furniture-reused-shingles-friendly-monsters/",
-      "excerpt": "Designers Lukas Wegwerth and Corinna Dehn have unveiled their Armadillo furniture pieces, clad in facade shingles from buildings in Germany's Vogelsberg region, at the Companions exhibition at London'",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.14",
-      "title": "Architecture & Design Film Festival (ADFF): Toronto",
-      "url": "https://www.archdaily.com/1186781/architecture-and-design-film-festival-adff-toronto",
-      "excerpt": "The Architecture & Design Film Festival (ADFF) returns to Toronto, with a fresh fall lineup of films, panel conversations, and social gatherings at the TIFF Lightbox from November 4-7, 2026.\nPresented",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ace/e494/b2c4/c300/0178/f02d/large_jpg/TOR_2026_27_1920_X_1080.png.jpg?1791943838",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -441,7 +441,7 @@ window.LUMINO_DATA = {
       "url": "https://www2.lighting-daiko.co.jp/case/",
       "excerpt": "",
       "thumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "IGNANT",
