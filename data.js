@@ -1,63 +1,63 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.15  19:38",
+  "fetchedAt": "2026.10.15  22:51",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "銀座経済新聞": {
+    "神戸新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "PR TIMES": {
+    "銀座経済新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "www.axismag.jp": {
+    "PR TIMES": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "中日新聞Web": {
+    "www.axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "オズモール": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "KNB WEB": {
+    "オズモール": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "山陽新聞": {
+    "KNB WEB": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "アメーバブログ": {
+    "山陽新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Time Out Tokyo": {
+    "アメーバブログ": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ヨコハマ経済新聞": {
+    "Time Out Tokyo": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ウォーカープラス": {
+    "ヨコハマ経済新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "夜景FAN": {
+    "富士山経済新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Dezeen": {
+    "designboom": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -65,7 +65,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "designboom": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -109,6 +109,15 @@ window.LUMINO_DATA = {
       "date": "2026.10.15",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "神戸新聞",
+      "cat": "国内情報",
+      "date": "2026.10.15",
+      "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -221,21 +230,42 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ウォーカープラス",
+      "source": "富士山経済新聞",
       "cat": "展示・アート",
       "date": "2026.10.15",
-      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
+      "title": "富士市・田子の浦でイルミネーション ドラゴンタワーなどライトアップ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dUNxSDJaczBfeExnVzRmYUk3S0lwRHp1bDRBRG9sbUFobEhXYkRDbXdsNERKTmFTYU5UT1E4OHJNR0xuMGtvWFFRWTlFT1N3eWc?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "夜景FAN",
-      "cat": "展示・アート",
+      "source": "designboom",
+      "cat": "デザイン",
       "date": "2026.10.15",
-      "title": "【2026】福岡タワーで桜ライトアップ点灯中！福岡の夜空に花びら舞う",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXpyVG52YTBNT2tOMHpJZVhQajRFY2h2eU4xeF9VNEFEcHhYb25GRWVlQXlOdHJ3R2JTbDF4NnM2VjMyMGxCc1BZTVdZMUpFTmpnWlFQV01SVFh3ZGthUjkzYWlJVHdpbV9naVJxZk1kMmRncnlYZXJQMmlqc1ZVcQ?oc=5",
-      "excerpt": "",
+      "title": "futurewave’s arc silver bracelet politely tells you to put your phone down",
+      "url": "https://www.designboom.com/technology/futurewave-arc-silver-bracelet-jewelry-phone-connected-devices-argentium-silver/",
+      "excerpt": "no screen, no notifications, and no data to obsess over: the belgian studio imagines a connected object that knows when to leave us alone.\nThe post futurewave’s arc silver bracelet politely tells you ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/Arc-Hero-Large.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "concert design, art spaces, and the mechanics of audience with DuckUnit",
+      "url": "https://www.designboom.com/design/concert-design-art-spaces-mechanics-audience-duckunit/",
+      "excerpt": "founded in 2005, the bangkok-based design studio combines creative disciplines to build stage environments and installations shaped by light and movement.\nThe post concert design, art spaces, and the ",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/DuckUnit-designboom-11.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Who is the RIBA Stirling Prize 2026 winner? We reveal all",
+      "url": "https://www.wallpaper.com/architecture/riba-stirling-prize-2026-winner",
+      "excerpt": "The RIBA Stirling Prize 2026 winner is Lion Green Road, a Croydon council-commissioned housing scheme in south London, designed by architect Mary Duggan, as the British institution celebrates its land",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/5sdXqf8ytcq2ebte7VBj3c-1575-80.jpg",
       "today": true
     },
     {
@@ -249,6 +279,16 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Ibitipoca House / Gávea Arquitetos",
+      "url": "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
+      "excerpt": "The Ibitipoca House is born from the logic of reuse. Faced with an old ruined building in the Serra do Ibitipoca, in Minas Gerais, the project begins with a disassembly operation that seeks to preserv",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/db95/b2c4/c300/0178/f44e/large_jpg/3.jpg?1792007080",
+      "today": true
+    },
+    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.15",
@@ -256,6 +296,16 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/design-interiors/interior-design/kelly-behun-new-york-apartment-ambassador-randi-charno-levine-joana-vasconcelos-installation",
       "excerpt": "Take a tour of the Kelly Behun-designed apartment for Ambassador Randi Charno Levine, home to her extensive art collection, including this new commission by Vasconcelos",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/earthly-paradise-nAL9Xv2tg9howkBxgCZohB-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
+      "url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
+      "excerpt": "The RIBA Stirling Prize 2026 has been awarded to Lion Green Road, a housing development in Coulsdon, South London, designed by Mary Duggan Architects with RUFFARCHITECTS for Croydon Council. Comprisin",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ad0/e7bb/51c8/2d01/89ac/0a59/large_jpg/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026_1.jpg?1792075740",
       "today": true
     },
     {
@@ -359,16 +409,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "Centre Pompidou Francilien — Fabrique de l’Art / PCA-STREAM",
-      "url": "https://www.archdaily.com/1186405/centre-pompidou-francilien-fabrique-de-lart-pca-prellwitz-chilinski-associates",
-      "excerpt": "The Centre Pompidou Francilien – Fabrique de l'Art houses the reserve collections of two institutions. The building has two faces, reflecting the paradox at the heart of its brief. One side is a vault",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acd/efd0/7887/fb01/8910/6b16/large_jpg/centre-pompidou-francilien-fabrique-de-lart-pca-prellwitz-chilinski-associates_20.jpg?1791881199",
-      "today": true
-    },
-    {
       "source": "Wallpaper*",
       "cat": "デザイン",
       "date": "2026.10.15",
@@ -376,16 +416,6 @@ window.LUMINO_DATA = {
       "url": "https://www.wallpaper.com/transportation/acura-nexera-vision-concept-review",
       "excerpt": "Unveiled at The Quail during Monterey Car Week 2026, the Acura Nexera Vision is a two-seater super-coupé designed to reinvigorate the status of Honda’s North American luxury and performance division",
       "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NyQjbVsuoWhL6dmkVRPGLY-2048-80.jpg",
-      "today": true
-    },
-    {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "Typological Drift: Emerging Cities in China",
-      "url": "https://www.archdaily.com/1186919/typological-drift-emerging-cities-in-china",
-      "excerpt": "Typological Drift: Emerging Cities in China documents the impact of the Chinese culture on the development of city types in China in the past four decades, leading to surprising urban realities that o",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6ad0/d2ec/b2c4/c300/0178/f81d/large_jpg/TypologicalDrift_Li-Lorenz_BookCover_RGB.jpg?1792070397",
       "today": true
     },
     {
@@ -409,26 +439,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "Now you can get the Tivoli Audio Model One BT in Sage, Eucalyptus, Ginger and Angora",
-      "url": "https://www.wallpaper.com/tech/now-you-can-get-the-tivoli-audio-model-one-bt-in-sage-eucalyptus-ginger-and-angora",
-      "excerpt": "Tivoli Audio have given their Model One BT a make-over with the addition of four new colourways, the Naturals Collection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/inDTkpeKMZGCwd3DLNgMwV-2560-80.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "UFO-shaped futuro house brings radical 1960s vision of prefab living to the market",
-      "url": "https://www.designboom.com/architecture/ufo-shaped-futuro-house-radical-1960s-vision-prefab-living-market-matti-suuronen-sothebys-donaldson-california/",
-      "excerpt": "listed for sale in idyllwild, california, the rare dwelling designed by matti suuronen reflects a 1960s vision of portable living, when prefabrication and lightweight materials promised new ways to in",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/ufo-shaped-futuro-house-radical-1960s-vision-prefab-living-market-matti-suuronen-sothebys-designboom-1200.jpg",
-      "today": true
-    },
-    {
       "source": "YAMAGIWA",
       "cat": "賞・コンペ",
       "date": "2026.10.15",
@@ -436,16 +446,6 @@ window.LUMINO_DATA = {
       "url": "https://www.yamagiwa.co.jp/news/80387/",
       "excerpt": "",
       "thumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
-      "today": true
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "crafted from dual-tone solid oak, TUPI lamp by estudio gris resembles bird at rest",
-      "url": "https://www.designboom.com/design/dual-tone-solid-oak-tupi-lamp-estudio-gris-bird-rest/",
-      "excerpt": "designed by medellín-based estudio gris, tupi table lamp features a hand-turned solid oak body resembling a bird, complete with a dark wooden beak that conceals the light source to project a warm down",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/tupi-table-lamp-estudio-gris-wood-bird-designboom-1200.jpg",
       "today": true
     },
     {
