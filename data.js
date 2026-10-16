@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.16  00:57",
+  "fetchedAt": "2026.10.16  05:29",
   "sourceColors": {
-    "マイナビニュース": {
+    "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "神戸新聞": {
+    "マイナビニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -53,23 +53,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "富士山経済新聞": {
+    "ウォーカープラス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "designboom": {
+    "Wallpaper*": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Wallpaper*": {
+    "designboom": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ArchDaily": {
+    "Dezeen": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Dezeen": {
+    "ArchDaily": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -104,20 +104,20 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "マイナビニュース",
-      "cat": "デザイン",
-      "date": "2026.10.16",
-      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "神戸新聞",
       "cat": "国内情報",
       "date": "2026.10.16",
       "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "マイナビニュース",
+      "cat": "デザイン",
+      "date": "2026.10.16",
+      "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -230,12 +230,62 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "富士山経済新聞",
+      "source": "ウォーカープラス",
       "cat": "展示・アート",
       "date": "2026.10.16",
-      "title": "富士市・田子の浦でイルミネーション ドラゴンタワーなどライトアップ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dUNxSDJaczBfeExnVzRmYUk3S0lwRHp1bDRBRG9sbUFobEhXYkRDbXdsNERKTmFTYU5UT1E4OHJNR0xuMGtvWFFRWTlFT1N3eWc?oc=5",
+      "title": "幻想的な桜のライトアップ×宝石色イルミネーション！よみうりランドで「夜桜ジュエルミネーション」開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOHhPVzZFVWR0OGw2d1pRSVZZWXV0REc5WVVjY0szX2trWjJ3ZlhWeDR3bC1TanZPZ2trQ3FMNGFESDc1bERhQkpvUmZ3MzBuSFpNanJB0gFbQVVfeXFMUEgtSlY0UkY3b0dSSXF3MDN5ZXhyU0dpTVRQalJ1a1N6UWdfRldFbXR0NFgteFRRVTNjblVnR1ZSYUttWkp3Vk80cVIxbGt1V2dxNWt5eEhka3gzNA?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.16",
+      "title": "Inside Margaret Howell’s new London workroom, a temple to shirtmaking",
+      "url": "https://www.wallpaper.com/fashion-beauty/margaret-howell-london-workroom-tour",
+      "excerpt": "The quintessential British designer’s new workroom has opened in north London. Wallpaper* takes a tour",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/DVEhXPSf5tUgzpJBBSachk-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "Wallpaper*",
+      "cat": "デザイン",
+      "date": "2026.10.16",
+      "title": "Step inside this Bali villa, an intimate, yet conceptually expansive home",
+      "url": "https://www.wallpaper.com/architecture/residential/sora-bali-villa-colvin-haven-indonesia",
+      "excerpt": "Sora, a new Bali villa by Colvin Haven, is a private retreat built around restraint, where 'the brief became subtraction'",
+      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/ywYJUdnJGYB32DQJ98RUrN-2560-80.jpg",
+      "today": true
+    },
+    {
+      "source": "designboom",
+      "cat": "デザイン",
+      "date": "2026.10.16",
+      "title": "thessaloniki’s layered historic center weaves into expandable pedestrian network",
+      "url": "https://www.designboom.com/architecture/thessaloniki-greece-layered-historic-center-expandable-pedestrian-network-armosi-masterplan-apostolopoulos-tasoulis/",
+      "excerpt": "linked by a neutral urban skin, apostolopoulos tasoulis’ masterplan establishes an expandable urban network designed to unify over seventy monuments and archaeological sites across thessaloniki, greec",
+      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/armosi-masterplan-apostolopoulos-tasoulis-expandable-urban-network-thessaloniki-greece-designboom-1200-1.jpg",
+      "today": true
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.16",
+      "title": "Tesla launches flying Roadster concept car",
+      "url": "https://www.dezeen.com/2026/10/16/tesla-launches-flying-roadster-concept-car/",
+      "excerpt": "Electric car company Tesla has unveiled its flying Roadster vehicle with a demonstration in which the car drove upside down, flipped off a ramp and briefly flew, using compressed-air thrusters that Te",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/tesla-roadster-flying-car_dezeen_2364_sq.jpg",
+      "today": true
+    },
+    {
+      "source": "ArchDaily",
+      "cat": "デザイン",
+      "date": "2026.10.16",
+      "title": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
+      "url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+      "excerpt": "To the west of the Tianjin Academy of Fine Arts lies a century-old urban fabric. With the completion of the Tianjin Eye, the Haihe River's cultural and tourism flows converge at the Sancha Estuary, ye",
+      "thumbnailUrl": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
       "today": true
     },
     {
@@ -256,6 +306,16 @@ window.LUMINO_DATA = {
       "url": "https://www.designboom.com/design/concert-design-art-spaces-mechanics-audience-duckunit/",
       "excerpt": "founded in 2005, the bangkok-based design studio combines creative disciplines to build stage environments and installations shaped by light and movement.\nThe post concert design, art spaces, and the ",
       "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/DuckUnit-designboom-11.jpg",
+      "today": false
+    },
+    {
+      "source": "Dezeen",
+      "cat": "デザイン",
+      "date": "2026.10.15",
+      "title": "\"Welcoming and inclusive\" London housing wins RIBA Stirling Prize 2026",
+      "url": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
+      "excerpt": "The Lion Green Road housing in south London, designed by local studios Mary Duggan Architects with Ruff Architects, has won this year's RIBA Stirling Prize for the UK's best new building. Located in C",
+      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/lion-green-road-mary-duggan-ruff-architects-london-riba-stirling-prize-2026-winner_dezeen_2364_hero.jpg",
       "today": false
     },
     {
@@ -359,16 +419,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "ArchDaily",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "Loungueira House / Pontoatelier",
-      "url": "https://www.archdaily.com/1186863/loungueira-house-pontoatelier",
-      "excerpt": "The project begins with the complete demolition of a fragile and poorly built structure, replaced by a compact house designed for the son and his family. The first gesture is to define the largest pos",
-      "thumbnailUrl": "https://images.adsttc.com/media/images/6acf/eb35/b2c4/c300/0178/f4c6/large_jpg/PA_TiagoCasanova_06.jpg?1792011107",
-      "today": false
-    },
-    {
       "source": "designboom",
       "cat": "デザイン",
       "date": "2026.10.15",
@@ -386,56 +436,6 @@ window.LUMINO_DATA = {
       "url": "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
       "excerpt": "Japanese studio Schemata Architects has renovated a guesthouse in Dromgarriff Rainforest, Ireland, connecting two existing stone buildings with a timber- and steel-framed yoga studio. Named Linden Hou",
       "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/schemata-architects-linden-house-restoration-ireland-hero_dezeen_2364_col_1.jpg",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "\"Radically simple\" Resonance pavilion takes centre stage at Tallinn Architecture Biennale",
-      "url": "https://www.dezeen.com/2026/10/15/resonance-pavilion-tallinn-architecture-biennale/",
-      "excerpt": "Limestone and plywood make up the temporary pavilion at the heart of this year's Tallinn Architecture Biennale, designed by Shanghai- and Tokyo-based studio Aru Ma- Architects. Named Resonance, the pa",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/resonance-pavilion-tallinn-architecture-biennale-temporary-stone-plywood_dezeen_2364_hero.jpg",
-      "today": false
-    },
-    {
-      "source": "designboom",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "iris ceramica group expands multi sensory design through surfaces and scent",
-      "url": "https://www.designboom.com/design/iris-ceramica-group-multi-sensory-design-surfaces-scent/",
-      "excerpt": "more than wall cladding. iris ceramica group's new surfaces become an architectural medium designed to engage touch, sight, and spatial perception.\nThe post iris ceramica group expands multi sensory d",
-      "thumbnailUrl": "https://www.designboom.com/twitterimages/uploads/2026/10/iris-ceramica_designboom_facebook.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "With the dramatic Nexera Vision concept, Acura is doubling down on its sporting heritage",
-      "url": "https://www.wallpaper.com/transportation/acura-nexera-vision-concept-review",
-      "excerpt": "Unveiled at The Quail during Monterey Car Week 2026, the Acura Nexera Vision is a two-seater super-coupé designed to reinvigorate the status of Honda’s North American luxury and performance division",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/NyQjbVsuoWhL6dmkVRPGLY-2048-80.jpg",
-      "today": false
-    },
-    {
-      "source": "Wallpaper*",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "‘I wanted the inner world to shine’: Jacqueline Rabun on jewellery that takes you to a better place",
-      "url": "https://www.wallpaper.com/watches-jewellery/jacqueline-rabun-cave-jewellery-collection-interview",
-      "excerpt": "The influential American jewellery designer continues to create idiosyncratically; here, she talks us through her new Cave collection",
-      "thumbnailUrl": "https://cdn.mos.cms.futurecdn.net/vsDmQY7kmLLSqwZegcj2om-1920-80.png",
-      "today": false
-    },
-    {
-      "source": "Dezeen",
-      "cat": "デザイン",
-      "date": "2026.10.15",
-      "title": "\"People need to be able to afford to adapt to climate change\" says architect founder of Shaded",
-      "url": "https://www.dezeen.com/2026/10/15/aimee-daniels-shaded-interview/",
-      "excerpt": "London-based architectural designer Aimée Daniels has invented an awning system that sold out multiple times this summer. In this interview, she argues the UK needs to get on board with the power of s",
-      "thumbnailUrl": "https://static.dezeen.com/uploads/2026/10/aimee-daniels-shaded-interview-sq_dezeen_2364_col_0.jpg",
       "today": false
     },
     {
