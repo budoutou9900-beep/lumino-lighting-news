@@ -48,7 +48,6 @@ GOOGLE_QUERIES = [
     "照明 コンペ OR 照明 賞",
     "照明計画 OR 照明設計",
     "照明 展覧会 OR 照明 展示",
-    "ライトアップ イルミネーション",
     "美術館 照明 インスタレーション",
     "美大 卒業制作 照明 OR 卒展 照明",
 ]
@@ -85,8 +84,18 @@ EXCLUDE_KEYWORDS = [
 ]
 
 
+# イベント系のライトアップ・イルミネーション記事は対象外。
+# ただし照明計画・照明デザインとして扱われているものは残す
+EVENT_LIGHTUP_KEYWORDS = ["ライトアップ", "イルミネーション", "点灯式", "光の祭典", "夜桜", "紅葉", "キャンドルナイト", "ランタン"]
+LIGHTING_DESIGN_KEYWORDS = ["照明デザイン", "照明計画", "照明設計", "ライティングデザイン", "照明デザイナー"]
+
+
+def is_event_lightup(title: str) -> bool:
+    return any(kw in title for kw in EVENT_LIGHTUP_KEYWORDS) and not any(kw in title for kw in LIGHTING_DESIGN_KEYWORDS)
+
+
 def is_excluded(title: str) -> bool:
-    return any(kw in title for kw in EXCLUDE_KEYWORDS)
+    return any(kw in title for kw in EXCLUDE_KEYWORDS) or is_event_lightup(title)
 
 PANASONIC_FEEDS = [
     "https://news.panasonic.com/jp/rss/category/products-solutions/housing.xml",
@@ -103,7 +112,7 @@ def is_lighting_related(title: str) -> bool:
     return any(kw in title for kw in LIGHTING_KEYWORDS)
 
 CATEGORY_RULES = [
-    ("展示・アート", ["展覧会", "展示会", "個展", "卒展", "卒業制作", "インスタレーション", "ライトアップ", "イルミネーション", "美術館", "ギャラリー", "アート"]),
+    ("展示・アート", ["展覧会", "展示会", "個展", "卒展", "卒業制作", "インスタレーション", "美術館", "ギャラリー", "アート", "企画展", "特別展", "回顧展", "作品展", "コラボ展", "作家", "アーティスト"]),
     ("賞・コンペ", ["賞", "コンペ", "アワード", "award"]),
     ("新製品", ["新製品", "発売", "新型", "リリース"]),
     ("技術・LED", ["LED", "Mini LED", "技術", "OLED"]),
@@ -156,6 +165,24 @@ PER_SOURCE_CAP = {
 
 def cap_by_recency(articles, limit):
     return sorted(articles, key=lambda a: a["_pub_date"], reverse=True)[:limit]
+
+
+# 表示用の3分類（Art / Architecture / Technology）。取得時は従来カテゴリで判定し、最後に変換する
+LEGACY_TO_CATEGORY = {
+    "展示・アート": "Art",
+    "新製品": "Technology",
+    "技術・LED": "Technology",
+    "デザイン": "Architecture",
+    "賞・コンペ": "Architecture",
+    "国内情報": "Architecture",
+}
+TECHNOLOGY_SOURCES = {"パナソニック", "遠藤照明", "大光電機", "YAMAGIWA", "岩崎電気"}
+
+
+def to_display_category(article):
+    if article["source"] in TECHNOLOGY_SOURCES:
+        return "Technology"
+    return LEGACY_TO_CATEGORY.get(article["cat"], article["cat"])
 
 
 def categorize(title: str, default: str = DEFAULT_CATEGORY) -> str:
@@ -495,158 +522,6 @@ def collect_2121designsight():
     return articles
 
 
-# ---- 海外デザイン/建築メディア（Gemini採点で一般訴求度を絞り込む） ----
-
-GENERAL_DESIGN_FEEDS = [
-    ("Dezeen", "https://www.dezeen.com/feed/"),
-    ("designboom", "https://www.designboom.com/feed/"),
-    ("ArchDaily", "https://www.archdaily.com/rss/"),
-    ("IGNANT", "https://www.ignant.com/feed/"),
-    ("Wallpaper*", "https://www.wallpaper.com/feed/rss"),
-]
-
-
-def collect_general_design_feed(source_name, feed_url):
-    try:
-        req = urllib.request.Request(feed_url, headers=UA)
-        with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as res:
-            xml_bytes = res.read()
-    except Exception as exc:
-        print(f"[warn] {source_name} fetch failed: {exc}")
-        return []
-
-    try:
-        root = ET.fromstring(xml_bytes.strip())
-    except ET.ParseError as exc:
-        print(f"[warn] {source_name} feed parse failed: {exc}")
-        return []
-
-    articles = []
-    for item in root.findall("./channel/item"):
-        title = unescape((item.findtext("title") or "").strip())
-        link = (item.findtext("link") or "").strip()
-        if not title or not link:
-            continue
-        pub_date = parse_rfc822(item.findtext("pubDate") or "")
-        description = unescape(re.sub(r"<[^>]+>", "", item.findtext("description") or "")).strip()
-        article = make_article(source_name, "デザイン", pub_date, title, link, excerpt=description[:200])
-        article["_needsAiFilter"] = True
-        articles.append(article)
-    return articles
-
-
-GENERAL_DESIGN_PER_SOURCE_CAP = 5
-
-
-def collect_general_design_all():
-    articles = []
-    for source_name, feed_url in GENERAL_DESIGN_FEEDS:
-        feed_articles = collect_general_design_feed(source_name, feed_url)
-        articles.extend(cap_by_recency(feed_articles, GENERAL_DESIGN_PER_SOURCE_CAP))
-    return articles
-
-
-# ---- Gemini APIによる一般訴求度スコアリング ----
-
-GEMINI_CONFIG_PATH = Path(__file__).parent / "gemini_config.json"
-GEMINI_MODEL = "gemini-2.5-flash"
-GEMINI_SCORE_THRESHOLD = 6
-GEMINI_MAX_CANDIDATES = 100
-GEMINI_RATE_LIMIT_SLEEP = 20  # 無料枠のレート制限に余裕を持たせるための間隔
-
-FILTER_PROMPT = """あなたはLUMINOという照明メディアのキュレーターです。
-LUMINOのミッションは「照明を意識していない一般の人に、日常の光の美しさに気づいてもらうこと」です。
-
-以下の記事が、このミッションに沿って一般の人が興味を持てるかを0〜10でスコアリングしてください。
-
-【高スコア（7〜10）の基準】
-- 空間・建築・インテリアの照明デザインに関する内容
-- 光のアートインスタレーション
-- 照明と人の感情・体験・暮らしに関する内容
-- 光と自然・都市景観に関する内容
-- デザイン賞・話題のプロジェクト
-
-【低スコア（0〜3）の基準】
-- 製品の型番・スペック・技術仕様の発表
-- 業界向けのプレスリリース
-- 企業の経営・M&A・決算情報
-- 展示会・見本市への出展告知のみの内容
-- 法規制・業界団体のアナウンス
-- 照明・光と無関係な一般の建築・デザイン記事
-
-記事タイトル：{title}
-記事概要：{description}
-
-スコアのみを整数で返してください（例：7）。説明は不要です。"""
-
-
-def load_gemini_api_key():
-    env_key = os.environ.get("GEMINI_API_KEY")
-    if env_key:
-        return env_key
-    if not GEMINI_CONFIG_PATH.exists():
-        return None
-    try:
-        config = json.loads(GEMINI_CONFIG_PATH.read_text(encoding="utf-8"))
-    except Exception:
-        return None
-    key = config.get("api_key", "")
-    if not key or "ここに" in key:
-        return None
-    return key
-
-
-def score_with_gemini(api_key, title, description, retries=1):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={api_key}"
-    prompt = FILTER_PROMPT.format(title=title, description=description or "（概要なし）")
-    body = {"contents": [{"parts": [{"text": prompt}]}]}
-    for attempt in range(retries + 1):
-        try:
-            res = requests.post(url, json=body, timeout=HTTP_TIMEOUT)
-            if res.status_code == 429 and attempt < retries:
-                time.sleep(GEMINI_RATE_LIMIT_SLEEP * (attempt + 2))
-                continue
-            res.raise_for_status()
-            text = res.json()["candidates"][0]["content"]["parts"][0]["text"]
-            m = re.search(r"\d+", text)
-            return int(m.group()) if m else None
-        except Exception as exc:
-            print(f"[warn] gemini scoring failed for '{title[:40]}': {exc}")
-            if attempt < retries:
-                time.sleep(GEMINI_RATE_LIMIT_SLEEP)
-                continue
-            return None
-    return None
-
-
-def filter_general_design_with_gemini(articles):
-    """海外デザインメディアの記事のみ、Geminiでスコアリングしてミッション適合度の低い記事を除外する。
-    APIキー未設定・呼び出し失敗時は記事を残す（フェイルオープン）。"""
-    for a in articles:
-        a.pop("_needsAiFilter", None)
-
-    general_design_sources = {name for name, _ in GENERAL_DESIGN_FEEDS}
-    to_score = [a for a in articles if a.get("source") in general_design_sources]
-    others = [a for a in articles if a.get("source") not in general_design_sources]
-    if not to_score:
-        return articles
-
-    api_key = load_gemini_api_key()
-    if not api_key:
-        print("[warn] GEMINI_API_KEY未設定のため、海外デザインメディア記事はスコアリングなしで全件採用します。")
-        return articles
-
-    kept = []
-    for i, article in enumerate(to_score[:GEMINI_MAX_CANDIDATES]):
-        score = score_with_gemini(api_key, article["title"], article.get("excerpt", ""))
-        if score is None or score >= GEMINI_SCORE_THRESHOLD:
-            article["score"] = score
-            kept.append(article)
-        if i < len(to_score) - 1:
-            time.sleep(GEMINI_RATE_LIMIT_SLEEP)
-    return others + kept
-
-
 # ---- DNライティング（スクレイピング） ----
 
 def collect_dn_lighting():
@@ -869,17 +744,6 @@ def collect_articles():
         except Exception as exc:
             print(f"[warn] collector {collector.__name__} failed: {exc}")
 
-    try:
-        general_design = [a for a in collect_general_design_all() if not is_excluded(a["title"])]
-        general_design = [a for a in general_design if a["url"] not in seen_links and a["title"] not in seen_titles]
-        general_design = filter_general_design_with_gemini(general_design)
-        for article in general_design:
-            seen_links.add(article["url"])
-            seen_titles.add(article["title"])
-            articles.append(article)
-    except Exception as exc:
-        print(f"[warn] general design feeds failed: {exc}")
-
     articles.sort(key=lambda a: a["_pub_date"], reverse=True)
     return articles[:MAX_ARTICLES]
 
@@ -1001,6 +865,52 @@ def attach_thumbnails(articles):
     return [a for a in articles if a["_pub_date"] >= cutoff]
 
 
+IMAGE_DIR = Path(__file__).parent / "images" / "news"
+IMAGE_MAX_WIDTH = 640
+
+
+def cache_thumbnails(articles):
+    """サムネイルを images/news/ に保存し、thumbnailUrl をローカルパスに置き換える。
+    配信元のホットリンク対策やリンク切れの影響を受けず、記事が一覧から消えても画像が残る。
+    取得に失敗した記事は元のURLを残す（表示側が元URLにフォールバックする）。"""
+    import hashlib
+    from io import BytesIO
+    from PIL import Image
+
+    IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+
+    def worker(article):
+        remote = article.get("thumbnailUrl")
+        if not remote or not remote.startswith("http"):
+            article.pop("thumbnailUrl", None)
+            return
+        name = hashlib.sha1(remote.encode("utf-8")).hexdigest()[:16] + ".jpg"
+        path = IMAGE_DIR / name
+        if not path.exists():
+            try:
+                res = requests.get(remote, headers={"User-Agent": "Mozilla/5.0", "Referer": article["url"]}, timeout=THUMBNAIL_TIMEOUT)
+                res.raise_for_status()
+                img = Image.open(BytesIO(res.content)).convert("RGB")
+                if img.width > IMAGE_MAX_WIDTH:
+                    img = img.resize((IMAGE_MAX_WIDTH, round(img.height * IMAGE_MAX_WIDTH / img.width)))
+                img.save(path, "JPEG", quality=80)
+            except Exception as exc:
+                print(f"[warn] thumbnail cache failed for {remote[:80]}: {exc}")
+                article["remoteThumbnailUrl"] = remote
+                article.pop("thumbnailUrl", None)
+                return
+        article["thumbnailUrl"] = f"images/news/{name}"
+        article["remoteThumbnailUrl"] = remote
+
+    with ThreadPoolExecutor(max_workers=THUMBNAIL_WORKERS) as pool:
+        list(pool.map(worker, articles))
+
+    keep = {a["thumbnailUrl"].rsplit("/", 1)[-1] for a in articles if a.get("thumbnailUrl", "").startswith("images/news/")}
+    for f in IMAGE_DIR.glob("*.jpg"):
+        if f.name not in keep:
+            f.unlink()
+
+
 def assign_today_flag(articles):
     today_str = datetime.now().strftime("%Y.%m.%d")
     for a in articles:
@@ -1027,6 +937,9 @@ def main():
         return
 
     articles = attach_thumbnails(articles)
+    for a in articles:
+        a["cat"] = to_display_category(a)
+    cache_thumbnails(articles)
     articles = assign_today_flag(articles)
     source_colors = build_source_colors(articles)
 
@@ -1054,13 +967,13 @@ def publish_to_github():
     repo_dir = str(OUTPUT_PATH.parent)
     try:
         diff = subprocess.run(
-            ["git", "status", "--porcelain", "data.js"],
+            ["git", "status", "--porcelain", "data.js", "images/news"],
             cwd=repo_dir, capture_output=True, text=True, check=True,
         )
         if not diff.stdout.strip():
             print("[info] data.js に変更なし。pushはスキップします。")
             return
-        subprocess.run(["git", "add", "data.js"], cwd=repo_dir, check=True)
+        subprocess.run(["git", "add", "-A", "data.js", "images/news"], cwd=repo_dir, check=True)
         subprocess.run(
             ["git", "commit", "-m", f"data.js update {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
             cwd=repo_dir, check=True,

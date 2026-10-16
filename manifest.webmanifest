@@ -1,7 +1,7 @@
 {
-  "name": "LUMINO — 総合光メディア",
+  "name": "LUMINO — 照明ニュース",
   "short_name": "LUMINO",
-  "description": "照明業界の総合光メディア",
+  "description": "照明ニュース（個人用）",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

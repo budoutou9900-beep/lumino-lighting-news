@@ -2,14 +2,19 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LUMINO — 総合光メディア</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>LUMINO — 照明ニュース</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Sans+JP:wght@300;400;500;700&family=Shippori+Mincho+B1:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="LUMINO">
 <meta name="theme-color" content="#070b16">
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -25,7 +30,7 @@
           <img class="lumino-logo" src="icons/lumino-mark.svg" alt="" width="34" height="34">
           <div class="lumino-wordmark">LUMIN<span class="lumino-wordmark-o"></span></div>
         </div>
-        <div class="lumino-topbar-sub">総合光メディア</div>
+        <div class="lumino-topbar-sub">更新 <span id="fetchedAt">—</span></div>
       </header>
 
       <!-- CONTENT -->
@@ -38,36 +43,11 @@
             <span class="lumino-section-label" id="sectionLabel"></span>
           </div>
           <h1 class="lumino-section-title" id="sectionTitle"></h1>
-          <p class="lumino-section-desc" id="sectionDesc"></p>
         </div>
 
-        <!-- HOME -->
-        <section class="lumino-section" id="tab-home" data-tab="home">
-          <div class="lumino-todaypick" id="todayPick"></div>
-
-          <div class="lumino-hero-heading">
-            <span class="lumino-dot-sm"></span>
-            <span class="lumino-featured-label">FEATURED</span>
-            <span class="lumino-featured-sub">おすすめ記事</span>
-          </div>
-          <div class="lumino-hero-frame">
-            <div class="lumino-hero-track" id="heroTrack"></div>
-            <div class="lumino-hero-dots" id="heroDots"></div>
-          </div>
-
-          <div id="homePreviews"></div>
-        </section>
-
-        <!-- INSPIRATION -->
-        <section class="lumino-section" id="tab-inspiration" data-tab="inspiration" hidden>
-          <div class="lumino-masonry" id="inspirationFeed"></div>
-          <div class="lumino-insp-end">— 光に出会う、ここまで —</div>
-        </section>
-
         <!-- NEWS -->
-        <section class="lumino-section" id="tab-news" data-tab="news">
+        <section class="lumino-section" id="tab-news">
           <div class="lumino-news-controls">
-            <nav class="lumino-chips" id="categoryTabs"></nav>
             <div class="lumino-search">
               <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#7c859b" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" class="lumino-search-icon"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.2-3.2"></path></svg>
               <input type="text" id="searchInput" class="lumino-search-input" placeholder="記事を検索…">
@@ -83,65 +63,39 @@
             <span class="lumino-meta-today"><span class="lumino-dot-sm"></span>今日の新着 <span id="nToday">0</span> 件</span>
           </div>
 
-          <div class="lumino-grid" id="skeletonGrid" hidden></div>
           <div class="lumino-grid" id="newsGrid"></div>
           <div class="lumino-empty" id="emptyState" hidden>
             <div class="lumino-empty-title">該当する記事がありません</div>
-            <div class="lumino-empty-sub">キーワードやカテゴリを変えてお試しください。</div>
-            <button type="button" class="lumino-empty-reset" id="emptyResetBtn">条件をリセット</button>
+            <div class="lumino-empty-sub">キーワードを変えてお試しください。</div>
+            <button type="button" class="lumino-empty-reset" id="emptyResetBtn">検索をクリア</button>
           </div>
-        </section>
-
-        <!-- LEARN -->
-        <section class="lumino-section" id="tab-learn" data-tab="learn" hidden>
-          <button type="button" class="lumino-learn-back" id="learnBackBtn" aria-label="一覧に戻る" hidden>←</button>
-          <div class="lumino-learn-masonry" id="learnMasonry"></div>
-          <div class="lumino-learn-article" id="learnArticle" hidden></div>
-        </section>
-
-        <!-- RESEARCH -->
-        <section class="lumino-section" id="tab-research" data-tab="research" hidden>
-          <div class="lumino-research-list" id="researchList"></div>
         </section>
 
       </main>
 
-      <!-- BOTTOM NAV -->
-      <nav class="lumino-bottomnav" id="bottomNav">
-        <button class="lumino-navbtn" data-tab="home">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"></path><path d="M5.5 10v9a1 1 0 0 0 1 1H17.5a1 1 0 0 0 1-1v-9"></path><path d="M9.5 20v-6h5v6"></path></svg>
-          <span>Home</span>
-        </button>
-        <button class="lumino-navbtn" data-tab="inspiration">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 13.7 8.3 18.5 10 13.7 11.7 12 16.5 10.3 11.7 5.5 10 10.3 8.3z"></path><path d="M18.5 16.5l.6 1.7 1.7.6-1.7.6-.6 1.7-.6-1.7-1.7-.6 1.7-.6z"></path></svg>
-          <span>Inspiration</span>
-        </button>
-        <button class="lumino-navbtn" data-tab="news">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h12v14H6a2 2 0 0 1-2-2z"></path><path d="M16 8h3v9a2 2 0 0 1-2 2"></path><path d="M7 9h6M7 12.5h6M7 16h4"></path></svg>
-          <span>News</span>
-        </button>
-        <button class="lumino-navbtn" data-tab="learn">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C10.5 5.5 8.4 5 6.5 5 5 5 3.8 5.2 3 5.5v12.5c.8-.3 2-.5 3.5-.5 1.9 0 4 .5 5.5 1.5"></path><path d="M12 6.5C13.5 5.5 15.6 5 17.5 5 19 5 20.2 5.2 21 5.5v12.5c-.8-.3-2-.5-3.5-.5-1.9 0-4 .5-5.5 1.5"></path><path d="M12 6.5V19"></path></svg>
-          <span>Learn</span>
-        </button>
-        <button class="lumino-navbtn" data-tab="research">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 3h5"></path><path d="M10.5 3v6L5.2 17.6A2 2 0 0 0 6.9 21h10.2a2 2 0 0 0 1.7-3.4L13.5 9V3"></path><path d="M8 14.5h8"></path></svg>
-          <span>Research</span>
-        </button>
-      </nav>
+      <!-- BOTTOM NAV（Buto-do と同じフローティングのタブバー） -->
+      <div class="lumino-tabbar-wrap">
+        <div class="lumino-tabbar-fade"></div>
+        <nav class="lumino-tabbar" id="bottomNav">
+          <button class="lumino-tabitem" data-tab="Art">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a9 9 0 1 0 0 18c1.1 0 1.8-.8 1.8-1.7 0-.5-.2-.9-.5-1.2-.3-.3-.5-.7-.5-1.2 0-.9.8-1.7 1.7-1.7H16.6A4.4 4.4 0 0 0 21 10.8C21 6.5 17 3 12 3z"></path><circle cx="7.5" cy="11" r="1.1"></circle><circle cx="10.5" cy="7.2" r="1.1"></circle><circle cx="15.2" cy="7.6" r="1.1"></circle></svg>
+            <span>Art</span>
+          </button>
+          <button class="lumino-tabitem" data-tab="Architecture">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"></path><path d="M5 21V8l7-4 7 4v13"></path><path d="M9.5 21v-5h5v5"></path><path d="M9 11h.01M15 11h.01"></path></svg>
+            <span>Architecture</span>
+          </button>
+          <button class="lumino-tabitem" data-tab="Technology">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"></path><path d="M10 21h4"></path><path d="M12 3a6 6 0 0 0-3.6 10.8c.7.5 1.1 1.3 1.1 2.2h5c0-.9.4-1.7 1.1-2.2A6 6 0 0 0 12 3z"></path></svg>
+            <span>Technology</span>
+          </button>
+        </nav>
+      </div>
 
     </div>
   </div>
   <script src="data.js"></script>
-  <script src="inspiration-data.js"></script>
-  <script src="learn-data.js"></script>
-  <script src="research-data.js"></script>
-  <script src="today-pick.js"></script>
   <script src="news.js"></script>
-  <script src="inspiration.js"></script>
-  <script src="learn.js"></script>
-  <script src="research.js"></script>
-  <script src="home.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

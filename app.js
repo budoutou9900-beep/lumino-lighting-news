@@ -1,18 +1,17 @@
 (function () {
   const TABS = {
-    home: { word: "Home", jp: "今日のあかり", desc: "おすすめの記事と、4つのセクションのハイライトを、ここから。", accent: "#f5c560", accentBg: "rgba(247,195,86,0.14)", glow: "rgba(245,181,61,0.18)", tint: "linear-gradient(180deg, rgba(210,150,60,0.11), rgba(210,150,60,0) 48%)" },
-    inspiration: { word: "Inspiration", jp: "光に出会う", desc: "光が美しい瞬間を、世界中のメディアから。眺めるうちに、光に興味が湧いてくる。", accent: "#f5c560", accentBg: "rgba(247,195,86,0.14)", glow: "rgba(245,181,61,0.18)", tint: "linear-gradient(180deg, rgba(210,150,60,0.11), rgba(210,150,60,0) 48%)" },
-    news: { word: "News", jp: "業界の最新情報", desc: "メーカー・製品・展示会・受賞。実務に効くニュースを、毎朝。", accent: "#6fc6c0", accentBg: "rgba(111,198,192,0.14)", glow: "rgba(111,198,192,0.16)", tint: "linear-gradient(180deg, rgba(46,158,148,0.11), rgba(46,158,148,0) 48%)" },
-    learn: { word: "Learn", jp: "光を、もっと知る", desc: "なぜそう見えるのか。LUMINO編集部による、光の完全オリジナル解説。", accent: "#e9a6c4", accentBg: "rgba(233,166,196,0.14)", glow: "rgba(233,166,196,0.16)", tint: "linear-gradient(180deg, rgba(150,86,168,0.11), rgba(150,86,168,0) 48%)" },
-    research: { word: "Research", jp: "論文・学会情報", desc: "学術誌・学会の一次情報。各論文はAI要約に対応予定。", accent: "#9aa6f5", accentBg: "rgba(154,166,245,0.14)", glow: "rgba(154,166,245,0.16)", tint: "linear-gradient(180deg, rgba(70,86,200,0.11), rgba(70,86,200,0) 48%)" },
+    Art: { jp: "アート・展示", accent: "#e9a6c4", accentBg: "rgba(233,166,196,0.14)", glow: "rgba(233,166,196,0.16)", tint: "linear-gradient(180deg, rgba(150,86,168,0.11), rgba(150,86,168,0) 48%)" },
+    Architecture: { jp: "建築・照明デザイン", accent: "#f5c560", accentBg: "rgba(247,195,86,0.14)", glow: "rgba(245,181,61,0.18)", tint: "linear-gradient(180deg, rgba(210,150,60,0.11), rgba(210,150,60,0) 48%)" },
+    Technology: { jp: "製品・技術", accent: "#6fc6c0", accentBg: "rgba(111,198,192,0.14)", glow: "rgba(111,198,192,0.16)", tint: "linear-gradient(180deg, rgba(46,158,148,0.11), rgba(46,158,148,0) 48%)" },
   };
   const TAB_KEYS = Object.keys(TABS);
+  const TAB_STORAGE_KEY = "lumino-active-tab";
   let activeTab = null;
 
-  const sections = {};
-  TAB_KEYS.forEach((t) => { sections[t] = document.getElementById("tab-" + t); });
-  const navButtons = Array.from(document.querySelectorAll(".lumino-navbtn"));
+  const section = document.getElementById("tab-news");
+  const navButtons = Array.from(document.querySelectorAll(".lumino-tabitem"));
   const appEl = document.getElementById("luminoApp");
+  const contentEl = document.querySelector(".lumino-content");
 
   function applyTheme(tab) {
     const t = TABS[tab];
@@ -21,40 +20,33 @@
     appEl.style.setProperty("--glow", t.glow);
     appEl.style.setProperty("--tint", t.tint);
     document.getElementById("sectionLabel").textContent = t.jp;
-    document.getElementById("sectionTitle").textContent = t.word;
-    document.getElementById("sectionDesc").textContent = t.desc;
+    document.getElementById("sectionTitle").textContent = tab;
   }
 
   function showTab(tab) {
     if (!TABS[tab] || tab === activeTab) return;
-    if (window.luminoCloseLearnArticle) window.luminoCloseLearnArticle();
     const fromIdx = TAB_KEYS.indexOf(activeTab);
     const toIdx = TAB_KEYS.indexOf(tab);
-    const dir = toIdx > fromIdx ? "right" : "left";
+    const animClass = toIdx > fromIdx ? "lumino-slide-in-right" : "lumino-slide-in-left";
     activeTab = tab;
-    TAB_KEYS.forEach((t) => { sections[t].hidden = t !== tab; });
+    try { localStorage.setItem(TAB_STORAGE_KEY, tab); } catch {}
     navButtons.forEach((btn) => btn.classList.toggle("active", btn.dataset.tab === tab));
     applyTheme(tab);
-    document.querySelector(".lumino-content").scrollTo(0, 0);
+    window.luminoSetCategory(tab);
+    contentEl.scrollTo(0, 0);
 
-    const enteringEl = sections[tab];
-    const animClass = dir === "right" ? "lumino-slide-in-right" : "lumino-slide-in-left";
-    enteringEl.classList.remove("lumino-slide-in-right", "lumino-slide-in-left");
+    section.classList.remove("lumino-slide-in-right", "lumino-slide-in-left");
     // 再生のためリフローを強制してからクラスを付与
-    void enteringEl.offsetWidth;
-    enteringEl.classList.add(animClass);
-    enteringEl.addEventListener("animationend", () => {
-      enteringEl.classList.remove(animClass);
+    void section.offsetWidth;
+    section.classList.add(animClass);
+    section.addEventListener("animationend", () => {
+      section.classList.remove(animClass);
     }, { once: true });
   }
-
-  window.luminoGoTab = showTab;
-  window.LUMINO_TAB_THEME = TABS;
 
   navButtons.forEach((btn) => btn.addEventListener("click", () => showTab(btn.dataset.tab)));
 
   // SWIPE NAVIGATION
-  const contentEl = document.querySelector(".lumino-content");
   let touchStartX = null;
   let touchStartY = null;
 
@@ -75,5 +67,10 @@
     if (dx > 0 && idx > 0) showTab(TAB_KEYS[idx - 1]);
   }, { passive: true });
 
-  showTab("home");
+  let initial = "Architecture";
+  try {
+    const saved = localStorage.getItem(TAB_STORAGE_KEY);
+    if (TABS[saved]) initial = saved;
+  } catch {}
+  showTab(initial);
 })();
