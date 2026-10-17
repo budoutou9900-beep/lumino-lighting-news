@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.17  00:59",
+  "fetchedAt": "2026.10.17  05:22",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -53,21 +53,29 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -207,6 +215,17 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.10.15",
+      "title": "内省と没頭を照らしだす照明「SOLO」が「2026年度グッドデザイン賞」を受賞",
+      "url": "https://www.yamagiwa.co.jp/news/80387/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/fde3c054ddd2e890.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "Technology",
       "date": "2026.10.14",
@@ -295,6 +314,17 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.09.24",
+      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
+      "url": "https://www.yamagiwa.co.jp/news/80248/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "Technology",
       "date": "2026.09.15",
@@ -316,6 +346,17 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "LPA",
+      "cat": "Architecture",
+      "date": "2026.09.14",
+      "title": "LPA新刊のお知らせ",
+      "url": "https://www.lighting.co.jp/2026/09/14/lpanewbook/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/04d62abcdeaf786a.jpg",
+      "remoteThumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/出版.jpg",
+      "today": false
+    },
+    {
       "source": "遠藤照明",
       "cat": "Technology",
       "date": "2026.09.10",
@@ -333,6 +374,17 @@ window.LUMINO_DATA = {
       "title": "景観照明 Breathing Light into the Landscape",
       "url": "https://www.iwasaki.co.jp/lighting/urbanscape/light-scenery/",
       "excerpt": "",
+      "today": false
+    },
+    {
+      "source": "LPA",
+      "cat": "Architecture",
+      "date": "2026.09.02",
+      "title": "IES照明賞受賞",
+      "url": "https://www.lighting.co.jp/2026/09/02/iesaward/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/c5bef1e759287ea6.jpg",
+      "remoteThumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/09/sCNCC-Phase2_05＿トリム-300x200.jpg",
       "today": false
     }
   ]
