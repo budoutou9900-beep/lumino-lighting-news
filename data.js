@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.18  12:23",
+  "fetchedAt": "2026.10.18  16:19",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "美術展ナビ": {
+    "ジェトロ（日本貿易振興機構）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ジェトロ（日本貿易振興機構）": {
+    "美術展ナビ": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,29 +53,33 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "電波新聞デジタル": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -152,15 +156,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.10.18",
-      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
       "date": "2026.10.18",
@@ -188,15 +183,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術展ナビ",
-      "cat": "Art",
-      "date": "2026.10.18",
-      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ジェトロ（日本貿易振興機構）",
       "cat": "Art",
       "date": "2026.10.18",
@@ -206,11 +192,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "美術展ナビ",
+      "cat": "Art",
+      "date": "2026.10.18",
+      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "PHILE WEB",
       "cat": "Architecture",
       "date": "2026.10.18",
       "title": "YAMAGIWA初のポータブル照明「SOLO」、人とともに移動してどんな環境でもパーソナルな空間をつくりだす",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVEhoRC15TmZDODRpWm1PdWFjSjNFVjZsbFBYbmk4VmRRUGw0RUpKUFFBVmdKcHFHNkxxcDVDTnY1Yi1Id0lIajA4bEsxVHk5cklIek5MN0tGaWhIcXpkajZ2Ymg4TFU3bkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "電波新聞デジタル",
+      "cat": "Architecture",
+      "date": "2026.10.18",
+      "title": "コイズミ照明、未来を視野に「光のあり方」探る内覧会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QXRnUlN6N29qNGZaMUdDMlFxY3V1SkZWbDI5NFhSbWtreVlTcGE2WmNfNVNIR1lMY2xOaXgtTmxpS0xXbkNhWmFpcENVU1ZlVWc?oc=5",
       "excerpt": "",
       "today": true
     },
