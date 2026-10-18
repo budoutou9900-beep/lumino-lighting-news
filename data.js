@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.17  23:53",
+  "fetchedAt": "2026.10.18  02:37",
   "sourceColors": {
-    "神戸新聞": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "マイナビニュース": {
+    "神戸新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "Fashionsnap.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,70 +37,74 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Fashionsnap.com": {
+    "ジェトロ（日本貿易振興機構）": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ジェトロ（日本貿易振興機構）": {
+    "美術展ナビ": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "美術展ナビ": {
+    "PHILE WEB": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PHILE WEB": {
+    "電波新聞デジタル": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
     {
-      "source": "神戸新聞",
-      "cat": "Architecture",
-      "date": "2026.10.17",
-      "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "マイナビニュース",
       "cat": "Architecture",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
       "today": true
     },
     {
+      "source": "神戸新聞",
+      "cat": "Architecture",
+      "date": "2026.10.18",
+      "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "銀座経済新聞",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
       "excerpt": "",
@@ -109,7 +113,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "Architecture",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -118,7 +122,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -127,7 +131,7 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -136,7 +140,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -145,52 +149,34 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.10.17",
-      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.10.17",
-      "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術手帖",
-      "cat": "Architecture",
-      "date": "2026.10.17",
-      "title": "「ヒュッゲな暮らしをデザイン 北欧のあかり展」（日本橋髙島屋S.C.本館）開幕レポート",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZlUxakotMk1Cc3ktZDVoclBpMjdHcXRmWnpadHBWZzlRc0daYW9zSWpvRlBkRlNqSndwMGRHTVM0dTJNUE02aldtUTRiQUZiQmRJTDgzTk9RalAxZ28tdg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Fashionsnap.com",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
       "excerpt": "",
       "today": true
     },
     {
+      "source": "美術手帖",
+      "cat": "Architecture",
+      "date": "2026.10.18",
+      "title": "「ヒュッゲな暮らしをデザイン 北欧のあかり展」（日本橋髙島屋S.C.本館）開幕レポート",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZlUxakotMk1Cc3ktZDVoclBpMjdHcXRmWnpadHBWZzlRc0daYW9zSWpvRlBkRlNqSndwMGRHTVM0dTJNUE02aldtUTRiQUZiQmRJTDgzTk9RalAxZ28tdg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ジェトロ（日本貿易振興機構）",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "リヤドでエンタメ、照明・音響機器展示会を開催(サウジアラビア) | ビジネス短信",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb2VzNFlZWFNpTWIteTQ3TjZRSmtvU2g5NGxULWktX0oydjBQR2R0MEFEV05HNTdISEJNYm9vWEFZRkpfQjN0V3BoYzlhZTdvOVB5TzM1ZFpVdFUxZC0wLXlkUFJnTUJERlFRbGdR?oc=5",
       "excerpt": "",
@@ -199,7 +185,7 @@ window.LUMINO_DATA = {
     {
       "source": "美術展ナビ",
       "cat": "Art",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
       "excerpt": "",
@@ -208,9 +194,27 @@ window.LUMINO_DATA = {
     {
       "source": "PHILE WEB",
       "cat": "Architecture",
-      "date": "2026.10.17",
+      "date": "2026.10.18",
       "title": "YAMAGIWA初のポータブル照明「SOLO」、人とともに移動してどんな環境でもパーソナルな空間をつくりだす",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVEhoRC15TmZDODRpWm1PdWFjSjNFVjZsbFBYbmk4VmRRUGw0RUpKUFFBVmdKcHFHNkxxcDVDTnY1Yi1Id0lIajA4bEsxVHk5cklIek5MN0tGaWhIcXpkajZ2Ymg4TFU3bkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "電波新聞デジタル",
+      "cat": "Architecture",
+      "date": "2026.10.18",
+      "title": "コイズミ照明、未来を視野に「光のあり方」探る内覧会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QXRnUlN6N29qNGZaMUdDMlFxY3V1SkZWbDI5NFhSbWtreVlTcGE2WmNfNVNIR1lMY2xOaXgtTmxpS0xXbkNhWmFpcENVU1ZlVWc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デザイン情報サイト[JDN]",
+      "cat": "Art",
+      "date": "2026.10.18",
+      "title": "若手デザイナー8組の照明作品を展示、企画展「BEHIND THE LIGHT Vol.2」が10月16日から開催",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMHdxRUk0WHZuQkdReWYzWXVGLWNnNHZ4c29RR2s2bV9xMnMwTWFwVE1lWEEzY3pwVlhfXzhjMzZnVkRxTFFYclBBN0JTVmxyaUluNkUwZ2FaMFllSUE?oc=5",
       "excerpt": "",
       "today": true
     },
