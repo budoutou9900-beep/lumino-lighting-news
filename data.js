@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.19  11:51",
+  "fetchedAt": "2026.10.19  18:10",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,23 +9,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "銀座経済新聞": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "中日新聞Web": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "福井新聞社": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,23 +33,23 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "福井新聞社": {
+    "axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "デザイン情報サイト[JDN]": {
+    "valuepress": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ｄメニューニュース": {
+    "モダンリビング デジタル": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "びわ湖大津経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "モダンリビング デジタル": {
+    "ｄメニューニュース": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -94,15 +94,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.19",
       "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "銀座経済新聞",
-      "cat": "Art",
-      "date": "2026.10.19",
-      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -152,11 +143,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "サンレコ",
-      "cat": "Architecture",
+      "source": "PR TIMES",
+      "cat": "Art",
       "date": "2026.10.19",
-      "title": "イースペック『機材展2025』〜最新の音響・照明機器を体感できるイベントをレポート！",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMTdEdG1iNGlsazBwaUgyRmxTN0xHRUZFM01aWDNRMUdUYXFKa0pGX1VjVEhKcjZwWnNmdE5vWXNnMXZwWlhjQjQweTJEMWJBaGRqeEZZd3o3dw?oc=5",
+      "title": "体験型企画展示「北欧に学ぶ、夜を照らすあかり展」をティンバーヤードで開催！11/29（土）には、照明デザイナー「内山章一氏」をお招きしたトークイベントも！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrYmsyNFFBZTh6dGlmNXZzLTh3LWlSM1Y4SFA2em53MDZ0bUs1U0hJeEtMNjd0OGItUkF5LTZJeVJzS2dleUJWenZSS0VfMnZHVUVhTm5GcEUxS1g2NnR3NGFYVS1HT2hrNmc?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -170,29 +161,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デザイン情報サイト[JDN]",
+      "source": "サンレコ",
       "cat": "Architecture",
       "date": "2026.10.19",
-      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "デザイン情報サイト[JDN]",
-      "cat": "Architecture",
-      "date": "2026.10.19",
-      "title": "YAMAGIWAが2年ぶりにミラノデザインウィークに参加、ノリタケの展示で照明コレクションを公開",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZDBUYmZYMjktRzJ4cmlHQTNLb3Qwc083aXFmWk95RDZRM05DMk56ZGxNcVVWOFpDcndUS0FZMUZ6MGEtbWs4NHFWSnVjV19TOU85b3JHRjRsSmdfS0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ｄメニューニュース",
-      "cat": "Architecture",
-      "date": "2026.10.19",
-      "title": "世界の照明を沼津で展示販売するシバタ照明、調光が効果的なシアターショールームも発見！",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjRxT3FUMVhzOVR5WDZpb213WHJjanFHaTl4bFh5VG5rS3QtOWwzTU1WRHA5VmtQdlFoT3VfWEJld2FqQUN4N0dYODVrZFBCNmVzZzBUUzd6ZWdtUXlzT3lSTWJ3ZUEzb0xlbWhWdks4cTlvdUhMVXc5WHFYNEp0Z2ZodDNGcGlaMVRtT1pmODU2WXpucUHSAZIBQVVfeXFMUHpva3BiMFJBamIwdFJzWDRGZmNzVzAwbEJOX2dVV0E0aUdQM01FNnBPTXpBQk02b3JWYjY1VjQ3ZzBNOS04eGliQllaMmtoQVJMM1AxcmlockkxbVhfR0JtMWk5OG9EZHFDUjdpZTBMS1B6ZjlZVlBVMmhhV3p2MXNKV3VEbTFoek5QRVNHZEJfVWc?oc=5",
+      "title": "イースペック『機材展2025』〜最新の音響・照明機器を体感できるイベントをレポート！",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMTdEdG1iNGlsazBwaUgyRmxTN0xHRUZFM01aWDNRMUdUYXFKa0pGX1VjVEhKcjZwWnNmdE5vWXNnMXZwWlhjQjQweTJEMWJBaGRqeEZZd3o3dw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -206,11 +179,38 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "valuepress",
+      "cat": "Architecture",
+      "date": "2026.10.19",
+      "title": "歴史ある町並みで、和紙の灯り。和紙照明ブランド「KASOKEKI lamp」、大阪・富田林市寺内町に初の体感型インストアショールームを3月26日OPEN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yQ2pfaWVzVkVMMFc1dUtRU09ISE9fZGZBLXpjekd0YWdGX0ZkZnFEOWxFQ202QVRXQTRuYWJEMmYzbkdrbk9yVURPS0NTaGFpb3pqd0s1dkZ2Mmc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "モダンリビング デジタル",
       "cat": "Architecture",
       "date": "2026.10.19",
       "title": "ヒュッゲな暮らしを体験！「北欧に学ぶ、夜を照らすあかり展」がTIMBER YARDで開催",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJTSHBWdl9xSnViakhYOFZSODRyU180UEZEdHNPSHlMYmRvRWd6VEJPX2twTjVmUWRLRzROTUxnYnNBZFk3aUFPcnhnSjR6T1VuN25xcncxSll3VE1zTHhTeUswdTdBUmVxNVVaNGxXWjFwUFJPS1lab3FUVmJKbm1LVlcwdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "びわ湖大津経済新聞",
+      "cat": "Architecture",
+      "date": "2026.10.19",
+      "title": "琵琶湖博物館で「ナイトミュージアム」 特別照明や弦楽四重奏も",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00X0J5S0FtZFZHNFV5OXhZdzJyYXQwS1FEWENLdUt3SWc0VEI5NFV2WXFqS21KTnNFRkRHS3RMRjJFWlFHUUxnN2dOSVRjelJ3RVh6Z2tBZVU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ｄメニューニュース",
+      "cat": "Architecture",
+      "date": "2026.10.19",
+      "title": "世界の照明を沼津で展示販売するシバタ照明、調光が効果的なシアターショールームも発見！",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjRxT3FUMVhzOVR5WDZpb213WHJjanFHaTl4bFh5VG5rS3QtOWwzTU1WRHA5VmtQdlFoT3VfWEJld2FqQUN4N0dYODVrZFBCNmVzZzBUUzd6ZWdtUXlzT3lSTWJ3ZUEzb0xlbWhWdks4cTlvdUhMVXc5WHFYNEp0Z2ZodDNGcGlaMVRtT1pmODU2WXpucUHSAZIBQVVfeXFMUHpva3BiMFJBamIwdFJzWDRGZmNzVzAwbEJOX2dVV0E0aUdQM01FNnBPTXpBQk02b3JWYjY1VjQ3ZzBNOS04eGliQllaMmtoQVJMM1AxcmlockkxbVhfR0JtMWk5OG9EZHFDUjdpZTBMS1B6ZjlZVlBVMmhhV3p2MXNKV3VEbTFoek5QRVNHZEJfVWc?oc=5",
       "excerpt": "",
       "today": true
     },
