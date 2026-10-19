@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.19  00:42",
+  "fetchedAt": "2026.10.19  05:36",
   "sourceColors": {
-    "神戸新聞": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "マイナビニュース": {
+    "神戸新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -29,31 +29,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "朝日新聞": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "Fashionsnap.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Fashionsnap.com": {
+    "美術手帖": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "美術手帖": {
+    "ジェトロ（日本貿易振興機構）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ジェトロ（日本貿易振興機構）": {
+    "PHILE WEB": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PHILE WEB": {
+    "電波新聞デジタル": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "電波新聞デジタル": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -84,20 +84,20 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "神戸新聞",
-      "cat": "Architecture",
-      "date": "2026.10.19",
-      "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "マイナビニュース",
       "cat": "Architecture",
       "date": "2026.10.19",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "神戸新聞",
+      "cat": "Architecture",
+      "date": "2026.10.19",
+      "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -156,15 +156,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "朝日新聞",
-      "cat": "Art",
-      "date": "2026.10.19",
-      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
       "date": "2026.10.19",
@@ -219,6 +210,37 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "デザイン情報サイト[JDN]",
+      "cat": "Art",
+      "date": "2026.10.19",
+      "title": "若手デザイナー8組の照明作品を展示、企画展「BEHIND THE LIGHT Vol.2」が10月16日から開催",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMHdxRUk0WHZuQkdReWYzWXVGLWNnNHZ4c29RR2s2bV9xMnMwTWFwVE1lWEEzY3pwVlhfXzhjMzZnVkRxTFFYclBBN0JTVmxyaUluNkUwZ2FaMFllSUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.10.19",
+      "title": "YAMAGIWA NAGOYA 営業体制変更のご案内（10/19～）",
+      "url": "https://www.yamagiwa.co.jp/news/80407/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "Technology",
+      "date": "2026.10.19",
+      "title": "納入事例に飲食店物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/bf9d2b0d8e5f9003.jpg",
+      "remoteThumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
+      "today": true
+    },
+    {
       "source": "YAMAGIWA",
       "cat": "Technology",
       "date": "2026.10.15",
@@ -227,17 +249,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/fde3c054ddd2e890.jpg",
       "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "Technology",
-      "date": "2026.10.14",
-      "title": "納入事例に住宅物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/bf9d2b0d8e5f9003.jpg",
-      "remoteThumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
