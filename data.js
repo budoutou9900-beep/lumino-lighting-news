@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.19  18:10",
+  "fetchedAt": "2026.10.19  22:46",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,57 +25,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "福井新聞社": {
+    "朝日新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "サンレコ": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "axismag.jp": {
+    "fashionsnap.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "valuepress": {
+    "美術手帖": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "モダンリビング デジタル": {
+    "ジェトロ（日本貿易振興機構）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "びわ湖大津経済新聞": {
+    "PHILE WEB": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ｄメニューニュース": {
+    "電波新聞デジタル": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -143,86 +139,75 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.10.19",
+      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "朝日新聞",
       "cat": "Art",
       "date": "2026.10.19",
-      "title": "体験型企画展示「北欧に学ぶ、夜を照らすあかり展」をティンバーヤードで開催！11/29（土）には、照明デザイナー「内山章一氏」をお招きしたトークイベントも！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrYmsyNFFBZTh6dGlmNXZzLTh3LWlSM1Y4SFA2em53MDZ0bUs1U0hJeEtMNjd0OGItUkF5LTZJeVJzS2dleUJWenZSS0VfMnZHVUVhTm5GcEUxS1g2NnR3NGFYVS1HT2hrNmc?oc=5",
+      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "福井新聞社",
+      "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
       "date": "2026.10.19",
-      "title": "福井県立恐竜博物館の世界を際立たせる照明の力 特別展「獣脚類」手掛けたプロのこだわりとは",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tQVFFNDZONUh6VmxUREZCbzA4bFZKQ1FqZ2tyRXdwNjRVV3lSTkFKczROM2lBZlFYZnE5M2JfN0E1eE1TdUdXd21objVjXzJWWFh6NlIyYnA1YlZRN3c?oc=5",
+      "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "サンレコ",
-      "cat": "Architecture",
-      "date": "2026.10.19",
-      "title": "イースペック『機材展2025』〜最新の音響・照明機器を体感できるイベントをレポート！",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMTdEdG1iNGlsazBwaUgyRmxTN0xHRUZFM01aWDNRMUdUYXFKa0pGX1VjVEhKcjZwWnNmdE5vWXNnMXZwWlhjQjQweTJEMWJBaGRqeEZZd3o3dw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
+      "source": "fashionsnap.com",
       "cat": "Art",
       "date": "2026.10.19",
-      "title": "倉俣史朗デザインの照明「Hydrogen Dream」 世田谷美術館の展覧展に合わせて復刻",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUGdBdWdvdGd0bmJGX1JKWEF1VnhtVm9JeFJ3cXBFNHpSVmxrTHpfaWtXbDBySFRUbjhHUWR0NTdDaE9hYnpiMVJQLXlmdkFtTXlOM2tMOTdiMVVR?oc=5",
+      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "valuepress",
+      "source": "美術手帖",
       "cat": "Architecture",
       "date": "2026.10.19",
-      "title": "歴史ある町並みで、和紙の灯り。和紙照明ブランド「KASOKEKI lamp」、大阪・富田林市寺内町に初の体感型インストアショールームを3月26日OPEN",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yQ2pfaWVzVkVMMFc1dUtRU09ISE9fZGZBLXpjekd0YWdGX0ZkZnFEOWxFQ202QVRXQTRuYWJEMmYzbkdrbk9yVURPS0NTaGFpb3pqd0s1dkZ2Mmc?oc=5",
+      "title": "「ヒュッゲな暮らしをデザイン 北欧のあかり展」（日本橋髙島屋S.C.本館）開幕レポート",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZlUxakotMk1Cc3ktZDVoclBpMjdHcXRmWnpadHBWZzlRc0daYW9zSWpvRlBkRlNqSndwMGRHTVM0dTJNUE02aldtUTRiQUZiQmRJTDgzTk9RalAxZ28tdg?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "モダンリビング デジタル",
+      "source": "ジェトロ（日本貿易振興機構）",
+      "cat": "Art",
+      "date": "2026.10.19",
+      "title": "リヤドでエンタメ、照明・音響機器展示会を開催(サウジアラビア) | ビジネス短信",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb2VzNFlZWFNpTWIteTQ3TjZRSmtvU2g5NGxULWktX0oydjBQR2R0MEFEV05HNTdISEJNYm9vWEFZRkpfQjN0V3BoYzlhZTdvOVB5TzM1ZFpVdFUxZC0wLXlkUFJnTUJERlFRbGdR?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PHILE WEB",
       "cat": "Architecture",
       "date": "2026.10.19",
-      "title": "ヒュッゲな暮らしを体験！「北欧に学ぶ、夜を照らすあかり展」がTIMBER YARDで開催",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJTSHBWdl9xSnViakhYOFZSODRyU180UEZEdHNPSHlMYmRvRWd6VEJPX2twTjVmUWRLRzROTUxnYnNBZFk3aUFPcnhnSjR6T1VuN25xcncxSll3VE1zTHhTeUswdTdBUmVxNVVaNGxXWjFwUFJPS1lab3FUVmJKbm1LVlcwdw?oc=5",
+      "title": "YAMAGIWA初のポータブル照明「SOLO」、人とともに移動してどんな環境でもパーソナルな空間をつくりだす",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVEhoRC15TmZDODRpWm1PdWFjSjNFVjZsbFBYbmk4VmRRUGw0RUpKUFFBVmdKcHFHNkxxcDVDTnY1Yi1Id0lIajA4bEsxVHk5cklIek5MN0tGaWhIcXpkajZ2Ymg4TFU3bkE?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "びわ湖大津経済新聞",
+      "source": "電波新聞デジタル",
       "cat": "Architecture",
       "date": "2026.10.19",
-      "title": "琵琶湖博物館で「ナイトミュージアム」 特別照明や弦楽四重奏も",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00X0J5S0FtZFZHNFV5OXhZdzJyYXQwS1FEWENLdUt3SWc0VEI5NFV2WXFqS21KTnNFRkRHS3RMRjJFWlFHUUxnN2dOSVRjelJ3RVh6Z2tBZVU?oc=5",
+      "title": "コイズミ照明、未来を視野に「光のあり方」探る内覧会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QXRnUlN6N29qNGZaMUdDMlFxY3V1SkZWbDI5NFhSbWtreVlTcGE2WmNfNVNIR1lMY2xOaXgtTmxpS0xXbkNhWmFpcENVU1ZlVWc?oc=5",
       "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ｄメニューニュース",
-      "cat": "Architecture",
-      "date": "2026.10.19",
-      "title": "世界の照明を沼津で展示販売するシバタ照明、調光が効果的なシアターショールームも発見！",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjRxT3FUMVhzOVR5WDZpb213WHJjanFHaTl4bFh5VG5rS3QtOWwzTU1WRHA5VmtQdlFoT3VfWEJld2FqQUN4N0dYODVrZFBCNmVzZzBUUzd6ZWdtUXlzT3lSTWJ3ZUEzb0xlbWhWdks4cTlvdUhMVXc5WHFYNEp0Z2ZodDNGcGlaMVRtT1pmODU2WXpucUHSAZIBQVVfeXFMUHpva3BiMFJBamIwdFJzWDRGZmNzVzAwbEJOX2dVV0E0aUdQM01FNnBPTXpBQk02b3JWYjY1VjQ3ZzBNOS04eGliQllaMmtoQVJMM1AxcmlockkxbVhfR0JtMWk5OG9EZHFDUjdpZTBMS1B6ZjlZVlBVMmhhV3p2MXNKV3VEbTFoek5QRVNHZEJfVWc?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.10.19",
-      "title": "YAMAGIWA NAGOYA 営業体制変更のご案内（10/19～）",
-      "url": "https://www.yamagiwa.co.jp/news/80407/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": true
     },
     {
@@ -235,17 +220,6 @@ window.LUMINO_DATA = {
       "thumbnailUrl": "images/news/bf9d2b0d8e5f9003.jpg",
       "remoteThumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.10.15",
-      "title": "内省と没頭を照らしだす照明「SOLO」が「2026年度グッドデザイン賞」を受賞",
-      "url": "https://www.yamagiwa.co.jp/news/80387/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/fde3c054ddd2e890.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
-      "today": false
     },
     {
       "source": "DNライティング",
@@ -322,17 +296,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
       "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.09.24",
-      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
-      "url": "https://www.yamagiwa.co.jp/news/80248/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     },
     {
