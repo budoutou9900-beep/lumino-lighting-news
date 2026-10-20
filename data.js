@@ -1,72 +1,89 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.20  18:15",
+  "fetchedAt": "2026.10.20  22:01",
   "sourceColors": {
-    "マイナビニュース": {
+    "pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "マイナビニュース": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "神戸新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Digital AV Magazine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "PR TIMES": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "www.axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "中日新聞Web": {
+    "www.axismag.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "朝日新聞": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "fashionsnap.com": {
+    "朝日新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "fashionsnap.com": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "遠藤照明": {
+    "美術手帖": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
+    {
+      "source": "pronews.com",
+      "cat": "Architecture",
+      "date": "2026.10.20",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "マイナビニュース",
       "cat": "Architecture",
@@ -140,24 +157,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
-      "cat": "Art",
-      "date": "2026.10.20",
-      "title": "オリジナルデザインの照明や時計を展開する インターフォルム が2025年秋冬の新作と自社展示会の開催を発表。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSDM3RnZfNEwwN0FyNWh5dFVZYWlrLThZeUlNaHdOSmhLLUdlY0hKWVB3R0htSG83V2NoVXhBVEhKNWNlYW03NVoxckQwUGF2MXV0a3R6eGZEMHdURjlIR2pKYWZER29Qb2c?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.10.20",
-      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
       "date": "2026.10.20",
@@ -167,20 +166,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.10.20",
-      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "朝日新聞",
       "cat": "Art",
       "date": "2026.10.20",
       "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.10.20",
+      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -199,6 +198,15 @@ window.LUMINO_DATA = {
       "date": "2026.10.20",
       "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術手帖",
+      "cat": "Architecture",
+      "date": "2026.10.20",
+      "title": "「ヒュッゲな暮らしをデザイン 北欧のあかり展」（日本橋髙島屋S.C.本館）開幕レポート",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZlUxakotMk1Cc3ktZDVoclBpMjdHcXRmWnpadHBWZzlRc0daYW9zSWpvRlBkRlNqSndwMGRHTVM0dTJNUE02aldtUTRiQUZiQmRJTDgzTk9RalAxZ28tdg?oc=5",
       "excerpt": "",
       "today": true
     },
