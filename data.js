@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.20  01:27",
+  "fetchedAt": "2026.10.20  07:01",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,11 +25,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "Harper's BAZAAR": {
+    "朝日新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "朝日新聞": {
+    "fashionsnap.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -37,7 +37,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Fashionsnap.com": {
+    "美術展ナビ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -53,19 +53,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -107,20 +107,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "www.axismag.jp",
-      "cat": "Art",
-      "date": "2026.10.20",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "PR TIMES",
       "cat": "Art",
       "date": "2026.10.20",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "www.axismag.jp",
+      "cat": "Art",
+      "date": "2026.10.20",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -143,15 +143,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Harper's BAZAAR",
-      "cat": "Architecture",
-      "date": "2026.10.20",
-      "title": "A-POC ABLE ISSEY MIYAKE “一枚の布”からはじまる照明プロジェクト展を開催中",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFZwWHQyOHNvTS1LemlmTmpCbGZzS1A2aG9wWFUwQTVhMGxtWVg3OG1LTk9KY3dKNmtZcEFsRFlGVHNMNzEwODNHWTVBT3I4dEtTdmNCTEtCR3k4YjltQXZBQkZJbDZfOXFTN0l5MUVmWFVwRk4tSlFlZG9wNHVpVHVmeFZTd2NFNll5cVZhZl9yQmpGQndJMW9La0MwaW1nSEFZRDJYNXExeWdyOHBlLWVGdGtFenpwVFdyQUpneEdwMHM?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "www.axismag.jp",
       "cat": "Architecture",
       "date": "2026.10.20",
@@ -170,6 +161,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "fashionsnap.com",
+      "cat": "Art",
+      "date": "2026.10.20",
+      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
       "date": "2026.10.20",
@@ -179,11 +179,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Fashionsnap.com",
+      "source": "美術展ナビ",
       "cat": "Art",
       "date": "2026.10.20",
-      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
+      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -212,6 +212,17 @@ window.LUMINO_DATA = {
       "title": "YAMAGIWA初のポータブル照明「SOLO」、人とともに移動してどんな環境でもパーソナルな空間をつくりだす",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVEhoRC15TmZDODRpWm1PdWFjSjNFVjZsbFBYbmk4VmRRUGw0RUpKUFFBVmdKcHFHNkxxcDVDTnY1Yi1Id0lIajA4bEsxVHk5cklIek5MN0tGaWhIcXpkajZ2Ymg4TFU3bkE?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "Technology",
+      "date": "2026.10.20",
+      "title": "納入事例 - 三井ショッピングパーク ららぽーと安城 ほか",
+      "url": "https://www.iwasaki.co.jp/projects/#News",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
+      "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": true
     },
     {
@@ -311,17 +322,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "Technology",
-      "date": "2026.09.24",
-      "title": "納入事例 - 専修大学 生田キャンパス 9号館5階アトリウム ほか",
-      "url": "https://www.iwasaki.co.jp/projects/#News",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
-      "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
