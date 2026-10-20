@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.20  07:01",
+  "fetchedAt": "2026.10.20  13:13",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,35 +25,35 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "朝日新聞": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "fashionsnap.com": {
+    "朝日新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "fashionsnap.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術展ナビ": {
+    "美術手帖": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "美術手帖": {
+    "ジェトロ（日本貿易振興機構）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ジェトロ（日本貿易振興機構）": {
+    "PHILE WEB": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PHILE WEB": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -69,13 +69,9 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "LPA": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -143,6 +139,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Architecture",
+      "date": "2026.10.20",
+      "title": "ワイ・エス・エム創業30周年記念展「BEHIND THE LIGHT」TIERS GALLERY by arakawagripにて、14の特注照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNHA0cHJjb3RvR1RGc09WRjdfTjN3SkFXY1VsUElZNFIwNlFXT2I3Zi1fNmpZRDhsQ0JWaEhrUkxNeko5aHRCV2ozeG03QWdRYTN4M3JRNA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "www.axismag.jp",
       "cat": "Architecture",
       "date": "2026.10.20",
@@ -175,15 +180,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.20",
       "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術展ナビ",
-      "cat": "Art",
-      "date": "2026.10.20",
-      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -223,6 +219,17 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
       "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": true
+    },
+    {
+      "source": "遠藤照明",
+      "cat": "Technology",
+      "date": "2026.10.20",
+      "title": "最新カタログ「LEDZ Pro.7」掲載製品のBIMデータ　公開のお知らせ",
+      "url": "https://www.endo-lighting.co.jp/news/20261020-01/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/950857f355d993b0.jpg",
+      "remoteThumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/10/bim-website.png",
       "today": true
     },
     {
