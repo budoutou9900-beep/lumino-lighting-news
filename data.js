@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.22  10:59",
+  "fetchedAt": "2026.10.22  15:49",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,7 +29,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Harper's BAZAAR": {
+    "福井新聞社": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
@@ -152,11 +152,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Harper's BAZAAR",
-      "cat": "Architecture",
+      "source": "福井新聞社",
+      "cat": "Art",
       "date": "2026.10.22",
-      "title": "A-POC ABLE ISSEY MIYAKE “一枚の布”からはじまる照明プロジェクト展を開催中",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFZwWHQyOHNvTS1LemlmTmpCbGZzS1A2aG9wWFUwQTVhMGxtWVg3OG1LTk9KY3dKNmtZcEFsRFlGVHNMNzEwODNHWTVBT3I4dEtTdmNCTEtCR3k4YjltQXZBQkZJbDZfOXFTN0l5MUVmWFVwRk4tSlFlZG9wNHVpVHVmeFZTd2NFNll5cVZhZl9yQmpGQndJMW9La0MwaW1nSEFZRDJYNXExeWdyOHBlLWVGdGtFenpwVFdyQUpneEdwMHM?oc=5",
+      "title": "福井県立恐竜博物館の世界を際立たせる照明の力 特別展「獣脚類」手掛けたプロのこだわりとは",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tQVFFNDZONUh6VmxUREZCbzA4bFZKQ1FqZ2tyRXdwNjRVV3lSTkFKczROM2lBZlFYZnE5M2JfN0E1eE1TdUdXd21objVjXzJWWFh6NlIyYnA1YlZRN3c?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -197,20 +197,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "美術展ナビ",
       "cat": "Art",
       "date": "2026.10.22",
       "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
       "excerpt": "",
       "today": true
     },
