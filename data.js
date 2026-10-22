@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.22  00:21",
+  "fetchedAt": "2026.10.22  05:40",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,77 +9,69 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術館・アート情報": {
+    "Digital AV Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Digital AV Magazine": {
+    "PR TIMES": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "ADF Web Magazine": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "美術展ナビ": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "朝日新聞": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "TECTURE MAG（テクチャーマガジン）": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
     },
     "www.axismag.jp": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "Fashionsnap.com": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "PHILE WEB": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "美術手帖": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ジェトロ（日本貿易振興機構）": {
+    "中日新聞Web": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "電波新聞デジタル": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "美術展ナビ": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "朝日新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "DNライティング": {
+    "Fashionsnap.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "岩崎電気": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "遠藤照明": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "DNライティング": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "LPA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -102,20 +94,47 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術館・アート情報",
-      "cat": "Architecture",
-      "date": "2026.10.22",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "Digital AV Magazine",
       "cat": "Art",
       "date": "2026.10.22",
       "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.10.22",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "www.axismag.jp",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -129,6 +148,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "axismag.jp",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "倉俣史朗デザインの照明「Hydrogen Dream」 世田谷美術館の展覧展に合わせて復刻",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUGdBdWdvdGd0bmJGX1JKWEF1VnhtVm9JeFJ3cXBFNHpSVmxrTHpfaWtXbDBySFRUbjhHUWR0NTdDaE9hYnpiMVJQLXlmdkFtTXlOM2tMOTdiMVVR?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Architecture",
+      "date": "2026.10.22",
+      "title": "ワイ・エス・エム創業30周年記念展「BEHIND THE LIGHT」TIERS GALLERY by arakawagripにて、14の特注照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNHA0cHJjb3RvR1RGc09WRjdfTjN3SkFXY1VsUElZNFIwNlFXT2I3Zi1fNmpZRDhsQ0JWaEhrUkxNeko5aHRCV2ozeG03QWdRYTN4M3JRNA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "美術展ナビ",
       "cat": "Art",
       "date": "2026.10.22",
@@ -138,20 +175,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "朝日新聞",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
       "date": "2026.10.22",
       "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "朝日新聞",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -170,51 +207,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.22",
       "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PHILE WEB",
-      "cat": "Architecture",
-      "date": "2026.10.22",
-      "title": "YAMAGIWA初のポータブル照明「SOLO」、人とともに移動してどんな環境でもパーソナルな空間をつくりだす",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVEhoRC15TmZDODRpWm1PdWFjSjNFVjZsbFBYbmk4VmRRUGw0RUpKUFFBVmdKcHFHNkxxcDVDTnY1Yi1Id0lIajA4bEsxVHk5cklIek5MN0tGaWhIcXpkajZ2Ymg4TFU3bkE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術手帖",
-      "cat": "Architecture",
-      "date": "2026.10.22",
-      "title": "「ヒュッゲな暮らしをデザイン 北欧のあかり展」（日本橋髙島屋S.C.本館）開幕レポート",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZlUxakotMk1Cc3ktZDVoclBpMjdHcXRmWnpadHBWZzlRc0daYW9zSWpvRlBkRlNqSndwMGRHTVM0dTJNUE02aldtUTRiQUZiQmRJTDgzTk9RalAxZ28tdg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ジェトロ（日本貿易振興機構）",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "リヤドでエンタメ、照明・音響機器展示会を開催(サウジアラビア) | ビジネス短信",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb2VzNFlZWFNpTWIteTQ3TjZRSmtvU2g5NGxULWktX0oydjBQR2R0MEFEV05HNTdISEJNYm9vWEFZRkpfQjN0V3BoYzlhZTdvOVB5TzM1ZFpVdFUxZC0wLXlkUFJnTUJERlFRbGdR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "電波新聞デジタル",
-      "cat": "Architecture",
-      "date": "2026.10.22",
-      "title": "コイズミ照明、未来を視野に「光のあり方」探る内覧会を開催",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QXRnUlN6N29qNGZaMUdDMlFxY3V1SkZWbDI5NFhSbWtreVlTcGE2WmNfNVNIR1lMY2xOaXgtTmxpS0xXbkNhWmFpcENVU1ZlVWc?oc=5",
       "excerpt": "",
       "today": true
     },
