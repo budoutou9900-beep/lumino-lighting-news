@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.22  05:40",
+  "fetchedAt": "2026.10.22  10:59",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,11 +9,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Digital AV Magazine": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PR TIMES": {
+    "Digital AV Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -29,49 +29,53 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "axismag.jp": {
+    "Harper's BAZAAR": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術展ナビ": {
+    "axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "朝日新聞": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "Fashionsnap.com": {
+    "朝日新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "美術展ナビ": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -94,15 +98,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Digital AV Magazine",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "PR TIMES",
       "cat": "Architecture",
       "date": "2026.10.22",
@@ -117,6 +112,15 @@ window.LUMINO_DATA = {
       "date": "2026.10.22",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Digital AV Magazine",
+      "cat": "Art",
+      "date": "2026.10.22",
+      "title": "ビルバオ・グッゲンハイム美術館は、Zumtobel を使用して照明システムを最新化",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTk5NVVTZ0paZTlXMjBfNW5ZbHFEV3VjcHRjOVQ1a1dvTVdMekc3alJzZ2k2VENzQXhPUEJqOXlrUkFYWFgtdzJFWTItNkVMYWhFTlRVSTV0d1ZJdHpYeUlpaUhkM2pybGFTandHUWdOek9lVkRFdVY1eXMwbDk1c2Q3ZWpnMWxmYmppbElnOXoxTlozMktIdjZnZ1BEdEJpSFlzYmhlTm5KNUV4QW5CNDRELUtXdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -148,6 +152,24 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Harper's BAZAAR",
+      "cat": "Architecture",
+      "date": "2026.10.22",
+      "title": "A-POC ABLE ISSEY MIYAKE “一枚の布”からはじまる照明プロジェクト展を開催中",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFZwWHQyOHNvTS1LemlmTmpCbGZzS1A2aG9wWFUwQTVhMGxtWVg3OG1LTk9KY3dKNmtZcEFsRFlGVHNMNzEwODNHWTVBT3I4dEtTdmNCTEtCR3k4YjltQXZBQkZJbDZfOXFTN0l5MUVmWFVwRk4tSlFlZG9wNHVpVHVmeFZTd2NFNll5cVZhZl9yQmpGQndJMW9La0MwaW1nSEFZRDJYNXExeWdyOHBlLWVGdGtFenpwVFdyQUpneEdwMHM?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デザイン情報サイト[JDN]",
+      "cat": "Architecture",
+      "date": "2026.10.22",
+      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "axismag.jp",
       "cat": "Art",
       "date": "2026.10.22",
@@ -166,11 +188,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術展ナビ",
+      "source": "朝日新聞",
       "cat": "Art",
       "date": "2026.10.22",
-      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
+      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -184,29 +206,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "朝日新聞",
+      "source": "美術展ナビ",
       "cat": "Art",
       "date": "2026.10.22",
-      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.10.22",
-      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Fashionsnap.com",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
+      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
       "excerpt": "",
       "today": true
     },
