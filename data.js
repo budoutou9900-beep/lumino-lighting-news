@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.22  15:49",
+  "fetchedAt": "2026.10.22  19:41",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,53 +29,57 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "福井新聞社": {
+    "Harper's BAZAAR": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "デザイン情報サイト[JDN]": {
+    "福井新聞社": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "axismag.jp": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "朝日新聞": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "美術展ナビ": {
+    "朝日新聞": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "美術展ナビ": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "LPA": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "LPA": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -152,6 +156,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "Harper's BAZAAR",
+      "cat": "Architecture",
+      "date": "2026.10.22",
+      "title": "A-POC ABLE ISSEY MIYAKE “一枚の布”からはじまる照明プロジェクト展を開催中",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFZwWHQyOHNvTS1LemlmTmpCbGZzS1A2aG9wWFUwQTVhMGxtWVg3OG1LTk9KY3dKNmtZcEFsRFlGVHNMNzEwODNHWTVBT3I4dEtTdmNCTEtCR3k4YjltQXZBQkZJbDZfOXFTN0l5MUVmWFVwRk4tSlFlZG9wNHVpVHVmeFZTd2NFNll5cVZhZl9yQmpGQndJMW9La0MwaW1nSEFZRDJYNXExeWdyOHBlLWVGdGtFenpwVFdyQUpneEdwMHM?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "福井新聞社",
       "cat": "Art",
       "date": "2026.10.22",
@@ -202,15 +215,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.22",
       "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.10.22",
-      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
       "excerpt": "",
       "today": true
     },
