@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.23  01:08",
+  "fetchedAt": "2026.10.23  06:51",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,57 +29,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "pronews.com": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Harper's BAZAAR": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "東京新聞": {
+    "TECTURE MAG": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "福井新聞社": {
+    "朝日新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "デザイン情報サイト[JDN]": {
+    "美術展ナビ": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "TECTURE MAG": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "DNライティング": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "LPA": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -156,42 +148,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "pronews.com",
-      "cat": "Technology",
-      "date": "2026.10.23",
-      "title": "Harlowe、LEDライト「Sol 5」展示。クラシックデザインと最新技術が融合した照明製品",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMkRENDJJNWhfaGcxc3VHdnhiQUxkeVNvVHR5YUdtT1hXOWJ4ZkFmWG00Y25iZjUzZHRWZEdnV0s5SG1wdExPYjBHV3Btem1XYnQzM3B6dWJJNEdrS0hiMExUTTM?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Harper's BAZAAR",
-      "cat": "Architecture",
-      "date": "2026.10.23",
-      "title": "A-POC ABLE ISSEY MIYAKE “一枚の布”からはじまる照明プロジェクト展を開催中",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFZwWHQyOHNvTS1LemlmTmpCbGZzS1A2aG9wWFUwQTVhMGxtWVg3OG1LTk9KY3dKNmtZcEFsRFlGVHNMNzEwODNHWTVBT3I4dEtTdmNCTEtCR3k4YjltQXZBQkZJbDZfOXFTN0l5MUVmWFVwRk4tSlFlZG9wNHVpVHVmeFZTd2NFNll5cVZhZl9yQmpGQndJMW9La0MwaW1nSEFZRDJYNXExeWdyOHBlLWVGdGtFenpwVFdyQUpneEdwMHM?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "東京新聞",
-      "cat": "Art",
-      "date": "2026.10.23",
-      "title": "和紙使った「宇宙」作品など披露 照明デザイナー石井さん親子 パリの展示会プロデュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPRGFNTUphQzZtQTYwcjI0WE9SSUhIZndwaEFLZGdTbDQ0VUJmeExJTjJZUXBWUW5xUVNKSHphUl9kenFqZXp4VEZZRUw1Nm00SjZJ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "福井新聞社",
-      "cat": "Art",
-      "date": "2026.10.23",
-      "title": "福井県立恐竜博物館の世界を際立たせる照明の力 特別展「獣脚類」手掛けたプロのこだわりとは",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tQVFFNDZONUh6VmxUREZCbzA4bFZKQ1FqZ2tyRXdwNjRVV3lSTkFKczROM2lBZlFYZnE5M2JfN0E1eE1TdUdXd21objVjXzJWWFh6NlIyYnA1YlZRN3c?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "デザイン情報サイト[JDN]",
       "cat": "Architecture",
       "date": "2026.10.23",
@@ -219,12 +175,70 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "朝日新聞",
+      "cat": "Art",
+      "date": "2026.10.23",
+      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Art",
+      "date": "2026.10.23",
+      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術展ナビ",
+      "cat": "Art",
+      "date": "2026.10.23",
+      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.10.23",
+      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "大光電機",
       "cat": "Technology",
       "date": "2026.10.23",
       "title": "PHPの脆弱性対応に伴う当社Webサイトの一部サービス再開のお知らせ",
       "url": "https://www2.lighting-daiko.co.jp/topics/pdf.cgi?id=623",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "Architecture",
+      "date": "2026.10.23",
+      "title": "一部フォームにおけるファイル添付機能の一時停止について",
+      "url": "https://www.dnlighting.co.jp/media/news/1023",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "Technology",
+      "date": "2026.10.23",
+      "title": "屋外用LEDモジュール「FXC-WP」の施工ポイントを紹介する解説動画を公開しました。",
+      "url": "https://www.dnlighting.co.jp/media/news/20261022",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
     },
     {
@@ -330,28 +344,6 @@ window.LUMINO_DATA = {
       "date": "2026.09.30",
       "title": "屋外用LEDモジュール「FXC-WP」の製品特徴を紹介する解説動画を公開しました。",
       "url": "https://www.dnlighting.co.jp/media/news/20260930",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Art",
-      "date": "2026.09.29",
-      "title": "納入事例に「ライフアートプランテック 大阪 北浜ショールーム「Life Art Lab (ライフアートラボ)」」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/174",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/ea41821b41b7287d.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/174/★001_73W1358.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Technology",
-      "date": "2026.09.29",
-      "title": "電源別置タイプのLED製品について、接続時の確認ポイントを解説する動画を公開しました",
-      "url": "https://www.dnlighting.co.jp/media/news/20269029",
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
