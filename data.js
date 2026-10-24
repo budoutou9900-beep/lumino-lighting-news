@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.23  23:42",
+  "fetchedAt": "2026.10.24  02:55",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -78,7 +78,7 @@ window.LUMINO_DATA = {
     {
       "source": "神戸新聞",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
       "excerpt": "",
@@ -87,7 +87,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -96,7 +96,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
@@ -105,7 +105,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
@@ -114,7 +114,7 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
       "excerpt": "",
@@ -123,7 +123,7 @@ window.LUMINO_DATA = {
     {
       "source": "中日新聞Web",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
@@ -132,7 +132,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -141,7 +141,7 @@ window.LUMINO_DATA = {
     {
       "source": "PR TIMES",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "【日本橋高島屋】北欧で誕生した名作照明100点が一堂に！そのデザイナーたちの功績や、100年前のパリ万博に出品された貴重なヴィンテージランプも公開！「北欧のあかり展 」3月5日（水）～24日（月）",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vX3dBdFJQaXdVMFVzbDJGZHI5QVVZTHVqaE8yY2dIZGx2RlVna04xMk5kRllPVU9mR2NhRGhCTWhJSFRfMGtKOXYxcUtLMnN5SmtwajR0a19iYVJtZFFyYTlpV0hLM0ZkY2c?oc=5",
       "excerpt": "",
@@ -150,7 +150,7 @@ window.LUMINO_DATA = {
     {
       "source": "アットプレス",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
       "excerpt": "",
@@ -159,7 +159,7 @@ window.LUMINO_DATA = {
     {
       "source": "Toshiba Clip",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
       "excerpt": "",
@@ -168,7 +168,7 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
       "excerpt": "",
@@ -177,7 +177,7 @@ window.LUMINO_DATA = {
     {
       "source": "READYFOR",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
       "excerpt": "",
@@ -186,7 +186,7 @@ window.LUMINO_DATA = {
     {
       "source": "家電 Watch",
       "cat": "Art",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
       "excerpt": "",
@@ -195,7 +195,7 @@ window.LUMINO_DATA = {
     {
       "source": "TECTURE MAG",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
       "excerpt": "",
@@ -204,7 +204,7 @@ window.LUMINO_DATA = {
     {
       "source": "美術館・アート情報",
       "cat": "Architecture",
-      "date": "2026.10.23",
+      "date": "2026.10.24",
       "title": "最適な照明、光をつくり出す：岡安泉",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
       "excerpt": "",
@@ -217,7 +217,7 @@ window.LUMINO_DATA = {
       "title": "PHPの脆弱性に関する対応完了のお知らせ",
       "url": "https://www.endo-lighting.co.jp/news/20261023-01/",
       "excerpt": "",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
@@ -226,7 +226,7 @@ window.LUMINO_DATA = {
       "title": "PHPの脆弱性対応に伴う当社Webサイトの一部サービス再開のお知らせ",
       "url": "https://www2.lighting-daiko.co.jp/topics/pdf.cgi?id=623",
       "excerpt": "",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -237,7 +237,7 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -248,7 +248,7 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "DNライティング",
@@ -259,7 +259,7 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": true
+      "today": false
     },
     {
       "source": "大光電機",
