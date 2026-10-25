@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.25  00:44",
+  "fetchedAt": "2026.10.25  05:34",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,57 +21,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "日刊工業新聞 電子版": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "TECTURE MAG": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "美術展ナビ": {
+    "Toshiba Clip": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "朝日新聞": {
+    "www.axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "www.axismag.jp": {
+    "READYFOR": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Fashionsnap.com": {
+    "家電 Watch": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "モダンリビング デジタル": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "モダンリビング デジタル": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "LPA": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -130,47 +134,38 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.10.25",
-      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG",
+      "source": "PR TIMES",
       "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "ワイ・エス・エム創業30周年記念展「BEHIND THE LIGHT」TIERS GALLERY by arakawagripにて、14の特注照明を展示",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNHA0cHJjb3RvR1RGc09WRjdfTjN3SkFXY1VsUElZNFIwNlFXT2I3Zi1fNmpZRDhsQ0JWaEhrUkxNeko5aHRCV2ozeG03QWdRYTN4M3JRNA?oc=5",
+      "title": "【日本橋高島屋】北欧で誕生した名作照明100点が一堂に！そのデザイナーたちの功績や、100年前のパリ万博に出品された貴重なヴィンテージランプも公開！「北欧のあかり展 」3月5日（水）～24日（月）",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vX3dBdFJQaXdVMFVzbDJGZHI5QVVZTHVqaE8yY2dIZGx2RlVna04xMk5kRllPVU9mR2NhRGhCTWhJSFRfMGtKOXYxcUtLMnN5SmtwajR0a19iYVJtZFFyYTlpV0hLM0ZkY2c?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "TECTURE MAG",
-      "cat": "Art",
+      "source": "日刊工業新聞 電子版",
+      "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
+      "title": "グローバルジャパン、ＬＥＤ照明器具展示場、来月オープン",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UenAxWllPRVVWSnhaeGpjTHA4Um1URGdOZXdfODB1aDZ2aGZBTHZkOVQtdEZ5Tlp4aXROaXJIMWphMmJkRGljNDkzdlFkMnh4T3RDRzlONlo?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "美術展ナビ",
+      "source": "アットプレス",
       "cat": "Art",
       "date": "2026.10.25",
-      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
+      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "朝日新聞",
-      "cat": "Art",
+      "source": "Toshiba Clip",
+      "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
+      "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -178,26 +173,35 @@ window.LUMINO_DATA = {
       "source": "www.axismag.jp",
       "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
+      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "PR TIMES",
-      "cat": "Technology",
-      "date": "2026.10.25",
-      "title": "見え方をデザインする照明技術「SCOI」を開発 | ナルックス株式会社のプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uWTZoaUp4RXR2d3BoejljN1JvSEJGbk9pS3JPcTNGRF9KeUVNMjZvdXBCaTVfRjluc1R3WHhnOVJRZmdBakk2ZEhTN1ZONUNlUExpOS1BZndFRFluWHNUZnJKcXhNZ2FrS1E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Fashionsnap.com",
+      "source": "READYFOR",
       "cat": "Art",
       "date": "2026.10.25",
-      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
+      "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.10.25",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Architecture",
+      "date": "2026.10.25",
+      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -205,8 +209,8 @@ window.LUMINO_DATA = {
       "source": "モダンリビング デジタル",
       "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "ヒュッゲな暮らしを体験！「北欧に学ぶ、夜を照らすあかり展」がTIMBER YARDで開催",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJTSHBWdl9xSnViakhYOFZSODRyU180UEZEdHNPSHlMYmRvRWd6VEJPX2twTjVmUWRLRzROTUxnYnNBZFk3aUFPcnhnSjR6T1VuN25xcncxSll3VE1zTHhTeUswdTdBUmVxNVVaNGxXWjFwUFJPS1lab3FUVmJKbm1LVlcwdw?oc=5",
+      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
       "excerpt": "",
       "today": true
     },
