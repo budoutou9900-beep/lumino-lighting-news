@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.25  21:20",
+  "fetchedAt": "2026.10.25  23:43",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,7 +49,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "Fashionsnap.com": {
+    "fashionsnap.com": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -206,7 +206,7 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Fashionsnap.com",
+      "source": "fashionsnap.com",
       "cat": "Art",
       "date": "2026.10.25",
       "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
