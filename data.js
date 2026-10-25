@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.25  14:43",
+  "fetchedAt": "2026.10.25  18:02",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,49 +21,65 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
+    "ファッションプレス": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "サンレコ": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大林組": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "日テレNEWS NNN": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "デザイン情報サイト[JDN]": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "pronews.com": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "美術展ナビ": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
     "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "美術展ナビ": {
+    "TECTURE MAG": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "デザイン情報サイト[JDN]": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "pronews.com": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "TECTURE MAG": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "DNライティング": {
+    "LPA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "岩崎電気": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "LPA": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
     }
   },
   "articles": [
@@ -122,20 +138,38 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
+      "source": "ファッションプレス",
+      "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "YAMAGIWA×LIGHT & DISHES Lab. 特別展示：VIBIA、NEMOの照明器具を谷田宏江氏が運営する食と光の体感スペースに展示、食空間をコーディネート",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53TXY5VUwzYTZ3QkszTll0LWFQcU5UT3RIaEpxYVhNQzJkMGphOFhhak5UaTJkTl85WFhHTDAwQllZTlNpMDVQazdzRDVLZ2l1OXdOQWQwcjE?oc=5",
+      "title": "“北欧の名作照明”80点以上を公開「北欧のあかり展」東京＆大阪で、ルイスポールセンやレ・クリントなど",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ISjJGRFY4T2dwS2FrX0s0NEdNQmRkR3kwSXNBcV81Tjl2Q1lxdzh0S09wYkJreWRIWVZLLUJZSXpIM1hBeF9sSFJFVkc3dXBjeTV3?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "美術展ナビ",
+      "source": "サンレコ",
       "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
+      "title": "イースペック『機材展2025』〜最新の音響・照明機器を体感できるイベントをレポート！",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMTdEdG1iNGlsazBwaUgyRmxTN0xHRUZFM01aWDNRMUdUYXFKa0pGX1VjVEhKcjZwWnNmdE5vWXNnMXZwWlhjQjQweTJEMWJBaGRqeEZZd3o3dw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "大林組",
+      "cat": "Architecture",
+      "date": "2026.10.25",
+      "title": "2025年大阪・関西万博 パソナグループ×大林組 「未来の医療」エリアに天井照明型手術室『オペルミ®』を展示",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNzJEV2VIZW1wamZadlBBeklPUklPUEh2NHhXM1pRUkdnZHRSRHJheGVVdEMwT3J3VndMRE1ibmlsVVRkaVFhU0lJcW5JVmNHdkJJVlNRUGFkd3V2MkFTeVF6VVM0OUtXNkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "日テレNEWS NNN",
+      "cat": "Art",
+      "date": "2026.10.25",
+      "title": "“インテリアのパリコレ”で特別展示 照明デザイナーの日本人親子がプロデュース（2024年9月6日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1ZzQnNKTUlJYWVjQjZxUjRicXpMSjhURGtkZ25LM1p3MFRaTEZyX2U0bXdZVk1jRDE3U0x4MXRkVVJtdGpTSkFNdzZXTXZmTUE3TEptYUxjZktSQ0UxSHpQRkQ5azRrUXNoX2lEZjVBSlk4bkstZl9vX3FHcnZ6NTg3V1g?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -143,8 +177,8 @@ window.LUMINO_DATA = {
       "source": "デザイン情報サイト[JDN]",
       "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "YAMAGIWAが2年ぶりにミラノデザインウィークに参加、ノリタケの展示で照明コレクションを公開",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZDBUYmZYMjktRzJ4cmlHQTNLb3Qwc083aXFmWk95RDZRM05DMk56ZGxNcVVWOFpDcndUS0FZMUZ6MGEtbWs4NHFWSnVjV19TOU85b3JHRjRsSmdfS0E?oc=5",
+      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -158,11 +192,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デザイン情報サイト[JDN]",
+      "source": "美術展ナビ",
       "cat": "Architecture",
       "date": "2026.10.25",
-      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
+      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -177,28 +211,10 @@ window.LUMINO_DATA = {
     },
     {
       "source": "TECTURE MAG",
-      "cat": "Architecture",
-      "date": "2026.10.25",
-      "title": "ワイ・エス・エム創業30周年記念展「BEHIND THE LIGHT」TIERS GALLERY by arakawagripにて、14の特注照明を展示",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNHA0cHJjb3RvR1RGc09WRjdfTjN3SkFXY1VsUElZNFIwNlFXT2I3Zi1fNmpZRDhsQ0JWaEhrUkxNeko5aHRCV2ozeG03QWdRYTN4M3JRNA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG",
       "cat": "Art",
       "date": "2026.10.25",
       "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術展ナビ",
-      "cat": "Art",
-      "date": "2026.10.25",
-      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
       "excerpt": "",
       "today": true
     },
