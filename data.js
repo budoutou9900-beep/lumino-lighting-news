@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.25  18:02",
+  "fetchedAt": "2026.10.25  21:20",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,65 +21,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ファッションプレス": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "サンレコ": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "大林組": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "日テレNEWS NNN": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "デザイン情報サイト[JDN]": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "pronews.com": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "美術展ナビ": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     },
     "TECTURE MAG（テクチャーマガジン）": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "TECTURE MAG": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "遠藤照明": {
+    "TECTURE MAG": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "美術展ナビ": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "モダンリビング デジタル": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "朝日新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "LPA": {
+    "Fashionsnap.com": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "遠藤照明": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "DNライティング": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "岩崎電気": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "LPA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -138,65 +134,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "ファッションプレス",
-      "cat": "Architecture",
-      "date": "2026.10.25",
-      "title": "“北欧の名作照明”80点以上を公開「北欧のあかり展」東京＆大阪で、ルイスポールセンやレ・クリントなど",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ISjJGRFY4T2dwS2FrX0s0NEdNQmRkR3kwSXNBcV81Tjl2Q1lxdzh0S09wYkJreWRIWVZLLUJZSXpIM1hBeF9sSFJFVkc3dXBjeTV3?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "サンレコ",
-      "cat": "Architecture",
-      "date": "2026.10.25",
-      "title": "イースペック『機材展2025』〜最新の音響・照明機器を体感できるイベントをレポート！",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMTdEdG1iNGlsazBwaUgyRmxTN0xHRUZFM01aWDNRMUdUYXFKa0pGX1VjVEhKcjZwWnNmdE5vWXNnMXZwWlhjQjQweTJEMWJBaGRqeEZZd3o3dw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "大林組",
-      "cat": "Architecture",
-      "date": "2026.10.25",
-      "title": "2025年大阪・関西万博 パソナグループ×大林組 「未来の医療」エリアに天井照明型手術室『オペルミ®』を展示",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNzJEV2VIZW1wamZadlBBeklPUklPUEh2NHhXM1pRUkdnZHRSRHJheGVVdEMwT3J3VndMRE1ibmlsVVRkaVFhU0lJcW5JVmNHdkJJVlNRUGFkd3V2MkFTeVF6VVM0OUtXNkE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "日テレNEWS NNN",
-      "cat": "Art",
-      "date": "2026.10.25",
-      "title": "“インテリアのパリコレ”で特別展示 照明デザイナーの日本人親子がプロデュース（2024年9月6日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1ZzQnNKTUlJYWVjQjZxUjRicXpMSjhURGtkZ25LM1p3MFRaTEZyX2U0bXdZVk1jRDE3U0x4MXRkVVJtdGpTSkFNdzZXTXZmTUE3TEptYUxjZktSQ0UxSHpQRkQ5azRrUXNoX2lEZjVBSlk4bkstZl9vX3FHcnZ6NTg3V1g?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "デザイン情報サイト[JDN]",
       "cat": "Architecture",
       "date": "2026.10.25",
       "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "pronews.com",
-      "cat": "Technology",
-      "date": "2026.10.25",
-      "title": "Harlowe、LEDライト「Sol 5」展示。クラシックデザインと最新技術が融合した照明製品",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMkRENDJJNWhfaGcxc3VHdnhiQUxkeVNvVHR5YUdtT1hXOWJ4ZkFmWG00Y25iZjUzZHRWZEdnV0s5SG1wdExPYjBHV3Btem1XYnQzM3B6dWJJNEdrS0hiMExUTTM?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術展ナビ",
-      "cat": "Architecture",
-      "date": "2026.10.25",
-      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -211,10 +153,64 @@ window.LUMINO_DATA = {
     },
     {
       "source": "TECTURE MAG",
+      "cat": "Architecture",
+      "date": "2026.10.25",
+      "title": "ワイ・エス・エム創業30周年記念展「BEHIND THE LIGHT」TIERS GALLERY by arakawagripにて、14の特注照明を展示",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNHA0cHJjb3RvR1RGc09WRjdfTjN3SkFXY1VsUElZNFIwNlFXT2I3Zi1fNmpZRDhsQ0JWaEhrUkxNeko5aHRCV2ozeG03QWdRYTN4M3JRNA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG",
       "cat": "Art",
       "date": "2026.10.25",
       "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術展ナビ",
+      "cat": "Art",
+      "date": "2026.10.25",
+      "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "モダンリビング デジタル",
+      "cat": "Architecture",
+      "date": "2026.10.25",
+      "title": "ヒュッゲな暮らしを体験！「北欧に学ぶ、夜を照らすあかり展」がTIMBER YARDで開催",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJTSHBWdl9xSnViakhYOFZSODRyU180UEZEdHNPSHlMYmRvRWd6VEJPX2twTjVmUWRLRzROTUxnYnNBZFk3aUFPcnhnSjR6T1VuN25xcncxSll3VE1zTHhTeUswdTdBUmVxNVVaNGxXWjFwUFJPS1lab3FUVmJKbm1LVlcwdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.10.25",
+      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "朝日新聞",
+      "cat": "Art",
+      "date": "2026.10.25",
+      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Fashionsnap.com",
+      "cat": "Art",
+      "date": "2026.10.25",
+      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
       "excerpt": "",
       "today": true
     },
