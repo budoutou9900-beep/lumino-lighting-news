@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.25  10:32",
+  "fetchedAt": "2026.10.25  14:43",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,57 +21,49 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デザイン情報サイト[JDN]": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "pronews.com": {
+    "美術展ナビ": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "TECTURE MAG": {
+    "pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術展ナビ": {
+    "TECTURE MAG": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "朝日新聞": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "岩崎電気": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "YAMAGIWA": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "LPA": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     }
   },
   "articles": [
@@ -126,6 +118,24 @@ window.LUMINO_DATA = {
       "date": "2026.10.25",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Art",
+      "date": "2026.10.25",
+      "title": "YAMAGIWA×LIGHT & DISHES Lab. 特別展示：VIBIA、NEMOの照明器具を谷田宏江氏が運営する食と光の体感スペースに展示、食空間をコーディネート",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53TXY5VUwzYTZ3QkszTll0LWFQcU5UT3RIaEpxYVhNQzJkMGphOFhhak5UaTJkTl85WFhHTDAwQllZTlNpMDVQazdzRDVLZ2l1OXdOQWQwcjE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術展ナビ",
+      "cat": "Architecture",
+      "date": "2026.10.25",
+      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -189,24 +199,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.25",
       "title": "【展覧会の裏側】美術館照明の殿堂・パナソニック汐留美術館で光へのこだわりを聞く",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUTJJVjhITG43NngwTHRReFdCTlg1ZzJRcm9JQ2QzTDhacHNaWjZyUGF2RkpnLU1TRG1QU0t2bmN2UjAxUkJVTmNKU1VYZy1BOGxKNENtWjFtaG0yVktfMmRQalJGSFRTZ25mNg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "朝日新聞",
-      "cat": "Art",
-      "date": "2026.10.25",
-      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.10.25",
-      "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
       "excerpt": "",
       "today": true
     },
