@@ -1,59 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.29  22:19",
+  "fetchedAt": "2026.10.30  02:20",
   "sourceColors": {
-    "pronews.com": {
+    "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "神戸新聞": {
+    "マイナビニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "マイナビニュース": {
+    "美術館・アート情報": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "GLOBAL PRODUCE": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "美術館・アート情報": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "アットプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "日刊工業新聞 電子版": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アットプレス": {
+    "リフォーム産業新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "日刊工業新聞 電子版": {
+    "Toshiba Clip": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "リフォーム産業新聞": {
+    "www.axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Toshiba Clip": {
+    "READYFOR": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "TECTURE MAG": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "READYFOR": {
+    "家電 Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "TECTURE MAG": {
+    "やしおん": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -80,18 +80,9 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "Architecture",
-      "date": "2026.10.29",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "神戸新聞",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
       "excerpt": "",
@@ -100,25 +91,16 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "Architecture",
-      "date": "2026.10.29",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "美術館・アート情報",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "最適な照明、光をつくり出す：岡安泉",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
       "excerpt": "",
@@ -127,7 +109,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "Art",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -136,7 +118,7 @@ window.LUMINO_DATA = {
     {
       "source": "デジカメ Watch",
       "cat": "Art",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "東松照明写真展「太陽の鉛筆」 （キヤノンオープンギャラリー）",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56RXZ6Q0tvOUV3OHBXOXo4Y1R0bXE3a29obUpBNjNmdVc2ckRfQjhHZWtuNC10dE04V3JPaVRybTZRMUNFUXpqWXdtR0swY3JoMW1PY3JyTTNCNXF3aGFoY2lR?oc=5",
       "excerpt": "",
@@ -145,7 +127,7 @@ window.LUMINO_DATA = {
     {
       "source": "アットプレス",
       "cat": "Art",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
       "excerpt": "",
@@ -154,7 +136,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "Art",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "LED照明の進化と有機EL照明時代を実感できる!? 照明展示会「LED Next Stage 2014」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45dUd6cW9STGZjYTMweEhjVXhMUGtiUkRCN0k0MFRVMWhIa3hoMUxFdmthdW9mbTM1cWp2cmJsaTg0Rm1WLVQ5eVdJY2RtV0xjM3FUb0hWdFZaaE1LbWc?oc=5",
       "excerpt": "",
@@ -163,7 +145,7 @@ window.LUMINO_DATA = {
     {
       "source": "日刊工業新聞 電子版",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "グローバルジャパン、ＬＥＤ照明器具展示場、来月オープン",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UenAxWllPRVVWSnhaeGpjTHA4Um1URGdOZXdfODB1aDZ2aGZBTHZkOVQtdEZ5Tlp4aXROaXJIMWphMmJkRGljNDkzdlFkMnh4T3RDRzlONlo?oc=5",
       "excerpt": "",
@@ -172,7 +154,7 @@ window.LUMINO_DATA = {
     {
       "source": "リフォーム産業新聞",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "DNライティング、照明の「確認」「実験」「体感」ができるショールームが注目集める",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cWU2WFRSMWQwUjZKbmNhLWp0WGZhT216QVk4dHVBZUtabk05ZDZhcWxkaUtUTERCemhQeE1sUzcxTDJSZVJGemoyRFc5bUM1VUQyX3lwWU1CSF9SR2RSYzlHYkRFVjA?oc=5",
       "excerpt": "",
@@ -181,7 +163,7 @@ window.LUMINO_DATA = {
     {
       "source": "Toshiba Clip",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
       "excerpt": "",
@@ -190,7 +172,7 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
       "excerpt": "",
@@ -199,7 +181,7 @@ window.LUMINO_DATA = {
     {
       "source": "READYFOR",
       "cat": "Art",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
       "excerpt": "",
@@ -208,9 +190,27 @@ window.LUMINO_DATA = {
     {
       "source": "TECTURE MAG",
       "cat": "Architecture",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.10.30",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "やしおん",
+      "cat": "Architecture",
+      "date": "2026.10.30",
+      "title": "八潮発の特注照明メーカーY.S.M、表参道で新作展「BEHIND THE LIGHT Vol.2」開催",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cWIxa2doVFRTRVRpNUwtdENnV1AzV242SDdTem45aUJCT09aemI4ckFuY2RXVE1YdlZDaWhvZzhwOWtW?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -403,17 +403,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
       "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "遠藤照明",
-      "cat": "Technology",
-      "date": "2026.09.15",
-      "title": "セミナー「商空間のこれからをつくる光 ― 事例から考える、照明の新しい役割」",
-      "url": "https://www.endo-lighting.co.jp/news/20260915-01/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/c078cc51b0adccaa.jpg",
-      "remoteThumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/09/shokukan_top_2560.png",
       "today": false
     }
   ]
