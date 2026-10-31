@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.31  07:53",
+  "fetchedAt": "2026.10.31  14:12",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -9,39 +9,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術館・アート情報": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "中日新聞Web": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "デジカメ Watch": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットプレス": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "日刊工業新聞 電子版": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Toshiba Clip": {
+    "日刊工業新聞 電子版": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "リフォーム産業新聞": {
+    "Toshiba Clip": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "www.axismag.jp": {
+    "リフォーム産業新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "READYFOR": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -53,29 +53,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "家電 Watch": {
+    "大光電機": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -98,11 +94,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術館・アート情報",
+      "source": "PR TIMES",
       "cat": "Architecture",
       "date": "2026.10.31",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.10.31",
+      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "中日新聞Web",
+      "cat": "Art",
+      "date": "2026.10.31",
+      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -125,20 +139,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットプレス",
-      "cat": "Art",
-      "date": "2026.10.31",
-      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "マイナビニュース",
       "cat": "Art",
       "date": "2026.10.31",
       "title": "LED照明の進化と有機EL照明時代を実感できる!? 照明展示会「LED Next Stage 2014」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45dUd6cW9STGZjYTMweEhjVXhMUGtiUkRCN0k0MFRVMWhIa3hoMUxFdmthdW9mbTM1cWp2cmJsaTg0Rm1WLVQ5eVdJY2RtV0xjM3FUb0hWdFZaaE1LbWc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットプレス",
+      "cat": "Art",
+      "date": "2026.10.31",
+      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -179,15 +193,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "READYFOR",
-      "cat": "Art",
-      "date": "2026.10.31",
-      "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
       "date": "2026.10.31",
@@ -202,15 +207,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.31",
       "title": "照明展示会はLED製品が主役の時代に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQkU1YjJEUGREeWpBQXdOU2pGSGtURHpMUGt4WVZXM21VbXBuekhLZGt2MWhqSnNyblFQQ09vaTVPbmhpYUZqUFN5djJIRXZwdXA2SjRRbTFieVZfc1BIdGVXZ0NLQWRwbjVrOVByM3J2bmEy?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "家電 Watch",
-      "cat": "Art",
-      "date": "2026.10.31",
-      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
       "excerpt": "",
       "today": true
     },
