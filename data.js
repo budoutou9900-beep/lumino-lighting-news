@@ -1,59 +1,59 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.10.31  01:21",
+  "fetchedAt": "2026.10.31  07:53",
   "sourceColors": {
-    "pronews.com": {
+    "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "神戸新聞": {
+    "マイナビニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "マイナビニュース": {
+    "美術館・アート情報": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "GLOBAL PRODUCE": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "美術館・アート情報": {
+    "デジカメ Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "アットプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "日刊工業新聞 電子版": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アットプレス": {
+    "Toshiba Clip": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "日刊工業新聞 電子版": {
+    "リフォーム産業新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Toshiba Clip": {
+    "www.axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "リフォーム産業新聞": {
+    "READYFOR": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "READYFOR": {
+    "日経クロステック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "家電 Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -80,15 +80,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "pronews.com",
-      "cat": "Architecture",
-      "date": "2026.10.31",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "神戸新聞",
       "cat": "Architecture",
       "date": "2026.10.31",
@@ -103,15 +94,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.31",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "GLOBAL PRODUCE",
-      "cat": "Architecture",
-      "date": "2026.10.31",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -211,6 +193,24 @@ window.LUMINO_DATA = {
       "date": "2026.10.31",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "日経クロステック",
+      "cat": "Art",
+      "date": "2026.10.31",
+      "title": "照明展示会はLED製品が主役の時代に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQkU1YjJEUGREeWpBQXdOU2pGSGtURHpMUGt4WVZXM21VbXBuekhLZGt2MWhqSnNyblFQQ09vaTVPbmhpYUZqUFN5djJIRXZwdXA2SjRRbTFieVZfc1BIdGVXZ0NLQWRwbjVrOVByM3J2bmEy?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.10.31",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
       "excerpt": "",
       "today": true
     },
