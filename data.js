@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.01  20:04",
+  "fetchedAt": "2026.11.02  00:09",
   "sourceColors": {
     "神戸新聞": {
       "bg": "rgba(247,195,86,0.14)",
@@ -41,11 +41,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "fashionsnap.com": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "fashionsnap.com": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -74,7 +74,7 @@ window.LUMINO_DATA = {
     {
       "source": "神戸新聞",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "照明装飾を気軽に制作体験 赤穂の「幸灯工房」移転 | おでかけトピック | 兵庫おでかけプラス",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUszQXdjMXBXX0pDa3RGeVRyNHJFeVdsSHowMWtNQ3AwdDFtYzdQUXRTbVpxSnZDZXRJX2liS3o5Q3ZxdWNwcjNIdVJtbnR5bGJZYlJELTRpek5LbmwxSmlUT05GeXhvdkhYNE1sb3MtVEV6XzNBMnhVc1ZMSjNRelJOZUJySmZ2amozR1lvN2daMnQwVnBreGx1aEU0OFk3ei16SEpGRnFlZ2xVcUtjdzVVcmtVZw?oc=5",
       "excerpt": "",
@@ -83,7 +83,7 @@ window.LUMINO_DATA = {
     {
       "source": "マイナビニュース",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
       "excerpt": "",
@@ -92,7 +92,7 @@ window.LUMINO_DATA = {
     {
       "source": "美術館・アート情報",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "最適な照明、光をつくり出す：岡安泉",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
       "excerpt": "",
@@ -101,7 +101,7 @@ window.LUMINO_DATA = {
     {
       "source": "ADF Web Magazine",
       "cat": "Art",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
       "excerpt": "",
@@ -110,7 +110,7 @@ window.LUMINO_DATA = {
     {
       "source": "モダンリビング デジタル",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "ヒュッゲな暮らしを体験！「北欧に学ぶ、夜を照らすあかり展」がTIMBER YARDで開催",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJTSHBWdl9xSnViakhYOFZSODRyU180UEZEdHNPSHlMYmRvRWd6VEJPX2twTjVmUWRLRzROTUxnYnNBZFk3aUFPcnhnSjR6T1VuN25xcncxSll3VE1zTHhTeUswdTdBUmVxNVVaNGxXWjFwUFJPS1lab3FUVmJKbm1LVlcwdw?oc=5",
       "excerpt": "",
@@ -119,7 +119,7 @@ window.LUMINO_DATA = {
     {
       "source": "デザイン情報サイト[JDN]",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "YAMAGIWAが2年ぶりにミラノデザインウィークに参加、ノリタケの展示で照明コレクションを公開",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZDBUYmZYMjktRzJ4cmlHQTNLb3Qwc083aXFmWk95RDZRM05DMk56ZGxNcVVWOFpDcndUS0FZMUZ6MGEtbWs4NHFWSnVjV19TOU85b3JHRjRsSmdfS0E?oc=5",
       "excerpt": "",
@@ -128,7 +128,7 @@ window.LUMINO_DATA = {
     {
       "source": "デザイン情報サイト[JDN]",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
       "excerpt": "",
@@ -137,7 +137,7 @@ window.LUMINO_DATA = {
     {
       "source": "AXIS",
       "cat": "Art",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "倉俣史朗デザインの照明「Hydrogen Dream」 世田谷美術館の展覧展に合わせて復刻",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUGdBdWdvdGd0bmJGX1JKWEF1VnhtVm9JeFJ3cXBFNHpSVmxrTHpfaWtXbDBySFRUbjhHUWR0NTdDaE9hYnpiMVJQLXlmdkFtTXlOM2tMOTdiMVVR?oc=5",
       "excerpt": "",
@@ -146,7 +146,7 @@ window.LUMINO_DATA = {
     {
       "source": "朝日新聞",
       "cat": "Art",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
       "excerpt": "",
@@ -155,7 +155,7 @@ window.LUMINO_DATA = {
     {
       "source": "PHILE WEB",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "YAMAGIWA初のポータブル照明「SOLO」、人とともに移動してどんな環境でもパーソナルな空間をつくりだす",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVEhoRC15TmZDODRpWm1PdWFjSjNFVjZsbFBYbmk4VmRRUGw0RUpKUFFBVmdKcHFHNkxxcDVDTnY1Yi1Id0lIajA4bEsxVHk5cklIek5MN0tGaWhIcXpkajZ2Ymg4TFU3bkE?oc=5",
       "excerpt": "",
@@ -164,7 +164,7 @@ window.LUMINO_DATA = {
     {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "ワイ・エス・エム創業30周年記念展「BEHIND THE LIGHT」TIERS GALLERY by arakawagripにて、14の特注照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNHA0cHJjb3RvR1RGc09WRjdfTjN3SkFXY1VsUElZNFIwNlFXT2I3Zi1fNmpZRDhsQ0JWaEhrUkxNeko5aHRCV2ozeG03QWdRYTN4M3JRNA?oc=5",
       "excerpt": "",
@@ -173,25 +173,16 @@ window.LUMINO_DATA = {
     {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "fashionsnap.com",
-      "cat": "Art",
-      "date": "2026.11.01",
-      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Art",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "レガレリーア / 長谷川雅紀特注照明展「縞」 - 1台からオーダー照明の制作に対応している特注照明メーカーの展示会、TIERS GALLERYにて12/11まで",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWC1ZYnBwZER4SGJBN0VmdzRpN2FwM1NsMEprN0lxN0tkWkN5b21uNENkOTh4SDVYOTdQclhUYnRwaVdGbFZTRWQ5OUVQZTJEb2UwTW9heWI?oc=5",
       "excerpt": "",
@@ -200,9 +191,18 @@ window.LUMINO_DATA = {
     {
       "source": "www.axismag.jp",
       "cat": "Architecture",
-      "date": "2026.11.01",
+      "date": "2026.11.02",
       "title": "ワイ・エス・エムと7組のデザイナーによる 照明展「BEHIND THE LIGHT」開催",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZklCY1l3ZU1kNmEtektHVnFnbEJXNWVBZGlQSDFWOEJGR3JIaUdJcGxuSE1lZ1ZJdldrb19PRkVnS2VQNnZqZUU3UDlRd01JZDFLTWhnb3F3OThT?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "fashionsnap.com",
+      "cat": "Art",
+      "date": "2026.11.02",
+      "title": "池尻大橋「OFS. TOKYO」が照明とキャンドルの企画展を開催 国内外の作家やブランドが集結",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ncWdjWFVZbTdpcDVaQmp3MEFybGhMcUlSQkpSSlJvMXhSd2FhdmVRMFlEY1J3RW5saUxLS1l5Qld1YWpfOVJGY01ORl82X3lNME45R2w0bVd2Z2lyUUhlUDhjR1NBaVNYOHZwLWVmT0tZNkU0cy1J?oc=5",
       "excerpt": "",
       "today": true
     },
