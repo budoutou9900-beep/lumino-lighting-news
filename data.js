@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.04  16:45",
+  "fetchedAt": "2026.11.04  22:21",
   "sourceColors": {
     "PR TIMES": {
       "bg": "rgba(247,195,86,0.14)",
