@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.04  08:27",
+  "fetchedAt": "2026.11.04  16:45",
   "sourceColors": {
     "PR TIMES": {
       "bg": "rgba(247,195,86,0.14)",
@@ -45,11 +45,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "家電 Watch": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "家電 Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -193,6 +193,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Architecture",
+      "date": "2026.11.04",
+      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "家電 Watch",
       "cat": "Art",
       "date": "2026.11.04",
@@ -202,12 +211,14 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "TECTURE MAG（テクチャーマガジン）",
+      "source": "DNライティング",
       "cat": "Architecture",
       "date": "2026.11.04",
-      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "title": "一部フォームのファイル添付機能の復旧について",
+      "url": "https://www.dnlighting.co.jp/media/news/1104",
       "excerpt": "",
+      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
     },
     {
@@ -377,17 +388,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/fde3c054ddd2e890.jpg",
       "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Architecture",
-      "date": "2026.10.09",
-      "title": "お客様サポートの「よくある質問」と「トラブルシューティング」を更新しました。",
-      "url": "https://www.dnlighting.co.jp/media/news/20261009",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
