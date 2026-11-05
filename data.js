@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.05  03:01",
+  "fetchedAt": "2026.11.05  11:46",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PR TIMES": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -53,29 +53,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "モダンリビング デジタル": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "岩崎電気": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
     }
   },
   "articles": [
@@ -98,15 +94,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "GLOBAL PRODUCE",
-      "cat": "Architecture",
-      "date": "2026.11.05",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "jp.pronews.com",
       "cat": "Architecture",
       "date": "2026.11.05",
@@ -116,11 +103,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "GLOBAL PRODUCE",
+      "cat": "Architecture",
+      "date": "2026.11.05",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "美術館・アート情報",
       "cat": "Architecture",
       "date": "2026.11.05",
       "title": "最適な照明、光をつくり出す：岡安泉",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.11.05",
+      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -206,24 +211,26 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "モダンリビング デジタル",
+      "source": "DNライティング",
       "cat": "Architecture",
       "date": "2026.11.05",
-      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
+      "title": "DNライトナビ システムメンテナンスのお知らせ",
+      "url": "https://www.dnlighting.co.jp/media/news/20261105",
       "excerpt": "",
+      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
     },
     {
       "source": "DNライティング",
       "cat": "Architecture",
-      "date": "2026.11.04",
-      "title": "一部フォームのファイル添付機能の復旧について",
+      "date": "2026.11.05",
+      "title": "【更新】フォームのファイル添付機能の復旧について",
       "url": "https://www.dnlighting.co.jp/media/news/1104",
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
+      "today": true
     },
     {
       "source": "DNライティング",
@@ -325,17 +332,6 @@ window.LUMINO_DATA = {
       "date": "2026.10.23",
       "title": "一部フォームにおけるファイル添付機能の一時停止について",
       "url": "https://www.dnlighting.co.jp/media/news/1023",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Technology",
-      "date": "2026.10.23",
-      "title": "屋外用LEDモジュール「FXC-WP」の施工ポイントを紹介する解説動画を公開しました。",
-      "url": "https://www.dnlighting.co.jp/media/news/20261022",
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
