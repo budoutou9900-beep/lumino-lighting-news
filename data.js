@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.06  07:34",
+  "fetchedAt": "2026.11.06  15:34",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,11 +17,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "PR TIMES": {
+    "ADF Web Magazine": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -49,33 +49,37 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "家電 Watch": {
+    "日経クロステック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "家電 Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -121,15 +125,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.06",
       "title": "最適な照明、光をつくり出す：岡安泉",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Architecture",
-      "date": "2026.11.06",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -202,6 +197,15 @@ window.LUMINO_DATA = {
       "date": "2026.11.06",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "日経クロステック",
+      "cat": "Art",
+      "date": "2026.11.06",
+      "title": "照明展示会はLED製品が主役の時代に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQkU1YjJEUGREeWpBQXdOU2pGSGtURHpMUGt4WVZXM21VbXBuekhLZGt2MWhqSnNyblFQQ09vaTVPbmhpYUZqUFN5djJIRXZwdXA2SjRRbTFieVZfc1BIdGVXZ0NLQWRwbjVrOVByM3J2bmEy?oc=5",
       "excerpt": "",
       "today": true
     },
