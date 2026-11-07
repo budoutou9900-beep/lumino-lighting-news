@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.07  01:31",
+  "fetchedAt": "2026.11.07  08:09",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,39 +21,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "PR TIMES": {
+    "デジカメ Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デジカメ Watch": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アットプレス": {
+    "Toshiba Clip": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Toshiba Clip": {
+    "リフォーム産業新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "リフォーム産業新聞": {
+    "www.axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "www.axismag.jp": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "日経クロステック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "日経クロステック": {
+    "家電 Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "家電 Watch": {
+    "モダンリビング デジタル": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -61,17 +61,25 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大光電機": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
+    },
+    "大光電機": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -126,15 +134,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.07",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Art",
-      "date": "2026.11.07",
-      "title": "ガラスメーカーfresco(フレスコ)の照明展示会を開催【WELL(ウェル)新宿ショールーム】",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PM2RxdEVLNlBCdGRRbTNmUGtiMHoxVkFRRXdGSXpFbkdSMTNQeE5WaTNtVzg2TUN0MHNDaEdpT05HZUV5Qk1DM0FHQ0FtZ1JFRHR4Tm93OW9uZ01nWEFoUnRWTVl1TkJEVkE?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -211,6 +210,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "モダンリビング デジタル",
+      "cat": "Architecture",
+      "date": "2026.11.07",
+      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "遠藤照明",
       "cat": "Technology",
       "date": "2026.11.06",
@@ -219,6 +227,15 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/651d9765440483b7.jpg",
       "remoteThumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/11/smart_building1-2.png",
+      "today": false
+    },
+    {
+      "source": "シリウスライティングオフィス",
+      "cat": "Architecture",
+      "date": "2026.11.05",
+      "title": "あ",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1465/",
+      "excerpt": "",
       "today": false
     },
     {
@@ -255,6 +272,17 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.11.02",
+      "title": "ショップ・ショールーム冬期休業のお知らせ（12/27～1/3）",
+      "url": "https://www.yamagiwa.co.jp/news/80469/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
       "source": "大光電機",
       "cat": "Technology",
       "date": "2026.11.02",
@@ -274,6 +302,17 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/c4abca0d743d3067.jpg",
       "remoteThumbnailUrl": "https://src.lighting-daiko.co.jp/iportal/designCustomize/type_DKDDPC01/images/text_skip_top.gif",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.10.27",
+      "title": "DESIGNART TOKYO 2026 「AUTOBAHN – The Design Store」に参加（10/30-11/3）",
+      "url": "https://www.yamagiwa.co.jp/news/80421/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/8da2f067b3b77ce9.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/PECO-POCO_2026_TSD_detailC-937x1024.jpg",
       "today": false
     },
     {
@@ -358,6 +397,28 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.10.19",
+      "title": "YAMAGIWA NAGOYA 営業体制変更のご案内（10/19～）",
+      "url": "https://www.yamagiwa.co.jp/news/80407/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.10.15",
+      "title": "内省と没頭を照らしだす照明「SOLO」が「2026年度グッドデザイン賞」を受賞",
+      "url": "https://www.yamagiwa.co.jp/news/80387/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/fde3c054ddd2e890.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
+      "today": false
+    },
+    {
       "source": "岩崎電気",
       "cat": "Technology",
       "date": "2026.10.06",
@@ -366,6 +427,17 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
       "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
+      "today": false
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.09.24",
+      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
+      "url": "https://www.yamagiwa.co.jp/news/80248/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
+      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
