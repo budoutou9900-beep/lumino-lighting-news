@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.08  03:54",
+  "fetchedAt": "2026.11.08  10:59",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -427,17 +427,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
       "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.09.24",
-      "title": "ショップ・ショールーム臨時休業のお知らせ（10/1-2, 10/27）",
-      "url": "https://www.yamagiwa.co.jp/news/80248/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
       "today": false
     }
   ]
