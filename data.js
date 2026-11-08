@@ -1,11 +1,11 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.08  16:57",
+  "fetchedAt": "2026.11.08  20:58",
   "sourceColors": {
-    "マイナビニュース": {
+    "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "マイナビニュース": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -57,36 +57,41 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "やしおん": {
+    "遠藤照明": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "大光電機": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "岩崎電気": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
+    {
+      "source": "jp.pronews.com",
+      "cat": "Architecture",
+      "date": "2026.11.08",
+      "title": "照明：久保田圭[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOHd1MXd2eW9vSGxibWJfU2FGckVzOTk3YVoxZkZhREJFTE9tR3RLX2J0VDMtbGVxY0N5S0EydWNHOG1WalhkM0hLZFpkVzdsdGYyT2FTQ0NkT3hDRDBwNHJCLXg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "マイナビニュース",
       "cat": "Architecture",
@@ -210,15 +215,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.08",
       "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "やしおん",
-      "cat": "Architecture",
-      "date": "2026.11.08",
-      "title": "八潮発の特注照明メーカーY.S.M、表参道で新作展「BEHIND THE LIGHT Vol.2」開催",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cWIxa2doVFRTRVRpNUwtdENnV1AzV242SDdTem45aUJCT09aemI4ckFuY2RXVE1YdlZDaWhvZzhwOWtW?oc=5",
       "excerpt": "",
       "today": true
     },
