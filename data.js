@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.10  01:50",
+  "fetchedAt": "2026.11.10  09:05",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,31 +21,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デジカメ Watch": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットプレス": {
+    "デジカメ Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Toshiba Clip": {
+    "アットプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "リフォーム産業新聞": {
+    "Toshiba Clip": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "www.axismag.jp": {
+    "リフォーム産業新聞": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "日経クロステック": {
+    "www.axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "日経クロステック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,31 +53,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "モダンリビング デジタル": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "YAMAGIWA": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     }
@@ -138,6 +138,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.10",
+      "title": "ガラスメーカーfresco(フレスコ)の照明展示会を開催【WELL(ウェル)新宿ショールーム】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PM2RxdEVLNlBCdGRRbTNmUGtiMHoxVkFRRXdGSXpFbkdSMTNQeE5WaTNtVzg2TUN0MHNDaEdpT05HZUV5Qk1DM0FHQ0FtZ1JFRHR4Tm93OW9uZ01nWEFoUnRWTVl1TkJEVkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "デジカメ Watch",
       "cat": "Art",
       "date": "2026.11.10",
@@ -192,15 +201,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Architecture",
-      "date": "2026.11.10",
-      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "家電 Watch",
       "cat": "Art",
       "date": "2026.11.10",
@@ -210,12 +210,23 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "モダンリビング デジタル",
+      "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
       "date": "2026.11.10",
-      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
+      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "大光電機",
+      "cat": "Technology",
+      "date": "2026.11.10",
+      "title": "納入事例に住宅物件を追加しました。",
+      "url": "https://www2.lighting-daiko.co.jp/case/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/bf9d2b0d8e5f9003.jpg",
+      "remoteThumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": true
     },
     {
@@ -291,17 +302,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
       "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "大光電機",
-      "cat": "Technology",
-      "date": "2026.11.02",
-      "title": "納入事例にオフィス・ショールーム物件、美術館・博物館・スポーツ物件を追加しました。",
-      "url": "https://www2.lighting-daiko.co.jp/case/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/bf9d2b0d8e5f9003.jpg",
-      "remoteThumbnailUrl": "https://www2.lighting-daiko.co.jp/case/common/img/public_thumb362.jpg",
       "today": false
     },
     {
