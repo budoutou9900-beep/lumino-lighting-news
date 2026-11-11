@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.11  02:29",
+  "fetchedAt": "2026.11.11  10:10",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -57,19 +57,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "岩崎電気": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -219,6 +219,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "シリウスライティングオフィス",
+      "cat": "Architecture",
+      "date": "2026.11.11",
+      "title": "【受賞情報】照明学会_照明デザイン分科会主催シンポジウムにて受賞プロジェクトのプレゼンテーションを行いました。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1469/",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "岩崎電気",
       "cat": "Technology",
       "date": "2026.11.11",
@@ -260,15 +269,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/651d9765440483b7.jpg",
       "remoteThumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/11/smart_building1-2.png",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "Architecture",
-      "date": "2026.11.05",
-      "title": "あ",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1465/",
-      "excerpt": "",
       "today": false
     },
     {
