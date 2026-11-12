@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.12  09:06",
+  "fetchedAt": "2026.11.12  17:51",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,7 +49,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "家電 Watch": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -206,11 +206,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "家電 Watch",
-      "cat": "Art",
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Architecture",
       "date": "2026.11.12",
-      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
       "excerpt": "",
       "today": true
     },
