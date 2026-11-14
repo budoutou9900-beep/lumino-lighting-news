@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.14  01:11",
+  "fetchedAt": "2026.11.14  08:28",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,69 +17,61 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "美術館・アート情報": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
+    },
+    "ADF Web Magazine": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "PR TIMES": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "デジカメ Watch": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "アットプレス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "Toshiba Clip": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
-    },
-    "リフォーム産業新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "www.axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "READYFOR": {
+    "リフォーム産業新聞": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "www.axismag.jp": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "家電 Watch": {
+    "READYFOR": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "モダンリビング デジタル": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "YAMAGIWA": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "シリウスライティングオフィス": {
+    "大光電機": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "岩崎電気": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
-    },
-    "大光電機": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "遠藤照明": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
     }
   },
   "articles": [
@@ -120,6 +112,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "美術館・アート情報",
+      "cat": "Architecture",
+      "date": "2026.11.14",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ADF Web Magazine",
       "cat": "Art",
       "date": "2026.11.14",
@@ -134,6 +135,15 @@ window.LUMINO_DATA = {
       "date": "2026.11.14",
       "title": "ガラスメーカーfresco(フレスコ)の照明展示会を開催【WELL(ウェル)新宿ショールーム】",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PM2RxdEVLNlBCdGRRbTNmUGtiMHoxVkFRRXdGSXpFbkdSMTNQeE5WaTNtVzg2TUN0MHNDaEdpT05HZUV5Qk1DM0FHQ0FtZ1JFRHR4Tm93OW9uZ01nWEFoUnRWTVl1TkJEVkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "デジカメ Watch",
+      "cat": "Art",
+      "date": "2026.11.14",
+      "title": "東松照明写真展「太陽の鉛筆」 （キヤノンオープンギャラリー）",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56RXZ6Q0tvOUV3OHBXOXo4Y1R0bXE3a29obUpBNjNmdVc2ckRfQjhHZWtuNC10dE04V3JPaVRybTZRMUNFUXpqWXdtR0swY3JoMW1PY3JyTTNCNXF3aGFoY2lR?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -201,35 +211,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "家電 Watch",
-      "cat": "Art",
-      "date": "2026.11.14",
-      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "モダンリビング デジタル",
-      "cat": "Architecture",
-      "date": "2026.11.14",
-      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.11.13",
-      "title": "システム障害によるメール送受信、お問い合わせフォームの不具合について",
-      "url": "https://www.yamagiwa.co.jp/news/80523/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "DNライティング",
       "cat": "Architecture",
       "date": "2026.11.13",
@@ -238,15 +219,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "シリウスライティングオフィス",
-      "cat": "Architecture",
-      "date": "2026.11.11",
-      "title": "【受賞情報】照明学会_照明デザイン分科会主催シンポジウムにて受賞プロジェクトのプレゼンテーションを行いました。",
-      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1469/",
-      "excerpt": "",
       "today": false
     },
     {
@@ -327,17 +299,6 @@ window.LUMINO_DATA = {
       "today": false
     },
     {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.11.02",
-      "title": "ショップ・ショールーム冬期休業のお知らせ（12/27～1/3）",
-      "url": "https://www.yamagiwa.co.jp/news/80469/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
       "source": "大光電機",
       "cat": "Technology",
       "date": "2026.10.28",
@@ -346,17 +307,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/c4abca0d743d3067.jpg",
       "remoteThumbnailUrl": "https://src.lighting-daiko.co.jp/iportal/designCustomize/type_DKDDPC01/images/text_skip_top.gif",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.10.27",
-      "title": "DESIGNART TOKYO 2026 「AUTOBAHN – The Design Store」に参加（10/30-11/3）",
-      "url": "https://www.yamagiwa.co.jp/news/80421/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/8da2f067b3b77ce9.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/PECO-POCO_2026_TSD_detailC-937x1024.jpg",
       "today": false
     },
     {
@@ -427,28 +377,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/950857f355d993b0.jpg",
       "remoteThumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/10/bim-website.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.10.19",
-      "title": "YAMAGIWA NAGOYA 営業体制変更のご案内（10/19～）",
-      "url": "https://www.yamagiwa.co.jp/news/80407/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/960eda6b341344e4.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2020/12/ogp.png",
-      "today": false
-    },
-    {
-      "source": "YAMAGIWA",
-      "cat": "Technology",
-      "date": "2026.10.15",
-      "title": "内省と没頭を照らしだす照明「SOLO」が「2026年度グッドデザイン賞」を受賞",
-      "url": "https://www.yamagiwa.co.jp/news/80387/",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/fde3c054ddd2e890.jpg",
-      "remoteThumbnailUrl": "https://www.yamagiwa.co.jp/wp-content/uploads/2026/10/SOLO_03_250409_FIX3-1024x682.jpg",
       "today": false
     },
     {
