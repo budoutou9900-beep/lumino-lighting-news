@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.14  15:28",
+  "fetchedAt": "2026.11.14  20:18",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Toshiba Clip": {
+    "リフォーム産業新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "リフォーム産業新聞": {
+    "Toshiba Clip": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -165,20 +165,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "Toshiba Clip",
-      "cat": "Architecture",
-      "date": "2026.11.14",
-      "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "リフォーム産業新聞",
       "cat": "Architecture",
       "date": "2026.11.14",
       "title": "DNライティング、照明の「確認」「実験」「体感」ができるショールームが注目集める",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cWU2WFRSMWQwUjZKbmNhLWp0WGZhT216QVk4dHVBZUtabk05ZDZhcWxkaUtUTERCemhQeE1sUzcxTDJSZVJGemoyRFc5bUM1VUQyX3lwWU1CSF9SR2RSYzlHYkRFVjA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Toshiba Clip",
+      "cat": "Architecture",
+      "date": "2026.11.14",
+      "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
       "excerpt": "",
       "today": true
     },
