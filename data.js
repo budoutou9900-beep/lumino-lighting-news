@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.15  15:12",
+  "fetchedAt": "2026.11.15  20:43",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
