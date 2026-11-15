@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.15  07:27",
+  "fetchedAt": "2026.11.15  15:12",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,19 +29,19 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "東芝": {
+    "アットプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アットプレス": {
+    "リフォーム産業新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "リフォーム産業新聞": {
+    "Toshiba Clip": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Toshiba Clip": {
+    "READYFOR": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,11 +49,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "READYFOR": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "家電 Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -147,15 +147,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "東芝",
-      "cat": "Technology",
-      "date": "2026.11.15",
-      "title": "ニュースリリース (2009-02-12)：当社として初めて実施する欧州での照明事業ブランドのコンセプト展示について | ニュース",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMndsMVNnSUxCSjl4TzVQbDRWTXQ4N0pfYlJpcDJjTFZsZlVlNENWaGZDakx6X0ZlcXhWWGpfRlctaVlvQktXMktmbEhSeXJpaEFfRHhvakdYSzhCSTNJck5ha3pUdUxIU1o0aHBrMEFTdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "アットプレス",
       "cat": "Art",
       "date": "2026.11.15",
@@ -192,15 +183,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.11.15",
-      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "READYFOR",
       "cat": "Art",
       "date": "2026.11.15",
@@ -210,11 +192,29 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.11.15",
+      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
       "date": "2026.11.15",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.11.15",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
       "excerpt": "",
       "today": true
     },
