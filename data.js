@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.16  00:38",
+  "fetchedAt": "2026.11.16  07:33",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -237,7 +237,7 @@ window.LUMINO_DATA = {
       "source": "DNライティング",
       "cat": "Architecture",
       "date": "2026.11.13",
-      "title": "【重要】メール受信障害に関するお知らせ",
+      "title": "【復旧のお知らせ】メールサービス障害の解消について",
       "url": "https://www.dnlighting.co.jp/media/news/1113",
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
