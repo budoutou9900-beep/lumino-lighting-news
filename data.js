@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.16  07:33",
+  "fetchedAt": "2026.11.16  17:47",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -37,15 +37,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Toshiba Clip": {
+    "www.axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "READYFOR": {
+    "Toshiba Clip": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "www.axismag.jp": {
+    "READYFOR": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -169,6 +169,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.11.16",
+      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "Toshiba Clip",
       "cat": "Architecture",
       "date": "2026.11.16",
@@ -183,15 +192,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.16",
       "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
-      "date": "2026.11.16",
-      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -220,6 +220,17 @@ window.LUMINO_DATA = {
       "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "YAMAGIWA",
+      "cat": "Technology",
+      "date": "2026.11.16",
+      "title": "スペインインテリア展示会「encounter – between things」にVIBIA日本総代理店として参加",
+      "url": "https://www.yamagiwa.co.jp/news/80552/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/f7bf0c90ce6634c9.jpg",
+      "remoteThumbnailUrl": "https://yamagiwa.instawp.xyz/wp-content/uploads/2026/11/261020_SIDE_Web_WO-Crop-2-2048x2048-1-1024x1024.jpg",
       "today": true
     },
     {
