@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.17  01:26",
+  "fetchedAt": "2026.11.17  10:00",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -29,11 +29,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "リフォーム産業新聞": {
+    "アットプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Toshiba Clip": {
+    "リフォーム産業新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "アットプレス": {
+    "Toshiba Clip": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -49,41 +49,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "家電 Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "モダンリビング デジタル": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "AXIS": {
+    "モダンリビング デジタル": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "シリウスライティングオフィス": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "DNライティング": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "遠藤照明": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
+    },
+    "大光電機": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     }
   },
   "articles": [
@@ -151,20 +155,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "アットプレス",
+      "cat": "Art",
+      "date": "2026.11.17",
+      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "リフォーム産業新聞",
       "cat": "Architecture",
       "date": "2026.11.17",
       "title": "DNライティング、照明の「確認」「実験」「体感」ができるショールームが注目集める",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cWU2WFRSMWQwUjZKbmNhLWp0WGZhT216QVk4dHVBZUtabk05ZDZhcWxkaUtUTERCemhQeE1sUzcxTDJSZVJGemoyRFc5bUM1VUQyX3lwWU1CSF9SR2RSYzlHYkRFVjA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "Toshiba Clip",
-      "cat": "Architecture",
-      "date": "2026.11.17",
-      "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -178,11 +182,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "アットプレス",
-      "cat": "Art",
+      "source": "Toshiba Clip",
+      "cat": "Architecture",
       "date": "2026.11.17",
-      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
+      "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -192,6 +196,15 @@ window.LUMINO_DATA = {
       "date": "2026.11.17",
       "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.11.17",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -214,12 +227,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "AXIS",
+      "source": "LPA",
       "cat": "Architecture",
       "date": "2026.11.17",
-      "title": "照明ブランド「Viabizzuno」日本初上陸 東京ショールームを2025年に開設",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83a2pvOFJoSy1FbHRKd2pmcGNJejlTbHlnZmVPTmltX1pJV0lHdWFwandTaS15RU5XTTFtRDhHc2lVaUVfOUlWSWx3c19sQ0F4Vktjc0hONFNpVEFC?oc=5",
+      "title": "西日本シティビル開業",
+      "url": "https://www.lighting.co.jp/2026/11/17/nishinihoncitybuilding/",
       "excerpt": "",
+      "thumbnailUrl": "images/news/26d6095091e9e05a.jpg",
+      "remoteThumbnailUrl": "https://www.lighting.co.jp/wp-content/uploads/2026/11/32A7741-300x200.jpg",
+      "today": true
+    },
+    {
+      "source": "遠藤照明",
+      "cat": "Technology",
+      "date": "2026.11.17",
+      "title": "セミナー「ウェルネスオフィス」を考える ― 健康・知的生産性・企業価値を高める空間づくり ―",
+      "url": "https://www.endo-lighting.co.jp/news/20261117-01/",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/81f27418ab7d1eaf.jpg",
+      "remoteThumbnailUrl": "https://www.endo-lighting.co.jp/endocms/wp-content/uploads/2026/11/welness-office2560.oshirase.png",
       "today": true
     },
     {
