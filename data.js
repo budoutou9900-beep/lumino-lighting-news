@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.18  09:57",
+  "fetchedAt": "2026.11.18  18:40",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,47 +13,47 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "美術館・アート情報": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "住友化学株式会社": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "住友化学株式会社": {
+    "PR TIMES": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "PR TIMES": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "アットプレス": {
+    "リフォーム産業新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "リフォーム産業新聞": {
+    "www.axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "www.axismag.jp": {
+    "Toshiba Clip": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "Toshiba Clip": {
+    "READYFOR": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "READYFOR": {
+    "家電 Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "家電 Watch": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "やしおん": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -120,15 +120,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.18",
       "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術館・アート情報",
-      "cat": "Architecture",
-      "date": "2026.11.18",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -219,6 +210,15 @@ window.LUMINO_DATA = {
       "date": "2026.11.18",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "やしおん",
+      "cat": "Architecture",
+      "date": "2026.11.18",
+      "title": "八潮発の特注照明メーカーY.S.M、表参道で新作展「BEHIND THE LIGHT Vol.2」開催",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cWIxa2doVFRTRVRpNUwtdENnV1AzV242SDdTem45aUJCT09aemI4ckFuY2RXVE1YdlZDaWhvZzhwOWtW?oc=5",
       "excerpt": "",
       "today": true
     },
