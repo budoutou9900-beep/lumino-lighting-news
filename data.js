@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.18  02:00",
+  "fetchedAt": "2026.11.18  09:57",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -49,31 +49,31 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "家電 Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "家電 Watch": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "遠藤照明": {
+    "DNライティング": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "YAMAGIWA": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "DNライティング": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "シリウスライティングオフィス": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -205,6 +205,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.11.18",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
       "date": "2026.11.18",
@@ -214,12 +223,25 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "家電 Watch",
-      "cat": "Art",
+      "source": "シリウスライティングオフィス",
+      "cat": "Architecture",
       "date": "2026.11.18",
-      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "title": "【掲載情報】近代建築 2026年10月号にて下記物件が掲載されております。",
+      "url": "https://www.sirius-ltg.com/news/%e6%9c%aa%e5%88%86%e9%a1%9e/1472/",
       "excerpt": "",
+      "thumbnailUrl": "images/news/309de85286dea02b.jpg",
+      "remoteThumbnailUrl": "https://www.sirius-ltg.com/news/wp-content/uploads/sites/2/2026/11/2855164_o.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "Architecture",
+      "date": "2026.11.18",
+      "title": "納入事例に「水海道まんなかセンター みつかる」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/195",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/296e3a4daaecd8f5.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/195/mtkr_059.jpg",
       "today": true
     },
     {
@@ -422,17 +444,6 @@ window.LUMINO_DATA = {
       "title": "PHPの脆弱性対応に伴う当社Webサイトの一部サービス再開のお知らせ",
       "url": "https://www2.lighting-daiko.co.jp/topics/pdf.cgi?id=623",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Architecture",
-      "date": "2026.10.23",
-      "title": "カスタマーハラスメントおよび就活ハラスメントへの対応について",
-      "url": "https://www.dnlighting.co.jp/media/news/20261023",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": false
     },
     {
