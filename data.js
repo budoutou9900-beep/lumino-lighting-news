@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.19  00:55",
+  "fetchedAt": "2026.11.19  08:18",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -25,27 +25,27 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "アットプレス": {
+    "東芝": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "リフォーム産業新聞": {
+    "アットプレス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "www.axismag.jp": {
+    "リフォーム産業新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "Toshiba Clip": {
+    "www.axismag.jp": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "READYFOR": {
+    "Toshiba Clip": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "家電 Watch": {
+    "READYFOR": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -53,15 +53,15 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "やしおん": {
+    "家電 Watch": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -151,6 +151,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "東芝",
+      "cat": "Technology",
+      "date": "2026.11.19",
+      "title": "ニュースリリース (2009-02-12)：当社として初めて実施する欧州での照明事業ブランドのコンセプト展示について | ニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMndsMVNnSUxCSjl4TzVQbDRWTXQ4N0pfYlJpcDJjTFZsZlVlNENWaGZDakx6X0ZlcXhWWGpfRlctaVlvQktXMktmbEhSeXJpaEFfRHhvakdYSzhCSTNJck5ha3pUdUxIU1o0aHBrMEFTdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "アットプレス",
       "cat": "Art",
       "date": "2026.11.19",
@@ -196,15 +205,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "家電 Watch",
-      "cat": "Art",
-      "date": "2026.11.19",
-      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "TECTURE MAG（テクチャーマガジン）",
       "cat": "Architecture",
       "date": "2026.11.19",
@@ -214,12 +214,34 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "やしおん",
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.11.19",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
       "cat": "Architecture",
       "date": "2026.11.19",
-      "title": "八潮発の特注照明メーカーY.S.M、表参道で新作展「BEHIND THE LIGHT Vol.2」開催",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94cWIxa2doVFRTRVRpNUwtdENnV1AzV242SDdTem45aUJCT09aemI4ckFuY2RXVE1YdlZDaWhvZzhwOWtW?oc=5",
+      "title": "納入事例に「岳見の家」を追加しました。",
+      "url": "https://www.dnlighting.co.jp/case/detail/178",
       "excerpt": "",
+      "thumbnailUrl": "images/news/02280a441b89c7d7.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/178/020TAJ03093-Edit-Pano ToLoLo studio.jpg",
+      "today": true
+    },
+    {
+      "source": "DNライティング",
+      "cat": "Architecture",
+      "date": "2026.11.19",
+      "title": "事例インタビュー「築130年の古民家を次の時代へ｜建築を主役に、光で支える照明計画」を公開しました",
+      "url": "https://www.dnlighting.co.jp/media/news/20261119",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
+      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
       "today": true
     },
     {
@@ -361,28 +383,6 @@ window.LUMINO_DATA = {
       "excerpt": "",
       "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
       "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Architecture",
-      "date": "2026.11.05",
-      "title": "【更新】フォームのファイル添付機能の復旧について",
-      "url": "https://www.dnlighting.co.jp/media/news/1104",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/72387dcf627e10ba.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/dcms_media/image/mega_menu_img01.jpg",
-      "today": false
-    },
-    {
-      "source": "DNライティング",
-      "cat": "Architecture",
-      "date": "2026.11.04",
-      "title": "納入事例に「もたい耳鼻いんこう科クリニック」を追加しました。",
-      "url": "https://www.dnlighting.co.jp/case/detail/177",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/606452ab39ff4c24.jpg",
-      "remoteThumbnailUrl": "https://www.dnlighting.co.jp/case/assets/media/case/177/003TAJ06578-Edit-EditToLoLo.jpg",
       "today": false
     },
     {
