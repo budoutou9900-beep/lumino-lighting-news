@@ -1,98 +1,121 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.20  16:47",
+  "fetchedAt": "2026.11.20  22:55",
   "sourceColors": {
-    "マイナビニュース": {
+    "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
+    },
+    "マイナビニュース": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "GLOBAL PRODUCE": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "美術館・アート情報": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
     },
     "ADF Web Magazine": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "住友化学株式会社": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "PR TIMES": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     },
     "アットプレス": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
     },
     "リフォーム産業新聞": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
     },
     "www.axismag.jp": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "Toshiba Clip": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "READYFOR": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "家電 Watch": {
+    "READYFOR": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "モダンリビング デジタル": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "ファッションプレス": {
+    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "DNライティング": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "大光電機": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
+    {
+      "source": "jp.pronews.com",
+      "cat": "Architecture",
+      "date": "2026.11.20",
+      "title": "照明：久保田圭[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOHd1MXd2eW9vSGxibWJfU2FGckVzOTk3YVoxZkZhREJFTE9tR3RLX2J0VDMtbGVxY0N5S0EydWNHOG1WalhkM0hLZFpkVzdsdGYyT2FTQ0NkT3hDRDBwNHJCLXg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
     {
       "source": "マイナビニュース",
       "cat": "Architecture",
       "date": "2026.11.20",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "jp.pronews.com",
+      "cat": "Architecture",
+      "date": "2026.11.20",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "GLOBAL PRODUCE",
+      "cat": "Architecture",
+      "date": "2026.11.20",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -192,33 +215,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.20",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "家電 Watch",
-      "cat": "Art",
-      "date": "2026.11.20",
-      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "モダンリビング デジタル",
-      "cat": "Architecture",
-      "date": "2026.11.20",
-      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ファッションプレス",
-      "cat": "Art",
-      "date": "2026.11.20",
-      "title": "“照明”の展覧会「101灯のあかり展」兵庫・アクタス六甲店で、フロスやルイスポールセンの名品など",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSRUZUZmNUYzgybm0wY3JscEUxTFptaXktNy01aC1SR0xjbm95QjZHTjBXVkwzbkM3bGwzTmV5dVphaFI3VVctNWVBb2JfVk82Q2c?oc=5",
       "excerpt": "",
       "today": true
     },
