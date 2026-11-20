@@ -1,85 +1,89 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.20  07:58",
+  "fetchedAt": "2026.11.20  16:47",
   "sourceColors": {
     "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "PR TIMES": {
+    "美術館・アート情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
-    },
-    "axismag.jp": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "中日新聞Web": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
     },
     "ADF Web Magazine": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
     },
     "住友化学株式会社": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "PR TIMES": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
     },
     "アットプレス": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
-    },
-    "東芝": {
-      "bg": "rgba(247,195,86,0.14)",
-      "fg": "#f5c560"
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
     },
     "リフォーム産業新聞": {
-      "bg": "rgba(79,209,197,0.14)",
-      "fg": "#5bd6c9"
-    },
-    "www.axismag.jp": {
-      "bg": "rgba(167,139,250,0.16)",
-      "fg": "#b79cf7"
-    },
-    "Toshiba Clip": {
-      "bg": "rgba(110,231,168,0.14)",
-      "fg": "#74e6a6"
-    },
-    "READYFOR": {
-      "bg": "rgba(246,165,176,0.15)",
-      "fg": "#f3a3ae"
-    },
-    "TECTURE MAG（テクチャーマガジン）": {
-      "bg": "rgba(140,180,255,0.15)",
-      "fg": "#9cbcff"
-    },
-    "DNライティング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "www.axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "Toshiba Clip": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "READYFOR": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "家電 Watch": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "モダンリビング デジタル": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "ファッションプレス": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "DNライティング": {
+      "bg": "rgba(247,195,86,0.14)",
+      "fg": "#f5c560"
+    },
+    "シリウスライティングオフィス": {
+      "bg": "rgba(79,209,197,0.14)",
+      "fg": "#5bd6c9"
+    },
+    "LPA": {
+      "bg": "rgba(167,139,250,0.16)",
+      "fg": "#b79cf7"
+    },
+    "遠藤照明": {
+      "bg": "rgba(110,231,168,0.14)",
+      "fg": "#74e6a6"
+    },
+    "YAMAGIWA": {
+      "bg": "rgba(246,165,176,0.15)",
+      "fg": "#f3a3ae"
+    },
+    "岩崎電気": {
+      "bg": "rgba(140,180,255,0.15)",
+      "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -93,38 +97,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "美術館・アート情報",
       "cat": "Architecture",
       "date": "2026.11.20",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Art",
-      "date": "2026.11.20",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "Art",
-      "date": "2026.11.20",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "Art",
-      "date": "2026.11.20",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -165,15 +142,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "東芝",
-      "cat": "Technology",
-      "date": "2026.11.20",
-      "title": "ニュースリリース (2009-02-12)：当社として初めて実施する欧州での照明事業ブランドのコンセプト展示について | ニュース",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMndsMVNnSUxCSjl4TzVQbDRWTXQ4N0pfYlJpcDJjTFZsZlVlNENWaGZDakx6X0ZlcXhWWGpfRlctaVlvQktXMktmbEhSeXJpaEFfRHhvakdYSzhCSTNJck5ha3pUdUxIU1o0aHBrMEFTdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "リフォーム産業新聞",
       "cat": "Architecture",
       "date": "2026.11.20",
@@ -201,6 +169,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "リフォーム産業新聞",
+      "cat": "Technology",
+      "date": "2026.11.20",
+      "title": "LED照明の空間シミュレーション展示開始 東芝ライテック",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJN21HYU9YY3M5eEFLejFqeVl0VUpkeFhGdzZlSDdXZFdXT1ZHaHNDcUswUnlxcUlLdlZNZlRXVG9BM3RTNWhLdThMczlob0JrM1lraDU2N2JIcHQ1eXh0UHFZRkpjZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "READYFOR",
       "cat": "Art",
       "date": "2026.11.20",
@@ -215,6 +192,33 @@ window.LUMINO_DATA = {
       "date": "2026.11.20",
       "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.11.20",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "モダンリビング デジタル",
+      "cat": "Architecture",
+      "date": "2026.11.20",
+      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ファッションプレス",
+      "cat": "Art",
+      "date": "2026.11.20",
+      "title": "“照明”の展覧会「101灯のあかり展」兵庫・アクタス六甲店で、フロスやルイスポールセンの名品など",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSRUZUZmNUYzgybm0wY3JscEUxTFptaXktNy01aC1SR0xjbm95QjZHTjBXVkwzbkM3bGwzTmV5dVphaFI3VVctNWVBb2JfVk82Q2c?oc=5",
       "excerpt": "",
       "today": true
     },
