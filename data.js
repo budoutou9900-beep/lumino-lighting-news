@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.21  03:43",
+  "fetchedAt": "2026.11.21  11:59",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "福井新聞社": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "デザイン情報サイト[JDN]": {
+    "新建ハウジング": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -33,11 +33,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "大林組": {
+    "TECTURE MAG（テクチャーマガジン）": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "美術展ナビ": {
+    "大林組": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
@@ -45,41 +45,45 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "axismag.jp": {
+    "美術展ナビ": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "朝日新聞": {
+    "axismag.jp": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "朝日新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "大光電機": {
+    "岩崎電気": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
+    },
+    "大光電機": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -138,15 +142,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "福井新聞社",
-      "cat": "Art",
-      "date": "2026.11.21",
-      "title": "福井県立恐竜博物館の世界を際立たせる照明の力 特別展「獣脚類」手掛けたプロのこだわりとは",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tQVFFNDZONUh6VmxUREZCbzA4bFZKQ1FqZ2tyRXdwNjRVV3lSTkFKczROM2lBZlFYZnE5M2JfN0E1eE1TdUdXd21objVjXzJWWFh6NlIyYnA1YlZRN3c?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "デザイン情報サイト[JDN]",
       "cat": "Architecture",
       "date": "2026.11.21",
@@ -156,11 +151,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デザイン情報サイト[JDN]",
+      "source": "新建ハウジング",
       "cat": "Architecture",
       "date": "2026.11.21",
-      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
+      "title": "F.L.ライトの照明「タリアセン」のオマージュ作品を展示販売",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTkMzaUw5dWRDQ0tDOUltbWYzam5uYWdEMmV2QlF1YlZILXR4WHRaUG1Nb2tLRkFPY2RUbnF4VTNPUU83aXZXNmkwY2NSYU13MXc?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -174,6 +169,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "TECTURE MAG（テクチャーマガジン）",
+      "cat": "Art",
+      "date": "2026.11.21",
+      "title": "DNライティング「新商品発表オンライン展示会」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ha0hjLUNjbmlRX0tJMzdTRG9iZUN4RUtzNWh6YmxOTnY1TjFvd2VRTXYzN0pFSFVKWXpCbnhMVnhOZ3VlR3FPVE90Z0FicVE3TElpY2t1NA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "大林組",
       "cat": "Architecture",
       "date": "2026.11.21",
@@ -183,20 +187,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術展ナビ",
-      "cat": "Architecture",
-      "date": "2026.11.21",
-      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "PRONEWS",
       "cat": "Technology",
       "date": "2026.11.21",
       "title": "Harlowe、LEDライト「Sol 5」展示。クラシックデザインと最新技術が融合した照明製品",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMkRENDJJNWhfaGcxc3VHdnhiQUxkeVNvVHR5YUdtT1hXOWJ4ZkFmWG00Y25iZjUzZHRWZEdnV0s5SG1wdExPYjBHV3Btem1XYnQzM3B6dWJJNEdrS0hiMExUTTM?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術展ナビ",
+      "cat": "Architecture",
+      "date": "2026.11.21",
+      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
       "excerpt": "",
       "today": true
     },
