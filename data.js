@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.21  18:54",
+  "fetchedAt": "2026.11.21  23:41",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -17,39 +17,39 @@ window.LUMINO_DATA = {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "住友化学株式会社": {
+    "Dellows News": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "アットプレス": {
+    "住友化学株式会社": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "リフォーム産業新聞": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "www.axismag.jp": {
+    "リフォーム産業新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "Toshiba Clip": {
+    "www.axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "READYFOR": {
+    "Toshiba Clip": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "TECTURE MAG": {
+    "READYFOR": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "日経クロステック": {
+    "TECTURE MAG": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "グリーンべると": {
+    "日経クロステック": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -125,6 +125,15 @@ window.LUMINO_DATA = {
       "date": "2026.11.21",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Dellows News",
+      "cat": "Architecture",
+      "date": "2026.11.21",
+      "title": "遠藤照明、12月のスマートビルディングEXPOに出展",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QWWQxWHZjWlpUTFpGRkJ6UkxGREhSVm1zLWJBYzd4eUpUUFlBVm9HeXNHX2RGblp1Q2x6emtvbUU5cl95bUNJ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -206,15 +215,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.21",
       "title": "照明展示会はLED製品が主役の時代に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQkU1YjJEUGREeWpBQXdOU2pGSGtURHpMUGt4WVZXM21VbXBuekhLZGt2MWhqSnNyblFQQ09vaTVPbmhpYUZqUFN5djJIRXZwdXA2SjRRbTFieVZfc1BIdGVXZ0NLQWRwbjVrOVByM3J2bmEy?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "グリーンべると",
-      "cat": "Art",
-      "date": "2026.11.21",
-      "title": "遠藤照明が世界最大のオフィス家具見本市の展示会に出展",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBic2NGblRzM1dSTkZzTjBHdkdvcnNQVzBmTWprNE1VWlo1SWxDa1pyaGJCbDJfMXE3UzA0VUVJWVJpa3FsOThJUlltSEg?oc=5",
       "excerpt": "",
       "today": true
     },
