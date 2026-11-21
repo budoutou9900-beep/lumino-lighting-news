@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.21  11:59",
+  "fetchedAt": "2026.11.21  18:54",
   "sourceColors": {
     "jp.pronews.com": {
       "bg": "rgba(247,195,86,0.14)",
@@ -13,77 +13,73 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "美術館・アート情報": {
+    "ADF Web Magazine": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "ADF Web Magazine": {
+    "住友化学株式会社": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "デザイン情報サイト[JDN]": {
+    "アットプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "新建ハウジング": {
+    "リフォーム産業新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "モダンリビング デジタル": {
+    "www.axismag.jp": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "Toshiba Clip": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "大林組": {
+    "READYFOR": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "PRONEWS": {
+    "TECTURE MAG": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "美術展ナビ": {
+    "日経クロステック": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "axismag.jp": {
+    "グリーンべると": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "朝日新聞": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     },
     "DNライティング": {
+      "bg": "rgba(255,170,120,0.15)",
+      "fg": "#ffaa78"
+    },
+    "シリウスライティングオフィス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "シリウスライティングオフィス": {
+    "LPA": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "LPA": {
+    "遠藤照明": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "遠藤照明": {
+    "YAMAGIWA": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "YAMAGIWA": {
+    "岩崎電気": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "岩崎電気": {
+    "大光電機": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
-    },
-    "大光電機": {
-      "bg": "rgba(255,170,120,0.15)",
-      "fg": "#ffaa78"
     }
   },
   "articles": [
@@ -124,15 +120,6 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "美術館・アート情報",
-      "cat": "Architecture",
-      "date": "2026.11.21",
-      "title": "最適な照明、光をつくり出す：岡安泉",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ADF Web Magazine",
       "cat": "Art",
       "date": "2026.11.21",
@@ -142,83 +129,92 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "デザイン情報サイト[JDN]",
+      "source": "住友化学株式会社",
       "cat": "Architecture",
       "date": "2026.11.21",
-      "title": "YAMAGIWAが2年ぶりにミラノデザインウィークに参加、ノリタケの展示で照明コレクションを公開",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZDBUYmZYMjktRzJ4cmlHQTNLb3Qwc083aXFmWk95RDZRM05DMk56ZGxNcVVWOFpDcndUS0FZMUZ6MGEtbWs4NHFWSnVjV19TOU85b3JHRjRsSmdfS0E?oc=5",
+      "title": "温かみと奥行きを表現する新たな有機EL照明パネルを開発 ～「ライティング・フェア 2017」に出展～",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKTERDakplWUFxbXdqSFdTTTZWdDVZQmlsMThxM2xYdE9FUkViVGlzM290UUx4X1IzNUlUS0YwX21jdUh6QjlFaFk5Q1JuQUU4dVcyRHFkbk9uVmtMYTNJZkptZEY3SGtU?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "新建ハウジング",
-      "cat": "Architecture",
-      "date": "2026.11.21",
-      "title": "F.L.ライトの照明「タリアセン」のオマージュ作品を展示販売",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTkMzaUw5dWRDQ0tDOUltbWYzam5uYWdEMmV2QlF1YlZILXR4WHRaUG1Nb2tLRkFPY2RUbnF4VTNPUU83aXZXNmkwY2NSYU13MXc?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "モダンリビング デジタル",
-      "cat": "Architecture",
-      "date": "2026.11.21",
-      "title": "ヒュッゲな暮らしを体験！「北欧に学ぶ、夜を照らすあかり展」がTIMBER YARDで開催",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJTSHBWdl9xSnViakhYOFZSODRyU180UEZEdHNPSHlMYmRvRWd6VEJPX2twTjVmUWRLRzROTUxnYnNBZFk3aUFPcnhnSjR6T1VuN25xcncxSll3VE1zTHhTeUswdTdBUmVxNVVaNGxXWjFwUFJPS1lab3FUVmJKbm1LVlcwdw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG（テクチャーマガジン）",
+      "source": "アットプレス",
       "cat": "Art",
       "date": "2026.11.21",
-      "title": "DNライティング「新商品発表オンライン展示会」",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ha0hjLUNjbmlRX0tJMzdTRG9iZUN4RUtzNWh6YmxOTnY1TjFvd2VRTXYzN0pFSFVKWXpCbnhMVnhOZ3VlR3FPVE90Z0FicVE3TElpY2t1NA?oc=5",
+      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "大林組",
+      "source": "リフォーム産業新聞",
       "cat": "Architecture",
       "date": "2026.11.21",
-      "title": "2025年大阪・関西万博 パソナグループ×大林組 「未来の医療」エリアに天井照明型手術室『オペルミ®』を展示",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNzJEV2VIZW1wamZadlBBeklPUklPUEh2NHhXM1pRUkdnZHRSRHJheGVVdEMwT3J3VndMRE1ibmlsVVRkaVFhU0lJcW5JVmNHdkJJVlNRUGFkd3V2MkFTeVF6VVM0OUtXNkE?oc=5",
+      "title": "DNライティング、照明の「確認」「実験」「体感」ができるショールームが注目集める",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cWU2WFRSMWQwUjZKbmNhLWp0WGZhT216QVk4dHVBZUtabk05ZDZhcWxkaUtUTERCemhQeE1sUzcxTDJSZVJGemoyRFc5bUM1VUQyX3lwWU1CSF9SR2RSYzlHYkRFVjA?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "PRONEWS",
+      "source": "www.axismag.jp",
+      "cat": "Architecture",
+      "date": "2026.11.21",
+      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "Toshiba Clip",
+      "cat": "Architecture",
+      "date": "2026.11.21",
+      "title": "照明工場をまるごとショールームに！ 「KANUMAあかり館」設立プロジェクト",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN2V0TTkwNEs5Vzh5Z2hCWlZOSTJwb1JCQnJET0hBRTZUOVRMLVRkR3RqOGRqXzRsNWVlcnoxMnpuRzl6c25CUzlBTmRUbGctd3pvdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "リフォーム産業新聞",
       "cat": "Technology",
       "date": "2026.11.21",
-      "title": "Harlowe、LEDライト「Sol 5」展示。クラシックデザインと最新技術が融合した照明製品",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMkRENDJJNWhfaGcxc3VHdnhiQUxkeVNvVHR5YUdtT1hXOWJ4ZkFmWG00Y25iZjUzZHRWZEdnV0s5SG1wdExPYjBHV3Btem1XYnQzM3B6dWJJNEdrS0hiMExUTTM?oc=5",
+      "title": "LED照明の空間シミュレーション展示開始 東芝ライテック",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJN21HYU9YY3M5eEFLejFqeVl0VUpkeFhGdzZlSDdXZFdXT1ZHaHNDcUswUnlxcUlLdlZNZlRXVG9BM3RTNWhLdThMczlob0JrM1lraDU2N2JIcHQ1eXh0UHFZRkpjZw?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "美術展ナビ",
+      "source": "READYFOR",
+      "cat": "Art",
+      "date": "2026.11.21",
+      "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG",
       "cat": "Architecture",
       "date": "2026.11.21",
-      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
+      "title": "BIG、HdM、ミケーレ・デ・ルッキ、ソットサスらがデザインした照明プロダクトが一堂に会したアルテミデ 東京ショールームが東麻布1丁目にオープン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbUtPZmtSTWJ6MXJBWWtLclVQRFhNT0NKRXV1TzFuUDExblpmaGVwNmxQRkxWTTIza0FIbEczSGxIZFhEZnI4TUszWW9ieXBTWElQUmE5Uk5IUEU?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "axismag.jp",
+      "source": "日経クロステック",
       "cat": "Art",
       "date": "2026.11.21",
-      "title": "倉俣史朗デザインの照明「Hydrogen Dream」 世田谷美術館の展覧展に合わせて復刻",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUGdBdWdvdGd0bmJGX1JKWEF1VnhtVm9JeFJ3cXBFNHpSVmxrTHpfaWtXbDBySFRUbjhHUWR0NTdDaE9hYnpiMVJQLXlmdkFtTXlOM2tMOTdiMVVR?oc=5",
+      "title": "照明展示会はLED製品が主役の時代に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQkU1YjJEUGREeWpBQXdOU2pGSGtURHpMUGt4WVZXM21VbXBuekhLZGt2MWhqSnNyblFQQ09vaTVPbmhpYUZqUFN5djJIRXZwdXA2SjRRbTFieVZfc1BIdGVXZ0NLQWRwbjVrOVByM3J2bmEy?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "朝日新聞",
+      "source": "グリーンべると",
       "cat": "Art",
       "date": "2026.11.21",
-      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
+      "title": "遠藤照明が世界最大のオフィス家具見本市の展示会に出展",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBic2NGblRzM1dSTkZzTjBHdkdvcnNQVzBmTWprNE1VWlo1SWxDa1pyaGJCbDJfMXE3UzA0VUVJWVJpa3FsOThJUlltSEg?oc=5",
       "excerpt": "",
       "today": true
     },
