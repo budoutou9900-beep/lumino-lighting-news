@@ -1,55 +1,55 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.23  10:09",
+  "fetchedAt": "2026.11.23  22:24",
   "sourceColors": {
-    "jp.pronews.com": {
+    "PR TIMES": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "マイナビニュース": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "GLOBAL PRODUCE": {
+    "マイナビニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "ADF Web Magazine": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "アットプレス": {
+    "銀座経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "リフォーム産業新聞": {
+    "ADF Web Magazine": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "www.axismag.jp": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "Toshiba Clip": {
+    "リフォーム産業新聞": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "日経クロステック": {
+    "www.axismag.jp": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "TECTURE MAG": {
+    "Toshiba Clip": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "家電 Watch": {
+    "日経クロステック": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "グリーンべると": {
+    "TECTURE MAG": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "モダンリビング デジタル": {
+    "家電 Watch": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
@@ -84,6 +84,15 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.11.23",
+      "title": "癒しから物語へ。照明メーカー ディクラッセ ブランドの新しいコンセプトを発表。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zM0x1QThzZXpnWEJtVk4tUm5aRl96aTIzNUFuOHFTamN1TzRVRTlsZXJaZUxDcEh2dWlOdWNYZE44LUVzRE5CR3lVaUhOVTQzbzU4TlAyZjg1cnktUjZYd0dpdXRlRG1ldHc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "jp.pronews.com",
       "cat": "Architecture",
       "date": "2026.11.23",
@@ -116,6 +125,15 @@ window.LUMINO_DATA = {
       "date": "2026.11.23",
       "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "銀座経済新聞",
+      "cat": "Art",
+      "date": "2026.11.23",
+      "title": "ライティング・アーキテクト・豊久将三さんが光のインスタレーション",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUEdnaDRha250ZGI0LTdpM1ZkUDQwRmxWUGRQU2xRdWI5cV9sSUhqX0Uyc3Y4UjBwblZkZkpLUnRnY0Znd1FxdzVobUFZS0k?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -197,24 +215,6 @@ window.LUMINO_DATA = {
       "date": "2026.11.23",
       "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "グリーンべると",
-      "cat": "Art",
-      "date": "2026.11.23",
-      "title": "遠藤照明が世界最大のオフィス家具見本市の展示会に出展",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBic2NGblRzM1dSTkZzTjBHdkdvcnNQVzBmTWprNE1VWlo1SWxDa1pyaGJCbDJfMXE3UzA0VUVJWVJpa3FsOThJUlltSEg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "モダンリビング デジタル",
-      "cat": "Architecture",
-      "date": "2026.11.23",
-      "title": "イタリアの名門照明ブランド、アルテミデの東京ショールームがオープン！",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYzdIcHB0TDV6aml0ZWpnVXJVYm4ydFlCMDRNRDNRcldEZVBlNjFOaFhfS2o1c0VXTnJDWU9VeGhhT2RHYTZGckJvSXNsMGNWR0NwN2tndWtEeVdGSlZJcjhLc1BqeHVGUnNKNnZEeHpQZGFpRG1XZVBZUEt3S0E?oc=5",
       "excerpt": "",
       "today": true
     },
