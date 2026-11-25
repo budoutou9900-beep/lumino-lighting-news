@@ -1,23 +1,23 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.25  02:54",
+  "fetchedAt": "2026.11.25  11:59",
   "sourceColors": {
-    "マイナビニュース": {
+    "PR TIMES": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "PR TIMES": {
+    "jp.pronews.com": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "銀座経済新聞": {
+    "マイナビニュース": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "axismag.jp": {
+    "GLOBAL PRODUCE": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "中日新聞Web": {
+    "銀座経済新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -25,55 +25,55 @@ window.LUMINO_DATA = {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "新建ハウジング": {
+    "PHILE WEB": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "大林組": {
+    "美術展ナビ": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "デザイン情報サイト[JDN]": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "PHILE WEB": {
+    "pronews.com": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "美術展ナビ": {
+    "axismag.jp": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "デザイン情報サイト[JDN]": {
+    "朝日新聞": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "pronews.com": {
+    "TECTURE MAG": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "DNライティング": {
+    "岩崎電気": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "シリウスライティングオフィス": {
+    "DNライティング": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "LPA": {
+    "シリウスライティングオフィス": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "遠藤照明": {
+    "LPA": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "YAMAGIWA": {
+    "遠藤照明": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "岩崎電気": {
+    "YAMAGIWA": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
@@ -84,6 +84,24 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.11.25",
+      "title": "癒しから物語へ。照明メーカー ディクラッセ ブランドの新しいコンセプトを発表。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zM0x1QThzZXpnWEJtVk4tUm5aRl96aTIzNUFuOHFTamN1TzRVRTlsZXJaZUxDcEh2dWlOdWNYZE44LUVzRE5CR3lVaUhOVTQzbzU4TlAyZjg1cnktUjZYd0dpdXRlRG1ldHc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "jp.pronews.com",
+      "cat": "Architecture",
+      "date": "2026.11.25",
+      "title": "照明：久保田圭[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOHd1MXd2eW9vSGxibWJfU2FGckVzOTk3YVoxZkZhREJFTE9tR3RLX2J0VDMtbGVxY0N5S0EydWNHOG1WalhkM0hLZFpkVzdsdGYyT2FTQ0NkT3hDRDBwNHJCLXg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "マイナビニュース",
       "cat": "Architecture",
       "date": "2026.11.25",
@@ -93,20 +111,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "PR TIMES",
+      "source": "jp.pronews.com",
       "cat": "Architecture",
       "date": "2026.11.25",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
+      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "PR TIMES",
-      "cat": "Art",
+      "source": "GLOBAL PRODUCE",
+      "cat": "Architecture",
       "date": "2026.11.25",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
+      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -120,56 +138,11 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "Art",
-      "date": "2026.11.25",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "Art",
-      "date": "2026.11.25",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ADF Web Magazine",
       "cat": "Art",
       "date": "2026.11.25",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "新建ハウジング",
-      "cat": "Architecture",
-      "date": "2026.11.25",
-      "title": "F.L.ライトの照明「タリアセン」のオマージュ作品を展示販売",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTkMzaUw5dWRDQ0tDOUltbWYzam5uYWdEMmV2QlF1YlZILXR4WHRaUG1Nb2tLRkFPY2RUbnF4VTNPUU83aXZXNmkwY2NSYU13MXc?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "大林組",
-      "cat": "Architecture",
-      "date": "2026.11.25",
-      "title": "2025年大阪・関西万博 パソナグループ×大林組 「未来の医療」エリアに天井照明型手術室『オペルミ®』を展示",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNzJEV2VIZW1wamZadlBBeklPUklPUEh2NHhXM1pRUkdnZHRSRHJheGVVdEMwT3J3VndMRE1ibmlsVVRkaVFhU0lJcW5JVmNHdkJJVlNRUGFkd3V2MkFTeVF6VVM0OUtXNkE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.11.25",
-      "title": "DNライティング「新商品発表オンライン展示会」",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ha0hjLUNjbmlRX0tJMzdTRG9iZUN4RUtzNWh6YmxOTnY1TjFvd2VRTXYzN0pFSFVKWXpCbnhMVnhOZ3VlR3FPVE90Z0FicVE3TElpY2t1NA?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -201,6 +174,15 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "デザイン情報サイト[JDN]",
+      "cat": "Architecture",
+      "date": "2026.11.25",
+      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "pronews.com",
       "cat": "Technology",
       "date": "2026.11.25",
@@ -216,6 +198,35 @@ window.LUMINO_DATA = {
       "title": "倉俣史朗デザインの照明「Hydrogen Dream」 世田谷美術館の展覧展に合わせて復刻",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUGdBdWdvdGd0bmJGX1JKWEF1VnhtVm9JeFJ3cXBFNHpSVmxrTHpfaWtXbDBySFRUbjhHUWR0NTdDaE9hYnpiMVJQLXlmdkFtTXlOM2tMOTdiMVVR?oc=5",
       "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "朝日新聞",
+      "cat": "Art",
+      "date": "2026.11.25",
+      "title": "照明のLED化に新レストラン…三重県立美術館、改修終え魅力アップ [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QenVoRmNDQnkzLUkyN1JlSVpOMnlhZk1nMVF3cWNHVGd6VzJDYnVQYlhvTEVibnJZVk5hNmplVW1XeXVOOW1SWmNoTW1lNEhfSThwT1AwalVIQngzTTRPaXYyekpQeDg?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "TECTURE MAG",
+      "cat": "Art",
+      "date": "2026.11.25",
+      "title": "奈良の照明ブランド・ニューライトポタリーが都内にて展示会「NEW LIGHT POTTERY / TOKYO EXHIBITION」開催",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GR2YtVUszVlpWRWVRQzJkZW9HQmU2RFJYLWtOU1ZESUdHWHVxdkNHQzYtU05oTm9xRkdsRTdOREFnazJRUHR0ckxVNHYyNE1SOWhnUWNHRQ?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "岩崎電気",
+      "cat": "Technology",
+      "date": "2026.11.25",
+      "title": "納入事例 - 横浜市 カメラ付き道路灯及びクラウド管理システムほか",
+      "url": "https://www.iwasaki.co.jp/projects/#News",
+      "excerpt": "",
+      "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
+      "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": true
     },
     {
@@ -449,17 +460,6 @@ window.LUMINO_DATA = {
       "title": "PHPの脆弱性対応に伴う当社Webサイトの一部サービスの一時停止について",
       "url": "https://www2.lighting-daiko.co.jp/topics/pdf.cgi?id=622",
       "excerpt": "",
-      "today": false
-    },
-    {
-      "source": "岩崎電気",
-      "cat": "Technology",
-      "date": "2026.10.20",
-      "title": "納入事例 - 三井ショッピングパーク ららぽーと安城 ほか",
-      "url": "https://www.iwasaki.co.jp/projects/#News",
-      "excerpt": "",
-      "thumbnailUrl": "images/news/22b510dbae1e95ee.jpg",
-      "remoteThumbnailUrl": "https://www.iwasaki.co.jp/shared/images/og_thumb.png",
       "today": false
     },
     {
