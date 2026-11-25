@@ -1,5 +1,5 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.25  11:59",
+  "fetchedAt": "2026.11.25  21:26",
   "sourceColors": {
     "PR TIMES": {
       "bg": "rgba(247,195,86,0.14)",
@@ -21,11 +21,11 @@ window.LUMINO_DATA = {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "美術館・アート情報": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "PHILE WEB": {
+    "ADF Web Magazine": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
@@ -138,20 +138,20 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
+      "source": "美術館・アート情報",
+      "cat": "Architecture",
+      "date": "2026.11.25",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbGZnX25IRmpBNTAxWWl4ajZKNk9XdkducTlQS2pSUVJaQjJPQTZPNGpmbjRyOXJ2eVllTWN3RnN5U1l2VzFETkprR3hlX1g0bWliUWdlV005TG5OVkFR?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
       "source": "ADF Web Magazine",
       "cat": "Art",
       "date": "2026.11.25",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PHILE WEB",
-      "cat": "Architecture",
-      "date": "2026.11.25",
-      "title": "新鮮でユーモアたっぷりの間接照明やブックスタンドを活かして“「住む」をエンターテイメントに”！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11dEVDdmVGT3F3UU82Mkx0YnhFNW43OFNXTjlKOGpJVzN5TjZrUmgta2l3TDI0bEd3c3pwY0JpbmpORDlZeE9BRjdWVmJzWjRYY3RxZEp0QXgtZkJjLWxfVHVBR2ptNnNCdUE?oc=5",
       "excerpt": "",
       "today": true
     },
