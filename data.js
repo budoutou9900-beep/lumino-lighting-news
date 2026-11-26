@@ -1,39 +1,39 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.26  03:54",
+  "fetchedAt": "2026.11.26  13:28",
   "sourceColors": {
-    "PR TIMES": {
+    "マイナビニュース": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "jp.pronews.com": {
+    "銀座経済新聞": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "マイナビニュース": {
+    "ADF Web Magazine": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "GLOBAL PRODUCE": {
+    "ガジェット通信": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "銀座経済新聞": {
+    "PR TIMES": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "axismag.jp": {
+    "住友化学株式会社": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "中日新聞Web": {
+    "アットプレス": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "ADF Web Magazine": {
+    "エンタメ特化型情報メディア スパイス": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "アットプレス": {
+    "美術館・アート情報": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
@@ -41,7 +41,7 @@ window.LUMINO_DATA = {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "www.axismag.jp": {
+    "READYFOR": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -76,65 +76,11 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "PR TIMES",
-      "cat": "Architecture",
-      "date": "2026.11.26",
-      "title": "癒しから物語へ。照明メーカー ディクラッセ ブランドの新しいコンセプトを発表。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zM0x1QThzZXpnWEJtVk4tUm5aRl96aTIzNUFuOHFTamN1TzRVRTlsZXJaZUxDcEh2dWlOdWNYZE44LUVzRE5CR3lVaUhOVTQzbzU4TlAyZjg1cnktUjZYd0dpdXRlRG1ldHc?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "jp.pronews.com",
-      "cat": "Architecture",
-      "date": "2026.11.26",
-      "title": "照明：久保田圭[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOHd1MXd2eW9vSGxibWJfU2FGckVzOTk3YVoxZkZhREJFTE9tR3RLX2J0VDMtbGVxY0N5S0EydWNHOG1WalhkM0hLZFpkVzdsdGYyT2FTQ0NkT3hDRDBwNHJCLXg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "マイナビニュース",
       "cat": "Architecture",
       "date": "2026.11.26",
       "title": "東京都・武蔵野美術大でエットレ・ソットサスがデザインした照明を展示",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43R3dnekxJVnV1RlY1TFl3NnVScVp1U09Md0lUQWF3OGhHQVZaaXYzaUVRc3g3cXpZSElMS1VqSWxpRGtNNDdlaDVxWmNGcF9ubnltM19oVU1XcURmOTYtY0pWaWo?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "jp.pronews.com",
-      "cat": "Architecture",
-      "date": "2026.11.26",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "GLOBAL PRODUCE",
-      "cat": "Architecture",
-      "date": "2026.11.26",
-      "title": "新入社員に聞いてみた！竹村編～目指せ『照明に強いプロデューサー』～",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1RmFHRWxGT2kwR0N5cEUxM3FaekQwX1FGRlhDWG8zOU1uUlMzTnJTLUFUYnRENmx6T1Noem11WFFGSmFPSnlscmtacVY3VkJudFg1eUI4eWoxY00xRW5hSVpuSTdDa1BXSkRWWnVxdHQ?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Architecture",
-      "date": "2026.11.26",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Art",
-      "date": "2026.11.26",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -148,29 +94,74 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "axismag.jp",
-      "cat": "Art",
-      "date": "2026.11.26",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "Art",
-      "date": "2026.11.26",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ADF Web Magazine",
       "cat": "Art",
       "date": "2026.11.26",
       "title": "照明アーティスト 松尾高弘が「The Creation」でLIT Lighting Design Awards 2024で受賞",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEdnaEh5NEU5T1VULUZHMXplZmJRLUV0cFVXUmh2MnJycXpQdHo2WUFlWGdzTWlUMUJlcVRTUmtWcERQX2xlWEloMGoxZXZsazJNWXh0eS1XUEV2TzVEVlQxMEJlNmRFeGRkcUFsWU53WE4zSnozVnIxRFE4dEtBdktMaWU3R3ZyU2JUYnVDV2FXSHdyVVJqMXdWTmRQaEJGVkxHTnZQNkdjQURIOG5lMFFGemxsTjZQWGRGNV9PUmo?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "ガジェット通信",
+      "cat": "Art",
+      "date": "2026.11.26",
+      "title": "恵比寿のギャラリー「HAKO」で、NYのデザインスタジオ・Lichenの照明やインテリアアイテムを紹介する展示会開催！",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xZ3Y4Wno1V2N5bzlENVJkOUZzT2xXZkdXVUxlUG5RQmJmVFVXR201cHpDelAzTTJGdkl2N0tFTXN4enRsaHlQcDNlaw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.11.26",
+      "title": "「ライティング・フェア 2015（第12回国際照明総合展）」パナソニックブースの展示概要と見どころ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Q0M3OUxrNlFPVnlBOVBWd0JGWlk5a0VWM2lhdktuOWh4Z2F4UFZlM0swOWlSSjlCVEl1bjgtUlVQTUdDZTFZS1BjdDc2MW1meFdQcDl4eUJmNUdoNXJ6ZVdxamFtbzhiV0E?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "住友化学株式会社",
+      "cat": "Technology",
+      "date": "2026.11.26",
+      "title": "世界初『デュアルカラーOLED照明パネル』を展示（Light+Building2014）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNjYxRDFFUkFOQmR3d2dzLTkwUWo2MllMZ2pZUG5uRTUzV3VWZzBNVjdxWjVSdTY3YkJ2R1U4S2NuM1VhXzJ6RVNJdjkwbmZUOFdtV1c4NV8tU3VvMjROSm9fS2tuYWpI?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.11.26",
+      "title": "「ライティング・フェア2019（第14回 国際照明総合展）」パナソニックブースの展示概要と見どころ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82NlgwbEpJWEZPVmFhRzdoYzBZWWlkUW9HTncxU1RHSnhjbTd6STFhU2hRRFJ3cFZXdll3YTZxY2FFckM5NnZKcFVRT1hSVU95X1dRLW11bVh0RWFTc1FYSV9WWktNWDg1dkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.26",
+      "title": "【新作展示会(1/16~)】ガラス照明×漆器",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQURWLXYtUFJsb1JxZTM1aEVYbm1ZRW01MFJJbVVoMU4ydDV1QzJrVVhmdWhYdHJfZ3VzYXZlSFI3WFZFMVNwejN3XzB0SElUSzQyRkktUFJZYmNCSHAtdlM5Mms4Um9vM3c?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.26",
+      "title": "ガラスメーカーfresco(フレスコ)の照明展示会を開催【WELL(ウェル)新宿ショールーム】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PM2RxdEVLNlBCdGRRbTNmUGtiMHoxVkFRRXdGSXpFbkdSMTNQeE5WaTNtVzg2TUN0MHNDaEdpT05HZUV5Qk1DM0FHQ0FtZ1JFRHR4Tm93OW9uZ01nWEFoUnRWTVl1TkJEVkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.26",
+      "title": "オリジナルデザインの照明や時計を展開する インターフォルム が2025年秋冬の新作と自社展示会の開催を発表。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSDM3RnZfNEwwN0FyNWh5dFVZYWlrLThZeUlNaHdOSmhLLUdlY0hKWVB3R0htSG83V2NoVXhBVEhKNWNlYW03NVoxckQwUGF2MXV0a3R6eGZEMHdURjlIR2pKYWZER29Qb2c?oc=5",
       "excerpt": "",
       "today": true
     },
@@ -184,29 +175,38 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "マイナビニュース",
+      "source": "エンタメ特化型情報メディア スパイス",
+      "cat": "Art",
+      "date": "2026.11.26",
+      "title": "ポーラ美術館が現代美術の展示を10月1日より開始　国内で初めて展示室全体に有機EL照明を導入",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdUlsb1MwM0c1V01HbVg0akdBdnEzMXdSWW5pbmY2YVVwb0FPV29qbWI3U1FVZ2NWaTFIblFza2dfTFRsMWp3VTl6Sjk5a0XSAVRBVV95cUxPUzZZWjFYSEQ5Z1FXUjI2VkU1WjlWcV9GSEYxcVhTTnBnOFljdXROSExBRXhsbkZtM0lWWHNGZUEybXNORExDMGFsSURMdUhVNVlLeGc?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術館・アート情報",
       "cat": "Architecture",
       "date": "2026.11.26",
-      "title": "新しいデバイスを活かす次世代の照明デザイン - 「東京デザイン照明展」",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOWlBYlU1UDl4RFZEQTVzd3pZQnI3QjRyQXRkT3JDY0ZUQnVmNFI2QkZKdldWVF9fOXM2cmZhYUltckRrZEF0U2E2TUc0NFRKRS1RUFpQUnA5bHpNbE5YeHpkLU9iTHpybDdrRVZB?oc=5",
+      "title": "最適な照明、光をつくり出す：岡安泉",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRVV1cGZYdGRwTG93RjA2cnJfdUNsM29TMFRvNFNTdFRoZmF4MzU2MXh5TEZwWlU1S0xONW9VcHhiRXRibXU5MlFQejFtVkxKZ1gzSTRrT0pQcXZTQWpv?oc=5",
       "excerpt": "",
       "today": true
     },
     {
       "source": "リフォーム産業新聞",
-      "cat": "Architecture",
+      "cat": "Technology",
       "date": "2026.11.26",
-      "title": "DNライティング、照明の「確認」「実験」「体感」ができるショールームが注目集める",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cWU2WFRSMWQwUjZKbmNhLWp0WGZhT216QVk4dHVBZUtabk05ZDZhcWxkaUtUTERCemhQeE1sUzcxTDJSZVJGemoyRFc5bUM1VUQyX3lwWU1CSF9SR2RSYzlHYkRFVjA?oc=5",
+      "title": "LED照明の空間シミュレーション展示開始 東芝ライテック",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJN21HYU9YY3M5eEFLejFqeVl0VUpkeFhGdzZlSDdXZFdXT1ZHaHNDcUswUnlxcUlLdlZNZlRXVG9BM3RTNWhLdThMczlob0JrM1lraDU2N2JIcHQ1eXh0UHFZRkpjZw?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "www.axismag.jp",
-      "cat": "Architecture",
+      "source": "READYFOR",
+      "cat": "Art",
       "date": "2026.11.26",
-      "title": "ショールーム「FLOS SPACE」リニューアルオープン 新しいアイコン的な照明をラインアップ",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR2I4elVVWmlLUXhIb1dKX3ZRX2FBMEJ2b0E1OUtFa19DSnFNQnNKZzZ2anFHTE8tQ3Z3NnFHTHdTcTIxMEc0OGpudTJYV1NrRmRNczItdDAxZjV6?oc=5",
+      "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
       "excerpt": "",
       "today": true
     },
