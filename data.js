@@ -1,47 +1,47 @@
 window.LUMINO_DATA = {
-  "fetchedAt": "2026.11.27  14:36",
+  "fetchedAt": "2026.11.27  23:09",
   "sourceColors": {
-    "jp.pronews.com": {
+    "ADF Web Magazine": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "PR TIMES": {
+    "Excite エキサイト": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "ぴあエンタメ情報": {
+    "PR TIMES": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "axismag.jp": {
+    "住友化学株式会社": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
-    "中日新聞Web": {
+    "東芝": {
       "bg": "rgba(246,165,176,0.15)",
       "fg": "#f3a3ae"
     },
-    "ADF Web Magazine": {
+    "アットプレス": {
       "bg": "rgba(140,180,255,0.15)",
       "fg": "#9cbcff"
     },
-    "大林組": {
+    "リフォーム産業新聞": {
       "bg": "rgba(255,170,120,0.15)",
       "fg": "#ffaa78"
     },
-    "TECTURE MAG（テクチャーマガジン）": {
+    "美術手帖": {
       "bg": "rgba(247,195,86,0.14)",
       "fg": "#f5c560"
     },
-    "美術展ナビ": {
+    "建設通信新聞Digital": {
       "bg": "rgba(79,209,197,0.14)",
       "fg": "#5bd6c9"
     },
-    "デザイン情報サイト[JDN]": {
+    "READYFOR": {
       "bg": "rgba(167,139,250,0.16)",
       "fg": "#b79cf7"
     },
-    "pronews.com": {
+    "家電 Watch": {
       "bg": "rgba(110,231,168,0.14)",
       "fg": "#74e6a6"
     },
@@ -76,69 +76,6 @@ window.LUMINO_DATA = {
   },
   "articles": [
     {
-      "source": "jp.pronews.com",
-      "cat": "Architecture",
-      "date": "2026.11.27",
-      "title": "照明：久保田圭[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOHd1MXd2eW9vSGxibWJfU2FGckVzOTk3YVoxZkZhREJFTE9tR3RLX2J0VDMtbGVxY0N5S0EydWNHOG1WalhkM0hLZFpkVzdsdGYyT2FTQ0NkT3hDRDBwNHJCLXg?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "jp.pronews.com",
-      "cat": "Architecture",
-      "date": "2026.11.27",
-      "title": "照明：酒井隆英[映像人ファイル2021] - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeVR6SEhscHdmTUdXYzhDRGIyMlZGNl9GUjlIczhoRFRyMmhBVG5DYXFqVklLbmdRcUhUYzVNX1UtNlF0ekZJQmtTOTIyMzNHZDkyLThHTkFwU2ZLNTdrNnBaQ2Y?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Architecture",
-      "date": "2026.11.27",
-      "title": "国際的な照明デザインアワード「LIT LIGHTING DESIGN AWARDS 2024」にて\"The Creation\"が最優秀賞を受賞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZl9oNk8wUlVjcUxsOUMyTmxWWnVCS0RLeTlLaEw3MEptam5xT2hTWFFNS0Z4UHpZSXR3NEFIZHN4UTVzU0UwbHB3QUs0aDJtVmdqQlljRzJ0MmpJcGR0WDJxeEhfWDhMa0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "PR TIMES",
-      "cat": "Art",
-      "date": "2026.11.27",
-      "title": "SHISEIDO THE STORE WINDOW GALLERY SAKURA SEASON 東松照明氏による桜のインスタレーション さくら 桜 サクラ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbWZhQUtMYkxvbnFCUzV0cklvam5YMENzZFQzS01EYUZRNGpWQmcxWTd3MUVkSmJ6ck9kR0NRQjZJU002NkIxY2IxbEx5Ujc5RDdoYnRQZ3pKVWFnSEhUV2N1d0s2dEdHWUE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "ぴあエンタメ情報",
-      "cat": "Art",
-      "date": "2026.11.27",
-      "title": "『イサム・ノグチ 発見の道』東京都美術館にて開催中 石彫作品や「あかり」などでその創作の足跡をたどる展覧会",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZX0VaYUxtczlqM1B6T2lBdGMwUzdMVkdUSGRpY2t3RTgzT2ZTRC1DMElnUDdPT2ZCZVV6eGpsSjVzM0xrV2R0MW5fc21LaUctZlpaZGRIT0pla2FNckJBenpLaGxfYklBMTd3N0hEYw?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "Art",
-      "date": "2026.11.27",
-      "title": "SHISEIDO THE STORE ウィンドウギャラリーにて 東松照明のインスタレーション「さくら 桜 サクラ」公開中",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcDdfME1xeGFuWVpETWdxX2dYUFZjT01OYmlLMEV5cUJPbWpxX1VjekhLdVJhX2RjQksxNmNvcVRvTWp2TzM4ZnBhSk5MV3lhM0xsUWpLaGRENm9o?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "中日新聞Web",
-      "cat": "Art",
-      "date": "2026.11.27",
-      "title": "光と影 ＳＦ的世界へ 「特殊照明作家」市川平さん セルフコラボ展",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbVM0Nnp6NFZjcXBtUlQ1OXJLenZZdGp4S2QtZ2tNcnY4Wm9XY2dxaGlJSnBQMUxuTktYbEFvU0hXRjI3TmxHWmN1Y1FEU1dSU2dR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
       "source": "ADF Web Magazine",
       "cat": "Art",
       "date": "2026.11.27",
@@ -148,65 +85,128 @@ window.LUMINO_DATA = {
       "today": true
     },
     {
-      "source": "大林組",
+      "source": "Excite エキサイト",
       "cat": "Architecture",
       "date": "2026.11.27",
-      "title": "2025年大阪・関西万博 パソナグループ×大林組 「未来の医療」エリアに天井照明型手術室『オペルミ®』を展示",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNzJEV2VIZW1wamZadlBBeklPUklPUEh2NHhXM1pRUkdnZHRSRHJheGVVdEMwT3J3VndMRE1ibmlsVVRkaVFhU0lJcW5JVmNHdkJJVlNRUGFkd3V2MkFTeVF6VVM0OUtXNkE?oc=5",
+      "title": "東京国立博物館「大徳寺展」会館中に照明機材落下 客・作品に被害なし、翌日は通常開館",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oMnNJM3FzcHpQeWZ5Vlh6U3ZxRjdTdk1yY2hZcTZ2VUNvY1FWUUZIMUdxWTdOV3VPZWRnbFVuajZHVE1fb3hnaktGTGoxLWxCRGhVbjh1aGp1SVhFSHpQV3Z6WlFYa21lQ2dvcFpKV0Z6S1Q2REdV?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "TECTURE MAG（テクチャーマガジン）",
-      "cat": "Art",
-      "date": "2026.11.27",
-      "title": "DNライティング「新商品発表オンライン展示会」",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ha0hjLUNjbmlRX0tJMzdTRG9iZUN4RUtzNWh6YmxOTnY1TjFvd2VRTXYzN0pFSFVKWXpCbnhMVnhOZ3VlR3FPVE90Z0FicVE3TElpY2t1NA?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "美術展ナビ",
+      "source": "PR TIMES",
       "cat": "Architecture",
       "date": "2026.11.27",
-      "title": "【プレビュー】「北欧のあかり展」日本橋髙島屋S.C.（東京）で3月5日から24日まで 暮らしや建築と調和する心地よいあかりに出会う",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UQzVOc2x3TldOUldNZjJ5WFFZZk5pUThTc3FsUjlRWnlZNlZ4aTlOdTNodUZrRk5WRHFidGlpY2w1cjBjZi1kSmZMcnpYLWdaVHJzLWx3V1VKU1JsN3lqc1FxRWk3cU1N?oc=5",
+      "title": "「ライティング・フェア 2015（第12回国際照明総合展）」パナソニックブースの展示概要と見どころ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Q0M3OUxrNlFPVnlBOVBWd0JGWlk5a0VWM2lhdktuOWh4Z2F4UFZlM0swOWlSSjlCVEl1bjgtUlVQTUdDZTFZS1BjdDc2MW1meFdQcDl4eUJmNUdoNXJ6ZVdxamFtbzhiV0E?oc=5",
       "excerpt": "",
       "today": true
     },
     {
-      "source": "デザイン情報サイト[JDN]",
-      "cat": "Architecture",
-      "date": "2026.11.27",
-      "title": "YAMAGIWAが2年ぶりにミラノデザインウィークに参加、ノリタケの展示で照明コレクションを公開",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZDBUYmZYMjktRzJ4cmlHQTNLb3Qwc083aXFmWk95RDZRM05DMk56ZGxNcVVWOFpDcndUS0FZMUZ6MGEtbWs4NHFWSnVjV19TOU85b3JHRjRsSmdfS0E?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "axismag.jp",
-      "cat": "Art",
-      "date": "2026.11.27",
-      "title": "倉俣史朗デザインの照明「Hydrogen Dream」 世田谷美術館の展覧展に合わせて復刻",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUGdBdWdvdGd0bmJGX1JKWEF1VnhtVm9JeFJ3cXBFNHpSVmxrTHpfaWtXbDBySFRUbjhHUWR0NTdDaE9hYnpiMVJQLXlmdkFtTXlOM2tMOTdiMVVR?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "デザイン情報サイト[JDN]",
-      "cat": "Architecture",
-      "date": "2026.11.27",
-      "title": "\"和の照明\"を再定義する新ブランド「yomosugara」が、ミラノデザインウィーク2025で展示",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZURpaFpCUG9VMlI1QXlZd2JYa2ZfdU1KUkFVdW9OWmFDU2xWU203RS1ITHRZVXpwX3FoWTBVTVRGMUY1QXUyekRQNWEyUTl2emxwOF9VNnQxUUlBREE?oc=5",
-      "excerpt": "",
-      "today": true
-    },
-    {
-      "source": "pronews.com",
+      "source": "住友化学株式会社",
       "cat": "Technology",
       "date": "2026.11.27",
-      "title": "Harlowe、LEDライト「Sol 5」展示。クラシックデザインと最新技術が融合した照明製品",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMkRENDJJNWhfaGcxc3VHdnhiQUxkeVNvVHR5YUdtT1hXOWJ4ZkFmWG00Y25iZjUzZHRWZEdnV0s5SG1wdExPYjBHV3Btem1XYnQzM3B6dWJJNEdrS0hiMExUTTM?oc=5",
+      "title": "世界初『デュアルカラーOLED照明パネル』を展示（Light+Building2014）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNjYxRDFFUkFOQmR3d2dzLTkwUWo2MllMZ2pZUG5uRTUzV3VWZzBNVjdxWjVSdTY3YkJ2R1U4S2NuM1VhXzJ6RVNJdjkwbmZUOFdtV1c4NV8tU3VvMjROSm9fS2tuYWpI?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Architecture",
+      "date": "2026.11.27",
+      "title": "「ライティング・フェア2019（第14回 国際照明総合展）」パナソニックブースの展示概要と見どころ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82NlgwbEpJWEZPVmFhRzdoYzBZWWlkUW9HTncxU1RHSnhjbTd6STFhU2hRRFJ3cFZXdll3YTZxY2FFckM5NnZKcFVRT1hSVU95X1dRLW11bVh0RWFTc1FYSV9WWktNWDg1dkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "【新作展示会(1/16~)】ガラス照明×漆器",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQURWLXYtUFJsb1JxZTM1aEVYbm1ZRW01MFJJbVVoMU4ydDV1QzJrVVhmdWhYdHJfZ3VzYXZlSFI3WFZFMVNwejN3XzB0SElUSzQyRkktUFJZYmNCSHAtdlM5Mms4Um9vM3c?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "ガラスメーカーfresco(フレスコ)の照明展示会を開催【WELL(ウェル)新宿ショールーム】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PM2RxdEVLNlBCdGRRbTNmUGtiMHoxVkFRRXdGSXpFbkdSMTNQeE5WaTNtVzg2TUN0MHNDaEdpT05HZUV5Qk1DM0FHQ0FtZ1JFRHR4Tm93OW9uZ01nWEFoUnRWTVl1TkJEVkE?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "PR TIMES",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "オリジナルデザインの照明や時計を展開する インターフォルム が2025年秋冬の新作と自社展示会の開催を発表。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSDM3RnZfNEwwN0FyNWh5dFVZYWlrLThZeUlNaHdOSmhLLUdlY0hKWVB3R0htSG83V2NoVXhBVEhKNWNlYW03NVoxckQwUGF2MXV0a3R6eGZEMHdURjlIR2pKYWZER29Qb2c?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "東芝",
+      "cat": "Technology",
+      "date": "2026.11.27",
+      "title": "ニュースリリース (2009-02-12)：当社として初めて実施する欧州での照明事業ブランドのコンセプト展示について | ニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMndsMVNnSUxCSjl4TzVQbDRWTXQ4N0pfYlJpcDJjTFZsZlVlNENWaGZDakx6X0ZlcXhWWGpfRlctaVlvQktXMktmbEhSeXJpaEFfRHhvakdYSzhCSTNJck5ha3pUdUxIU1o0aHBrMEFTdw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "アットプレス",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "世界初の金箔を通して青く光る照明を日本で初めて展示販売 進化した日本の伝統文化を愛でる 「掛軸アートと金箔の照明」展を開催",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ek4yeXhZaExQNTRvdHFmcXJnazI5ODBEY216enJKeXVTX1hUVnRpVW9VdWhHWEs0dEFLVDE2VHVPT2xWVUlZMkNpT2ZWZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "リフォーム産業新聞",
+      "cat": "Technology",
+      "date": "2026.11.27",
+      "title": "LED照明の空間シミュレーション展示開始 東芝ライテック",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJN21HYU9YY3M5eEFLejFqeVl0VUpkeFhGdzZlSDdXZFdXT1ZHaHNDcUswUnlxcUlLdlZNZlRXVG9BM3RTNWhLdThMczlob0JrM1lraDU2N2JIcHQ1eXh0UHFZRkpjZw?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "美術手帖",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "東松照明と長崎（長崎県美術館 常設展示室4室）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54dXJzeFRVOTNFX0g4S3pOR2hpUHVDM3lETHFYc2dBRi04QmFDOVlxclF5clQ1eWNKRWVXWUd2a1JaQjFuRjhOaDNUbmxWSml3QzliTA?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "建設通信新聞Digital",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "【岩崎電気】万博＆IRに向けて知名度アップ！ 工場照明設備の展示展示会＋セミナーを開催",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KT0FZWXBNbkJ6Y184MXN0R2RUbnEzWVdQQUZqaFh3ODJsdWRLZ0g3bnEzTFhSTGpaV3dYM1ZuRlZRVl9CTWVNNXJEM3FmNE82Q09nQk1n?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "READYFOR",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "千葉県で一番古い美術館の展示品を守るため照明をＬＥＤにしたい - クラウドファンディング",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05M29pYnkyWEpEelZrVy1haGlUbHVxQ3dicVFISXYwOHQ2YmJvWHptX0oxTDF5LXp6alBCTFNQTENjS2VnVE1qZy1n?oc=5",
+      "excerpt": "",
+      "today": true
+    },
+    {
+      "source": "家電 Watch",
+      "cat": "Art",
+      "date": "2026.11.27",
+      "title": "東芝、ルーヴル美術館「モナ・リザ」の展示照明をLED化 ～外観照明に続き、館内照明にもLED器具を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cXlwcHVzcmZkYm9vcnJEX21lWW43S1JIQ3A4N2NXRF9LTXBnN0NPUDVSSkhJQ1p2NnZEVFk2c1R3YWhxa1M2QXphUDhZak1sMUdDYmwzNTdRRkdBMVUtTEwwdXcwZw?oc=5",
       "excerpt": "",
       "today": true
     },
